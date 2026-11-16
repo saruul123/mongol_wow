@@ -1,0 +1,962 @@
+[
+ {
+  "id": 5544,
+  "t": "Carrion Grubbage",
+  "o": "Seek out the Carrion Grubs and Devourers of the region. Slay them and harvest their meat. Return to Tirion Fordring when you have gathered 15 Slabs of Carrion Worm Meat.$B",
+  "d": "My food supplies are running low, $r. I am ashamed to admit that I might not have enough food to share with you.$B$BCould you assist an old man with a simple task? Around here, the only manner of beast unaffected by the ravages of the Plague are the Carrion worms. While rather bland in taste, the meat of the worms can easily be preserved to last for months. I will need several hundred pounds to restock for the coming winter!",
+  "p": "You will grow to tolerate the taste, $r.",
+  "c": "May the Light watch over you! Bless you, young one."
+ },
+ {
+  "id": 5545,
+  "t": "A Bundle of Trouble",
+  "o": "Bring 8 Bundles of Wood to Raelen at the Eastvale Logging Camp.",
+  "d": "I've got a real problem on my hands. I have a deadline looming for an order of lumber, and I'm running out of time. The wolves and bears north of here have chased my workers away from the bundles of wood that they've already chopped.$B$BI've already talked to Deputy Rainer about clearing the animals, but I need someone to go collect the wood for me. If you could collect eight bundles of wood for me I might just make my deadline.",
+  "p": "That deadline isn't getting any further away, $C. Please hurry and collect those bundles of wood.",
+  "c": "Excellent! Thanks to you, I should be able to complete the order in time. To show my gratitude, I would like to offer some coin as compensation for your troubles.$b$bThank you and farewell."
+ },
+ {
+  "id": 5561,
+  "t": "Kodo Roundup",
+  "o": "Bring five Tamed Kodos and the Kodo Kombobulator back to Smeed Scrabblescrew at Scrabblescrew's Camp.",
+  "d": "Bibbly thinks he is the only goblin in Desolace who knows how to make money.  Well, the only caravan brave enough to travel these parts relies on me.  Ever since I learned how to rejuvenate and control aged and dying kodos with my kodo kombobulator, the caravan owner Cork, Rigger, and I entered a partnership.$B$BTake the kombobulator and use it on any ancient, aged, or dying kodos; it will jolt the beast into a tamed kodo and force it to follow you.  Once you have a kodo tamed, bring it back to me.",
+  "p": "The caravan will be here shortly; do you have the five new tamed kodos I was asking for?",
+  "c": "<Smeed Scrabblescrew begins counting.>$b$bThree, four, and five... excellent, I ask for five tamed kodos and I get five tamed kodos... I am going to be rich... yes, very rich! I hope to see the look on Bibbly's green face when he hears about my success!"
+ },
+ {
+  "id": 5581,
+  "t": "Portals of the Legion",
+  "o": "Banish 6 Portals at Mannoroc Coven and return to Taiga Wisemane at Shadowprey Village.$B",
+  "d": "Behold - the Hand of Iruxos. A gruesome sight indeed.$B$BYou must possess it if the demon portals at Mannoroc Coven are to be banished... which is what I now ask you to do. The Demon threat is increasing and we must close these portals to stem the tide of demons to this world. Good luck, $N... and be wary of the portal guardians.$B",
+  "p": "Have you banished the demon portals at Mannoroc Coven?",
+  "c": "You are to be commended, $N. Your effort has helped greatly in fighting the demon threat, and all of Azeroth is safer because of it."
+ },
+ {
+  "id": 5582,
+  "t": "Healthy Dragon Scale",
+  "o": "Bring the Healthy Dragon Scale to Betina Bigglezink at the Light's Hope Chapel in Eastern Plaguelands.",
+  "d": "This is a scale shed from a plagued dragon hatchling.  But unlike the other pocked, oozing scales on the infant beast, this rare scale is healthy and unmarred.$B$BBetina Bigglezink will want a sample of this to study.",
+  "p": "$N, do you have something to show me?",
+  "c": "Excellent! This will be invaluable in my continued studies of the machinations of the Scourge. Thank you, $N, and if you find more of these scales please bring them to me!"
+ },
+ {
+  "id": 5601,
+  "t": "Sister Pamela",
+  "o": "Find Pamela Redpath in Darrowshire.",
+  "d": "I fled Lordaeron during the great war, and was lucky to escape before the Scourge swept through my homeland and turned it into a plagued nightmare!  I was lucky, but my family was not.  I fear they were all killed during the battle of Darrowshire.$B$BDarrowshire is a village in the Eastern Kingdoms, nestled in the southern hills of what is now the Eastern Plaguelands.  Will you go there and search for my family?  I miss them so much, especially my little sister Pamela.$B$BPlease, find her for me!",
+  "p": "",
+  "c": "Where is my sister Jessica? She left so long ago, when I was just a little girl. She cried so much when she went away. I don't know why she cried! Maybe she fell and hit her toe.$b$bWhen Jessica was here we used to play games and dance and pick pretty flowers around the house. And sometimes we'd hide when we saw daddy coming home, then jump out and surprise him!$b$bCome back, Jessica! If you come back then maybe daddy will too and we can all play together again..."
+ },
+ {
+  "id": 5621,
+  "t": "Garments of the Moon",
+  "o": "Find Sentinel Shaya and heal her wounds using Lesser Heal (Rank 2). Afterwards, grant her Power Word: Fortitude and then return to Laurna Morninglight in Dolanaar.",
+  "d": "I need your help, $N. I am needed here to train the other students, but you, you can help one of our injured Sentinels just south of Dolanaar. She was hurt patrolling the town and could use our aid. Her name is Shaya.$B$BWhen you find her, heal her wounds, and then fortify her body with your spells. This will at least protect her from harm longer if she finds trouble. Return to me here after you've done your duty to Elune.",
+  "p": "Our spells of Fortify are very powerful, Delor. They allow our companions to take further injury from all types of attacks and survive in situations where they would normally fall. But this is nothing when compared to our abilities to heal. There are no greater healers than a priest--do well to remember that. Your power alone can turn the tides of battle easily.",
+  "c": "You have done well and you have served Elune. For that, I thank you.$B$BPlease, take this robe as a token of my thanks. It signifies you have earned your place among our order. If you wish, wear it with pride, but either way, we will always recognize you as one of our own.$B$BGo with Elune, $N, and thank you."
+ },
+ {
+  "id": 5622,
+  "t": "In Favor of Elune",
+  "o": "Speak to Laurna Morninglight in Teldrassil.",
+  "d": "$N, you must travel to Dolanaar when your business here in Shadowglen is done. There, you will find Laurna Morninglight. She will instruct you further in the ways of Elune, and it is with her that you will earn your first garments denoting your station as a $gpriest:priestess; of Elune.$B$BTake care, and may you be protected in your journeys.",
+  "p": "",
+  "c": "I'm happy to see Shanda has sent you to find me, $N. Teaching young priests the ways of Elune gives me great satisfaction."
+ },
+ {
+  "id": 5623,
+  "t": "In Favor of the Light",
+  "o": "Speak to Priestess Josetta in Elwynn Forest.",
+  "d": "Hello again, young $gpriest:priestess;. The time has come for you to learn more about our religion. After you've completed whatever tasks you have here in Northshire, please seek out Priestess Josetta in Goldshire. She has more to teach you and has heard that you are growing strong in the ways of the Light. She looks forward to tutoring you more.",
+  "p": "",
+  "c": "I'm glad you've arrived, $N. We have much to discuss about your future and your path within the Light."
+ },
+ {
+  "id": 5624,
+  "t": "Garments of the Light",
+  "o": "Find Guard Roberts and heal his wounds using Lesser Heal (Rank 2). Afterwards, grant him Power Word: Fortitude and then return to Priestess Josetta in Goldshire.",
+  "d": "Normally I put forth a small challenge to followers of the Light to test their skill. I want to see if they are worthy of wearing their first robes--a sign that the church outwardly approves of the $gpriest:priestess; and supports $ghim:her;.$B$BBut this situation is a bit different. One of Goldshire's citizens saw an injured guard near the lake to the east of here. His name is Roberts. Find him, heal him, fortify his body and return here. If you can do that for me, then I will consider your test complete.",
+  "p": "As you may have already learned, our healing magics are vital to the survival of our people in these harsh times--especially to adventurers and heroes who take up arms and magic to fight back so many different threats.$B$BYou would do well to always remember how important that skill is. That, coupled with Fortitude, make your companions far more capable in battle since they will be able to stand up to a greater number of blows.$B$BDo not let anyone dismiss how powerful your magics are.",
+  "c": "Excellent, $N With one more healthy guard out there to help the town, we'll be that much safer. I'm glad to see you're already learning to use your abilities wisely. If you feel you are ready for more training at any time, please come back to me. But for now, take this robe. It will let others know that you are one of our order. If you don't want to wear it, that's fine. Later there will be more tests and this robe isn't necessary for those."
+ },
+ {
+  "id": 5625,
+  "t": "Garments of the Light",
+  "o": "Find Mountaineer Dolf and heal his wounds using Lesser Heal (Rank 2). Afterwards, grant him Power Word: Fortitude and then return to Maxan Anvol in Kharanos.",
+  "d": "It's usually about this time that one of your power is tested to see if they're worthy of wearing robes denoting their place in the church. But to be honest, I got more pressing matters to look into. Citizen of Kharanos' just came in here and told me 'bout a hurt mountaineer just outside town to the south--name's Dolf.$B$BYou heal Dolf and give him Fortitude, and I'll consider you done with proving yourself. How's that sound?",
+  "p": "Have you found Dolf yet, $N?$B$BYou've probably already learned this, but our ability to heal is very useful. Not only are we able to take care of the wounded, but we're vital to the survival of all those would-be heroes out there trying to make a name for themselves. With Fortitude to increase the amount of blows we can take, and our healing magic to keep them alive, there's nothing we can't overcome!",
+  "c": "Well done, $n. You got the Light inside you, that's for sure.$B$BHere, take this robe. It'll denote your role in the church and help people recognize you as a $c--wear it if you want.$B$BLater, there will be more tests that you'll have to go through. Do what you can to learn about your abilities and what you're capable of. Try your hand at a fight or two alone, and then again with other travelers.$B$BBut don't fret none... you're as powerful as they come."
+ },
+ {
+  "id": 5626,
+  "t": "In Favor of the Light",
+  "o": "Speak to Maxan Anvol in Dun Morogh.",
+  "d": "Hey! $N! Got a minute?!$B$BYa been following the Light now for long enough that you find your way to Maxan Anvol in Kharanos. He'll teach ya more about the path yer following, and if you prove worthy, give ya yer first set of robes to denote your station as a $gpriest:priestess;.$B$BNow get goin'! As soon as yer done here, head through the tunnel--he'll be waitin' for ya.",
+  "p": "",
+  "c": "Oh, so Branstock sent ya, did he? Good, good! He's right, it is 'bout time you started taking a much larger step into the Light. It'll build character and make ya stronger... an' that's what you'll need more than anything: strength of body... strength of will."
+ },
+ {
+  "id": 5627,
+  "t": "Stars of Elune",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've proven yourself worthy of Elune's attention, $N. If you feel you're ready, I would very much like to teach you one of her spells unique to our people."
+ },
+ {
+  "id": 5628,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Ah, yes, hello, $N? I'm glad you stopped to talk for a moment. You are a far way from home at such a young age--I admire such ambition. I wish when I was younger I could have mustered the courage to travel the world.$B$BThere was a priestess of your order here looking for you not too long ago. She said it was very urgent you returned to the Temple of the Moon in Darnassus and speak to Priestess Alathea--it had something to do with your training. I wouldn't dally too long if you can help it.",
+  "p": "",
+  "c": "Wonderful, you've returned home, $N. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels."
+ },
+ {
+  "id": 5629,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Hello again, $N. I know you've been busy aiding our people, but you must take some time for yourself also. Priestess Alathea sent someone here looking for you. It seems that you've caught the attention of our elders and they feel you are prepared for greater things. Head to the Temple of the Moon in Darnassus and look for Alathea there. She will be waiting. Good luck, and may Elune be with you.",
+  "p": "",
+  "c": "Wonderful, you've returned, $N. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels."
+ },
+ {
+  "id": 5630,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Hello there, $gladdy:lassy;. Good to see you travelin' far and wide to distant lands. No offense meant, but a lot o' your kind don't take well to these cold climates usually. Glad to see you're made of tougher stuff.$B$BNot too long ago one of your priestesses was in here lookin' for you--said somethin' about you finding a Priestess Alathea in the Temple of the Moon back in Darnassus. Said it was important and you should head back there soon.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5631,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "A priestess recently visited our halls seeking you out, young $r. She said that she was on a mission to find you and that you should return to the Temple of the Moon in Darnassus as soon as possible. When you arrive, seek out a Priestess Alathea--she will tell you more.$B$BThe Light be with you, $N.",
+  "p": "",
+  "c": "Wonderful, you've returned home, $N. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels."
+ },
+ {
+  "id": 5632,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Oh, yes, of course. Hello, $N. A messenger from our order was here not too long ago looking for you. She mentioned something important happening back in Darnassus and that you should return to the Temple of the Moon as soon as you can. When you arrive, speak to Priestess Alathea. I believe it has something to do with your progressing so well in our ways.$B$BAgain, return to Darnassus when you can.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5633,
+  "t": "Returning Home",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Greetings, $gladdy:lass;. Good to see you here in our great halls. A blessing be on you and your kind.$B$BWhile you were traveling through our lands, a priestess of your temple came here seeking you. She said that you were to return to the Temple of the Moon as soon as possible. I'm sorry I can't tell you more, but it did sound important. When you get to the temple, speak to a Priestess Alathea.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5634,
+  "t": "Desperate Prayer",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You have done the Light a great service by becoming a shining example to those who travel in these dangerous lands and beyond. Please, accept this lesson as a thanks for all you've done."
+ },
+ {
+  "id": 5635,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "You've caught the attention of our superiors, $N. They've asked you travel to the Cathedral of Light in Stormwind as soon as possible. Apparently they feel you've proven yourself already and are prepared to further your training. When you get there, find High Priestess Laurena. She will be able to guide you further. Good luck, and may the Light be with you.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5636,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Elune bless you, good $r. I hope your Light finds you and protects you well this day.$B$BOne of your priests was here not long ago looking for you. He mentioned you returning to the Cathedral of Light as soon as possible to speak with High Priestess Laurena. It seems you've done well to garner such attention. I wouldn't spend too much time here--your people have need of you.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5637,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Time's come for you to head to Stormwind, $N. High Priestess Laurena in the Cathedral of Light wants to speak to you. Gotta be somethin' really good or really bad for the High Priestess to want you there personally, but I'm guessin' you've only done well for yourself and it's a good thing that she wants to speak to ya.$B$BBut don't waste too much time 'round here. I'd head there as soon as you can.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5638,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Just a short time ago, one of your priests was here looking for you, $r. He said that if I were to see you, I should direct you towards the Cathedral of Light. He said it was very important, but I would not be overly concerned if I were you. His demeanor seemed positive... as though it were good news. I wouldn't take too long in making my way there if I were you.$B$BElune be with you, good $r.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5639,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "You're needed in Stormwind, $N. The High Priestess there, Laurena, says it's time for you to prove you're worthy of the next level of your training. Don't waste too much time finding your way there. You can find her in the Cathedral of Light in the center of the city. Give her my regards, and prove how worthy you are of such a calling. The Light be with you, $N.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5640,
+  "t": "Desperate Prayer",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Praise be to Elune, and to your Light, $N.$B$BAbout this time, many of our order learn abilities reflecting their faith in Elune. If knowledge serves me, I believe the same holds true for your order also.$B$BWhen your business in Darnassus is complete, I would seek out one of your High Priestesses for further training.",
+  "p": "",
+  "c": "I'm glad you've arrived, <name>. There are many things we will have to discuss, but more importantly is your training in the ways of the Light.$B$BThere are lessons all servants of the Light must learn. If you are ready, we'll begin discussing some of those now."
+ },
+ {
+  "id": 5641,
+  "t": "A Lack of Fear",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've got the makings of a great $c, $N. Keep up the good work!$B$BYou've already shown you're ready for battle. Perhaps it's time we taught ya a little somethin' more."
+ },
+ {
+  "id": 5642,
+  "t": "Shadowguard",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Something important is up in Orgrimmar, $N.$B$BThe normal messengers that come through here looking for troll priests usually are very casual. This time, they seemed to be in much more a hurry. Don't dally too long in Thunder Bluff. I'd return to the Valley of Spirits as soon as possible.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5643,
+  "t": "Shadowguard",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Like many of our own priests, your own tribe puts you through rites of passage. These rites often teach priests special abilities that are vital to their survival. I sense that time is upon you even as we speak. You must return to the Valley of Spirits in Orgrimmar and speak to Ur'kyo. What he teaches you might be very important for the future.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5644,
+  "t": "Devouring Plague",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Ah, a wonderful day for you, $N. I can see by the lessons you've learned that the time has come to send you back to Aelthalyste. There are things only she can teach you, and even then, only if you prove worthy.$B$BI will not spoil the surprise for you, but I remember when I was a young priest learning about true power... divine power. Yes, those were the days.$B$BGo back to Aelthalyste in the Undercity, $N. She will be awaiting you in the War Quarter.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5645,
+  "t": "A Lack of Fear",
+  "o": "Speak to High Priest Rohan in Ironforge.",
+  "d": "$N, your High Priest Rohan would have an audience with you in Ironforge. Make haste, my strong friend, your next test quickly approaches. Although I wish I could bear witness to your race's own special rites, my place is here. But may the Light go with you in your travels. Rohan should still be in the Mystic Ward once you reach the city. He will be waiting.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5646,
+  "t": "Devouring Plague",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Aelthalyste show our people great respect by sending them back to me for more training, and now I do the same for her tribe.$B$BYou return to the Undercity, $N. There, in the War Quarter, she be ready to teach you more 'bout your people and their ways. Go there, and do not wait long.",
+  "p": "",
+  "c": "Good, you've returned, and not a moment too late. We have great things to discuss, $N. Your abilities are growing stronger, and we must make sure you are ready."
+ },
+ {
+  "id": 5647,
+  "t": "A Lack of Fear",
+  "o": "Speak to High Priest Rohan in Ironforge.",
+  "d": "Your race is so very strong, $N. We are proud to call you allies. And as each day's sun sets, you and your kin grow closer to not only finding your true origins, but find great confidence that you are on the right path in so many things. That feeling must make you feel so triumphant.$B$BWord came from Ironforge just recently. It asked that you return there and speak to High Priest Rohan in the Mystic Ward. I would not keep him waiting. May Elune guide your travels.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5648,
+  "t": "Garments of Spirituality",
+  "o": "Find Grunt Kor'ja and heal her wounds using Lesser Heal (Rank 2). Afterwards, grant her Power Word: Fortitude and then return to Tai'jin at Razor Hill.",
+  "d": "You be ready for your first test, $N. South of Razor Hill, just outta town, one of our grunts be hurt fightin' off some o' Proudmoore's old troops. She not doin' too well, an' she benefit much if one of our kind could help her. Find her--her name be Kor'ja--heal her wounds, an' give her the blessin' of our ancestors.$B$BYou do this, an' me thinks that be sufficient proof that you ready to move on in our ways.",
+  "p": "Most think it logical that healin' magics be powerful, but not many understand how powerful. You can keep many alive when instead they should be meetin' their own ancestors. This healin' magic mixed with the ability of Fortitude are a very powerful combination of spells. You remember this. It helpful to all manner of people: warriors, mages and everything in between.",
+  "c": "Good, then Kor'ja lives and goes off to defend our town from those malicious humans. I often wish to remember days of battle; where power was shown in combat and it was the wise who often destroyed those who relied on just their strength.$B$BYou done good by me, $N. You take this robe now. Maybe it help, maybe you not care, but you earned it and I'm proud to call you brother."
+ },
+ {
+  "id": 5649,
+  "t": "In Favor of Spirituality",
+  "o": "Speak to Tai'jin in Durotar.",
+  "d": "Aye, mon. Our kind have joined the Horde because they be good for us. They loyal, and they teach us much 'bout tings like honor. But our old ways die hard. The orcs may not approve of all our traditions, but that not mean we can't continue to practice some them in secret.$B$BYou know this, an' that's why I send you to Tai'jin in Razor Hill. She teach you more 'bout our history. She teach you the ways of our tribe. Go to her when you be ready.",
+  "p": "",
+  "c": "Ahh... so you finally come to Tai'jin. This be good.$B$BYou already know that we are not da same tribe that once joined with the Horde. We be much stronger now. We stronger 'cause we adapt--the Horde teach us that much. We no longer defeat our enemies and gain strength from them; now we gain strength, and then defeat our enemies.$B$BThe difference be subtle, but you will learn. You will see. The tribe count on you to learn such things."
+ },
+ {
+  "id": 5650,
+  "t": "Garments of Darkness",
+  "o": "Find Deathguard Kel and heal his wounds using Lesser Heal (Rank 2). Afterwards, grant him Power Word: Fortitude and then return to Dark Cleric Beryl in Brill.",
+  "d": "Our power comes from darkness and shadow, $N, but that is not your only role. You have acknowledged that there is merit in knowing the healing arts. This is wise. But before you can know the dark, you must also know the light. And for this, I have a test for you.$B$BNorth of the cemetery is a wounded Deathguard--Deathguard Kel. He has protected us from gnolls for some time, and needs healing. But, you must also fortify his body before he can return to duty. Do both with your spells, and then return to me.",
+  "p": "Our powers make us ideal for so many situations, $N. You'll find that no matter what though, our ability to mend wounds and increase the amount of damage our companions can take will always be the most desired talents we have access to. Do not let that dissuade you from pursuing other paths as a $C--you can be effective in many ways. But... if you truly wish to destroy your enemies with magical energy, perhaps the arcane is more to your liking.",
+  "c": "You have passed my test with ease. Good.$B$BSoon, you will be ready to take on more responsibility and that road will lead to darker powers--powers that no $c of another race has.$B$BTake this robe as a symbol of your station. You have earned it. If you do not wish to wear it, then so be it, you may do with it as you will. I and others like us will always acknowledge you for what you've achieved in our ranks."
+ },
+ {
+  "id": 5651,
+  "t": "In Favor of Darkness",
+  "o": "Speak to Dark Cleric Beryl in Tirisfal Glades.",
+  "d": "There are many lessons that the Forsaken have learned through experience--things that some races can only begin to fathom. And although our path lies in darkness, you will find that a great many things rely on both the light and the dark. Your lessons shall teach you to use both... and with discretion. But heed my words: never forget we were forged in corruption and left to rot like so much carrion. The Darkness is our home.$B$BSeek out Dark Cleric Beryl in Brill when you're ready to learn more.",
+  "p": "",
+  "c": "Finally, you've arrived. Your faith alone will not allow you to pass the trials before you, young one. A sense of urgency and some ambition will help too."
+ },
+ {
+  "id": 5652,
+  "t": "Hex of Weakness",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You would do well to pay heed to this lesson, young one. The Hex of Weakness will be a great boon to you in battle. Later I will have tests for you to further yourself and prove your worth to the tribe."
+ },
+ {
+  "id": 5653,
+  "t": "<NYI> Hex of Weakness",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "One of your priests sent word to us that if we see you that we were to tell you to return to Orgrimmar, $N. It seems one of your kind--a priest named Ur'kyo, if I'm not mistaken--believes you are ready for more training. It has to do with some of your cultures practices he said, and he wanted you to find this Ur'kyo in the Valley of Spirits.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5654,
+  "t": "Hex of Weakness",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "It be time for you to meet with Ur'kyo, $N. He be in the Valley of Spirits in the orc city. Go there and speak to him. It is time you learn more of the old ways of our kind. It time you be brought into the circle and made a true priest of our tribe.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5655,
+  "t": "Hex of Weakness",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "I sent here to make sure that you not wander too far from home, $N. They send me to make sure you return home because Ur'kyo, greatest of our priests, wish to speak to you. You go there. You go to the Valley of Spirits in the orc city and you speak to Ur'kyo. He wait for you now.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5656,
+  "t": "Hex of Weakness",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "It always warms my undying heart to see priests from all cultures wander the world. To know that power exists that is not arcane and well within our grasp. That's why it is my honor to direct you home, $N.$B$BUr'kyo, your great priest in Orgrimmar, has asked for your presence. You can find him in the Valley of Spirits.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5657,
+  "t": "Hex of Weakness",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Home. Return home, young $r.$B$BYour spiritual leader Ur'kyo begs you to return to him and speak about the path you travel.$B$BGo to the Valley of Spirits in the great Horde city of Orgrimmar. You will find him there.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5658,
+  "t": "Touch of Weakness",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Ah, young $c, I am glad you have returned here. I would teach you a lesson you would do well to not forget. Are you prepared?"
+ },
+ {
+  "id": 5659,
+  "t": "<NYI> Touch of Weakness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "This isn't the place for you, $N. You should head to the War Quarter in Undercity as soon as possible. Aelthalyste has called all her priests and priestesses there as soon as they are ready. It's time they learn more about their power and how to harness it.$B$BShe will not tolerate tardiness or excuses, so you'd best be on your way.",
+  "p": "",
+  "c": "Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 5660,
+  "t": "Touch of Weakness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "You be far from home, $c. You be needed there, back in your city under the ground. Your mistress, the one you be callin' Aelthalyste be needin' you back there. Like my tribe, there things you must learn only from her. Don't be stayin' here too long. You should be headin' to the War Quarter as fast as a zeppelin can carry you.",
+  "p": "",
+  "c": "Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 5661,
+  "t": "Touch of Weakness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "You be far from home out here in the Bloodhoof Village, $N. I be sent here to find priests of my own tribe to send back to speak to our leaders, but that not mean I cannot help you too.$B$BI hear word that your head priestess spirit want all Forsaken to come to her--there are things you must learn.$B$BGo to meet Aelthalyste in the War Quarter in that city of yours.",
+  "p": "",
+  "c": "Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 5662,
+  "t": "Touch of Weakness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "My respect to you and your kind, $N. I normally teach only those of my own tribe. Your lessons come from Aelthalyste in the city once called Lordaeron.$B$BYou should return to her if you're to learn those abilities that set you apart from other faiths.$B$BGo to the War Quarter in the Undercity and find your mistress there.",
+  "p": "",
+  "c": "Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 5663,
+  "t": "Touch of Weakness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Aelthalyste sent word out to all her priests. We're to direct the younger of our order to the Undercity for more training. If you truly count yourself among our faithful, then you should return there also.$B$BYou can find Aelthalyste in the War Quarter deep in the Undercity.",
+  "p": "",
+  "c": "Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 5665,
+  "t": "<UNUSED>",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Word was sent here from Darnassus,$N. It seems one of your priestesses wants you to return home. Speak to Priestess Alathea at the Temple of the Moon whenever you're able. It seems she is pleased with your progress. I am sure she takes great pride in seeing one of Elune's servants take such great strides in $ghis:her; faith.$B$BThe Light be with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5666,
+  "t": "<UNUSED>",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Oh,$N,I am pleased to catch you. There has been talk that you are prepared for your next test at the Temple of the Moon. Priestess Alathea herself wishes to speak to you. You should return to Darnassus as quickly as you can. Finish whatever business you have here and make haste.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5667,
+  "t": "<UNUSED>",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Aye,good to see you're doing well in your training,young $gpriest:priestess;. One of your kind was here looking for you not too long ago. It seems you're wanted back in Darnassus. Something about Priestess Alathea and the Temple of the Moon. It sounded important. Perhaps you should return there soon.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5669,
+  "t": "<NYI> A Blessing of Light",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Ah,$N,I'm glad you stopped to talk to me for a moment. One of your priests of Light was here a few moments ago looking for you. High Priestess Laurena in the Cathedral of Light wants to meet with you. I would not be surprised if it was about the progress you've made so far. Many of my order are continuously tested and given greater responsibilities as we progress in our studies.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5670,
+  "t": "<NYI> A Blessing of Light",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "You just missed a messenger here from Stormwind that was looking for you,$N. You've done well for yourself it seems. The High Priestess Laurena wants to talk to you. I think the church feels you're ready for the next step of your training.$B$BWhen you're all set and done with your business here,head to Stormwind,the Cathedral of Light,and speak to her. I'm sure she's waitin' for you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5671,
+  "t": "<NYI> A Blessing of Light",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Young $gpriest:priestess;,your church has sent word for you to return to Stormwind. The High Priestess Laurena would have words with you when you are ready. It seems your superiors feel you are ready for the next step of your training.$B$BI believe you can find your High Priestess in the Cathedral of Light. Elune go with you on your journey and peace be with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5672,
+  "t": "Elune's Grace",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "By devoting yourself to Elune and our people, you have attained a state that not all of us can achieve. It is tradition that you then be taught even greater abilities for your devotion. Do you accept?"
+ },
+ {
+  "id": 5673,
+  "t": "Elune's Grace",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "You know you have access to any of our trainers at any time, $N, but there are some things that we cannot pass on to you. One of those things are the teachings of your goddess Elune. She gives special abilities to her faithful, and if I'm not mistaken, it is time for you to return home to your Temple of the Moon to be tested.$B$BReturn there when you can and speak to Priestess Alathea.",
+  "p": "",
+  "c": "Elune bless you for returning so quickly to us. This is an important time in your training, and a time that all of our order take very seriously. When you've rested from your journey here, please, let me know. We can then discuss the continuation of your training and where your path will lead you next."
+ },
+ {
+  "id": 5674,
+  "t": "Elune's Grace",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "A wonderful day has come, $N. You've reached the age in which our $gpriests:priestesses; are trained in abilities only Night elves know. But it is not for me to train you. You must return to the Temple of the Moon and speak to Priestess Alathea as soon as your business here is concluded. She will test you to ensure you're prepared, and only then will she teach you Elune's Grace.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5675,
+  "t": "Elune's Grace",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "Time's a wastin', $glad:lass;. It's time for you to return home to Darnassus. Priestess Alathea's sent word here that you're to return there for training. Seems they feel you're ready to be tested much like those who serve the Light. You should head out whenever you can. Alathea's message said that she'd be waitin' for you in the Temple of the Moon. Good luck.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5676,
+  "t": "Arcane Feedback",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "We were forced to learn some magics to protect us from what is commonly called our greatest enemy: the arcane.$B$BI would teach you a spell to help you defend yourself and your companions from those who would wield such power."
+ },
+ {
+  "id": 5677,
+  "t": "Arcane Feedback",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "As much as I'd like to show you our own special teachings of the Light, it is not our place. Your place is back in Stormwind with your own kind, $N... for now. Believe me, I mean no offense. When you return to High Priestess Laurena in the Cathedral of Light you'll understand what I'm talking about--the time has come for your race to prepare you for the future; to separate yourself from others that follow a similar path.",
+  "p": "",
+  "c": "Ah, you have wonderful timing, <name>. I was beginning to wonder if all of my messengers had been successful. I'm glad to see they were, otherwise I would wager you'd still be out in the world learning more about all the threats that exist against our people.$B$BAre you ready? Ready for more training I mean. You're growing in power more quickly, and I feel you are ready to learn more about our faith."
+ },
+ {
+  "id": 5678,
+  "t": "Arcane Feedback",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "It is time for you to return to Stormwind, young one. Your superiors there have called you back for more training. And although it disturbs me some, your race and mine are allies and I would not betray that.$B$BI do not mean to be so coy with you--my distrust of arcane magics, be they divine inspired or not, is still strong within me.$B$BYou will know of what I speak after you return to your Cathedral of Light. Speak to High Priestess Laurena when you arrive.",
+  "p": "",
+  "c": "Ah, you have wonderful timing, <name>. I was beginning to wonder if all of my messengers had been successful. I'm glad to see they were, otherwise I would wager you'd still be out in the world learning more about all the threats that exist against our people.$B$BAre you ready? Ready for more training I mean. You're growing in power more quickly, and I feel you are ready to learn more about our faith."
+ },
+ {
+  "id": 5679,
+  "t": "Devouring Plague",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "I would teach you Devouring Plague if you feel you are prepared, $N. A spell of no small power, it will aid you in your coming battles. Practice with it--there will be tests later."
+ },
+ {
+  "id": 5680,
+  "t": "Shadowguard",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your rites will come soon enough. For now, I teach you a spell that will be of great use to you when you do battle with your enemies."
+ },
+ {
+  "id": 5682,
+  "t": "<UNUSED>",
+  "o": "Speak with High Priestess Alathea in Darnassus.",
+  "d": "The time has come for you to return to Darnassus again,$N. Speak to High Priestess Alathea in the Temple of the Moon. She will tell you what you need to know.$B$BIf I am not mistaken,it will be something about new garments for your station within your order. May the Light be with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5683,
+  "t": "<UNUSED>",
+  "o": "Speak to High Priestess Alathea in Darnassus.",
+  "d": "Oh,$gbrother:sister;,I am so pleased for you! It is time for you to return to Darnassus and speak to High Priestess Alathea once again. Her messenger was almost certain it had to do with earning your newest garments of our order.$B$BWhen you can,return home,and give our order my very best.$B$BElune be with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5684,
+  "t": "<UNUSED>",
+  "o": "Speak to High Priestess Alathea in Darnassus.",
+  "d": "Hmph,good to see you're doin' so well for yourself,$gpriest:priestess;. Bet you're wonderin' when it's time for you to be called back home to Darnassus for some kind of celebration for your greatness,huh? Well,not today... well,not any kind of celebration anyway.$B$BHigh Priestess Alathea's sent word to me that I should direct you to her if I came across you. You can find her in the Temple of the Moon still... in case you forgot. Haha.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5686,
+  "t": "<NYI> The Light Protects You",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "The time has come again for you to journey to Stormwind,young $gpriest:priestess;. The High Priestess Laurena would reward you for your time spent in the service of the Light. She is still in the Cathedral of Light--look for her there.$B$BUntil then,you're welcome to stay here and train as much as you'd like. If there is anything I can do for you,please,just ask.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5687,
+  "t": "<NYI> The Light Protects You",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "The time has come again for you to return to the Cathedral of Light in Stormwind,$N. High Priestess Laurena would have you meet with her when you're ready. It is more than likely to repay you for all you have done for your people and the Light.$B$BGood luck,and may Elune be with you in your travels.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5689,
+  "t": "<NYI> A Touch of Voodoo",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Hey,$r. A messenger came through here not too long ago looking for you. Said you were to return to Orgrimmar to speak to Ur'kyo in the Valley of Spirits. He didn't sound angry,but it did sound important. Might want to check it out.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5692,
+  "t": "<NYI> In the Dark It was Created",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "I would teach you all you need know,$N,but there things that only your own tribe can show you. One be how to create a new robe for you... one that reflect your place in your faith.$B$BAelthalyste say that I direct you to her in the Undercity. She be in the War Quarter waiting for you. If you not go then she be very displeased with both of us.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5693,
+  "t": "<NYI> In the Dark It was Created",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Glad to see you're... alive,$N.$B$BAelthalyste has asked you to return to the Undercity when you've finished your business here in Thunder Bluff. It seems you've grown powerful enough that she thinks you're due new garments... a robe,I believe.$B$BShe'll be waiting for you in the War Quarter.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5695,
+  "t": "<UNUSED>",
+  "o": "Speak to Priestesss Alathea in Darnassus.",
+  "d": "Your temple asks for your presence in Darnassus,$N. Return to the Temple of the Moon and speak to Priestess Alathea. She will be waiting for you there.$B$BThe time has come for you to earn your next robe if you feel you are ready.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5696,
+  "t": "<UNUSED>",
+  "o": "Speak to Prietess Alathea in Darnassus.",
+  "d": "It is always a joyous day when I can direct one of our kind back to our home because the time has come for them to earn their next set of robes.$B$BPriestess Alathea is in the Temple of the Moon and wishes to speak to you. When you can,return to Darnassus for your next test,and Elune be with you,$N.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5697,
+  "t": "<UNUSED>",
+  "o": "Speak to Priestess Alathea in Darnassus.",
+  "d": "You keep up this rate of success,an' you'll be makin' me jealous that we don't have more of your $gpriests:priestesses; here in Ironforge,$N. You do your people proud.$B$BPriestess Alathea would like to speak to you again if you have time. She's in the Temple of the Moon in Darnassus. Go there,an' the Light be with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5699,
+  "t": "<NYI> A Small Amount of Hope",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Haha! Off to Stormwind with you,$N. High Priestess Laurena wants you there to be tested again. Head to the Cathedral of Light and don't dally. There's a lot to do and more and more pressure's gonna fall on your shoulders the more powerful you get. It's the nature of our order--people start to look to you more often the more you prove yourself worthy.$B$BThe Light's with ya,you don't need me to tell you that.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5700,
+  "t": "<NYI> A Small Amount of Hope",
+  "o": "Speak to High Priestess Laurena in Stormwind.",
+  "d": "Your temple wishes you to return to them once again,$N. High Priestess Laurena in Stormwind specifically. There is much activity in the Cathedral of Light these days,but that does not surprise me at all; so much going on between the Scourge,the Horde and our own problems internally.$B$BGo to the Cathedral when you're ready.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5702,
+  "t": "<NYI> The Rites of Old",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Hey there,$r! I'll teach you whatever it is you want to know,but you should know that Ur'kyo--that's his name,right?--is looking for you. Something was said about you coming back to the Valley of Trials... no,that wasn't it. It was the Valley of Spirits... in Orgrimmar. Yeah,that's it!$B$BYeah,so,Ur'kyo... Valley of Spirits. He wants to talk to you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5703,
+  "t": "<NYI> The Rites of Old",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Your spiritual leader Ur'kyo seeks audience with you,$N. Do not keep him waiting.$B$BYou will find him in the Valley of Spirits in the great Horde city of Orgrimmar. Do your people proud.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5705,
+  "t": "<NYI> No Longer a Shadow",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "I welcome you back to the Valley of Spirits,$N,but I must tell you,you are wanted back in your Undercity. Your head priestess there would be wantin' to speak to you.$B$BYou already know where she at: the War Quarter deep in your city.$B$BGo there and do not forget,you are always welcome to train here with my people.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5706,
+  "t": "<NYI> No Longer a Shadow",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Good to see you again,$N. But I'm gonna have to cut our reunion short--Aelthalyste sent word that you were to return to her in the Undercity. She's still in the War Quarter.$B$BDon't worry though--I think it's a good thing. It was mentioned that she was pleased with your progress,so don't fret too much.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5708,
+  "t": "<NYI> Flirting With Darkness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "Talk is spreading that your faith is taking up more active measures to protect and lead the Forsaken. It seems Aelthalyste either be knowin' something that Sylvanas does not,or your Dark Lady be wantin' Aelthalyste to be a little less patient in her measures.$B$BYou best be headin' home to the Undercity to speak to her. She be in the War Quarter as always.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5709,
+  "t": "<NYI> Flirting With Darkness",
+  "o": "Speak to Aelthalyste in the Undercity.",
+  "d": "The time's come again,$N. You're needed in the Undercity. Aelthalyste has grown... fond of some of the Forsaken's priests,and in the interest of protecting Lady Sylvanas,she wants to ensure that all of us are as well prepared as possible.$B$BFind her in the War Quarter and be prepared for whatever task it is she sets for you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5711,
+  "t": "<NYI> The Lost Ways",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "I wonder how many times I've seen your kind around here,but never really spoken to you. I've trained a few,given some directions,but I don't think anyone's ever waited around long enough to chat.$B$BOh well,now's a bad time anyway--I'm supposed to tell you that Ur'kyo wants to speak to you in Orgrimmar. He's in the Valley of Spirits waiting for you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5712,
+  "t": "<NYI> The Lost Ways",
+  "o": "Speak to Ur'kyo in Orgrimmar.",
+  "d": "Good fortune be with you,young one.$B$BTroll messengers arrived in the Undercity not more than a day or so ago. They spoke of young priests returning to the Valley of Spirits to speak to Ur'kyo. I would suggest you investigate the matter on your own in case his business pertains to you. I am sure you remember the way back to Orgrimmar.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5713,
+  "t": "One Shot.  One Kill.",
+  "o": "Protect Sentinel Aynasha, then speak with Onaeya at Maestra's Post in Ashenvale.",
+  "d": "I was traveling to Auberdine with an important message when I was attacked by the furbolg Marosh and his trackers. During the attack I was poisoned, leaving me barely able to stand. I can make an antidote, but it will take time before it is ready.$B$BI would ask that you defend me until I can apply the antidote. I will aid you with my bow as best I can.$B$BShould we survive, I will be able to deliver my message to Auberdine, while you speak with Onaeya at Maestra's Post to inform her of this incident.",
+  "p": "Have you seen of Sentinel Aynasha on the road? She left on an important mission but she has not yet returned.",
+  "c": "You bring most welcome news $c. It is good to hear that Aynasha is alive and well thanks to you. I would hope that you might accept a reward for your valor. May Elune watch over you and light your path."
+ },
+ {
+  "id": 5721,
+  "t": "The Battle of Darrowshire",
+  "o": "Place the Relic Bundle at the Darrowshire town square.$B$BPrevent Davil Lightfire's death until the death of Horgus.$B$BPrevent Captain Redpath's death until Redpath the Corrupted appears.$B$BDefeat Redpath the Corrupted.$B$BSpeak with the spirit of Joseph Redpath when he appears at the town square, then speak with Pamela at her home.",
+  "d": "Now, $N, you will take part in battle of Darrowshire, and you will save Joseph Redpath.$B$BPlace this relic bundle in the Darrowshire town square, and the spirits of Darrowshire will rise.  Join their battle and assure that these two things come to pass: Davil must survive beyond the death of Horgus, and Redpath must survive to be corrupted, then defeated.$B$BAfter defeating the corrupted Redpath, his spirit will be saved.  Speak with him, then return to his daughter Pamela.",
+  "p": "I think I heard ghosts outside. They whisper scary things to me...",
+  "c": "The fighting is over!  I heard my daddy whisper to me.  He scared away all the ghosts and he says he's coming home!  I'm so happy!$B$BHe also said I should welcome you if came to our house, so I made some tea!$B$BI hope you like lots of sugar!"
+ },
+ {
+  "id": 5724,
+  "t": "Returning the Lost Satchel",
+  "o": "Take the Grimtotem Satchel to Rahauro in Thunder Bluff.",
+  "d": "You find a satchel under the body of the tauren. It is still gripped tightly in his arms as though he was trying to protect it while being attacked by the troggs.$B$BRemoving the satchel from his vice-like grip, you stow it with your own equipment and prepare to make your way out of the tunnels and back to Rahauro in Thunder Bluff.",
+  "p": "Were you able to find anything, $N? Any clues as to why one of her clansman had to die needlessly would be helpful.",
+  "c": "Excellent, $N. Thank you.$b$bMagatha told me that if you were successful in finding her clansman that you be given this. Please, take it in thanks."
+ },
+ {
+  "id": 5725,
+  "t": "The Power to Destroy...",
+  "o": "Bring the books Spells of Shadow and Incantations from the Nether to Varimathras in Undercity.",
+  "d": "Many denizens of the Legion bestow gifts on their followers as you may well know. Some of these gifts the Dark Lady feels would be better off in her hands than in the hands of those with... lesser vision.$B$BA sect of the Shadow Council hidden in caverns below Orgrimmar known as the Searing Blade are a prime example. The Lady tells me that members of the Searing Blade have come into the possession of two powerful spell books--she would like to \"borrow\" these books from them. You will get them for her.",
+  "p": "There are a hundred other tasks awaiting my attention, $C. Do you have the books?",
+  "c": "Good, $c. You have done well in serving the Dark Lady. Your continued perseverance and ambition will be of great use to the Lady's subjects. Return to me again in the future. Perhaps I will have other tasks for you that will aid the Dark Lady in her attempts at overtaking the Lich King and completely freeing the Scourge."
+ },
+ {
+  "id": 5726,
+  "t": "Hidden Enemies",
+  "o": "Bring a Lieutenant's Insignia to Thrall in Orgrimmar.",
+  "d": "One thing I will not tolerate are traitors in our midst, $N. But I would be a fool to play my hand so early--it would not sufficiently cut the corruption out of our lands and only cause the infection to grow worse.$B$BBut you, a young adventurer, could go places my agents could not... could learn the truth... could find the true head of the beast.$B$BIf you are brave enough, then enter Skull Rock to the east of Orgrimmar, find a lieutenant's insignia off one of the Burning Blade there, and return to me.",
+  "p": "Do you have the insignia yet, $N?$b$bIt will be a vital tool in you infiltrating what I believe is the greatest threat to the Horde and us finally finding peace in our new home.$b$bYou will learn how intricate a web men and orcs alike can weave when they are motivated by greed and power. The hidden agendas, the corruption, all of it will become clear. You will find yourself in the midst of a war you never knew existed.",
+  "c": "Good, $N! The spirits be praised, perhaps you are the one who will finally put my greatest fears to rest! Who would suspect someone so young and so brave would rise up and champion our cause? You remind me of myself when I was younger. I will ensure that you are justly rewarded for your efforts if we both survive the coming storm.$b$bBut there is time for more praise later. You've not accomplished anything in comparison to what you will face... but this is a good start."
+ },
+ {
+  "id": 5727,
+  "t": "Hidden Enemies",
+  "o": "Take the Lieutenant's Insignia to Neeru Fireblade and speak to him. Gauge if he believes you are a member of the Burning Blade and then return to Thrall in Orgrimmar.",
+  "d": "Now let us see if this insignia you found is worth the effort.$B$BThere is a warlock within the city who believes he has my trust. He does not know that I realize where his true loyalties lie. He is in fact the leader of the Burning Blade. But do not rush off to do battle with him; he has a purpose, and we shall use him against our enemies.$B$BTake this insignia to him in the Cleft of Shadow here in Orgrimmar, speak to him and see if he believes you are one of his own, then return to me here.",
+  "p": "Well, $c? Does he believe our ploy, or are things worse than I had first estimated?$b$bProving valuable to Neeru will make our infiltration of the Shadow Council much easier. He will have plenty of information that we can use to route out those who would destroy all we have built in Durotar.",
+  "c": "Excellent! Most excellent, $c!$b$bWhat you have done this day is only the first step in a much broader foundation--a foundation that we will build the destruction of the Shadow Council on, once and for all.$b$bTell me all he said... and leave not one word out--it may be more important than you realize."
+ },
+ {
+  "id": 5728,
+  "t": "Hidden Enemies",
+  "o": "Kill Bazzalan and Jergosh the Invoker before returning to Thrall in Orgrimmar.",
+  "d": "Hmm, leaders of the Searing Blade... this concerns me most. If they are the ones of value to Neeru, then those are who we must target first. This satyr... Bazzalan, and the other Neeru mentioned--what was he, a warlock?--must be slain.$B$BReturn to the Cleft of Shadow and enter Ragefire Chasm, $N. Find these two leaders of the Searing Blade, and kill them. But be careful not to let Neeru know it was you who did this. You must retain your identity as one of his $gbrothers:sisters; in arms.",
+  "p": "Have you found them yet, $N? The leaders of the Searing Blade.$b$bI knew the Shadow Council sought to take Orgrimmar and all of the Horde from me, but I hadn't realized how quickly they were able to infiltrate the city. So many arms this beast has... we can cut them off until exhaustion sets in, but we will be no further than when we started. I will have to have my spies double their efforts.",
+  "c": "I am glad you've returned, $N. Some of those loyal to me brought word immediately that the caverns below Orgrimmar were in disarray now that their leaders have been slain. I even heard reports that Neeru was more than agitated. It seems we've put a dent in his armor. I can't say I'm displeased... even with such a minor victory."
+ },
+ {
+  "id": 5729,
+  "t": "Hidden Enemies",
+  "o": "Speak to Neeru Fireblade in Orgrimmar.",
+  "d": "I think our next step should be to have you placed close to Neeru. If he is as agitated as reports suggest, then we may accomplish two things. One, you may be able to gain some greater knowledge about the Council or at least the Burning Blade, and two, he may just begin to trust you enough that he asks you to start to aid him. He may very well look at you as someone who can fill the void now that some of the leadership is in turmoil.$B$BReturn to the Cleft and speak to him again, but do not be too overt.",
+  "p": "",
+  "c": "What is it?! Oh, you, $c... my apologies. My anger rivals that of a rabid kodo bull... but perhaps it is my own fault. In sending travelers into Ragefire Chasm, I should have seen the possibility that some harm would come from it. It seems both Bazzalan and Jergosh were taken unaware and slain by some of Thrall's do-gooders. A most inopportune time, but there is nothing that can be done about it now."
+ },
+ {
+  "id": 5730,
+  "t": "Hidden Enemies",
+  "o": "Speak to Thrall in Orgrimmar and tell him what you've learned.",
+  "d": "You are one of my lieutenants! Prepare yourself, $c. I will call upon you soon.$B$BMy time spent on the Searing Blade may be all but wasted now, but that does not mean that the Shadow Council's schemes elsewhere must suffer. I will do what I can to minimize the damage here in Ragefire Chasm. In the meantime, I will have my agents in the Barrens and Ashenvale begin work on our newest agenda. Return to me soon.",
+  "p": "",
+  "c": "Ashenvale? Hmm, I had not heard of any presence of the Council or the Burning Blade in Ashenvale. My spies will investigate, $N. You have done well.$b$bFor now, rest, and keep yourself occupied with other tasks. I will call upon you again soon.$b$bLok-Tar Ogar!"
+ },
+ {
+  "id": 5741,
+  "t": "Sceptre of Light",
+  "o": "Get the Sceptre of Light and then return it to Azore Aldamort at the tower in Ethel Rethor.$B",
+  "d": "The Burning Blade in Thunder Axe Fortress to the east is rumored to have acquired the Sceptre of Light from the Naga. Legend tells that the sceptre is able to sink entire cities under the great seas. The Burning Blade must not be allowed to possess such power.$B$BTo that end, you must retrieve the sceptre yourself!  It is held by a Burning Blade seer, who studies the sceptre from atop one of the Thunder Axe watchtowers.$B",
+  "p": "Do you have the Sceptre of Light?",
+  "c": "The elusive Sceptre of Light! Your acquisition of it has removed a grave threat to the world. Well done, $C, well done."
+ },
+ {
+  "id": 5742,
+  "t": "Redemption",
+  "o": "Listen to what Tirion Fordring has to say.",
+  "d": "You have worked hard, friend. Rest your weary bones and allow me to properly introduce myself.$B",
+  "p": "Please, friend; sit and hear my tale.",
+  "c": "The Fordring redemption will be a difficult task. Are you prepared?"
+ },
+ {
+  "id": 5763,
+  "t": "Hunting in Stranglethorn",
+  "o": "Bring Roon's Kodo Horn to Hemet Nesingwary Jr. in Stranglethorn Vale.",
+  "d": "Long ago, a dwarf came to this land.  His name was Hemet and he wished to hunt great beasts.  His skills with the rifle were uncanny, and we spent many days hunting together.  Even the enmity between our peoples was forgotten.$B$BWhen he left for Stranglethorn, I vowed to one day welcome him back.  Now he has gone on to hunt in lands unknown, but his son has taken his place.$B$BTake this kodo horn as a gift to Hemet Jr..  You will find him in Stranglethorn, north of the Grom'gol Base camp.",
+  "p": "Sit, $C. Soon enough you'll strike back into the jungle.",
+  "c": "Ah, this horn belongs to a Tauren, Roon Wildmane. My father spoke often of the good times they had together hunting the beasts of Desolace. So Roon is inviting me to join him, is he?$B$BWe're neck deep in the jungle right now, but thank you, $N. Perhaps my next expedition will take me to Desolace, the land of the centaurs."
+ },
+ {
+  "id": 5781,
+  "t": "Of Forgotten Memories",
+  "o": "Travel to the Undercroft - at the southernmost section of the Eastern Plaguelands - and recover Taelan's Hammer. Return to Tirion Fordring upon completion of your objective.",
+  "d": "To help Taelan regain what he has lost, you must gather items from his past.$B$BThe first such item is a toy that I gave to him on his 7th birthday. It was his most cherished possession: A miniature war hammer; an exact replica of my very own.$B$BAfter I was banished for treason, his mother told him that I had died. He was taken to my false grave at the Undercroft, where he buried the hammer along with my memory - forever.$B$BYou must venture to the Undercroft and recover Taelan's hammer.",
+  "p": "He must be redeemed.",
+  "c": "<Tirion blinks to hold back tears.>$B$BIt was destiny that we meet, $N. You have blessed me with your kindness.\n"
+ },
+ {
+  "id": 5801,
+  "t": "Fire Plume Forged",
+  "o": "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater.  Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.$B$BBring the Unfinished Skeleton Key to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+  "d": "You need two bars of thorium and a powerfully hot heat source to forge the key stem.  You're on your own for the thorium, but I can help with the heat.$B$BTo our west in Un'Goro Crater is Fire Plume Ridge - a simmering volcano.  The lava lake up top is hot enough to fuse thorium and bone together.  Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.$B$BThat's it on my end.  To finish your key, you'll need to talk to Arbington again.",
+  "p": "Do you have the stem of the skeletal key finished? I'm truly sorry you had to bear the brunt of the fee to purchase the mold, but we must all do our part to counter the Scourge. Once you hand me the unfinished key, you'll be ready for the final item needed to complete its construction.$b$bIt won't be easy at all, but the work you've done to date in preparing for an assault on Andorhal will now start to pay for itself. You'll see.",
+  "c": "We've got quite the costly skeleton key there, don't we $N? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you're going to have to face the ultimate foe we've been working towards facing in Andorhal... the being that runs the show within the ruined city walls.$b$bI'm speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own."
+ },
+ {
+  "id": 5802,
+  "t": "Fire Plume Forged",
+  "o": "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater.  Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.$B$BBring the Unfinished Skeleton Key to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+  "d": "You need two bars of thorium and a powerfully hot heat source to forge the key stem.  You're on your own for the thorium, but I can help with the heat.$B$BTo our west in Un'Goro Crater is Fire Plume Ridge - a simmering volcano.  The lava lake up top is hot enough to fuse thorium and bone together.  Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.$B$BThat's it on my end.  To finish your key, you'll need to talk to Dithers again.",
+  "p": "Do you have the stem of the skeletal key finished? I'm truly sorry you had to bear the brunt of the fee to purchase the mold, but we must all do our part to counter the Scourge. Once you hand me the unfinished key, you'll be ready for the final item needed to complete its construction.$b$bIt won't be easy at all, but the work you've done to date in preparing for an assault on Andorhal will now start to pay for itself. You'll see.",
+  "c": "We've got quite the costly skeleton key there, don't we $N? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you're going to have to face the ultimate foe we've been working towards facing in Andorhal... the being that runs the show within the ruined city walls.$b$bI'm speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own."
+ },
+ {
+  "id": 5803,
+  "t": "Araj's Scarab",
+  "o": "Destroy Araj the Summoner and bring Araj's Scarab to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+  "d": "Araj the Summoner lords over Andorhal from the ruined city's heart.  We know that he was the former leader of Scholomance before claiming the city as his own.  To finish the key, we will need his signet - called a scarab - mounted as the head of the key.$B$BMake your way into the heart of Andorhal, and break his hold on the city now that he is drawn into the open.  Once destroyed, seize his scarab from his fallen phylactery!$B$BThe Key to Scholomance awaits, $N!",
+  "p": "You've come this far $N - only the destruction of the physical form of Araj the Summoner will provide us with the means to finish the key. Get Araj's scarab, by hook or by crook, and bring it to me - I will fuse it on as the head of the key.",
+  "c": "Yes, this is it! I... again, I'm absolutely amazed at the depths of your cunning and bravery. It simply boggles the mind the lengths you are willing to go in order achieve victory.$b$bAllow me now to play my small part in this. I've prepared a special solvent that should allow me to secure the scarab on as the head of the key, infusing it with the power to breech the locked door of Scholomance.$b$bThis should take just a moment..."
+ },
+ {
+  "id": 5804,
+  "t": "Araj's Scarab",
+  "o": "Destroy Araj the Summoner and bring Araj's Scarab to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+  "d": "Araj the Summoner lords over Andorhal from the ruined city's heart.  We know that he was the former leader of Scholomance before claiming the city as his own.  To finish the key, we will need his signet - called a scarab - mounted as the head of the key.$B$BMake your way into the heart of Andorhal, and break his hold on the city now that he is drawn into the open.  Once destroyed, seize his scarab from his fallen phylactery!$B$BThe Key to Scholomance awaits, $N!",
+  "p": "You've come this far $N - only the destruction of the physical form of Araj the Summoner will provide us with the means to finish the key. Get Araj's scarab, by hook or by crook, and bring it to me - I will fuse it on as the head of the key.",
+  "c": "Yes, this is it! I... again, I'm absolutely amazed at the depths of your cunning and bravery. It simply boggles the mind the lengths you are willing to go in order achieve victory.$b$bAllow me now to play my small part in this. I've prepared a special solvent that should allow me to secure the scarab on as the head of the key, infusing it with the power to breech the locked door of Scholomance.$b$bThis should take just a moment..."
+ },
+ {
+  "id": 5805,
+  "t": "Welcome!",
+  "o": "Bring the Goldshire Gift Voucher to Merissa Stilwell in Goldshire.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Merissa Stilwell in Goldshire.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!$B",
+  "p": "Greetings! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5821,
+  "t": "Bodyguard for Hire",
+  "o": "Escort the Gizelton Caravan past the Kolkar Centaur village. Talk with Smeed at Scrabblescrew's Camp for your reward.",
+  "d": "Under normal circumstances, Rigger and I would lead our kodo past the Kolkar Centaur. Every now and then we hear the Centaur war drums, and when we hear those we stop. It's not good for business to be dead!$B$BI'll tell you what $c, if you protect us past the Kolkar village we'll make it worth your while.$B$BIt's just a short distance, all you need to do is keep the caravan intact and you can pick up your reward from Smeed Scrabblescrew - he is down the road a bit. We do a little business together.",
+  "p": "Why do I find myself waiting for that blasted caravan?$b$b<Smeed looks enlightened.>$b$bOh yeah, they pay the bills. Have you seen them?",
+  "c": "You know, it doesn't seem prosperous to be paying the likes of you to guard Gizelton Caravan. $c, if I were a bit taller I could take on a second job and sit kodo-side-saddle with the biggest gun my hands could carry... and I'd show them blasted centaur who's their papa."
+ },
+ {
+  "id": 5841,
+  "t": "Welcome!",
+  "o": "Bring the Kharanos Gift Voucher to Yori Crackhelm in Kharanos.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Yori Crackhelm in Kharanos.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Hello! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5842,
+  "t": "Welcome!",
+  "o": "Bring the Dolanaar Gift Voucher to Orenthil Whisperwind in Dolanaar.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Orenthil Whisperwind in Dolanaar.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Greetings! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5843,
+  "t": "Welcome!",
+  "o": "Bring the Razor Hill Gift Voucher to Magga in Razor Hill.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Magga in Razor Hill.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Hello! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5844,
+  "t": "Welcome!",
+  "o": "Bring the Bloodhoof Village Gift Voucher to Vorn Skyseer in Bloodhoof Village.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Vorn Skyseer in Bloodhoof Village.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Greetings! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5845,
+  "t": "Of Lost Honor",
+  "o": "Travel to Northdale, in the northeastern region of the Eastern Plaguelands, and recover the Symbol of Lost Honor. Return to Tirion Fordring upon completion of your objective.",
+  "d": "The Order of the Silver Hand was utterly decimated when Uther was slain.$B$BThe boy held out for as long as he could. Pushed to the war torn hamlet of Northdale, he made his final stand.$B$BWere any of the Order left alive, he thought - and did it matter?$B$BIt was with that thought that Taelan threw down the standard of the Order and renounced all that he had known. His honor left upon the blood soaked ground of Northdale.$B$BYou must travel to Northdale and recover that symbol of lost honor.",
+  "p": "My faith will guide you, $N. The Light knows no bounds.",
+  "c": "It is as glorious now - even in its tattered state - as the day I looked upon it and took my oath of allegiance.$B$BHis redemption comes and perhaps mine with it..."
+ },
+ {
+  "id": 5846,
+  "t": "Of Love and Family",
+  "o": "Travel to island of Caer Darrow, in the south-central region of the Plaguelands, and look for any clues as to the whereabouts of the painting.",
+  "d": "When Taelan was a child, we would oft visit Caer Darrow on family excursions. On our last visit, an artist by the name of Renfray painted a portrait of us poised along the beachside. It is my fondest memory of both Taelan and Karandra. For it was at that moment, with my wife and son in my arms, that I felt a bond of love and family that I would never know again.$B$BIf this painting still exists, you must find it.$B$BTravel to the ruined island of Caer Darrow and see if the painting or the artist remain.",
+  "p": "",
+  "c": "How could I forget? Many of the spirits on this island are cursed to relive their last happy memory before they met their tragic end.$B$BI too am cursed, but not as they - I am one of the few that remembers all...$B$BPerhaps this thing that you ask me is why I haunt these ruins. Perhaps this thing I tell you shall set me free."
+ },
+ {
+  "id": 5847,
+  "t": "Welcome!",
+  "o": "Bring the Brill Gift Voucher to Claire Willower in Brill.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Claire Willower in Brill.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Greetings! It is a pleasure to meet you!$B$BI see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 5848,
+  "t": "Of Love and Family",
+  "o": "Travel to Stratholme, in the northern part of the Plaguelands. It is in the Scarlet Bastion that you will find the painting 'Of Love and Family,' hidden behind another painting depicting the twin moons of our world.$B$BReturn the painting to Tirion Fordring.",
+  "d": "The painting... It hung on the wall of my workshop - inside the Order's barracks - for years.$B$BAfter Tirion's trial was over, I knew that I could no longer keep the painting visible. I hid it in a place that they would never think to look.$B$BTravel to Stratholme and make your way deep inside what is now the Scarlet Bastion, search for a painting of our twin moons. Chip away at the paint until you uncover my master work, 'Of Love and Family.'$B$BMay the Light guide your actions.",
+  "p": "The painting, $N. Do you have the painting?",
+  "c": "<Tirion nearly collapses when he sees the painting.>$b$b<He begins to sob in an almost frenetic manner.>"
+ },
+ {
+  "id": 5861,
+  "t": "Find Myranda",
+  "o": "Travel to Uther's Tomb, located in the southern Plaguelands. Show Myranda the Hag Tirion's Gift.",
+  "d": "$N, you have done all that I have asked thus far. Only one step remains in your quest of redemption.$B$BYou must deliver the items you have collected to Taelan. Unfortunately, Taelan and his Scarlet Crusaders will attack you on sight.$B$BThere is only one way in which to deliver my message and that is through a guise of deception.$B$BTo the south you will find Uther's tomb. An old and trusted confidant of mine, Myranda, now resides there - seek her out. Show her the items and she will assist you.",
+  "p": "I knew this day would come.",
+  "c": "I was Tirion's most trusted advisor when he held rank as Lord of Mardenholde. I openly dissented the verdict passed by the Order of the Silver Hand and was banished for my insolence.$b$bHe has been through much heart ache and disappointment in his life, $R. Are you prepared to right the wrongs set upon the Fordrings?"
+ },
+ {
+  "id": 5862,
+  "t": "Scarlet Subterfuge",
+  "o": "Speak to Myranda to gain the Scarlet Illusion. Travel to Hearthglen while under the Scarlet Illusion and deliver Tirion's Gift to Highlord Taelan Fordring.$B$BHearthglen is to the north, Taelan should be inside of Mardenholde Keep.",
+  "d": "I am what you would call, an illusionist. Though I may be able to create an illusion to allow you entry into Hearthglen, be warned; my powers have their limitations.$B$BShould you travel too far from these lands, the effects of the illusion will cease. The spell itself takes a great amount of concentration and power from me, and thus, I can only sustain the effect for a short time.$B$BSpeak to me again when you are ready.",
+  "p": "Are you the reinforcements from Tyr's Hand?",
+  "c": "What is this, soldier?$b$b<Taelan opens the box and begins to examine its contents.>$b$bThis... this cannot be true. But all that you have shown me...$b$b<Taelan falls to one knee, his heartbeat quickens. The fury of ages is about to be loosed upon this town.>"
+ },
+ {
+  "id": 5881,
+  "t": "Calling in the Reserves",
+  "o": "Maggran wishes you to deliver a letter to Grish Longrunner at the Great Lift in the Barrens.",
+  "d": "The Horde does well keeping our troops fresh... since the Great War we have been prosperous here in Kalimdor.$B$BI need you to do me a favor, I have a lad by the name of Grish Longrunner protecting the Great Lift in the southern barrens. Give him this letter; the letter will let him know that I have a reserve warrior coming to relieve him of duty so that he can visit his family. He requested this sometime ago and he would be happy to hear the news.",
+  "p": "You have news from Maggran Earthbinder?",
+  "c": "This is great news; I have been sitting here guarding this hunk of wood for too long. Now I can spend some time with my family... Yippee!"
+ },
+ {
+  "id": 5882,
+  "t": "Salve via Hunting",
+  "o": "",
+  "d": "",
+  "p": "Possessing a Cenarion Beacon allows one to see a corrupted soul shard on those tainted beasts that are put down for the greater good. I grind shards into a usable reagent that goes into making Cenarion plant salve. We will use that salve to turn corrupted plants into healthy ones again.$b$bIn exchange for these shards, I will give you some Cenarion plant salves I have already prepared.",
+  "c": "Very well then, here are your Cenarion plant salves. Scour Felwood for corrupted plants, $N! Wherever they are, use the salve I have given you to purify them."
+ },
+ {
+  "id": 5883,
+  "t": "Salve via Mining",
+  "o": "",
+  "d": "",
+  "p": "If you possess a Cenarion beacon while mining in Felwood, you will be able to see tainted vitriol that corrupts a vein of raw metal. I know how to purify that vitriol and turn it into a reagent that goes into making Cenarion plant salve. You will then use that salve on plants you find in the wild that need saving.$b$bIf you have collected any tainted vitriol, I'll give you some Cenarion plant salve I have already prepared.",
+  "c": "Very well then, here's some Cenarion plant salve. If you find more vitriol when you mine in Felwood, remember to hold on to it for me! The more of it you find, the more salve I will be able to make."
+ },
+ {
+  "id": 5884,
+  "t": "Salve via Gathering",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon allows a seasoned herbalist to spot insidious fel creep - a malfeasant product of Felwood's corruption. My work here has taught me the knowledge of purifying fel creep into a cleansing reagent... used in what we now refer to as Cenarion plant salve.$b$bWhen you gather herbs in Felwood, you should encounter the fel creep so long as you have the beacon. In exchange for what you bring to me, I will give you pre-made Cenarion plant salve.",
+  "c": "Excellent work $N - every bit of this, once we purify it, will help us take back Felwood. Here, take some doses of Cenarion plant salve and head into the forest. The reclaiming of the land from the corruption waits for no $r!"
+ },
+ {
+  "id": 5885,
+  "t": "Salve via Skinning",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon will allow a well-trained skinner to spot patches of tainted skin from bounty gathered in Felwood. I convert these seemingly useless patches into a thick paste that serves as a quickening agent for Cenarion plant salve. When you skin your kills here in Felwood, be sure to have a beacon on you!$b$bWhen you collect tainted patches, bring them to me and I will give you some Cenarion plant salves that I have already made.",
+  "c": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, $N!"
+ },
+ {
+  "id": 5886,
+  "t": "Salve via Disenchanting",
+  "o": "",
+  "d": "",
+  "p": "The power of a disenchanted magical item is felt by the essence it creates. I've devised a way to turn raw essence used by enchanters into a suitable reagent for creating Cenarion plant salve. You don't need a Cenarion beacon for this; any suitably disenchanted item that yields lesser nether essences will work.$b$bI just need a single lesser nether essence; in exchange, I will give you Cenarion plant salves. The essence is extremely potent - a little definitely goes a long way! ",
+  "c": "Here are some Cenarion plant salves - I only need one lesser nether essence for this, $N. Essence is by far the most potent item I can make use of to turn swords into plowshares, as it were. If you need more salve, then find me here!"
+ }
+]

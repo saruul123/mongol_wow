@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11104,
+  "t": "Restorer No More",
+  "o": "",
+  "d": "",
+  "p": "The power within your ring is malleable, though reversing your choice is not easy.  Are you sure you want to replace its current form?",
+  "c": "The sands of time flow forwards easily.  They can be made to flow backward, but with great difficulty."
+ },
+ {
+  "id": 11105,
+  "t": "Champion No More",
+  "o": "",
+  "d": "",
+  "p": "The power within your ring is malleable, though reversing your choice is not easy.  Are you sure you want to replace its current form?",
+  "c": "The sands of time flow forwards easily.  They can be made to flow backward, but with great difficulty."
+ },
+ {
+  "id": 11106,
+  "t": "Defender No More",
+  "o": "",
+  "d": "",
+  "p": "The power within your ring is malleable, though reversing your choice is not easy.  Are you sure you want to replace its current form?",
+  "c": "The sands of time flow forwards easily.  They can be made to flow backward, but with great difficulty."
+ },
+ {
+  "id": 11107,
+  "t": "Bow to the Highlord",
+  "o": "Speak to Overlord Mor'ghor at Dragonmaw Base Camp in Shadowmoon Valley.$B",
+  "d": "I am unworthy to even carry a message directed at you, sir. Please forgive me for this indulgence. Overlord Mor'ghor has requested your presence in his chambers at once!",
+  "p": "",
+  "c": "You are the first highlord of the Dragonmaw, $N. The master himself has chosen to come here to promote you."
+ },
+ {
+  "id": 11108,
+  "t": "Lord Illidan Stormrage",
+  "o": "Meet Illidan Stormrage. Seek out Barthamus in the Lower City of Shattrath should you survive.",
+  "d": "Come, highlord $N. Illidan himself awaits us!",
+  "p": "You've had quite an adventure, $n.",
+  "c": "I was the first, you know. The abandoned child of a monster...$B$B<Barthamus shakes his head.>$B$BWe owe you everything, $N. You have single-handedly shattered the Dragonmaw empire and gathered enough information to keep my brethren occupied for ten lifetimes.$B$BIt is not much but there is something that we can offer... My kin have each offered to join you on your mission in Outland. Simply ask and they will bond with you."
+ },
+ {
+  "id": 11109,
+  "t": "Jorus the Cobalt Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11110,
+  "t": "Malfas the Purple Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11111,
+  "t": "Onyxien the Onyx Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11112,
+  "t": "Suraku the Azure Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11113,
+  "t": "Voranaku the Violet Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11114,
+  "t": "Zoya the Veridian Netherwing Drake",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is an honor to meet you, $N. We have all been keeping a close eye on your adventures and are grateful for all that you have done for the Netherwing Dragonflight.$B$BIf you choose me as your compatriot, I will fly you to the ends of this world and back. Whatever it is that you ask of me, I will do my best to comply.$B$BBe warned that you may only select one of us for your journeys in Outland. Once the selection has been made, you cannot change your mind."
+ },
+ {
+  "id": 11116,
+  "t": "Trial of the Naaru: (QUEST FLAG)",
+  "o": "A'dal in Shattrath City wants you to slay Magtheridon.",
+  "d": "Four trials you must pass before you are deemed worthy of the Tempest key.$B$BOnly one obstacle remains, mortal. Gather an army and travel to the lair of Magtheridon, deep inside Hellfire Citadel. Battle your way to the heart of the chamber and destroy the foul corrupter!$B$BDo this and you will be granted the Tempest key.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11117,
+  "t": "Catch the Wild Wolpertinger!",
+  "o": "Goldark Snipehunter has asked you to capture 5 Stunned Wolpertingers using the Wolpertinger Net. He mentioned that you must be intoxicated or wearing Synthebrew Goggles to see them.",
+  "d": "Here now. Ye hear that? There be sounds in them hills. Those're the wolpertingers! Wily beasts, they are, attracted by the smells o' Brewfest. I've a mind to catch me some, but I knocked me shin and can't outrun the buggers. Ye can help me, though!$b$bTake this net and cast it over the little blighters. Bring me a good five of 'em and I'll make it worth yer while! One more thing - ye gotta see through the eyes of a drunk to spot 'em! Load up on the booze or ask me fer some Synthebrew Goggles!",
+  "p": "Were ya drunk enough to see the little buggers?",
+  "c": "Well, lookee there! Ye've got yerself a right bushel o' wolpertingers, ye do!$b$b<He takes a deep drink from his tankard.>$b$bI'll tell ye what I'm gonna do. Since ye're such a spot-on $c, I'll let ye keep one'a these fer yer very own!"
+ },
+ {
+  "id": 11118,
+  "t": "Pink Elekks On Parade",
+  "o": "Visit the beer gardens outside of Stormwind, Darnassus, and the Exodar, zap three elekks at each location, and return to Goldark Snipehunter. You must be drunk or wearing Synthebrew Goggles to see the pink elekks.",
+  "d": "Getting drunk is a time-honored tradition at Brewfest -- it's damn near required! Thing is, I'm getting reports across Azeroth saying the celebration's plagued by hallucinations!  We can't have that!$b$bThese elekks can't be harmed by normal weapons -- they pass right through 'em -- so take this fabulous piece of gnomish machinery, visit the other beer gardens, and zap 'em to oblivion. Remember, you have to be drunk or wearing Synthebrew Goggles to see 'em! Talk to me if you need a pair.",
+  "p": "Are those pesky pink elekks gone yet?",
+  "c": "Good work! Pink elekks... what a preposterous notion!"
+ },
+ {
+  "id": 11119,
+  "t": "Assault on Bash'ir Landing!",
+  "o": "Speak with the Aether-tech Apprentice at Skyguard Outpost in the Blade's Edge Mountains.",
+  "d": "Heya, $g boyo : girly;!  Up fer some fun are ye?$B$BEvery couple o' hours, me aether-techs launch an assault on Bash'ir Landing, far ta the northeast in the Blade's Edge Mountains.  They say that they're there 'studying' the Bash'ir crystalforge, but it's an assault; there be no two ways about it.  We use the crystalforge to resupply, and there's always extra to be sold.$B$BGo on down ta the landin' pad and speak with the aether-tech apprentice.  He'll tell ye when the next mission is ta launch.",
+  "p": "",
+  "c": "Despite how Keller cares to characterize it, I prefer to think of our missions as research-oriented.$B$BBut yes, we do resupply the Skyguard while we're there. That is if we can stay long enough to do so.$B$BYou look like you'd be willing to keep the ethereals off of our backs. If you can manage to for long enough, we'll sell you surplus items that we create at the crystalforge, so bring your apexis shards and crystals!$B$BWe leave in 2 hours."
+ },
+ {
+  "id": 11120,
+  "t": "Pink Elekks On Parade",
+  "o": "Visit the beer gardens outside of Silvermoon, Thunder Bluff, and the Undercity, zap three elekks at each location, and return to Glodrak Huntsniper. You must be drunk or wearing the Synthebrew Goggles to see the pink elekks.",
+  "d": "Look. We're running a business here. People being drunk? It's good business. But I'll tell ya one thing that puts a cramp in the profits - hallucinations. Wouldn't ya know it, the boys are reporting that the sot- er, the loyal customers are seeing pink elekks everywhere.$b$bI don't need my customers unsettled. Look, take this ray and travel to the other beer gardens to take care of 'em for me, would ya? And be sure to get drunk or wear Synthebrew Goggles! Talk to me if ya need a pair.",
+  "p": "Ya clear up that little problem we talked about?",
+  "c": "Ya did good, kid. Here, take this as payment for the job ya did."
+ },
+ {
+  "id": 11121,
+  "t": "DAILY TEST QUEST (RAID)",
+  "o": "Speak with <QUESTGIVER> in the <AREA>.",
+  "d": "<NYI>Seek <QUESTGIVER> in <LOCATION>.  S/he wishes for you to aid them in a difficult task.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11122,
+  "t": "There and Back Again",
+  "o": "Get a keg from Flynn Firebrew in Kharanos and return it to Pol Amberstill.  Do this 3 times before your ram goes away.",
+  "d": "So you want to help out at Brewfest?  I've got the perfect task for ya.  I'll put you on one of my racing rams and you head down to Kharanos.  I've got some kegs I need to pick up.  $b$bFlynn Firebrew is waiting on a hill near a stack of kegs.  He'll toss you a keg when you get near, then you run the keg back here and toss the keg to Pol Amberstill.  You can only carry one at a time.  $b$bReady?",
+  "p": "I need those kegs! So, what are yeh waitin' for!?!",
+  "c": "Thanks a lot for your help! As long as Brewfest is going and the Dark Iron Dwarves are attacking, I'll need some help shipping kegs. So if you want to work for more tickets, talk to me every day.$B$BBut enough about that, I need to pay you for the job you just did. Here are your tickets, have fun at Brewfest!"
+ },
+ {
+  "id": 11123,
+  "t": "Inspecting the Ruins",
+  "o": "Speak to Inspector Tarem at the Shady Rest Inn.",
+  "d": "Poor James never recovered from the destruction of the Shady Rest and the murder of his family. The boys and I are doing what we can to find the monsters who did this.$B$BI've sent our best investigator, Inspector Tarem, out to the ruins, but this is too big a job for any one man. If you'd lend Tarem a hand, we'd appreciate it. Light knows, we'd all like to be out there helping.$B$BThe main road will lead you to the inn, but take care. Your journey will take you beyond the protection of my soldiers.",
+  "p": "",
+  "c": "It's good to see that Captain Vimes is finally assigning others to this investigation.$B$BI've used a reflective powder to dust the area. It will reveal suspicious objects and markings, helping you to focus your efforts. Look over anything the dust illuminates."
+ },
+ {
+  "id": 11124,
+  "t": "Inspecting the Ruins",
+  "o": "Speak to Inspector Tarem at the Shady Rest Inn.",
+  "d": "If you follow the road south from the village, and then west toward the Barrens, you'll come across the ruins of the Shady Rest Inn.$B$BTheramore has sent an investigator to discover how the inn met its fate. Normally, I'd advise you to steer clear, but we have orders from Orgrimmar to 'assist' in the investigation.$B$BAccept any help the Theramore investigator offers, even feed him a tidbit or two of information if you'd like, but save your real findings for me.",
+  "p": "",
+  "c": "<The inspector regards you with what can only be distrust.>$B$BI've been told that you're to... aid in this investigation. Very well, then.$B$BI've been using this powder to search the ruins for clues that might help identify the attackers. It will illuminate anything that might have been involved in the attack. Don't hesitate to examine anything that looks suspicious."
+ },
+ {
+  "id": 11126,
+  "t": "Traitors Among Us",
+  "o": "Confront 5 Deserter Agitators and return to Calia Hastings near the docks in Theramore.",
+  "d": "It's good to meet you, $c. I've come to Theramore to help eliminate the problem of the deserters. Not only have some of the men abandoned their posts, but some have filtered back into the town.$B$BThese deserter agents are spreading lies and propaganda, hoping to convince others to join their ranks.$B$BThey're at virtually every guard post throughout the town and the docks. Find them, expose them, and discredit them. At this point, anything more risks inspiring more sympathy for them.",
+  "p": "Have you driven the deserter agents from Theramore?",
+  "c": "Well done, $N. I think we managed to catch them off guard. Their agents probably thought themselves safe within the city walls.$B$BGiven time, the agitators will return and spread their lies again. We'll use the time you've bought to shut out the deserters further."
+ },
+ {
+  "id": 11127,
+  "t": "<NYI>Thunderbrew Secrets",
+  "o": "Steal Grimbooze's Secret Recipe from Grimbooze's camp in Westfall and return to <NAME> Barleybrew in the Brewfest Grounds.",
+  "d": "Now I'd never steal a thing from our Thunderbrew cousins. They're good people. But if you want to get ahead in this business,sometimes you have to do unfortunate things,and that's why I hire other people to do it for me.$b$bGrimbooze Thunderbrew is a nutty member of the family who lives south of Moonbrook in the hills of Westfall. I hear he has a new recipe for ale,and I want it before it hits the market. You can fetch it for me,can't you? I'll reward you. A Barleybrew pays his debts.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11128,
+  "t": "Propaganda War",
+  "o": "Bring the Deserter Propaganda to Calia Hastings near the docks in Theramore.",
+  "d": "The deserter agents were doing far more than just chatting up the guards. We've found a number of leaflets the deserters somehow managed to smuggle in on a ship in the docks.$B$BThe ship used to transport the leaflets is still in Theramore, at the farthest dock. If you can sneak aboard and capture the rest of their propaganda documents, their agents will lose their most powerful tool. Be careful! The ship is manned by seasoned privateers and the cargo is probably being kept in the captain's quarters.",
+  "p": "Did you manage to find and capture the remaining propaganda leaflets?",
+  "c": "<The SI:7 agent nods in approval.>$B$BExcellent. All that remains is to discredit the deserters so that they'll never gain a foothold in Theramore again, and I have just the plan to do it."
+ },
+ {
+  "id": 11129,
+  "t": "Kyle's Gone Missing!",
+  "o": "Ahab Wheathoof at Bloodhoof Village in Mulgore wants you to feed his prized puppy, Kyle the Frenzied.$B$BFeed Kyle Tender Strider Meat and return to Ahab Wheathoof.",
+  "d": "Help, $N! My prized puppy, Kyle, has run away! I just know he's running around Bloodhoof Village, lost and hungry.$B$BWill you find him and feed him? Once he eats he will settle down and come home.$B$BTo feed him you will need to find food. His favorite meal is tender strider meat. Just venture east and you should find plenty of striders. Hunt one down and take its succulent meat to Kyle. When you see Kyle in town, put the meat down and he is sure to come to you.",
+  "p": "Did you find Kyle?",
+  "c": "Fantastic work, $N! Kyle came home as soon as he ate and went straight to bed. Thank you for your help."
+ },
+ {
+  "id": 11130,
+  "t": "Oooh, Shinies!",
+  "o": "Griftah wants you to take Griftah's Note to Budd in the Ghostlands, just outside of Zul'Aman.",
+  "d": "Come closer, $G man:sweetheart;! Let ol' Griftah look at yer shiny things....$b$bHmm. Yeh, yeh, not bad, but ya can do better. Much, much better.$b$b<Griftah leans in and whispers.>$b$bThere be priceless shinies everywhere, $N, ya just gotta know where to look! It be yer lucky day; I know a fella who can help ya find more shinies than ya can ever carry.$b$bVisit my ol' friend, Budd, near Zul'Aman and show him this here. Ya be tellin' him ol' Griftah sent ya and he'll let ya in on his new project.",
+  "p": "<Budd eyes the note suspiciously.>$B$BWhat have you there, $C?",
+  "c": "<Budd reads the note.>$B$BAhh! A friend of Griftah? Welcome!$B$BYou have impeccable timing, friend. As fate would have it, I recently lost my latest partners. Tragic, truly, but great rewards often have a high price. Best not to dwell on the negative!$B$BYou've doubtlessly heard of my countless exploits and discoveries. Well, all of that was nothing compared to this! Truth is, we're close to making history here at Zul'Aman and, by fate's decree, you're in on the ground floor!"
+ },
+ {
+  "id": 11131,
+  "t": "Stop the Fires!",
+  "o": "The Costumed Orphan Matron wants you to help put out all the village fires.  When they are out, speak again to the Costumed Orphan Matron.",
+  "d": "You must help us!  The Headless Horseman is attacking the village.  Fires are everywhere!  The children aren't safe!$B$BPlease, $n, join the fire brigade.  Grab a bucket and toss it on the fires, or pass it to a friend who's closer to the blaze.  Put out all the fires and we may yet be saved!",
+  "p": "$N, you promised to save the children!",
+  "c": "Oh, thank you! May the Light bless your good works, kind $glord:lady;. The shadow of the Dark Horseman yet looms, but at least, for now, the village is safe from his flames."
+ },
+ {
+  "id": 11132,
+  "t": "Promises, Promises...",
+  "o": "Budd Nedreck in Hatchet Hills wants you to retrieve his map from High Priest Nalorakk's terrace in Zul'Aman.",
+  "d": "My inscrutable theories confirm rumors of vast treasure in Zul'Aman. There'll be mounts and mansions for everyone! First things first, though. You must earn your share, after all....$b$bOur initial efforts here haven't gone as well as I hoped. In fact, my map, and the recruits I lent it to, have gone missing. They were after a troll-beast named Nalorakk.$b$bForget the crew, I need that map! Succeed, and you'll go down in history as the one who helped Budd Nedreck unlock the secrets of Zul'Aman!",
+  "p": "Ahh yes, $n, isn't it?$b$bHave you recovered my map yet?",
+  "c": "<Budd looks a bit shocked.>$b$bOh? You've found it?$b$bAhem, I mean, of course you have! Well done, $c.$b$bLet me see if I can find you a little something nice... ahh yes, this should do."
+ },
+ {
+  "id": 11133,
+  "t": "Discrediting the Deserters",
+  "o": "Calia Hastings wants you to distribute the Altered Leaflets to 6 Theramore Guards, then report back to her near the docks in Theramore.",
+  "d": "I've altered the leaflets you captured from the deserters' mercenary friends at the docks. Now, anyone who reads them will get an entirely different view of the deserters and their aims.$B$BIf we distribute these to enough of the guards, the deserters will be too embarrassed to ever reestablish their presence within our walls.$B$B<Calia hands you a stack of the altered leaflets.>$B$BWhy don't you get started while I plan our next move?",
+  "p": "I thought I heard laughter coming from the barracks. Did you distribute those leaflets I gave you?",
+  "c": "<Calia chuckles as you describe the guards' reactions to the propaganda.>$B$BJust as I'd hoped! I think it's safe to say any deserter agents who try to infiltrate Theramore will be laughed right out of town!"
+ },
+ {
+  "id": 11134,
+  "t": "The End of the Deserters",
+  "o": "Capture Gavis Greyshield, then report to Calia Hastings near the docks in Theramore.",
+  "d": "Now that we've eliminated the deserters from Theramore, it's time to complete this operation. My local contacts have reported that the deserters base their operations in a ship moored on a small island to the southeast of the docks.$B$BArresting their leader, Gavis Greyshield, should cause the others to lose their will to fight. Find him within the ship and convince him to surrender. I wouldn't be surprised if he puts up a bit of a fight for show, but then surrenders when he understands he can't win.",
+  "p": "Have you completed your assault on the deserter base?",
+  "c": "Gavis' request isn't as outlandish as it might sound. With the proper handling, Lady Jaina can return the deserters to the fold, but that is her decision, of course.$B$BIt's been a pleasure working with you, $N. Without your help, I doubt the operation would've gone so smoothly. When I make my report in Stormwind, it will name you as the $c who ended the deserter threat."
+ },
+ {
+  "id": 11135,
+  "t": "The Headless Horseman",
+  "o": "Find the Headless Horseman's pumpkin Shrine.",
+  "d": "The Headless Horseman is driven away, but he will return as long as Hallow's End looms.  $n, end our misery, and the insane lament of the Horseman.  Face him when he is joined with his head, and destroy it!$B$BHe rests in the Forlorn Cloister of the Scarlet Monastery, in Tirisfal Glades.  Find his pumpkin shrine and say this:$B$B  Horseman, rise$B  Your time is nigh$B  You felt death once$B  Now, know demise!$B$BGo, $n.  And may the Light go with you.",
+  "p": "",
+  "c": "The origin of this shrine is unknown, but there is no doubt to whom it pays homage..."
+ },
+ {
+  "id": 11136,
+  "t": "A Disturbing Development",
+  "o": "Report to Captain Wymor at Sentry Point.",
+  "d": "Reports from our scout patrols have recently taken a disturbing turn. They tell of men wearing red Defias bandanas walking the Dreadmurk Shore north of Theramore's walls.$B$BWreckage in the area suggests they may be survivors of a shipwreck, but our information is limited. Captain Wymor at Sentry Point, a guard tower to the north of the city, is looking for help in following up on the reports.",
+  "p": "",
+  "c": "<The captain makes no effort to hide that he's assessing your abilities.>$B$BSo you've heard about the recent shipwreck off the coast? Good, I could use some help confirming my suspicions about the survivors. Welcome aboard, $N."
+ },
+ {
+  "id": 11137,
+  "t": "Defias in Dustwallow?",
+  "o": "Obtain the Defias Orders from Garn Mathers and bring them to Captain Wymor at Sentry Point.",
+  "d": "My scouts have reported a shipwreck just off the beach to the northeast. Shipwrecks aren't all that unusual out here, but the reports also indicated the survivors were all wearing red bandanas!$B$BThe Defias are craftsmen and guildsmen, not sailors. What are they doing at the site of a shipwreck on a continent they've no interest in?$B$BTheir leader is rumored to reside on a large island just off the coast to the northeast of the tower. Kill him and retrieve any documents you find in his possession.",
+  "p": "Were you able to track down their leader?",
+  "c": "<Captain Wymor accepts the orders from you and reads over them.>$B$BWhat in the world could 'precious cargo' refer to? The Defias have done some small time smuggling back in lands of Stormwind, but this seems out of their league. The language of these orders suggests a wealthy or noble patron."
+ },
+ {
+  "id": 11138,
+  "t": "Renn McGill",
+  "o": "Bring the Defias Orders to Renn McGill in the waters off the Dreadmurk Shore.",
+  "d": "From the wording of the orders you recovered, it looks like the first priority of the Defias will be to locate and secure whatever cargo they possessed.$B$BSI:7 has had a salvage diver named Renn McGill working out of Theramore for some time. When he heard about the shipwreck, Renn went north to dive near the islands the Defias now occupy.$B$BIf we're to beat the Defias to this cargo, we'll need his help. Look for him in the waters northeast of a small island just north of the island you visited earlier.",
+  "p": "Well met, $c. What brings you out here?",
+  "c": "<Renn looks over the orders.>$B$BSo there was valuable cargo on board! We have to locate it before the Defias recover it. These guys are no divers, but we're going to need some of their gear if you're to help me find the cargo."
+ },
+ {
+  "id": 11139,
+  "t": "Secondhand Diving Gear",
+  "o": "Bring the Tool Kit and Damaged Diving Gear to Renn McGill in the Dustwallow Marsh.",
+  "d": "There's plenty of wreckage strewn across the bottom of the water from here to Alcaz, and the Defias have already got divers out there looking around. With the help of some of their gear, we can get you suited up and ready to join the hunt, but you'll have to do some creative \"borrowing\" first.$B$BSearch this island for a crate of diving gear and something to repair it with. When you've got them, bring them to me and I'll have your gear ready in no time!",
+  "p": "Let's see what you managed to \"borrow\" from the Defias.",
+  "c": "Wow, this is in worse shape than I'd thought, and these tools...$B$BWell, I said I'd get this back into working condition for you, so I'd better get to work."
+ },
+ {
+  "id": 11140,
+  "t": "Recover the Cargo!",
+  "o": "Bring 6 Salvaged Strongboxes to Renn McGill in Dustwallow Marsh.",
+  "d": "Well, I was able to make enough repairs to this gear to let you dive for awhile, anyway. I wouldn't count on it holding out for a long time, though.$B$BThe wreckage of the ship is strewn along the bottom from the east coast of this island out toward Alcaz Island. While that helm holds out, locate pieces of the wreckage on the bottom between this island and Alcaz. Use this salvage kit to search the wreckage for pieces of the cargo. Be careful not to venture too close to Alcaz Island. Those hydra are fierce.",
+  "p": "Did your search of the wreckage reveal anything about the Defias cargo?",
+  "c": "<Renn rifles through the contents of the strongboxes you recovered.>$B$BGood work. Now, let's see if our 'precious cargo' is in here...."
+ },
+ {
+  "id": 11141,
+  "t": "Jaina Must Know",
+  "o": "Speak with Lady Jaina Proudmoore in Theramore.",
+  "d": "You must bring news of our findings to Lady Jaina without delay! If the Defias were transporting a prisoner, there's no telling who it might be or if the person is still alive!$B$BOne thing is for certain, $N. The Defias wouldn't go to all this trouble for some petty grudge. Their prisoner must have been someone of importance. Lady Jaina would know better than anyone else what these findings mean. You'll find her at the top of the mage tower at Theramore's center.",
+  "p": "",
+  "c": "You and Renn have done excellent work in bringing this information to light and reporting it immediately. Now, we must confirm your findings. The implications are too great if we are wrong."
+ },
+ {
+  "id": 11142,
+  "t": "Survey Alcaz Island",
+  "o": "Speak to Cassa Crimsonwing and use one of her gryphons to survey Alcaz Island. When your survey is complete, speak with Lady Jaina Proudmoore in Theramore.",
+  "d": "It looks like Renn's hunch about Alcaz Island was right. We need to survey that island, but it would take a whole brigade of troops to fight our way in there.$B$BTheramore's defenses can't weather such a hit, so I've arranged with Cassa Crimsonwing, the apprentice to Theramore's gryphon master, to allow you to use one of her beasts to survey Alcaz from the air.$B$BAlcaz Island holds the key to the mystery of the Defias' involvement in this kidnapping.",
+  "p": "",
+  "c": "<Lady Jaina listens intently as you report the results of your aerial survey.>$B$BA rune circle, dragonkin? The Defias have allied themselves with HER? The traitor?$B$B<Lady Jaina composes herself and prepares to explain.>"
+ },
+ {
+  "id": 11143,
+  "t": "A Grim Connection",
+  "o": "Report to Captain Darill at North Point.",
+  "d": "I've spoken with Inspector Tarem regarding the evidence you gathered from the ruins of the Shady Rest Inn. He seems certain that the hoofprints and the shield you found there point to the Grimtotem clan of tauren.$B$BWith reports of Grimtotem activity on the rise in the marsh, this has to be more than a mere coincidence. I'm sending you to speak with Captain Darill, who is something of an expert on the Grimtotems. Follow the road north out of town to North Point tower. It's the second outpost on the road.",
+  "p": "",
+  "c": "Captain Vimes thinks the Grimtotems are behind the destruction of the Shady Rest Inn? They wouldn't have been first on my list of suspects, but if Captain Vimes sent you here to follow up on a lead, he must have his reasons. Regardless, the Grimtotems have been a thorn in our side for some time and we're always glad to have the extra help."
+ },
+ {
+  "id": 11144,
+  "t": "Confirming the Suspicion",
+  "o": "Bring the Grimtotem Battle Plan to Captain Darill at North Point Tower.",
+  "d": "The Grimtotems may be the most warlike of all the tauren clans, but they're by no means unorganized. If they're the ones who put the torch to the Shady Rest Inn, they'll have had orders from one of their clan elders.$B$BThere's a large Grimtotem settlement called Blackhoof Village to the northwest. They've been using it as a base to attack the tower, but I'll bet that you'll find the orders you're looking for there. Check the village's elders for traces of the orders you seek.",
+  "p": "Were you able to find any trace of the orders?",
+  "c": "<Captain Darill glances at the battle plan.>$B$BI'd say it doesn't get any clearer than this. They've taken it upon themselves to fight back against human settlements in the area and I have little doubt Theramore is next on their list."
+ },
+ {
+  "id": 11145,
+  "t": "Prisoners of the Grimtotems",
+  "o": "Sergeant Lukas at North Point Tower wants you to free 5 Theramore Prisoners.",
+  "d": "We're doing all we can to keep the Grimtotem raiders at bay, but they keep launching assaults on the tower. Even worse, they've managed to discover and capture the patrols the captain sends out to gather information and safeguard the road.$B$BI suspect the captives are being held in Blackhoof Village, to the northwest. Knowing the Grimtotems, the defenders of the village probably carry the keys to the prisoners' cages with them. I don't care what you have to do, $c, just bring back my men alive.",
+  "p": "Did you manage to free the captives at Blackhoof Village?",
+  "c": "The freed captives have already begun returning from Blackhoof Village. The information the captain is receiving from the prisoners will give us an advantage in our next battle against the Grimtotems.$B$BYou have my thanks and that of the men. "
+ },
+ {
+  "id": 11146,
+  "t": "Raptor Captor",
+  "o": "Sergeant Lukas at North Point Tower wants you to capture 6 raptors. You can capture either Bloodfen Raptors or Bloodfen Screechers.",
+  "d": "The patch of swamp to the northeast is home to a particularly nasty breed of raptors. We've lost more than one unwary soldier to them, but I think we can turn them against our Grimtotem neighbors.$B$BTake this rope and use it to capture bloodfen raptors or bloodfen screechers that you've subdued. I wouldn't try to capture one of the beasts until you've weakened them quite a bit in combat. It's going to be quite a struggle.",
+  "p": "Did you capture those raptors?",
+  "c": "You look a little scratched up, but nothing major. You're certainly in a lot better shape than the Grimtotems will be when our new raptor friends get done with them."
+ },
+ {
+  "id": 11147,
+  "t": "Unleash the Raptors",
+  "o": "Sergeant Lukas at North Point Tower wants you to place the Raptor Bait near the windmill in Blackhoof Village.",
+  "d": "Now that we've got our raptors, our next move is to \"encourage\" them to attack the Grimtotems at Blackhoof Village to the northwest.$B$BI've got a leftover haunch of... well, it doesn't really matter what it is. It'll be your bait. Set it down on the ground in Blackhoof Village near the windmill in the center of the settlement. The raptors should take care of the rest, if their training took.",
+  "p": "Have you set the raptors loose in Blackhoof Village?",
+  "c": "<The sergeant doesn't bother to hide his grin.>$B$BGood. That ought to forestall a raid or two."
+ },
+ {
+  "id": 11148,
+  "t": "Arms of the Grimtotems",
+  "o": "Captain Darill at North Point Tower wants you to bring him 7 Blackhoof Armaments.",
+  "d": "If the equipment you found at the ruins of the inn belonged to a Grimtotem attack party, there's likely to be more just like it within their camp to the northwest.$B$BWe haven't been able to gather much information about Blackhoof Village, but judging from the size of the raiding parties, there's a substantial force based there.$B$BDo whatever you have to to capture some of their equipment so that we can compare it with your findings from the inn.",
+  "p": "Did you get those weapons from Blackhoof Village?",
+  "c": "<Captain Darill inspects the armaments you've brought from Blackhoof Village.>$B$BThere's no doubt about it. These match the description exactly, but there's just one problem -- these have never been used in battle. Blackhoof Village must not be the only Grimtotem post in the marsh."
+ },
+ {
+  "id": 11149,
+  "t": "Tabetha's Assistance",
+  "o": "Speak with Tabetha at her farm.",
+  "d": "I can't spare any men to help search for a second Grimtotem outpost, but I think I know of someone who might be able to help you.$B$BDeep in the Quagmire, to the south, there is a small farmstead owned by Tabetha. She may seem little more than an old hermit, but the truth is that she's a mage and scryer of some renown. Follow the road south to her farm and seek her help in finding the culprits responsible for the massacre at the Shady Rest Inn.",
+  "p": "",
+  "c": "So you want me to scry for Grimtotems, eh? And what will you say when I tell you there's no need?"
+ },
+ {
+  "id": 11150,
+  "t": "Raze Direhorn Post!",
+  "o": "Burn the North Tent, East Tent, and the Northeast Tent at Direhorn Post, then return to Tabetha at her farm.",
+  "d": "There's no scrying necessary to see the trouble my new \"neighbors\" are creating. And if this is the band that burnt down the Shady Rest Inn, as you claim, there's no reason to tolerate their presence any longer.$B$BTake this torch and raze their camp to the ground! You'll find Direhorn just to the north of my farm. You can't miss it, really, as the Grimtotems have done a splendid job of announcing their presence with those totems they favor.",
+  "p": "Have you put that torch to good use?",
+  "c": "I hope the Grimtotems got the message. Any attempt to return will be met with far worse than a mere torch. My apprentices and I will see to that."
+ },
+ {
+  "id": 11151,
+  "t": "Justice for the Hyals",
+  "o": "Speak to Captain Garran Vimes at Foothold Citadel in Theramore.",
+  "d": "Although these Grimtotems were simply a nuisance to me, Captain Vimes will want to know of your deeds. Bring him the news that you have tracked down and dealt with those responsible for the burning of the Shady Rest Inn.$B$BIt's too late to save Jim Hyal's family, but perhaps the Grimtotems will think twice before attacking anyone connected to Theramore.",
+  "p": "",
+  "c": "<The captain listens to your report intently.>$B$BWe have avenged James and his family, but not even that can restore what was destroyed."
+ },
+ {
+  "id": 11152,
+  "t": "Peace at Last",
+  "o": "Captain Garran Vimes at Foothold Citadel wants you to lay the Wreath at the Hyal Family Monument. ",
+  "d": "I wish we had a way of letting James Hyal's wife and son know that we have brought their murderers to justice.$B$B<Captain Vimes produces a small wreath decorated with flowers.>$B$BThere are some who say that their spirits will know, even if we cannot reach them. It's not much, but I'd like you to lay this wreath at the Hyal family monument. It's one of the larger stones in the graveyard just north of Theramore's gates.",
+  "p": "Did you lay the wreath?",
+  "c": "<Captain Vimes smiles slightly as you relate the events you witnessed at the Hyal family grave.>$B$BIt's good to know that they understand. You didn't tell them about James, did you?$B$BI'll deliver his wife's message to him, but I doubt he'll understand."
+ },
+ {
+  "id": 11153,
+  "t": "Break the Blockade",
+  "o": "Take Petrov's Cluster Bombs and drop them on enough pirates to kill or destroy 25 Blockade Pirates and 10 Blockade Cannons.  Once you've accomplished that, return to Bombardier Petrov at Westguard Keep.",
+  "d": "All of our ships are sunk! We need your help to break the pirate blockade below in the Shattered Straits!$B$BTake these cluster bombs and hitch a ride on the zeppelin that Harrowmeiser has 'loaned' to us.  He'll fly you over the decks of those pirate scoundrels, and you make sure to give it to them good!$B$BIf you can't bomb them to smithereens, I'm afraid we'll never be able to break the blockade.",
+  "p": "We're talking again are we? That must mean that you've done it! You've shown those rotten Northsea pirates a thing or two!$b$bRight?",
+  "c": "That's what I wanted to hear!  You've got the stuff, $N, that's for sure!$B$BYou think maybe you could come back again tomorrow when we've made more cluster bombs?  I'd have you back out there right now, but my assistant, Feknut, isn't back from collecting more bat guano for them.$B$BI wonder what's taking him so long?"
+ },
+ {
+  "id": 11154,
+  "t": "Scare the Guano Out of Them!",
+  "o": "Collect 10 Darkclaw Guano and deliver them to Engineer Feknut at Steel Gate.",
+  "d": "You, yes you... I need your help!$B$BPetrov sent me up here to get bat guano for the cluster bombs he's making back at the keep. He sent me to my doom!$B$BThe darkclaw bats hang out in the Rivenwood to the north, but I'm not taking a step off of this platform unless it's to go home!$B$BBut you... you could get it for me! Yes? Pretty please?!!!$B$BHere, take these firecrackers. My thinking is that if you drop 'em underneath the bats, the guano will be scared right out of them!",
+  "p": "Please tell me that you have the darkclaw guano?!",
+  "c": "Ugh, what's that smell? Ack, it's you! Well, I guess I did send you on a smelly job!$B$BThank you, $c. Don't worry, I'll get this stuff back to Petrov as soon as we get out of here.$B$B<Feknut yells out loud to the explorers.>$B$BYou hear that guys? Lets get the hell out of here!!!"
+ },
+ {
+  "id": 11155,
+  "t": "Shoveltusk Soup Again?",
+  "o": "Chef Kettleblack has asked you to obtain 6 Shoveltusk Meat and deliver them to her at Westguard Keep.",
+  "d": "With all of the strange disappearances of our livestock, we better resupply in a hurry, or the beasties around these parts will be the least of our worries!$B$BSeeing as I'm in charge of feeding this lot, I'm going to need you to head east and get me some meat. More to the point, I'm looking to cook us up some tender shoveltusk meat.$B$BJust beware the stags... they're mean!",
+  "p": "There's nothing as sumptuous as the tender meat carved from the flanks of a shoveltusk!",
+  "c": "This will make a fine meal for the men.$B$B<The chef leans in closer to whisper in your ear.>$B$BHere, $g boy : deary;, take some for yourself. You look like you could use some more meat on your bones!"
+ },
+ {
+  "id": 11156,
+  "t": "Direhorn Raiders",
+  "o": "Kill 12 Direhorn Grimtotems and return to Apprentice Morlann at Tabetha's Farm.",
+  "d": "The Grimtotems up at Direhorn Post, just to the north, are getting bolder by the day. At night, you can often hear them chanting about their deeds in battle against people who've tried to settle here.$B$BThey're determined to drive us from Tabetha's farm even though she's trained generations of apprentices here. We've defended the farm as best we can, but Apprentice Garion was wounded in the last attack.$B$BGo to Direhorn Post and kill any Grimtotem you can find! The attacks must stop.",
+  "p": "Have you made any progress in stopping the Grimtotem attacks?",
+  "c": "<Apprentice Morlann nods.>$B$BGood. Can't say I'll miss the company, if you can call it that. You'd think at least in the middle of the swamp you'd get some privacy, you know?"
+ },
+ {
+  "id": 11157,
+  "t": "The Clutches of Evil",
+  "o": "Destroy 15 Proto-Drake Eggs and 15 Proto-Whelps, and then return to Captain Adams at Westguard Keep.",
+  "d": "$N, I don't trust anyone but you to take care of this.  I need the proto-drake eggs and proto-whelps in the burning forest to the southeast destroyed!$B$BSince we arrived here, the Ember Clutch has been ablaze; there must be some sort of perverse magic at work. And lately it seems to be growing. My men tell me that if we don't do something quickly, we'll be surrounded on all sides by the fire within a few weeks' time!$B$BGet down there and eliminate the threat by destroying those eggs and the proto-whelps.",
+  "p": "How go your efforts?",
+  "c": "Good work! With any luck at all, the destruction of their egg clutches and whelps should drive off those fiery beasts and prevent that magical blaze from spreading.$B$BWait... what's that sound? It sounds like the beating of wings."
+ },
+ {
+  "id": 11158,
+  "t": "Bloodfen Feathers",
+  "o": "Bring 5 Bloodfen Feathers to Brogg at Mudsprocket.",
+  "d": "Are you startled by Brogg's presence here, little $r? Don't worry. Goblins at Mudsprocket are Brogg's friends and you can be, too.$B$BBrogg left Brackenwall Village when new overlord not take revenge against black dragonkin for destroying old home and killing many of Brogg's old friends. Brogg come here to lay friends spirits to rest and avenge them, but Brogg need help preparing. For ritual, Brogg need feathers with strong magic, like ones worn by raptors at Bloodfen Burrow to the west of town.",
+  "p": "<Brogg looks at you hopefully.>$B$BYou bring Brogg feathers?",
+  "c": "<Brogg accepts the feathers.>$B$BBrogg pleased with these feathers. Very strong magic. Brogg not know what raptors do to give feathers power, but raptor feathers always best for ritual."
+ },
+ {
+  "id": 11159,
+  "t": "Spirits of Stonemaul Hold",
+  "o": "Brogg, at Mudsprocket, wants you to put 10 Stonemaul Spirits to rest.",
+  "d": "Brogg has completed the totem that will put the spirits of his friends to rest. When the dragonkin came, they killed all Stonemaul who did not flee. Brogg fled with Overlord Mok'Morokk, hoping to lead a counterattack with other Stonemaul survivors.$B$BThe counterattack never came and the spirits of the Stonemaul dead still haunt Brogg and the others. Take this totem north to Stonemaul Ruins and use it near ogre skeletons to draw the spirit to you. Defeat the spirit to give it rest with its bones.",
+  "p": "Brogg must know, have you brought peace to the violent spirits of the Stonemaul?",
+  "c": "Brogg thanks you for your help, although he knows Overlord Mok'Morokk never will. At least surviving Stonemaul can finally focus on problems with the living and leave dead where they belong. Only one thing remains for Brogg to do."
+ },
+ {
+  "id": 11160,
+  "t": "Banner of the Stonemaul",
+  "o": "Retrieve the Stonemaul Banner and bring it to Brogg at Mudsprocket.",
+  "d": "When the dragons came and took over Brogg's old home, Stonemaul ogres fled and left everything behind, including clan's banner.$B$BBrogg knows banner was kept deep in Stonemaul ogre mound, but these days it's called Den of Flame. Brogg must have clan banner to get his revenge on dragons who killed his friends.$B$BBrogg's clan's old mound, Den of Flame, is northwest of Mudsprocket and crawling with dragonkin. Banner will be deep inside the cave. Be careful, $N.",
+  "p": "You bring Stonemaul banner?",
+  "c": "You have Brogg's thanks, $N. Brogg has big plans for clan banner."
+ },
+ {
+  "id": 11161,
+  "t": "The Essence of Enmity",
+  "o": "Bring 10 Black Dragonkin Essences to Brogg at Mudsprocket.",
+  "d": "To make the totem Brogg will need for his ritual, he must use the essences of the creatures who killed his friends. The hate and anger of Brogg's enemies will fuel the magic of his vengeance.$B$BTrack down Firemane ash tails, scouts, or scalebanes and use Brogg's totem on their corpses. Only when the dragonkin die will they give up their essences.$B$BThe creatures you seek swarm over the Den of Flame to the northwest and the Stonemaul Ruins to the north.",
+  "p": "Do you have the essences? Brogg must have them to avenge his friends!",
+  "c": "You have Brogg's thanks, $N. Once Brogg adds their magic to the totem, it will be able to redeem the spirits of Brogg's fallen friends."
+ },
+ {
+  "id": 11162,
+  "t": "Challenge to the Black Flight",
+  "o": "Plant the Stonemaul Banner near the entrance to Onyxia's Lair, wait for Onyxia's response, then return to Brogg at Mudsprocket.",
+  "d": "Brogg relishes the thought of taking his revenge on the black dragonkin of the marsh. $N, you have been very helpful in preparing for this moment. Will you help?$B$BTake Brogg's clan banner and travel east until you see a cave like a dragon's mouth. At the entrance to that cave, plant Stonemaul banner and issue Brogg's challenge to Onyxia.$B$BBrogg and the Stonemaul will have their lands back!",
+  "p": "Brogg will have his revenge!",
+  "c": "<Brogg listens as you recount your experience at the entrance to Onyxia's lair.>$B$BBrogg suspected Onyxia would be too much of a coward to confront you. Just like black dragonflight to attack when victory is guaranteed.$B$BBrogg is grateful for your help, $N, and he will never forget what you have done for him. Brogg will never give up his quest to bring Stonemaul back where they belong."
+ },
+ {
+  "id": 11163,
+  "t": "Undercover Sister",
+  "o": "Report to Donna Brascoe to collect a reward for your heroism in Zul'Aman. Donna is currently stationed in the Ghostlands, just outside Zul'aman.",
+  "d": "<Donna looks around and then whispers to you.>$b$b$n, what I'm about to tell you must remain confidential, understood?$b$bI've been sent by the Shattrath Peacekeepers to infiltrate Budd's gang here. Truth be told, since you first arrived you've been a key person of interest in my investigation. $b$bBut your deeds have since cleared you of any suspicion. In fact, for your slaying of the crazed warlord, Zul'Jin, I'm compelled to reward you for your efforts.",
+  "p": "",
+  "c": "<Donna looks around and then whispers to you.>$B$B$N, what I'm about to tell you must remain confidential, understood?$B$BI've been sent by the Shattrath Peacekeepers to infiltrate Budd's gang here. Truth be told, since you first arrived you've been a key person of interest in my investigation.$B$BBut your deeds have since cleared you of any suspicion. In fact, for your slaying of the crazed warlord, Zul'Jin, I'm compelled to reward you for your efforts."
+ },
+ {
+  "id": 11164,
+  "t": "Tuskin' Raiders",
+  "o": "Prigmon needs you to collect 10 Forest Troll Tusks from the trolls in Zul'Aman. Bring them to him at Budd's camp in the Ghostlands.",
+  "d": "'Ey mon! You be new around 'ere, eh? Lemme ask a favor of ya.$b$bBudd's been refinin' his forest troll disguise. Says that he be close now - just be needin' one last touch. Tusks.$b$bMy skinnin' talents be wasted 'ere. Somethin' about yankin' troll tusks be makin me queasy. $b$bBring me back 10 troll tusks, eh mon?",
+  "p": "Hurry, mon!$B$BBudd be sendin' me into Zul'Aman alone to test his mask if I don't be givin' him those tusks soon!",
+  "c": "Ahh yeah, these be just what I be needin'!$B$BHere be the payment I promised ya, $c."
+ },
+ {
+  "id": 11165,
+  "t": "A Troll Among Trolls",
+  "o": "Prigmon has tasked you with locating and assisting his cousin Zungam, somewhere within Zul'Aman.",
+  "d": "Lissen mon, there be sumthin' else needs doin fer ol' Prigmon.$b$bZungam, my good-fer-nuthin' cousin, be stuck inside Zul'Aman. He still be alive too - I seen his signal flare just last night!$b$bI should be lettin' him rot fer gettin' me tied up in this mess, but he be owin' me big money.$b$bDo what ya can to help him out, then leave the collectin' to me!",
+  "p": "",
+  "c": "I be free!$B$BDey took most everyting when dey nabbed me, but here - take the last of my coin fer your troubles.$B$BAnd the least I can be doin' is stickin' around to offer my services...."
+ },
+ {
+  "id": 11166,
+  "t": "X Marks... Your Doom!",
+  "o": "Enter Zul'Aman and visit Halazzi's Chamber, Jan'alai's Platform, and Akil'zon's Platform. Report the details of those areas to Budd, at his camp in the Ghostlands.",
+  "d": "How did those fools fail? I told them to be careful - even gave them disguises to help them blend in. Ahh, well. The bright side of their failure is that this opportunity falls to you.$b$bSucceed, and you'll be well on your way to joining my crew and sharing in the immeasurable fame that will soon be mine. Not that I need any more, mind you.$b$bThere are yet a few portions of my map that require further exploration before our excavation can be initiated....",
+  "p": "I trust that my hand-crafted disguises have given you adequate protection in Zul'aman.$B$BHave you scouted those areas for me? Or shall I begin looking for your replacements?",
+  "c": "<Budd struggles to maintain his composure.>$B$BErr - So, $N - it's, uhhh, about time you returned. Yes - in fact you're holding up the entire operation.$B$BNow then, let's get to filling in this map...."
+ },
+ {
+  "id": 11167,
+  "t": "The New Plague",
+  "o": "Apothecary Lysander at Vengeance Landing wants you to recover 10 Intact Plague Containers from the wrecked ship to the southeast.",
+  "d": "Not long after Arthas condemned us to this wretched existence, we in the Royal Apothecary Society endeavored to create a plague of our own.  A plague that would devour all flesh: living, dead or undead.$B$BWe've succeeded in creating this plague and we're here to hand deliver it to the Scourge's doorstep.$B$BThe Alliance intercepted the ship carrying the latest strain engineered in our Undercity laboratories.  Head to the wreckage southeast of here and salvage whatever containers you can.",
+  "p": "Have you obtained the containers, $n?",
+  "c": "It's good that you're back in one piece. The danger of becoming infected from handling these containers is not non-existent. I suppose I should've warned you about that earlier."
+ },
+ {
+  "id": 11168,
+  "t": "Spiking the Mix",
+  "o": "Bring 3 Giant Toxin Glands from Giant Tidecrawlers to Apothecary Lysander at Vengeance Landing in Howling Fjord.",
+  "d": "I've a feeling the long trip across the sea is affecting the effectiveness of our plague.  What is needed is a potent toxin to boost the potency of the strain.$B$BThe crabs near this beach are a distant relative of the much smaller brown-shelled tidecrawler.  The smaller tropical variety produces a paralytic toxin strong enough to knock out an ogre.$B$BAs we all know bigger is better!  The much larger glands on the local variety should prove more potent.  Bring me a few!",
+  "p": "Have you obtained the toxin glands I seek, $n?",
+  "c": "You continue to prove your competence, $N. Hopefully this toxin will be enough to boost our plague to the levels that we need to.$b$bAt the very least it should help weaken the recipient and make them more susceptible to infection."
+ },
+ {
+  "id": 11169,
+  "t": "The Grimtotem Weapon",
+  "o": "Apprentice Garion at Tabetha's Farm wants you to test the Captured Totem on 10 Mottled Drywallow Crocolisks or Drywallow Daggermaws.",
+  "d": "During the last Grimtotem attack, I was wounded, but not before I managed to capture a curious totem our enemies were using against us.$B$BIt seemed to be emitting raw bolts of energy during the battle, but in all my experiments, I haven't managed to figure out how it works. I'll loan the totem to you if you agree to help me test it.$B$BThe watery areas surrounding the farm are home to pesky mottled drywallow crocolisks and drywallow daggermaws. Try fighting the crocolisks near the totem.",
+  "p": "Have you had any luck testing the totem?",
+  "c": "<The apprentice listens as you describe your experiment.>$B$BA haze and some lightning? That's it? There's got to be more to the totem than just that! The Grimtotems aren't likely to bring something like this to the battlefield unless it has some kind of utility."
+ },
+ {
+  "id": 11170,
+  "t": "Test at Sea",
+  "o": "Speak to Bat Handler Camille and take a riding bat to intercept the Alliance reinforcements.  Once above their fleet, use the Plague Vials to infect 16 North Fleet reservists.",
+  "d": "We've just received word of reinforcements coming to the aid of the Alliance forces.  Their timing couldn't be better!$B$BWe're in sore need of test subjects and these North Fleet reservists will do nicely!$B$BTake these plague vials with you and speak to Camille, the Bat Handler.  Tell her you need to commandeer a riding bat for a special assignment for us.$B$BOnce you're at sea, drop the vials on the reinforcement fleet.  I can't wait to see the results!",
+  "p": "You're back!",
+  "c": "Hmmphh.... the reports from the field are.... not encouraging!"
+ },
+ {
+  "id": 11171,
+  "t": "Hex Lord? Hah!",
+  "o": "Budd Nedreck in Hatchet Hills wants you to kill Hex Lord Malacrass in Zul'Aman.",
+  "d": "Excellent! Everything's nearly ready for my grand entrance into Zul'Aman.$b$bYou've done a fine job, $n. I've spoken with my crew and they're warming up to you nicely. I'd say you're very close to becoming a permanent member of the team. Only one thing remains for you to do - dispatch that 'Hex Lord' fellow.$b$bNothing to it, really. You stand up to this wretch and he'll likely just turn and run. Weaker, older trolls just add intimidating titles to their name to make up for their deficiencies, you see?$B",
+  "p": "I hope you appreciate the magnitude of the opportunity I've given you, Diedthreexs.$B$BHave you taken care of old Malacrass yet?",
+  "c": "Finally! Now that the light work is done, I can at last make yet another mark on history. But first, there's one small matter to attend to - You....$B$BI'm afraid, $N, that the time has come for me to let you go. I feel that your potential has been reached here, if not far exceeded.$B$BDon't feel bad, though. After all, it takes an exceptional type of individual to participate in such extraordinary events and not lose their wits. And look here, I have a little something for you to remember me by."
+ },
+ {
+  "id": 11172,
+  "t": "The Zeppelin Crash",
+  "o": "Speak with Moxie Steelgrille at Beezil's Wreck.",
+  "d": "Not long ago, a goblin zeppelin crashed to the east. A representative of the Steamwheedle Cartel passed through here a few days ago.$B$BShe was looking for information about the zeppelin's cargo and it's pilot, Beezil, but none of us really got a good look at the crash. I doubt she'll be able to clean up after the wreck by herself, much less recover whatever cargo the vessel might have carried.$B$BIf you have time, you may want to check up on her out at Beezil's Wreck, due east of here, near the mountains.",
+  "p": "",
+  "c": "So those hermit mages sent you? How can I be sure that I can trust you?$B$BI suppose I can use the help. There's not much here a mage would be interested in, anyway."
+ },
+ {
+  "id": 11173,
+  "t": "The Reagent Thief",
+  "o": "Bring 6 vials of Marsh Venom to Apprentice Garion at Tabetha's Farm.",
+  "d": "If there's one thing you can count on Apprentice Morlann to do, it's whine about reagents.$B$BNormally, I just ignore him, and it never works. This time, I'm going to try something different.$B$BMaybe if I replace the missing reagents before he notices, he'll leave me alone. The most common reagent we both use is marsh venom, which comes from the darkfang creepers and noxious shredders in the marsh north of the farm. If you bring me the venom, I'll replace it before Morlann notices it's gone.",
+  "p": "Did you get that venom? Morlann's going to discover that it's gone any moment now...",
+  "c": "<Apprentice Garion inspects the venom.>$B$BThis is absolutely perfect! He'll never know the difference."
+ },
+ {
+  "id": 11174,
+  "t": "Corrosion Prevention",
+  "o": "Moxie Steelgrille wants you to dissolve 10 oozes and report back to her at Beezil's Wreck.",
+  "d": "Just look at this area! It's swarming with oozes. If I don't find some way to keep them under control, they'll corrode the wreckage and the zeppelin's cargo!$B$BI can't go back empty-handed, $c! Help me dissolve these oozes before they've digested everything!$B$BThis device, when powered, will concentrate energy on the slimes, causing them to explode. The zeppelin's fragmented power core should power the device. The one near the main crash works all the time, but the others flicker on and off.",
+  "p": "Did you make any progress against those oozes?",
+  "c": "Well, it does look a little cleaner out there...$B$BI suppose it's time to get down to the business of salvaging this wreckage."
+ },
+ {
+  "id": 11175,
+  "t": "My Daughter",
+  "o": "Old Man Stonemantle has asked you to find his daughter, Overseer Irena Stonemantle, at Steel Gate.",
+  "d": "Tell me, is it true? Did the explorers that went into Whisper Gulch go mad?$B$BMy daughter is the overseer of the Explorers' League that went north to some place called Steel Gate. With the horrible events that have befallen us, I fear for her safety.$B$BPlease, $c, I am too old to make the journey. Her name is Irena. Will you go make certain that she is alright?",
+  "p": "",
+  "c": "Grrr. I knew it! He's sooooo over-protective! This is just embarassing.$B$BNot that I'm not happy to see you... I am! We all are. We can use your help!"
+ },
+ {
+  "id": 11176,
+  "t": "See to the Operations",
+  "o": "Explorer Irena Stonemantle has asked you to speak with a Steel Gate Chief Archaeologist at Steel Gate.",
+  "d": "Our work out here is really just beginning. But now that we've brought these flying machines in from Westguard Keep, it should really pick up.$B$BThe problem is that we're lacking enough qualified pilots. And with things getting worse in the Rivenwood to the north, I'd like to get things wrapped up here quickly and then head back home.$B$BIf you can lend a hand, go have a chat with one of my chief archaeologists. You'll find them next to the flying machines on the north and south sides of the site.",
+  "p": "",
+  "c": "Irena sent you over, did she? Good, we've got work for you then!"
+ },
+ {
+  "id": 11177,
+  "t": "The Hermit of Swamplight Manor",
+  "o": "Speak to \"Swamp Eye\" Jarl at Swamplight Manor.",
+  "d": "There's a fellow the locals know as \"Swamp Eye\" Jarl, who lives alone out in the swamp. Sometime ago he \"took over\" Swamplight Manor after the previous owners disappeared under mysterious circumstances.$B$BI like to send someone to check up on him every once in a while. He kind of reminds me of my grandfather, you know? Some say he's not quite right in the head.$B$BIf you're headed northwest on the road out of Theramore, you'll find Swamplight Manor in the Witch Hill area, before the road turns west.",
+  "p": "",
+  "c": "Get off my lawn... unless, that is, you want to help old \"Swamp Eye\" with a little bit of cooking. Whad'ya say?"
+ },
+ {
+  "id": 11178,
+  "t": "Blood of the Warlord",
+  "o": "Bring the Blood of Zul'jin to Budd at his camp in the Ghostlands, outside Zul'Aman.",
+  "d": "As you examine the pulsating vial, your thoughts turn to the petulant little man outside Zul'Aman.$b$bYou can't wait to see Budd's expression when he sees this!",
+  "p": "<Budd tries to mask his displeasure at your presence.>$B$BYou again....$B$BI don't know how else to say it - I'm simply too busy with my preparations to hold your hand any longer.$B$BTrust me, $N, it's all for the best. Perhaps, by some miracle, you might eventually build a name for yourself.$B$BIf so, you'll be able to say that you got your start from the incomparable Budd Nedreck!",
+  "c": "Th-the Blood of Zul'jin himself you say?$B$B<Gathering himself, Budd continues>$B$BWell, I appreciate the gesture, $c, but I could've taken him down with ease. There's no way he was as fearful as the legends say. These things have a way of being utterly overstated, as you'll learn in time. More likely, the pitiful old cretin was overcome with arthritis!$B$BAnyway, I suppose it was the least you could do as payment for the kindness I've shown you here.$B$BNow off with you - I must dispose of this vile vial!"
+ },
+ {
+  "id": 11179,
+  "t": "[Temporarily Deprecated Awaiting a New Mob]Finlay Is Gutless",
+  "o": "Collect 7 Pristine Mistsaber Catgut for Finlay Fletcher and return to him at Westguard Keep.",
+  "d": "All these crossbowmen, and who is it that has to maintain all of their weapons? Me, Finlay Fletcher!$B$BThe commander commandeered my assistant to get ready for the move up to Fort Wildervaar, and I haven't the time to go out and get all of the catgut that I need for their strings!$B$B$C, be a good $g lad : lass; and gather me up some catgut. The mistsabers prowling about the fjord will do, but mind that you only bring back the most pristine of intestines from them! Severed gut won't do us any good.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11180,
+  "t": "What's Haunting Witch Hill?",
+  "o": "Mordant Grimsby at Swamplight Manor wants you to gather information from 10 Risen Husks or Risen Spirits.",
+  "d": "I traveled out here to pay Jarl a visit at his new home and it's been a nonstop horror show ever since! There's something seriously wrong here and I can't be the only one who sees it...$B$BHave you seen the ghosts and corpses shambling about Witch Hill? I've a feeling that if anyone knows what happened here, it is them. Seek out these risen husks and risen spirits in the surrounding area, grant them rest through combat, and see what you can learn from them before this evil consumes Jarl!",
+  "p": "What have you learned from the spirits haunting this place?",
+  "c": "<Mordant produces a small sheet of paper and a pen, beginning to scribble down notes on your findings.>$B$BFrom your findings, the spirits in this place must amount to everyone who ever lived on this land, not just the previous occupants.$B$BSomething has been corrupting and killing them. Those who follow don't learn the truth until it's too late. We have to put an end to this, $N!"
+ },
+ {
+  "id": 11181,
+  "t": "The Witch's Bane",
+  "o": "Bring 9 sprigs of Witchbane to Mordant Grimsby at Swamplight Manor.",
+  "d": "In my years as an herbalist, I've often observed that nature will provide subtle cures to the most vexing of problems. I've read that hedge mages and witch doctors often use the smoke of an herb known as witchbane to draw evil from its hiding places.$B$BIf true, this would mean witchbane should be growing near the shallow waters of Witch Hill. You should be able to identify it by its broad leaves and reddish central stalk. Bring me any of the herb you can find, $N. It may be our only hope.",
+  "p": "Were you able to gather any of the herb? We must work quickly, before whatever evil is behind this infestation consolidates its hold on this area.",
+  "c": "<Mordant accepts the bunch of herbs from you.>$B$BThese match the description exactly! I prepared the torch while you were out. All that remains is to fasten the herbs to the end here."
+ },
+ {
+  "id": 11182,
+  "t": "Root Causes",
+  "o": "Slay 5 Dragonflayer Handlers and Skeld Drakeson.  If you manage to do so, return to an Ember Clutch Ancient in the Ember Clutch.",
+  "d": "All things in nature seek a balance. It is only through the interference of those not in tune with that harmony that the balance is shifted.$B$BYou waste your efforts when you kill the whelps and drakes. The real culprits behind the expansion of these magically burning woods are the newly awakened vrykul and their master, Skeld Drakeson.$B$BIf it's blood on your hands that you seek, start with them. You will find their lair on the south side of the Ember Clutch.",
+  "p": "How fare your efforts against the meddlesome handlers, little one?",
+  "c": "Unfortunate that one predator must be used to put down another, but that is the natural order of things.$B$BPerhaps now the proto-drakes and their whelps can go back to living peacefully. Somehow I doubt it with the reawakening of the vrykul."
+ },
+ {
+  "id": 11183,
+  "t": "Cleansing Witch Hill",
+  "o": "Mordant Grimsby at Swamplight Manor wants you to plant the torch at the end of the dock and defeat anything that appears.",
+  "d": "The torch is ready. Plant it at the end of the dock and be prepared to face whatever comes forth.$B$BI have no idea what the torch's smoke may reveal... if anything emerges at all. I must say, I have my doubts about this kind of folk magic, but we haven't time for anything else. For your sake and Jarl's, I wish you luck.",
+  "p": "Is it over?",
+  "c": "It worked?$B$B<Mordant clears his throat.>$B$BI mean... it worked! Jarl and I are in your debt, $N. Now the only remaining problem is my friend's taste in furniture, and I'm afraid that won't be solved as easily."
+ },
+ {
+  "id": 11184,
+  "t": "WANTED: Goreclaw the Ravenous",
+  "o": "Kill Goreclaw the Ravenous and report to Drazzit Dripvalve at Mudsprocket.",
+  "d": "Travelers and Steamwheedle personnel working in the field are advised to avoid the Bloodfen Burrow to the west of town.$B$BThe area is overrun with raptors lead by the cruel and cunning Goreclaw the Ravenous, who has already killed at least two Steamwheedle engineers.$B$BDrazzit Dripvalve has authorized a generous reward to be paid to the individual who rids Mudsprocket of this menace.",
+  "p": "You look pretty satisfied with yourself. Come to claim the bounty on that monstrous raptor?",
+  "c": "Thank goodness someone's finally taken me up on that offer. I was just thinking that I might need to triple the reward to get that stupid raptor killed, and our budget couldn't afford that!"
+ },
+ {
+  "id": 11185,
+  "t": "The Apothecary's Letter",
+  "o": "Bring the Sealed Letter to Andello Porter at Tabetha's Farm.",
+  "d": "Recovered from the body of a Forsaken apothecary, this letter contains alarming evidence of a close alliance between the Grimtotems and the new masters of Lordaeron.$B$B\"As a demonstration of good faith and a symbol of our newfound trust, we have dispatched Apothecary Cylla to aid you in battling our mutual enemy in the land of Kalimdor. None will stand before our combined might and determination.\"$B$BThis letter should be brought to the attention of the SI:7 agent at Tabetha's Farm, Andello Porter.",
+  "p": "What is that you're carrying, $C?",
+  "c": "<Andello reads the letter, shocked at its contents.>$B$BWe've long had misgivings about the cooperation between the Horde and the Forsaken, and this only confirms those suspicions. With the backing for Forsaken magic and arms, the Grimtotems would become an even more fearsome enemy. The balance of power in Kalimdor could shift considerably."
+ },
+ {
+  "id": 11186,
+  "t": "Signs of Treachery?",
+  "o": "Bring the Sealed Letter to Nazeer Bloodpike in Brackenwall Village.",
+  "d": "Recovered from the body of a Forsaken apothecary, this letter hints at an underground correspondence between Undercity and the Grimtotem leadership.$B$B\"As a demonstration of good faith and a symbol of our newfound trust, we have dispatched Apothecary Cylla to aid you in battling our mutual enemy in the land of Kalimdor. None will stand before our combined might and determination.\"$B$BPerhaps Nazeer Bloodpike in Brackenwall Village will know how to handle this information.",
+  "p": "What is that you're carrying, $c?",
+  "c": "If this is what it appears to be, the Forsaken have some explaining to do!$B$BThe antics of the Grimtotems have long tried the Warchief's patience. We have traditionally treated it as a matter to be settled among the tauren people, but this letter may change it.$B$BIt will take time to investigate these suspicions, but do not speak to anyone of what you have seen this day."
+ },
+ {
+  "id": 11187,
+  "t": "Mage-Lieutenant Malister",
+  "o": "Captain Adams has asked you to speak with his advisor, Mage-Lieutenant Malister, at Westguard Keep.",
+  "d": "THIS IS OUTRAGEOUS! Those proto-drakes are attacking the keep!$B$BBeasts such as that should have been scared off when you took care of their clutches and whelps.$B$BYou did take care of them, right?$B$B$N, this calls for more direct action. Speak with my advisor, Mage-Lieutenant Malister. He'll provide you with the means to get at those infernal creatures.",
+  "p": "",
+  "c": "<Malister beckons you closer and speaks in whispered tones.>$B$BI was worried that something like this might happen. I tried to dissuade the captain from this course of action, but he is a dwarf of action with a definite outlook on how things should proceed.$B$BLet us speak of the options left to us."
+ },
+ {
+  "id": 11188,
+  "t": "Two Wrongs...",
+  "o": "Mage-Lieutenant Malister at Westguard Keep has tasked you with the destruction of 3 Proto-Drakes.",
+  "d": "Now that we've riled up these Ember Clutch proto-drakes, they may be inclined to continue their attacks upon the keep. This will not do.$B$BI hate to compound one wrong with another, but in this case it would appear that we will have to destroy the creatures. A regrettable course of action, but one that we need to undertake regardless.$B$BTake my wand. I've been experimenting with increasing its range, but it doesn't pack much of a punch. However, what it will do is get a proto-drake's attention.",
+  "p": "It is unfortunate that the captain had to have you go rile up the proto-drakes. Though they seem to lack the intelligence of some of the dragons we know, they still seem to be noble creatures. Not to mention the situation it places us in.$B$BDare I ask if you have dealt with the situation?",
+  "c": "<The mage-lieutenant sighs.>$B$BUnfortunate business to be certain. Well, what's done is done. With any luck the new whelps that grow to be drakes at Ember Clutch will not retain a memory of our shameful actions therein.$B$BAnd with a bit more luck, the boundaries of that magical forest will not continue to spread.$B$BHere, $N, please take this pittance from the treasury for all of your troubles. It's the least that we can do."
+ },
+ {
+  "id": 11189,
+  "t": "One Last Time",
+  "o": "Escort the Ghost of Explorer Jaren safely to Explorer Irena Stonemantle at Steel Gate in the Howling Fjord.",
+  "d": "Hello there. Am I dead? I think I am, because I'm hovering over my body!$B$BOh, what an unfortunate turn of events. I was about to propose to Irena when the Scourge descended on us.$B$BI know that she's still alive... I can feel her in my heart.$B$B$C, do you think you might safely get me to her? The Scourge can still see my ghost, and no doubt can do horrible things to me.$B$BI'd like to look upon her beautiful face one last time. You can tell her that I love her for me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11190,
+  "t": "One Size Does Not Fit All",
+  "o": "Cannoneer Ely has tasked you with rounding up 10 Westguard Cannonballs and returning them to him at Westguard Keep.",
+  "d": "$G Lad : Lass;, who's the genius that made our cannons a non-standard size? Now we have ta make special cannonballs ta shoot out o' the infernal contraptions!$B$BI would look kindly on ye if ye would go out and find the balls we've already shot. No doubt with the way these louts shoot they be all o'er the place ta the south and east.$B$B<The cannoneer spaces his hands apart to give you an idea of how big the cannonballs are.>$B$BThat would be faster than us making 'em from scratch fer a certainty.",
+  "p": "We're runnin' dangerously low on rounds 'round here, $c. Our enemies need poundin', especially Skorn!$B$BYa got more balls fer us?",
+  "c": "Oh, bless ya, $N, bless ya!$B$BJust set 'em down right where yer standin'. I'll have one o' the boys come load 'em up soon enough and we can stop worryin' 'bout runnin' out o' balls ta shoot at Skorn."
+ },
+ {
+  "id": 11191,
+  "t": "This Old Lighthouse",
+  "o": "Speak to Babs Fizzletorque at the lighthouse on the island east of Theramore.",
+  "d": "The old lighthouse out to the east hasn't worked for some time, but Babs Fizzletorque has gotten it into her head to get it working again.$B$BI don't know how she plans to do it by herself, but she claims that it'll make the movement of ships and goods into the docks smoother, so I can't really object. Drawing duty on the docks is really nothing to complain about when you could be on the front lines, you know?",
+  "p": "",
+  "c": "Good. I can use all the help you can offer. My first priority is to get that lamp re-lit."
+ },
+ {
+  "id": 11192,
+  "t": "Thresher Oil",
+  "o": "Bring 4 containers of Thresher Oil to Babs Fizzletorque at the lighthouse near Theramore.",
+  "d": "The old log in the lighthouse indicates that the lamp was fueled with oil from the threshers that live along the coast here.$B$B<Babs wrinkles her nose at the mention of such outdated technology.>$B$BI suppose it's a practical, if inelegant solution. The log says that the oil taken from the youngest murk threshers works the best, and those live right underneath the docks of Theramore.$B$BIf you're up for it, would you help resupply the lighthouse with fuel?",
+  "p": "Were you able to get any of that thresher oil?",
+  "c": "Well, I have my doubts, but this is the only solution available right now. Once we have it up and running, I'm sure there will be time to look at other ways to fuel the lamp."
+ },
+ {
+  "id": 11193,
+  "t": "Dastardly Denizens of the Deep",
+  "o": "Bring Dastardly Denizens of the Deep to \"Dirty\" Michael Crowe on the Theramore docks.",
+  "d": "You know, it's amazing what you can find in that old lighthouse. After I lit the lamp, I noticed this book in one of the old trunks up there.$B$B<Babs holds up the book and reads the title dramatically.>$B$B\"Dastardly Denizens of the Deep!\"$B$BWhy, I think I might swoon if I ever saw one of these! I'm sure it's good for a laugh or two, but I simply don't have time for reading right now.$B$BYou know who might enjoy it, though... that fishmonger on the docks, \"Dirty\" Michael Crowe. He collects old books.",
+  "p": "What'll it be today? The snook is quite good.",
+  "c": "Well, now, that was thoughtful o' Babs to send that over. I don't know if you've leafed through it or not, but there's a lot of truth to the tales in that book. Sailors didn't just make it all up, you know."
+ },
+ {
+  "id": 11194,
+  "t": "Is it Real?",
+  "o": "Talk to Nat Pagle at Nat's Landing in Dustwallow Marsh.",
+  "d": "Oh, I'm sure you and Babs had a good laugh over the outlandish descriptions and sketches in the book, but have you stopped to consider there might be some truth to the legends?$B$BIf you listen closely enough, I bet you can still hear sailors talk about Tethyr, the sea creature the book says lives right here! Of course, if you wanted to know for sure, you could always ask old Nat Pagle.$B$BHe's got a small fishing camp on a little island in Tidefury Cove, which is southwest across Dustwallow Bay.",
+  "p": "",
+  "c": "So you want to know about sea monsters? Hmm... well, I'll make you a deal, but it's going to involve a lot of alcohol and some embarrassment on your part."
+ },
+ {
+  "id": 11195,
+  "t": "Playin' With Dolls",
+  "o": "Take the Tattered Voodoo Doll to Griftah in Shattrath City.",
+  "d": "I'm touched, $n, an' dat be da truth. I'm not rememberin' the last time a $r helped Zungam outta trouble.$b$bI snatched this from one of them savages when he was busy chainin' me up. It don't look like much, but if anyone can determine its worth, it be my good friend, Griftah!$b$bIf ya be makin' it outta here alive, it might be worth takin' this to him out in Shattrath City.",
+  "p": "Hey, $N! I hear ya been workin' yer way into Budd's crew. Ya won't live to regret that move, friend, I can promise ya that.$B$BWhatcha got there, mon?",
+  "c": "Hey now, where ya be gettin' this?$B$BNo, no, don't tell me - this be comin' from the Hex-Lord himself! It all be clear now. Strong mojo! The bearer of this relic, no matter how many disgraces he be sufferin', be always honored by his peers. Incredible!$B$B<As Griftah holds the doll in the air, a small, rusty charm falls from around its neck. The troll begins to discard it, but then turns toward you with a gleam in his eye.>$B$BI gots no coins right now, mon, but ya be welcome to this here..."
+ },
+ {
+  "id": 11196,
+  "t": "TEMP X",
+  "o": "Prigmon has tasked you with locating and assisting his cousin Zungam, somewhere within Zul'aman.",
+  "d": "Lissen mon, there be sumthin' else needs doin fer ol' Prigmon.$b$bZungam, my good-fer-nuthin' cousin, be stuck inside Zul'aman. He still be alive too mon - I seen his signal flare just last night!$b$bI should be lettin' him rot fer gettin' me tied up in this mess, but he be owin' me big money.$b$bDo what ya can to help him out, then leave the collectin' to me!$B$B$B",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11198,
+  "t": "Take Down Tethyr!",
+  "o": "Major Mills at the Theramore docks wants you to defeat Tethyr.",
+  "d": "Sea monster or no, we're not going to risk the safety of our shipping. I've ordered our best marksmen to prepare for a confrontation with this Tethyr. The artillerymen have augmented the dock's defenses with three mortars.$B$BI'm going to order the lighthouse's lamp illuminated. If Tethyr does attack, it will be your job to operate the mortars and take down the beast before it can kill all of the marksmen. I wouldn't stand in one place too long, though. Using the mortars is likely to draw its attention.",
+  "p": "Make your report.",
+  "c": "Well done, $N! I'll admit, when I caught my first glimpse of that beast, I had doubts about our ability to defend the docks, but you held together the defenders brilliantly!"
+ },
+ {
+  "id": 11199,
+  "t": "Report to Scout Knowles",
+  "o": "Captain Adams has asked you to report to Scout Knowles at the Ember Spear Tower.",
+  "d": "$N, now that those damnable proto-creatures have been dealt with, I've another task for you.$B$BOne of my scouts has reported back some suspicious activity by the Forsaken to the south. It looks like they're up to no good at the vrykul village known as Halgrind.$B$BI want you to personally take over the investigation down there. Speak with Scout Knowles to find out what he's uncovered and proceed from there.$B$BHis last reported position is at the Ember Spear Tower, just to the west of Halgrind.",
+  "p": "",
+  "c": "Oh good, help, and just in time!"
+ },
+ {
+  "id": 11200,
+  "t": "More than Coincidence",
+  "o": "Krog at Brackenwall Village wants you to bring him 7 Blackhoof Armaments.",
+  "d": "We've gleaned as much as we can from the ruins of the inn. I'm concerned about where the investigation will lead us from here, but we must know the truth.$B$BBetween the hoofprints and the shield with Mosarn's mark, I'm lead to believe that the Grimtotems may have been involved. They've recently established a settlement in the swamp, Blackhoof Village to the northeast. Travel to Blackhoof Village and search for more arms of Mosarn's manufacture.",
+  "p": "What did your search of Blackhoof Village reveal?",
+  "c": "<Krog inspects the weapons and armor you've brought from Blackhoof Village.>$B$BThis is unmistakably the work of Mosarn. Questioning him further may draw too much attention, but we have a bit more freedom in dealing with the Grimtotems."
+ },
+ {
+  "id": 11201,
+  "t": "The Grimtotem Plot",
+  "o": "Bring the Grimtotem Battle Plan to Krog at Brackenwall Village.",
+  "d": "With the activities of the Grimtotems in Thousand Needles brought to light, many tauren now regard them with suspicion.  We've seen high-ranking Grimtotems engage in murder and kidnapping to advance their interests and I fear we may become their next target.$B$BBlackhoof Village, to the northeast, near Bluefen, is a large new Grimtotem settlement. Their leaders, the elders, will all have orders from Thunder Bluff. See if you can capture the orders and piece them together to learn the Grimtotems' plans.",
+  "p": "Were you able to find any trace of the orders?",
+  "c": "<Krog reads over the battle plan.>$B$BThere's no doubt in my mind that the Grimtotems are moving against the humans. What I don't understand is what their intentions are toward us. The actions of the Grimtotems have caused tension within the Horde in the past, but the Warchief has always diffused it."
+ },
+ {
+  "id": 11202,
+  "t": "Mission: Eternal Flame",
+  "o": "Scout Knowles at the Ember Spear Tower has recommended that you use the Ever-burning Torches to destroy the four Plague Tanks surrounding Halgrind.",
+  "d": "The Forsaken are up to no good and from what I can tell, those plague tanks of sludge are a big part of it.$B$BIf I may suggest, $g sir : ma'am;, we should probably destroy them before they can get any more use out of the things. I took the liberty of preparing a bundle of torches from the Ember Clutch. These things have been burning for days!$B$BHere, I'm sure you can put them to better use than I in destroying those tanks.",
+  "p": "It's hard to tell from all the way over here exactly what's happening down there. Did you manage to put those plague tanks to the torch?",
+  "c": "Nice!$B$BBut what's this about the stuff you found inside those tanks? Are you saying that the Forsaken are spraying a plague upon the vrykul down there?"
+ },
+ {
+  "id": 11203,
+  "t": "Seek Out Tabetha",
+  "o": "Speak with Tabetha at her farm in the Quagmire.",
+  "d": "The arms you captured in Blackhoof Village have not seen any combat beyond mere training exercises, which means the Grimtotems who destroyed the Shady Rest are still at large.$B$BTo the south, in the heart of the Quagmire, lives the witch Tabetha. Though she is a human, she has dealt honorably with us and trained some of our mages.$B$BAsk her for assistance in tracking down the band of Grimtotem responsible for burning the inn. The Alliance must not be allowed to think we were complicit in the attack.",
+  "p": "",
+  "c": "<Tabetha smiles slightly.>$B$BKrog wishes me to scry for the Grimtotems, eh? Well, I have no need of magic in this case.$B$BIt seems we have a mutual enemy. The Grimtotems have built an outpost nearby and are a constant thorn in the side of me and my students."
+ },
+ {
+  "id": 11204,
+  "t": "Return to Krog",
+  "o": "Speak with Krog at Brackenwall Village.",
+  "d": "I hope I've been helpful to you and I'm sorry I can't offer more information. My apprentices and I produce such a large volume of arms and armor that it's almost impossible to recall details about any individual piece.$B$BNot only do we outfit the braves defending tauren lands, but the Grimtotems have a particular fondness for my work. A seasoned warrior knows good work when he sees it.",
+  "p": "",
+  "c": "He actually said that the Grimtotems are his biggest customers? Mosarn gave us more help than he knows. With this much pointing toward the Grimtotems, I think we just found our first suspects."
+ },
+ {
+  "id": 11205,
+  "t": "Raze Direhorn Post!",
+  "o": "Burn the North Tent, East Tent, and the Northeast Tent at Direhorn Post, then return to Tabetha at her farm.",
+  "d": "There's no scrying necessary to see the trouble my new \"neighbors\" are creating. And if this is the band that burnt down the Shady Rest Inn, as you claim, there's no reason to tolerate their presence any longer.$B$BTake this torch and raze their camp to the ground! You'll find Direhorn just to the north of my farm. You can't miss it, really, as the Grimtotems have done a splendid job of announcing their presence with those totems they favor.",
+  "p": "Have you put that torch to good use?",
+  "c": "The Grimtotems should have no trouble understanding our latest message.$B$BAs for you, your contact at Brackenwall Village will want to know of your success. I know the destruction of the Shady Rest Inn could be a source of tensions between the Horde and Alliance. If I encounter any investigators from Theramore, I will gladly tell them the Grimtotems acted on their own."
+ },
+ {
+  "id": 11206,
+  "t": "Justice Dispensed",
+  "o": "Return to Krog at Brackenwall Village.",
+  "d": "I doubt the Grimtotems will give up their campaign to drive humans from the marsh. At least we have dealt with the perpetrators of the crimes at the Shady Rest Inn.$B$BI'm sure the investigator who sent you doesn't need to be told this, but the Horde can no longer afford not to rein in the Grimtotems. There will be a day when their actions will put the Horde in a regrettable position.$B$BNeither Lady Jaina nor Warchief Thrall desire another war, but are they willing to do what's necessary to avoid it?",
+  "p": "",
+  "c": "<Krog listens to your report.>$B$BI'm impressed, $N. I would've thought that the Grimtotem criminals would've been more difficult to locate. $B$BTabetha's warnings have not fallen on deaf ears, but it is not my place to chastise the Grimtotems. I will, of course, mention it in my report to the Warchief. Do not speak of it to anyone until Thrall has dealt with the Grimtotems. You have done well in solving the mystery of the Shady Rest and sparing us from the suspicion of Theramore. "
+ },
+ {
+  "id": 11207,
+  "t": "Secure the Cargo!",
+  "o": "Moxie Steelgrille at Beezil's Wreck wants you to recover 8 pieces of Zeppelin Cargo.",
+  "d": "This zeppelin was carrying six months' worth of supplies to us at Mudsprocket! Sure, they've been able to barter for some of what they need, but they won't hold out forever.$B$BI've been sent out here to recover what I can of the cargo, but the wreckage is scattered all over the marsh in this area. I'm sure a lot of the cargo didn't survive the crash, but are you willing to help me recover what we can?",
+  "p": "<Moxie looks frantic with worry.>$B$BDid the cargo survive? Did you find any of it?",
+  "c": "Wow! You certainly found a lot more than I expected would be out there. I'm not sure how much Drazzit thought we were going to find out here, but he's going to have to be happy with this for now."
+ },
+ {
+  "id": 11208,
+  "t": "Delivery for Drazzit",
+  "o": "Take the Zeppelin Cargo to Drazzit Dripvalve at Mudsprocket.",
+  "d": "Drazzit will expect to hear something from me soon, but I don't think the site is secure enough for me to leave. If you have time, would you be willing to take some of the salvaged cargo down to him at Mudsprocket?$B$BIf you haven't been there yet, it's a small settlement to the southwest of here, beyond the Stonemaul Ruins. You can take the road there from Tabetha's Farm, too. When you get to Mudsprocket, the guy you're looking for is Drazzit Dripvalve.",
+  "p": "Yes?",
+  "c": "<Drazzit accepts the cargo from you.>$B$BI'm so hungry, I could eat a dragon! Thank goodness Moxie finally got some of that cargo down here. We've been reduced to playing dice against the ogre for whatever he's managed to kill on his hunting trips!"
+ },
+ {
+  "id": 11209,
+  "t": "Nat's Bargain",
+  "o": "Nat Pagle at Nat's Landing wants you to test his new fish bait.",
+  "d": "So you found a copy of Dastardly Denizens of the Deep, did you? Well, I can tell you from experience, it's all true. I've even seen a few of 'em with my own eyes.$B$BBut you want to know about Tethyr.  I said I'd make you a deal, so here's what I want you to do. I'm working on a new line of baits, but I haven't tested this one yet.$B$BJust take this paste -- yeah, it smells a little foul -- smear it on yourself, and swim over to that wrecked ship to the southwest. If you survive, let me know how it works!",
+  "p": "Remember, the deal is \"don't come back until something bites you.\"",
+  "c": "Not bad at all, but you know, I think I'd get a bath in as soon as possible, if I was you.$B$BNow, about your sea monster...$B$BHelp yourself to a brew or two in the meantime."
+ },
+ {
+  "id": 11210,
+  "t": "Oh, It's Real",
+  "o": "Speak with Major Mills at the docks in Theramore.",
+  "d": "Yes, Tethyr is certainly real, and he lives in the waters off Theramore.$B$BHas a thing for bright lights. He's the reason they shut down the lighthouse in the first place, you know...$B$BAnd if you light it up again, he'll come right back. But no one in their right mind would do that.$B$BSo that must be your plan! It's been good sharing a drink with you, but don't blame ol' Nat if Tethyr REALLY turns you into fish bait. If you're going to do this, make sure you consult Major Mills at the Theramore docks.",
+  "p": "",
+  "c": "<You recount your experiences with Nat Pagle, carefully omitting the portion about the 'bait test.'>$B$BWell, it sounds like we've got our work cut out for us. I'll make the preparations."
+ },
+ {
+  "id": 11211,
+  "t": "Help for Mudsprocket",
+  "o": "Speak with Drazzit Dripvalve at Mudsprocket.",
+  "d": "When that goblin... what's her name... Boxie, Foxy... Moxie, that's it! Anyway, when she came through here on her way to the zeppelin wreck, she said the town of Mudsprocket was having some problems.$B$BThat crashed zeppelin was bringing them fresh supplies. If you follow the road south from here, past the Stonemaul Ruins, you'll eventually come to Mudsprocket.$B$BWhy don't you check in with Drazzit Dripvalve down there and see if there's anything you can do to help?",
+  "p": "",
+  "c": "It's good of Tabetha to send you down here. I'd prevail upon her for some food until the wreckage from the zeppelin is taken care of, but I know she's got none to spare at the moment. If you're feeling adventurous, I've posted a bounty for the death of a particularly nasty raptor."
+ },
+ {
+  "id": 11212,
+  "t": "Tabetha's Farm",
+  "o": "Speak with Tabetha at her farm in the Quagmire.",
+  "d": "Deep in the heart of the swamp lives an old woman named Tabetha. We've never really known much about her, save that she's a good deal older than she appears. She's helped us from time to time and helped keep the peace here between the Horde and our forces.$B$BShe used to keep in regular contact, but we haven't received one lately.$B$BCould you check in with her when you have time? Just follow the road beyond North Point Tower, where it turns south and into the Quagmire. You can see her farm from the road.",
+  "p": "",
+  "c": "It's good of Theramore to send someone. Your guard friend's suspicions were correct. We've got some new neighbors, and they aren't the kind you'd bring a casserole."
+ },
+ {
+  "id": 11213,
+  "t": "Check Up on Tabetha",
+  "o": "Speak to Tabetha at her farm in the Quagmire.",
+  "d": "A human woman named Tabetha lives on a small farm near the middle of the marsh. Ordinarily, I wouldn't associate with a human, but her help has proven useful at times.$B$BUnfortunately, she's been out of touch for quite some time now and I'm looking for someone to travel down to her farm to see if everything's all right.$B$BIf you follow the road south out of the village, then into the swamp's interior, you'll find her farm near the middle of the Quagmire.",
+  "p": "",
+  "c": "It's fortunate Nazeer thought to send someone. We've got some new neighbors and they've been nothing but pests since they set up camp."
+ },
+ {
+  "id": 11214,
+  "t": "Mission to Mudsprocket",
+  "o": "Speak with Drazzit Dripvalve at Mudsprocket.",
+  "d": "The Steamwheedle Cartel has recently established a new outpost in the southern part of Dustwallow Marsh. It's called Mudsprocket, if I recall, and it's located on the main road south out of Tabetha's Farm and the Stonemaul Ruins.$B$BThis is an excellent opportunity for us to establish new trade contacts and Lady Jaina wants me to send a representative down there to establish contact. Would you be willing to go?",
+  "p": "",
+  "c": "So Theramore is interested in doing business? Well, that's not an offer I'd turn down. Supplies are pretty scarce here right now, so we need all the business contacts we can get!"
+ },
+ {
+  "id": 11215,
+  "t": "Help Mudsprocket",
+  "o": "Speak with Drazzit Dripvalve at Mudsprocket.",
+  "d": "The Steamwheedle Cartel's new outpost in the southern part of the marsh isn't faring so well. The zeppelin carrying supplies to Mudsprocket crashed, leaving them without vital tools, food, and medical supplies.$B$BFollow the road down south and into the marsh's interior. You'll pass by Tabetha's Farm and the Stonemaul Ruins before the road brings you to Mudsprocket. Offer any help you can provide to the town's leadership.",
+  "p": "",
+  "c": "I won't turn down any help! We're in the process of setting up here and trying to make the most of what we've got, until those supplies from the zeppelin arrive."
+ },
+ {
+  "id": 11216,
+  "t": "Archmage Alturus",
+  "o": "Speak to Archmage Alturus outside of Karazhan in Deadwind Pass.",
+  "d": "I was sent here by my mentor to look for assistance, but unfortunately I'm not allowed outside of Lower City and the individuals that frequent this establishment tend to be less than helpful.$B$BYou do seem different, more like the adventurous type.  If you're interested in aiding our cause, speak to Archmage Alturus outside of Medivh's old dwelling, Karazhan.$B$BIn the meantime, I'm going to see about gaining access to the rest of the city.  One of our old associates is rumored to be here.",
+  "p": "",
+  "c": "I thank you for taking the time to come to our aid.  We've important work ahead of us."
+ },
+ {
+  "id": 11217,
+  "t": "Catch a Dragon by the Tail",
+  "o": "Gizzix Grimegurgle at Mudsprocket wants you to bring him 8 Wyrmtail stalks.",
+  "d": "With the zeppelin crash delaying supplies, we've run out of medicines and bandages.$B$BWe're making use of what we can, but between all the insects, the injuries, and the enemies we're encountering here, I can barely keep up! I've found one herb that seems to help heal wounds and dull pain, but it, too, is in short supply.$B$BIt's called wyrmtail, and it's abundant in the Dragonmurk and Wyrmbog areas east of town. The plants themselves are made of coiled stalks, and seem to pulsate when you look at them.",
+  "p": "Did you find any of the wyrmtail?",
+  "c": "Thank you! This will help keep our guys going out in the field until Moxie returns with the rest of the supplies from the zeppelin crash."
+ },
+ {
+  "id": 11218,
+  "t": "Danger! Explosives!",
+  "o": "Use Steelring's Foolproof Dynamite to collect 6 Whisper Gulch Ore Fragments and 18 Whisper Gulch Gems. Then return them to Sapper Steelring at Westguard Keep.",
+  "d": "$N, the captain's tasked me with a mission. I'd like you to help.$B$BA bunch of my fellow Explorers' League people went nuts digging up stuff in the Whisper Gulch just to the north. They're attacking anyone trying to get in!$B$BThe captain is only concerned with the ore for the keep. Lucky for us, I have just the thing to do the trick.$B$BGet in there, blow up the ore, and bring it back along with any gems you find. Running this place isn't cheap you know!$B$BI gotta warn you though, that ore is strange!",
+  "p": "Construction on this place seems to be a never-ending task. I just hope that you're able to get us what we need to continue.",
+  "c": "The ore gave you a strange feeling? Maybe we won't use that stuff after all.$B$B<Steelring looks at the stuff and takes a step back, changing the subject.>$B$BThose gems look really nice! I wonder what I can get for them? Of course, there are always repairs, and new stuff to be made.$B$BYou know, I've really found working with you to be profitable. Take this... it's the least that I can do!"
+ },
+ {
+  "id": 11219,
+  "t": "Stop the Fires!",
+  "o": "The Masked Orphan Matron wants you to help put out all the village fires.  When they are out, speak again to the Masked Orphan Matron in town.",
+  "d": "The Horde's children need you, $n.  The Headless Horseman, once a human paladin and now an insane fiend, has set fire to our village!  You must put out those fires!$B$BGrab a bucket and throw it onto the blaze, or toss it to an ally who is closer to the flames.  Extinguish all the fires and thwart the Headless Horseman!",
+  "p": "The Horde's children need you! Do not abandon them!",
+  "c": "The fires are out! You and your fire brigade were victorious! Hah!$B$BThe Headless Horseman's attack has failed, but until he and his head are destroyed together, He will return.$B$BUntil then, however, let's take comfort in the safety you brought our children. I am honored to have watched your brave work today."
+ },
+ {
+  "id": 11220,
+  "t": "The Headless Horseman",
+  "o": "Find the Headless Horseman's Pumpkin Shrine.",
+  "d": "Until the head of the Headless Horseman is destroyed, his rampage will not end.$B$BThe Horseman rests within the Forlorn Cloister of the Scarlet Monastery, in Tirisfal Glades.  Go to his pumpkin shrine and speak these words:$B$B  Horseman, rise$B  Your time is nigh$B  You felt death once$B  Now, know demise!$B$BThis will rouse the fiend.  Destroy the head of the Horseman and he will plague us no longer.",
+  "p": "",
+  "c": "The origin of this shrine is unknown, but there is no doubt to whom it pays homage..."
+ },
+ {
+  "id": 11221,
+  "t": "Reports from the Field",
+  "o": "Speak to Dark Ranger Lyana and Deathstalker Razael in the battlefield at the Bleeding Vale south of Vengeance Landing.  Return to High Executor Anselm when you've completed this task.",
+  "d": "Our mission in Northrend is to destroy Arthas.  The Alliance are but an obstacle that we'll crush wherever we find them.$B$BWe've managed to destroy their easternmost fleet; but the survivors have barricaded themselves on the Derelict Strand, south of here.$B$BOur forces should've overwhelmed their make-shift defenses long ago, but we underestimated their will to live.  Seek my officers in the field, Dark Ranger Lyana and Deathstalker Razael and get them to report on the situation.",
+  "p": "Are you back with your report, $n?",
+  "c": "Cannons are holding us back? I'll show them cannons."
+ },
+ {
+  "id": 11222,
+  "t": "Proof of Treachery",
+  "o": "Speak to King Varian Wrynn in Stormwind Keep.",
+  "d": "Although Onyxia has been exposed and removed from the court, the Defias who carried out her plan must be punished. Carry word to King Varian Wrynn in Stormwind castle that the Defias are the ones who carried out his kidnapping. I have little doubt that the king will mete out swift and terrible justice to those involved.$B$BI can use my magic to expedite your trip to Stormwind. Just speak to me when you're prepared to go, $N.",
+  "p": "",
+  "c": "<Highlord Bolvar listens while you deliver Jaina's message.>$B$BAre you certain? This is a very serious charge..."
+ },
+ {
+  "id": 11223,
+  "t": "Return to Jaina",
+  "o": "Speak to Lady Jaina Proudmoore in Theramore.",
+  "d": "I must make plans to destroy the remnants of the Defias. Please convey my thanks to Lady Jaina, back in Theramore. She has ever been a loyal friend and steadfast ally.$B$BGo to the Mage Quarter at the western end of the city and speak with Archmage Malin at the foot of the tower there. He will speed your return to Theramore.",
+  "p": "",
+  "c": "That is excellent news, $N! I was worried the highlord might question the veracity of our information, but I see now my concern was misplaced.$B$BYou are to be well rewarded for your efforts on behalf of Theramore and the Alliance."
+ },
+ {
+  "id": 11224,
+  "t": "Send Them Packing",
+  "o": "Explorer Abigail has asked you to /raise your hand at 10 Abandoned Pack Mules and then return to her at Westguard Keep.",
+  "d": "I've heard rumors of bad happenings in the Whisper Gulch to the north. Most of the Explorers' League went down into that place, and some say they went mad with what they discovered.$B$BThat doesn't change the fact that they took most of our mules and equipment with them, though. I won't lose those mules!$B$BIf you find yourself in there, and happen across any of my mules, just get up close on them and threaten them with a raised hand. They'll spook and come home for sure.",
+  "p": "This is quite a blow to our efforts. I don't even want to know what they discovered down there.$B$BIt's enough to keep me awake at night just trying to imagine what it could be.",
+  "c": "I'm indebted to you, $c. At least with most of the mules and equipment recovered, we can hope to rebuild our numbers soon.$B$BPlease, take this."
+ },
+ {
+  "id": 11225,
+  "t": "The Hermit of Witch Hill",
+  "o": "Speak with \"Swamp Eye\" Jarl at Swamplight Manor.",
+  "d": "The marsh seems to have a strange effect on humans. Some grow mad simply by living here.$B$BAnyone who has ever settled at Swamplight Manor has gone mad in a spectacular way. The latest owner, one \"Swamp Eye\" Jarl, is already showing signs.$B$BI don't completely understand what's happening there, you'd have my thanks for looking into it.$B$BThe manor is at the eastern edge of the swamp. Trek east across Bluefen and past North Point Tower. The manor is in a haunted patch of land called Witch Hill.",
+  "p": "",
+  "c": "Have you come here to spy on me? No?$B$BPerhaps you have an appreciation for fine cuisine, then? Good, you can help!"
+ },
+ {
+  "id": 11227,
+  "t": "Let Them Eat Crow",
+  "o": "Pontius, the kennel keeper at Vengeance Landing, wants you to use the Plaguehound Cage to summon a Hungry Plaguehound and feed it Crow Meat from Fjord Crows west of Vengeance Landing.",
+  "d": "The high executor wants me to use my dogs to sniff out enemy scouts, but I can tell you right now these plaguehounds aren't going anywhere until they're properly fed.$B$BIf our military doesn't understand that these beasts are picky enough to not eat the rubbish they've given me, then they can't expect them to be of any use in the field.$B$BYou seem to have some time on your hands, why don't you take one of these dogs out hunting for crows out west?  Their meat isn't very tasty to us, but my boys love it!",
+  "p": "Did you feed this little rascal here yet?",
+  "c": "Did you hunt down some crows, $gboy:girl;? Good $gboy:girl;, good $gboy:girl;!$b$bAh, these hounds remind me of my days raising purebreds in Tirisfal... those were good times!"
+ }
+]

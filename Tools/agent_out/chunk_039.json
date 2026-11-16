@@ -1,0 +1,962 @@
+[
+ {
+  "id": 9743,
+  "t": "Natural Enemies",
+  "o": "Fahssn at the Spawning Glen in Zangarmarsh wants you to bring him 6 Bog Lord Tendrils.",
+  "d": "Us sporelings and the bog lords have never gotten along well.  In the past, we've managed to keep them at bay with spears and stones.  Lately they seem to have become more aggressive... or more desperate.  They do not fear us or our weapons.$B$BYou are much scarier and better armed than us.  If you were to fight the boglords for us, we'd be forever in your debt!  Bring me their tendrils so I know how many you've killed.",
+  "p": "How's the bog lord slaying going?  Teach those brutes not to come into sporeling territory!",
+  "c": "You made it back alive!  I'll let the other sporelings know about you!  $N, the giant slayer!"
+ },
+ {
+  "id": 9744,
+  "t": "More Tendrils!",
+  "o": "",
+  "d": "",
+  "p": "You killed many giants, but there are still many more left.  And they're still attacking our spore sacs!",
+  "c": "Unbelievable!  It would take hundreds of sporelings to slay as many giants as you have.  I will make sure to let everyone know of your feats!$B$B<This quest is repeatable up to friendly reputation.>"
+ },
+ {
+  "id": 9746,
+  "t": "Limits of Physical Exhaustion",
+  "o": "Vindicator Aesom at Blood Watch wants you to slay 10 Sunhawk Pyromancers and 10 Sunhawk Defenders.$B",
+  "d": "Victory is close at hand, $N. With the discovery of the sun gate, it won't be long until their supply lines are completely closed off. Now is the time to strike at their numbers.$B$BTo the west you will find numerous Sunhawk camps. The Sunhawk pyromancers and defenders occupy the vast majority of the area. Find them, kill them and return to me.",
+  "p": "Their leader can't hide from us forever. We will systematically eliminate every possible hiding place until Sironas is found.",
+  "c": "This will surely soften up their defenses and make them think twice before rushing foolishly into our ranks!"
+ },
+ {
+  "id": 9747,
+  "t": "The Umbrafen Tribe",
+  "o": "Ikeyen at the Cenarion Refuge wants you to travel to Umbrafen Village and slay Kataru, 8 Umbrafen Seers, 6 Umbrafen Witchdoctors and 6 Umbrafen Oracles.",
+  "d": "The naga are terrible, yes.  But even more terrible are the traitor tribes of Broken and Lost Ones that helped them!$B$BThe worst of all are the Lost Ones of the Umbrafen tribe; they use dark magic to trap and enslave others. They're especially cruel to escaped slaves and would slit my throat if I left the refuge even for a day.$B$BTravel to Umbrafen Village south of here and kill them and their leader, Kataru.  Until then I will fear for my life every single day.",
+  "p": "You've returned; are Kataru and the Umbrafen slavers dead?",
+  "c": "Thank you, $N.  I will finally sleep comfortably at night.  Were I not so old and weakened I would deal with my own enemies.$B$BTake this gold.  It is not much, but your kindness cannot go unpaid."
+ },
+ {
+  "id": 9748,
+  "t": "Don't Drink the Water",
+  "o": "Vindicator Aesom at Blood Watch wants you to use the Water Sample Flask to get a Bloodmyst Water Sample.",
+  "d": "Our shaman claim that the elements of water have become greatly agitated by the pollution of the water source. We know that the Exodar's power core is lodged into the mountain to the west. It must be leaking volatile fluids into the water supply! I need you to get me more information.$B$B<Aesom points to a flask and nods.>$B$BYou are to take this flask and follow the beach north until you reach the area where the rivers of Bloodmyst drain into the ocean. Take a sample from that location and return to me.",
+  "p": "Don't drink the water, $N!",
+  "c": "As I suspected, the water has turned red due to contamination from leaking core fluid.$B$BI hope you didn't swim in any of that contaminated water.\r\r\n"
+ },
+ {
+  "id": 9749,
+  "t": "They're Alive! Maybe...",
+  "o": "Researcher Cornelius has asked that you free 5 Expedition Researchers.",
+  "d": "It was a bloody mess, $N. We were ambushed by a large pack of these spiders. Their progenitor descended upon us with incredible speed and wrapped us up in cocoons.$B$BAfter we were webbed, she began to lay eggs near us. We were to be food for her young! FOOD!$B$BI managed to cut my way out and escape but I will not leave the others behind. So far I've been unsuccessful in nearing the pass. Would you lend a hand?$B$BDestroy those cocoons! Hopefully some of our team is still alive!$B",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9751,
+  "t": "The Bloodcurse Legacy",
+  "o": "Admiral Odesyus has asked that you find and speak with Captain Edward Hanes.",
+  "d": "Last night, Edward Hanes, captain of the ship 'Lost Hope', appeared before me in my tent. The same Edward Hanes that died of scurvy 20 years ago.$B$BThis apparition told me a tale that made my heart tremble. A tale that I need you to hear and a mission that I need you to accomplish. Will you do it? Will you seek out Edward on Wyrmscar Island, northeast of Blood Watch?$B",
+  "p": "",
+  "c": "Have you heard of the bloodcurse, landlubber? No, of course you haven't. The bloodcurse is what sunk all these ships. The spoiled, desecrated part of the water here is known as Bloodcursed Reef - a part of the world you never want to visit. I've been here myself for 20 years.$B$BScurvy my foot! I died on these wild shores as food for the dragons... Ah, but that's another story for another time. Right now, we have to help the poor souls that are trapped in that reef."
+ },
+ {
+  "id": 9752,
+  "t": "Escape from Umbrafen",
+  "o": "Escort Kayra Longmane to the Cenarion Refuge in Zangarmarsh.  Report to Ysiel Windsinger when you've completed this task.",
+  "d": "You must help me get out of here!$B$BI was gathering herbs nearby when a handful of these little savages abducted me.  I tried to fight them off, but there were too many of them.$B$BHelp me return to the Cenarion Refuge and away from these cruel wretches and their vile magic!",
+  "p": "",
+  "c": "You rescued one of my druids.  We could never repay you, $N.$B$BYou have my thanks as well as that of the expedition."
+ },
+ {
+  "id": 9753,
+  "t": "What We Know...",
+  "o": "Speak to Exarch Admetius at Blood Watch.",
+  "d": "We've learned much of our enemies in recent days. The blood elves are led by a being known as Sironas and plot to destroy us. Ultimately, they seek to enslave O'ros and regain control of the Exodar.$B$BLight be praised, we have stopped their supply line by destroying the sun gate. Unfortunately, they continue to use the contaminant of the Vector Coil to poison the land, using the mutagenic properties of the fallout to their advantage.$B$BWith this knowledge, Admetius has devised a plan. Seek him out.",
+  "p": "",
+  "c": "I am in need of your services, $N. I have a plan to topple the entire Sunhawk army, but before we can progress, we need to gather some vital information.$B$BWe need to identify the weaknesses in their primary defense. Unfortunately, we have been unable to get close enough to the Vector Coil to gauge their defenses. If we could get the prisoner to talk, we could get the information that we needed to break through the line and destroy the Vector Coil.$B$BYou heard me, I want to blow the damned thing up."
+ },
+ {
+  "id": 9756,
+  "t": "What We Don't Know...",
+  "o": "Speak to a Captured Sunhawk Agent at Blood Watch and recover Sunhawk Information. Return to Exarch Admetius when the task is complete.",
+  "d": "Our attempts at interrogation have failed miserably, $N. Torture is - of course - out of the question. What we need is a draenei on the inside.$B$BI can cast a spell upon you that would make you appear blood elf and adjust your language. Through subterfuge, we may be able to get the information we need out of the captured agent.$B$BUnder this guise, I want you to get whatever information you can out of the prisoner.$B$BAnd $N, do not leave Blood Watch while disguised as the spell will fail.",
+  "p": "",
+  "c": "A-ha! Well done, $N. Well done, indeed. Are you ready to eradicate the blood elf menace from our island forever?"
+ },
+ {
+  "id": 9757,
+  "t": "Seek Huntress Kella Nightbow",
+  "o": "Speak with Huntress Kella Nightbow near Valaar's Berth.",
+  "d": "Huntress Kella Nightbow seeks the audience of all eligible hunters.  She is the one to teach you the skill of taming wild beasts, a lesson you should learn above all else at this point in your training.$b$bKella can be found near Valaar's Berth, the docks west of the Exodar.",
+  "p": "",
+  "c": "Let's begin our lesson at once!"
+ },
+ {
+  "id": 9759,
+  "t": "Ending Their World",
+  "o": "Follow and protect Demolitionist Legoso as he attempts to destroy the Vector Coil and slay Sironas. Return to Exarch Admetius at Blood Watch should you complete the mission.",
+  "d": "Don't accept this assignment if you value your life. You see that gigantic power core jutting out of the mountain side over yonder? Whoever takes on this burden will need to fight their way through that mountain, battling an army of Sunhawks while protecting me as I rig the core up for demolition. Sironas the eredar is somewhere up there as well.$B$BI won't think less of you if you just walk away, $N.$B$BBut maybe you're the one - the one to destroy the Vector Coil and take down Sironas. Well, are you?",
+  "p": "",
+  "c": "You have saved the whole of Bloodmyst and Azuremyst, securing the $R way of life on Azeroth, $N! For this, there can be no amount of thanks, no reward, nothing large enough in scope to truly express our appreciation.$B$BYet, there are still so many that were left behind on Draenor who cannot be here for this historic event. You must find your way back. Find your way back to the Outland, Hero of Argus. Bring our people home. Home to the land that you saved. Home to Azeroth..."
+ },
+ {
+  "id": 9760,
+  "t": "Vindicator's Rest",
+  "o": "Speak with Vindicator Corin at Vindicator's Rest on Bloodmyst Isle.$B",
+  "d": "I would not ask you to single-handedly bear the burden of destroying the Vector Coil and slaying Sironas, $N; however, I believe that you can be of some help in clearing the way for others that might take on such a dangerous assignment.$B$BTake the road going north out of Blood Watch and follow it until you get to the fork. Once there, take the left road and follow it until you see Vindicator's Rest - it will be slightly west of the road itself. Corin will be waiting for you.",
+  "p": "",
+  "c": "Perhaps you will be the one to deliver our people into a new age of prosperity and peace."
+ },
+ {
+  "id": 9761,
+  "t": "Clearing the Way",
+  "o": "Vindicator Corin at Vindicator's Rest wants you to slay 8 Sunhawk Saboteurs and 8 Sunhawk Agents.$B",
+  "d": "Only the most battle hardened, noble and positively fearless of draenei will submit to Legoso's mission. The exarch will not order any agent of the Hand to take on the task of destroying the Vector Coil and dispatching Sironas. He refuses to send any draenei to their death - which is what the mission is: suicide...$B$B<Corin sighs.>$B$BMy job is to soften up the Sunhawk defenses. You are to slay Sunhawks near the Vector Coil and keep the path clear for our champion - whoever that may be.",
+  "p": "Do you see any unusually brave and powerful draenei around here?",
+  "c": "Hopefully a hero arrives before they are able to call forth reinforcements to guard the area you just secured."
+ },
+ {
+  "id": 9762,
+  "t": "The Unwritten Prophecy",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "These islands will serve as the home to thousands. Most of these people will remain here their entire lives. If you so desired, you could do the same. But that's not what you want, is it, $N?$B$B<Velen nods.>$B$BYou will do many more great things before you pass. You must embrace your destiny and meet it head on!$B$BBefore you leave, I present you with two gifts: This tabard is worn by only the most revered of the Hand of Argus and this signet ring worn by our wisest sages. Wear them both with pride, $N."
+ },
+ {
+  "id": 9763,
+  "t": "The Warlord's Hideout",
+  "o": "Watcher Jhang wants you to find and slay Warlord Kalithresh inside Coilfang Reservoir.",
+  "d": "There are benefits to hiding very, very quietly at the entrance of your enemy's hideout.$B$BJust hours ago I saw a group of naga go through the stone archway on the second tunnel from the left.  I'm not well versed in their language, yet I clearly understood one word: Kalithresh.$B$BThat must be the entrance to the steam vaults, where Warlord Kalithresh has been commanding his troops from.  You must find him and stop him.  I am too weak to be of any assistance.",
+  "p": "What of Kalithresh? Is he dead yet, $N?",
+  "c": "Our biggest enemy in the region is finally dead.  You've done the expedition a great favor, $N.$B$BWe shall be forever in your debt."
+ },
+ {
+  "id": 9764,
+  "t": "Orders from Lady Vashj",
+  "o": "Deliver the Orders from Lady Vashj to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "This letter contains detailed orders to the Coilfang naga operating the steam vaults.  It warns of the arrival of Cenarion druids into the region and orders them to be slain on sight.  The rate of water redirection from other lakes into Coilfang Reservoir is to be doubled.  The orders bear the seal of the infamous Lady Vashj.$B$BThis letter would be of great interest to the druids of the Cenarion Expedition.  Take it to their leader, Ysiel Windsinger.",
+  "p": "What's that you have there, $N?",
+  "c": "Vashj!$B$BThis is much more than we bargained for.  Our small victories here and there against the naga mean nothing.$B$BIf Lady Vashj is involved in this, then forces much greater than us are at work. $B$BYou've done well in bringing this to us, $N.  Now, we must prepare for war."
+ },
+ {
+  "id": 9765,
+  "t": "Preparing for War",
+  "o": "Obtain Coilfang Armaments from naga at Coilfang Reservoir and return them to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "The Cenarion Expedition began as a peaceful venture, yet we now face the prospect of all out war with the naga.$B$BWe have many among us who are willing to fight but are ill equipped.  Bring me the naga's own weapons so that we may reforge them into glaives and arrowheads.$B$BOnly the best armaments will have materials useful to us, $N.  You will have to seek out the naga of Coilfang Reservoir.",
+  "p": "Have you obtained the armaments I seek, $N?",
+  "c": "These will do perfectly, $N.  Bring any more armaments you find.  Our need is great and our resources are scarce."
+ },
+ {
+  "id": 9766,
+  "t": "Coilfang Armaments",
+  "o": "",
+  "d": "",
+  "p": "We will forge the naga's own steel into weapons to use against them.  Bring me all the armaments you manage to salvage from Coilfang Reservoir.",
+  "c": "Excellent work, $N.  The naga will learn not to underestimate us."
+ },
+ {
+  "id": 9767,
+  "t": "Know Your Enemy",
+  "o": "Obtain a Coilfang Spellbook from the naga inside of Coilfang Reservoir and bring it to Ashyen at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Defeating an enemy requires more than superior power or numbers.  Victory often hinges on knowledge of an opponent's weaknesses, the anticipation of their plans or the recognition of a behavior pattern.$B$BWe know much about the naga, yet much of their magical practices remain foreign to us.$B$BI seek to learn of the Hydromancy used by the naga of Coilfang Reservoir.  Bring me one of their spellbooks so I may learn more about it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9769,
+  "t": "There's No Explanation for Fashion",
+  "o": "Bring 8 Diaphanous Wings from any species of Zangarmarsh fireflies to Magasha in Swamprat Post.",
+  "d": "<Magasha chuckles softly to herself.>$B$BI bet if they knew they were wearing bug parts, the fashion trend would end very quickly.$B$BWe first started killing the bugs 'round here 'cause they were getting in the way of our construction. Some enterprising merchant stops here, spends the night, and next thing you know he's buyin' up all the bug wings we have!$B$BSays he makes clothes out of 'em. I be stickin' to my armor, thanks. But if you gather the wings of any of the fireflies, I'll gladly buy 'em.",
+  "p": "What's that, there? Been bitten by the wing bug, have ya?$B$B<Magasha chuckles at her own joke.>",
+  "c": "These be fine ones, $N. Here's your payment.$B$B<Magasha bends one of the wings and holds it up to her head.>$B$BNope, not my thing, but who'm I to complain?$B$B<Magasha shrugs.>$B$BCoin speaks."
+ },
+ {
+  "id": 9770,
+  "t": "Menacing Marshfangs",
+  "o": "Reavij at Swamprat Post wants you to kill 10 Marshfang Rippers.",
+  "d": "Sometimes I wish Denjai had sent a shaman with us, or at least given us a totem to keep the marshfang rippers at bay.$B$BThe whole place is crawling with the pests! It's just not right. Shouldn't something be eating these despicable things?$B$BWe've all been taking turns playing exterminator. You showed up at just the right time, $N. Congratulations! Now get out there and mop up some marshfangs!",
+  "p": "I still see marshfangs, $N. Surely you can't be done so soon.",
+  "c": "Had your fill already?$B$B<Reavij laughs.>$B$BThere's a reason why our visitors don't stay long.$B$BIf I had a choice, I'd find a more agreeable spot for the post, but I'll take marshfangs over Denjai's temper any day."
+ },
+ {
+  "id": 9771,
+  "t": "Searching for Scout Jyoba",
+  "o": "Search for Scout Jyoba at the Dead Mire in Zangarmarsh.",
+  "d": "Now that you're familiar with the terrain, I'd like to ask your help with something else. The Dead Mire, we've taken to calling the area to the northwest, is an eerie place. No one has ever reported seeing anything alive there, but they didn't stay for very long, either.$B$BScout Jyoba volunteered to investigate the area and report on his findings. He left the post three days ago and hasn't returned. It's not like him to be gone that long without sending some kind of report. Will you search for him, $N?",
+  "p": "",
+  "c": "The battered corpse matches Zurai's description perfectly. Whatever killed the scout appears to have taken him by surprise, as his weapon is sheathed and the contents of a small inkwell stain the nearby ground."
+ },
+ {
+  "id": 9772,
+  "t": "Jyoba's Report",
+  "o": "Retrieve Scout Jyoba's Report from the Withered Giants and return it to Zurai at Swamprat Post.",
+  "d": "Flecks of withered fungus dot the body of Scout Jyoba. Whatever killed him must've been made of the same dying fungus as the giant wilting mushrooms of the Dead Mire. Perhaps one of the withered giants caught him by surprise as he sat writing his report.$B$BWithout the text of the report, it's nearly impossible to tell what the scout discovered. If the report can be found, it should be returned to Zurai.",
+  "p": "You're back, but Jyoba's not with you. What became of him?",
+  "c": "<Zurai accepts the report from you and glances over it.>$B$BMuch of this is information we already know. Everything in the area seems to be dried or wilting, but here's something new.$B$BHe says the fungal giants seem to have gone berserk from the lack of moisture. From your description, that must be what killed him.$B$BI'll instruct my men to avoid the area. We can't afford any more casualties."
+ },
+ {
+  "id": 9773,
+  "t": "No More Mushrooms!",
+  "o": "Gather 8 Eel Filets from Umbrafen Eels and bring them to Magasha at Swamprat Post.",
+  "d": "Mushroom soup, mushroom stew, mushroom sauce!$B$BMushroom, mushroom, mushroom! It's all there is to eat around here. If you say you're hungry, the cook hands you an axe and tells you to go chop down your dinner!$B$BWell, I'm tired of mushrooms. I've seen fish in the lakes around here. Sure, they look like a nasty piece of work, but they've got to be better than mushrooms!$B$BHow much will it cost me to hire you to bring me my first decent meal in weeks?",
+  "p": "Tell me you haven't come back empty-handed. $N.",
+  "c": "Finally, a break from the monotony of mushrooms! If you didn't smell like fish, I'd hug you.$B$BLet's see how jealous the others get when they smell the meat cooking over the fire."
+ },
+ {
+  "id": 9774,
+  "t": "Thick Hydra Scales",
+  "o": "Zurai at Swamprat Post wants you to bring him 12 Thick Hydra Scales.",
+  "d": "Reavij was wise to bring leather armor. This swamp will render my mail useless before long.$B$BI've been replacing the scales bit by bit as I'm able. The hydra in the marsh have thick, protective scales that stand up well to the dampness of their home.$B$BFinding suitable ones is a tedious process, though. All too often, the best scales are torn or worn too thin for use in armor. Bring me any good ones that you might get from the hydra in the larger lakes.",
+  "p": "I see you smirking. Yes, my armor's going to look a bit odd until I've replaced all the old metal, but it's better this than unprotected.",
+  "c": "Thank you, $N. Every little bit helps.$B$BI've still got a long way to go, but let's face it, what else am I going to do between patrols?"
+ },
+ {
+  "id": 9775,
+  "t": "Report to Shadow Hunter Denjai",
+  "o": "Bring Zurai's Report to Shadow Hunter Denjai at Zabra'jin in Zangarmarsh.",
+  "d": "Shadow Hunter Denjai will no doubt expect to receive a report about my progress in establishing our outpost. I've prepared a short summary of what we've accomplished here already, but with the loss of Scout Jyoba, I can't spare a runner to take the report to Denjai's base of Zabra'jin to the west.$B$BIf you're headed that way, would you mind bringing this to him? Shadow Hunter Denjai can be a little intimidating at first, but once you get used to him, he's not so bad.",
+  "p": "You don't look like one of my men. Speak your piece, $r.",
+  "c": "Why didn't you say you had a report from Zurai? I've been waiting to hear from him.$B$BI sent him out there to give us a presence on the eastern border, not sit on his hands. Let's see what he has to say."
+ },
+ {
+  "id": 9776,
+  "t": "The Orebor Harborage",
+  "o": "Speak to Ikuti at the Orebor Harborage in Zangarmarsh.",
+  "d": "As you know, many of Telredor's inhabitants are refugees from the war that decimated the draenei. It is my goal to maintain Telredor as a safe haven for all of our allies in this struggle. There are some who desire to join us, but feel they are not yet ready.$B$BWe owe them whatever help we can provide, $N. A group of Broken under the leadership of Ikuti have taken shelter in the ruins of an old temple to the northwest of Serpent Lake. Seek them out and extend your hand in friendship to them.",
+  "p": "",
+  "c": "If Anchorite Ahuurn counts you a friend, then you may prove trustworthy. Please forgive my wariness, $r, but it is often all that stands between my people and death. You are welcome to shelter among us, and perhaps our mutual trust will grow."
+ },
+ {
+  "id": 9777,
+  "t": "Fulgor Spores",
+  "o": "Bring 6 Fulgor Spores to Ruam at Telredor.",
+  "d": "There is little in this swamp that will burn, $r, so we must resort to other means for lighting Telredor. Many of the creatures and plants in the marsh emit a soft glow.$B$BIt's difficult and cruel to confine the glowing creatures, so we've turned to a species of mushroom for our light source.$B$BWe pick and cultivate the fulgor mushroom here, but our needs require us to gather new crops occasionally. The small green mushrooms often grow at the base of larger ones near Telredor.",
+  "p": "From the looks of things, we'll need to replenish our spores soon.",
+  "c": "These are good spores and they should keep us going for quite some time. Thank you for helping us to replenish our supplies, $N."
+ },
+ {
+  "id": 9778,
+  "t": "Warden Hamoot",
+  "o": "Report to Warden Hamoot at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Before you leave Cenarion Refuge, make sure you speak with Warden Hamoot.  He's in charge of the expedition's security.$B$BHe would never forgive me if I didn't send a seasoned adventurer like you his way.",
+  "p": "",
+  "c": "Ysiel sent you?  Of course I can use someone like you!  We're always in need of a little muscle."
+ },
+ {
+  "id": 9779,
+  "t": "Intercepting the Message",
+  "o": "Kill Sunhawk elves until you find the Sunhawk Missive, then return it to Vindicator Boros at Blood Watch.",
+  "d": "It is good to see you again, $N. I have a quandary that you might be able to solve.$B$BOur agents situated behind Sunhawk lines have reported seeing Sunhawk soldiers parsing an unusual document.$B$BUnfortunately, we have been unsuccessful in acquiring a copy of the document for ourselves. I need you to go out in the field and try to recover the document. I am certain that if you apply enough pressure, a Sunhawk agent will turn over the information we seek. I leave the use of force to your discretion.",
+  "p": "Back so soon? Have you found the missive?",
+  "c": "<Vindicator Boros eyes the document.>$B$BThis is in Thalassian. Fortunately, I know just the person that can translate it..."
+ },
+ {
+  "id": 9780,
+  "t": "Umbrafen Eel Filets",
+  "o": "Noraani at Telredor wants you to bring her 8 Eel Filets.",
+  "d": "It's good to see another fresh face here. When Haalrun and I first came to Telredor, we were the only outsiders, but that seems like a lifetime ago.$B$BStill, we try to welcome newcomers and ensure that there's always enough food and supplies. We can never fully repay the kindness of the Telredor anchorites, but we can follow their example and extend it to others.$B$BIf you would like to help, the nearby lakes are populated with a fish called the Umbrafen eel, whose meat is a staple of our diet.",
+  "p": "Have you any fish to contribute to our stores?",
+  "c": "Thank you for your help, $N. Your generosity will not be forgotten."
+ },
+ {
+  "id": 9781,
+  "t": "Too Many Mouths to Feed",
+  "o": "Kill 10 Mire Hydra and return to Haalrun at Telredor.",
+  "d": "On my last hunting trip, I caught sight of a new outpost being built by a group of trolls. No doubt they've begun hunting these lands, too.$B$BIf they establish a permanent presence out here, the competition for food will be fierce. We cannot take direct action against them without provocation, but we can remove some of the natural competition for food.$B$BFor each mire hydra you kill, that's three fewer mouths to feed!",
+  "p": "How goes the hunt, friend?",
+  "c": "Well done. That should ease the demand on the food supply around here for the immediate future, although we're going to need to find new sources of food. Fish and mushrooms suffice, but variety can never be underestimated."
+ },
+ {
+  "id": 9782,
+  "t": "The Dead Mire",
+  "o": "Bring a Dead Mire Soil Sample to Vindicator Idaar at Telredor.",
+  "d": "I have lived among the anchorites of Telredor for some time, $N, and in that time I've come to know the marsh quite well. Recently, I've started to notice a disturbing change in the land to the northeast.$B$BVirtually all life there has begun to wither and die, seemingly without explanation. I have a few ideas as to what might be happening, but they are little more than speculation. If you were to bring me a sample of the soil in that area, I may be able to get to the bottom of this mystery.",
+  "p": "Were you able to get a sample of the soil in the Dead Mire?",
+  "c": "Hmm... The soil seems to be depleted, so it can't be the cause of the problem, as I'd thought. What's the common link here? Why is everything suddenly dying?"
+ },
+ {
+  "id": 9783,
+  "t": "An Unnatural Drought",
+  "o": "Vindicator Idaar at Telredor wants you to kill 12 Withered Giants.",
+  "d": "The soil sample you brought me is nearly devoid of moisture, $N. If the soil itself is losing moisture, then the creatures that live in the Dead Mire must be suffering terribly.$B$BI've seen what happens when the region's fungal giants begin to wither and die. The pain drives them mad, causing them to attack anything in their path.$B$BThese creatures have no idea what's happening to them. They're beyond our ability to save, so the best we can do is to end their suffering.",
+  "p": "It pains me to kill the creatures of the Dead Mire, but they are beyond saving. The best we can do is work to restore the area and nurture a new generation.",
+  "c": "Thank you for helping with this difficult task, $N. Our work in the Dead Mire is not yet done, but now our efforts will focus on doing what we can to restore balance to the area."
+ },
+ {
+  "id": 9784,
+  "t": "Identify Plant Parts",
+  "o": "",
+  "d": "",
+  "p": "I could still use some more plant parts.  With the lakes losing their water, I've a feeling the number of invasive species is on the rise.  I need more numbers to back up my theory, however.",
+  "c": "Excellent.  Keep bringing me more plant parts if you find any.$B$B<This quest is repeatable up to Honored reputation.>"
+ },
+ {
+  "id": 9785,
+  "t": "Blessings of the Ancients",
+  "o": "Windcaller Blackhoof wants you to speak to the ancients Ashyen and Keleth at Cenarion Refuge and obtain their blessings.",
+  "d": "You've earned the trust of the Cenarion Expedition, $N.  It is time you spoke to the ancients allied with our cause, Ashyen and Keleth, and asked for their blessing.$B$BCarrying the mark of an ancient will fill you with great power.  These boons will become more powerful as your renown among us increases.$B$BGo, $N, and ask the ancients for their blessing. ",
+  "p": "Have you spoken to the ancients yet, $N?",
+  "c": "You've returned.  Did you receive the ancients' blessings?"
+ },
+ {
+  "id": 9786,
+  "t": "The Boha'mu Ruins",
+  "o": "Anchorite Ahuurn at Telredor wants you to explore the Boha'mu Ruins.",
+  "d": "Before my people were decimated by the orcs, Telredor served as a retreat for draenei anchorites and spiritualists. A small order of anchorites and vindicators maintained a number of shrines in this region.$B$BDuring the war, we lost contact with the anchorites assigned to the shrines, particularly the Boha'mu temple to the southwest. I've heard reports that a tribe of Lost Ones has settled in the area and may even be using the ruins. Visit the Boha'mu Ruins and tell me of what you find there.",
+  "p": "Have you examined the Boha'mu Ruins? Can you imagine what they were like in their full splendor?",
+  "c": "So, the Feralfen Lost Ones have taken over the ruins? Most intriguing. They must remember something of their heritage and the significance of the site. We must learn more, $N. This temple could hold the key to redeeming the Lost Ones and reuniting the many threads of draenei."
+ },
+ {
+  "id": 9787,
+  "t": "Idols of the Feralfen",
+  "o": "Gather 6 Feralfen Idols and return them to Anchorite Ahuurn at Telredor.",
+  "d": "From what you've told me about your observations at the Boha'mu Ruins, it seems this tribe of Lost Ones has reverted to the worship of animal spirits. Before we can approach them, we must know more of their beliefs.$B$BReturn to Feralfen Village and discreetly gather some of their idols so that I may study them. Try to avoid angering them, $N, as it may hurt our chances of making contact with them.",
+  "p": "Do you have the idols?",
+  "c": "These should be more than sufficient, $N. They seem to be fixated on birds, which is odd, because there aren't any bird species native to Zangarmarsh. What could this mean?$B$BCould they have encountered the arakkoa? To a shamanistic people, they might seem like the embodiment of a powerful bird spirit."
+ },
+ {
+  "id": 9788,
+  "t": "A Damp, Dark Place",
+  "o": "Look for Ikeyen's Belongings inside a cave south of Umbrafen.  Return them to Ikeyen at Cenarion Refuge in Zangarmarsh.",
+  "d": "Soon after I escaped the Umbrafen tribe, I holed up in a cave south of their village.  Little did I know that the cave was being fought over by marsh beasts and spore men!$B$BI had to leave in a hurry and left behind a box containing my only worldly possessions.$B$BAfter managing to sneak out of Umbrafen with my belongings it was terrible irony that I would lose them so soon after.  If you're willing to bring them back to me I'll give you one of my very own personal items.  What do you say, $N?",
+  "p": "Did you find my belongings, $N?  The cave is not far from Umbrafen, near the border with Nagrand.",
+  "c": "My things!  They're all here!$B$BI thank you, $N.  As promised, I'll let you pick one of the items for yourself.  I don't have much to offer, but my people have always shared what little we have."
+ },
+ {
+  "id": 9789,
+  "t": "Clefthoof Mastery",
+  "o": "Hunt down 12 Clefthoof and return to Hemet Nesingwary at Nesingwary's Safari in Nagrand to prove yourself.",
+  "d": "You want to earn a place in this safari?  You'll have to prove yourself.$B$BI don't care what you've hunted before, you haven't hunted until you hunt what we hunt here.  Start with the clefthoof if you're $g man : tough; enough.$B$BI know that I've seen them in the immediate area around the safari and also close by to the south.",
+  "p": "The clefthoof of Nagrand are a good challenge.  I've bagged myself quite a few.$B$BHow are you doing with that?",
+  "c": "A fair start. But that's just the beginning.$B$BThe lesser clefthoof prove nothing. Let's move you up to a bigger challenge"
+ },
+ {
+  "id": 9790,
+  "t": "Diaphanous Wings",
+  "o": "Haalrun at Telredor wants you to bring him 8 Diaphanous Wings from any of the firefly species in Zangarmarsh.",
+  "d": "Living in such a remote location has taught us to make use of everything available. Of course, you have to learn to stop thinking about where some of these materials come from first.$B$BI've found that the wings of the umbraglow stingers are very helpful for waterproofing. They're strong, thin, and flexible.$B$B<Haalrun chuckles.>$B$BI see the look on your face. Like I said, it takes time to get used to the idea. If you're going to be out and about, would you mind bringing me some of the wings?",
+  "p": "Did you manage to gather any diaphanous wings?",
+  "c": "Thank you, $N.$B$B<Haalrun smiles sympathetically.>$B$BAt least you don't have to clean them. That's the worst job of the lot, but once it's done, you'd never know they were attached to a giant insect."
+ },
+ {
+  "id": 9791,
+  "t": "Menacing Marshfangs",
+  "o": "Kill 10 Marshfang Rippers and return to Noraani at Telredor.",
+  "d": "During the orcs' war against my people, gatherers rarely left Telredor for fear of being attacked or captured. Now, we venture out more often, but the marsh is no less perilous.$B$BIt seems that the nether rays have grown bolder in recent months. I don't know if it has something to do with more competition for their normal prey, but they've been attacking our foraging parties on a regular basis. If we can thin their ranks in the area around Telredor, perhaps they would learn to leave us alone.",
+  "p": "Have you been successful in your marshfang hunt?",
+  "c": "Thank you for your help in clearing out some of the marshfang rippers, $N. If they had any intelligence, perhaps they'd learn that it's best to live and let live.$B$B<Noraani shrugs.>$B$BGiant, overgrown bugs with intelligence. I wonder what that would be like..."
+ },
+ {
+  "id": 9792,
+  "t": "A Message to Telaar",
+  "o": "Speak with Nahuud at Telaar in Nagrand.",
+  "d": "You've been honorable in our dealings, $N, at a time when trust is hard to win among my people.$B$BA large group of my brethren have made their home in the old draenei city of Telaar in Nagrand, to the south. To reach Telaar, take the road south into Nagrand, then continue southeast until you find yourself in the cliffs east of Oshu'gun.$B$BAnyone who has aided us, as you have, would be welcome among the people of Telaar.$B$BSeek out Nahuud and tell him you have earned my trust.",
+  "p": "",
+  "c": "Ikuti is like a brother to me. A friend of his is a friend of mine. You are welcome here, $N, and you have our thanks for assisting our people."
+ },
+ {
+  "id": 9793,
+  "t": "The Fate of Tuurem",
+  "o": "Take Vindicator Idaar's Letter to Andarl at the Allerian Stronghold in Terokkar Forest.",
+  "d": "Prophet Velen's search for allies has emboldened those draenei remaining in Outland to begin a search of their own. The Legion's war on my people drove us from our cities and temples, but they have not destroyed the traces of our civilization.$B$BTuurem, my former home in the Terokkar Forest, was one of the first cities overrun by the orcs. It's been too long since I've received news of its status. Take this letter to Andarl in the Allerian Stronghold within Terokkar and see what you can find out.",
+  "p": "How may I help you?",
+  "c": "Hmm... I remember hearing our scouts speak of the ruins of a draenei settlement in the forest's northern reaches. I don't know much about the ruins, personally, but you're welcome to talk to some of the scouts."
+ },
+ {
+  "id": 9794,
+  "t": "No Time for Curiosity",
+  "o": "Deliver Timothy's Letter to Kialon at Sylvanaar in the Blade's Edge Mountains.",
+  "d": "$N, I have a favor to ask of you. Normally, I would do this myself, but my hands are already beyond full.$B$BI have an associate named Kialon at Sylvanaar in the Blade's Edge Mountains to the north. He's expecting to hear from me in the near future, although I suspect he won't like what I have to say.$B$BIf you would deliver my response to him, you would have my gratitude. I must insist, and this is very important, that you not attempt to read the letter. It is for Kialon's eyes alone.",
+  "p": "<Kialon eyes you suspiciously.>$B$BI don't know you, $R. Do you have business with me?",
+  "c": "So you've brought Timothy's response?$B$B<Kialon pauses a moment to read the letter, then laughs.>$B$BHe's got everything under control, he says. Doesn't need help, he says. I could've predicted that!$B$BSome people never change. Look, he even took the time to correct my spelling.$B$B<Kialon lets out a half-hearted sigh.>$B$BI shouldn't have sent the letter. I forgot. The specialist always has the situation under control. Always."
+ },
+ {
+  "id": 9795,
+  "t": "The Ogre Threat",
+  "o": "Travel to Thunderlord Stronghold in the Blade's Edge Mountains and speak with Nekthar.",
+  "d": "As if the naga and their allies weren't enough, the ogres are extending their reach in the marsh. They've already conquered most of the area to the northwest and there isn't much of a buffer left.$B$BFor each one we kill, several more take their place. I'm not sure how long we'll be able to hold Zabra'jin once they decide to attack. Make your way north into the mountains, to the orcish stronghold of Thunderlord Stronghold and let Nekthar know of our plight. Any help he can spare would be most welcome.",
+  "p": "",
+  "c": "Denjai seeks help? I'd send him reinforcements, but we're spread thin here as it is. We've got trouble of our own with the ogres up here.$B$BWhen I can, I'll give him what information we have on the local ogre tribes and their tactics. Perhaps if he can survive long enough, we'll be able to launch a two-pronged assault on the vile scum."
+ },
+ {
+  "id": 9796,
+  "t": "News from Zangarmarsh",
+  "o": "Speak with Mokasa at Stonebreaker Hold in Terokkar Forest.",
+  "d": "Shadow Hunter Denjai isn't the only one expecting a report from me. Mokasa at Stonebreaker Hold in Terokkar is eager to hear of our progress, especially since most of her messengers travel through here.$B$BShe asked me to send word once Swamprat Post was completed. If you wouldn't mind delivering the news, I'd be very grateful. We may be up and running, but there is still much to be done.$B$BTo get to Stonebreaker Hold, follow the road south out of Zangarmarsh, into Terokkar Forest and beyond Tuurem.",
+  "p": "",
+  "c": "It's about time he got that outpost up and running. We've lost far too many runners to Alliance outriders."
+ },
+ {
+  "id": 9797,
+  "t": "Reinforcements for Garadar",
+  "o": "Speak with Captain Kroghan at Garadar in Nagrand.",
+  "d": "<Still catching his breath, the messenger gestures for you to sit.>$B$BThey may not survive, $r! Get to Garadar as quickly as your legs will carry you.$B$B<In response to your blank stare, the messenger elaborates.>$B$BThe home of the Mag'har, lies to the south, in Nagrand. Take the southern road out of the marsh, then turn east at the first fork and look for a large settlement on the lake.$B$BFind our commander, Captain Kroghan, there and offer him what assistance you can. Garadar must not fall!",
+  "p": "",
+  "c": "<Even though he endeavors to hide it, a look of relief spreads over Kroghan's face.>$B$BIt's about time you got here! Granted, you're not an army, but any able-bodied $R than can wield a weapon or chant a spell is welcome here. The people of Garadar are kin to all the Horde and we are proud to shed our blood in their defense."
+ },
+ {
+  "id": 9798,
+  "t": "Blood Elf Plans",
+  "o": "Take the Blood Elf Plans to Vindicator Aldar at the Crash Site in Ammen Vale.",
+  "d": "These plans seem important.  You should take them to Vindicator Aldar at the crash site.",
+  "p": "What have you got there?",
+  "c": "Here, let me read those plans.$B$BThe blood elves have followed us here?  They are evil to the core and should be wiped from existence!$B$B<The vindicator takes a moment to regain his composure.>$B$BI apologize, that was uncalled for.  We are indebted to you for uncovering this information, $N."
+ },
+ {
+  "id": 9799,
+  "t": "Botanical Legwork",
+  "o": "Gather 3 Corrupted Flowers and return them to Apprentice Vishael at the Crash Site in Ammen Vale.",
+  "d": "The Ammen Fields to the west are the primary breeding ground of the local lasher population. With the corruption of the water table from the nearby lake, Botanist Taerix is worried that the lashers will not be able to repopulate themselves once we've cleansed the lake.$B$BGo to the Ammen Fields and pick some of the corrupted flowers for me so that I might take a look at them and see what can be done. You should be able to identify them by their uncharacteristic red petals.",
+  "p": "Hello, $c.  Do you have those flowers yet?",
+  "c": "These look like fine specimens.  Thank you for performing the field work.  Once I can find the time to analyze these, I should be able to tell what it will take to restore the fields."
+ },
+ {
+  "id": 9800,
+  "t": "A Rare Bean",
+  "o": "Elementalist Lo'ap at the Throne of the Elements in Nagrand wants you to bring him 8 Digested Caracoli.",
+  "d": "You are ill-equipped to face the restless elements of Nagrand. Before you can help the Earthen Ring, you must help yourself.$B$BTo the west you will find dung heaps left behind by the wildlife of Nagrand. You must search the dung for the digested remnants of the Nagrand caracoli. From this bean I am able to make a tablet that will aid you in your battle against the restless forces of nature.$B$BReturn to me when you have collected no less than two fists worth of caracoli... Ogre sized fists.",
+  "p": "<Elementalist Lo'ap makes two fists and shakes his head in disapproval.>$B$BOgre sized...",
+  "c": "Please do not wash yourself in the sacred waters of the Throne.$B$B<Elementalist Lo'ap holds a prepared caracoli tablet up.>$B$BYou place this under your tongue and allow it ample time to dissolve. Once it has dissolved, you will be able to breathe water as if it were air."
+ },
+ {
+  "id": 9801,
+  "t": "Gathering the Reagents",
+  "o": "Anchorite Ahuurn at Telredor wants you to bring him 4 Sporebat Eyes and 4 Fen Strider Tentacles.",
+  "d": "I have a feeling that these Lost Ones may not respond well to a draenei, but would welcome an arakkoa. I can create a potion that will allow you to take on the form of an arakkoa for a short time. It requires a couple of reagents which cannot be stored and must be used within hours of being gathered.$B$BYou will need to bring me a handful of sporebat eyes and some fen strider tentacles. Both species dwell in the wilderness surrounding Telredor.",
+  "p": "Have you gathered the reagents?",
+  "c": "These will do quite nicely. Allow me a moment to mix up the potion."
+ },
+ {
+  "id": 9802,
+  "t": "Plants of Zangarmarsh",
+  "o": "Bring 10 Unidentified Plant Parts to Lauranna Thar'well at the Cenarion Refuge in Zangarmarsh.",
+  "d": "The lakes of Zangarmarsh are slowly being drained of their water.  We don't quite know why, but we do know that many plants species are in danger of becoming extinct.$B$BAs the expedition's cataloguer, it is my job to track and identify these plants so we can better understand what's happening to them.$B$BIf you'd like to help, bring me unidentified plant parts.  They can be picked right from the ground if you're an herbalist, and the indigenous creatures of the swamp may also carry plant parts on them.",
+  "p": "Did you find any plant parts, $N?",
+  "c": "The decrease in native species is certainly a cause for concern.  The increase in invasive species could be related to the recent disturbance in the ecosystem.  I don't have enough information to make a conclusion, yet.$B$B<Lauranna jots down some notes on a journal as she goes through the plant parts.>$B$BTake these, $N.  They might be of some use to you.$B$BBring me any other plant parts you find.  I'll incorporate them into my statistics."
+ },
+ {
+  "id": 9803,
+  "t": "Messenger to the Feralfen",
+  "o": "Drink Ahuurn's Elixir while standing in the Boha'mu Ruins. Speak to Elder Kuruti while you are in the form of an arakkoa.",
+  "d": "The time has come for us to embrace the Feralfen and teach them that the Light has not forsaken them. Take the potion I've prepared and carry it with you to the Boha'mu Ruins.$B$BOnce you arrive at the ruins, drink the potion to assume the form of one of their bird spirits. Speak with Elder Kuruti and let him know the draenei are ready to welcome his people as our long lost brothers.",
+  "p": "Did you speak with the Feralfen elder?",
+  "c": "They refused? They are welcome to choose their own path, of course, but their choice surprises me. I would think that all the draenei, including the Broken and Lost Ones, would still remember that we're all a part of the same people.$B$BI suppose he is right about the folly of deceiving them, but still, could he not see that our intentions were friendly?"
+ },
+ {
+  "id": 9804,
+  "t": "Agitated Spirits of Skysong",
+  "o": "Elementalist Lo'ap at the Throne of the Elements in Nagrand wants you to destroy 8 Lake Spirits.",
+  "d": "The disturbance in the ebb and flow of the waters of Nagrand has greatly agitated the water spirits of Skysong Lake. They have in turn begun sowing destruction throughout the waterways of the area.$B$BWatoosun of the Water has come to us in a vision and granted us permission to remedy the problem - so long as the source of the disturbance is also dealt with...$B$BWe will get to the source, but first you must deal with the problems immediate to the Throne. Destroy the agitated lake spirits and return to me.",
+  "p": "Use the Nagrand cherries before delving too deeply into the lake.",
+  "c": "<Elementalist Lo'ap kneels in the water and says a prayer.>$B$BThe Earthen Ring takes no pride in what was done. We do what we must to heal the land."
+ },
+ {
+  "id": 9805,
+  "t": "Blessing of Incineratus",
+  "o": "Elementalist Lo'ap at the Throne of the Elements in Nagrand wants you to destroy the Large Hut, the Western Hut, the Southern Hut and the Eastern Hut at Windyreed Village.$B$BReturn the Living Fire to Elementalist Lo'ap when the task is complete.",
+  "d": "The wretched Lost Ones, heretofore banished to the swamps of Zangarmarsh, are seeking to spread their filth to other parts of our world.$B$BI have sought the wisdom of the furies and gained their blessing. To stop the source, we must unleash the elements upon them!$B$BI give you living fire, plucked from the fiery essence of Incineratus himself. Travel to Windyreed Village, southeast of here, and unleash the living fire upon their huts! Let them see the fury of the elements!",
+  "p": "With great shame I tell you that it is my own kin who seek to drudge up the waters of Nagrand and create marshland.",
+  "c": "Your efforts have stifled the spread of pollution but other troubles have surfaced."
+ },
+ {
+  "id": 9806,
+  "t": "Fertile Spores",
+  "o": "Gshaff wants you to gather 6 Fertile Spores from the various Zangarmarsh Spore Bats and Marsh Walkers.  Return to Ghsaff at Sporeggar when you've completed this task.",
+  "d": "Spore bats and marsh walkers accumulate fertile spores on their appendages from wandering around the tallstalk mushrooms in the marsh.$B$BAs you can see, we're a short people so our options for gathering these spores are limited.  Seek out the spore bats and marsh walkers and gather the fertile spores.  All of Sporeggar will be in your debt.",
+  "p": "You're back, $N.  Did you obtain the fertile spores?",
+  "c": "These are great spores, $N!  Tallstalks are vital to rebuilding our town.  And after all the bog lord attacks we've suffered, we're in quite the short supply."
+ },
+ {
+  "id": 9807,
+  "t": "More Fertile Spores",
+  "o": "",
+  "d": "",
+  "p": "We can always use more fertile spores, $R. Tallstalks are incredibly useful mushrooms. Being able to grow them lets us do many things with them.",
+  "c": "Your help is appreciated, $N. You will keep it up, yes?"
+ },
+ {
+  "id": 9808,
+  "t": "Glowcap Mushrooms",
+  "o": "Bring 10 Glowcaps to Msshi'fn at Sporeggar in Zangarmarsh.",
+  "d": "I've seen your kind use shiny round pieces of metal to trade for things that you need.  We're not so different from you.  We use shiny round mushrooms as our currency.$B$BGlowcap mushrooms grow everywhere in the marsh, you just have to know how to pick them from the ground without wrecking them.  I'll teach you how to do it, if you promise to bring us some for our reserves.  What do you say, $N?",
+  "p": "Did you find any glowcaps, $N?  They're literally everywhere in the marsh.$B$BYou can spot their bright glow from far away if you pay attention.",
+  "c": "This will help us trade with other sporelings for food and supplies.  Sporeggar thanks you, $N!"
+ },
+ {
+  "id": 9809,
+  "t": "More Glowcaps",
+  "o": "",
+  "d": "",
+  "p": "I'll take more glowcaps if you have them.  Our village can always use more of them.",
+  "c": "Thank you, $N.  As Sporeggar's elder, I must ensure my people have adequate supplies.  You make my task that much easier."
+ },
+ {
+  "id": 9810,
+  "t": "The Spirit Polluted",
+  "o": "Elementalist Lo'ap at the Throne of the Elements in Nagrand wants you to destroy Watoosun's Polluted Essence and 8 Lake Surgers.",
+  "d": "Watoosun was able to shed the stink of corruption; but in doing so, created a twisted spirit essence. A spirit essence composed of the vilest corruption found amongst the elements!$B$BYou will find this polluted spirit of the swamp southwest of here, hidden in the depths of Lake Sunspring.$B$BFind and destroy the polluted essence of Watoosun and any corrupt offspring that it may have created.",
+  "p": "The Earthen Ring will help in any way possible.\n",
+  "c": "The elements sang of your victory the moment the disturbed essence was destroyed! The Earthen Ring thanks you and wishes for you to choose a reward."
+ },
+ {
+  "id": 9811,
+  "t": "Friend of the Sin'dorei",
+  "o": "Take Dar'Khan's Head to Lor'themar Theron in Silvermoon City.",
+  "d": "This is the beginning of a new chapter in blood elf history, $N.  You've helped cement the bond between my race and yours, $r.$B$BTake the traitor's head to Regent Lord Lor'themar Theron in Silvermoon City.  He'll be eager to hear the news.",
+  "p": "You seek audience with me?  I do not recall hearing of an appointment. ",
+  "c": "So you killed Dar'Khan, $R?  Impressive.  I've a feeling my people and yours will soon get to be very good friends."
+ },
+ {
+  "id": 9812,
+  "t": "Envoy to the Horde",
+  "o": "Bring the Letter from Lor'themar Theron to Lady Sylvanas Windrunner in Undercity, the Forsaken capital in Tirisfal Glades.",
+  "d": "There were doubts about our capabilities among our potential new allies.  Of what use could we be to them when perceived as unable to deal with our problems at home?$B$BThis changes everything.  No longer will our power be questioned.  We'll be able to join the Horde as equals.$B$BTake this letter to Sylvanas, ruler of the Forsaken.  She's already on our side but the news of Dar'Khan's death will be music to her ears.  Prepare for a long trip, $N.  If all goes well she will send you to Orgrimmar.",
+  "p": "I was told a visitor from Quel'Thalas was coming. I was expecting a blood elf, to tell you the truth.$b$bWhat news do you bring?",
+  "c": "It is done then. The foul traitor got what he deserved.$b$bYou've been of great service to the blood elves and to the Horde. Dar'khan was Thrall's excuse to deny them entry into our alliance. You've cleared the way for a new Horde, $c.$b$bI also see that Lor'themar has additional news that will greatly improve his relations with Thrall. Excellent!"
+ },
+ {
+  "id": 9813,
+  "t": "Meeting the Warchief",
+  "o": "Lady Sylvanas Windrunner wants you to take the Letter Sealed by Sylvanas to Thrall in Orgrimmar, capital of Durotar.",
+  "d": "I haven't lost any love for my homeland or its people, as you know.  I've fought tooth and nail for Silvermoon to be allowed a place beside Undercity and Orgrimmar at the negotiating table.$B$BThis should silence any opposition. Take this letter to Thrall in Orgrimmar.  As leader of the Horde he will have the final say on accepting the sin'dorei's pledge.$B$BI've added my own seal to the letter as a personal endorsement.  Go northwest of the city and board the zeppelin bound for Durotar at the tower.",
+  "p": "Yes, $C?",
+  "c": "<Thrall begins to read the letter.>$b$bSo the blood elves finally took care of their little problem. It is no surprise that it took your help as well as that of an entire Forsaken regiment to get the job done.$b$b<The Warchief breaks into laughter.>$b$bI suppose there's no stopping this. In the end we need them just as much as they need us."
+ },
+ {
+  "id": 9814,
+  "t": "Burstcap Mushrooms, Mon!",
+  "o": "Bring Witch Doctor Tor'gash 6 Burstcap Mushrooms.",
+  "d": "You like mushrooms, mon? There be a powerful one here in Zangarmarsh, growin' real close to Zabra'jin.$B$BYou gotta be careful, though, mon. They be callin' it the burstcap for a reason. If you be gettin' too close without takin' the proper precautions, it'll blow right up on you! Poof! Right into a cloud o' toxic spores.$B$BI been usin' them for readin' the omens, but they be almost gone now.",
+  "p": "Have you got the mushrooms, mon?",
+  "c": "These be excellent, mon!$B$BI'll tell you what. Since you been a good sport and helped with the mushrooms, I'll let you in on the fun!"
+ },
+ {
+  "id": 9815,
+  "t": "Muck Diving",
+  "o": "Elementalist Lo'ap at the Throne of the Elements in Nagrand wants you to retrieve 5 Muck-ridden Cores.",
+  "d": "The most affected elements of water can be found in the Halaani Basin, southwest of here, beneath the abandoned city of Halaa. While some distressed elements can be destroyed without any impact upon the environment, spawns of muck must be physically removed from the world once destroyed.$B$BYou see, muck spawns leave behind globules of tainted debris that if left untouched will spread and further contaminate the environment.$B$BDestroy these muck spawns and bring back their muck-ridden cores.",
+  "p": "Do not leave any tainted muck behind!",
+  "c": "The Earthen Ring thanks you, $N. The elements also give their thanks. Your continued efforts in cleansing our world are appreciated and noted.\n"
+ },
+ {
+  "id": 9816,
+  "t": "Have You Ever Seen One of These?",
+  "o": "Take the Murloc Cage and place it on the flat rock near Daggerfen Village.",
+  "d": "This marsh be missin' one thing, mon! There be no murlocs here.$B$BDon't worry, mon, I got a plan to fix the problem. See Gargle 'n' Gurgle over there? I plan to give the gift o' murlocs to the Lost Ones!$B$BTake this cage with you to Daggerfen Village an' release 'em in the northeastern cluster of huts. Now you know I can't be riskin' Gargle 'n' Gurgle with you, but I'll give you a cage full o' colorful young murlocs. Just set it on the flat rock you be findin' up there and open the door!",
+  "p": "<Witch Doctor Tor'gash grins.>$B$BDid the lil' Lost Ones like their gift?",
+  "c": "Excellent work, mon! I do hope they had a good time!"
+ },
+ {
+  "id": 9817,
+  "t": "Leader of the Bloodscale",
+  "o": "Slay Rajis Fyashe at Serpent Lake and return to Warden Hamoot at the Cenarion Refuge in Zangarmarsh for a reward.",
+  "d": "A bounty is hereby declared by the Cenarion Expedition on Rajis Fyashe, leader of the Bloodscale naga.  The naga sorceress was last sighted at Serpent Lake, in the northern region of Zangarmarsh.$B$BThe Bloodscale are to be considered extremely dangerous and their leader is to be approached with extreme caution.$B$BThose seeking to claim the bounty are advised to report to Warden Hamoot at Cenarion Refuge.",
+  "p": "You're here to claim the bounty for Fyashe? That's the best news I've heard all day.",
+  "c": "I'll bet the Bloodscale will think twice about attacking expedition scouts again.  Take this as a reward, $N.  You've earned it."
+ },
+ {
+  "id": 9818,
+  "t": "The Underneath",
+  "o": "Communicate with Gordawg.",
+  "d": "Something rails the underneath. It beats the ground as if to punish.$B$B*Thud*$B$B<Untrag beats his chest with his fist.>$B$BIt makes this sound a hundred-thousand times. Endlessly it beats. The earth reels. It is calling out to us now.$B$BGordawg speaks to me. Gordawg knows that something forces the elements out. Something from the underneath.$B$BGo now and speak to Gordawg. No, listen to Gordawg, do not speak. Hear Gordawg...",
+  "p": "",
+  "c": "<Gordawg appears to be nodding at you.>$B$BSit.$B$B"
+ },
+ {
+  "id": 9819,
+  "t": "The Tortured Earth",
+  "o": "Gordawg at the Throne of the Elements in Nagrand has asked that you destroy 10 Tortured Earth Spirits.",
+  "d": "Bring up the usurper. You will find him. Follow earthen path. First you put to rest tortured earth spirits. Must sleep once more.$B$B<Gordawg smashes his fist into the ground and brings up very foul smelling soil.>$B$BMust sleep!$B$B<Gordawg points southeast.>$B$BFind spirits near mountains. Near hills. Near rocks. Near earth.$B$BPut to sleep.$B$BTelaari Basin... Southeast.$B",
+  "p": "Do they sleep?",
+  "c": "<Gordawg nods in approval.>$B$BGood. Spirits sleep now."
+ },
+ {
+  "id": 9820,
+  "t": "WANTED: Boss Grog'ak",
+  "o": "Bring Boss Grog'ak's Head to Shadow Hunter Denjai in Zabra'jin.",
+  "d": "Wanted - Dead or Alive: Boss Grog'ak, overseer of the Ango'rosh mushroom-cutting operation.$B$BThis brute and his axe-wielding cronies are responsible for chopping down the mushrooms to the north of town. Unless he is stopped, he and his band will cut a path to the walls of Zabra'jin.$B$B$g He:She; who presents the head of Boss Grog'ak to Shadow Hunter Denjai shall be well-rewarded.",
+  "p": "What do you have there, $N?",
+  "c": "Well done, $N. The presence of these ogres so close to our outpost does have me worried, though. It seems like they've been filtering down from the northern mountains for some time."
+ },
+ {
+  "id": 9821,
+  "t": "Eating Damnation",
+  "o": "Gordawg at the Throne of the Elements in Nagrand has asked that you bring him 10 Enraged Crusher Cores. ",
+  "d": "<Gordawg picks up a rock and begins to chew on it.>$B$BGordawg tastes. Gordawg knows where this earth has been.$B$B<Gordawg raises one of his massive legs and stomps the ground.>$B$BLook. See Nagrand.$B$B<Gordawg directs you to the imprint of his foot. Within the imprint you see what appears to be a perfect geological map of Nagrand, marked with the locations of where you can find the elementals Gordawg wants you to destroy.>$B$BBREAK THEM! Bring Gordawg the pieces to eat.$B$BTake the map.",
+  "p": "Gordawg eats this rock. Gordawg finds usurper. Bring rock!",
+  "c": "<Gordawg spits out the chewed up rock, pelting you with a hail of rubble.>$B$BPoison. These rocks are not Nagrand. These rocks are from poison. You destroy poison rock. You find usurper."
+ },
+ {
+  "id": 9822,
+  "t": "Impending Attack",
+  "o": "Bring the Ango'rosh Attack Plans to Shadow Hunter Denjai in Zabra'jin.",
+  "d": "The position of the ogres' mushroom-cutting operation can't be an accident. I can't escape the suspicion that they're preparing for an attack on Zabra'jin.$B$BI must know for certain, $N. The ogres have another outpost to the northwest, the Ango'rosh Grounds. If they're staging for an attack, there will be evidence of their plans there. Go there, $N and search the camp for signs of their intentions. Return to me with anything that might be suspicious.",
+  "p": "Have you found proof of the ogres' intentions?",
+  "c": "<Shadow Hunter Denjai examines the plans.>$B$BI knew it! The stench of ogres always carries an implicit threat. Now that we have proof of their intentions, we must act before they do."
+ },
+ {
+  "id": 9823,
+  "t": "Us or Them",
+  "o": "Kill Overlord Gorefist, 10 Ango'rosh Maulers, and 10 Ango'rosh Souleaters and report back to Shadow Hunter Denjai in Zabra'jin.",
+  "d": "In order to end the Ango'rosh threat, we must kill their leader, Overlord Gorefist. We'll do better than that, though. We'll make an example of the overlord and his followers.$B$BGo to the Ango'rosh Stronghold and deal with our foes. The stronghold is located in a cave on a small island to the northwest of Zabra'jin. You'll see a bridge made from a fallen mushroom beyond the Ango'rosh Camp.$B$BShow no mercy, $N. They certainly wouldn't spare any of us.",
+  "p": "The threat of the Ango'rosh looms over us. Have you eliminated their leader?",
+  "c": "Your victory over the Ango'rosh is to be celebrated, $N. I wonder how long it will be before those ogre brutes find themselves another bloodthirsty chieftain.$B$BNo matter, we'll be ready for them."
+ },
+ {
+  "id": 9824,
+  "t": "Arcane Disturbances",
+  "o": "Use the Violet Scrying Crystal near underground sources of water in the Master's Cellar and return to Archmage Alturus outside of Karazhan.",
+  "d": "I'm trying to obtain an imprint of Karazhan's energy... for a personal project, of course.  Unfortunately, I'm not getting anything up here.  If I could get near an underground water source, my crystal would pick up the signals much more clearly.$B$BI've heard of an underground pond as well as a well in a cellar below us.  This whole place is crawling with ghosts however, and venturing there would be hazardous for someone my age.  What do you say; will you help an old man and perform the scrying for me?",
+  "p": "The readings, $N. Did you complete them?",
+  "c": "These readings do not bode well, $N. Karazhan should be emanating all manner of arcane currents... instead it has become a huge energy vacuum. No signals. Nothing. Except for a very faint demonic echo.$B$BThis is bad news, $N."
+ },
+ {
+  "id": 9825,
+  "t": "Restless Activity",
+  "o": "Bring 10 Ghostly Essences to Archmage Alturus outside of Karazhan.",
+  "d": "As you may have noticed, the outside of Karazhan is crawling with ghostly beings. The reason for their existence is unknown and unknowns bother me!$B$BBring me their ghostly essence so that I may study their nature.  Karazhan has many secrets, $N.  I'm determined to uncover all of them.",
+  "p": "Have you obtained the ghostly essences I require, $N?",
+  "c": "Fascinating. I will study these essences, $N. I thank you for your help."
+ },
+ {
+  "id": 9826,
+  "t": "Contact from Dalaran",
+  "o": "Bring Alturus's Report to Archmage Cedric in the outskirts of Dalaran Crater.",
+  "d": "These signs do not bode well for us, $N.  I've never been one for secrecy so I will tell you a bit about my organization, the Violet Eye.$B$BWe are agents of the Kirin Tor, the Magus Senate of Dalaran.  We were assigned to keep an eye on Karazhan and Medivh, in case things got out of hand.$B$BWhich they did... very quickly, after Medivh disappeared.$B$BThis report details my findings.  Take it to Archmage Cedric, also from the Violet Eye; you will find him in the outskirts of Dalaran Crater.",
+  "p": "Alturus entrusted you with this information? That old fool.$B$BI suppose the damage is done, we might as well make use of you. I suppose you will cooperate?",
+  "c": "You know of the Violet Eye? You do not look familiar."
+ },
+ {
+  "id": 9827,
+  "t": "Withered Basidium",
+  "o": "Take the Withered Basidium to Ruam in Telredor in Zangarmarsh.",
+  "d": "A close inspection of the basidium reveals a number of indentations that might have once held something. The alien mass of fungus presents something of a puzzle. It's far from healthy, but you have little clue as to what function it might normally perform.$B$BPerhaps someone more familiar with the denizens of Zangarmarsh would be able to tell you more about the basidium.",
+  "p": "What is it you have there, $N?",
+  "c": "It looks like the basidium of a bog giant, but I haven't seen one in this condition before. I'd heard that the giants in the Dead Mire had begun to wither, but it's far more advanced than I expected.$B$BThe Dead Mire was once a lake like the others in the marsh, and it served as the spawning ground for the giants. With the waters receding, it seems the changes are preventing the giants from sporing. If this continues, the giants may disappear entirely."
+ },
+ {
+  "id": 9828,
+  "t": "Withered Basidium",
+  "o": "Bring the Withered Basidium to Reavij at Swamprat Post in Zangarmarsh.",
+  "d": "A close inspection of the basidium reveals a number of indentations that might have once held something. The alien mass of fungus presents something of a puzzle. It's far from healthy, but you have little clue as to what function it might normally perform.$B$BPerhaps someone more familiar with the denizens of Zangarmarsh would be able to tell you more about the basidium.",
+  "p": "What is it you have there, $N?",
+  "c": "It looks like the basidium of a boglord, but I haven't seen one in this condition before. I'd heard that the giants in the Dead Mire had begun to wither, but it's far more advanced than I expected.$B$BThe Dead Mire was once a lake like the others in the marsh, and it served as the spawning ground for the giants. With the waters receding, it seems the changes are preventing the giants from sporing. If this continues, the giants may disappear entirely."
+ },
+ {
+  "id": 9829,
+  "t": "Khadgar",
+  "o": "Deliver Alturus's Report to Khadgar in Shattrath City in Terokkar Forest.",
+  "d": "Alturus's report is unsettling.  We thought it was bad when Karazhan sealed itself off to the outside world.  We had agents inside; we never heard from any of them again.  Now this... demonic emanation.  We must investigate it.$B$BThe only people who can reopen Karazhan were presumed dead: Khadgar and Medivh.$B$BWhile we hope that the latter is indeed gone, we recently learned that his apprentice, Khadgar, is alive and well in a place called Shattrath City.  Find him and give him Alturus's report.",
+  "p": "",
+  "c": "The Violet Eye? You don't say.$B$BShow me this report you speak of."
+ },
+ {
+  "id": 9830,
+  "t": "Stinger Venom",
+  "o": "Bring 6 Marshlight Bleeder Venom to Puluu at the Orebor Harborage.",
+  "d": "When I speak to draenei, I often get the sense that they consider themselves removed from their environment. Many seem to pity my brethren, the Broken, who they say have lost something.$B$BWe Broken may have lost our inclination toward the Light, but our experiences have brought us closer to the land.$B$BMy people see opportunities where few draenei do. Take, for example, the venom of the marshlight bleeders that live to the south and west. It has a wide variety of uses from hunting to healing.",
+  "p": "I hope to demonstrate the uses of bleeder venom to Anchorite Ahuurn and the others at Telredor. That's going to require me to double my supply.",
+  "c": "Thank you for bringing this venom, $N. It will go a long way toward making my demonstration possible without depleting my personal stores."
+ },
+ {
+  "id": 9831,
+  "t": "Entry Into Karazhan",
+  "o": "Khadgar wants you to enter the Shadow Labyrinth at Auchindoun and retrieve the First Key Fragment from an Arcane Container hidden there.",
+  "d": "I am deeply troubled by the news in this report, $N.  Gaining entry into Karazhan will be difficult, however.$B$BYou see, when it became apparent that I was stranded here I split the key into three fragments.$B$BI placed the keys inside enchanted containers, and in turn placed those in places that were safe at the time.$B$BWith the dark changes Outland has endured this no longer is the case.  The first fragment is in a section of Auchindoun taken over by the Shadow Council.  Return this fragment to me.",
+  "p": "Have you obtained the fragment, $c?  You would do well not to waste any time in this matter",
+  "c": "You've done well, $N.  I wasn't sure you would succeed.$B$BThe containers are enchanted with a potent spell that masks their presence from unworthy eyes.  I'm glad to see they did not elude you."
+ },
+ {
+  "id": 9832,
+  "t": "The Second and Third Fragments",
+  "o": "Obtain the Second Key Fragment from an Arcane Container inside Coilfang Reservoir and the Third Key Fragment from an Arcane Container inside Tempest Keep.  Return to Khadgar in Shattrath City after you've completed this task.",
+  "d": "I hid the second fragment at the bottom of Serpent Lake, long before it was called that.  The giant drain installed there after the naga took over has likely pulled the container into the depths of Coilfang Reservoir.$B$BThe third fragment will prove the most trying, as I left it inside Tempest Keep back when it was controlled by the naaru.  Kael'thas now rules it and the chamber where I left it has become a prison.$B$BBring me these remaining fragments, $N.  Much depends on your success.",
+  "p": "How goes your search for the key fragments, $N?",
+  "c": "You have the fragments. This is most impressive, $N. You're certainly worthy of holding the key to Karazhan.$B A small problem remains."
+ },
+ {
+  "id": 9833,
+  "t": "Lines of Communication",
+  "o": "Puluu at the Orebor Harborage wants you to kill 12 Marshfang Slicers.",
+  "d": "One of the reasons Ikuti led us to Zangarmarsh was to help open the lines of communication between the draenei and the Kurenai home city of Telaar in Nagrand. In order for messengers to pass swiftly between Telaar and Telredor, the roads must be secured.$B$BOn our way here, we were attacked repeatedly by marshfang slicers. We were able to fight them off, but they would pose a formidable threat to a solitary messenger. Reducing their numbers will help ensure the safety of our messengers.",
+  "p": "Have you made progress in securing the roads?",
+  "c": "That's excellent news. The way is still far from perfectly safe, but the messengers are clever and resourceful."
+ },
+ {
+  "id": 9834,
+  "t": "Natural Armor",
+  "o": "Bring 8 Fenclaw Hides to Maktu at the Orebor Harborage.",
+  "d": "Maktu can always see a draenei approaching in his shiny armor from a mile away, even in this murky swamp!$B$BMaktu wants to laugh at them, but then he remembers that they have been kind to the Kurenai and he wants to teach them about how Kurenai make armor.$B$BThe dark, scaly hides of the fenclaw thrashers make some of the best armor Maktu has ever worn. If $N can bring Maktu some of these hides from the fenclaw thrashers deep in Serpent Lake, he'll be happy to share some of his armor.",
+  "p": "Does $N have hides for Maktu?",
+  "c": "These are good hides, Maktu thinks. They will make very good armor.$B$BWho knows? There might even be enough left over for Maktu to make some armor for the draenei."
+ },
+ {
+  "id": 9835,
+  "t": "Ango'rosh Encroachment",
+  "o": "Kill 10 Ango'rosh Ogres and 5 Ango'rosh Shaman and return to Ikuti at the Orebor Harborage.",
+  "d": "The small band of Broken you see here is a mission from a larger settlement in Nagrand. The Kurenai, as we call ourselves, are Broken who desire to reunite with our draenei brothers.$B$BMy group has come here to strengthen Kurenai ties to the draenei of Telredor.$B$BIf the Ango'rosh ogres have their way, this temple will not stand much longer. They have cleared the Hewn Bog of its towering mushrooms and draw ever closer to our refuge. If you would call yourself our friend, aid us in fighting this enemy.",
+  "p": "How goes the fight against the Ango'rosh?",
+  "c": "The Ango'rosh threat is contained for the moment, but I'm certain they won't give up that easily. I've forgotten many things since the end of my life as a draenei, but the stubbornness of the ogres is an enduring memory. "
+ },
+ {
+  "id": 9836,
+  "t": "The Master's Touch",
+  "o": "Go into the Caverns of Time and convince Medivh to enable your Restored Apprentice's Key.",
+  "d": "I've put together the very key I used as an apprentice.  It looks completely functional as far as keys go.  In regards to opening Karazhan, however, this might as well be a piece of scrap metal.$B$BWithout Medivh's consent, the key is worthless.  Yes, of course I know Medivh is dead.  This merely makes things difficult, not impossible.$B$BThere is a place in Azeroth called the Caverns of Time, guarded by the bronze dragonflight.  Find a way inside, travel back in time and get Medivh to enable the key.",
+  "p": "Who are you and what do you want?",
+  "c": "That key, I recognize it. That is Kadghar's key... of course I haven't given it to him yet."
+ },
+ {
+  "id": 9837,
+  "t": "Return to Khadgar",
+  "o": "Return to Khadgar in Shattrath City and show him the Master's Key.",
+  "d": "I seem to have memories about future events surrounding you and this key.$B$B<Medivh looks at you like he's just seen a ghost.>$B$BYou have trying times ahead of you, $N.  Let us hope your strength does not fail you.$B$BRegarding the key, I am to hand it to Khadgar when he's sent to me.  I couldn't hope for a better apprentice.$B$BI suppose you will need a key of your own.$B$B<Medivh reaches into his robe and hands you his own key.>$B$BGo on then.  And best of luck, $c.",
+  "p": "",
+  "c": "His own key? That's incredible!$B$BI do not sense any disturbances in our timeline, so I suppose it was meant to occur all along. There's no turning back now, $N. The key is yours and only yours."
+ },
+ {
+  "id": 9838,
+  "t": "The Violet Eye",
+  "o": "Speak to Archmage Alturus outside Karazhan.",
+  "d": "A great responsibility has been bestowed upon you, $N.  If the signs that the Violet Eye has observed are to be trusted, then you must help them.$B$BFor all my disagreements with Cedric, the work that men like Alturus do is still important.  Beware that they do not use you, however.  Remember it is you who the key is bound to, not them.  But if the danger in Karazhan is real, then it is they who are best prepared to guide you in dealing with it.  Go back to Alturus and help him in any way that you can.",
+  "p": "",
+  "c": "I sent you to deliver a report and you come back with a key to this place? There must be more to you than meets the eye, $N."
+ },
+ {
+  "id": 9839,
+  "t": "Overlord Gorefist",
+  "o": "Ikuti wants you to kill Overlord Gorefist and 10 Ango'rosh Maulers. Return to the Orebor Harborage once you have completed the task.",
+  "d": "The centerpiece of any ogre tribe is its leader. Without leadership, the Ango'rosh's organization will disappear and they'll resort to infighting to determine who will lead next.$B$BAlthough we've seen the ogres out and about in this area, their true strength is concentrated in their Ango'rosh Stronghold to the northwest. It's located in a cave on a small island connected to the marsh by a fallen mushroom.$B$BGo there and defeat Overlord Gorefist. That should provide us with a well-deserved respite.",
+  "p": "Is it done? Have you dealt with Overlord Gorefist?",
+  "c": "At last! You have our thanks for your help in securing our position at the Orebor Harborage. I will send word of your deeds to the Kurenai city of Telaar in Nagrand. There will be many more opportunities for our peoples to work together."
+ },
+ {
+  "id": 9840,
+  "t": "Assessing the Situation",
+  "o": "Find Koren inside Karazhan.",
+  "d": "Now that we've found a way back into Medivh's Tower - or rather you have - the first thing we need to do is try to get a sense of what the situation inside is.$B$BOne of our agents who had managed to infiltrate Karazhan kept an encoded log of her observations.  Unfortunately her death was confirmed shortly before Karazhan was shut down.  Koren, Karazhan's blacksmith, was under our pay.  Though not a member of the Violet Eye, he should be able to help us find Keanna's log.  Look for him inside.",
+  "p": "",
+  "c": "<Koren looks at you with an uncertain look.>$B$BI know nothing of this Violet Eye you speak of. A blacksmith is all I am."
+ },
+ {
+  "id": 9841,
+  "t": "Stinging the Stingers",
+  "o": "Kill 8 Marshlight Bleeders and return to Gambarinka at Zabra'jin.",
+  "d": "It's impossible to work with all this infernal buzzing! Do you hear it?$B$BI can't get it out of my head! I know exactly what's making the noise, too. It's those damnable marshlight bleeders! The noise always comes from the south and west of the village.$B$BThey're too big to swat, crush underfoot, or wave away. The only way to stop that unholy droning is to kill them. I don't care how you do it, $N, just quiet them!",
+  "p": "The sound seems to have receded into the distance. Is that wishful thinking or have you really done something about the problem?",
+  "c": "I thought so. I can hear the difference already. I'll finally be able to get back to work, thanks to you. If you ever find yourself in need of tradeskill supplies, don't forget ol' Gambarinka!"
+ },
+ {
+  "id": 9842,
+  "t": "The Sharpest Blades",
+  "o": "Bring 10 Marshfang Slicer Blades to Gambarinka at Zabra'jin.",
+  "d": "The damp atmosphere of the marsh has taken a toll on my metal tools. It's made woodworking a lot more difficult than it ought to be, so I've given up on metal blades.$B$BIt turns out that the marshfang slicers living to the south and west of town grow blades that are sharper than any steel I've ever owned. They're also resistant to rust and wear. It's just a little tricky to attach them to a handle, but I think I've got it figured out. I'd appreciate any blades you could bring me.",
+  "p": "Have you managed to scare up some of those marshfang blades?",
+  "c": "These should keep me supplied for some time to come! I think some of the others have begun to take notice. I've had several offers to buy my blades already. Selling them on the side might provide better business than my customary goods."
+ },
+ {
+  "id": 9843,
+  "t": "Keanna's Log",
+  "o": "Search the Guest Chambers inside Karazhan for Keanna's Log and bring it to Archmage Alturus outside Karazhan.",
+  "d": "Who did you say you were looking for again?  Keanna?$B$BI once met someone with that name.  She was staying up at the guest chambers.  I was supposed to keep that a secret now, wasn't I?$B$BDid you say you were with the Violet Eye?  No, I've never heard of them.$B$BI need to return to my work now, if you don't mind.$B$B<Koren seems to have forgotten about you already.>",
+  "p": "Keanna's log... did you find it?",
+  "c": "You found the log. I sure hope the information we need is in here, $N."
+ },
+ {
+  "id": 9844,
+  "t": "A Demonic Presence",
+  "o": "Archmage Alturus wants you to destroy the Demonic Presence at the top of Karazhan.",
+  "d": "Keanna's last few entries confirm our suspicions of a demonic presence inside Karazhan.$B$BShe detected the arrival of a Burning Legion agent whose location she describes as coming from the top of the tower.$B$BHer entries stop there.$B$BKarazhan is a very important place, $c.  It is a portal into the nether, a beacon shining into other worlds.  The possible repercussions of it falling into the wrong hands are unthinkable.  This demonic intrusion must be stopped.  And you, $N, are the only one with a key.",
+  "p": "I dread to ask, $N. What has become of the situation inside Karazhan?",
+  "c": "You did it! Yes, the readings are becoming normal once again!$B$BWe must give this news to Cedric. He's going to be very impressed with your achievement."
+ },
+ {
+  "id": 9845,
+  "t": "Angling to Beat the Competition",
+  "o": "Kill 10 Fenclaw Thrashers and return to Zurjaya at Zabra'jin.",
+  "d": "It's a relief to be in someplace with water after trekking through the wasteland of Hellfire Peninsula. I was worried there might not be any respectable fishing holes in Outland.$B$BNow I'm glad I lugged my fishing supplies along. For the most part, the fishing's been good, except for those no good fenclaw thrashers in Serpent Lake.$B$BNot only do they scare the fish away, but they're bold enough to snap the bait right off my hook. I spend more time re-baiting the hook than I do catching anything!",
+  "p": "Is it safe for me to fish again?",
+  "c": "I can't wait to return to fishing! Now I'll be able to return to town with some real fish in my bucket and Gambarinka won't be able to make fun of me anymore!"
+ },
+ {
+  "id": 9846,
+  "t": "Spirits of the Feralfen",
+  "o": "Bring 10 Feralfen Protection Totems to Seer Janidi at Zabra'jin.",
+  "d": "The most powerful tribe of Lost Ones in the marsh, the Feralfen, are said to possess powerful medicine. There may be no truth to such rumors, but anything that might help me channel the spirits of this world cannot be ignored.$B$BFind the Feralfen mystics, hunters and druids, $N, and capture their totems. Everything I need to know should be apparent from the carvings.",
+  "p": "Have you gathered those totems?",
+  "c": "Hmm... They seem to be divided between images of a serpent spirit and a bird spirit. No self-respecting Darkspear troll engages in bird worship. Their spirits are weak, capricious, and best left to the Amani.$B$BBut the serpent, $N, the serpent wields considerable power and this is the spirit I shall study."
+ },
+ {
+  "id": 9847,
+  "t": "A Spirit Ally?",
+  "o": "Take the Feralfen Totem to the foot of the stairs at the Boha'mu Ruins and plant it in the ground. Report your findings to Seer Janidi at Zabra'jin.",
+  "d": "We must find out how much power this Feralfen snake spirit possesses and whether it can be bent to our will. Imagine what I could do with the powers of an Outland spirit at my command!$B$BTake this totem with you and make your way to the foot of the stairs leading to the Boha'mu Ruins. Plant the totem in the ground and it should do the rest. The spirit should not be able to tell who has used the totem until it has manifested.",
+  "p": "Were you able to summon the Feralfen spirit?",
+  "c": "<You tell Seer Janidi about what happened when you used the totem.>$B$BThe spirit attacked you? It must have a higher affinity for those Lost Ones than I'd thought. There's no way to compel it to serve me without expending considerable effort. I'll have to search for a new source of power in this wretched world."
+ },
+ {
+  "id": 9848,
+  "t": "Secrets of the Daggerfen",
+  "o": "Bring the Daggerfen Poison Manual and a Daggerfen Poison Vial to Timothy Daniels at the Orebor Harborage.",
+  "d": "Bugs, bugs, bugs! The marsh is full of them and my companions here seem obsessed with them.$B$BWell, I've had it with the bugs! Something far more intriguing has captured my interest. To the west, there is a village of Lost Ones who call themselves the Daggerfen.$B$BThe whole tribe consists of highly specialized assassins. I've noticed them mixing and using a particularly potent kind of poison. I'm dying to know more about the poison, but that's going to require a copy of the recipe and a sample vial.",
+  "p": "Did your search of Daggerfen Village yield the information I need in order to get to the bottom of this poison puzzle?",
+  "c": "<Timothy leafs through the manual.>$B$BThey're using ragveil as a base for the poison? No, that can't be right. Ragveil has no toxic properties.$B$BIncluding ragveil in a poison is like a rogue wielding two maces. Sure, you can do it, but it isn't true to the essence of your calling! I just can't understand...$B$B<Timothy clears his throat.>$B$BI mean, thank you for fetching these for me. I'll try out the poison as soon as time permits."
+ },
+ {
+  "id": 9849,
+  "t": "Shattering the Veil",
+  "o": "Gordawg at the Throne of the Elements in Nagrand has asked that you slay 30 Minions of Gurok.",
+  "d": "<Gordawg breaks off a piece of ebon rock from his back.>$B$BYou are granted a piece of the fury of the earth. Take the boulder of Gordawg and hurl it at the poison rock. Shatter their shells to discover the truth. Destroy the minions of the usurper and return to Gordawg with the name.$B$BYou find the shattered elements at the edge of the world. Southwest.",
+  "p": "Gordawg wants the boulder returned.",
+  "c": "GUROK! Gurok betrayed the elements!"
+ },
+ {
+  "id": 9850,
+  "t": "Clefthoof Mastery",
+  "o": "Kill 12 Clefthoof Bulls and then speak to Hemet Nesingwary at Nesingwary's Safari in Nagrand about your prowess.",
+  "d": "You've proved to me that you can find and take down a regular clefthoof, but far more dangerous are the clefthoof bulls.$B$BBag yourself twelve of those.  Then you can talk to me of your hunting prowess.$B$BLook for them all along the middle region of Nagrand to the west and south.",
+  "p": "You think the clefthoof bulls are just going to fall dead at your feet here in front of the campfire?",
+  "c": "Impressive. Most impressive.$B$BYou've got potential, kid. Now I'm going to give you the chance to have some real fun!"
+ },
+ {
+  "id": 9851,
+  "t": "Clefthoof Mastery",
+  "o": "Acquire the Horn of Banthar and return it to Hemet Nesingwary at the Nesingwary Safari in Nagrand.",
+  "d": "Banthar is the fiercest and most elusive of all the clefthoof in Outland.  She's also the hairiest.$B$BIt is said that she roams with her clefthoof herd in the Field of Spirits near Oshu'gun.$B$BYou want to truly prove your hunting mastery?  Bring me her horn!",
+  "p": "A warm fire and a woman at your side for idle chit-chat is something you can get at home. Here we hunt big game or die trying.",
+  "c": "You did it! You took down Banthar! I never had a doubt, $N.$B$BHere, I think you've more than earned this."
+ },
+ {
+  "id": 9852,
+  "t": "The Ultimate Bloodsport",
+  "o": "Bring the Heart of Tusker to Hemet Nesingwary at Nesingwary's Safari in Nagrand.",
+  "d": "The queen of all that dwell in Nagrand is known as Tusker.  She's a giant elekk the likes of which you won't see anywhere else!$B$BYou're right to be fearful of that name.  Bach'lor, Gutripper, and Banthar are nothing when compared to her.  It is said that she can be found on a huge bluff far to the southwest overlooking Oshu'gun.  Bring me her massive heart if you dare.$B$BDo you want to leave a letter with me so that I can have it delivered to your next of kin in the likely event that you don't return?",
+  "p": "There's no shame in admitting that you haven't the spine to hunt the mightiest of animals this land has to offer, $N.",
+  "c": "$N! You bring joy to this old dwarf's heart.$B$BYou have now proven yourself; you've joined the ranks of the elite! Others ran away in fear, or died, trampled under the foot of the beast. You used your mind, your cunning, your determination to prove your mastery of the hunt.$B$BTake this and know that you are always welcome to hunt at my side!"
+ },
+ {
+  "id": 9853,
+  "t": "Gurok the Usurper",
+  "o": "Gordawg at the Throne of the Elements in Nagrand has asked that you destroy Gurok the Usurper and bring back Gurok's Earthen Head.",
+  "d": "Gurok must be summoned. You summon Gurok and you destroy.$B$BYou must go to Warmaul Hill to the northwest and find where ogre worships Gurok. You put ogre skull from Warmaul ogres on Gurok's earthen brand. Only then will Gurok come. Seven skulls.$B$BIf you live, bring Gordawg back Gurok earthen head. Gordawg crushes head.$B$B<Gordawg bites down hard, shaking the earth beneath your feet.>",
+  "p": "Gordawg eat Gurok power.",
+  "c": "<Gordawg chomps down hard on Gurok's earthen head, nearly disintegrating the stone formation.>$B$BGurok's reign has come to an end. The earthen elements are free. All sleep now. Champion gets reward!"
+ },
+ {
+  "id": 9854,
+  "t": "Windroc Mastery",
+  "o": "Kill 12 Windrocs and then return to Fitz at the Nesingwary Safari in Nagrand.",
+  "d": "Do you live for the hunt as I do, $c?  Do you seek the quietude that comes as you stalk your prey?  Would you know what it is to honor the last heartbeats of your fallen quarry?  I will help you to achieve this.$B$BNagrand is a lush land, full of life in the midst of this broken world.  Bring down a handful of the windrocs and then we will speak more.$B$BYou can find them in many places nearby in all directions around our camp.",
+  "p": "Have you come to know the peace that comes with knowing your place in nature?  Are you the hunter or the hunted?",
+  "c": "Every day is a gift.  Make the most of it.  For tomorrow we shall stride swifter over the plains than today.  We will spread our arms further and strain to achieve that which tonight we can only dream of, though it may ever elude us."
+ },
+ {
+  "id": 9855,
+  "t": "Windroc Mastery",
+  "o": "Hunt down 12 Ravenous Windrocs and then return to Fitz at the Nesingwary Safari in Nagrand.",
+  "d": "You must always push yourself if you are to one day stalk the mightiest of prey!  While you are not yet ready, I will point you in the right direction.$B$BThere is another breed of windroc even deadlier.  Seek out the ravenous windroc to test your mettle against.  You will find them in the heart of Nagrand to the west and southwest.",
+  "p": "Have you learned yet to calm the beating of your heart?  To be as still as a calm lake and patient, waiting for the right moment to strike down your quarry?",
+  "c": "You have proven your skill once more, $c. Now you must go on to stalk the fiercest of the windrocs."
+ },
+ {
+  "id": 9856,
+  "t": "Windroc Mastery",
+  "o": "Bring the Eye of Gutripper to Fitz at the Nesingwary Safari in Nagrand.",
+  "d": "You are ready, $c.  Ready to face the mother of all windrocs, Gutripper!  Honor demands that after hunting so many of her children that you give her the chance to defeat you!  Seek her out amongst the greater windroc far to the west.$B$BShould you survive, bring her eye to me.",
+  "p": "Have you faced Gutripper yet?",
+  "c": "Her eye looks as if it is still alive. Do you think that she can still see into your soul?$B$B$N, you can now count yourself as one of the elite safari hunters. And you are another step closer to stalking the ultimate prey of this land, Tusker!$B$BYou've earned the right to have this. May it serve you well."
+ },
+ {
+  "id": 9857,
+  "t": "Talbuk Mastery",
+  "o": "Kill 12 Talbuk Stags and then return to Harold Lane at the Nesingwary Safari in Nagrand.",
+  "d": "I don't think that I'm up to the hunt today.  Do you think that you might take my place?$B$BI told Hemet that I was going to see about bagging us some of those talbuk that seem to be all over the place.  The stags are especially nice to hunt.  You can find them congregated around the nearby trees.$B$BThink that you could take care of that for me?",
+  "p": "I'm just going to lay here a little while longer.  I should be fine soon.",
+  "c": "That's a good tale... <cough>...of how you bagged all of those stags, $c. But I think that you can do better. I've got something else in mind for you."
+ },
+ {
+  "id": 9858,
+  "t": "Talbuk Mastery",
+  "o": "Hunt down 12 Talbuk Thorngrazers and then return to Harold Lane at the Nesingwary Safari in Nagrand.",
+  "d": "This darned scratch is getting the worst of me it would seem.  So, are you up to filling...<cough>... in for me again?$B$BThis time you're going to bag yourself some thorngrazers.  They're tougher and wilier than the stags, so keep your wits about you.  Look for them... <cough>... sheltered under the trees in the middle of Nagrand to the west and south.$B$BGo on, get out there and...<cough>... show Hemet what you're made of.  I'll be fine.",
+  "p": "I don't suppose...<cough>... you've taken care of those...<cough>... thorngrazers yet?",
+  "c": "<cough>, <cough>... $N! You did it. There's only...<cough>... one thing left to...<cough>... do then."
+ },
+ {
+  "id": 9859,
+  "t": "Talbuk Mastery",
+  "o": "Obtain the Hoof of Bach'lor and return it to Harold Lane at the Nesingwary Safari in Nagrand.",
+  "d": "<Wracking cough.>$B$BDon't worry about...<cough>... me.  I'll be fine.  It's just a...<cough>... scratch.$B$BJust the same, I think you'll... <cough>... have to fill in for me one more... <cough>... time.$B$BYou must seek out the great Bach'lor, king of...<cough>... the stags.  It's ok if you... <cough>... take friends along.$B$BBring me one of his hooves...<cough>, <cough>... as confirmation.$B$BLook for him...<cough>... leading his herd in the far west of Nagrand.",
+  "p": "You have... the hoof?",
+  "c": "Wow! You did it! That's really Bach'lor's hoof!$B$BUm, I'm starting to feel much better it would seem. Here, let me give you something in celebration of your proven hunting prowess!"
+ },
+ {
+  "id": 9860,
+  "t": "The New Directive",
+  "o": "Speak to Archmage Cedric in the outskirts of Dalaran Crater.",
+  "d": "Return to Cedric at once, $N.  The aid you've given the Violet Eye will not go unrewarded.$B$BThink what you want of us and our organization, $c, but gaining the favor of the archmages of Dalaran will not be something you regret.",
+  "p": "",
+  "c": "Alturus told me all about what happened, $N. This is not the end of it, however. With Karazhan remaining sealed to outsiders, it's only a matter of time until the Legion renews its attacks while we stand powerless in the sidelines.$B$BUnless you accept the responsibility that fate has bestowed upon you, that is.$B$B<Cedric extends an open palm towards you, holding a badge with the Violet Eye's symbol on it.>$B$BWhat do you say, $N?"
+ },
+ {
+  "id": 9861,
+  "t": "The Howling Wind",
+  "o": "Find someone at the Throne of the Elements that knows how to speak Kalimag and show them the Howling Wind.",
+  "d": "This amorphous mass of elemental air is speaking to you in a language that you cannot understand. You believe the language to be the tongue of the elements: Kalimag. Perhaps someone at the Throne of the Elements could shed some insight on this unusual find.",
+  "p": "Give it here! Quickly!",
+  "c": "It is a distress call, $r. An outside force is attempting to subvert the elements."
+ },
+ {
+  "id": 9862,
+  "t": "Murkblood Corrupters",
+  "o": "Elementalist Morgh at the Throne of the Elements in Nagrand wants you to slay 5 Murkblood Putrifiers.",
+  "d": "Murkblood are capturing and torturing the spirits of air! Murkblood are my kin: A tribe of the Broken who serve the vile Musel'ek, beast lord of Coilfang.$B$BThe air spirit states that the Murkblood putrifiers are capturing other spirits of air and using them to sow chaos into the ranks of the elements. It would seem that the Murkblood have recently sacked an orc village to the southwest known as Sunspring and are using powerful elemental magic to disturb the lake. Find the putrifiers and destroy them.",
+  "p": "The air spirit claims that the Murkblood are searching for something at Sunspring...",
+  "c": "You saw them controlling the elements? The wind bent to their will?$B$B<Morgh is lost in thought for a moment.>$B$BThis is troubling, $N. I must consult with the others.$B$BWe thank you for your efforts, $N. Perhaps you should return to your village and see if they have any other information about the Murkbloods and their nefarious goals."
+ },
+ {
+  "id": 9863,
+  "t": "Vile Idolatry",
+  "o": "Farseer Kurkush at Garadar in Nagrand wants you to bring him 10 Murkblood Idols.",
+  "d": "With our leadership in ruin, we are left open to attacks from all sides. The foul Murkblood tribe could not have picked a better time to attack us!$B$BIn recent days, we have been subject to no less than 5 assaults from the Broken. They have even taken over our only other territorial holding in the area: Sunspring Post.$B$BWe must strike and show them that we are not powerless! Strike down the vile idolaters and bring me their twisted idols of worship so that they may ride the lightning.",
+  "p": "Do this for us because we cannot do it for ourselves. ",
+  "c": "You have given the Lightning Sons hope, $N. If our leader will not protect us, perhaps there are others that are capable - like you. "
+ },
+ {
+  "id": 9864,
+  "t": "The Missing War Party",
+  "o": "Try and find the missing Garadar war party.",
+  "d": "After the last Murkblood raid, a group of younglings decided to act. We tried to stop them but the rage had taken hold. It has now been one week since we last saw our beloved younglings.$B$BPlease, $r, you must find them! They have just barely reached adolescence. How can they expect to defeat such savages?$B$BThey took the road leading west out of town. Follow that road around and look for signs of our younglings.$B$BAnd $N, avoid Halaa if you value your life. It is a war-zone.",
+  "p": "",
+  "c": "I have been told stories of my people. They say that once, we were warriors... "
+ },
+ {
+  "id": 9865,
+  "t": "Once Were Warriors",
+  "o": "Kill 20 Murkblood Scavengers and 10 Murkblood Raiders.",
+  "d": "I do not know you, stranger, but I ask for your help. I feel shame for this, but I am only one orc.$B$BEmotions have surfaced that I have never felt. I... I seek vengeance. Blood for blood. Do your people ever feel this? I wish to pick up my axe and split my enemies in two. To swing the weapon until my arms fall lifelessly at my sides, exhausted.$B$BSunspring Post is directly south of this procession. It is there that you will find our enemies... Kill them... Kill them all...",
+  "p": "For each of my kin that they slew, ten of them must die!",
+  "c": "<Saurfang turns to face you.>$B$BIs it blood that I smell? I regret being unable to lend assistance. How proud you must be. My chest swells just knowing what you have done.$B$BAre there others like you? Where you come from, do more heroes exist?"
+ },
+ {
+  "id": 9866,
+  "t": "He Will Walk The Earth...",
+  "o": "Deliver the news to Farseer Corhuk at Garadar.",
+  "d": "Will you do me one last honor, $N? I do not wish to return to Garadar. I believe that my destiny lies elsewhere - that I will serve a greater purpose someday.$B$BPlease, return to Farseer Corhuk and tell him that I will not be returning. That I cannot return. I must walk the earth... He will understand.",
+  "p": "",
+  "c": "<Farseer Corhuk stares at the ground, lost in contemplation. He nods his head affirmatively.>$B$B<Farseer Corhuk wipes a tear away.>$B$BThe son is the father... May the spirits have mercy on those that stand in his way."
+ },
+ {
+  "id": 9867,
+  "t": "Murkblood Leaders...",
+  "o": "Farseer Margadesh at Garadar in Nagrand wants you to bring him the Head of Ortor of Murkblood. ",
+  "d": "We have lost many friends in recent weeks.$B$BFor decades we have dealt with the ogres of Nagrand but now a new threat has arisen. The Broken tribe of Murkblood attacked our fishing village to the southwest, Sunspring Post, and managed to kill or evict all of the orcs that inhabited the town.$B$BWhile the others feel that the best course of action is to kill indiscriminately, I know that we must destroy their leadership. I do not know who their leader is but I suspect that you will know when you find him.",
+  "p": "Bring me their leader's head, $N.",
+  "c": "So, this is the face of our enemy? I will have this put upon a pike and placed outside of Garadar, near the gates. Should they think to attack us again, they will see the consequences for their actions looking down upon them..."
+ },
+ {
+  "id": 9868,
+  "t": "The Totem of Kar'dash",
+  "o": "Escort the Mag'har Captive out of Sunspring Post. Speak to Garrosh at Garadar if you succeed.",
+  "d": "Thank you, stranger. They would have surely killed me had it not been for you.$B$BI was kidnapped by these Murkbloods 3 nights ago during a nighttime raid on Garadar. What I have since uncovered may very well shake the foundation of the Outland: these savages seek to recover the totem of Kar'dash! We cannot allow the totem to fall into the hands of the Murkbloods!$B$BYou must help me escape. And stranger, if I do not make it back to Garadar, you must tell Garrosh what happened here... ",
+  "p": "<Garrosh barely acknowledges your presence. He appears deeply depressed.>",
+  "c": "What does it matter? The Greatmother is dying. Life is not worth living... "
+ }
+]

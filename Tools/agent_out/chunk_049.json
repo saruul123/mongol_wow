@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10984,
+  "t": "Speak with the Ogre",
+  "o": "Speak with the Ogre, Grok, in the Lower City section of Shattrath City.",
+  "d": "<V'eru's voice fills your mind with crystalline tone and clarity.>$B$BThere is an ogre down in the Lower City, pleading for the assistance of passersby.  They have all turned a deaf ear upon his plight.$B$BDo you think you might aid him?$B$BHis name is Grok, and he is sitting near the merchants to the southeast.$B$BThank you, $N.",
+  "p": "",
+  "c": "You help Grok?  Grok need help!  Bloodmaul clan need help!"
+ },
+ {
+  "id": 10985,
+  "t": "A Distraction for Akama",
+  "o": "Ensure that Akama and Maiev enter the Black Temple in Shadowmoon Valley after Xi'ri's forces create a distraction.",
+  "d": "<Xi'ri pulses with lights as the Aldor and Scryer forces around him respond to his orders.  Xi'ri's army is ready to push Illidan's forces back and create a distraction for Akama.  The naaru awaits your request to begin the attack.>",
+  "p": "<Xi'ri acknowledges your presence.>",
+  "c": "<Xi'ri pulses with energy as you feel an object materialize in your hands.  It is the medallion you gave to A'dal on Akama's behalf, its power augmented by the naaru's magic.  The Sha'tar have entrusted you with the Medallion of Karabor, and with it access to the Black Temple.>"
+ },
+ {
+  "id": 10986,
+  "t": "Eyes in the Sky",
+  "o": "Speak with Watcher Elaira at the Twilight Ridge in Nagrand.",
+  "d": "Locating the pieces of the Book of the Raven, if they survive at all, is going to be difficult. Our best hope is to use a keener pair of eyes than your own.$B$BDown in western Nagrand, on the eastern lip of the Twilight Ridge, Watcher Elaira studies the various bird species that make their home there. Visit her and see if she can help you harness avian sight to gather the pieces of the Book of the Raven.",
+  "p": "",
+  "c": "<Elaira listens as you describe your search for the Book of the Raven and Arthorn's suggestion to use birds to locate the missing pieces of the tablet.>$B$BIt's an excellent idea and Nagrand is teeming with candidates, but which one to use?"
+ },
+ {
+  "id": 10987,
+  "t": "To Catch A Sparrowhawk",
+  "o": "Use the Sparrowhawk Net to capture a Wild Sparrowhawk and bring it to Watcher Elaira on the Twilight Ridge.",
+  "d": "The wild sparrowhawks of Nagrand have the keenest sight of all the predatory birds here. But, because of their size, they've been pushed out of most areas by the larger windrocs.$B$BMost of the sparrowhawks nest here, on the Twilight Ridge. If you can catch one, I'll train it to spot the pieces of your buried tablet.$B$BIt's going to be difficult, though. The sparrowhawks are very skittish and will flee at your approach. I'd suggest cornering one or prowling to get close enough to cast your net.",
+  "p": "Did you catch one of the sparrowhawks?",
+  "c": "Well done! I'm still in the process of getting the hawks to trust me, but I know enough about them to train this one for your needs."
+ },
+ {
+  "id": 10988,
+  "t": "The Raven Stones",
+  "o": "Gather 8 Raven Stones from Skettis and bring them to Arthorn Windsong at Evergrove in Blade's Edge Mountains.",
+  "d": "I've trained your sparrowhawk to respond to a specific whistle. When it hears the sound, the bird will fly to you and guide you to the location of the nearest tablet fragment. Arthorn sent word that the fragments you're looking for are buried in the Skettis area of southeastern Terokkar Forest, so the bird will wait for you there.$B$BWhen you've gathered all the stones, return the whistle to Arthorn and she will see to the animal's care and release.$B$BConvey my greetings to Arthorn when you see her.",
+  "p": "Did you recover enough of the Book of the Raven for me to reconstruct it?",
+  "c": "<Arthorn accepts the fragments of the Book of the Raven from you and begins piecing them together.>$B$BSome of the characters have been worn away, but I should be able to make out most of this..."
+ },
+ {
+  "id": 10989,
+  "t": "Mog'dorg the Wizened",
+  "o": "Speak with Mog'dorg the Wizened atop the tower where Chort is standing, just outside the Circle of Blood in the Blade's Edge Mountains.",
+  "d": "Mog'dorg the Wizened waits for you at top of da tower.  He tells me to look for a $r $c just like you.  You go speak with him about smart things.$B$BGo now, but don't tell no one.  It's a secret!",
+  "p": "",
+  "c": "Finally, Chort has sent me someone who looks like they might be able to help.  I am trying to save the Bloodmaul from annihilation by the Bladespire clan, and Gruul's sons, who are backing them.$B$BI trust that you will be the one to aid our secret society and deliver us into freedom."
+ },
+ {
+  "id": 10990,
+  "t": "The Eagle's Essence",
+  "o": "Defeat the Guardian of the Eagle and obtain the Essence of the Eagle. Use Arthorn's Sparrowhawk Whistle to call Arthorn's Sparrowhawk to relay news of your success.$B$BIf you lose Arthorn's Sparrowhawk Whistle, return to Arthorn Windsong at the Evergrove for a replacement.",
+  "d": "The Book of the Raven tells us the raven's followers captured and bound the spirits of his rivals within stone shrines. A guardian was set to watch over each, lest the raven's enemies attempt to free them.$B$BThe first of the shrines is the eagle's, found in the hills to the south of Lake Jorune and west of Stonebreaker Hold in Terokkar Forest.$B$BThe tablet says that the eagle fought valiantly, but was overcome by a swarm of enemies. The armor and endurance of your bear form is well-suited to this fight.",
+  "p": "<The sparrowhawk seems to speak with Arthorn's voice.>$B$BDid you succeed in freeing the essence of the eagle spirit?",
+  "c": "<Arthorn seems to feel the power in the recovered essence through the sparrowhawk's senses.>$B$BEven after thousands of years of captivity, the eagle's power remains strong. If the other essences are as strong as the eagle's, the raven god will be right to fear you."
+ },
+ {
+  "id": 10991,
+  "t": "The Falcon's Essence",
+  "o": "Defeat the Guardian of the Falcon, obtain the Essence of the Falcon. Use Arthorn's Sparrowhawk Whistle to call Arthorn's Sparrowhawk to relay news of your success.$B$BIf you lose Arthorn's Sparrowhawk Whistle, return to Arthorn Windsong at the Evergrove for a replacement.",
+  "d": "<The bird speaks with Arthorn's voice.>$B$BThe second spirit bound by the raven's followers was the falcon.$B$BIt was subdued and imprisoned close to Skettis as a reminder to the raven-priests when they held power.$B$BOn the shores of Lake Ere'Noru, to the northwest of Skettis, you'll find the falcon's shrine.$B$BTo overcome the falcon's guardian, you'll need to use the falcon's strengths to your advantage. Use the speed and grace of your cat form to defeat the guardian before it reaches full strength!",
+  "p": "<Once again, Arthorn's voice issues from the sparrowhawk.>$B$BDo you have the falcon's essence?",
+  "c": "<The sparrowhawk dutifully conveys Arthorn's words.>$B$BWell done, $N. I'd feared that the falcon's prison had been destroyed in the explosion of Auchindoun. We're almost prepared to confront Anzu, $N. I'd love to go with you, to be there when this self-styled \"god\" is cast back into the pit that spawned him!"
+ },
+ {
+  "id": 10992,
+  "t": "The Hawk's Essence",
+  "o": "Defeat the Guardian of the Hawk and bring the Essence of the Hawk to Arthorn Windsong at the Evergrove.",
+  "d": "<Arthorn's voice addresses you.>$B$BThe last, and strongest, of the spirits spoken of in the Book of the Raven is that of the hawk. It was imprisoned far from Skettis, in a shrine on a remote island southeast of Auchindoun.$B$BI believe this description best matches the island we know as Sorrow Wing Point.$B$BThe tablet describes the hawk's guardian as nearly invulnerable to the bird's claws. Forsake physical attacks and call down the fury of the stars to defeat this foe. Do not repeat the hawk's mistake.",
+  "p": "Did you overcome the hawk's guardian and win its essence?",
+  "c": "Now that we have all the essences, Morthis Whisperwing must find a way to combine them into an amulet that you'll be able to use to challenge the raven god, draw him out of the Emerald Dream and defeat him. I'll be sending him my notes on the spirits with the hope that he'll realize the value of my insight.$B$BEach of the spirits has blessed a charm I've prepared for you."
+ },
+ {
+  "id": 10993,
+  "t": "Return to Cenarion Refuge",
+  "o": "Bring Arthorn's Package to Morthis Whisperwing at Cenarion Refuge.",
+  "d": "Bring the essences to Morthis Whisperwing, along with word of our findings about the raven god.$B$BMorthis will know best how to use the essences and information in drawing Anzu out into the open. Make your way to him quickly, for there's no telling how long Clintar and the dreamwardens can withstand the raven's assault!$B$B<Arthorn grabs your arm before you turn to leave>.$B$BPlease, $N, tell Morthis how much of a help I've been to you. I fear he will not see my hand in this work!",
+  "p": "I've been waiting for word from Arthorn. What have you discovered?",
+  "c": "<Morthis accepts the package, opens it to discover Arthorn's notes, and reads over them without commenting on the author.>$B$BOn one level, I'm relieved to finally know the identity of our enemy, but this Anzu is a being of considerable power. Knowing the nature and the name of your adversary is vital, but we are not yet ready to face him."
+ },
+ {
+  "id": 10994,
+  "t": "Chasing the Moonstone",
+  "o": "Bring a Southfury Moonstone to Morthis Whisperwing at the Cenarion Refuge.",
+  "d": "If the essences are combined within a rare gemstone such as a Southfury moonstone, you'll be able to release them when you're prepared to challenge Anzu.$B$BThe only problem is that Southfury moonstones are only found on the Azshara side of the river, on the cliffs near the river's source.$B$BTragedy befell the last night elf party that sought the stone. Their boat is still anchored in the river near where they sighted the moonstone. Keep your eyes open and approach the site by land from the Azshara side.",
+  "p": "You look like you've been through quite an ordeal. Was the moonstone really that hard to find?",
+  "c": "<Morthis seems torn, at once desiring to laugh at your story, and mindful of how close you came to losing the moonstone. He settles for staring at the glowing stone.>$B$BI'll get to work on infusing it with the bird spirit essences. Soon, you'll be prepared to challenge our enemy."
+ },
+ {
+  "id": 10995,
+  "t": "Grulloc Has Two Skulls",
+  "o": "Collect Grulloc's Dragon Skull.",
+  "d": "To the east, at the terminus of Dragons' End, is the Cursed Hollow.  Therein, Grulloc, son of Gruul, plots his dimwitted schemes.$B$BI heard that one of his possessions was stolen from him through trickery.  Was that you?  Unfortunate that he was not slain in the process.$B$BIf we are to regain our freedom, I would have you take his most prized possession, a dragon skull from when he rejoiced in his father's slaying of the black dragonflight.  The only way you'll get the skull is to vanquish him.",
+  "p": "Is Grulloc no more?",
+  "c": "Indeed, it must have been a difficult struggle, $c.  I feel greatly relieved now that he will not be breathing down our necks here.$B$BI will send this skull down to Chort for safekeeping.  I'm beginning to think that with your help, we might just pull this off."
+ },
+ {
+  "id": 10996,
+  "t": "Maggoc's Treasure Chest",
+  "o": "Collect Maggoc's Treasure Chest.",
+  "d": "On the Razor Ridge, above and to the southeast, Maggoc patrols.  His father assigned him as the warden of the eastern mountain range, and he revels in terrorizing any creature that gets in his way.$B$BAs a son of Gruul, he must be done away with if my clan is to survive.  That's where you come in.$B$BMaggoc carries a treasure chest with him at all times.  Prove to me that he has been slain by bringing me his precious chest.  Feel free to keep whatever you find within it.",
+  "p": "Do you have the chest?",
+  "c": "You say it was empty?  Unfortunate, but you can see the mindless brutality that we're up against.$B$BWith the fall of Maggoc, we are one step closer to realizing my dream of a home for the ogres where we can determine our own destiny."
+ },
+ {
+  "id": 10997,
+  "t": "Even Gronn Have Standards",
+  "o": "Collect Slaag's Standard.",
+  "d": "Are you familiar with Shattrath City, $c?  Above it to the northwest is a place called the Barrier Hills, which you can only get to upon a flying mount.$B$BOne of Gruul's sons, Slaag, exiled himself and took control of the Gordunni ogres that reside there.  Even at such a distance, we cannot afford to leave him in peace, lest he return when the rest of his brothers have been slain.$B$B$N, you must travel there, and bring back his standard as proof that he has been dealt with.",
+  "p": "Do you return with Slaag's standard in hand?",
+  "c": "What a relief that Slaag is gone.  No longer will we be threatened by the looming specter of his return!$B$BIf you do not mind, I will take the standard as a symbol of hope for all of the ogres of the mountains.$B$BThank you, $N."
+ },
+ {
+  "id": 10998,
+  "t": "Grim(oire) Business",
+  "o": "Collect Vim'gol's Vile Grimoire.",
+  "d": "There is one more gronn to be slain: Skulloc Soulgrinder. He keeps himself hidden away, but there is a way to coax him forth.$B$BHe was trained by an ogre warlock known as Vim'gol the Vile, whose grimoire you must retrieve!$B$BVim'gol must be summoned by standing within a fire ring at his circle. Find Vim'gol's Circle in the mountains, to the northeast, near the Broken Wilds.$B$B$N, if you hear Vim'gol talk about growing bigger, get people back into each of the five fire rings to interrupt his casting!",
+  "p": "Have you summoned forth Vim'gol the Vile and taken the grimoire from his dead clutches?",
+  "c": "I hesitate to even touch such a tainted thing of evil.  Yet read it we must if we are to glean what knowledge it contains and bring forth Skulloc from his hiding place."
+ },
+ {
+  "id": 10999,
+  "t": "One Shot,One Kill",
+  "o": "Bring me 8 trogg stone teeth.",
+  "d": "Bring me 8 trogg stone teeth.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11000,
+  "t": "Into the Soulgrinder",
+  "o": "Collect Skulloc's Soul.",
+  "d": "The grimoire is the key to Skulloc's downfall.$B$BRead aloud from the book at Soulgrinder's Barrow to initiate the ritual.  An object known as the Soulgrinder will appear, as well as Skulloc's ghostly victims, who will try to destroy it.  You must keep them from doing so long enough to force Skulloc fully into the world.$B$BFind the barrow by heading north through the Daggermaw Canyon on the other side of the Circle of Blood.  It is on the right side before Gruul's Lair.$B$BBring back Skulloc's soul.",
+  "p": "Have you taken Skulloc's soul yet?",
+  "c": "It is over then.  You have freed us from the shackles of our enslavement to the Sons of Gruul.  You have given the Bloodmaul Clan a reprieve from certain extinction.$B$BWords cannot describe the extent of the debt that ALL of the ogres of the Blade's Edge Mountains, Bloodmaul and Bladespire alike, owe you, $N.$B$BLook down, even now the ogres gather to pay you tribute.  Let Gruul and his puppet, the old king, Maulgar, cower within their lair.  Go to the ogres below as our new king!"
+ },
+ {
+  "id": 11001,
+  "t": "Vanquish the Raven God",
+  "o": "Slay the Raven God and return to Morthis Whisperwing at Cenarion Refuge.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "We must waste no time in dealing with the raven god. You must take the essence-infused moonstone to a place of great power in order to lure the god from the relative safety of the Emerald Dream.$B$BDescend into the Sethekk Halls and set the moonstone in the clutches of the raven's claw. You'll find it in the chamber before the talon king's hall.$B$BAnzu must be made believe that his followers have gathered to welcome him back into the world. Once he has manifested, show him no mercy!",
+  "p": "What news from Sethekk Halls? Have you defeated Anzu?",
+  "c": "It's good to see you again, $N. Your triumph over the raven god counts for far more than any test or rite of passage that I might set for you.$B$BYou have truly proven yourself worthy of the knowledge guarded by the Druids of the Talon for countless generations."
+ },
+ {
+  "id": 11002,
+  "t": "The Fall of Magtheridon",
+  "o": "Return Magtheridon's Head to Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula.",
+  "d": "The source of Illidan Stormrage's fel orc army has been vanquished. The manufactory halts production of its grim product - at least for now. All that remains are a few trinkets and this severed head - a fitting trophy for a hero of the Alliance.$B$BReturn Magtheridon's head to Danath Trollbane at Honor Hold.$B",
+  "p": "For the first time - in as long as I can remember - there is silence.",
+  "c": "This defeat is not only a blow to Illidan. The Legion too reels... A pit lord commander has been defeated. The siege of Hellfire Citadel now holds no purpose for the Burning Legion. All of their efforts will undoubtedly be turned upon the Black Temple.$B$BRedemption comes for Illidan... and soon."
+ },
+ {
+  "id": 11003,
+  "t": "The Fall of Magtheridon",
+  "o": "Return Magtheridon's Head to Nazgrel at Thrallmar in Hellfire Peninsula.",
+  "d": "The source of Illidan Stormrage's fel orc army has been vanquished. The manufactory halts production of its grim product - at least for now. All that remains are a few trinkets and this severed head - a fitting trophy for a hero of the Horde.$B$BReturn Magtheridon's head to Nazgrel at Thrallmar.$B",
+  "p": "For the first time - in as long as I can remember - there is silence.",
+  "c": "This defeat is not only a blow to Illidan. The Legion too reels... A pit lord commander has been defeated. The siege of Hellfire Citadel now holds no purpose for the Burning Legion. All of their efforts will undoubtedly be turned upon the Black Temple.$B$BRedemption comes for Illidan... and soon."
+ },
+ {
+  "id": 11004,
+  "t": "World of Shadows",
+  "o": "Severin wants you to venture into Skettis and retrieve 6 Shadow Dusts from the arakkoa that dwell there.",
+  "d": "Sky Commander Adaris was seriously injured during a Skettis incursion.  He's been in and out of consciousness since.$B$BI fear he has succumbed to a feverish delirium.  During brief lucid moments he demands that I prepare an elixir made from shadow dust carried by the arakkoa.  He seems to believe it will allow him to see into a \"world of shadows\" where the arakkoa's true leaders dwell.$B$BI do not believe this nonsense for a second, but I fear he won't rest until I obtain such an elixir.  Will you help?",
+  "p": "Have you obtained the dust, $N?",
+  "c": "I thank you, $N. I will administer a small amount to the commander... to humor him. You can keep the rest, perhaps you'll find a use for it."
+ },
+ {
+  "id": 11005,
+  "t": "Secrets of the Talonpriests",
+  "o": "Obtain an Elixir of Shadows from Severin and use it to find and slay Talonpriest Ishaal, Talonpriest Skizzik and Talonpriest Zellek in Skettis.  Return to Commander Adaris after completing this task.",
+  "d": "Thank you for paying heed to my fevered rants.  All along we had been trying to identify and destroy the Skettis chain of command; we had learned of three clerics known as the talonpriests, but we'd never seen them with our own two eyes.  Now we know why.$B$BTalk to Severin to obtain more of the elixir he discovered.  Use the elixir to find and kill the three talonpriests: Ishaal, Skizzik and Zellek.  They're rumored to dwell in Veil Ala'rak, near the eastern shore of Blackwind Lake.",
+  "p": "Is the deed done, $N? I'd kill those blasted birdmen myself if it weren't for my injuries.",
+  "c": "You've done well, $N. You've dealt a tremendous blow to the enemy by slaying the talonpriests."
+ },
+ {
+  "id": 11006,
+  "t": "More Shadow Dust",
+  "o": "",
+  "d": "",
+  "p": "It looks like the commander was not delirious after all. Bring me more dust and I'll prepare another elixir for you.",
+  "c": "Keep bringing the dust to me. I'll prepare as many elixirs as you need.$b$bCommander's orders."
+ },
+ {
+  "id": 11007,
+  "t": "Kael'thas and the Verdant Sphere",
+  "o": "Take the Verdant Sphere to A'dal in Shattrath City.",
+  "d": "The air around you hums - a gentle hum. The naaru are aware of your victory. Perhaps they are the reason you were compelled to pick up this sphere from the still-twitching remains of Kael'thas Sunstrider. What secrets could it hold?$B$BPerhaps A'dal in Shattrath City could make sense of the item.",
+  "p": "You heard my call? Yes...",
+  "c": "<A'dal's thoughts intermingle with your own.>$B$BThe sphere... Strange. Did you know that he lived? Yes. It is here - in the sphere itself. Maimed for certain. He calls to a higher power now. No, not Illidan.$B$BHigher.$B$BKil'jaeden the Deceiver comes...$B$BNot here...$B$B<A'dal points your mind elsewhere.>$B$BAzeroth. Unknown.$B$BRest. Your brothers and sisters will retake Tempest Keep now.$B$B<A'dal hums a song of battle.>$B$B"
+ },
+ {
+  "id": 11008,
+  "t": "Fires Over Skettis",
+  "o": "Seek out Monstrous Kaliri Eggs on the tops of Skettis dwellings and use the Skyguard Blasting Charges on them.  Return to Sky Sergeant Doryn.",
+  "d": "You think you have what it takes to be part of the Skyguard?  We'll have to see how you handle yerself in the air.$B$BThe arakkoa are breeding a gargantuan variety of their attack pets and are using it against our scouts.  I want you to take these blasting charges and use them to destroy hatcheries above the arakkoa's dwellings.  Avoid the monstrous kaliri guarding the hatcheries.  They'll knock you off your mount before you know what hit you.",
+  "p": "Did you finish your assignment yet?",
+  "c": "Excellent job, $N! That'll show those bird men the meaning of air superiority!"
+ },
+ {
+  "id": 11009,
+  "t": "Ogre Heaven",
+  "o": "Speak with Chu'a'lor at Ogri'la in the Blade's Edge Mountains.",
+  "d": "Now that you have delivered us from bondage, we can begin the process of reunifying the clans.  This will take some time; old grudges are difficult to overcome.$B$BBut more pressing, you must go to Ogri'la in the heavens above to the west.  You must defend it, and us, from those forces above that the gronn used to protect us from: ethereals, demons, and worst of all, the black dragonflight.$B$BWhen you find ogre heaven, seek out the wisdom of Chu'a'lor on how best to proceed.",
+  "p": "",
+  "c": "Mog'dorg sent a message ahead, saying that I should expect you. I am glad that you came.$B$BWith the Sons of Gruul destroyed, it is only a matter of time - a short amount at that - before the various inhabitants of this mountain terrace, and the one to the north, decide to prey upon our ogre brothers down below.$B$BI trust that you will help us to prevent that, $B."
+ },
+ {
+  "id": 11010,
+  "t": "Bombing Run",
+  "o": "Use the Skyguard Bombs to destroy 15 Fel Cannonball Stacks.",
+  "d": "You have a flying mount... so what!  You think you have what it takes to use it properly?$B$BForge Camp: Wrath and Forge Camp: Terror, to the north and south, are a major pain in my backside, as well as being a threat to peaceful Ogri'la.  With all of those fel cannons shooting down the Skyguard left and right, we can't get through there to take care of business.$B$BYou want to prove yourself?  Take these bombs and knock out their ammo stacks.  Just don't let them shoot you down, too!",
+  "p": "You take out their stacks of fel cannonballs yet?",
+  "c": "Well, well, well, I guess you had it in you after all. Good work. Maybe Old Man Keller was wrong about you after all.$B$B<Sky Sergeant Vanderlip smirks.>"
+ },
+ {
+  "id": 11011,
+  "t": "Eternal Vigilance",
+  "o": "Speak with Morthis Whisperwing to receive an Essence-Infused Moonstone.",
+  "d": "Your defeat of Anzu, the raven god, is truly a remarkable accomplishment. He may not abandon his quest to return to Outland, I fear.$B$BAs long as he has followers here, he will attempt to rise again. Keep the essence-infused moonstone with you in case we have not heard the last of Anzu.",
+  "p": "",
+  "c": "Keep the moonstone with you, $N. If you suspect that Anzu is gathering his strength to attempt another return to this world, use it to defeat him once again."
+ },
+ {
+  "id": 11012,
+  "t": "Blood Oath of the Netherwing",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Our lands are lost. Our children stolen in the night, forced into slavery - or worse...$B$B<Mordenai's voice tenses.>$B$BThe time is now, my ally. The time to retake what was once ours has come! You have proven yourself a capable combatant and compassionate soul.$B$BWill you swear to assist the Netherwing Dragonflight in retaking our lands and rebuilding our homes? Will you swear to watch over the flight and allow the bloodline to be born anew? Swear this and let us battle for our home and our loved ones!"
+ },
+ {
+  "id": 11013,
+  "t": "In Service of the Illidari",
+  "o": "Travel to Netherwing Ledge and deliver the Illidari Service Papers to Overlord Mor'ghor at Dragonmaw Base Camp.$B",
+  "d": "Netherwing Ledge... What was once a bastion of sanctuary for the Netherwing is now home to the Dragonmaw. While the orcs may have control of our territory, our magic there is still strong. Strong enough to cloak your true identity and allow you to infiltrate the ranks of Dragonmaw.$B$BI have prepared this letter for you to present to their leader, Overlord Mor'ghor. Fly headlong into the maw of our enemy and seek out Dragonmaw Base Camp to start your new life as a fel orc of Illidan Stormrage.",
+  "p": "<Mor'ghor grunts.>$B$BYou're late...",
+  "c": "<Mor'ghor reads the letter and laughs.>$B$BA death knight? You couldn't shine the boots of a death knight, maggot.$B$B<Mor'ghor looks you over.>$B$BBut yes... You might be able to work your way up to peon. At the worst, I'll toss you into the pit and leave you to die..."
+ },
+ {
+  "id": 11014,
+  "t": "Enter the Taskmaster",
+  "o": "Speak with Taskmaster Varkule Dragonbreath at Dragonmaw Base Camp.",
+  "d": "<Mor'ghor crumples up the service letter and tosses it aside.>$B$BAlright grunt, first things first. If you're gonna join my beloved Dragonmaw army, you'll need to work. Everyone works up here on the ledge. Get a job and don't screw it up and I'll see if there might be something more interesting for you to do later.$B$BGo talk to Taskmaster Varkule Dragonbreath. He's standin' in the middle of town. He'll assess your skills and assign work as he sees fit.$B$BNow get out of my face!",
+  "p": "",
+  "c": "Varkule gonna set you up right, grunt. You get your choice of one job best suited to your skills and Netherwing crystal collection. You'll be required to fill your work orders once per day.$B$BYeah, it's a bunch of crap jobs but even the ascendants started out as peons."
+ },
+ {
+  "id": 11015,
+  "t": "Netherwing Crystals",
+  "o": "Taskmaster Varkule Dragonbreath at Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 30 Netherwing Crystals.",
+  "d": "No good at nothin'? That's fine. Even lunkheads like you can be used around here. Just find creatures on the ledge and kill 'em. Sometimes they'll have nether crystals on their carcasses. Gather those and bring 'em back to me and I'll consider your work order for the day complete.$B",
+  "p": "Nether crystals are used for lots of things. Mainly makin' weapons and armor...",
+  "c": "You're done for today, kid. Come back tomorrow if you're still alive."
+ },
+ {
+  "id": 11016,
+  "t": "Nethermine Flayer Hide",
+  "o": "Taskmaster Varkule Dragonbreath at Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 35 Nethermine Flayer Hides.",
+  "d": "A skinner, eh? Well you'll find plenty to skin here! You gotta search for flayers around crystal formations. Take 'em down and take their hides. Sometimes they'll have a hide worth keepin'. Bring those to me.",
+  "p": "We use the flayer hides for armor lining and structural tarps.",
+  "c": "You're done for today, kid. Come back tomorrow if you're still alive."
+ },
+ {
+  "id": 11017,
+  "t": "Netherdust Pollen",
+  "o": "Taskmaster Varkule Dragonbreath at Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 40 Netherdust Pollen.",
+  "d": "A flower picker?! Hilarious... Unfortunately, our mages and shaman need your services. The netherdust bushes that grow on this ledge have special pollen that is apparently very useful in their magical dealings. Bring me that stuff and I'll consider your work order complete.",
+  "p": "Like I said, netherdust pollen is used by our spell casters.",
+  "c": "You're done for today, kid. Come back tomorrow if you're still alive."
+ },
+ {
+  "id": 11018,
+  "t": "Nethercite Ore",
+  "o": "Taskmaster Varkule Dragonbreath at Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 40 Nethercite Ore.",
+  "d": "A miner!$B$B<Varkule salutes.>$B$BAn orc after my own heart! That's how Varkule got his start - minin'! There ain't nothin' better than getting down and dirty in the mines, is there?$B$BNow get out there and find those nethercite deposits. Strip 'em for all their worth and bring me back the ore.",
+  "p": "Gug over there is gonna use the ore to reinforce our weapons and armor.",
+  "c": "You're done for today, kid. Come back tomorrow if you're still alive."
+ },
+ {
+  "id": 11019,
+  "t": "Your Friend On The Inside",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Didn't think we'd leave you to face the fel orc army by yourself, did you?$B$B<Yarzill's eyes flicker a translucent blue.>$B$BAye, we are here with you, $N. For every service you perform for the fel orcs in your quest to reclaim Netherwing lands, we'll be at your side to make sure that they suffer a sufficient setback.$B$BYou'll need to keep a low profile so as not to draw any unwanted attention to yourself during your sabotage missions."
+ },
+ {
+  "id": 11020,
+  "t": "A Slow Death",
+  "o": "Yarzill the Merc at Dragonmaw Base Camp in Shadowmoon Valley wants you to use Yarzill's Mutton in conjunction with Fel Glands to poison 12 Dragonmaw Peon Camps.$B",
+  "d": "The Dragonmaw have peons stationed at nearly every crystal formation up here. While the outright slaying of them would draw far too much unwanted attention to you, there is a way that we can thin their numbers and remain below the suspicious eyes of Mor'ghor.$B$BVenture into the wilds of Shadowmoon Valley and slay the tainted wildlife. Take from them their corrupt fel glands. Use those fel glands with this mutton that I'll give you near the peons. They'll take one bite and fall deathly ill!",
+  "p": "It is dirty work, $N.",
+  "c": "<Yarzill speaks in a low whisper.>$B$BExcellent work, $N. Lay low for now. Come back to me tomorrow and we can do it again."
+ },
+ {
+  "id": 11021,
+  "t": "Ishaal's Almanac",
+  "o": "Bring Ishaal's Almanac to Sky Commander Adaris north of Skettis.",
+  "d": "This mysterious tome was on Talonpriest Ishaal's body.  It contains arcane symbols and charts of celestial bodies beyond your comprehension.$B$BAll writing is in a language you don't understand; likely an ancient version of the arakkoa written tongue.  Perhaps you should bring this to Sky Commander Adaris.",
+  "p": "You've something to show me?",
+  "c": "What have you brought to me? I can't make out the writing on this tome, $N... my loss of blood... must've blurred my vision."
+ },
+ {
+  "id": 11022,
+  "t": "Speak with Mog'dorg",
+  "o": "Speak with Mog'dorg the Wizened.  He stands atop the tower on the east side of the Circle of Blood in the Blade's Edge Mountains.",
+  "d": "$G King : Queen; $N!  You speak with Mog'dorg the Wizened before you leave and go to Ogri'la!",
+  "p": "",
+  "c": "My good man, I am glad that you have decided to speak to me again before leaving."
+ },
+ {
+  "id": 11023,
+  "t": "Bomb Them Again!",
+  "o": "Use the Skyguard Bombs to destroy 15 Fel Cannonball Stacks.",
+  "d": "We're still having problems with those flak cannons, $N.$B$BDon't get me wrong -- I think that you did an outstanding job the last time out -- but, that doesn't change the fact that those damned demons seem to be replenishing their ammo supplies faster than we can knock them out.  And that means we're having a hell of a time getting our people through there, not to mention the risk those demons pose to Ogri'la.$B$BWhat do you say?  Want to take another shot at it?",
+  "p": "How goes the bombing run?",
+  "c": "Outstanding work, $N!  I'd have you back up in the air and bombing them again, but policy around here is to make sure that our pilots get plenty of R&R.  Sorry, I don't make the rules, but I sure as hell enforce them!"
+ },
+ {
+  "id": 11024,
+  "t": "An Ally in Lower City",
+  "o": "Bring Ishaal's Almanac to Rilak the Redeemed in the Lower City section of Shattrath City.",
+  "d": "There is an arakkoa in Lower City by the name of Rilak...  He can be trusted.  Take the book... to him.$B$B<Adaris drifts into unconsciousness as he returns the book to you.>",
+  "p": "You have the smell of Skettis on you! Explain yourself!",
+  "c": "This cannot be... this belonged to a talonpriest once. How did you ever come across it?"
+ },
+ {
+  "id": 11025,
+  "t": "The Crystals",
+  "o": "Collect 5 Apexis Shards.",
+  "d": "When prepared correctly, the crystals of the mountains exhibit strange powers, such as the clarity of mind that we have found here in Ogri'la.$B$BAll of the creatures atop the mountains covet the crystal shards and use them to further their own goals.  An economy has even sprung up around them.$B$BTo assist us, you must first learn about the Apexis shards.  Bring me some.  In addition to the creatures here having them, they can sometimes be found where the flayers dig at the larger crystals.",
+  "p": "As you come to a understand the shards and crystals, you will be better able to assist us in protecting ourselves and our ogre brethren below.$B$BThe shards themselves get their name from an ancient and now-extinct arakkoan civilization, which used to live atop the mountains here.$B$BDo you have the shards with you?",
+  "c": "<Chu'a'lor's left head begins to speak.>$B$BThese will do fine.$B$BRemember, $B, the value of the shard is not in what it can purchase for you. It is not even in what it can potentially do for you when properly forged, though there is some debate over that.$B$B<His right head finishes,...>$B$BThe true value is in the journey to attain the shard."
+ },
+ {
+  "id": 11026,
+  "t": "Banish the Demons",
+  "o": "Use the Banishing Crystal to banish 15 demons at Forge Camp: Wrath or Forge Camp: Terror.",
+  "d": "You've arrived at the perfect time, friend!  We are in need of assistance.  In return, you will receive something very rare, which will help us both in the end.$B$BWe're not a violent ogre any longer, but the demons nearby threaten to overrun us and the Skyguard.  The problem with demons is that, once killed, they come right back in new bodies!$B$BBut, if you use this crystal to summon a banishing portal, when they die near it, their essences will be drawn in and banished back from whence they came!",
+  "p": "We trust that you've used the banishing crystal to send a whole slew of those Burning Legion things packing?!",
+  "c": "That'll teach them! And, of course, now for your reward.$B$BThe demons of Forge Camp: Wrath, to the north, have created a special transporter on their southern border. This experimental gate is being used to expand the forge camp, and we don't think we need to tell you how that will effect us if they expand too far.$B$BHowever, if we were you, we'd take this darkrune over to Gahk, and ask him how you can help. Just take it easy on him, $N. Like you, he's new here."
+ },
+ {
+  "id": 11027,
+  "t": "Yous Have Da Darkrune?",
+  "o": "",
+  "d": "",
+  "p": "Da demons of dat camp fixes da transporter all da times. Gahk say $n smash dems better dis time!$b$bBut, Gahk need another darkrune ta make da crystalforged darkrune.$b$bIf little $r not have a darkrune, you talk with Kronk. Him try ta make one darkrune every day! Maybe yous get one in his grab bag?!",
+  "c": "Haha, good! Gahk like darkrunes! You take crystalforged darkrune dat Gahk make earlier.$B$B$N remember, control da degrader, den use hammer to smash da magic shield on Shartuul's transporter. Let out da other demon and fight him so you control him, too! Den smash and control more demons until no more come!$B$BDen you save Ogri'la!"
+ },
+ {
+  "id": 11028,
+  "t": "Countdown to Doom",
+  "o": "Return to Sky Commander Adaris at Blackwind Landing in Terokkar Forest with the news about Terokk's return.",
+  "d": "This almanac presages the return of Terokk, the most powerful and terrible Skettis king in arakkoa history.$B$BI always believed this to be the mere legend, $N.  The return of the talonpriests and your recovery of this tome indicate otherwise.$B$BWith each day, Terokk comes closer to returning to full strength.  Your only chance is to bring him to our world prematurely.  Return to Skettis and speak to Adaris about this.  Let us hope he has the wisdom to do the right thing.",
+  "p": "",
+  "c": "The arakkoa seek to bring Terokk back beyond the veil of time and Rilak... wants to find a way to accelerate the process? Is he out of his mind?$B$B<Adaris lays back down as his strength fades.>$B$BYou've done your duty, $N. It is time you let my men take over from here. This has become a purely military matter."
+ },
+ {
+  "id": 11029,
+  "t": "A Shabby Disguise",
+  "o": "Use the Shabby Arakkoa Disguise to obtain the Adversarial Bloodlines from Sahaak and return to Hazzik.",
+  "d": "Open the package, $N.  It is a disguise.  It doesn't look very convincing, does it?$B$BI craft them for ethereal smugglers in search of rare books.  There is an arakkoa scribe who dwells in the central island in Skettis, Terokk's Rest; his name is Sahaak.  He is old and nearly blind.$B$BUse the disguise to speak with him and obtain the book known as the Adversarial Bloodlines.  Be careful, $N.  The disguise won't fool the other arakkoa.",
+  "p": "The book, $N. Have you obtained it?",
+  "c": "Excellent! This book catalogs the descendants of Terokk's ancient enemies. It is prophesied that their demise will be followed by Terokk's return."
+ },
+ {
+  "id": 11030,
+  "t": "Our Boy Wants To Be A Skyguard Ranger",
+  "o": "Collect an Unstable Flask of the Beast.",
+  "d": "$C, we've got a problem -- we have lots of sons.  And ever since the Skyguard moved in nearby, all our sons ever talk about is joining their ranks.$B$BAs a proud father, we want them to have every advantage for when they apply.  So, would you go to the fel crystalforge at either forge camp to the north or south, and procure a magic flask for our sons?  You can't miss their green smoke.$B$BWe think that they take ten apexis shards to make.  We'd give you the shards, but we don't have any at the moment.",
+  "p": "You have that magic flask, yet? It will mean the world to little Torkus Jr.",
+  "c": "You're a lifesaver, $N. Our boys are going to be so excited to hear the news!$B$BOK, so one down and one to go. We did tell you about the other magical flask that they're going to need, didn't we?"
+ },
+ {
+  "id": 11031,
+  "t": "Archmage No More",
+  "o": "",
+  "d": "",
+  "p": "You've decided against your previous choice?  I suppose I can help you reverse it.  In the end Dalaran cares more about your loyalty than how you choose to show it.$b$bIt won't be cheap.  And of course, I will need your old ring back.",
+  "c": "Make this next decision carefully.  We do our best to accommodate our allies, but even Dalaran's resources have their limits."
+ },
+ {
+  "id": 11032,
+  "t": "Protector No More",
+  "o": "",
+  "d": "",
+  "p": "You've decided against your previous choice?  I suppose I can help you reverse it.  In the end Dalaran cares more about your loyalty than how you choose to show it.$b$bIt won't be cheap.  And of course, I will need your old ring back.",
+  "c": "Make this next decision carefully.  We do our best to accommodate our allies, but even Dalaran's resources have their limits."
+ },
+ {
+  "id": 11033,
+  "t": "Assassin No More",
+  "o": "",
+  "d": "",
+  "p": "You've decided against your previous choice?  I suppose I can help you reverse it.  In the end Dalaran cares more about your loyalty than how you choose to show it.$b$bIt won't be cheap.  And of course, I will need your old ring back.",
+  "c": "Make this next decision carefully.  We do our best to accommodate our allies, but even Dalaran's resources have their limits."
+ },
+ {
+  "id": 11034,
+  "t": "Restorer No More",
+  "o": "",
+  "d": "",
+  "p": "You've decided against your previous choice?  I suppose I can help you reverse it.  In the end Dalaran cares more about your loyalty than how you choose to show it.$b$bIt won't be cheap.  And of course, I will need your old ring back.",
+  "c": "Make this next decision carefully.  We do our best to accommodate our allies, but even Dalaran's resources have their limits."
+ },
+ {
+  "id": 11035,
+  "t": "The Not-So-Friendly Skies...",
+  "o": "Yarzill the Merc at Dragonmaw Base Camp in Shadowmoon Valley wants you to recover 10 Netherwing Relics.",
+  "d": "On the northeast edge of this island exists a dock used for the packaging and transport of Netherwing crystals and relics. Dragonmaw Transporters transport the goods from the dock to Dragonmaw Fortress while Dragonmaw Ascendants guard the ground from any would-be attackers.$B$BThis leaves one opening for you to make a strike at the Dragonmaw: The Dragonmaw Skyway.$B$BFly to the shattered islands of the Dragonmaw Skyway and ambush the transporters that use the route. Recover our stolen relics!",
+  "p": "Dead orcs tell no tales, $N. Make sure those Dragonmaw transporters do not escape.",
+  "c": "<Yarzill whispers.>$B$BYou are doing the Netherwing a great service, $N. Slowly, we will topple the Dragonmaw. From the inside a disease now grows - a disease with no cure...$B$BReturn to me tomorrow if you are interested in more work at the Dragonmaw Skyway."
+ },
+ {
+  "id": 11036,
+  "t": "Out of This World Produce!",
+  "o": "Bring the Preserved Fruit to Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "I'll be the first to admit I'm not quite sure what this order is for, but Rocket-Chief Fuselage's instructions were very specific -- only the very best fruit, preserved to survive a long voyage and sealed against the elements.$B$BThere were other specifications, zero-gravity this and low pressure that. I don't pretend to understand it, but the price is right, so he'll get his superfood. Bring this crate to him up at Area 52. After crossing into Netherstorm, keep following the road until you see the town.",
+  "p": "Is that the delivery from Old Orok?",
+  "c": "<The chief inspects the crate's contents.>$B$BEverything looks good here. That's one more thing to cross off the list. Now all we need to do is get the rocket off the ground!"
+ },
+ {
+  "id": 11037,
+  "t": "A Strange Vision",
+  "o": "Speak with Rocket-Chief Fuselage at Area 52.",
+  "d": "I've had a most unusual vision, $N, and I don't know quite what to make of it. I've seen an arrow, an immense arrow, riding into the sky on a trail of fire. Such a feat is trivial for a skilled mage, but somehow I know the arrow I saw is not the product of magic.$B$BIt will be unlike anything the people of Azeroth have ever achieved. You must seek out the people working on this, $N. Lend them your help, for without it, their efforts may yet fail.",
+  "p": "",
+  "c": "<The chief listens as you describe the seer's vision.>$B$BWell, I don't know about any of that, but we could certainly use your help around here. Behold the rocket behind me! That's the X-52...$B$BIsn't it the most beautiful thing you've ever seen?"
+ },
+ {
+  "id": 11038,
+  "t": "Assist Exarch Orelis",
+  "o": "Speak with Exarch Orelis at Area 52.",
+  "d": "Not long ago, High Priestess Ishanah sent a small group of anchorites to Netherstorm, under the command of Exarch Orelis. They were to investigate the activities of Kael'thas and his minions, but we haven't received any reports of their findings yet.$B$BI worry that our presence in the area might not be strong enough to carry out the mission. I'm certain that the exarch could benefit from your knowledge and experience. Are you willing to travel to Area 52 and assist him?",
+  "p": "",
+  "c": "So you're here to help us determine exactly what Kael'thas is planning? Your help is most welcome. Netherstorm is crawling with blood elf agents whose activities threaten to tear the land asunder."
+ },
+ {
+  "id": 11039,
+  "t": "Report to Spymaster Thalodien",
+  "o": "Report to Spymaster Thalodien at Area 52.",
+  "d": "Some time ago, Voren'thal dispatched a small team to Netherstorm to investigate the activities of Kael'thas. Our leader has the utmost confidence in Spymaster Thalodien and his compatriots, and has decided to honor his request for reinforcements.$B$BThalodien's report was brief, but clear that he's encountered something of great importance. Report to him at Area 52 and assist him in any way possible, $N.",
+  "p": "",
+  "c": "<A brief look of disappointment crosses the spymaster's face.>$B$BI was hoping for at least a squad, but if Voren'thal saw fit to send only you, then I will adjust my plans accordingly."
+ },
+ {
+  "id": 11040,
+  "t": "Parts for the Rocket-Chief",
+  "o": "Bring Bossi's Spare Parts to Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "You can count on one hand the number of times I've collaborated with a goblin. We're far more likely to be in competition with them, but when I received Rocket-Chief Fuselage's request, I just couldn't refuse him.$B$BThis crate is full of parts I'm not using here, but that the rocket-chief might be able to put to use on his project. Would you be kind enough to deliver them if you're on your way to Area 52?$B$BWho knows, maybe some fine gnomish parts could keep his creation from exploding!",
+  "p": "That crate has the look of a master gnomish engineer about it. Did Bossi send you?",
+  "c": "I don't even know what some of these parts do! I'm certain I'll find a use for some of them, but I never suspected I'd have to learn to think like a gnome!"
+ },
+ {
+  "id": 11041,
+  "t": "A Job Unfinished...",
+  "o": "Slay 10 Overmine Flayers and Barash the Den Mother. Return to Overlord Mor'ghor at the Dragonmaw Base Camp should you succeed.",
+  "d": "In the name of our great master... For the glory of Illidan!$B$BBy order of Overlord Mor'ghor, the great plateau of Netherwing Ledge is to be secured. With all Netherwing drakes captured or forced off of the land, rock flayers are running rampant and threatening crystal harvesting operations.$B$BDestroy them all, their den mother and her consort, Arvoar.$B$BMor'ghor commands it!$B$B<It would appear that this orc failed to take the plateau. It is time to prove your worth to Mor'ghor!>",
+  "p": "Who dares approach Mor'ghor? This had better be important.",
+  "c": "So from the remains of one of my own overseers you recovered the command and took matters into your own hands? You have managed to impress Mor'ghor. Well done..."
+ },
+ {
+  "id": 11042,
+  "t": "A Mystifying Vision",
+  "o": "Speak with Rocket-Chief Fuselage at Area 52.",
+  "d": "A strange vision haunts me, $N. I see a continuous cloud of smoke ascending toward the sky, left in the wake of a giant fire moving ever faster away. It is not a natural phenomenon, nor a creation of evil; that much I know.$B$BI have no knowledge of what it looks like, save that it is the product of the labor of many. Yet, without more hands, it may never come to be.$B$BTravel to Netherstorm, $c. Locate those responsible for this creation and offer them your aid.",
+  "p": "",
+  "c": "<The chief listens as you describe the seer's vision.>$B$BWell, I don't know about any of that, but we could certainly use your help around here. Look at the behemoth behind me. That's the X-52...$B$BIsn't it the most beautiful thing you've ever seen?"
+ },
+ {
+  "id": 11043,
+  "t": "Building a Better Gryphon",
+  "o": "Speak with Brunn Flamebeard at Wildhammer Stronghold in Shadowmoon Valley.",
+  "d": "I've heard that the Wildhammer dwarves maintain a gryphon roost at their fortress down in southern Shadowmoon Valley. If you're going down there, would you speak to them on my behalf? I have some ideas on how to improve their gryphons!$B$BWhy stop at armoring them when you could attach an altimeter, a rear view mirror, and rocket? Imagine how fast you could go with one of those babies strapped to your gryphon's back! I'll call it the TurboGryphon 8000!",
+  "p": "",
+  "c": "<Brunn's face reddens until its color is indistinguishable from his beard.>$B$BHe wants to do WHAT to my gryphons?$B$BIf that little pipsqueak puts anything other than a saddle on them, I'll personally travel up to Blade's Edge and stuff that rocket o' his down his throat!"
+ },
+ {
+  "id": 11044,
+  "t": "Visions of Destruction",
+  "o": "Speak with Wing Commander Nuainn at Wildhammer Stronghold.",
+  "d": "A vision of cataclysm often disturbs my rest -- a rain of green fire falling to the earth, felling the valiant defenders of a mighty fortress. It has haunted me for weeks now, although I have only recently come to understand its meaning.$B$BTo the far east, in Shadowmoon Valley, the Wildhammer dwarves endure constant attacks from the Burning Legion and numerous other foes. They fight bravely, but without relief, their enemies will triumph. Go to their side, $N. Help them in their fight.",
+  "p": "",
+  "c": "A vision, you say? I don't care if he saw it in a vision, read it in a letter, or heard it from the mouth of a pit lord. He was dead on! What matters is that you're here, friend, and we need all the help we can get."
+ },
+ {
+  "id": 11045,
+  "t": "Zorus the Judicator",
+  "o": "Speak with Zorus the Judicator at Wildhammer Stronghold.",
+  "d": "The history of Shadowmoon Valley is a long and troubled one. Few delve into it for fear of breathing new life into the unspeakable atrocities that took place there.$B$BNot all are so timid, though. Zorus the Judicator searches for the truth about the ghosts of Shadowmoon's past. It is a staggering undertaking, one with which he would welcome help, I'm sure.$B$BIf you should venture into the valley, look for Zorus at Wildhammer Stronghold, in the central portion of the valley's southern region.",
+  "p": "",
+  "c": "Fantei speaks the truth and I would welcome your help."
+ },
+ {
+  "id": 11046,
+  "t": "Chief Apothecary Hildagard",
+  "o": "Speak with Chief Apothecary Hildagard at Shadowmoon Village.",
+  "d": "The history of Shadowmoon Valley is a long and troubled one. Few study it for fear of breathing new life into the unspeakable atrocities that took place there.$B$BNot all are so timid, though. Chief Apothecary Hildagard's research delves into the ghosts of Shadowmoon's past. It is a staggering undertaking, one with which she would welcome help, I'm sure.$B$BIf your travels bring you there, seek Hildagard at Shadowmoon Village, in the northwestern reaches of the valley.",
+  "p": "",
+  "c": "Fantei has a good memory. It's been months since I was last in Shattrath to buy reagents. He's right, though. I could use the help."
+ },
+ {
+  "id": 11047,
+  "t": "The Apprentice's Request",
+  "o": "Speak with Dama Wildmane at Shadowmoon Village in Shadowmoon Valley.",
+  "d": "As an apprentice wind rider master, one of my tasks is to care for the beasts when they're not flying. The problem is that we have so few here, there's very little downtime for any of them.$B$BI'm afraid we'll work them all to death if we don't receive any replacements. There's a large stable down in Shadowmoon Village, in western Shadowmoon Valley. Dama Wildmane oversees the wind rider care and training there.$B$BWould you speak with her on our behalf and let her know about our situation?",
+  "p": "",
+  "c": "<Dama listens to Agadai's request.>$B$BI can't guarantee that there will be any wind riders available, but I'll see what I can do. As it is, we're having trouble keeping up with the demands of other buyers and outposts."
+ },
+ {
+  "id": 11048,
+  "t": "Kroghan's Report",
+  "o": "Speak with Blood Guard Gulmok at Shadowmoon Village.",
+  "d": "My original orders were to remain in Garadar for a short time, then continue on and report to Blood Guard Gulmok at Shadowmoon Village. What I've seen in my time here is that Garadar could benefit from a long term Horde liaison.$B$BI know that Blood Guard Gulmok needs all the troops he can get, but I know he'll understand that my mission here isn't yet complete. Travel to Shadowmoon Village, in northwestern Shadowmoon Valley, and inform Blood Guard Gulmok of my delayed arrival.",
+  "p": "",
+  "c": "<Gulmok grumbles upon hearing of Kroghan's decision.>$B$BI understand his point of view, but we need warm bodies in the trenches here too! The Legion's bombarding us with infernals day and night. If Kroghan's going to be delayed, you can take his place on the field!"
+ },
+ {
+  "id": 11049,
+  "t": "The Great Netherwing Egg Hunt",
+  "o": "Yarzill the Merc at Dragonmaw Base Camp in Shadowmoon Valley wants you to recover a Netherwing Egg.",
+  "d": "Should you discover any Netherwing eggs while exploring, bring them to me.$B$BBe warned, a Netherwing egg is a rare discovery. Do not become frustrated if you cannot locate one. These Dragonmaw have been very thorough in collecting most of them and shipping them off to parts unknown.$B$BEggs might be found on creatures of the island, near crystal formations, in the mines, or even inside a nethercite node or netherdust bush.$B$BKeep a low profile. We don't need Mor'ghor catching wind of your actions.",
+  "p": "How goes the egg hunt?",
+  "c": "Neltharaku will be most pleased, $N. Well done."
+ },
+ {
+  "id": 11050,
+  "t": "Accepting All Eggs",
+  "o": "",
+  "d": "",
+  "p": "We don't need those eggs to get into the wrong hands,$N. Bring me any additional eggs that you may find.$B$BJust remember to keep a low profile AND avoid raising suspicion!",
+  "c": "You are a true hero, $N."
+ },
+ {
+  "id": 11051,
+  "t": "Banish More Demons",
+  "o": "Use the Banishing Crystal to banish 15 demons at Forge Camp: Wrath or Forge Camp: Terror.",
+  "d": "If we know the demons, and we do because we've studied them extensively, they're fast at work repairing any damage that has been done to their precious transporter.$B$BSo, if you want a chance at another darkrune, take our banishing crystal back out there and eliminate more demons.  Besides, you want to help us to lessen the threat that the demons pose, yes?$B$BWe said \"chance\" because the process we use yields mixed results.  You might get a darkrune, or you might get something else entirely.",
+  "p": "A seasoned pro such as yourself shouldn't be having any difficulty banishing demons. You're not having any difficulties, right, $R?",
+  "c": "We wish the process of creating a darkrune was foolproof, $N. Alas, it is not. Please, take this bag and look in it to see what we've wrought today. We couldn't bear to look ourselves.$B$BRemember, if you get a darkrune, take it to Gahk to exchange for a crystalforged darkrune. Then you'll be able to once more bring down Shartuul's transporter.$B$BOh, and $N, don't forget to come by again tomorrow and pickup the banishing crystal. There are always more demons to be banished."
+ },
+ {
+  "id": 11052,
+  "t": "Akama's Promise",
+  "o": "Bring the Medallion of Karabor to A'dal in Shattrath City.",
+  "d": "<Akama inserts the crystal into the medallion in his hand.>$B$BI am not as strong as I once was, $N.  Being so close to evil itself all these years - I do not know if I can trust myself with an artifact as powerful as this.$B$BTake this as my promise to you that when the time comes and you face Illidan, I will be on your side.  Take it to the one being we know we can trust with its power.  Take the medallion to A'dal in Shattrath City.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11053,
+  "t": "Rise, Overseer!",
+  "o": "Speak with Overlord Mor'ghor at Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Rare it is that a peon survives for as long as you have. Rarer still is when a peon rises from the dregs to attain a new rank.$B$B<Varkule claps.>$B$BThe Overlord has called for you, grunt. A new rank awaits, no doubt.",
+  "p": "",
+  "c": "I have been following your activities closely, $N. You have proven to be an invaluable asset to Dragonmaw. With that said, I am going to promote you to Overseer. With that rank comes new responsibilities that you must fulfill.$B$BRise, Overseer $N! Rise and seek out those that need your assistance at the base camp."
+ },
+ {
+  "id": 11054,
+  "t": "Overseeing and You: Making the Right Choices",
+  "o": "Chief Overseer Mudlump at the Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 10 pieces of Knothide Leather and 1 Hardened Hide of Tyrantus.$B",
+  "d": "So you're the new overseer, eh? Well there's one thing any good overseer needs and that's the proper disciplinary weapon. Before you can go out there and knock some sense into these peons you need to have your \"piece.\" Each overseer has to gather the materials required to make their own \"piece\" and you'll be no different.$B$BI'll need knothide leather and the hardened hide of Tyrantus. You'll find Tyrantus in Eco-Dome Farfield, located in the northern reaches of Netherstorm.",
+  "p": "There's peons to be disciplined, $N! Hurry it up!",
+  "c": "ARRR! You might make it as an overseer after all. That oversized lizard has been the bane of many an orc!$B$B<Chief Overseer Mudlump begins to fashion the weapon>."
+ },
+ {
+  "id": 11055,
+  "t": "The Booterang: A Cure For The Common Worthless Peon",
+  "o": "Chief Overseer Mudlump at the Dragonmaw Base Camp in Shadowmoon Valley wants you to discipline 20 lazy Dragonmaw Peons. You will also need to return your Booterang.",
+  "d": "This is your booterang. There are many like it but this one is yours.$B$BAs an overseer you will use this booterang to sow terror into the hearts of defiant peons. Proper use of the booterang will instill obedience and ensure subservience.$B$BVenture forth to the crystal fields and discipline any peons that you see slacking off. Show them the might of the booterang!$B",
+  "p": "It's all in the wrist, $N. ",
+  "c": "A hard day's work! It pays off, though, doesn't it? Warms your heart seeing those worthless runts slavering over those crystals... Anyhow, that's all for today. Come back tomorrow for another round of booterang discipline. "
+ },
+ {
+  "id": 11056,
+  "t": "Hazzik's Bargain",
+  "o": "Obtain Hazzik's Package at his dwelling in eastern Skettis and return to him with it.",
+  "d": "Do not draw attention to our conversation.  Adaris would not approve.$B$BI belong to the lowest caste of arakkoa, $N.  During Terokk's rule I would've been sacrificed to the dark powers worshipped by his talonpriests.  If what you say is true and the talonpriests are seeking Terokk's return, then you must prevent them from succeeding - regardless of what your leader says!$B$BI've something to offer you that you'll find useful.  There is a package at my old dwelling in Upper Veil Shil'ak.  Bring it to me!",
+  "p": "You've returned, $N. I was beginning to think you'd given up on me.",
+  "c": "Excellent, $N. You will see that I'm true to my word."
+ },
+ {
+  "id": 11057,
+  "t": "The Trouble Below",
+  "o": "Speak with Mog'dorg the Wizened atop one of the towers just outside the Circle of Blood in the Blade's Edge Mountains.$B",
+  "d": "We commend your zeal in wanting to help out here in Ogri'la, $c.  However, we have a favor to ask of you before we can accept your assistance.$B$BDown below our brethren are enslaved to the Sons of Gruul.  Please, speak with Mog'dorg the Wizened, who is leading an ogre resistance against their gronn masters.$B$BSeek him out atop the tower on the eastern side of the Circle of Blood arena.",
+  "p": "",
+  "c": "You were sent from on high? Truly my mission is blessed! I am trying to save the Bloodmaul from annihilation by the Bladespire clan, and Gruul's sons, who are backing them.$B$BI trust that you will be the one to aid our secret society and deliver us into freedom."
+ },
+ {
+  "id": 11058,
+  "t": "An Apexis Relic",
+  "o": "Gain Apexis Vibrations from an Apexis Relic.",
+  "d": "Long ago a now-extinct sect of the arakkoa known as the Apexis lived here.  Remnants of their civilization are still present.  We call them apexis relics.$B$BWhat we know about them is that, when properly used, they grant a boon.  Each relic presents a colored sequence which, when the crystals are pressed in the correct order, leads through a series of levels, each harder than the last.$B$BAn apexis shard is needed to power the relic.  Return when you have attained the insight of the apexis vibration.",
+  "p": "Have you learned how to use the apexis relic yet? Both we and the Sha'tari Skyguard just to the north are interested in what you learn about them.",
+  "c": "<Chu'a'lor nods his heads at you in satisfaction at your accomplishment.>$B$BYou have a quick mind, $N. It took us much longer to successfully make use of the relic.$B$BNow that you know how, you can do so as much as you care to. Just remember that they require an apexis shard to power them."
+ },
+ {
+  "id": 11059,
+  "t": "Guardian of the Monument",
+  "o": "Collect an Apexis Guardian's Head.",
+  "d": "You've figured out how to use the single-person relics, but as you may have seen, there are bigger ones, which they surround.$B$BThese larger apexis monuments function in much the same way, but they take many more apexis shards to activate and require four persons to operate.$B$BOf greater concern to us are the guardians that are summoned through their use.  These crystal constructs turned on their arakkoan masters long ago, and now endanger Ogri'la.$B$BWe would ask that you destroy one and bring us proof.",
+  "p": "We abhor violence, but at least the construct that we have sent you against isn't a living being.$B$BSpeaking of which, do you have the head?",
+  "c": "<Chu'a'lor beams at you with obvious respect.>$B$BNot only are we impressed with the mental alacrity of you and your friends, but we are indebted to you, as is all of Ogri'la and the Skyguard, for helping to protect our way of life here.$B$BAnd remember, $N, at any time you can gather others and return to any of those larger apexis monuments to make use of them; as long as you have enough apexis shards to power it that is."
+ },
+ {
+  "id": 11060,
+  "t": "A Crystalforged Darkrune",
+  "o": "",
+  "d": "",
+  "p": "Da demons are making da Forge Camp: Wrath bigger. Soon, dey be too big and crush us. You crush dem first!$b$bShartuul's transporter is da key, but it protected by a magic shield and a demon called a degrader. Us powerful $c, and make special darkrune dat give you control of da degrader. $r give Gahk darkrune, us give $r crystalforged darkrune back.$b$bTake control of da degrader and possess as many of da demons dat come through da gate as you can ta stop dem!",
+  "c": "Little $r, remember, when you control da degrader, you use its hammer ta smash da warp-gate's shield and let loose da demon within.$B$BDen you crush dat demon and control it. Den another demon come and you control it, until da eredar overseer come.$B$BDen you crush him too!!!"
+ },
+ {
+  "id": 11061,
+  "t": "A Father's Duty",
+  "o": "Collect an Unstable Flask of the Sorcerer for him.",
+  "d": "As to that other magical flask, it can only be obtained from one spot: Bash'ir Landing.  It's an ethereal base, and they aren't too friendly with outsiders, so it might be a little dangerous to obtain.$B$BWhere's Bash'ir Landing, you ask?  Well, if you get on your flying steed and head north by northeast, well past Forge Camp: Wrath, you'll eventually spot it.  The Bash'ir crystalforge itself is at the northeast corner of the landing.$B$BThank you for doing this, $N.  It'll mean the world to our sons!",
+  "p": "That sorcerer's flask is sure to make my boys more intelligent than they already are, and that should help immensely with what they'll need to do once they're in the Sha'tari Skyguard.",
+  "c": "We can't thank you enough, $N!$B$BNow with these two flasks, unstable though they may be, we'll be able to send one of our boys north to the Skyguard Outpost.$B$BHere, just wait a moment and we'll call for one of them.$B$B<Torkus's right head shouts out for his boy in a low growl.>"
+ },
+ {
+  "id": 11062,
+  "t": "The Skyguard Outpost",
+  "o": "Speak with Sky Commander Keller at the Skyguard Outpost in the Blade's Edge Mountains.",
+  "d": "$N, we were wondering if you might be willing to visit our friends just to the north at the Skyguard Outpost?$B$BSky Commander Keller and his Skyguard are here running missions for our mutual protection, and he's asked us to send along anyone that we feel would excel at helping out.$B$BThat would be you!$B$BHead up there as soon as you can, and please, give him our regards.",
+  "p": "",
+  "c": "Welcome ta the Skyguard Outpost! I built it with me own hands ya know.$B$BYeah, the whole thing!$B$B<The sky commander looks serious.>$B$BSo, ye must be lookin' ta spoil for a fight if ye're here talkin' ta me. It was kind of old Chu'a'lor ta send ye along. We can always use fresh meat for the grinder around here.$B$BIf ye don't mind, I'd like ya ta start by having a talk with my sergeant across the way: Vanderlip. Don't mind her tongue, though it be sharper than the greatsword she be carrying."
+ },
+ {
+  "id": 11063,
+  "t": "Earning Your Wings...",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "So you wanna join the Skybreakers, eh? You've certainly proven yourself an able Dragonmaw but that means nothing in the skies of Outland. The question has to be answered: CAN YOU FLY?$B$BAnd I don't just mean being able to mount up on a nether drake and delivering a shipment of crystals to the fort like those transporter scrubs. I'm talking about being the best... The top orc...$B$BOver to the west there are six riders. Defeat them all and I will grant you Skybreaker wings."
+ },
+ {
+  "id": 11064,
+  "t": "Dragonmaw Race: The Ballad of Oldie McOld",
+  "o": "Follow Murg \"Oldie\" Muckjaw while attempting to stay on your flying mount. Should you defeat Murg \"Oldie\" Muckjaw, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Don't let the gray hair fool you, grunt. I'm still ten times the rider that you are! And don't go thinking that this old dog doesn't have any tricks up his sleeve.$B$BNow all you gotta do is follow me and try not to get knocked down off your mount. If you can do that, Oldie will admit defeat.$B$BWe'll lift off as soon as you're ready.$B",
+  "p": "",
+  "c": "Pumpkins? Oh how the mighty have fallen... I am certain the other riders will prove to be much more challenging."
+ },
+ {
+  "id": 11065,
+  "t": "Wrangle Some Aether Rays!",
+  "o": "Use the Wrangling Rope to capture 5 Aether Rays.",
+  "d": "Wanna help the Skyguard and Ogri'la?$B$BJust hear me out before you walk away, $g hot stuff : girly;.  We're in need of remounts!  The bombing runs and missions to Bash'ir Landing have taken a toll on our mounts.$B$BThe aether rays that fly around Vortex Pinnacle, and the Crystal Spine to the northeast, look like they'd do just fine.  You don't even have to bring them back here, though that would be nice.  Just break and rope them, and we'll track them down later.$B$BThink you can wrangle me up some?",
+  "p": "You wrangle me some aether rays yet? You look like you might have some skill with rope, so it shouldn't take you too long.",
+  "c": "Woo hoo!  Nice job, $N! Those rays are going to make excellent mounts!$B$BStick around kid... the Sha'tari Skyguard can always use a man of your obvious talents!"
+ },
+ {
+  "id": 11066,
+  "t": "Wrangle More Aether Rays!",
+  "o": "Use the Wrangling Rope to capture 5 Aether Rays.",
+  "d": "So, I hope that you're up to helping us wrangle up even more aether rays!  From what I can see, you're a natural with the rope!  And it's for a good cause, because not only do we get fresh mounts, but it helps us to protect Ogri'la, which the ogres appreciate.$B$BRemember, the aether rays fly around Vortex Pinnacle, and the Crystal Spine to the northeast.$B$BThink you can wrangle me up some more?",
+  "p": "You're doing great work for us, $N. I want you to know that we really appreciate everything that you're doing to keep us stocked up in fresh mounts!",
+  "c": "You continue to amaze me! Tell you what... why don't you come back tomorrow and we'll let the rope cool off for now?$B$B<Khatie laughs.>$B$BThank you so much, $N!"
+ },
+ {
+  "id": 11067,
+  "t": "Dragonmaw Race: Trope the Filth-Belcher",
+  "o": "Follow Trope the Filth-Belcher while attempting to stay on your flying mount. Should you defeat Trope the Filth-Belcher, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Dragonmaw treat you right, $N. Even a worn out cursed being like me is given a chance. Now if you want to prove your worth to the Skybreakers, you will have to defeat me.$B$BI'm going to shake you off my tail like a bad case of fleas...$B$BWe'll lift off when you are ready.",
+  "p": "Trope defeated some of my best riders. Don't let the filthiness fool you.",
+  "c": "Interesting... Your next match will undoubtedly prove much more difficult. Corlok is no slouch."
+ },
+ {
+  "id": 11068,
+  "t": "Dragonmaw Race: Corlok the Vet",
+  "o": "Follow Corlok the Vet while attempting to stay on your flying mount. Should you defeat Corlok the Vet, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "You are challenging ME? Don't make me laugh!$B$BYou're serious? Very well then! All you need to do is not die. You can manage to not die, right?? Even if I'm hurling skulls at you and flying circles around your pathetic riding skills?$B$BJust let me know when you're ready and we'll lift off.",
+  "p": "",
+  "c": "The next two riders were the two top pilots that the dwarves and orcs of Azeroth had to offer. You stand no chance!"
+ },
+ {
+  "id": 11069,
+  "t": "Dragonmaw Race: Wing Commander Ichman",
+  "o": "Follow Wing Commander Ichman while attempting to stay on your flying mount. Should you defeat Wing Commander Ichman, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Three years I spent in that hell hole. Three years a prisoner of war to the damnable Frostwolf Clan. Made to sit in their tower and listen to them endlessly whine about the bridge to Dun Baldar. About how it's \"unfair\" that blah, blah, blah, blah... War isn't fair! To hell with 'em all!$B$BThe minute I was freed I left that place forever and came here to start a new life. Now Mulv and I are vying for the top orc spot. If you want it, you're gonna have to go through me, scrub.$B$BWe go when you're ready.$B",
+  "p": "",
+  "c": "I don't believe it! Mulverick is your next challenge. There's no way you'll survive that match."
+ },
+ {
+  "id": 11070,
+  "t": "Dragonmaw Race: Wing Commander Mulverick",
+  "o": "Follow Wing Commander Mulverick while attempting to stay on your flying mount. Should you defeat Wing Commander Mulverick, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.$B",
+  "d": "Three years of blood, sweat and tears. Mostly tears... The amount of crying that a hardened soldier does when it comes down to all-out war is amazing!$B$B\"They're jumping into our tower with their horses!\" \"Why is their base so well defended?\" \"They're taking our relief hut, I'm going A.W.O.L.!\"$B$BWimps...$B$BI took the first train out of \"cry-town\" the minute the Dark Portal opened. Now I'm a top gun for the Dragonmaw. If you want to be top orc, you'll have to defeat me.$B$BWe go when you are ready.$B",
+  "p": "Mulverick is the most gifted rider I've ever seen. The only thing holding him back from the top orc spot is his recklessness.",
+  "c": "Well it looks like it's just you and the captain now, grunt. Good luck! You're gonna need it!"
+ },
+ {
+  "id": 11071,
+  "t": "Dragonmaw Race: Captain Skyshatter",
+  "o": "Follow Captain Skyshatter while attempting to stay on your flying mount. Should you defeat Captain Skyshatter, report your victory to Ja'y Nosliw at the Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "You dare challenge Skyshatter? The world around you will fall into darkness as the heavens are torn asunder by my meteors.$B$BYou stand no chance, soldier. Yet it is your desire to die...$B$BI will entertain this morbid obsession if only to prove a point to any that might foolishly dream of making the same mistake.$B$BWe ride when you are ready!",
+  "p": "Second place isn't that bad, $N. You can take Mulverick's spot on the line-up...",
+  "c": "I never dreamed any would be skilled enough to defeat Skyshatter. You do know what this means, right? You are now the top orc! You must defend your title."
+ },
+ {
+  "id": 11072,
+  "t": "Adversarial Blood",
+  "o": "Find the Skull Piles in the middle of the summoning circles of Skettis. Summon and defeat each of the descendants by using 10 Time-Lost Scrolls at the Skull Pile.  Return to Hazzik at Blackwind Landing with a token from each.",
+  "d": "The descendants held prisoner by the Skettis talonpriests are listed in this book: Gezzarak the Huntress, Karrog the crystal giant, the heretic known as Darkscreecher Akkarai and Vakkiz the Windrager.  They will all need to be slain before Terokk returns to this world.$B$BYou will need the scrolls carried by the time-lost arakkoa to call them forth at the summoning circles in Skettis.  Bring me a token from each one.  These are powerful beings you will be facing; you would do well to bring friends.",
+  "p": "Have you completed your task, $N?",
+  "c": "Excellent! Take this. I've prepared this bundle with the items you obtained. They will allow you to summon Terokk.$B$BBeware, $N. He is the most powerful arakkoa to ever exist. Do not underestimate him!"
+ },
+ {
+  "id": 11073,
+  "t": "Terokk's Downfall",
+  "o": "Take the Time-Lost Offering prepared by Hazzik to the Skull Pile at the center of Skettis and summon and defeat Terokk.  Return to Sky Commander Adaris when you've completed this task.",
+  "d": "I... I've turned a blind eye to your dealings with the arakkoa prisoner, $N.  It looks like your instincts to cooperate with him were right.$B$BYou must understand... I would've faced a mutiny in my current state if I endorsed your efforts to bring Terokk to this world.$B$BTake the items that Hazzik prepared for you and go ahead with your plan.  I will command my men to back you up when the time comes.  I recommend that you bring a force of your own as well.  I fear you'll only get one chance at this.",
+  "p": "Is it done, $N? Has Terokk been defeated?",
+  "c": "You've made us all very proud, $N. I'll send word of your deeds back to Shattrath. The Skyguard will be forever in your debt."
+ },
+ {
+  "id": 11074,
+  "t": "Tokens of the Descendants",
+  "o": "Collect Time-Lost Scrolls from the time-lost arakkoa in Skettis and bring them to a Skull Pile inside a summoning circle in Skettis.  Summon and defeat the descendants of Terokk's adversaries and return to Hakkiz with Akkarai's Talon, Garokk's Spine, Vekkaz's Scale and Gezzarak's Claw.",
+  "d": "The descendants held prisoner by the Skettis talonpriests are listed in this book.  Gezzarak the Huntress, Garokk the Crystal Giant, the heretic known as Darkscreecher Akkarai and Vekkaz the Windrager.  They will all need to be slain before Terokk returns to this world.$B$BYou will need the scrolls carried by the time-lost arakkoa and burn them at the summoning circles all over Skettis.  Bring me a token from each one.  These are powerful beings you will be facing; you would do well to bring friends.",
+  "p": "I require a token from each of the descendants of Terokk's greatest adversaries.  Only then will we be ready to summon Terokk.",
+  "c": "Excellent!  Take this.  I've prepared this bundle with the items you obtained.  They will allow you to summon Terokk.$b$bBeware, $N.  He is the most powerful arakkoa to ever exist.  Do not underestimate him!"
+ },
+ {
+  "id": 11075,
+  "t": "The Netherwing Mines",
+  "o": "Seek out the Mistress of the Mines on Netherwing Ledge.",
+  "d": "Your help is required at the Netherwing Mines, overseer $N.$B$BTwo days ago our mining operations came to a grinding halt when we made a grim discovery. A miner was working in the depths of the mine and struck his pick upon an unusual crystal formation. Unfortunately, this crystal formation was attached to a very angry nether dragon. The beast woke from its slumber and annihilated all of our workers.$B$BReport to the Mistress of the Mines. They await you at the mouth of the mines, southwest of here.",
+  "p": "",
+  "c": "The miners are working hard but none dare step foot further into the mines. They choose death rather than being forced to mine deeper! It is going to be your job to carry out the duties and tasks that they failed to complete."
+ },
+ {
+  "id": 11076,
+  "t": "Picking Up The Pieces...",
+  "o": "The Mistress of the Mines at the Netherwing Mines in Shadowmoon Valley wants you to recover 15 Nethermine Cargo crates.",
+  "d": "Much of our hard work lies scattered about in these mines. Carts full of cargo are littered across every inch of this mine! We just can't get to any of it with the current infestation.$B$BThat's where you come in, $N. Your daily duty here at this mine is to collect the cargo left behind by the miners and deep mine workers.$B$BGather the nethermine cargo and return it to me or my sister.",
+  "p": "Have you gathered the cargo?",
+  "c": "Well done, $N. Return tomorrow for another mission into the depths of the mine."
+ },
+ {
+  "id": 11077,
+  "t": "Dragons are the Least of Our Problems",
+  "o": "The Dragonmaw Foreman at the Netherwing Mines in Shadowmoon Valley wants you to kill 15 Nethermine Flayers and 5 Nethermine Ravagers.",
+  "d": "That dragon waking up riled up a host of other nasty creatures in these mines. Two types are proving to be a thorn in the side of the Dragonmaw: Nethermine flayers and Nethermine ravagers. You must help us by killing them off. All I ask is your involvement once per day.$B$BGet in there and kill as many as you can!",
+  "p": "How's that flayer infestation problem coming along?",
+  "c": "That'll be enough for today, overseer. Come back tomorrow for another round of clean up."
+ },
+ {
+  "id": 11078,
+  "t": "To Rule The Skies",
+  "o": "Collect Dragon Teeth.",
+  "d": "As ye've flown around, ye must have noticed the dragons above.  I trust ye haven't fallen victim ta their rage.  Help us put an end ta it, $N!$B$BRivendark and Obsidia lord over this terrace, while Insidion and Furywing rule the skies over yon terrace ta the northeast.  Each has a perch on their respective domains.  I be wondering if ye and yer friends will go ta one, $g lad : lass;, break open an egg and attract the dragon down.$B$BBring me some teeth as proof.  Ta rule the skies, it's either them or us.",
+  "p": "How fares yer mission, $N? I needn't tell ye how important this be ta our continued ability ta fly around up here.",
+  "c": "Yes! Those teeth look like they be sharp enough ta cut through just about anything!$B$BAnd let me encourage ye and yer friends ta keep up the good work! Those dragons be fierce predators that make the skies wholly unsafe.$B$BYe might have noticed, too, the dragon scales. I hear they be good fer making powerful cloaks if ye get one o' each o' their scales. And if yer not happy with the cloak ya get, I'll be willing ta trade ye an apexis crystal fer it."
+ },
+ {
+  "id": 11079,
+  "t": "A Fel Whip For Gahk",
+  "o": "Collect a Fel Whip.",
+  "d": "Gahk think being smart is dumb sometimes.  Gahk not want to think.  Me want little $r to smash big demons!$B$BDey have some chiefs, and da chiefs all have whips to hurt da little demons.  You bring Gahk a whip!$B$BYou challenge demon chief in forge camps at burning, green, fel crystal prism.  Use many apexis shards to get dem to come.  Dey called Galvanoth, Braxxus, Zarcsin and da Mo'arg Incinerator.",
+  "p": "Yous have da whip?",
+  "c": "Gahk like whip. Maybe Gahk take whip and beat demons with it!$B$BMe say to $R that $R summon demon chiefs anytime $R have friends and many shards."
+ },
+ {
+  "id": 11080,
+  "t": "The Relic's Emanation",
+  "o": "Gain Apexis Emanations from an Apexis Relic.",
+  "d": "Now that you have felt the enlightening vibrations of the apexis relics, it is time for you to further your understanding of their workings.  We are very eager to benefit from your observations!$B$BAs you progress in your ability to attune to the relics, you will gain a higher level of knowledge.  This recognition will come in the form of an emanation from the relic.$B$BReturn to us when you have attained such an emanation.",
+  "p": "Do you have the emanation from the apexis relic about you?",
+  "c": "You continue to amaze us with your acumen as concerns the relics. $B. May we suggest that you practice with the relics at least once a day to maintain such a sharp edge to your mental acuity?"
+ },
+ {
+  "id": 11081,
+  "t": "The Great Murkblood Revolt",
+  "o": "Take the Murkblood Escape Plans to the Mistress of the Mines.",
+  "d": "This document outlines a revolt planned by the Murkblood broken. It seems that the dragon was to be used as a diversion to draw attention away from their escape. Looking at all of the corpses littering the mine, it would be safe to assume that their plans failed.$B$BReturn the escape plans to the Mistress of the Mines.",
+  "p": "What's this?",
+  "c": "Excellent work, overseer. Mor'ghor will hear of your outstanding service to the Dragonmaw.$B$BNow back to these Murkblood dogs. They plan an escape, eh? Dare they defy the one true lord of Outland? Their masters will pay for this!"
+ },
+ {
+  "id": 11082,
+  "t": "Seeker of Truth",
+  "o": "Find a Murkblood Overseer and interrogate him. Return to the Mistress of the Mines with the Murkblood information and the Hand of the Overseer.",
+  "d": "These miners are far too stupid to concoct any type of escape plan. We must find and punish the source. Venture into the depths of the mine and seek out the Murkblood overseers. If they have not been overcome by the denizens of the mine, they will undoubtedly be hiding.$B$BOnce you locate one, interrogate him until he reveals the true mastermind behind the escape. Return to me with the identity of this traitor and the hand of the overseer.",
+  "p": "Well? What's taking so long?",
+  "c": "Nothing to say? Perhaps as he lies bleeding to death on the floor of this cursed mine he will remember... Remember what it means to cross the forces of Illidan!."
+ },
+ {
+  "id": 11083,
+  "t": "Crazed and Confused",
+  "o": "Ronag the Slave Driver in the Netherwing Mines of Shadowmoon Valley wants you to slay the Crazed Murkblood Foreman and 5 Crazed Murkblood Miners.",
+  "d": "Don't worry about this dragon, $N. We've got plans for it...$B$BDeeper in this mine is a band of crazed Murkblood. After the dragon broke out, they were cut off from the exit. Somehow, after a mere 2 days of isolation, they've lost all sense of decency.$B$BThey've resorted to cannibalism and the promotion of mayhem. We don't need that kind of madness in this place. Find 'em and kill 'em. All of 'em.",
+  "p": "Is the problem \"solved\"?",
+  "c": "Yeah, I don't understand it... You would think that they wouldn't even be that hungry after 2 days. Murkblood...$B$B<Ronag shakes his head.>$B$BDamn they're stupid..."
+ },
+ {
+  "id": 11084,
+  "t": "Stand Tall, Captain!",
+  "o": "Speak with Overlord Mor'ghor at Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Well, well, well... still alive I see. That's good, because Mor'ghor has requested your presence in his tower at once. Get a move on!",
+  "p": "",
+  "c": "<Mor'ghor nods.>$B$BThat's right, I said captain. You've earned another promotion, $N.$B$BYou certainly don't work like any fel orc I've ever seen. Keep this up and you might make overlord some day.$B$BNow get out there and take command. I would suggest you try and earn your Skybreaker wings."
+ },
+ {
+  "id": 11085,
+  "t": "Escape from Skettis",
+  "o": "Escort the Skyguard Prisoner to safety and report to Sky Sergeant Doryn.",
+  "d": "Hail, $N.  I thank you for coming to my aid.$B$BThe arakkoa's monstrous birds knocked me from my nether ray while on a scouting mission.$B$BLet's get out of here, while we can.",
+  "p": "Yes, $N?",
+  "c": "Thank you for rescuing one of our scouts, $N. We lose good people every day and there aren't enough new recruits to replace them."
+ },
+ {
+  "id": 11086,
+  "t": "Disrupting the Twilight Portal",
+  "o": "Overlord Mor'ghor at Dragonmaw Base Camp in Shadowmoon Valley wants you to kill 20 Deathshadow Agents.",
+  "d": "One of your responsibilities as a captain of Dragonmaw is to snuff out Burning Legion activity in Outland. It is your duty to silence those that defy Lord Illidan!$B$BThe demons foolishly attempt to stabilize the portal found on the Twilight Ridge of western Nagrand. They must pay for their treachery, and you will be the orc that collects on their debt.$B$BTravel to the Twilight Ridge and lay waste to its inhabitants. You will be responsible for making at least one attack per day on their fortifications.",
+  "p": "It was our lord, after all, that banished the demons from Outland and closed their portals. All should bow down to the magnificence of Illidan.",
+  "c": "Excellent work, captain! Lord Illidan will hear of your heroism!"
+ },
+ {
+  "id": 11087,
+  "t": "HYJAL FLAG",
+  "o": "Soridormi at Caverns of Time wants you to retrieve Vashj's Vial Remnant from Lady Vashj at Coilfang Reservoir and Kael's Vial Remnant from Kael'thas Sunstrider at Tempest Keep.",
+  "d": "Seven vials were drawn from the Well of Eternity by Illidan.  He poured three into the lake on top of Mount Hyjal and a second Well of Eternity was created.  For years the rest were believed lost.$B$BWith the opening of the Dark Portal,we've come to know that he gave one each to his lieutenants Kael'thas and Vashj.  Retrieve what remains of them; we will need them as foci to open a gateway to any events tied to Mount Hyjal,recent or ancient.  The outcome of the Battle of Mount Hyjal must be preserved.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11088,
+  "t": "<DEPRECATED>Unravelling Your Training",
+  "o": "Bring Jonathan LeCraft 10 pieces of Spellfire cloth.",
+  "d": "Bring me a lot of Spellfire cloth,and then you can forget everything.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11089,
+  "t": "The Soul Cannon of Reth'hedron",
+  "o": "Illidari Lord Balthas at the Dragonmaw Base Camp in Shadowmoon Valley wants you to bring him 2 Felsteel Bars, 1 Adamantite Frame, 1 Khorium Power Core and 1 Flawless Arcane Essence.",
+  "d": "Reth'hedron now lords over the Twilight Ridge of Nagrand. An eredar of such power being loosed upon this world does not bode well for the Illidari. Alas, we do not have the resources required to slay Reth'hedron. Not with the war the Sha'tar have brought to the Black Temple. No... I have a better plan.$B$BYou will subdue Reth'hedron, banishing him back through the Twilight Portal. For this a soul cannon must be fashioned.$B$BReturn to me with the materials on this list.",
+  "p": "Have you gathered the components required to fashion the soul cannon?",
+  "c": "<Balthas deftly combines the components you brought him.>$B$BYou are now ready for the second phase of the plan, captain."
+ },
+ {
+  "id": 11090,
+  "t": "Subdue the Subduer",
+  "o": "Illidari Lord Balthas at Dragonmaw Base Camp in Shadowmoon Valley has tasked you with using the Soul Cannon on Reth'hedron the Subduer in Nagrand.$B$BYou must also return the Soul Cannon.",
+  "d": "<Balthas holds up an alien looking device.>$B$BThis is a soul cannon. Its effects are devastating when attuned. This one is attuned to my blood. The same blood flowing through the veins of Reth'hedron - my brother. Aye, his misplaced allegiance will be the end of him.$B$BTake the cannon and fly to the Twilight Ridge in western Nagrand. Locate Reth'hedron and fire! You must stay on your mount and within range for the effects to take hold. Stand your ground against him and he will have no choice but to flee!",
+  "p": "Is it done?",
+  "c": "He will be back, but for now the Legion's war against Lord Illidan is weakened. He shall know of your deeds, captain."
+ },
+ {
+  "id": 11091,
+  "t": "A Special Thank You",
+  "o": "Speak with Jho'nass at Ogri'la in the Blade's Edge Mountains.",
+  "d": "You honor us with your efforts on our behalf.  And now there is someone that we would like for you to meet.$B$BJho'nass is our most trusted quartermaster.  He maintains a stock of goods that we provide for sale to only the most dedicated of friends to Ogri'la.$B$BYou are one such friend, $N.$B$BWhen you find the time, go and speak with him.  As we understand it, he has prepared a little something for you as a token of our appreciation.",
+  "p": "",
+  "c": "Hey. man. that's great. We hear you've been doing good things. That's cool. We've got a feeling that you're going to make things right for us here in Ogri'la, and keep us safe, and everything nice and mellow.$B$BHere, take this. It's nothing much, just a care package that we whipped up as a thanks for your effort.$B$BFeel free to look around at our goods. We have a lot of really choice stuff that you're gonna want to get."
+ },
+ {
+  "id": 11092,
+  "t": "Hail, Commander!",
+  "o": "Speak with Overlord Mor'ghor at Dragonmaw Base Camp in Shadowmoon Valley.",
+  "d": "Captain $N!$B$B<Taskmaster Varkule salutes you.>$B$BOverlord Mor'ghor has asked to see you in his chambers at once!",
+  "p": "",
+  "c": "Lord Illidan himself has asked that I promote you to the rank of commander! This is unprecedented. You will be the first Dragonmaw to reach such a rank outside of the Black Temple."
+ },
+ {
+  "id": 11093,
+  "t": "Hungry Nether Rays",
+  "o": "Use the Nether Ray Cage in the woods south of Blackwind Landing and slay Blackwind Warp Chasers near the Hungry Nether Ray.  Return to Skyguard Handler Deesak when you've completed your task.",
+  "d": "Nether rays are surprisingly loyal and obedient once properly trained.  Unfortunately the war on Skettis is taking a toll on them.$B$BWe have dozens of sorties a day - the poor fellows rarely get a break.  And with recent shortages on feed, if those blasted birdmen don't kill them on a mission then starvation will.$B$BIf you can lend a hand, take one of our rays to the woods in the south.  They don't mind warp chaser meat as long as it's a fresh kill.",
+  "p": "You're back! Did your ray behave well?",
+  "c": "Thanks for taking care of the ray, $N. Goodness knows these guys fly much better when they're well-fed. We don't want our boys getting shot down because their ray was too weak to fly."
+ },
+ {
+  "id": 11094,
+  "t": "Kill Them All!",
+  "o": "Deliver news of your mission along with the Dragonmaw Flare Gun to Arcanist Thelis at the Sanctum of the Stars in Shadowmoon Valley.",
+  "d": "Commander $N, stand at attention! You are to take a battalion of Skybreakers and sack the Scryers' outpost located at the foot of the Netherwing Fields. With the Sanctum of the Stars destroyed, our lines of communication to our posts at Eclipse Point and Illidari Point will once more be open.$B$BGo now! Use this flare gun to signal the Skybreakers for the attack!",
+  "p": "Settle down, child.",
+  "c": "It is good that you came to us. Perhaps we can use this attack to our advantage and turn the tables on the Dragonmaw."
+ },
+ {
+  "id": 11095,
+  "t": "Commander Hobb",
+  "o": "Give the Dragonmaw Flare to Commander Hobb at the Sanctum of the Stars in Shadowmoon Valley.",
+  "d": "The Dragonmaw only dare attack us when our guard is down. They would face certain defeat if they were to attack us while we were prepared.$B$BI want you to let them come, $N.$B$B<Thelis nods.>$B$BYes... a trap. Take this flare that their overlord gave you and deliver it to Commander Hobb. He is standing guard right outside this building.",
+  "p": "<Hobb nods.>",
+  "c": "<Hobb grins.>$B$BThe deadliest trap ever laid..."
+ },
+ {
+  "id": 11096,
+  "t": "Threat from Above",
+  "o": "Slay any 20 Gordunni Ogres in the Barrier Hills and return to Yuula in Shattrath City.",
+  "d": "So you want to join the Skyguard?  Well, I know you can fly... but can you fight?$B$BThe Skyguard is sworn to protect Shattrath from the dangers that loom above us, both near and far.  The Gordunni ogres who dwell in the Barrier Hills to the north are an immediate threat to us.$B$BReaching the ogres has been problematic for Shattrath's ground units.  That's where we come in.  See what you can do to help contain them.",
+  "p": "Have you completed your task, $n?",
+  "c": "Good job, ace.  I've a feeling you're going to fit in well with us."
+ },
+ {
+  "id": 11097,
+  "t": "The Deadliest Trap Ever Laid",
+  "o": "Assist Commander Hobb and the Scryers in defending the Sanctum of the Stars. Once all of the Dragonmaw forces have been defeated, return to Overlord Mor'ghor at Dragonmaw Base Camp with the Scryer Medals.$B",
+  "d": "Take these Scryer medals. Mor'ghor will need proof of \"victory\" once this is over. He will recognize them as coming from the corpses of fallen Scryer soldiers.$B$BNow all that remains is to use the signal flare to alert the Dragonmaw raiders. We will crush them when you are ready. Just give me the word.",
+  "p": "Did you crush them under your boot, commander?",
+  "c": "<Mor'ghor laughs.>$B$BHAH! I knew you wouldn't let me down, commander! I want you to lead a raid on the Sanctum of the Stars at least once per day. They will have no choice but to leave Shadowmoon!"
+ },
+ {
+  "id": 11098,
+  "t": "To Skettis!",
+  "o": "Take the Explosives Package to Sky Sergeant Doryn at Blackwind Landing outside Skettis.",
+  "d": "The Barrier Hills are only one of the fronts where we've been deployed.  A less immediate but far more dangerous threat looms from beyond the Skethyl Mountains, from within the arakkoa city of Skettis.$B$BA few months ago our scouts detected a huge increase in arakkoa activity there.  Several attacks against Shattrath followed.  We've stationed forces outside of their city since.$B$BTake these explosives to Sergeant Doryn at Blackwind Landing, just outside Skettis.  Tell him you're a new recruit.",
+  "p": "You've something for me, lad?",
+  "c": "Thanks for the supplies; we'll put them to good use!  A new recruit?  Well, let's see what you're made of."
+ },
+ {
+  "id": 11099,
+  "t": "Kill Them All!",
+  "o": "Deliver news of your mission and the Dragonmaw Flare Gun to Anchorite Ceyla at the Altar of Sha'tar.",
+  "d": "Commander $N, stand at attention! You are to take a battalion of Skybreakers and sack the Aldor outpost located northwest of our beloved Black Temple. With the Altar of Sha'tar destroyed, our lines of communication to our posts at Coilskar will once more be open.$B$BGo now! Use this flare gun to signal the Skybreakers for the attack!",
+  "p": "Settle down, child.",
+  "c": "It is good that you came to us. Perhaps we can use this attack to our advantage and turn the tables on the Dragonmaw."
+ },
+ {
+  "id": 11100,
+  "t": "Commander Arcus",
+  "o": "Give the Dragonmaw Flare to Commander Arcus at the Altar of Sha'tar in Shadowmoon Valley.",
+  "d": "The Dragonmaw only dare attack us when our guard is down. They would face certain defeat if they were to attack us while we were prepared.$B$BI want you to let them come, $N.$B$B<Ceyla nods.>$B$BYes... a trap. Take this flare that their overlord gave you and deliver it to Commander Arcus. He is standing guard right outside this building.$B",
+  "p": "<Arcus nods.>",
+  "c": "<Arcus grins.>$B$BThe deadliest trap ever laid..."
+ },
+ {
+  "id": 11101,
+  "t": "The Deadliest Trap Ever Laid",
+  "o": "Assist Commander Arcus and the Aldor in defending the Altar of Sha'tar. Once all of the Dragonmaw forces have been defeated, return to Overlord Mor'ghor at Dragonmaw Base Camp with the Aldor Medals.",
+  "d": "Take these Aldor medals. Mor'ghor will need proof of \"victory\" once this is over. He will recognize them as coming from the corpses of fallen Aldor soldiers.$B$BNow all that remains is to use the signal flare to alert the Dragonmaw raiders. We will crush them when you are ready. Just give me the word.",
+  "p": "Did you crush them under your boot, commander?",
+  "c": "<Mor'ghor laughs.>$B$BHAH! I knew you wouldn't let me down, commander! I want you to lead a raid on the Altar of Sha'tar at least once per day. They will have no choice but to leave Shadowmoon!"
+ },
+ {
+  "id": 11102,
+  "t": "Bombing Run",
+  "o": "Use the Skyguard Bombs to destroy 15 Fel Cannonball Stacks.",
+  "d": "You can fly around as a crow... so what!  Ever annihilate something on the ground while you were flying?  Want to?$B$BForge Camp: Wrath and Forge Camp: Terror, to the north and south, are a major pain in my backside, as well as being a threat to peaceful Ogri'la.  With all of those fel cannons shooting down the Skyguard left and right, we can't get through there to take care of business.$B$BWant to prove yourself?  Take these bombs and knock out their ammo stacks.  Just don't let them shoot you down, too!",
+  "p": "You take out their stacks of fel cannonballs yet?",
+  "c": "Well, well, well, I guess you had it in you after all. Good work. Maybe Old Man Keller was wrong about you after all.$B$B<Sky Sergeant Vanderlip smirks.>"
+ },
+ {
+  "id": 11103,
+  "t": "Sage No More",
+  "o": "",
+  "d": "",
+  "p": "The power within your ring is malleable, though reversing your choice is not easy.  Are you sure you want to replace its current form?",
+  "c": "The sands of time flow forwards easily.  They can be made to flow backward, but with great difficulty."
+ }
+]

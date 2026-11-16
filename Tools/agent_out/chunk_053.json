@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11470,
+  "t": "There Exists No Honor Among Birds",
+  "o": "Hidalgo at the Explorers' League Outpost in the Howling Fjord wants you to use your Trained Rock Falcon to capture 8 Fjord Hawk Eggs.$B$BReturn to Hidalgo with the cage when you have completed this task.",
+  "d": "You are most definitely ready for the next step in falconry, $N.$B$BTake your trained falcon east of here, to the vrykul hawk roost near the Stonewall Lift. From the roost you will send out your falcon to steal the eggs of the hawks. Their nests will be located in remote areas of the cliff walls surrounding the roost. Locate those nests and use your falcon to scavenge for the eggs!$B$BBeware the fjord hawk matriarchs, $N. Should you come under attack, use your falcon's escape and soar abilities to flee!",
+  "p": "You are in control now, $n. Guide your falcon and bring me those eggs.",
+  "c": "Bravo, $N! Bravo! The bond of kinship between you and your falcon is strong! Perhaps you can run some reconnaissance missions against the vrykul in the not-too-distant future?"
+ },
+ {
+  "id": 11471,
+  "t": "The Jig is Up",
+  "o": "Annie Bonn at Scalawag Point wants you to bring her Jonah Sterling's Spyglass.",
+  "d": "I know why you're here, $N.  You've been sent to kill our leader, Jonah Sterling.$B$BI'd like to offer my help.  Jonah's leadership threatens our operation.$B$BAttacking the Horde and the Alliance fleets simultaneously?  Suicidal.  Trying to sell the tuskarr as slaves when they die days after leaving this climate?  Disastrous.$B$BJonah's hideout is located inside a cave west of here.  Bring me his spyglass as proof of the deed  and my first action as lead will be to end all attacks against your allies.",
+  "p": "Well, $N.  Did you get Jonah's spyglass?$B$BI can't just take your word for the assassination, you know?  I am a pirate after all.",
+  "c": "Jonah Sterling's days are finally over!  He never thought this \"wench\" would make it.$B$BAs word of Jonah's death spreads among the pirates I will consolidate my leadership.  Your allies won't get any more trouble from my crew, $N."
+ },
+ {
+  "id": 11472,
+  "t": "The Way to His Heart...",
+  "o": "Toss Tasty Reef Fish at a Reef Bull to lead it to a Reef Cow. Once you have helped the two to find true love, return to Anuniaq at Kamagua.",
+  "d": "The Northsea Pirates slaughtered the isles' alpha sea lion bull, Big Roy. They made soap from him to clean the decks of their ships!$B$B<Anuniaq sighs.>$B$BNow the sea lions won't mate. Help me to repopulate their numbers.$B$BThe reef bulls can be found at the Twin Shores to the southeast. They crave the tasty reef fish that can be found on the east and west sides of the isles.$B$BTake this net and gather enough fish, at least a dozen -- maybe more, to lure a bull across the strait to a reef cow.",
+  "p": "",
+  "c": "This is good news! Now more bulls will swim across the strait to mate with the cows. Soon there will be plenty of new reef pups on the isles.$B$BThank you, $r. Whatever you might have done in the past, know that you have helped with Kamagua's future!$B$BWe'll have to keep up the good work if we're going to see to it that their numbers are replenished. Please come back again tomorrow so that we can help another couple find each other."
+ },
+ {
+  "id": 11473,
+  "t": "A Traitor Among Us",
+  "o": "Speak to Zeh'gehn at Scalawag Post.",
+  "d": "Our second in command, Annie Bonn, has been acting rather paranoid as of late.  She seems sure we have an infiltrator in our ranks, can ye believe it?$B$BAnyhow, we have a foolproof way of uncovering rats around these parts.  See, good ole' Zeh'gehn over here happens to be an authentic witch doctor.  His family hails all the way from Zul... something or other.$B$BGo let him know that we're in need of his divination skills.  I must warn ye, $N, only one or two of us can understand anything Zeh'gehn says.",
+  "p": "",
+  "c": "Ku here, mate.  Ye come fe see I an' I, aye?"
+ },
+ {
+  "id": 11474,
+  "t": "Problems on the High Bluff",
+  "o": "Speak with Walt.",
+  "d": "As usual, the real work is left up to me and my crew. Thankfully McSorf's team didn't die for nothin'. The cipher they recovered will help us crack the stuff we've found up here - that is if we can ever get back to it! Damned iron dwarves have sprung up like leaks all over the place and are now attemptin' to bury the sites! Can you believe it? Bastards want to bury our finds!$B$BAnyhow, talk to Walt over yonder. He'll get you started.",
+  "p": "",
+  "c": "Over half our team is dead or missing, junior. This is our last stand up here on the high bluffs. Those damned iron dwarves pushed us out of both Ivald's Ruin and Baelgun's. Now I've got a plan to get us back inside before they bury up all our goodies and we lose that data forever."
+ },
+ {
+  "id": 11475,
+  "t": "Tools to Get the Job Done",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to recover his Building Tools.",
+  "d": "I've been studying this deactivated construct for days, $N. I think I can create a reasonable facsimile of the golem that would have room inside to fit one passenger. The idea being that it would fool those iron dwarves and allow us to get inside Baelgun's.$B$BNow I'm not gonna be able to make anything with a hammer and poker. I need my tools! Unfortunately I left those behind at Ivald's Ruin when the iron dwarves first attacked. Get me my tools!$B$BIvald's Ruin is located far to the northeast.",
+  "p": "Step 1: Get Walt his tools.",
+  "c": "Now that I've got my tools, the building can begin. Well, as soon as I have some materials. You'll be getting those for me next."
+ },
+ {
+  "id": 11476,
+  "t": "A Carver and a Croaker",
+  "o": "Get a Shiny Knife from \"Silvermoon\" Harry and capture a Scalawag Frog.  Bring these to Zeh'Gehn at Scalawag Point.",
+  "d": "Some of the pirates around here... we have our own special way of talking.  Zeh'gehn has... many different special ways of talking... all mixed together.$B$BFrom what I can tell he wants a frog and a knife.$B$B\"Silvermoon\" Harry might have a knife on the cheap.  There's frogs all over town, just grab one and bring it to him along with the knife.$B$BI'd hate to be in the poor critter's shoes, if you know what I mean.",
+  "p": "Ye get the croaker and carver, mon?",
+  "c": "Much obliged, bucko.  Croaker's lookin' real cris!"
+ },
+ {
+  "id": 11477,
+  "t": "Out of My Element?",
+  "o": "Donny at Ivald's Ruin in the Howling Fjord wants you to kill 10 Iron Rune Destroyers, 5 Iron Rune Laborers and 2 Iron Rune Sages.",
+  "d": "Keep it down, $r. These iron dwarves are quick on the trigger. Now don't let the activities down in the dig fool you. Those steel-skinned abominations aren't digging anything up! No sir - on the contrary - they're burying the site! For whatever whacked out reason, they don't want anyone finding this place.$B$BWhat kind of dwarf buries ancient relics and dig sites? I'll tell you what kind: the kind you kill with reckless abandon! Get in there and take 'em out!",
+  "p": "",
+  "c": "Good job, $N. That'll slow down the burial process a little."
+ },
+ {
+  "id": 11478,
+  "t": "Outpost Over Yonder...",
+  "o": "Deliver Donny's Letter to Stanwad at the Explorers' League Outpost.",
+  "d": "I see that you haven't visited my brothers at the Explorers' League Outpost south of here. Why don't you do Donny a favor and deliver this message to Stanwad. He'll be interested to hear about the activities of the iron dwarves up here.$B$BLike I said, mount up and start heading south. You'll see the outpost right before you get to Baelgun's.",
+  "p": "News from Donny?",
+  "c": "Yea, this isn't anything we don't already know. At least Donny's still alive."
+ },
+ {
+  "id": 11479,
+  "t": "\"Crowleg\" Dan",
+  "o": "Confront \"Crowleg\" Dan, who is in one of the ships at Scalawag Point. Speak to Handsome Terry when you've completed this task.",
+  "d": "Croaker's spoken, matey. \"Crowleg\" Dan's on da ship yonder.$B$BBest go trace that blaggard, mon.  Show'im dis set's not fe be crossed.  Gaan back fe Terry when ye keelhaul 'is behind.",
+  "p": "",
+  "c": "That's some sad news.  Dan was me old friend... AND he owed me money.  Either way, if he was working with the Southsea mongrels he got what he deserved.$B$BAs for you, my friend.  You're on your way up.  Literally."
+ },
+ {
+  "id": 11480,
+  "t": "Meet Number Two",
+  "o": "Speak to Annie Bonn at Scalawag Point.",
+  "d": "All the good work you've done for us hasn't gone unnoticed, $N.  Our second in command, the delightful Annie Bonn, is incredibly impressed with what you've done so far and wants to meet you.  ",
+  "p": "",
+  "c": "Well, well, well.  If it isn't $N.  You show up at Scalawag point, no one's heard of you except some goblin friend of that half-wit Terry.$B$BLet's just say I'm a bit... skeptical... of your intentions here."
+ },
+ {
+  "id": 11481,
+  "t": "Crisis at the Sunwell",
+  "o": "Adyen the Lightwarden on the Aldor Rise in Shattrath City has requested that you travel to Sunwell Plateau and speak with Larethor.",
+  "d": "By the naaru, I thank you, $r, for your efforts.$b$bOur work is far from finished, however, and I must request that you undertake a critical mission - one as important as any I've issued.$b$bOur forces are spread thinly. To compound the strain, we've had to dispatch a contingent to Azeroth to investigate developments at the Sunwell Plateau.$b$bYou are needed there, $n. Report to Larethor. Tell him that I wish we could spare more men.",
+  "p": "",
+  "c": "Another soldier from Shattrath? A welcome sight!$b$bWish there were more of you, but we'll make due with what we have. Whatever's going on out here won't wait for us to make ready.$b$bHave a look around, $c. There's much that needs doing. Pitch in and do your share.$b$bOh, yeah, and don't go tauntin' the cryers - err, Scryers. Looks like we're in this thing together...."
+ },
+ {
+  "id": 11482,
+  "t": "Duty Calls",
+  "o": "Dathris Sunstriker on Scryer's Tier in Shattrath City has insisted that you travel to Azeroth at once and report to Larethor at the Sunwell.",
+  "d": "Hear me, $r.$b$bDuty requires that you return to Azeroth. Every able person is to report to the Sunwell Plateau immediately.$b$bI'm afraid I have no more information to share, except this:$b$bYou'll be joining forces with the Aldor for this mission. Speak with a draenei by the name of Larethor when you arrive.$b$bApparently, the situation calls for us to set our differences aside and join forces.$b$bPrepare yourself, friend. This sounds serious.",
+  "p": "",
+  "c": "Welcome to Sunwell Plateau, cryer - What's that? Oh Scryer, yes of course. Isn't that what I said?$b$bWell, now, let's get a few things straight. There's some serious business going on behind those walls and it's in the interest of both of our people to address it. And since neither of us have the forces to go it alone, we're going to work - TOGETHER. Got that?$b$bNow let's get started, shall we?"
+ },
+ {
+  "id": 11483,
+  "t": "We Can Rebuild It",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to bring him a Large Barrel, Industrial Strength Rope and Dark Iron Ingots.",
+  "d": "Tools? Check. Materials? Negative.$B$BIf we're going to build this thing, you're going to have to get me the materials.$B$BFirst things first, $N. For the skeletal structure I'm going to need a large barrel from Nifflevar, some dark iron ingots from Valgarde, and industrial strength rope from Baleheim.$B$BNifflevar and Baleheim are vrykul towns northwest of here. Valgarde is located in Daggercap Bay, also to the northwest. Speak with McGoyver to get the ingots. He'll fly you back here once you're all done.",
+  "p": "Have you got the infrastructure materials?",
+  "c": "Excellent. These combined with the skin will make for a flawless clone of the constructs the iron dwarves use."
+ },
+ {
+  "id": 11484,
+  "t": "We Have the Technology",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to bring him a Pristine Shoveltusk Hide and Steel Ribbing.",
+  "d": "While the infrastructure for a piece of machinery like this is important, we can't underestimate the appearance of the construct. If we're to fool the iron dwarves the clone must be exact!$B$BI can make this happen.$B$BBring me a pristine shoveltusk hide from the shoveltusk of this region and steel ribbing from vrykul in Nifflevar or Baleheim to the northwest.",
+  "p": "We'll be back collecting our relics in no time!",
+  "c": "I'll have the construct all ready to go as soon as the infrastructure is complete."
+ },
+ {
+  "id": 11485,
+  "t": "Iron Rune Constructs and You: Rocket Jumping",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to use the Iron Rune Construct's Rocket Jump ability at Walt's Iron Rune Carving.$B$BDismiss your construct by dismissing it from the pet window once you have completed the quest.",
+  "d": "Alright, $N; the time has come for you to climb inside this thing and learn how to use its basic abilities. When you're ready, get on the work bench and I'll get you situated inside the construct.$B$BYour first lesson is going to be using the construct's transportation system. You'll notice that the iron dwarves have set up special rune carvings around the dig site. Their constructs use those rune carvings to power up and fly from point to point. Try it with the rune carving I built here.$B",
+  "p": "Don't take any lip from these naysayers!",
+  "c": "You're almost ready to take this work of art into the field, $N!\n"
+ },
+ {
+  "id": 11486,
+  "t": "The Best of Brews",
+  "o": "Take the Dark Iron Ale Keg to Ipfelkofer Ironkeg in Dun Morogh.",
+  "d": "I know a bright $Glad:lass; like ya wants to stop the hostilities on the surface, eh? Ya want yer nice and merry Brewfest to go off without a hitch. I'll make ya a deal.$b$bTake this keg of our finest brew to the Brewfest Organizer outside Ironforge, so that we Dark Iron dwarves can be rightly represented! The best brew in all of Azeroth comes from right here in this mountain, and don't ya ferget it!",
+  "p": "What's this?",
+  "c": "So you visited the Dark Iron and sought to put a stop to their sabotage? They attacked again a bit ago. Seems a Dark Iron's word is as good as their brew, eh?$B$BStill, what you did to help is appreciated. Here, take a mug of the \"ale\" you brought from the depths of that mountain as your reward. Thirsty work, defeating all those Dark Irons!"
+ },
+ {
+  "id": 11487,
+  "t": "The Best of Brews",
+  "o": "Take the Dark Iron Ale Keg to Tapper Swindlekeg in Durotar.",
+  "d": "I know a bright $Glad:lass; like ya wants to stop the hostilities on the surface, eh? Ya want yer nice and merry Brewfest to go off without a hitch. I'll make ya a deal.$b$bTake this keg of our finest brew to the Brewfest Organizer outside Orgrimmar, so that we Dark Iron dwarves can be rightly represented! The best brew in all of Azeroth comes from right here in this mountain, and don't ya ferget it!",
+  "p": "What's that ya got there?",
+  "c": "So you visited the Dark Iron and sought to put a stop to their sabotage, eh, kid? They attacked again, you know. Seems a Dark Iron's word is as good as their brew.$B$BStill, what you did to help is appreciated, I guess. Here, take a mug of the \"ale\" you brought from the depths of that mountain as your reward. No, really. It's the least I can do."
+ },
+ {
+  "id": 11488,
+  "t": "Magisters' Terrace",
+  "o": "Exarch Larethor at the Shattered Sun Staging Area wants you to search Magisters' Terrace and find Tyrith, a blood elf spy.",
+  "d": "Welcome to the Sunwell, $c. Get yourself settled in and contribute however you can - there's much to do!$b$bMe? Yes, I have a little something that needs doing, but I'm not sure you're up to the task.$b$bWe've had a contact embedded in Magisters' Terrace gathering intelligence for us. He's recently failed to report and I'm growing concerned.$b$bThe terrace is just up the rise to the east. The information he was collecting is vital to our mission.$b$bThink you can handle it, $r?",
+  "p": "I don't remember ordering a cleaing service... why yes, I am Apothecary Hummel.$B$B...wait, what is the meaning of this? You think these meaningless papers can stop me? Hah!",
+  "c": "What we do here is none of your business..."
+ },
+ {
+  "id": 11489,
+  "t": "Iron Rune Constructs and You: Collecting Data",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to use the Iron Rune Construct's Collect Data ability while standing near the Iron Dwarf Relic.$B$BDismiss your construct by dismissing it from the pet window once you have completed the quest.",
+  "d": "The most important part of your job while controlling the construct is the collection of data. I've placed an iron dwarf relic in the cart over yonder. It's the floating, lightning infused crystal.$B$BGet on the work bench and I'll put you back in the construct. Once you're back in the driver's seat, use the construct's data collection ability to pick up the test data.",
+  "p": "",
+  "c": "Perfect! Works like a charm!"
+ },
+ {
+  "id": 11490,
+  "t": "The Scryer's Scryer",
+  "o": "Tyrith wants you to use the orb on the balcony in Magisters' Terrace.",
+  "d": "<Tyrith winces in pain as he speaks.>$b$bGo to the terrace... use the orb.$b$b...They're...feeding the sunwell....$b$b <Tyrith gasps for breath.>$b$bHurry... They must be stopped... before they can....$b$b<Tyrith dies.>",
+  "p": "Go and peer into the orb, mortal.",
+  "c": "I consider it to be no coincidence that our paths cross this day.$b$bI sense the tendrils of destiny...."
+ },
+ {
+  "id": 11491,
+  "t": "Iron Rune Constructs and You: The Bluff",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to use the Iron Rune Construct's Bluff ability on Lebronski after you've walked on his rug.$B$BDismiss your construct by dismissing it from the pet window once you have completed the quest.$B",
+  "d": "You always gotta have a contingency plan in case your main plan backfires! That's why I've built in some anti-intelligence systems into the construct.$B$BYour shiny new ride might rouse some suspicion while you're at Baelgun's excavation site. That's what your bluff ability is for! Just use that any time you're confronted and you'll be safe from harm.$B$BTest it out on Lebronski by walking on his rug. Once he starts huffin' and puffin', use the bluff!$B$BGet on the work bench when you're ready to begin.",
+  "p": "Don't worry about him, $n. He'll get over it...",
+  "c": "You showed him! Now it's time to put you in the field.$B$BFeeling confident, I hope..."
+ },
+ {
+  "id": 11492,
+  "t": "Hard to Kill",
+  "o": "Kalecgos has asked you to defeat Kael'thas in Magisters' Terrace. You are to take Kael's head and report back to Larethor at the Shattered Sun Staging Area.",
+  "d": "Welcome to the Sunwell, mortals. Your arrival is indeed timely.$b$bAs you've now witnessed, the Legion forces work tirelessly, manipulating the Sunwell's power to achieve their malevolent ends.$b$bKael'thas has risen from the ashes of defeat and once more leads them in their efforts. Find him, mortals. He must again be stopped.$b$bOther, equally urgent matters require my immediate attention. I shall leave Kael's fate to you. Do not fail.$b$bWith luck, we shall speak again.",
+  "p": "Well, $c, I must admit, I wasn't sure I'd see you again.$b$bWhat news do you bring?",
+  "c": "<Larethor listens intently as you explain your deeds in Magisters' Terrace.>$b$bTyrith will be missed - good man, that one. Thanks to you though, his death wasn't in vain.$b$bI've underestimated you, $r. Please, accept this on behalf of the Sunwell Offensive - a gift worthy of a hero such as yourself."
+ },
+ {
+  "id": 11494,
+  "t": "Lightning Infused Relics",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to use the Iron Rune Construct's Collect Data ability to collect 15 sets of Iron Rune Data.$B$BDismiss your construct by dismissing it from the pet window once you have completed the quest.",
+  "d": "Your construct is ready to go. All abilities have been given a once over and I've programmed the machine to both comprehend and speak the language of the titans.$B$BTake the construct to Baelgun's Excavation Site, due south of here, and collect data from the lightning infused relics that litter the site. Remember to bluff any iron dwarves that suspect your construct to be a fake. And don't forget about rocket jumping from rune to rune to get around in there!$B$BGet on the table when you're ready!",
+  "p": "",
+  "c": "And once again Walt proves that he is indeed the top dwarf! What do you think of my construct now, Lebronski!$B$BThank you, $N. This data will undoubtedly prove to be invaluable - as soon as I figure out how to get it out of the construct."
+ },
+ {
+  "id": 11495,
+  "t": "The Delicate Sound of Thunder",
+  "o": "Walt at the Explorers' League Outpost in the Howling Fjord wants you to use the Iron Rune Construct to explore the thundering cave at Baelgun's Excavation Site.$B$BDismiss your construct by dismissing it from the pet window once you have completed the quest.",
+  "d": "The cavern that we opened at Baelgun's was the one place that most steered clear of... Can't say I blame 'em. The sound of thunder shot out of that cave, $N! Loud, booming thunder!$B$BI think near the end, it was abandoned by all. Bad, bad things happened to any that went in to explore - most never coming back.$B$BI want you to check that cave out while you're at Baelgun's. Explore around the titan statue inside and report back with your findings.",
+  "p": "Any luck?",
+  "c": "Incredible! What could those iron menaces be up to? What are they doing in the Storm Peaks? And what is this Loken!? I'll forward this information to our central base of operations in the Dragonblight, $N. I'll also let 'em know that you were invaluable in the acquisition of said info."
+ },
+ {
+  "id": 11496,
+  "t": "The Sanctum Wards",
+  "o": "Captain Theris Dawnhearth at the Shattered Sun Staging Area wants you to obtain 4 Mana Remnants from Wretched Fiends and Wretched Devourers and use them to energize one of the Crystal Wards surrounding the Sun's Reach Sanctum to the east.",
+  "d": "Our first priority is to capture the Sun's Reach Sanctum.  Once we've secured it, we'll be able to use its energy to open a portal from Shattrath.$B$BThe sanctum is overrun with the Wretched - former blood elves who've devolved into mindless husks of their former selves.  Its defenses would've normally prevented this intrusion, but the Wretched have stolen the power sources from the protective wards.$B$BHunt down the Wretched and get the mana remnants they carry.  Use them to energize the sanctum wards.",
+  "p": "Have you reactivated the crystal wards, $n?",
+  "c": "Good work, $N. The wards are slowly regaining their power. The sanctum will be ours in no time!"
+ },
+ {
+  "id": 11497,
+  "t": "Learning to Fly",
+  "o": "Speak with Ilsa Blusterbrew at Wildhammer Stronghold in Shadowmoon Valley.",
+  "d": "Though it may end up hurting my business in the long run, you look the sort that dreams of flying $g his : her; own mount through the skies, rather than being flown from place to place.$B$BI understand the feeling completely.$B$BYou, my friend, need to head to Wildhammer Stronghold in the southwest corner of Shadowmoon Valley. When you get there, speak with Ilsa Blusterbrew about some flight instruction. Mind you, her training's not cheap. But, I think that you'll find it worth your while.",
+  "p": "",
+  "c": "So, me boyo, Nutral, sent ya along did he?  Good man... I'll need ta remember ta send him along a pint fer all o' the business he's sendin' me way.$B$BIf it's the learnin' o' how ta fly right and proper yer after, ye've come ta the right place. No one flies finer than us Wildhammer and those we train. Fer a fee, and not a small one mind ya, I'll teach ya how ta soar through the skies!$B$BAnd when yer done, don't forget ta talk ta Brunn over there about buying one o' these gryphon beauties!"
+ },
+ {
+  "id": 11498,
+  "t": "Learning to Fly",
+  "o": "Speak with Olrokk at Shadowmoon Village in Shadowmoon Valley.",
+  "d": "Though it may end up hurting my business in the long run, you look the sort that dreams of flying $g his : her; own mount through the skies, rather than being flown from place to place.$B$BI understand the feeling completely.$B$BYou, my friend, need to head to Shadowmoon Village in the northwest corner of Shadowmoon Valley. When you get there, speak with Olrokk about some flight instruction. Mind you, his training's not cheap. But, I think that you'll find it worth your while.",
+  "p": "",
+  "c": "Blood and thunder, Nutral sent me another ground grunt! Good man... for a draenei.$B$B<Olrokk spits on the ground near your feet.>$B$BYou've come to the right place if you want to learn how to ride your own mount through the skies. In return for a big sack of gold, I'll teach you what you need to know and not fall dishonorably to your death.$B$BAnd when you're done, don't forget to talk to Dama Wildmane over there about buying one of the windriders from our stable!"
+ },
+ {
+  "id": 11499,
+  "t": "Wanted: The Signet Ring of Prince Kael'thas",
+  "o": "Wind Trader Zhareem has asked you to obtain The Signet Ring of Prince Kael'thas. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed at the Magisters' Terrace on Heroic difficulty.",
+  "d": "$C, today I ask the impossible. Today, you must obtain the signet ring of Kael'thas Sunstrider, lord of the blood elves!$B$BIt's true, the rumors of his death within Tempest Keep were ill-founded. He has appeared once more, this time at the Magisters' Terrace on the Isle of Quel'Danas. What he is doing there is a tale for someone else to tell you. What I know is that I have innumerable collectors interested in his princely ring, and I mean to acquire it for them.$B$BOr rather, I mean for you to do so.",
+  "p": "The Magisters' Terrace must be a very dangerous place indeed being so close to the Sunwell.$b$bI trust that you're not having second thoughts?",
+  "c": "So, the blood elf prince is truly dead this time? A pity, I always thought he had class. To think that one so lofty could be brought down for such a paltry sum.$b$bBut as they say, business is business. Your reward is earned, adventurer.$b$bCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11500,
+  "t": "Wanted: Sisters of Torment",
+  "o": "Nether-Stalker Mah'duun wants you to slay 4 Sisters of Torment. Return to him in Shattrath's Lower City once you have done so in order to collect the bounty.",
+  "d": "It has been whispered to Mah'duun that the sisters of torment are to be sent back to the hells from which they sprang.$B$BMah'duun knows that these demons can be found at the Magisters' Terrace on the Isle of Quel'Danas.$B$BYou will do this thing to earn the bounty, or you will not.",
+  "p": "That which speaks speaks upon nether winds whispers to Mah'duun. It says that you have not yet dealt with the sisters.$b$bDoes $n care nothing for the bounty?",
+  "c": "Who can say why the demonic sisters needed to be slain? Do you care?$b$bMah'duun thinks you care enough to collect the bounty, though.$b$bReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11501,
+  "t": "News From the East",
+  "o": "Speak with Captain Adams at Westguard Keep.",
+  "d": "Westguard needs to know what's going on here, $N. I want you to personally deliver the news to Captain Adams.$B$BWhenever you're ready, let me know and I'll put you back in the construct for one final flight. It'll take you to Westguard Keep, but more than likely blow up in the process.$B$BIt's been a pleasure...",
+  "p": "",
+  "c": "Wonderful... As if having the Scourge all up our you-know-whats wasn't enough, now we got some angry ancient titan construct to deal with!$B$BI'll need some time to chew on this information, $r. In the meantime there's plenty of work that needs doing here."
+ },
+ {
+  "id": 11502,
+  "t": "In Defense of Halaa",
+  "o": "Defeat 10 enemy players in Halaa and return to Lakoor in Telaar.",
+  "d": "We are not a warlike race, $r.  However when war comes to our lands, we do not run away from it.$B$BThe Alliance and the Horde wage war in the city of Halaa, to the northwest. We do not know what the blood elves are scheming, but any victory for the Horde would be disastrous.  The history between our people and the orcs is one of bloodshed and betrayal.$B$BGo and slay the enemy in Halaa and you will be rewarded in coin, honor and renown.",
+  "p": "Is your task done, $n?",
+  "c": "I thank you, $N. Your efforts will not be ignored."
+ },
+ {
+  "id": 11503,
+  "t": "Enemies, Old and New",
+  "o": "Defeat 10 enemy players in Halaa and return to Karrtog in Garadar.",
+  "d": "Our ancient enemy, the draenei, have returned with powerful allies.  They wage war in Halaa, southwest of here.$B$BWe cannot allow them a victory there as Garadar would be next without a doubt.$B$BGo and slay those who would aid our ancient enemy.",
+  "p": "Is your task done, $N?",
+  "c": "You bring great honor to our people. You have our thanks."
+ },
+ {
+  "id": 11504,
+  "t": "The Dead Rise!",
+  "o": "Orfus of Kamagua at the Ancient Lift in the Howling Fjord wants you to find Fengir's Clue, Rodin's Clue, Isuldof's Clue and Windan's Clue.",
+  "d": "The path east of us is a primary hunting trail of the tuskarr. At least that's what it used to be...$B$BMore recently our hunters have been returning to Kamagua claiming that the dead have risen and are out for blood! That is what has brought my son and me here. Elder Atuik asks that we find resolution in the bluffs.$B$BWill you assist us in our time of need? I seek heroes willing to brave the perils of Shield Hill, southeast of here. Search the desecrated graves for clues and return your findings to me.",
+  "p": "The tuskarr need your help!",
+  "c": "<Orfus's whiskers bristle.>$B$BPirates... Is there no end to the depths of their depravity?$B$BWe must recover the stolen artifacts and return them to this cursed place so that my people may once more know peace."
+ },
+ {
+  "id": 11505,
+  "t": "Spirits of Auchindoun",
+  "o": "Help the Alliance secure a tower in the Bone Wastes.",
+  "d": "Auchindoun's spirits have no stake in the conflict between the Alliance and the Horde, but incurring their favor will give our side an edge in the region.$B$BAncient custom directs the living to pay their respects at spirit towers in the Bone Wastes - though only at specific times of the day.  If you can help secure a tower during these times, you will have helped bring the spirits to our side.$B$BShould we succeed in gaining the spirits' favor, they will grant us a boon that will aid us in our endeavors.",
+  "p": "The spirits are restless, $n. Have you accomplished your task?",
+  "c": "The spirits are one step closer to resting in peace. It is good to incur their favor, especially when waging war so close to their place of rest."
+ },
+ {
+  "id": 11506,
+  "t": "Spirits of Auchindoun",
+  "o": "Help the Horde secure a Spirit Tower in the Bone Wastes.",
+  "d": "The draenei might be our enemies, but the spirits of their ancestors in Auchindoun are restless and have no allegiance.$B$BThe draenei's custom required them to pay their respects at spirit towers at various times during the day.  If you can help secure a tower during these times, you will help the spirits return to peace in Auchindoun.$B$BThe Alliance will try to capture the towers in order to secure the dead's favor.   We must ensure that our side succeeds instead.",
+  "p": "The spirits of Auchindoun are all around us. Will they grant us their boon?",
+  "c": "The spirits are closer to finding peace and have bestowed their favor onto us.$b$bA humiliating blow to our enemy that their own ancestors would side against them, even if only temporarily."
+ },
+ {
+  "id": 11507,
+  "t": "Elder Atuik and Kamagua",
+  "o": "Orfus of Kamagua in the Howling Fjord wants you to deliver Orfus's Bundle to Elder Atuik at Kamagua.",
+  "d": "<Orfus bundles up the clues you brought him.>$B$BMy people are bitterly entrenched in a war with the Northsea Freebooters. If any tuskarr could help us in our quest to right the wrongs of the pirates, it will be Elder Atuik of Kamagua. You must take these clues to him at once.$B$BTo get to Kamagua you must take the Ancient Lift, behind me. Take the lift directly to Kamagua and find Elder Atuik.",
+  "p": "News from Orfus?",
+  "c": "Orfus is a good tuskarr - one of our strongest warriors. I knew he would not let us down.$B$BAllow me to see what it is that you have brought.\n"
+ },
+ {
+  "id": 11508,
+  "t": "Grezzix Spindlesnap",
+  "o": "Speak with Grezzix Spindlesnap.",
+  "d": "The pirate thieves have set up port at Scalawag Point, far to the south. Unfortunately, they have fortified their camp with many deadly defenses.$B$BThere is someone that might be able to assist us in infiltrating Scalawag.$B$BA pirate mercenary by the name of Grezzix Spindlesnap recently came to our village in search of food and shelter. In exchange he gives us information about our enemies and feeds them misinformation about our attack plans. Seek him out at his ship just off the coast here - southwest.",
+  "p": "",
+  "c": "Yarr, matey. Grezzix never did like to get his hands dirty! A pirate's life for Grezzix is a good one, so long as Grezzix doesn't have to do any of the work.$B$BI've seen those artifacts. It's the reason I'm here and not at Scalawag myself! Bad, bad things those are...$B$BHey, it's your life though, right? You wanna get inside Scalawag and Grezzix can help."
+ },
+ {
+  "id": 11509,
+  "t": "Street \"Cred\"",
+  "o": "Speak with \"Silvermoon\" Harry at Scalawag Point about the missing Vrykul artifacts.",
+  "d": "The Northsea Freebooters all fear and respect Grezzix. I'm thinking they recognize my special talents and envy my amazing ship. All you need to do is tag along with my cabin boy, Lou, and you'll be in like... In like tin. Pirates love tin.$B$BJust talk to Lou when you're ready to go and he'll take you to Scalawag.$B$BOh yea, you'll want to talk to \"Silvermoon\" Harry first. He'll have more information on the stuff they pilfered. Just watch what you say around him. He's a freak... crazy for blood elves.",
+  "p": "",
+  "c": "<Harry raises an eyebrow at you.>$B$BSo you're like me, eh? A little eccentric.$B$B<Harry whispers.>$B$BNobody dresses like that around here.$B$BAbout those artifacts... Everyone that came into contact with that stuff has ended up dead, missing or both.$B$BIf you're still interested in learning more, I can help - but it'll cost you.$B$B<Harry winks.>$B$BYou scratch my back and I'll try to not stick a dagger in yours."
+ },
+ {
+  "id": 11510,
+  "t": "\"Scoodles\"",
+  "o": "\"Silvermoon\" Harry at Scalawag Point wants you to recover his Sin'dorei Scrying Crystal from the orca, \"Scoodles.\"",
+  "d": "One of the first things Jonah Sterling did after he went crazy was to take my prized sin'dorei scrying crystal and feed it to the bane of my existence, \"Scoodles\" the orca.$B$BNo I didn't name the damned thing. I just know that she swims out past the ships directly southeast of Scalawag. Kill that overinflated goldfish and rip out my beautiful sin'dorei crystal from its stomach.$B$BDo this and we can get down to business.",
+  "p": "Are you lost?",
+  "c": "<Harry takes the crystal from you and gently pets it.>$B$BOh my precious! Did the big, mean whale hurt you? It'll be ok. I'll never let you out of my sight again!$B$B<Harry looks up at you.>$B$BSo, where were we?"
+ },
+ {
+  "id": 11511,
+  "t": "The Staff of Storm's Fury",
+  "o": "Recover the Staff of Storm's Fury and deliver it to Orfus of Kamagua in the Howling Fjord.$B",
+  "d": "Those artifacts are cursed and you'd be crazy to go looking for them, $r. I know for certain that anyone that's come into direct contact with any of those items has either gone mad or been killed.$B$BTake that staff, for example. Last I heard the ship that held it was abandoned and left to rot on the coast of the Isle of Spears, north of here.$B$BIf you want that thing, check the ship's hold.$B$BWhatever you do, don't bring that staff back here! And steer clear of Abdul! He'll tear your heart out.",
+  "p": "You have the staff?",
+  "c": "We must return all of the artifacts, $N. When all four are gathered, you will put them back in their graves."
+ },
+ {
+  "id": 11512,
+  "t": "The Frozen Heart of Isuldof",
+  "o": "Recover the Frozen Heart of Isuldof and deliver it to Orfus of Kamagua in the Howling Fjord.",
+  "d": "Some say Jonah was never quite right in the head, but I know the truth. It was the heart. That damned frozen heart! I saw the change in him the second he pulled it from the grave. I could see the blood freeze in his veins... It was then that the madness truly took over.$B$BHe left us to hole up in his cave on the north side of this island. Last I heard he had thrown the heart in the back of his bear den. Too little, too late...$B$BI'll kill you myself if you even think about bringing that heart back here!",
+  "p": "The... The Frozen Heart of Isuldof?",
+  "c": "We must return all of the artifacts, $N. When all four are gathered, you will put them back in their graves."
+ },
+ {
+  "id": 11513,
+  "t": "Intercepting the Mana Cells",
+  "o": "Obtain 10 Smuggled Mana Cells and return them to Exarch Nasuun on the Terrace of Light in Shattrath City.",
+  "d": "I have devised a plan to acquire a power source strong enough for the creation of our portal.$B$BThe ethereal forces at Bash'ir Landing, atop the northwestern Blade's Edge Mountains, have been smuggling mana cells out of Tempest Keep and transporting them to the Sunwell for Kael'thas.$B$BThey have hidden the cells, but there is a way for you to find them; the ethereal carry phase devices that you can use to see the smuggled goods.$B$BJust beware the mana cells' phase wyrm guardians.",
+  "p": "Did you acquire the mana cells?",
+  "c": "These mana cells are vital to our efforts. We will have the portal to the Sunwell Isle created in no time!$b$bReturn tomorrow and I will send you out to acquire more of them from our Bash'ir 'friends'."
+ },
+ {
+  "id": 11514,
+  "t": "Maintaining the Sunwell Portal",
+  "o": "Obtain 10 Smuggled Mana Cells and return them to Exarch Nasuun on the Terrace of Light in Shattrath City.",
+  "d": "We must maintain the energy to our portal or it will collapse. The mana cells that the ethereals at Bash'ir Landing have hidden will continue to serve our purposes. The landing sits atop the northwestern corner of the Blade's Edge Mountains, far to the north.$B$BRemember, acquire a phase device from one of the ethereals and then use it to locate the smuggled goods.$B$BJust be cautious of the phase wyrms that they use to guard the mana cells.",
+  "p": "$n, how fare your efforts to obtain mana cells for us this day?",
+  "c": "These mana cells will continue to power the portal.$b$bReturn tomorrow and I will send you out to obtain more."
+ },
+ {
+  "id": 11515,
+  "t": "Blood for Blood",
+  "o": "Magistrix Seyla at the Throne of Kil'jaeden wants you to kill 4 Emaciated Felbloods by using the Fel Siphon on them.  You will need Demonic Blood from nearby Wrath Heralds to power the Fel Siphon.",
+  "d": "When Kael's forces retreated through that portal, his most loyal lackeys were rewarded with an abominable gift.  They  stayed behind and gorged themselves on the blood of demons for days.$B$BThe blood has changed them, given them new powers.  It will also prove their undoing.$B$BObtain blood samples from other demons.  Use them to power this fel siphon and deprive these arrogant fools of their new powers.  Slay them in their weakened state and return to me.",
+  "p": "These freaks are a disgrace to our race.  You must destroy them, $n.",
+  "c": "Fools.  They learned to drain fel energy but did not learn how to retain it.$b$bWe were lucky, $N.  An experienced felblood would've surely been a formidable opponent."
+ },
+ {
+  "id": 11516,
+  "t": "Blast the Gateway",
+  "o": "Magistrix Seyla at the Throne of Kil'jaeden wants you to use the Sizzling Embers to summon a Living Flare and slay Incandescent Fel Sparks near it until it becomes an Unstable Living Flare.  Return to the Legion Gateway with the Unstable Living Flare to destroy it.",
+  "d": "We have to shut down this gateway to stop Legion reinforcements to the Isle of Quel'Danas.$B$BTake these embers, they contain one of my creations: a living flare.  It is designed to act as a powerful destructive force - as long as it has been provided enough energy.$B$BFind the fel sparks that wander the area and slay them near the living flare.  The flare will grow in power each time, until it becomes unstable.$B$BOnce you've achieved this bring the flare to the gateway.  It will know what to do.",
+  "p": "Is it done, $n?  We must stop further Legion forces from reinforcing Kael'thas.",
+  "c": "Excellent work, $N.  The demons might repair the gateway in due time.  I suppose we'll just have to blow it up again."
+ },
+ {
+  "id": 11517,
+  "t": "Report to Nasuun",
+  "o": "Tradesman Portanuus has asked you to speak with Exarch Nasuun on the Terrace of Light in Shattrath City.",
+  "d": "I am most glad that you are here, $c! Now that we have taken this sanctum, we must hurry to create a magical portal that will lead to here from Shattrath City in the Outland.$B$BMy liege lord, Exarch Nasuun, is heading up the Offensive's efforts to do just that. He asked me to send along any promising candidates who have what it takes to help with the portal's creation.$B$BPlease, travel to Shattrath City and speak with him inside A'dal's chamber on the Terrace of Light.",
+  "p": "",
+  "c": "Portanuus sent you? Good, we haven't any time to spare!"
+ },
+ {
+  "id": 11519,
+  "t": "The Lost Shield of the Aesirites",
+  "o": "Speak with Captain Ellis aboard the Sister Mercy.",
+  "d": "If you listen real close you can hear cannon fire coming from the northeast. That's Captain Ellis's ship, Sister Mercy. Thing is, Ellis and his entire crew were killed 'bout a month ago.$B$B<Harry nods.>$B$BGhost ship...$B$BIf it's info you be wantin' 'bout the shield, Ellis is the man to ask.$B$BSister Mercy docks on the small island between here and Sorlof's Strand to pick up more souls for the ship's crew 'bout once every five minutes. There be no shortage of souls 'round these parts...",
+  "p": "",
+  "c": "Arrr, me'n'me crew pilfered that thar shield! We be tryin' to get her back from that no good, landlubbin' scallywag, Sorlof! Ye come to help, arrr?$B$BWell, as ye can see we be runnin' a skeleton crew!$B$B<Captain Ellis laughs.>$B$BSister Mercy be needin' another powder monkey to man the big'uns o'er on the poop deck. Think ye be up to the job, me hearty?$B$BHelp me crew take Sorlof down and we'll split the booty! Ye can have the shield, me'n'me crew gets the rest!"
+ },
+ {
+  "id": 11520,
+  "t": "Discovering Your Roots",
+  "o": "Mar'nah at Sun's Reach Harbor wants you to travel to Razorthorn Rise in Outlands, collect 5 Razorthorn Roots, and return to her.",
+  "d": "Greetings, $r.$b$bI'm afraid I have little to offer here until my reagents are stocked.$b$bOf the supplies I require, there is a special reagent, razorthorn root, that is particularly difficult to harvest.$b$bFortunately, I know a secret....$b$bUsing the glands of the Razorthorn flayers, one can control a ravager there and use it to expose a root.$b$bTo find the roots, travel to Outlands and fly northeast from Shattrath until you reach Razorthorn Rise.",
+  "p": "Really, $n, I'm far too busy for idle chatter.$b$bLet me know when you've gathered those roots.",
+  "c": "These should do nicely, $c.$b$bI thank you for your assistance."
+ },
+ {
+  "id": 11521,
+  "t": "Rediscovering Your Roots",
+  "o": "Mar'nah at Sun's Reach Harbor wants you to travel to Razorthorn Rise in Outlands, collect 5 Razorthorn Roots, and return to her.",
+  "d": "My stocks are presently sufficient, but I'll need plenty of razorthorn roots to keep up with the demand.$b$bCollecting the roots is difficult, but I know a special method of extraction.$b$bUsing the glands of the Razorthorn flayers, one can control a ravager there and use it to expose a root.$b$bTo find the roots, travel to Outlands and fly northeast from Shattrath until you reach Razorthorn Rise.$b$bReturn to me, $n, once you have collected five of the roots.",
+  "p": "Really, $n, I'm far too busy for idle chatter.$b$bLet me know when you've gathered those roots.",
+  "c": "Excellent work, $N.$b$bThank you again for your help!"
+ },
+ {
+  "id": 11523,
+  "t": "Arm the Wards!",
+  "o": "Captain Theris Dawnhearth at the Shattered Sun Staging Area wants you to obtain 4 Mana Remnants from Wretched Fiends and Wretched Devourers and use them to energize one of the Crystal Wards surrounding the structures in Sun's Reach.",
+  "d": "We've succeeded in reactivating the crystal wards around the sanctum, but why stop there?  We'll build defenses around the other structures, but the Wretched are stubborn and continue to steal power from the crystal wards.$B$BHunt them down and get the mana remnants they carry.  Use the remnants to energize the sanctum wards; the safety of our operation depends on it.",
+  "p": "Have you reactivated a crystal ward, $n?",
+  "c": "Good work, $N. The wards are slowly regaining their power. Sun's Reach will be ours in no time!"
+ },
+ {
+  "id": 11524,
+  "t": "Erratic Behavior",
+  "o": "Vindicator Xayanna at the Shattered Sun Staging Area wants you to place the Attuned Crystal Cores inside 5 defeated Erratic Sentries to turn them into friendly units.",
+  "d": "We lack the numbers to capture the Sanctum at Sun's Reach, but I've a plan that will tip the scales in our favor.$B$BThe loose energy from the Sunwell has caused the sentries that patrol this island to malfunction.  The crystal cores that control their behavior are damaged beyond repair.$B$BI've crafted new crystals that will bring them under our control; place them inside of the hulls of defeated sentries.  We will need all the help we can get.",
+  "p": "Have you converted the sentries, $n?",
+  "c": "Good job, $N.  The sanctum will be ours in no time!"
+ },
+ {
+  "id": 11525,
+  "t": "Further Conversions",
+  "o": "Vindicator Xayann at the Shattered Sun Staging Area wants you to place the Attuned Crystal Cores inside 5 defeated Erratic Sentries to turn them into friendly units.",
+  "d": "My plan to replace the damaged crystals on the erratic sentries has been a success.  We've managed to take the Sun's Reach Sanctum with their help.$B$BI've crafted new crystals that will bring more of them under our control; place them inside the hulls of defeated sentries.  We'll deploy them to other locations once they're converted.",
+  "p": "Have you converted the sentries, $n?",
+  "c": "Excellent.  The converted sentries will help to secure our perimeter."
+ },
+ {
+  "id": 11526,
+  "t": "The Missing Magistrix",
+  "o": "Use the Captured Legion Scroll near the portal at Dawning Square.  Once you've gone through the portal, find Magistrix Seyla.",
+  "d": "We sent one of our operatives to investigate the fel portal in the middle of Dawning Square, south of here.  She never returned.$B$BTake this scroll we found on one of the enemy corpses.  We believe it will grant you access through the portal.  Once through, find Magistrix Seyla and aid her in any way you can.",
+  "p": "Keep quiet, $c.  The Legion's forces watch the south of the gate.",
+  "c": "It's very sweet of Theris to worry about my hide, but we've got bigger problems here.  Much bigger."
+ },
+ {
+  "id": 11527,
+  "t": "Mutiny on the Mercy",
+  "o": "Captain Ellis aboard the Sister Mercy in the Howling Fjord has asked that you recover 5 Barrels of Blasting Powder from the ship's hold.$B",
+  "d": "Aye, we got problems, matey. Me gunners have mutinied! M'n'the crew up top be tryin' to kick Sorlof's keester while dealin' with the mutinous gunners down'blo.$B$BYe're gonna have to go down'blo and deal with those mutinous sea dogs and take their blastin' powder for the big'un o'er on the poop deck.$B$BWith ye mannin' the big'un, Sorlof is sure to die and give up the booty!",
+  "p": "Mutinous sea dogs and giants abound!",
+  "c": "Here's to hopin' those treacherous bilge rats learned their lessons! Now it be time to man the big'un, matey!"
+ },
+ {
+  "id": 11529,
+  "t": "Sorlof's Booty",
+  "o": "Slay Sorlof using the Big Gun and recover Sorlof's Booty. Return Sorlof's Booty to Captain Ellis aboard the Sister Mercy.",
+  "d": "Me crew is gonna get the big'un all primed an'ready for ya, matey. She's restin' snuggly on the bow, o'er on the other side of the ship. Go'n man it and be ready to fire when Sorlof is in our sights!$B$BOnce we take that landlubber down, ye'll have to recover the booty for us, seein' as how we can't leave the damned ship! Bring that booty back to me and ye'll get your cut - the shield...",
+  "p": "Smartly, me hearty!",
+  "c": "A deal's a deal, me hearty!"
+ },
+ {
+  "id": 11530,
+  "t": "The Shield of the Aesirites",
+  "o": "Return the Shield of the Aesirites to Orfus of Kamagua at the Ancient Lift in the Howling Fjord.",
+  "d": "Here's yer shield. Me hopes it doesn't curse ye like it did me'n'me crew. Ye don't have to go home, but ye can't stay here... I be certain that thar be some that would be interested in getting' it back.$B$BNow get that thing off me ship!",
+  "p": "You have returned!",
+  "c": "We must return all of the artifacts, $N. When all four are gathered, you will put them back in their graves.\n"
+ },
+ {
+  "id": 11531,
+  "t": "Strange Engine Part",
+  "o": "Take the Strange Engine Part to K. Lee Smallfry in Telredor.",
+  "d": "This strange engine part doesn't look like it fits in a steam pump, much less anything else you've seen.  Perhaps K. Lee Smallfry might know something about it.",
+  "p": "Oh goodness!  What've you got there, $N?",
+  "c": "<K. Lee looks at the engine part and then stares off into the distance for a moment.>$B$BThis is somethin' real special.  Difficulty to say where it's from--like it just fell out of the sky. I'm gonna hold on to this and pay you for your troubles.$B$BBetween you and me though, I think it's best if we didn't mention this to anyone.$B$B<K. Lee puts on her most charming smile.>"
+ },
+ {
+  "id": 11532,
+  "t": "Distraction at the Dead Scar",
+  "o": "Battlemage Arynna wants you to speak to Ayren Cloudbreaker when you're ready to fly over the Dead Scar.  Once there, use the Arcane Charges to kill 2 Pit Overlords, 3 Eredar Sorcerers and 12 Wrath Enforcers.",
+  "d": "The Legion will move against us as soon as their forces to the south are freed up.  The Scourge at the Dead Scar are keeping their forces occupied at the moment.  It won't last long, however.$B$BI want you to fly a dragonhawk over to the scar and put a dent in the demons' numbers with these arcane charges.$B$BIf all goes well, they won't even notice us taking the armory from Kael's lackeys.  Talk to Ayren, the dragonhawk master in the west part of the harbor, when you're ready to fly there.",
+  "p": "Have you accomplished your mission, $n?",
+  "c": "You've got some real talent, kid.  Did you ever think of joining the Skyguard?$b$bI jest, $N.  We need you here if we want to take the docks any time soon."
+ },
+ {
+  "id": 11533,
+  "t": "The Air Strikes Must Continue",
+  "o": "Battlemage Arynna wants you to speak to Ayren Cloudbreaker when you're ready to fly over the Dead Scar.  Once there, use the Arcane Charges to kill 2 Pit Overlords, 3 Eredar Sorcerers and 12 Wrath Enforcers.",
+  "d": "We've taken the armory from the enemy thanks to our aerial attacks against the Legion's forces in the Dead Scar.$B$BAs a matter of fact, it's gone so well that we're going to continue our air strikes against them.  Take these arcane charges and use them against their forces.$B$BTalk to Ayren Cloudbreaker at the Sun's Reach Harbor when you're ready for flight.",
+  "p": "Have you accomplished your mission, $n?",
+  "c": "Any demons we kill today are demons that we do not have to fight tomorrow.  Keep it up."
+ },
+ {
+  "id": 11534,
+  "t": "Report to Nasuun",
+  "o": "Tradesman Portanuus has asked you to speak with Exarch Nasuun on the Terrace of Light in Shattrath City.",
+  "d": "I am most glad that you are here, $c! When we took this sanctum from the wretched, we hurried to create a magical portal that leads here from Shattrath City in the Outland.$B$BMy liege lord, Exarch Nasuun, is heading up the Offensive's efforts to maintain that portal. He asked me to send along any promising candidates who have what it takes to help with acquiring more energy to fuel it.$B$BPlease, travel to Shattrath City and speak with him inside A'dal's chamber on the Terrace of Light.",
+  "p": "",
+  "c": "Portanuus sent you? Good, we haven't any time to spare!"
+ },
+ {
+  "id": 11535,
+  "t": "Making Ready",
+  "o": "Smith Hauthaa in Sun's Reach Armory wants you to kill Darkspine Myrmidon to the east and use their keys to steal three pieces of the ore from their chests.",
+  "d": "Supplies are inbound, or so I'm told.$b$bRegardless, we can ill afford to wait around hoping that help arrives before our offensive stalls. We must make the best of what we have.$b$bAs for me, I need ore to fashion an anvil so I can begin to upgrade our armor and weapons.$b$bThere are a group of naga on the coast to the east of here collecting ore and placing it in chests for shipment to the Legion.$b$bRelieving them of their ore will help our efforts in more ways than one....",
+  "p": "Have you gathered the ore I need?",
+  "c": "Excellent! We're getting closer....$b$bSoon I'll be able to craft an anvil, then the real work can begin."
+ },
+ {
+  "id": 11536,
+  "t": "Don't Stop Now....",
+  "o": "Smith Hauthaa in Sun's Reach Armory wants you to kill Darkspine Myrmidon to the east and use their keys to steal three pieces of the ore from their chests.",
+  "d": "Now that we have an anvil, I can really get to work.$b$bNo matter how many supplies we receive, I'll always be able to put the Darkspine Iron Ore to good use. We'll need a constant supply of weapons and armor if we're to be successful here.$b$bThere are a group of naga on the coast to the east of here. They're collecting ore and placing it in chests for shipment to the Legion. Relieving them of their ore will help our efforts in more ways than one....",
+  "p": "Have you gathered the ore I asked for?",
+  "c": "Excellent! This will help me keep our soldiers in weapons and armor.$b$bYour help is truly making a difference!"
+ },
+ {
+  "id": 11537,
+  "t": "The Battle Must Go On",
+  "o": "Harbinger Inuuro wants you to slay 6 Burning Legion Demons and the Emissary of Hate in Dawning Square.  Use the Shattered Sun Banner to impale the Emissary of Hate's corpse.",
+  "d": "We must continue to defeat and demoralize the armies of the Legion.$B$BThe emissaries of hate are Legion shocktroopers deployed to reinforce tactical Legion positions.  The enemy rallies around them for they fear them more than they fear us.$B$BToday we will change that.  Take this banner and slay the demons of the Legion.  When you meet the emissary, slay and impale him.",
+  "p": "Have you succeeded, $n?",
+  "c": "Your dedication is exemplary, $N.  We will show the forces of the Burning Legion what we're capable of."
+ },
+ {
+  "id": 11538,
+  "t": "The Battle for the Sun's Reach Armory",
+  "o": "Harbinger Inuuro wants you to slay 6 Burning Legion Demons and the Emissary of Hate in Dawning Square or the Sun's Reach Armory.  Use the Shattered Sun Banner to impale the Emissary of Hate's corpse.",
+  "d": "The Burning Legion holds the Sun's Reach Armory, which is of tactical importance to our operation.  As long as their morale remains high we will not wrest the building from their control.$B$BThe emissaries of hate are Legion shocktroopers deployed to reinforce tactical Legion positions.  The enemy rallies around them for they fear them more than they fear us.$B$BToday we will change that.  Take this banner and slay the demons of the Legion.  When you meet the emissary, slay and impale him.",
+  "p": "Have you done what I asked of you, $n?",
+  "c": "Your dedication is exemplary, $N.  We will take the armory from the forces of the Legion in no time!"
+ },
+ {
+  "id": 11539,
+  "t": "Taking the Harbor",
+  "o": "Magister Ilastar at Sun's Reach Armory wants you to slay 6 Dawnblade Summoners, 6 Dawnblade Blood Knights and 3 Dawnblade Marksmen.",
+  "d": "One of Kael's most elite forces, the Dawnblade army, has been stationed at the Sun's Reach Harbor and Dawnstar Village.$B$BThe harbor is of critical importance to our plans, so any Dawnblade casualties you inflict will be of tremendous help.  Kael'thas will rue the day that he turned his back on his people and sided with the Burning Legion.",
+  "p": "Have you slain the Dawnblade scum, $n?",
+  "c": "Excellent work, $c. Kael's armies will falter and once we take the harbor we shall deliver the killing blow!"
+ },
+ {
+  "id": 11540,
+  "t": "Crush the Dawnblade",
+  "o": "Magister Ilastar at Sun's Reach Armory wants you to slay 6 Dawnblade Summoners, 6 Dawnblade Blood Knights and 3 Dawnblade Marksmen.",
+  "d": "We've driven the Dawnblade army out of the Sun's Reach Harbor.  Sun's Reach is ours in its entirety.  Yet somehow... I'm not entirely satisfied.$B$BI want you to go to Dawnstar Village, west of here, and slay any surviving Dawnblade combatants.  They sealed their fate when they followed Kael to this place.",
+  "p": "Have you slain the Dawnblade scum, $n?",
+  "c": "What thoughts go through Prince Kael'thas Sunstrider's head when he hears of his armies' defeats?$b$bDoes he feel despair? Helplessness? Fear?$b$bI sure hope so."
+ },
+ {
+  "id": 11541,
+  "t": "Disrupt the Greengill Coast",
+  "o": "Captain Valindria wants you to free 10 Greengill Slaves. Return to her onboard the Silvermoon's Pride at Sun's Reach Harbor once you have done so.",
+  "d": "The naga have taken the Greengill Coast to the southeast. Their females, the Darkspine sirens, are using magic to enslave the indigenous murlocs.$B$BIt's my responsibility to see to it that whatever the naga are up to over there is disrupted. That's where you come in.$B$B$C, I want you to get the controlling orbs from the female naga and throw them near the Greengill slaves, breaking the orb and setting the murlocs free.$B$BMy guess is that the murlocs will be incensed and turn on their masters.",
+  "p": "My scouts tell me that there hasn't yet been enough disruption of the naga today.",
+  "c": "That's enough for today. Slow and steady is the key here. Too much disruption and they'd turn their attention directly upon us; something that we don't want.$b$bCome back again tomorrow and we'll work on it some more."
+ },
+ {
+  "id": 11542,
+  "t": "Intercept the Reinforcements",
+  "o": "Vindicator Kaalan at the Sun's Reach Armory wants you to speak to Ayren Cloudbreaker and fly over the Dawnblade reinforcement fleet.  Use the Flaming Oil to set the ship sails on fire as you fly and once you land, slay 6 Dawnblade Reservists.",
+  "d": "We're making a push to solidify our control of Sun's Reach by capturing the harbor next.  Unfortunately a fleet of Dawnblade reservists is on its way to reinforce Kael's forces there.$B$BTake this oil and secure a dragonhawk from Ayren Cloudbreaker.    You should be able to fly within reach of the ships' sails; once you're close enough, set them on fire.$B$BLand in one of the ships and attack the reservists.  With their ship sails on fire they won't be able to mount much of a defense.",
+  "p": "Have you accomplished your task, $n?",
+  "c": "Well done, $N.  It should be a long time before the harbor receives any reinforcements."
+ },
+ {
+  "id": 11543,
+  "t": "Keeping the Enemy at Bay",
+  "o": "Vindicator Kaalan at the Sun's Reach Armory wants you to speak to Ayren Cloudbreaker and fly over the Dawnblade reinforcement fleet.  Use the Flaming Oil to set the ship sails on fire as you fly and once you land, slay 6 Dawnblade Reservists.",
+  "d": "We've managed to capture Sun's Reach in its entirety.  Unfortunately a fleet of Dawnblade reservists is on its way to take back the harbor.$B$BTake this oil and secure a dragonhawk from Ayren Cloudbreaker.  You should be able to fly within reach of the ships' sails; once you're close enough, set them on fire.$B$BLand in one of the ships and attack the reservists.  With their ship sails on fire they won't be able to mount much of a defense.",
+  "p": "Have you accomplished your task, $n?",
+  "c": "Well done, $N.  It should be a long time before the harbor receives any reinforcements."
+ },
+ {
+  "id": 11544,
+  "t": "Ata'mal Armaments",
+  "o": "Smith Hauthaa needs you to produce 5 Cleansed Ata'mal Metal. Do so by breaking down Ata'mal Armaments on her anvil at the Sun's Reach Armory on the Isle of Quel'Danas.",
+  "d": "The Ata'mal Terrace in eastern Shadowmoon Valley is holy to the draenei, but is now overrun by fel orcs. They have dug up the special ore from that place and created corrupted weapons and armor.$B$BI need the armaments to form an alloy with the naga ore. Our anchorites have blessed my anvil with the ability to cleanse them.$B$BRetrieve the armaments from the Shadowmoon chosen, slayers and darkweavers. Return them here, breaking down and purifying them upon my anvil, and then hand me the cleansed results.",
+  "p": "I need all of the cleansed Ata'mal metal that I can get my hands on, $c.",
+  "c": "Thank you, my friend. Now I will be able to fashion more of the special alloy that is going into the creation of our forces' weapons and armor.$b$bAnd, I have some leftover extract from the process, which you'll likely find handy for use on your weapons. Please, take your pick of whichever will serve your purposes.$b$bReturn to me again on the morrow. No doubt I will need more armaments."
+ },
+ {
+  "id": 11545,
+  "t": "A Charitable Donation",
+  "o": "Anchorite Ayuri at Sun's Reach in Sunwell Isle wants you to donate 10 gold.",
+  "d": "We've taken Sun's Reach from the enemy and our final victory is at hand.  The cost was high and many brave combatants gave their lives so we could achieve this.$B$BIt is my goal to ensure that those who perished in combat are not forgotten.  I ask that you take a moment to consider making a donation towards a memorial fund.  Any leftover gold will go to the widows and orphans of the fallen.",
+  "p": "Do you wish to make a donation?",
+  "c": "You are a virtuous soul, $N.  It is easy to forget the fallen amidst the turmoil of war and the euphoria of victory.  The friends and families of the dead thank you."
+ },
+ {
+  "id": 11546,
+  "t": "Open for Business",
+  "o": "Mar'nah at the Sun's Reach Harbor wants you to gather 5 Bloodberries from the bushes found on Quel'Danas.",
+  "d": "Welcome, $n.$b$bThere are a number of ways I can assist you in your efforts here.$b$bFor example, I've recently discovered a recipe for a unique elixir.$b$bThe bloodberry grows wild in many regions of Azeroth and has long been considered nothing more than a nuisance. I've learned though, that when exposed to the Sunwell's power this plant takes on special properties that can be distilled and imbibed to magnify one's abilites.$b$bBring me a sample from the nearby bushes and I'll show you what I mean.",
+  "p": "Have you gathered those berries yet?",
+  "c": "Excellent, $N.$b$bI hope this will aid you in your efforts here."
+ },
+ {
+  "id": 11547,
+  "t": "Know Your Ley Lines",
+  "o": "Astromancer Darnarian in the Sun's Reach Sanctum wants you to use the Astromancer's Crystal at the Bloodcrystal, the Dawning Square portal, and the naga shrine at Greengill Coast.",
+  "d": "Freeloaders!$b$bYou all want instant gratification - never giving thought to the effort required to create even the simplest of portals.$b$bPerhaps a little education will instill a bit of gratitude for my ceaseless efforts.$b$bTake this crystal. Attune it to the Bloodcrystal to the west, at the Dawning Square portal just south of here, and at the naga shrine at Greengill Coast to the southeast.$b$bPerhaps then you'll appreciate your precious translocations....",
+  "p": "Have you attuned the crystal yet, $c?",
+  "c": "Yes, yes. Let's have a look now, shall we?$b$bThings seem to be in order. Very well. Here is your translocator.$b$bIf any of your readings are faulty, there's no telling where you'll end up, and mind you, you'll only have yourself to blame."
+ },
+ {
+  "id": 11548,
+  "t": "Your Continued Support",
+  "o": "Anchorite Ayuri at Sun's Reach in Sunwell Isle wants you to donate 10 gold.",
+  "d": "We've built a memorial to honor those slain in battle.  It's but a small consolation to the families that lost their loved ones.$B$BI am taking up a collection to aid the orphans and spouses of our war heroes.  If you can spare a small donation it would go a long way.",
+  "p": "Do you wish to make a donation?",
+  "c": "You are a virtuous soul, $N.  It is easy to forget the fallen amidst the turmoil of war and the euphoria of victory.  The friends and families of the dead thank you."
+ },
+ {
+  "id": 11549,
+  "t": "A Magnanimous Benefactor",
+  "o": "Anchorite Kairthos wants you to donate 1000 gold to aid in Anchorite Ayuri's efforts.  You will be known as $N of the Shattered Sun if you complete this quest.",
+  "d": "You've done so much for us, $N.  We greatly appreciate your assistance.$B$BYou might have noticed Anchorite Ayuri's efforts outside.  She has a big heart and is very convincing, but the donations do not quite add up to what she had expected.$B$BIf you were to make a large contribution to her cause, I will make sure that word of your deeds in this war spreads far and wide.  What do you say?",
+  "p": "Are you ready to make the contribution?",
+  "c": "You truly are a generous person and a worthy ally. From now on you shall be known as $N of the Shattered Sun and all who fought here will know of your deeds!"
+ },
+ {
+  "id": 11550,
+  "t": "Enter, the Deceiver...",
+  "o": "Report to Archmage Ne'thul on the Isle of Quel'Danas, north of Quel'Thalas.$B$BFlight masters in Ironforge and Silvermoon City will get you to your destination.",
+  "d": "Despite our best efforts, Kael'thas's sinister plans have been carried out. The Sunwell has been re-ignited in preparation for the Deceiver's arrival.$B$BThe object that stands before me and below A'dal is a representation of the current status of the Sunwell's defenses. Mighty barriers have been raised, stymieing our attacks against the inner chambers. If ever there were a time that our world needed assistance, it would be now.$B$BReport to Archmage Ne'thul at the Isle of Quel'Danas, north of Quel'Thalas.",
+  "p": "",
+  "c": "Kil'jaeden bears down upon this world with the full force of the Burning Legion. Should the summoning complete, our world will once more be flung into the throes of chaos. Your assistance on the Isle of Quel'Danas is critical to our success against the Burning Legion.$b$bOur mages are working on bringing down the barriers blocking access to the Sunwell. Do your part in battling the forces of the Legion by helping the Shattered Sun Offensive."
+ },
+ {
+  "id": 11554,
+  "t": "A Friend in the Frontlines",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your aid in the offensive has not gone unnoticed, $N. The combined forces of the Aldor and Scryers offer you their thanks."
+ },
+ {
+  "id": 11555,
+  "t": "Honored by Your Allies",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself in this most important battle, $N. Please accept this as a token of our continued gratitude."
+ },
+ {
+  "id": 11556,
+  "t": "Revered in the Field of Battle",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "We couldn't have gotten where we are without you, $N. The combined might of the Aldor and Scryers is not enough to crush the Legion and Kael. We are thankful to have allies of your caliber among us."
+ },
+ {
+  "id": 11557,
+  "t": "Exalted Among All Combatants",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are one of our very best, $N. Your name will be known throughout our ranks for a long time to come. Please accept this small gift on behalf of our forces."
+ },
+ {
+  "id": 11558,
+  "t": "Dangerous Love",
+  "o": "Get a Guardian's Moldy Card and bring it to Fenstad Argyle in the Undercity.",
+  "d": "There's something unnatural about this epidemic of love. It's disgusting, and as it lowers our defenses, it could be a threat to the all of us.$b$bIt's bad enough that so many of our people are caught up in this ridiculous behavior. But I think that it has spread even to our guardians, who should be immune to such things.$b$bFind one of our guardians and see if they've been caught up in this foolishness.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11559,
+  "t": "Winterfin Commerce",
+  "o": "Collect 5 Winterfin Clams and deliver them to Ahlurglgr at Winterfin Retreat.",
+  "d": "Now that you can speak with the Winterfin, it is time for you to let them get to know you. One of the best ways to do that is to conduct business with them.$B$BThe murlocs prize clams over any other object and their only surviving merchant is Ahlurglgr. If I were you, I'd collect a handful of Winterfin clams and give them to him as a gift.$B$BThe clams can be found all over down in the trench, as well as across it in the Winterfin village and their caverns.",
+  "p": "What's this? Who are you?$B$BYou're one of those $r things! How can you speak our tongue?",
+  "c": "These are for me? Is this some sort of $r trick? No?$B$BWell then, thank you! Come back any time that you have more clams, and we'll do business!"
+ },
+ {
+  "id": 11560,
+  "t": "Oh Noes, the Tadpoles!",
+  "o": "King Mrgl-Mrgl has asked you to rescue 20 Winterfin Tadpoles. Return to him at Winterfin Retreat once you have done so.",
+  "d": "Oh good, you're back!$B$BWhen the landslide at the village across the water exposed the caverns, a malevolent lobstrok, known as Claximus, came out of the caves and stole the Winterfin tadpoles away.$B$BSomething happened to all of the murlocs that followed him in there, and when they re-emerged, they were under his control.$B$B$C, you must swim across the waters and rescue the Winterfin tadpoles in the village and caverns.$B$BThe future of the Winterfin tribe depends upon you!",
+  "p": "If more tadpoles aren't rescued, it won't matter what we do: the Winterfin murlocs will cease to have any chance of a future at all!",
+  "c": "Now no matter what happens, the Winterfin murlocs have a secure future.$b$bYou are to be commended, and rewarded, for your selflessness, $N!"
+ },
+ {
+  "id": 11561,
+  "t": "Them!",
+  "o": "Brglmurgl at Winterfin Retreat has asked you to kill 15 Winterfin murlocs. Any combination of warriors, oracles, and shorestrikers will do.",
+  "d": "Our brothers and sisters across the water are now our mortal enemies. They have kidnapped our tadpoles, driven us out of our village, and killed more of us than I can count.$B$BProve yourself, $r! Swim across the rift and slay them!$B$BDespite the favor that the new king has shown you, only then will we consider accepting you here. Fail to do so, and you might as well leave now and never return!",
+  "p": "If you have killed so many of the Winterfin betrayers, why is it that when I look out across the water, I still see too many of them?",
+  "c": "I am pleased. I can smell the coppery tang of their blood on your hands.$b$bThis is a good start for you, $r."
+ },
+ {
+  "id": 11562,
+  "t": "I'm Being Blackmailed By My Cleaner",
+  "o": "King Mrgl-Mrgl has asked you to speak with Mrmrglmr at the northwest end of Winterfin Retreat.",
+  "d": "I have something embarrassing to admit: I'm being blackmailed!$B$BMrmrglmr agreed to clean some of my things, and got hold of my spare murloc costume. He's threatening to reveal my true nature to the other murlocs.$B$BI need not explain to you what a disaster that would be! Besides, I have a plan that's going to require that we get that costume back.$B$BPlease, $N, go to Mrmrglmr at the other end of the Retreat to the north and do whatever he asks of you.",
+  "p": "",
+  "c": "Aw, so you must be the so-called King Mrgl-Mrgl's lackey. I suppose that night elf has sent you to appease me?$b$bGood, I have just the thing that needs doing for someone as powerful as you!"
+ },
+ {
+  "id": 11563,
+  "t": "Grmmurggll Mrllggrl Glrggl!!!",
+  "o": "Mrmrglmr wants you to return to him at Winterfin Retreat with Glrggl's Head.",
+  "d": "If your pathetic little eyes were any good, you'd see that we're being slaughtered by the orcas to the north in the bay!$B$BAssuming your precious night elf king wants his spare costume back, I think you'll do me a favor and bring back the head of the king of the orcas, Glrggl: he who swims against the tides of fate -- eradicating the hope of life for all those who hear the siren song of death upon the waves!$B$BBe quick about it, $r, Winterfin murlocs are losing their lives even as we waste time talking!",
+  "p": "If you don't have Glrggl's head, don't waste my time!",
+  "c": "Not bad. This will make a nice feast!$b$bWith the king of the orcas dead the attacks upon us should diminish while the whales fight amongst themselves for dominance."
+ },
+ {
+  "id": 11564,
+  "t": "Succulent Orca Stew",
+  "o": "Cleaver Bmurglbrm has tasked you with acquiring 7 Succulent Orca Blubber. Return with them to him at Winterfin Retreat.",
+  "d": "Word is, strange $r, that you might be going after the king of the orcas, Glrggl.$B$BThat's all fine and good, but if you want to taste the stew that makes life worth living, then you'll bring me back the succulent blubber of the orcas that swim in Glimmer Bay.$B$BHurry... I have quite a bit of cutting to do on this carcass if you want to reap the benefits of your efforts.",
+  "p": "Do you have all of the orca blubber that I require?",
+  "c": "Aw yes, these will do nicely.$b$bJust plop them down anywhere. You can have some of my leftover stew from last night."
+ },
+ {
+  "id": 11565,
+  "t": "The Spare Suit",
+  "o": "Return King Mrgl-Mrgl's Spare Suit to him at Winterfin Retreat.",
+  "d": "Very well, your king's secret is safe with me as long as he continues to help us against our enemies.$B$BHere, take this to him. I cleaned it up nicely, though I have no idea why he needs a second disguise.$B$BMaybe he has something in mind for you?",
+  "p": "Do you have my spare suit, $n?",
+  "c": "<Upon seeing the spare murloc suit, the king rubs his costumed appendages together.>$b$bNicely done. Now, back to the pressing matter at hand. I've got something of great importance for you to do."
+ },
+ {
+  "id": 11566,
+  "t": "Surrender... Not!",
+  "o": "King Mrgl-Mrgl at Winterfin Retreat has asked you to bring him a Claw of Claximus.",
+  "d": "The time has come to put an end to this unnatural situation, $N. For the Winterfin murlocs to have a chance at a future, Claximus must die!$B$BI want you to take my spare murloc suit and enter the Winterfin Caverns under the pretext of surrender. With the white flag in hand, the murlocs won't attack you.$B$BYou'll find him in the southwestern most corner of the caverns. Once you get close enough, deal with Claximus. Bring me one of his claws as proof that the grisly deed has been done.",
+  "p": "Have you done it, $c? Is Claximus dead?",
+  "c": "Regrettable, but necessary. I'll take the claw, $N.$b$bThank you for all of the help you've given us. With Claximus defeated, maybe we'll be able to reunite the remaining murlocs and seal off those caverns.$b$bPlease, my friend, take this... it's the least I can do for all of the help you have rendered us!"
+ },
+ {
+  "id": 11567,
+  "t": "The Ancient Armor of the Kvaldir",
+  "o": "Recover the Ancient Armor of the Kvaldir and deliver it to Orfus of Kamagua in the Howling Fjord.",
+  "d": "I was on the vessel that was bringing in the armor. We'd just boarded the ship and were headin' back here when we were attacked by a Forsaken destroyer.$B$BThey boarded our ship, took all the booty for themselves, and then sunk her.$B$BThat was the last I'd seen of that armor. If you want, you can take my bomber from Scalawag to the dreaded isle that the destroyer be docked. Talk to my woman, Alanya, outside. She'll get you on the bomber.$B$BIf you manage to find the stuff, don't you dare bring it back!",
+  "p": "Have you found the armor?",
+  "c": "We must return all of the artifacts, $N. When all four are gathered, you will put them back in their graves."
+ },
+ {
+  "id": 11568,
+  "t": "A Return to Resting",
+  "o": "Use the Bundle of Vrykul Artifacts at the ransacked burial mounds of Shield Hill to return the Frozen Heart of Isuldof, the Shield of the Aesirites, the Staff of Storm's Fury and the Ancient Armor of the Kvaldir.$B$BReturn to Orfus of Kamagua at the Ancient Lift should you succeed.",
+  "d": "<Orfus hands you a satchel.>$B$BWithin this satchel are the artifacts that you recovered. Locate the burial mounds of Shield Hill, far to the southeast, where the items were originally stolen from and return the artifacts. It is my hope that this gesture will quell the spirits that now haunt our hunting grounds.$B$BBe strong, $N...",
+  "p": "Is it done? Are the spirits at rest?",
+  "c": "Grim tidings, $N. My people are in danger and must be warned. These sea faring aberrations will take no mercy upon the Kalu'ak."
+ },
+ {
+  "id": 11569,
+  "t": "Keymaster Urmgrgl",
+  "o": "Glrglrglr inside the Winterfin Caverns has asked you to retrieve Urmgrgl's Key.",
+  "d": "I have to get out of these caverns! There's magic stuff seeping in from Coldarra, above, and affecting everyone's minds.$B$BI don't intend to be controlled like these others!$B$BKeymaster Urmgrgl is in the cave below and to the south. He holds the key to my cage. Get it from him and bring it back so that I can unlock my cage and get out of here.$B$BHurry!",
+  "p": "Do you have the key?$b$bNo, I don't care about any of these others. I just want to get out of here!",
+  "c": "Quickly, hand it here!"
+ },
+ {
+  "id": 11570,
+  "t": "Escape from the Winterfin Caverns",
+  "o": "Escort Lurgglbr to safety and then report to King Mrgl-Mrgl at Winterfin Retreat with the good news.",
+  "d": "The lock on my cage doesn't look too solid, but I'm not foolish enough to try to leave without assistance.$B$BWill you help me safely get out of these caverns? There's no time to waste, $r.$B$BWhen you get back to the retreat, please let the king know that I'm okay. He's sure to give you a reward.",
+  "p": "Yes, $N, what can I do for you?",
+  "c": "This is wonderful news! And you say that Lurgglbr discovered that the emanations from the caverns are what caused this insanity?$b$bIt must be that the magic from Coldarra is growing stronger. The Nexus War... the battle between the blue dragonflight and all of the other dragons, is spilling over.$b$bSoon, we will all be embroiled in it!"
+ },
+ {
+  "id": 11571,
+  "t": "Learning to Communicate",
+  "o": "King Mrgl-Mrgl has given you a conch to use upon Scalder's remains. Return The King's Filled Conch to him at Winterfin Retreat.",
+  "d": "To help, you must learn how to speak the Winterfin dialect. We'll work with the forces of nature and magic to do that.$B$BTake this empty conch shell. At the bottom of the watery trench below exists Scalder, an elemental of air and watery fury.$B$BOnce she is defeated, use the conch upon her remains to capture her magical steam. Return the full conch to me, and I'll imbue my knowledge of the Winterfin tongue into you.$B$BLuckily, a friend taught me a water breathing spell, which I will cast upon you.",
+  "p": "Have you managed to fill the conch with Scalder's steam?",
+  "c": "Now I will be able to use Scalder's essence to impart my understanding of the Winterfin murloc tongue to you."
+ },
+ {
+  "id": 11572,
+  "t": "Return to Atuik",
+  "o": "Deliver the bad news to Elder Atuik at Kamagua.",
+  "d": "Return to Elder Atuik at Kamagua. He and the rest of my people must be warned of this impending doom that approaches from the sea.$B$B<Orfus shivers.>$B$BUse the Ancient Lift to reach him. Please hurry!",
+  "p": "",
+  "c": "The Kalu'ak thank you for all that you have done, $N. We must now prepare for battle and warn our brothers and sisters across the sea of what is to come.$B$BI hope it is not too late..."
+ },
+ {
+  "id": 11573,
+  "t": "Orfus of Kamagua",
+  "o": "Find Orfus of Kamagua at the Ancient Lift in Howling Fjord.",
+  "d": "Hail, traveler. I am Lunk-tusk of the Kalu'ak. We are known as tuskarr to your people. My partner and I were recently sent up to investigate strange happenings along one of our hunting trails. It was when we approached the graveyard known as Shield Hill that we were attacked by the undead. I was lucky to make it to this camp, but I am uncertain as to what became of Orfus.$B$BWe parted ways at the Ancient Lift, southeast of here along the cliff edge. Will you go see if he is ok?",
+  "p": "",
+  "c": "Lunk-tusk lives? At least there is some good news to be had on this day..."
+ },
+ {
+  "id": 11574,
+  "t": "Too Close For Comfort",
+  "o": "Endorah wants you to go to Amber Ledge north of Warsong Hold and thank those there for rescuing her.",
+  "d": "I told them all that I remember. Why don't they believe me?$b$bI was gathering herbs by the rift. They came from nowhere, dark wizards with magical beasts - I was surrounded!$b$bA magical box appeared above me, opened up and pulled me inside. Just as it began to close around me, my rescuers swooped in on the backs of red drakes. It was breathtaking!$b$bI never thanked them for saving me. Please, $c, find them, and pass on my gratitude.",
+  "p": "",
+  "c": "You can tell your friend that her rescue was our pleasure, as well as our duty.$b$bHer encounter was but a small piece in what I believe to be a large puzzle.$b$bDalaran is sparing no effort in solving this mystery and to be honest, we could use a bit of assistance...."
+ },
+ {
+  "id": 11575,
+  "t": "Nick of Time",
+  "o": "Midge in Valiance Keep wants you to go to Amber Ledge to the north and thank those there for rescuing her.",
+  "d": "I told them all that I remember. Why don't they believe me?$b$bI was gathering herbs by the rift. They came from nowhere, dark wizards with magical beasts. I was surrounded!$b$bA huge magical cube appeared above me. It opened up and pulled me inside. I swear it's true!$b$bJust as it began to close around me, my rescuers swooped in on the backs of drakes - It was amazing! My captors scattered and I was able to escape.$b$bI never thanked them for saving me. Please, $c, if you see them, pass on my gratitude.",
+  "p": "",
+  "c": "You can tell your friend that her rescue was our pleasure, as well as our duty.$b$bHer encounter was but a small piece in what I believe to be a large puzzle.$b$bDalaran is sparing no effort in solving this mystery and to be honest, we could use a bit of assistance...."
+ },
+ {
+  "id": 11576,
+  "t": "Monitoring the Rift: Cleftcliff Anomaly",
+  "o": "Garren on Amber Ledge wants you to use the Arcanometer at the Cleftcliff Anomaly.",
+  "d": "Greetings, $r. I am Garren of Dalaran.$b$bNot long ago, the rift was a peaceful place - geothermally speaking at least.$b$bRecently though, earthquakes have occurred with alarming frequency and scars in the earth have appeared, exposing unique energy fields of chaotic power.$b$bMy mission here is to chart and monitor these anomalies. My instruments indicate that another has appeared on the cliff face to the southwest.$b$bTake this device with you and use it when you locate the new disruption.",
+  "p": "Have you taken the readings I requested, $c?",
+  "c": "Fascinating! This is the largest disruption yet.$b$bThough the worst is yet to come, I fear."
+ },
+ {
+  "id": 11578,
+  "t": "The \"Chow\" Quest (123)aa COPY",
+  "o": "Kill Kobold Vermin, 2 of em.",
+  "d": "$Tpunk;!  Kill Kobold Vermin, 2 of em.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11579,
+  "t": "The \"Chow\" Quest (123)aa COPY",
+  "o": "Kill Kobold Vermin, 2 of em.",
+  "d": "$Tpunk;!  Kill Kobold Vermin, 2 of em.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11580,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Silverpine bonfire!"
+ },
+ {
+  "id": 11581,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Westfall bonfire!"
+ },
+ {
+  "id": 11582,
+  "t": "Monitoring the Rift: Sundered Chasm",
+  "o": "Garren at Amber Ledge wants you to use the Arcanometer at the Sundered Chasm anomaly and return to him with the readings.",
+  "d": "Did you feel that?! That was just an aftershock... you should've been here a few minutes ago!$b$bI'm afraid I must call upon your services again. My instruments indicate that there is an immense disruption just west of here, far beneath the water's surface.$b$bJust as before, I need you to take the arcanometer and capture the anomaly's data.$b$bI'll cast a spell that will enable you to breathe underwater. If it wears off before you find it, come let me know and I'll renew its effects.",
+  "p": "Well, $c?$b$bWere you able to locate the anomaly?",
+  "c": "It was how big?$b$bThat's impossible! I need to report to Dalaran at once!"
+ },
+ {
+  "id": 11583,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Westfall flame!"
+ },
+ {
+  "id": 11584,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Silverpine Forest flame!"
+ },
+ {
+  "id": 11585,
+  "t": "Hellscream's Vigil",
+  "o": "Speak with Garrosh Hellscream in Warsong Hold.",
+  "d": "Throm-Ka, $r! Welcome to Warsong Hold. My heart swells with pride to see that such a distinguished hero of the Horde has answered the call of duty!$B$BThis impregnable fortress is a testament to the tenacity of the Horde. Through much we have battled to establish this foothold in Northrend. It is from here that our journey to Icecrown begins and it is through the leadership of the son of Hellscream that we will succeed!$B$BGarrosh awaits your arrival below.$B$BLok'tar ogar!",
+  "p": "",
+  "c": "A hero of the Horde, eh?$b$b<Garrosh sniffs at the air around you.>$b$bFear...$b$b<Garrosh spits.>$b$bYou won't last long."
+ },
+ {
+  "id": 11586,
+  "t": "Hellscream's Vigil",
+  "o": "Speak with Garrosh Hellscream in Warsong Hold.",
+  "d": "Throm-Ka, $r! Welcome to Warsong Hold. My heart swells with pride to see that such a distinguished hero of the Horde has answered the call of duty!$B$BThis impregnable fortress is a testament to the tenacity of the Horde. Through much we have battled to establish this foothold in Northrend. It is from here that our journey to Icecrown begins and it is through the leadership of the son of Hellscream that we will succeed!$B$BGarrosh awaits your arrival below.$B$BLok'tar ogar!",
+  "p": "",
+  "c": "Do not think that I have forgotten what you did for my people in Nagrand, $N. Hellscream never forgets.$b$bFor that I am indebted to you and it is why I give you this chance now: run. Leave this place and never look back.$b$bReturn to your home and say a prayer for the dying."
+ },
+ {
+  "id": 11587,
+  "t": "Prison Break",
+  "o": "Librarian Donathan on Amber Ledge wants you to collect the Beryl Prison Key from one of the Beryl Mage Hunters at Beryl Point and use it to release a trapped mage from an arcane prison.",
+  "d": "Greetings, $c. I am Donathan, a loyal representative of Dalaran.$b$bForgive my abruptness, but we find ourselves in the midst of a crisis. Mages all across Azeroth are being abducted and I have been authorized to conscript anyone able to assist in the unraveling of this mystery.$b$bThe camp just south of ours is where our investigation begins. I call upon you to rescue one of the imprisoned mages held there. You must obtain a key from one of the mage hunters and use it to open an arcane prison.",
+  "p": "I trust you are working diligently to rescue an imprisoned mage....",
+  "c": "You have done well, $N.$b$bThe Kirin Tor graciously accept the assistance you have rendered. Know that any service you provide us will not go unrewarded.$b$bPlease, accept this humble offering as a token of Dalaran's appreciation."
+ },
+ {
+  "id": 11588,
+  "t": "REUSE",
+  "o": "Destroy the elemental Ahune within Blackfathom Deeps.",
+  "d": "Stop Ahune from coming to Azeroth and inciting an elemental war!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11589,
+  "t": "REUSE",
+  "o": "Destroy the elemental Ahune within Blackfathom Deeps.",
+  "d": "Stop Ahune from coming to Azeroth and inciting an elemental war!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11590,
+  "t": "Abduction",
+  "o": "Donathan wants you to use the Arcane Binder on a wounded Beryl Sorcerer at Beryl Point and return to Amber Ledge with him.",
+  "d": "$n, we have a situation.$b$bI've just learned that one of our archmages en route from Dalaran has gone missing. Naturally, we suspect the mage hunters are behind her disappearance.$b$bTime is clearly of the essence. We must know what has become of Lady Evanor at once if we are to have any hope of rescuing her.$b$bTake this device. Return to Beryl Point and use it on a Beryl sorcerer when he is near death. It should bind him long enough for you to bring him here for questioning.",
+  "p": "Have you captured a Beryl sorcerer yet, $n?",
+  "c": "Excellent work, $N.$b$bWe'll have him prepared for his interrogation at once."
+ },
+ {
+  "id": 11591,
+  "t": "Report to Steeljaw's Caravan",
+  "o": "Speak with Grunt Ragefist at Steeljaw's Caravan.",
+  "d": "That dimwitted cur, Steeljaw, tried to take our caravan of supplies on a shortcut through a taunka graveyard!$B$BWe just struck up relations with them!$B$BNow the caravan lies in ruins, overrun by the taunka spirits that rose out of their graves as he was trampling them.$B$BHead south and see if you can salvage the situation, $c. I sent Grunt Ragefist and a few others down there with him to help out.$B$BWhy don't you see if you can lend a hand.",
+  "p": "",
+  "c": "This isn't good, $c.$b$bLongrunner Proudhoof says that these are the burial grounds of his honored ancestors."
+ },
+ {
+  "id": 11592,
+  "t": "We Strike!",
+  "o": "Help Longrunner Proudhoof and his Warsong raiders to survive the assault upon Steeljaw's Caravan and finish off the spirit of Force-Commander Steeljaw.$B$BIf successful, report to Overlord Bor'gorok at Bor'gorok Outpost.",
+  "d": "One of your orcs named Steeljaw tried to save some time by taking a shortcut through our burial grounds. This had better not be how your Horde normally acts, $r, or you will find the taunka to be the end of you!$B$BBut, you look as if you want to help fix this situation. Good!$B$BSteeljaw's cursed spirit now haunts this place and disturbs the remains of my ancestors. We must put an end to him!$B$BIf we live through this, tell your Overlord Bor'gorok at the outpost to the north.$B$BAre you with me?",
+  "p": "",
+  "c": "Blood and thunder! You've salvaged our newborn relations with the taunka.$b$bThank you for putting the situation to rights. Aka'Magosh, $N!"
+ },
+ {
+  "id": 11593,
+  "t": "The Honored Dead",
+  "o": "Grunt Ragefist at Steeljaw's Caravan has asked you to use Ragefist's Torch to burn any combination of 10 Dead Carvan Guards and Workers.",
+  "d": "Our fallen deserve a hero's funeral, but we cannot bury them here on sacred taunka ground.$B$BI'll not ask you to drag their bodies back here, but take this and head further into the cemetary.  When you come across our dead caravan guards and workers, put them to the torch.$B$BHonor our dead, $c!",
+  "p": "I was just looking, and spotted the corpses of our fallen still out there.$B$BDo your duty to the Horde, $c!",
+  "c": "Thank you, $c. We are the Horde, we do not leave our dead behind!$b$bIt should never have been necessary in the first place. Steeljaw was a fool!"
+ },
+ {
+  "id": 11594,
+  "t": "Put Them to Rest",
+  "o": "Put 20 taunka spirits, either Ghostly Sages or Risen Longrunners, to rest and then report back to Grunt Ragefist at Steeljaw's Caravan.",
+  "d": "Force-Commander Steeljaw's idiocy caused this mess. What was he thinking taking a caravan through a taunka burial mound?$B$BStill, what's done is done. Now it is up to us to deal with the consequences.$B$BOverlord Bor'gorok asked me to help Longrunner Proudhoof in any way that I can. The longrunner has asked that we lay to rest the spirits of his ancestors.$B$BWhat do you say, $c? Are you $g man : strong; enough to handle such a simple task?",
+  "p": "If you did such a good job, why is it that I can still see them out there?",
+  "c": "Well done, $c! You must have a great deal of experience fighting the undead. And, if you didn't before, you have some now.$b$bYou'll need it if you're going to survive in Northrend."
+ },
+ {
+  "id": 11595,
+  "t": "The Defense of Warsong Hold",
+  "o": "Report to Overlord Razgor at the hut on the south side of Warsong Hold.",
+  "d": "Hellscream has the weight of the Horde upon his shoulders. Do not be dissuaded from your duties because of his temperament, $N.$B$B<Saurfang nods.>$B$BDid you think that I would forget the name of a hero of Orgrimmar? It is not every day that I have the pleasure of putting the head of Nefarian on a pike!$B$BThe Scourge have begun their assault upon this fortress. Our soldiers steady the line, but are in desperate need of backup. Report to Razgor. He is stationed directly outside of Warsong Hold.",
+  "p": "",
+  "c": "<Overlord Razgor salutes.>$b$bYour reputation precedes you, $N."
+ },
+ {
+  "id": 11596,
+  "t": "The Defense of Warsong Hold",
+  "o": "Report to Overlord Razgor at the hut on the south side of Warsong Hold.",
+  "d": "Do not let Hellscream dissuade you from your duties as a soldier of the Horde, $r. He bears a terrible burden in these frozen wastes, with the outcome of his charge resulting in victory over the Scourge or the extinction of all life on Azeroth. It is for this reason that we require your strength and wisdom.$B$BThe Scourge have begun their assault upon this fortress. Our soldiers steady the line, but are in desperate need of backup. Report to Razgor. He is stationed directly outside of Warsong Hold.",
+  "p": "",
+  "c": "Just in time... The Nerubians have seemingly doubled in number in just a week's time. We could use all the help we can get out here."
+ },
+ {
+  "id": 11597,
+  "t": "The Defense of Warsong Hold",
+  "o": "Report to Overlord Razgor at the hut on the south side of Warsong Hold.",
+  "d": "It seems that we always meet in the direst of circumstances, Scarab Lord. Were you not saving the world from certain destruction the last time we met?$B$B<Saurfang chuckles.>$B$BYour assistance is most welcome in Northrend, despite what the young chieftain might say.$B$BIf we had even a dozen more soldiers with your power, we would be sitting in Orgrimmar right now, hunched over a warm fire.$B$BReport to Overlord Razgor, right outside the main entry to Warsong Hold, to the south.",
+  "p": "",
+  "c": ""
+ }
+]

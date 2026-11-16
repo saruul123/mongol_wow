@@ -1,0 +1,962 @@
+[
+ {
+  "id": 8227,
+  "t": "Nat's Measuring Tape",
+  "o": "Return Nat's Measuring Tape to Nat Pagle in Dustwallow Marsh.",
+  "d": "Amongst the shattered fishing lures and tackle is a rolled, silken measuring tape.  Attached to the tape is a label that reads:$B$B\"Nat Pagle, Dustwallow Marsh.\"",
+  "p": "Hello there, $gladdie:lassy;. You here to do some fishing?",
+  "c": "Why, you found my favorite measuring tape! I love this tape! I measured some of the biggest fish I ever caught with it...$B$BBut, I lost this tape in Zul'Gurub... you've been to Zul'Gurub? Did you see the fabled Gahz'ranka?$B$BWell... do you want to catch him?"
+ },
+ {
+  "id": 8228,
+  "t": "Could I get a Fishing Flier?",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "There be a Fishin Contest in Booty Bay this Sunday! Here are the rules for ya!"
+ },
+ {
+  "id": 8229,
+  "t": "Could I get a Fishing Flier?",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "There is a Fishing Contest in Booty Bay this Sunday! Here are the rules for you!"
+ },
+ {
+  "id": 8231,
+  "t": "Wavethrashing",
+  "o": "Bring 6 Wavethrasher Scales to Ogtinc in Azshara.  Ogtinc resides atop the cliffs northeast the Ruins of Eldarath.",
+  "d": "The wavethrasher is an amphibious beast living only here in Azshara.  They are powerful and resilient.$b$bThe tough, reflective scales from a wavethrasher mirror the strength of the hunter.$b$bTrack and hunt wavethrashers along the coast of Azshara, and bring me their scales.",
+  "p": "Have you met with success?",
+  "c": "The wavethrashers are not easily defeated, even more so in their watery environment.$B$BYou have proven yourself ready to hunt even deadlier prey."
+ },
+ {
+  "id": 8232,
+  "t": "The Green Drake",
+  "o": "Bring the Tooth of Morphaz to Ogtinc in Azshara.  Ogtinc resides atop the cliffs northeast the Ruins of Eldarath.",
+  "d": "Now I set you on a dangerous hunt to slay the green drake, Morphaz, and bring his tooth to me.  Morphaz dwells deep in Temple of Atal'Hakkar, the entrance to which lies in Swamp of Sorrows.$b$bIf you wish to defeat him, you must not go alone.  This drake is an enemy of many -- seek others who wish to destroy him.$b$bThe drake's tooth represents the power a hunter will find in the company of others.  Bring it to me and you will have learned much.",
+  "p": "I see wisdom in your eyes, $N. Has your hunt ended?",
+  "c": "You have learned the old ways, $N, and for that I offer you a gift from my days as a $c."
+ },
+ {
+  "id": 8233,
+  "t": "A Simple Request",
+  "o": "Speak with Lord Jorach Ravenholdt in Ravenholdt Manor.",
+  "d": "Lord Jorach Ravenholdt has requested your presence.  The matter is secret, and I cannot say any more.$b$bRavenholdt Manor is located in the Hillsbrad Foothills -- look for a path in the mountains northwest of Durnhold Keep.",
+  "p": "",
+  "c": "Welcome, welcome, welcome!  Please, $N, have a seat and discuss a simple matter with me.$B$BYou see, $N, I've recently lost something dear to me, and to put it bluntly, I want it back at all costs.  There's something in it for you, don't worry about that!  Oh yes, something very nice.$B$BNow, what say you $N... are you up for some adventure?"
+ },
+ {
+  "id": 8234,
+  "t": "Sealed Azure Bag",
+  "o": "Retrieve the Sealed Azure Bag from the Timbermaw Shaman in Azshara.  Then take the bag to Archmage Xylem, also found in Azshara.",
+  "d": "First things first.  What I've lost is a small blue bag, the contents of which are a private matter.$b$bDon't bother going after the thieves, because they are already dead.  What we do know is the fools couldn't get the bag open. so they sold it to some timbermaw shaman in Azshara as a holy relic.  Clever.$b$bI need you to travel to Azshara and retrieve it from the shaman through subtlety... or force.  Better luck with the first method, I'd wager.  Once acquired, take it to Archmage Xylem.",
+  "p": "Do I know you?",
+  "c": "I see you have Lord Ravenholdt's bag. Why didn't you say so, boy?"
+ },
+ {
+  "id": 8235,
+  "t": "Encoded Fragments",
+  "o": "Bring 10 Encoded Fragments to Archmage Xylem in Azshara.",
+  "d": "Lord Ravenholdt has asked a favor of us both.  He wishes to remove the enchantment from this bag.$b$bUnfortunately, some of my books on the subject of dispelling were taken recently, only to be destroyed by savages.  The remains of my books are still valuable to me.$b$bIf you can bring me enough of the encoded fragments, I can piece them back together.  Your best chance is to kill the beasts of Azshara, since they have a tendency to pick up just about anything.",
+  "p": "Have you found enough fragments to continue my work?",
+  "c": "It looks like you picked up some of the better fragments. Perhaps you aren't worthless after all."
+ },
+ {
+  "id": 8236,
+  "t": "The Azure Key",
+  "o": "Return the Azure Key to Lord Jorach Ravenholdt.",
+  "d": "It will take some time to decipher the fragments and remove the enchantment.  When I am complete, I'll deliver the bag to Lord Ravenholdt personally.$b$bThere is still the matter of the key, said to be held by a green drake known as Morphaz.  The drake has made its home deep in the Temple of Atal'Hakkar, the entrance to which lies in the Swamp of Sorrows.$b$bGather your friends and venture to his lair.  Lord Ravenholdt will await your return with the key.",
+  "p": "The bag has already arrived from Archmage Xylem, have you found the key?",
+  "c": "The key! I thought it lost forever. Please, take an enchanted garment from my stores -- they are reserved for rogues of exceptional skill and loyalty. It should be known that $N is not to be trifled with!$B$B<Jorach opens the bag and is bathed by a golden glow from within. His eyes widen and he stares...>"
+ },
+ {
+  "id": 8238,
+  "t": "Gurubashi, Vilebranch, and Witherbark Coins",
+  "o": "",
+  "d": "",
+  "p": "I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.$B$BThere are nine distinct kinds to be found.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",
+  "c": "Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, $N, as well as the thanks of the tribe!"
+ },
+ {
+  "id": 8239,
+  "t": "Sandfury, Skullsplitter, and Bloodscalp Coins",
+  "o": "",
+  "d": "",
+  "p": "I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.$B$BThere are nine distinct kinds to be found.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",
+  "c": "Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, $N, as well as the thanks of the tribe!"
+ },
+ {
+  "id": 8240,
+  "t": "A Bijou for Zanza",
+  "o": "Destroy any one of the Hakkari Bijous found in Zul'Gurub at the Altar of Zanza on Yojamba Isle.  When done, speak with Vinchaxa nearby.",
+  "d": "The destruction of the various Hakkari Bijous is of grave importance to us, so much so that we welcome outsiders of the tribe to do so for themselves!$B$BTake any one of the bijous that you find in Zul'Gurub to the Altar of Zanza and destroy it.  For this one time alone, I will give you an additional Honor Token from our tribe; this is above and beyond what you would normally receive.$B$BWitness for yourself the blessings of Zanza!",
+  "p": "Have you destroyed the bijou at the Altar of Zanza? Do so, and then you will be doubly blessed by Zanza!",
+  "c": "Excellent... each bijou we wrest away from the Blood God's minions is one step closer we all are to finally defeating them once and for all.  You bring honor to the Zandalar - and yourself - through your noble actions.$B$BRemember $N, you may always destroy the bijous you find in Zul'Gurub at the altar.  For each one, you will gain recognition and an Honor Token!  Just remember to have an open space in your inventory if you don't have one of the tokens already."
+ },
+ {
+  "id": 8241,
+  "t": "Restoring Fiery Flux Supplies via Iron",
+  "o": "",
+  "d": "",
+  "p": "Let's not waste more of my precious time with jibber jabber, $r. It's time to focus on replenishing our dwindling fiery flux supply.$B$BWhat I'm gonna need from you is the following:$B$B*Incendosaur scales.$B$B*Iron bars.$B$B*Coal.$B$BI'll take all that you can offer!$B$BAnd you'll do it fast if you wanna get in good with the Brotherhood.",
+  "c": "There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop."
+ },
+ {
+  "id": 8242,
+  "t": "Restoring Fiery Flux Supplies via Heavy Leather",
+  "o": "",
+  "d": "",
+  "p": "Let's not waste more of my precious time with jibber jabber, $r. It's time to focus on replenishing our dwindling fiery flux supply.$B$BWhat I'm gonna need from you is the following:$B$B*Incendosaur scales.$B$B*Heavy Leather.$B$B*Coal.$B$BI'll take all that you can offer!$B$BAnd you'll do it fast if you wanna get in good with the Brotherhood.\n",
+  "c": "There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop."
+ },
+ {
+  "id": 8243,
+  "t": "Zanza's Potent Potables",
+  "o": "",
+  "d": "",
+  "p": "With your increased status amongst the tribe comes access to some of our more potent potables. Behold... these brews are strong in the mojo - blessed by Zanza and fit for adventurers from all walks of life!$B$BI will allow you to choose one from the three I offer; in exchange, I require one Zandalar Honor Token. Note that only the effects of a single one may course through your spirit at any given time.$B$BLet me know when you're ready to barter!",
+  "c": "Let me know when you're ready to barter!"
+ },
+ {
+  "id": 8246,
+  "t": "Signets of the Zandalar",
+  "o": "",
+  "d": "",
+  "p": "$N - for someone as exalted among the Zandalar as you are,I have something very special for you. Direct from our home in the South Seas... the Signets of the Zandalar! These signets are used to enhance any shoulder item you may possess. Should you seek might,mojo,or serenity - I have what you need!$B$BI ask for fifteen Zandalar Honor Tokens in exchange for your choice of one signet. If you have the tokens ready,then I'm ready to make a deal!",
+  "c": "A fair trade, my friend - please accept your signet with the blessing of the tribe!"
+ },
+ {
+  "id": 8249,
+  "t": "Junkboxes Needed",
+  "o": "",
+  "d": "",
+  "p": "My rogues need to hone their lockpicking skills, and I need locks of adequate difficulty -- the stuff Zan makes us is unfit for all but the lowliest neophytes.$b$bTell ya what, if you bring me 5 Heavy Junkboxes, I'll provide you with some of the finest throwing knives known to roguekind.$b$bYou can unlock the boxes and rifle through them, but you'll have to leave at least a few coins in them... even a rogue in training needs motivation.",
+  "c": "May these knives find a place in someone's heart.$b$bLiterally."
+ },
+ {
+  "id": 8250,
+  "t": "Magecraft",
+  "o": "Seek out Sanath Lim-yo and gain passage to see Archmage Xylem.",
+  "d": "Archmage Xylem has been asking around lately... for someone of your experience.$b$bIf you wish to seek him out, you can find him in Azshara.  His tower is built high atop the cliffs, and the only way up is a teleport spell invoked by his arrogant servant, Sanath Lim-yo.$b$bSanath makes camp below his master's tower.  To find him, travel to where Azshara's main road forks at the entrance to the Ruins of Eldarath.  From that spot, head directly north until you reach the cliffs.",
+  "p": "",
+  "c": "<Sanath sneers at you.>$B$BArchmage Xylem awaits your arrival."
+ },
+ {
+  "id": 8251,
+  "t": "Magic Dust",
+  "o": "Bring 10 Glittering Dust to Archmage Xylem.",
+  "d": "The blood elves in Azshara have developed a method for pulverizing the magical items they acquire.  This glittering dust they produce differs from the components normally acquired by a disenchantment spell.$b$bWhen I sent my apprentice to trade for the dust, he was killed without hesitation.  For that, they must pay.$b$bThe time for talk is over, $N.  Find the blood elves along the cliffs of Azshara and use more \"persuasive\" methods to acquire their glittering dust.",
+  "p": "Have you the dust?",
+  "c": "Well done, $N!  It never ceases to amaze me how persuasive a volley of arcane missiles can be."
+ },
+ {
+  "id": 8252,
+  "t": "The Siren's Coral",
+  "o": "Collect 6 Enchanted Coral and return them to Archmage Xylem.",
+  "d": "Take a look around you.  The ruins and beaches are overrun with spitelash.  Recently, the wretched creatures have learned to recognize the rare components indigenous to Azshara.$b$bSpecifically, I speak of enchanted coral -- they are drawn to it by reasons unknown to me.  Now there is little coral left in the bay, and it is vital to my research.  I need you to separate some enchanted coral from the spitelash sirens and bring it to me.",
+  "p": "The spitelash sirens are surprisingly adept mages.  Not as adept as you, I hope?",
+  "c": "This is a superb specimen of coral, $N.  Your skills are unquestionably precise and deadly.$B$BDo not think your efforts have gone unnoticed.  Perhaps you are worthy of a true test of your skill..."
+ },
+ {
+  "id": 8253,
+  "t": "Destroy Morphaz",
+  "o": "Retrieve the Arcane Shard from Morphaz and return to Archmage Xylem.",
+  "d": "There is a green drake deep in the sunken temple of Atal'Hakkar by the name of Morphaz.$b$bYears ago, he overwhelmed me in a bold ambush and consumed my apprentice whole.  While the loss of an apprentice is not unknown to me, this particular one carried an arcane shard of unsurpassed size and quality.$b$bYou must gather powerful allies and delve into the temple.  Destroy Morphaz and recover the arcane shard from his ageless stomach.",
+  "p": "Have you slain my old nemesis?",
+  "c": "Incredible.  The shard has grown as it absorbed the drake's energy over the long years.$B$BThere is no more I can ask of you now.  My full ability to forge the arcane has returned with this shard.  My first creation is yours, $N, and you have but to choose..."
+ },
+ {
+  "id": 8254,
+  "t": "Cenarion Aid",
+  "o": "Seek out Ogtinc in Azshara.",
+  "d": "It is the way of the divine to help those in need.  The how is insignificant -- only the why matters.$b$bThe Cenarion Circle has such a need.  Speak with Ogtinc to lend aid to their plight.  He resides atop the cliffs to the northeast of the Ruins of Eldarath in Azshara.",
+  "p": "",
+  "c": "Your arrival has lifted a weight from my shoulders.  We have much to do."
+ },
+ {
+  "id": 8255,
+  "t": "Of Coursers We Know",
+  "o": "Acquire 4 Healthy Courser Glands and bring them to Ogtinc in Azshara.  Ogtinc resides atop the cliffs northeast the Ruins of Eldarath.",
+  "d": "The mosshoof coursers of Azshara are magnificent animals who once lived in Felwood.  They naturally resist disease and poison, and were unaffected by the corruption there.  In their ancestral wisdom, they simply chose to leave that sickened place.$b$bIt saddens my heart, but I must ask you to hunt these mighty beasts for me.  Gather four courser glands as the first ingredient for a restorative salve -- a salve we will use to heal Felwood.",
+  "p": "You have returned. Were you successful?",
+  "c": "It is good the divine path has led you to us, $N. Your beliefs do not interfere with the tasks involved in creating this salve.$B$BYou see, the courser is sacred to the Cenarion Circle, and killing them for any reason, no matter how necessary, weakens their spirit."
+ },
+ {
+  "id": 8256,
+  "t": "The Ichor of Undeath",
+  "o": "Acquire an Ichor of Undeath for Ogtinc in Azshara.  Ogtinc resides atop the cliffs northeast the Ruins of Eldarath.",
+  "d": "For this restorative salve, you must use a simple formula: one part poison, two parts cure.  You have acquired one cure, now you must gather the poison.$b$bPowerful undead, such as the lingering highborne who wander the Ruins of Eldarath, are sometimes so infused with evil that it coalesces into a sickly greenish goo.  To the living, this substance is known as ichor of undeath.$b$bDue to the potency of this vile element, I require only a single ichor.",
+  "p": "We must obtain the ichor quickly. Have you found it?",
+  "c": "I cannot say I'm pleased to receive such a wretched substance, but it is a necessary evil. Thank you, $N."
+ },
+ {
+  "id": 8257,
+  "t": "Blood of Morphaz",
+  "o": "Kill Morphaz in the sunken temple of Atal'Hakkar, and return his blood to Greta Mosshoof in Felwood.  The entrance to the sunken temple can be found in the Swamp of Sorrows.",
+  "d": "Now the last part, the second cure.$b$bThe green drake Morphaz is known to be immune to all forms of poison and disease -- many druids died to bring us this information.  There is no doubt his blood is potent for our needs.$b$bA courier from the Cenarion Circle will take the parts you have already collected while you gather the last.  Summon your allies and seek out the drake's lair in the sunken temple of Atal'Hakkar.  Bring his blood to Greta Mosshoof in Felwood.",
+  "p": "Do you have the blood of Morphaz?",
+  "c": "You have slain Morphaz and carried his blood to us... I can hardly believe this good news!$B$BWe will combine the ingredients at once and begin healing the trees and creatures of Felwood. It will take a lifetime to undo what has happened here, but you have given us the means to do it."
+ },
+ {
+  "id": 8258,
+  "t": "The Darkreaver Menace",
+  "o": "Use the Divination Scryer in the heart of the Great Ossuary's basement in the Scholomance.  Doing so will bring forth spirits you must fight.  Defeating these spirits will summon forth Death Knight Darkreaver; defeat him.$B$BBring Darkreaver's Head to Sagorne Creststrider in the Valley of Wisdom, Orgrimmar.",
+  "d": "Death Knight Darkreaver lords over the Great Ossuary in the Scholomance.  He threatens to twist the spirit realm to do his own bidding, and he must be stopped!  This is where the scryer you helped make comes into play.$B$BUse the divination scryer in the heart of the Great Ossuary's basement to call forth Darkreaver's spirit minions.  Defeat the spirits and the death knight himself will appear.  $N, bring me his head!  Only his demise will reverse the damage done to the spirit realm!",
+  "p": "Time is critical, $N - have you succeeded in stopping Death Knight Darkreaver's threat?",
+  "c": "This is a victory to savor, $N! The demise of Darkreaver should restore the fragile fetters that anchor the spirit realm.$B$BYou have far exceeded what was asked of you, even when you had no notion of reward or compensation. You are truly a $c of worth, my friend.$B$BI know that acting to preserve the spirit realm should be thanks enough, but please - accept this simple gift with my thanks."
+ },
+ {
+  "id": 8260,
+  "t": "Arathor Basic Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 8261,
+  "t": "Arathor Standard Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 8262,
+  "t": "Arathor Advanced Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 8263,
+  "t": "Defiler's Basic Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Honored with us, and bandages when you are Revered."
+ },
+ {
+  "id": 8264,
+  "t": "Defiler's Standard Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Honored with us, and bandages when you are Revered."
+ },
+ {
+  "id": 8265,
+  "t": "Defiler's Advanced Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.$b$bAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Honored with us, and bandages when you are Revered."
+ },
+ {
+  "id": 8266,
+  "t": "Ribbons of Sacrifice",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Well, you did not flee in the face of defeat. You stood your ground, $N, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort."
+ },
+ {
+  "id": 8267,
+  "t": "Ribbons of Sacrifice",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Well, you did not flee in the face of defeat. You stood your ground, $N, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort."
+ },
+ {
+  "id": 8268,
+  "t": "Ribbons of Sacrifice",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Well, you did not flee in the face of defeat. You stood your ground, $N, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort."
+ },
+ {
+  "id": 8269,
+  "t": "Ribbons of Sacrifice",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Well, you did not flee in the face of defeat. You stood your ground, $N, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort."
+ },
+ {
+  "id": 8270,
+  "t": "test copy quest",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Excellent! You've proven to be a valuable ally in preparing for the war against the silithid."
+ },
+ {
+  "id": 8271,
+  "t": "Hero of the Stormpike",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "As a hero of the Stormpike, you may choose one item from these recently plun... er, recovered treasures."
+ },
+ {
+  "id": 8272,
+  "t": "Hero of the Frostwolf",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "How does it feel, $N? How does it feel to crush your enemies and watch their lines break apart? It feels good, doesn't it?$b$bYou should be rewarded for this heroic deed, soldier."
+ },
+ {
+  "id": 8273,
+  "t": "Oran's Gratitude",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Now isn't this interesting? You say you found this tablet on a small, deserted island at The Overlook Cliffs in The Hinterlands, $c? Very interesting indeed. <Oran carefully puts the tablet away and rubs her hands together.>$B$BI thank you for your efforts in this matter. Our Dark Lady shall be very pleased with this discovery. Here, allow me to reward you proportionately."
+ },
+ {
+  "id": 8274,
+  "t": "Test Kill Quest",
+  "o": "Kill 5 Murlocs and come back to the test character.",
+  "d": "Got some time to spare?  Kill me some Murlocs and I'll give you something shiny!",
+  "p": "",
+  "c": "You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage."
+ },
+ {
+  "id": 8275,
+  "t": "Taking Back Silithus",
+  "o": "Talk to Windcaller Proudhorn at Cenarion Hold in Silithus.",
+  "d": "Attention, heroes of the Alliance!  The silithid menace has been left unchecked for too long.  Unfettered by any real opposition, they've been preparing all this time for a large-scale expansion.  $B$BCenarion Circle forces are gathering in Silithus to take the fight to these wretched creatures and all able-bodied adventurers are hereby called to join us!$B$BDon't wait until it's too late!  Aid us in the defense of Azeroth! Report to Windcaller Proudhorn at Cenarion Hold for specific instructions!",
+  "p": "",
+  "c": "Excellent, a new recruit answering the call to arms against the silithid. Welcome to Cenarion Hold, $c. I am pleased to see the words of our emissaries are reaching heroes of your caliber. You will find no shortage of opportunities to help us in our efforts here and I expect you'll quickly prove to be a valuable ally to our cause."
+ },
+ {
+  "id": 8276,
+  "t": "Taking Back Silithus",
+  "o": "Talk to Windcaller Proudhorn at Cenarion Hold in Silithus.",
+  "d": "Attention, champions of the Horde!  There's a threat we've left unchallenged for too long.  Tremors in the earth near silithid hives all around Azeroth have alerted us to large movements in their numbers as they prepare for expansion.$B$BCenarion Circle forces are gathering in Silithus to take the fight to the silithid before it's too late!  No more shall they defile our lands!$B$BAll able-bodied combatants are to report to Windcaller Proudhorn at Cenarion Hold!  The silithid shall be vanquished!",
+  "p": "",
+  "c": "Excellent, a new recruit answering the call to arms against the silithid. Welcome to Cenarion Hold, $c. I am pleased to see the words of our emissaries are reaching heroes of your caliber. You will find no shortage of opportunities to help us in our efforts here and I expect you'll quickly prove to be a valuable ally to our cause."
+ },
+ {
+  "id": 8277,
+  "t": "Deadly Desert Venom",
+  "o": "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 8 Stonelash Scorpid Stingers and 8 Sand Skitterer Fangs. Return to her when you have completed the task.",
+  "d": "Beetix Ficklespragg at your service!  My cousin Noggle makes a living gathering rare herbs for Cenarion Hold alchemists.  Or used to, anyway.  He came back from his last trip with a strong poison running though his veins.$B$BI've managed to slow down the venom, but to fully neutralize it I need poison samples from whatever stung him.$B$BNoggle arrived from the north, so I'd bet my shirt stonelash scorpids or sand skitterers did it.  Bring me some stingers and fangs and I'll try to make an antidote for him.",
+  "p": "Are you done collecting those samples?  We could lose Noggle any minute now!",
+  "c": "Cross your fingers, friend!  Here's to hoping we can save Noggle!"
+ },
+ {
+  "id": 8278,
+  "t": "Noggle's Last Hope",
+  "o": "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 3 Stonelash Pincer Stingers, 3 Stonelash Flayer Stingers and 3 Rock Stalker Fangs.",
+  "d": "Blasted!  The antidote didn't work.  Noggle must've been stung by one of the stronger creatures in the far south.$B$BI'm going to need you to go there and get me some more samples, $N.  The good news is that since their poison is stronger I won't require as many.  The bad news is that there are more kinds of poisonous creatures crawling around the southern area so you'll have to draw from more sources.",
+  "p": "This is our last chance to save Noggle!  Hurry!",
+  "c": "Yes!  It seems to be working, Noggle is coming to.  We owe ya big time!"
+ },
+ {
+  "id": 8279,
+  "t": "The Twilight Lexicon",
+  "o": "Bring the three chapters of the Twilight Lexicon to Hermit Ortell in Silithus.  ",
+  "d": "The Twilight's Hammer are not kind to those that leave their ranks.  They hunt me to this day like I'm some sort of beast!  Needless to say, an enemy of theirs is a friend of mine!$B$BTo decipher this Tablet I'll need the book used by their scribes to encode secret messages: the Twilight Lexicon.  It's such an important tool that they keep its three chapters in different locations!  The officers entrusted with the Lexicon are known as Twilight Keepers.  Look for them at the Twilight's Hammer camps.",
+  "p": "Who goes there?  Oh, it's you!  Did you find all the Lexicon chapters yet?",
+  "c": "Yes! These are the parts to the book!  Let's get started then, $N.$B$BSwap every third word with words from the second chapter... then swap every other word with words from the first chapter...  Wait, did I get that backwards?"
+ },
+ {
+  "id": 8280,
+  "t": "Securing the Supply Lines",
+  "o": "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to kill 15 Dredge Strikers.",
+  "d": "Cenarion Hold is a location of utmost strategic importance.  I'm convinced that while we hold it our victory over the silithid is guaranteed.  Provided our influx supplies can be maintained, that is.$B$BDesert worms have proven to be more of a threat to our supply caravans than even the silithid themselves.  Just this morning, a large shipment of morrowgrain was ravaged by a group of dredge strikers.  I need you to thin their numbers to ensure our supplies aren't jeopardized.",
+  "p": "The dredge strikers are a serious threat and must be dealt with quickly!",
+  "c": "You have my sincere gratitude.  Your efforts in helping Cenarion Hold have shown true courage."
+ },
+ {
+  "id": 8281,
+  "t": "Stepping Up Security",
+  "o": "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to slay 20 Dredge Crushers.",
+  "d": "Your performance has been truly exemplary so far, $N.  Our supply lines are not completely safe yet, however.  In the absence of dredge strikers, their larger southern cousins will surely move in to take their place in the north.$B$BYou'll have to kill quite a few dredge crushers to keep them at bay, but we cannot leave the safety of our supply lines to chance.  ",
+  "p": "The dredge crushers are a serious threat and must be dealt with at once!",
+  "c": "Excellent!  You've proven to be a valuable ally in preparing for the war against the silithid.  "
+ },
+ {
+  "id": 8282,
+  "t": "Noggle's Lost Satchel",
+  "o": "Retrieve Noggle's Satchel from the mountains in the south of Silithus and return it to him at Cenarion Hold.",
+  "d": "Where am I?  Where's my bag? *gasp* I must've lost it while fleeing from Deathclasp, the giant scorpid.  In my rush to escape I walked right into a nest of stonelash flayers.$B$BThe satchel I was carrying had all sorts of rare reagents in it.  Without them, me and Beetix won't be able to make the potions that Cenarion Hold needs.  I'm too weak to get up yet, but I can make it worth your while if you bring back my reagents.$B$BI ran into Deathclasp in the southern mountain range, behind Bronzebeard's camp.",
+  "p": "Still haven't found my bag?  Well I should count my lucky stars, at least the poison's been cleansed.",
+  "c": "Yes!  You brought my satchel back.  And my rare reagents are all here!  I'll be in your debt for a long time."
+ },
+ {
+  "id": 8283,
+  "t": "Wanted - Deathclasp, Terror of the Sands",
+  "o": "Bring Deathclasp's Pincer to Vish Kozus, Captain of the Guard.",
+  "d": "The terrible scorpid, Deathclasp, is believed to have retreated to the southern mountain range in the presence of increased silithid activity.  She presents a great threat to patrols and expeditions in the southern regions.  Individuals participating in her destruction will be remunerated handsomely.  Inquire with Captain Vish Kozus, at the top of the Cenarion Hold Watchtower, regarding a reward.",
+  "p": "I'll need the creature's pincer as proof of the deed. No pincer, no reward.",
+  "c": "Excellent! With Deathclasp gone we're free to use the southern mountain range as a strategic path to circumvent the silithid hives. Your work is greatly appreciated."
+ },
+ {
+  "id": 8284,
+  "t": "The Twilight Mystery",
+  "o": "Geologist Larksbane at Cenarion Hold in Silithus wants you to collect 8 Twilight Tablet Fragments.",
+  "d": "A camp of Twilight's Hammer cultists once thrived northwest of here.  If you were to venture there now, you'd find the area swarming with elementals and nothing but scattered pieces of wood and canvas to mark the spot where the camp was.$B$BI've recovered a few fragments of a clay tablet from the site, but I have too few of them to piece together anything useful.  See if you can find the remaining tablet fragments so we can shed some light into the Twilight's Hammer presence here in Silithus.",
+  "p": "The ravaged camp can be found northwest of here.  Come back when you have all the fragments.",
+  "c": "Just as I suspected.  I can decipher individual words in the tablets but they appear to be devoid of any logic or meaning.  It's not unknown for Twilight's Hammer sects to use a code to hide the meaning of their texts; we'll have to go to someone who knows more about this sort of thing."
+ },
+ {
+  "id": 8285,
+  "t": "The Deserter",
+  "o": "Take the restored tablet to Hermit Ortell in Silithus.$B",
+  "d": "There are rumors of a Twilight's Hammer member called Ortell having deserted his sect.  Word has it he hid in the mountains south of Southwind Village, where he lives as a hermit.  Perhaps you can enlist his help in deciphering the tablet.$B$BTake the restored tablet with you and seek out Ortell.",
+  "p": "You!  How did you find me?  Who are you?  You weren't followed, were you?  Speak!",
+  "c": "I see you're familiar with my old organization.  You must be with Cenarion Hold.  $B$BYou seek information to use against them?  Come closer, perhaps we can be of mutual assistance."
+ },
+ {
+  "id": 8286,
+  "t": "What Tomorrow Brings",
+  "o": "Venture to the Caverns of Time in Tanaris and find Anachronos, Brood of Nozdormu.",
+  "d": "The embrace of death had all but overcome my being when he intervened. He breathed only once upon my maimed body and then waited patiently for the sands of time to cleanse my wounds.$B$B\"Forever you will remain if you must,\" he said, and with those words I was bound as a Watcher.$B$BLook now to the desert. The second war is upon us. You must seek out the resting place of the Bronze. Venture to the Caverns of Time and see if the master has returned. I must be sure before I am able to proceed.",
+  "p": "Has Anachronos returned?",
+  "c": "It is as it should be - the great one has risen. My watch comes to an end... "
+ },
+ {
+  "id": 8287,
+  "t": "A Terrible Purpose",
+  "o": "Take the Decoded Tablet Parchment to Commander Mar'alith.",
+  "d": "Ok, here we are... a pretty valuable chunk of information, I must say!  I've seen the Cenarion Circle forces arrive at Silithus.  They plan to drive the Twilight's Hammer out, don't they?  This will help.  $B$BTake this parchment to their leader, Commander Mar'alith.  Soon the Twilight's Hammer will be vanquished and I will be outside their grasp for good!",
+  "p": "What is this you bring to me, $N?",
+  "c": "This is very interesting information indeed, $N.  This sheds some light on the presence of the Twilight's Hammer in Silithus and will undoubtedly help us in our struggle against them.  Your efforts will be handsomely rewarded, $c."
+ },
+ {
+  "id": 8288,
+  "t": "Only One May Rise",
+  "o": "Return the Head of the Broodlord Lashlayer to Baristolth of the Shifting Sands at Cenarion Hold in Silithus.",
+  "d": "There is no time to waste! A hero must be found! The task I give will require an army to complete but only one may rise from the throng of would be champions to take on the burden and responsibility of an ally of the Brood.$B$BWithin the lair of the Lord of Blackrock is a most cruel beast. The Broodlord Lashlayer guards the Halls of Strife, blocking the way into Nefarian's inner sanctum. Slay the foul aberration and return his head to me. Do this and you may begin the next step of your journey.",
+  "p": "It is the favor of the Brood of Nozdormu that you must earn.",
+  "c": "Could you be the first to earn favor among the Bronze Flight in a thousand years?"
+ },
+ {
+  "id": 8290,
+  "t": "Vanquish the Invaders",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8291,
+  "t": "Vanquish the Invaders!",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8292,
+  "t": "Talismans of Merit",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Thank you, $N. Your exploits in Warsong Gulch ring throughout Ashenvale Forest."
+ },
+ {
+  "id": 8293,
+  "t": "Mark of Honor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!"
+ },
+ {
+  "id": 8294,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.",
+  "p": "The blood of our enemies is a mark of honor. Do you have such a mark?",
+  "c": "<Captain Shatterskull roars in triumph.>$B$BHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, $R."
+ },
+ {
+  "id": 8295,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8297,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "Do you have the resource crate, $N? The League of Arathor can't fight a decent battle without them...",
+  "c": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.$B$BThank you, $N. Indeed, performing successful missions like the one you achieved are how wars are truly won."
+ },
+ {
+  "id": 8298,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the League of Arathor has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by footman and field marshal alike."
+ },
+ {
+  "id": 8299,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8300,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the Defilers has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by grunt and high warlord alike."
+ },
+ {
+  "id": 8301,
+  "t": "The Path of the Righteous",
+  "o": "Collect 200 Silithid Carapace Fragments and return to Baristolth.",
+  "d": "The Brood of Nozdormu are naturally distrusting of the lesser races. While it is true that you have proven to me that you have the potential makings of a hero, the time has come to prove this to my master.$B$BHive'Ashi, Hive'Zora, Hive'Regal: All swarming with activity and all a threat to our existence. Slay silithid at these hives and take from them a fragment of their carapace. When you can carry no more, return to me and I shall strengthen your resolve.",
+  "p": "There is much history rooted in their distrust of the mortal races; but alas, such is a tale better left for the Brood to tell when the time is right.",
+  "c": "You are not alone, hero. I will now grant you the ability to deputize others to help you in your quest. If you are to be the champion of your people, you will need assistance in your tasks and duties."
+ },
+ {
+  "id": 8302,
+  "t": "The Hand of the Righteous",
+  "o": "Collect 200 Silithid Carapace Fragments and return to Baristolth.",
+  "d": "Choose your deputies wisely, mortal. Each time you return with your task complete, a new deputy you will be allowed to choose.$B$BWith that said, I require more of the carapace fragments. Waste no time!",
+  "p": "Perhaps one day the whole of Cenarion Hold will be working under your command.",
+  "c": "Well done, hero. You will now be granted the ability to deputize another Agent of Nozdormu."
+ },
+ {
+  "id": 8303,
+  "t": "Anachronos",
+  "o": "Seek out Anachronos at the Caverns of Time in Tanaris.",
+  "d": "It is time, $N.$B$BI must apologize for keeping so much in secret. Enemies abound, even under our very noses. Please, read from this tome and learn. Take the knowledge I give to you and seek out our master.",
+  "p": "",
+  "c": "You are the hope of Kalimdor, $N."
+ },
+ {
+  "id": 8304,
+  "t": "Dearest Natalia",
+  "o": "Commander Mar'alith at Cenarion Hold in Silithus wants you to question the inhabitants of Bronzebeard's Encampment. You will find Bronzebeard's Encampment south of Cenarion Hold.$B$BOnce you have gathered the requested information, return to Commander Mar'alith.",
+  "d": "My dear Natalia has gone missing.$B$BTruth be told, she had been acting strangely for weeks leading up to her disappearance. I had caught her talking to herself when no one was around on more than one occasion. She was adamant that everything was ok and that she must be allowed to continue her research.$B$BShe was last seen heading to Bronzebeard's camp to the south.$B$BMy soldiers are spread too thin, $N. I need you to go to Bronzebeard's camp and question those dwarves. ",
+  "p": "Waste no time, $N!",
+  "c": "<Commander Mar'alith lowers his head in contemplation.>$B$BWhether she is alive or dead, I must do what is right. She must be found. Alas, I am bound by duty to this outpost. Will you help me once more, $N?"
+ },
+ {
+  "id": 8305,
+  "t": "Long Forgotten Memories",
+  "o": "Locate the Crystalline Tear in Silithus and gaze into its depths.",
+  "d": "In the southern desert of Silithus, near the sacred barrier, exists a single crystalline tear. This tear serves as a symbol of the great losses beset upon us during the War of the Shifting Sands. Locate this tear and gaze into its depths to gain enlightenment.$B",
+  "p": "",
+  "c": "You can feel a great sorrow revolving around this crystal. The force is so powerful that you feel as if you might collapse and die of sadness."
+ },
+ {
+  "id": 8306,
+  "t": "Into The Maw of Madness",
+  "o": "Commander Mar'alith at Cenarion Hold in Silithus wants you to find his beloved Natalia. The information that you gathered points to Hive'Regal in the south as being the area in which you may find Mistress Natalia Mar'alith.$B$BDo not forget to visit the dwarves at Bronzebeard's camp before venturing into the hive. They might have some additional work and advice for you.$B$BAnd $N, remember the Commander's words: \"Do what you must...\"",
+  "d": "I need you to venture into Hive'Regal and find what became of my dearest Natalia, $N. This will be no easy task for you. Before you dive headlong into the maw of madness, make sure that you go back and speak with those dwarves. They might be able to give you some tips on dealing with the silithid that inhabit that hive.$B$BAnd $N, if she truly is as mad as they say... do what you must.$B$B<Commander Mar'alith turns away from you.>$B",
+  "p": "Natalia?",
+  "c": "<Commander Mar'alith clutches at his chest.>$B$BC'Thun? WHAT is the meaning of all this? What is C'Thun? How could this fiend have turned my sweet Natalia into the monster that you described?"
+ },
+ {
+  "id": 8307,
+  "t": "Desert Recipe",
+  "o": "Look for information about cooking Sandworm Meat at the Twilight's Hammer camp west of Cenarion Hold.",
+  "d": "Adapting to life in the desert has been difficult to say the least.  Not only do I miss the birds and trees of Auberdine but our food selection is severely limited by this arid environment.  I'm trying to learn about desert herbs, but there aren't many.$B$BI've seen Twilight's Hammer groups from the camp west of here hunt sandworms for food.  Sandworm meat is so bitter though, I can't imagine how they make it palatable.  Keep your eyes open if you go to their camp and let me know if you learn anything.",
+  "p": "",
+  "c": "This book contains several common recipes and a few unusual ones. After browsing through it for a few seconds you spot a recipe that involves sandworm meat."
+ },
+ {
+  "id": 8308,
+  "t": "Brann Bronzebeard's Lost Letter",
+  "o": "Take Brann Bronzebeard's Letter to Bronzebeard's Encampment in southern Silithus.",
+  "d": "To Whom It May Concern:$B$BIf you're reading this, I'm either dead or soon to be dead. It's hard to say. Most of the crew is dead anyhow.$B$BFound information about a Titan. Great battle between him and an Old God. Yes, a bona fide Old God. Found ancient tunnel leading to Ahn'Qiraj. Taking it.$B$BTake this letter to my old camp. Make sure my monkey is getting adequate food, water, and hugs.$B$B-Brann Bronzebeard, Explorer Extreme$B$BP.S. Watch out for crazy Old God worshipping night elf.",
+  "p": "Oh dear.",
+  "c": "Well this explains a lot. If you ever find a way into Ahn'Qiraj, keep an eye out for ol' Brann. I'm afraid that he'll be powerless without his monkey."
+ },
+ {
+  "id": 8309,
+  "t": "Glyph Chasing",
+  "o": "Rutgar Glyphshaper at Bronzebeard's Encampment in Silithus wants you to venture to Hive'Ashi, Hive'Zora, and Hive'Regal and recover Glyphed Rubbings from the Glyphed Crystals of each hive.$B$BUse the Geologist's Transcription Kit to make a reasonable facsimile of the ancient glyphs. Return to Rutgar Glyphshaper when you complete this task.",
+  "d": "After our initial foray into the hives and Mistress Mar'alith's subsequent madness the three hives have been spewing out bugs! The increased activity might be tied into the glyphs covering those strange crystals.$B$BWe must get a rubbing from crystals in all three hives. If we can get those rubbings, we might be able to make sense of this madness.$B$BTake this transcription set  and hit those hives, $N. Don't come back until you've gotten copies from each hive.",
+  "p": "If you find some crazy night elf lass in one of the hives, be sure to give her a kick in the duff for us.",
+  "c": "I can't make heads or tails of these glyphs. I've never seen anything like it! I hope Frankal's research can shed some light on this mess."
+ },
+ {
+  "id": 8310,
+  "t": "Breaking the Code",
+  "o": "Frankal Stonebridge at Bronzebeard's Encampment in Silithus wants you to recover a Hive'Zora Silithid Brain, Hive'Ashi Silithid Brain, and a Hive'Regal Silithid Brain. Return to Frankal when you have completed this task.",
+  "d": "I think I can formulate an elixir that will allow us to more readily decipher the glyphs and language of the silithid and Qiraji! What do I need? Glad you asked! I need brains! More specifically, a brain from each silithid type that inhabit the hives. Bring me brains and Rutgar's work might not be for naught.",
+  "p": "Go play with the monkey, kid. I don't have time for this.",
+  "c": "Outstanding! Don't wander off too far, kid. We might need you to take on another task or two."
+ },
+ {
+  "id": 8311,
+  "t": "Hallow's End Treats for Jesper!",
+  "o": "Speak with the innkeepers of Stormwind, Ironforge, and Darnassus, as well as Talvash del Kissel in Ironforge.  Perform the tricks they ask of you in exchange for the treats they offer.$B$BReturn to Jesper at the Stormwind Orphanage with a Darnassus Marzipan, Gnomeregan Gumdrop, Stormwind Nougat, and Ironforge Mint.",
+  "d": "I want to go trick-or-treating, but I can't because I'm sick.  If you go for me, I'd trade you the candy you get for some I already have!  I think you'd like this candy - it makes you turn into things both funny and scary!$B$BEach of the innkeepers in the big cities have candy they give for Hallow's End - talk to them and do the tricks they ask for!  Also, a little gnome named Talvash in Ironforge is handing out candy as well.  When you have all the candy, bring them back to me here!",
+  "p": "Have you finished trick-or-treating yet?  I'm sad that I can't go because I'm sick, but you helping me out makes me feel a little better...",
+  "c": "Wow, you got them all!  You're awesome!$B$BThank you for trick-or-treating for me.  Here, take these pumpkin treats - I think you'll like them a lot!$B$BHappy Hallow's End, $N!"
+ },
+ {
+  "id": 8312,
+  "t": "Hallow's End Treats for Spoops!",
+  "o": "Speak with the innkeepers of Orgrimmar, Undercity, and Thunder Bluff, as well as Kali Remik in Sen'jin Village.  Perform the tricks they ask of you in exchange for the treats they offer.$B$BReturn to Spoops at the Orgrimmar Orphanage with a Thunder Bluff Marzipan, Darkspear Gumdrop, Orgrimmar Nougat, and Undercity Mint.",
+  "d": "I want to go trick-or-treating, but I can't because I'm sick.  If you go for me, I'd trade you the candy you get for some I already have!  I think you'd like this candy - it makes you turn into things both funny and scary!$B$BEach of the innkeepers in the big cities have candy they give for Hallow's End - talk to them and do the tricks they ask for!  Also, a troll named Kali Remik in Sen'jin Village is handing out candy as well.  When you have all the candy, bring them back to me here!",
+  "p": "Have you finished trick-or-treating yet?  I'm sad that I can't go because I'm sick, but you helping me out makes me feel a little better...",
+  "c": "Wow, you got them all!  You're awesome!$B$BThank you for trick-or-treating for me.  Here, take these pumpkin treats - I think you'll like them a lot!$B$BHappy Hallow's End, $N!"
+ },
+ {
+  "id": 8313,
+  "t": "Sharing the Knowledge",
+  "o": "Bring the Torn Recipe Page to Calandrath at the inn in Cenarion Hold.",
+  "d": "While the recipe for cooking sandworm meat is legible, it contains references to herbs and spices you've never heard of.  Calandrath might have enough knowledge of the plants that grow in the desert to make sense of it.  ",
+  "p": "Did you learn the recipe?  You won't keep it to yourself, I hope!",
+  "c": "Let's have a look at that...$B$BThis seems simple enough.  They have their own names for some of the herbs, but those are simple enough to figure out.  Here, let me show you!  "
+ },
+ {
+  "id": 8314,
+  "t": "Unraveling the Mystery",
+  "o": "Rutgar Glyphshaper at Bronzebeard's Encampment wants you to deliver the Glyphed Crystal Prism to Geologist Larksbane at the Cenarion Hold in Silithus.",
+  "d": "We're on the verge of a breakthrough, $N! The rubbings you recovered have allowed us to recreate the glyphs on this crystalline prism. They are apparently a means for the Qiraji and other unknown entities to communicate various messages to the silithid.$B$BUnfortunately, that is all we could get out of the glyphs. We need to find a way to unlock the messages hidden within the crystals.$B$BTake the glyphed crystal prism to Geologist Larksbane at Cenarion Hold.  She might be able to help.",
+  "p": "Oh my! What do you have there, $N?",
+  "c": "The reason the dwarves could not decipher the glyphs is because there is nothing to decipher. The shifting outer layer of the prism must properly align with the inner crystal's markings in order for the message to be transmitted. Clever...$B$BWhile we should be able to translate this data, we must first unlock the code. There is only one clue on the surface of the prism - assuming the rubbings were transferred correctly - and it looks grim."
+ },
+ {
+  "id": 8315,
+  "t": "The Calling",
+  "o": "Geologist Larksbane at Cenarion Hold in Silithus wants you to recover the Crystal Unlocking Mechanism from the Qiraji Emissary.$B$BYou have been instructed to take the Glyphs of Calling to the Bones of Grakkarond, south of Cenarion Hold, and draw them in the sand. Should the Qiraji Emissary appear, slay it and recover the Crystal Unlocking Mechanism. Return to Geologist Larksbane if you succeed.$B$BAssemble an army for this task, $N!",
+  "d": "The glyphs illustrate an emissary of the Qiraji meeting with three silithid at the bones of a large dragon. Above the glyphs is what I can only assume to be a code of some sort. This code might very well be the key to summoning the emissary.$B$BI will create a copy of the glyph code that you must use in the sand at the Bones of Grakkarond. If I am right, the Overlords will come thinking that new data is ready for transmission. Strike them down and confront the emissary. He holds the key to the crystals...",
+  "p": "You must take the opportunity as it presents itself and strike!",
+  "c": "I hold 20,000 years of history in my hands, $N!"
+ },
+ {
+  "id": 8316,
+  "t": "Armaments of War",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "War comes, $N, and with it comes untold horrors. You have done all that could be asked of you and for that you should be rewarded.$B$BShould this... this prophecy ever come to pass...$B$B<Geologist Larksbane turns pale.>$B$BThe future of us all could be at an end.$B$BThese armaments will prove invaluable to your campaign in this desert."
+ },
+ {
+  "id": 8317,
+  "t": "Kitchen Assistance",
+  "o": "Calandrath at Cenarion Hold needs a batch of 10 Smoked Desert Dumplings.",
+  "d": "That recipe sure will come in handy.  I'd better get to work so I can have some smoked desert dumplings ready for today.  I could use a hand in making some, I'll make it worth your while.",
+  "p": "How are those dumplings coming along? ",
+  "c": "Excellent! You're a life saver. These dumplings turned out to be quite good. Didn't really expect such good taste from the Twilight's Hammer."
+ },
+ {
+  "id": 8318,
+  "t": "Secret Communication",
+  "o": "Bring 10 Encrypted Twilight Texts to Bor Wildmane in Cenarion Hold.",
+  "d": "Some of the Twilight's Hammer cultists carry around little papers with gibberish written on them.  I want you to bring me a stack of them, $c.$B$BI can't figure out what the gibberish means, but that's not the point!  These papers are how their different groups communicate secretly.  The more texts we take out of circulation, the less they can communicate!",
+  "p": "Did you bring me some texts?",
+  "c": "Excellent!  I'll stash these away, maybe they'll be useful later."
+ },
+ {
+  "id": 8319,
+  "t": "Encrypted Twilight Texts",
+  "o": "",
+  "d": "",
+  "p": "Keep bringing me texts.  We'll soon force the Twilight's Hammer out of Silithus.",
+  "c": "Excellent work!  I'll put a good word in for you."
+ },
+ {
+  "id": 8320,
+  "t": "Twilight Geolords",
+  "o": "Kill 10 Twilight Geolords, then return to Huum Wildmane in Cenarion Hold.",
+  "d": "The Twilight's Hammer, an insane cult bent on destruction, set up camps in Silithus and perform rituals day and night.  We do not yet know their plans, but we do think they are somehow linked to the pulsing red crystals spread across the desert.$B$BAlthough their mystery may one day be solved, we must first deal with their immediate threat.  Go to their camps to the west and seek out Twilight geolords.  They are the heads of these serpents; that is where we must strike!",
+  "p": "Enter the desert and find the Twilight geolords, $N. Return to me after they are slain.",
+  "c": "That was a task well performed, $N.  Your slaying of the Twilight geolords must have dealt a grievous blow to the cult.  Let us hope their plans are slowed..."
+ },
+ {
+  "id": 8321,
+  "t": "Vyral the Vile",
+  "o": "Bring Vyral's Signet Ring to Huum Wildmane in Cenarion Hold.",
+  "d": "We have discovered another base of operations for the Twilight's Hammer.  It is called Twilight's Run; it is a cave tucked in the northeast corner of Silithus.  The local leader of the cult, Vyral the Vile, haunts that cave - it is he who you must next defeat.  When you have done this, bring me his signet ring.$B$BFortune to you, $N.  The horrors of Twilight's Run are formidable indeed.",
+  "p": "$N, have you yet defeated Vyral the Vile?  Do you have his signet ring?",
+  "c": "You've done it!  Vyral is killed!  This can only mean doom for the Twilight Hammer's operations in Silithus. There may be more of them scurrying about, but the blow you dealt to the cult today is one from which they will not easily recover."
+ },
+ {
+  "id": 8322,
+  "t": "Rotten Eggs",
+  "o": "Place the Rotten Eggs in the main brew keg located inside the Southshore Inn.",
+  "d": "The humans of Southshore love their ale, and as such they prize the ale served at the Southshore Inn.  With the chaos of Hallow's End now upon them, we can use it to ruin their latest batch of beverages for weeks - if not months to come!$B$BTake these rotten eggs and place them in the main brew keg inside the Southshore Inn.  Your presence alone will cause strife, so be prepared to defend yourself!$B$BOnce you've given Southshore a taste they'll not soon forget, return to me here at the festival!",
+  "p": "",
+  "c": "The keg is filled with ale.$B$BHaving successfully fought your way inside the inn, you now place the eggs inside the keg. You can smell the foul odor permeating the air..."
+ },
+ {
+  "id": 8323,
+  "t": "True Believers",
+  "o": "Hermit Ortell wants you to bring him 10 Encrypted Twilight Texts",
+  "d": "Now that I have the Twilight Lexicon in my possession, there is a small favor I'd like to ask of you.$B$BMy former organization has a secret encoded bulletin they circulate on a monthly basis.$B$BIf they make any progress searching for me or if they call off the search, word will be published on the True Believer.$B$BAlthough this information is obviously valuable to me, the publication contains other useful information that I can share.  Bring me any encoded texts you find on Twilight's Hammer members.",
+  "p": "Did you find any encrypted texts?  I'm quite curious to read this month's True Believer.",
+  "c": "Excellent!  I will get to decoding these as soon as possible.  If I find anything of interest I'll find some way to get the information to you."
+ },
+ {
+  "id": 8324,
+  "t": "Still Believing",
+  "o": "",
+  "d": "",
+  "p": "Find any more encrypted texts? Bring me a good batch of them, this decoding work takes some time.",
+  "c": "Excellent!  I can't wait to read these. Please do keep bringing the encrypted texts here if you find them."
+ },
+ {
+  "id": 8328,
+  "t": "Mage Training",
+  "o": "Speak with Julia Sunstriker - the Mage class trainer - inside the Sunspire on Sunstrider Isle.",
+  "d": "As you advance within your class, you will want to take advantage of the training that your class trainer can provide you.  For young mages here on Sunstrider Isle, your trainer is Julia Sunstriker.  Speak with Julia and see what training she has available for you.  The things she will teach do have a cost, so bring some coin with you.$B$BJulia - as with all the trainers on Sunstrider Isle - is inside the Sunspire on the lower level.",
+  "p": "",
+  "c": "Ah, $N - I believe you're one of the new mages here on the isle, yes? Well, you've come to the right place. If arcane mastery is what you seek, then I can provide such knowledge - as long as you have the wherewithal to handle training costs and the capacity to focus on the lessons I'll be teaching.$B$BLet's get started!"
+ },
+ {
+  "id": 8329,
+  "t": "Warrior Training",
+  "o": "Speak with Jesthenis Sunstriker - the warrior class trainer - inside the Sunspire on Sunstrider Isle.",
+  "d": "As you advance within your class, you will want to take advantage of the training that your class trainer can provide you.  For young warriors here on Sunstrider Isle, your trainer is Jesthenis Sunstriker.  Speak with Jesthenis and see what training he has available for you.  The things he will teach do have a cost, so bring some coin with you.$B$BJesthenis - as with all the trainers on Sunstrider Isle - is inside the Sunspire on the lower level.",
+  "p": "",
+  "c": "Welcome to the Sunspire, young $c! Mastery of weapons and battle tactics begins here and now - all I ask of my pupils is that they cover payment for training costs that may come up, and that they are as good of a listener as they are an aspiring $c. The lessons I have to teach are extensive, and I don't like to repeat myself unnecessarially.$B$BLet's get to it then!"
+ },
+ {
+  "id": 8331,
+  "t": "Aurel Goldleaf",
+  "o": "Speak with Aurel Goldleaf in Cenarion Hold.",
+  "d": "$N, although we had hoped the Twilight's Hammer's operations in Silithus were slowing... we were, regrettably, mistaken.  Through continued forays against the cult, we have learned that an even darker power, the Abyssal Council, controls the Hammer through the arcane wind stones dotted amongst the cult's camps.  Your next action, $N, will be against the Abyssal Council.$B$BSpeak with the craftsman Aurel Goldleaf, in the eastern section of Cenarion Hold.  Her skill will be needed for this next gambit.",
+  "p": "",
+  "c": "$N, good day. I was told you will pit yourself against the Abyssal Council? If that is so, then listen closely to my next words..."
+ },
+ {
+  "id": 8332,
+  "t": "Dukes of the Council",
+  "o": "Bring 1 Large Brilliant Shard and 3 Abyssal Crests to Aurel Goldleaf in Cenarion Hold.",
+  "d": "We think it is possible to use a wind stone to ambush a duke of the Abyssal Council.  To do this, however, one must commune through the wind stone, and convince the council you are a middle ranked leader of the Twilight's Hammer.  $B$BSuch a gambit requires a replica of the cult's medallion of station.  I can create the medallion, but I will need a large brilliant shard, and crests worn by the Abyssal Templar.$B$BBring these to me and I will do the rest.",
+  "p": "Do you have the shard and the crests, Demonhound? I will need them to make the twilight cultist's medallion of station.",
+  "c": "Ah, very good. I've been working on the medallion - now with these last ingredients, I'll be done in just a few moments...$B$BThere we are. Here is the medallion, $N.$B$BYou'll need to wear this when you activate one of the Twilight's Hammer's wind stones. Put this on, along with the rest of the twilight trappings, and the Abyssal Council will see you as one of their cultist underlings."
+ },
+ {
+  "id": 8333,
+  "t": "Medallion of Station",
+  "o": "",
+  "d": "",
+  "p": "If you need another Twilight cultist's medallion of station, then I am happy to oblige. I will, however, need another brilliant shard and some abyssal crests...",
+  "c": "Here you are, $N. One more Twilight medallion of station. Use it well, and I wish you luck against the Abyssal Council!"
+ },
+ {
+  "id": 8339,
+  "t": "Royalty of the Council <NYI> <TXT> UNUSED",
+  "o": "Bring the items to Aurel Goldleaf in Cenarion Hold.",
+  "d": "To make a Twilight Cultist Signet Ring, I need a bunch of items",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8341,
+  "t": "Lords of the Council",
+  "o": "Bring 5 Large Brilliant Shards and 3 Abyssal Signets to Aurel Goldleaf in Cenarion Hold.",
+  "d": "Lords of the Abyssal Council can only be summoned through the greater wind stones, and only the top ranking members of the Twilight's Council may speak to them.  But... I have found a way to upgrade your disguise and fool the Abyssal Lords!$B$BThe disguise calls for a ring of lordship, worn only by the highest members of the cult.  I will craft one for you if you can bring me large brilliant shards and abyssal signets.",
+  "p": "Do you have the shards and the signets, $N? I will need them to create the ring of lordship. ",
+  "c": "Thanks. Just one moment and I'll have that ring ready for you...$B$BThere it is. Now you're ready.$B$BBe sure to wear this ring, along with a medallion of station and the rest of the twilight trappings, when you activate a greater wind stone. Do that, and the Abyssal Council will think you one of their servants. Then, perhaps you can lure one into an ambush! "
+ },
+ {
+  "id": 8342,
+  "t": "Twilight Ring of Lordship",
+  "o": "",
+  "d": "",
+  "p": "$N, if you plan to go after the Abyssal High Council again, then you'll need another Twilight ring of lordship. Bring me more shards and signets and I'll make one for you.",
+  "c": "Ah, I see your convictions are strong. Not many will face that council of fiends!$B$BHere's your ring, $N. May your will, and your fortune, stand firm."
+ },
+ {
+  "id": 8343,
+  "t": "Goldleaf's Discovery",
+  "o": "Speak with Aurel Goldleaf in Cenarion Hold.",
+  "d": "$N, Aurel Goldleaf thinks she's found a way to summon and defeat a ruling member of the Abyssal Council!  Such a task will be dangerous, but you have earned great respect amongst the Cenarion Circle.  We know that if anyone can do it, you can.$B$BMay fortune go with you, $N.  Speak with Aurel when you are ready.",
+  "p": "",
+  "c": "What Huum says is true.  I believe I know how to summon a lord of the Abyssal Council!  Listen on, and I will explain..."
+ },
+ {
+  "id": 8344,
+  "t": "Windows to the Source",
+  "o": "Bring 4 Wraith Essences and 1 Tainted Wraith Essence to Summoner Teli'Larien at the Sunspire on Sunstrider Isle.",
+  "d": "Heed my words, young one - there is a taint about this island, and it is far more potent than the remnants of the Scourge.$B$BI believe there is a true demonic presence on the isle.$B$BWest of here are the spires of Falthrien Academy.  The arcane wraiths that infest it are a window to the source of demonic power.  You are to bring me the essences of tainted and untainted wraiths.$B$BIn exchange for your obedience, I'll teach you how to summon an imp companion - your first of many as a warlock.",
+  "p": "The essences of the wraiths will serve me well as sources of experimentation.  Much like your life as a $c, it is important to learn from what we find in the world... before twisting it to our will.  With demons as the richest source of power, it will be quite the boon if such a taint is truly present on the isle.$B$BWell... a boon for us warlocks, that is.",
+  "c": "Well done!  Yes, this should be enough essence to get started on my research.  I have a strong feeling that this tainted essence will be just the thing... the window, as I mentioned.$B$BFollowing the orders of your masters is highly recommended as a young $c.  As I promised you, here is the reward for obeying instructions and completing them in a competent manner - the knowledge to summon and bind your own imp.$B$BUse it well, $N"
+ },
+ {
+  "id": 8348,
+  "t": "Signet of the Dukes",
+  "o": "Bring the Abyssal Signet to Bor Wildmane in Cenarion Hold.",
+  "d": "Huum tells me you've figured out how to summon the Abyssal Dukes!  That's quite an accomplishment.$B$BYou know what else would be quite the accomplishment?  Smashing up one of those things really good.  That'll cause an impression on their underlings, if you know what I mean.  Bring back its signet as proof of the deed.",
+  "p": "How did it go with the Abyssal Duke? Did it hit hard?",
+  "c": "I knew you were a tough $c the minute I saw you walk into Cenarion Hold. Keep it up!"
+ },
+ {
+  "id": 8349,
+  "t": "Bor Wildmane",
+  "o": "Speak with Bor Wildmane in Cenarion Hold.",
+  "d": "Now that you have a medallion and can summon an Abyssal Duke, speak with Bor Wildmane.  He will set you on a task against the Abyssal Council.$B$BGood luck, $N.  And if you ever need more medallions, return to me.",
+  "p": "",
+  "c": "Good to see you again, $c! So you had a medallion made? Good -- you'll need that for your next quest..."
+ },
+ {
+  "id": 8351,
+  "t": "Bor Wishes to Speak",
+  "o": "Speak with Bor Wildmane in Cenarion Hold.",
+  "d": "Now that you can disguise yourself as a ruling member of the Twilight Council, I am certain Bor Wildmane will want to speak with you.  Go see him, and prepare yourself for a very difficult mission...",
+  "p": "",
+  "c": "Yes, that's right, $N. I have a very tough task ahead..."
+ },
+ {
+  "id": 8352,
+  "t": "Scepter of the Council",
+  "o": "Bring an Abyssal Scepter to Bor Wildmane in Cenarion Hold.",
+  "d": "Huum and I were just talking about you.  He tells me you're just about ready to try your hand at fighting an Abyssal Lord!$B$BI must tell you this is a very dangerous endeavor.  You'd better bring backup.  And I don't mean one or two of your friends, I'm talking about a top-notch, battle-ready fighting force.  If your friends are as good as you, you might even defeat it!$B$BIf you do - and I'll want evidence, as always - I'll give you a truly great reward.",
+  "p": "Well, how did it go? I'd do anything to leave my post and wrestle one of those things myself!",
+  "c": "You... you did it! You did it, $N! Here! Take this. It's the biggest chest we had lying around and I filled it with some of the best stuff we found."
+ },
+ {
+  "id": 8353,
+  "t": "Chicken Clucking for a Mint",
+  "o": "Do a chicken emote at Innkeeper Firebrew, and in exchange you'll receive an Ironforge Mint!",
+  "d": "Ah, trick-or-treating for a sick child, are we?  I was going to say, you're a little old to be rummaging about for candies...$B$BWell, for my treat - an Ironforge Mint - you will need to... cluck like a chicken!  Yes, chickens love mints... well OK, maybe they don't LOVE them... but I won't give you a mint unless you chicken cluck for me!$B$BWell $c, are you up to the challenge or not?!  Time to earn your treat!",
+  "p": "",
+  "c": "Too funny!  Well done, $N! Here's your treat.$B$BHappy Hallow's End!"
+ },
+ {
+  "id": 8354,
+  "t": "Chicken Clucking for a Mint",
+  "o": "Do a chicken emote at Innkeeper Norman, and in exchange you'll receive an Undercity Mint!",
+  "d": "Ah, trick-or-treating for a sick child, are we?  I was going to say, you're a little old to be rummaging about for candies...$B$BWell, for my treat - an Undercity Mint - you will need to... cluck like a chicken!  Yes, chickens love mints... well OK, maybe they don't LOVE them... but I won't give you a mint unless you chicken cluck for me!$B$BWell $c, are you up to the challenge or not?!  Time to earn your treat!$B",
+  "p": "",
+  "c": "Too funny!  Well done, $N! Here's your treat.$B$BHappy Hallow's End!"
+ },
+ {
+  "id": 8355,
+  "t": "Incoming Gumdrop",
+  "o": "Do a train emote at Talvash del Kissel, and in exchange you'll receive a Gnomeregan Gumdrop!",
+  "d": "A trick-or-treater!  Huzzah!$B$BWell now, even though you're doing something noble and collecting candies for a sick child, I can't let you off the hook that easily.  I have a yummy Gnomeregan Gumdrop to give to the sick child... if you make a train noise for me!  Haha, yes, that'll be the trick!  The price of this gumdrop is one train noise!$B$BChugga-chugga, $c!",
+  "p": "Well, go ahead now...",
+  "c": "Too funny!  Well done, $N! Here's your treat.$B$BHappy Hallow's End!"
+ },
+ {
+  "id": 8356,
+  "t": "Flexing for Nougat",
+  "o": "Do a flex emote at Innkeeper Allison, and in exchange you'll receive Stormwind Nougat!$B",
+  "d": "That's an... interesting costume you have on.  Even though you're being nice and helping a sick child trick-or-treat this year, I'm afraid I'm going to have to ask you perform a trick for me!$B$BLet's see... you look so strong and buff in that... costume... let's see you flex!  Yes, go on now and flex for me, strong $g man : woman;!$B$BWhen and only when you flex, I'll give you some tasty Stormwind Nougat.  It's a great Hallow's End treat.",
+  "p": "No candy until you flex for me, $N...",
+  "c": "You are truly mighty, haha! Well done, and thanks for being such a good sport. Here's your candy.$B$BHappy Hallow's End, $N!"
+ },
+ {
+  "id": 8357,
+  "t": "Dancing for Marzipan",
+  "o": "Do a dance emote at Innkeeper Saelienne, and in exchange you'll receive Darnassus Marzipan!",
+  "d": "Even though you're trick-or-treating for a sick child, you still need to perform a trick for the treat!  We can't very well change the tradition, now can we...$B$BI believe the cost of a piece of marzipan nowadays is to bust out and DANCE!  That's right, let me see your moves!  Dance for me, and I'll give you some tasty marzipan!",
+  "p": "You know how to dance, don't you? Try by putting your right foot in... then your right foot out... your right foot in... shake it all about...",
+  "c": "You're quite the dancing machine, $N!$B$BHere's your treat for being such a good sport. Happy Hallow's End, and give my best to your sick little friend! I hope they get better soon."
+ },
+ {
+  "id": 8358,
+  "t": "Incoming Gumdrop",
+  "o": "Do a train emote at Kali Remik, and in exchange you'll receive a Darkspear Gumdrop!$B",
+  "d": "A trick-or-treater!  Yeah mon!$B$BWell now, even though you're doing something noble and collecting candies for a sick child, I can't let you off the hook that easily.  I have a yummy Darkspear Gumdrop to give to the sick child... if you make a train noise for me!  Haha, yes, that'll be the trick!  The price of this gumdrop is one train noise!$B$BChugga-chugga, $c!$B",
+  "p": "Well, go ahead now...",
+  "c": "Woo-woo! Well done, $N! Here's your treat.$B$BHappy Hallow's End!"
+ },
+ {
+  "id": 8359,
+  "t": "Flexing for Nougat",
+  "o": "Do a flex emote at Innkeeper Gryshka, and in exchange you'll receive Orgrimmar Nougat!",
+  "d": "That's an... interesting costume you have on.  Even though you're being nice and helping a sick child trick-or-treat this year, I'm afraid I'm going to have to ask you perform a trick for me!$B$BLet's see... you look so strong and buff in that... costume... let's see you flex!  Yes, go on now and flex for me, strong $g man : woman;!$B$BWhen and only when you flex, I'll give you some tasty Orgrimmar Nougat.  It's a great Hallow's End treat.$B",
+  "p": "No candy until you flex for me, $N...",
+  "c": "You are truly mighty, haha! Well done, and thanks for being such a good sport. Here's your candy.$B$BHappy Hallow's End, $N!"
+ },
+ {
+  "id": 8360,
+  "t": "Dancing for Marzipan",
+  "o": "Do a dance emote at Innkeeper Pala, and in exchange you'll receive Thunder Bluff Marzipan!",
+  "d": "Even though you're trick-or-treating for a sick child, you still need to perform a trick for the treat!  We can't very well change the tradition, now can we...$B$BI believe the cost of a piece of marzipan nowadays is to bust out and DANCE!  That's right, let me see your moves!  Dance for me, and I'll give you some tasty marzipan!",
+  "p": "You know how to dance, don't you? Try by putting your right foot in... then your right foot out... your right foot in... shake it all about...",
+  "c": "You're quite the dancing machine, $N!$B$BHere's your treat for being such a good sport. Happy Hallow's End, and give my best to your sick little friend! I hope they get better soon."
+ },
+ {
+  "id": 8361,
+  "t": "Abyssal Contacts",
+  "o": "Bor Wildmane at Cenarion Hold in Silithus wants you to destroy an Abyssal Templar and bring him an Abyssal Crest as proof of the deed.",
+  "d": "We've seen the Twilight's Hammer cultists performing rituals to summon powerful elemental nobles.  We don't know if these are the beings the cultists worship or if they act as intermediaries to even more powerful forces.  One thing is for sure: they are receiving orders from these elementals.$B$BI want you to find a way to contact an Abyssal Templar and give it a proper beating!  Nothing throws the troops in disarray like taking out the chain of command.  Bring back proof while you're at it.",
+  "p": "Did you finish the job?",
+  "c": "Hah! You did it, $N! The Twilight's Hammer will soon be crushed!"
+ },
+ {
+  "id": 8362,
+  "t": "Abyssal Crests",
+  "o": "",
+  "d": "",
+  "p": "You've proved you can handle yourself in a fight, $N.  Let's keep the pressure up on the Twilight's Hammer.  Go fight some more Abyssal Templars, I'll reward you with some of the stuff Huum and I have found in battle.",
+  "c": "You've done well!  That's less Templars for me to worry about.$B$BHere you go, $N.  Hope there's something useful in there for you."
+ },
+ {
+  "id": 8363,
+  "t": "Abyssal Signets",
+  "o": "",
+  "d": "",
+  "p": "You've shown you're more than capable of taking on an Abyssal Duke, $N. I'm always one to promote good habits. Bring me more signets and I'll give you a reward.",
+  "c": "Excellent, $N!  Defeating those Dukes will leave the Twilight's Hammer reeling for a while. As promised, here's your reward. It's some of the better stuff Huum and I have found."
+ },
+ {
+  "id": 8364,
+  "t": "Abyssal Scepters",
+  "o": "",
+  "d": "",
+  "p": "You've truly exceeded all my expectations, $N. You've been taking on opponents that Huum and I would think long and hard before engaging.$B$BAt this point the best I can do is to continue rewarding your efforts in the fight against the Twilight's Hammer and their overlords.$B$BBring me more abyssal scepters and I'll do my best to give you a suitable reward.",
+  "c": "I knew you'd come through, $N! Here's your reward."
+ },
+ {
+  "id": 8365,
+  "t": "Pirate Hats Ahoy!",
+  "o": "Haughty Modiste wants you to collect 20 Southsea Pirate Hats and return them to her at Steamwheedle Port in Tanaris.",
+  "d": "You're the help the Cartel sent? I suppose you'll do. Listen carefully $c. As you know, I am a procurer of fashionable apparel for the elite of Azerothian society.  Kings and Queens, Warchiefs and, well whatever the Horde calls their queens, all wear what I choose is in style.  And they pay through the nose for it, which is the best part.$B$BSo here's what's going to happen. You head down to Lost Rigger Cove and acquire a lot of pirate hats by whatever means. Do you think you can handle that?",
+  "p": "Do you have all 20 hats? I don't believe you, let me see them. They better be in pristine condition!",
+  "c": "Oh you're a darling, even if it did take you longer than I am accustomed to. This shipment should make me quite a bit of money once I've cleaned and personalized these hats. And seeing as I'm always willing to reward work that's well done, here's a little something for you. I suggest that you spend some of it on a bath sweetie."
+ },
+ {
+  "id": 8366,
+  "t": "Southsea Shakedown",
+  "o": "Security Chief Bilgewhizzle of Steamwheedle Port in Tanaris wants you to kill 10 Southsea Pirates, 10 Southsea Freebooters, 10 Southsea Dock Workers and 10 Southsea Swashbucklers.",
+  "d": "Argh! They want the impossible from me!$B$BThe Steamwheedle Cartel wants me to teach the Southsea pirates a lesson.  The problem is that I can't be in two places at once; I need to stay here to keep the peace.$B$BOf late, the pirates have been disregarding the protection money that the cartel regularly forks over. So I'd like to temporarily deputize you to go down there and show them what for.$B$BYou'll find them at Lost Rigger Cove, which is not too far to the south.  Thanks $N, I'll owe you one!",
+  "p": "Back so soon? I hope you taught those Southsea hoodlums a lesson they won't soon forget.",
+  "c": "$N! You are the $g man:woman;!!!$B$BI'm sure that the Cartel will ease up on me now that you've dealt with those Southsea scum. Let's see, what can I give you as a reward? How about a little coin and you choose from one of these for your trouble?"
+ },
+ {
+  "id": 8367,
+  "t": "For Great Honor",
+  "o": "Bring a Mark of Honor from each battleground to a Horde Warbringer in any Horde capital city or Shattrath.",
+  "d": "Serving the Horde in one of the great battles against the Alliance is a source of great honor!  The few however, that have served the Horde in ALL of our active battlefronts are our truly great fighters.  We shall vanquish our opponents, not by fighting isolated skirmishes, but by waging a well-coordinated war.$B$BGo forth and crush the Alliance on every front!  For Honor!  For the Horde!",
+  "p": "Arathi is still wet with the blood of great warriors and the clash of steel still rings throughout Alterac.  Do not waste my time unless you bring news from the front!",
+  "c": "Your trials have not been easy, but your courage did not escape you and your strength did not fail. Part with past tokens of victory, $c. None shall need them as a reminder of your worth. Stand up straight, $N. Today you will walk with great pride for you are a hero!"
+ },
+ {
+  "id": 8368,
+  "t": "Battle of Warsong Gulch",
+  "o": "Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",
+  "d": "The battle in Warsong Gulch against the Silverwing Sentinels is of great importance.  Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N!  Come back to me with proof of serving the Horde in a worthy manner!",
+  "p": "The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",
+  "c": "Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands."
+ },
+ {
+  "id": 8369,
+  "t": "Invaders of Alterac Valley",
+  "o": "Bring 3 Alterac Valley Marks of Honor to a Horde Warbringer outside the battlegrounds.",
+  "d": "Listen up, $N.  No matter what you might have heard about the battle raging in Alterac Valley, one thing remains true: the Stormpike Expedition invaded Frostwolf Territory.  The day we allow the Alliance to invade Horde lands without a forceful response is the day I hang up my axe and live the rest of my life in shame.  Go forth and expel the invaders!",
+  "p": "What news do you bring from the lands of the Frostwolves? How does the battle for Alterac Valley fare?",
+  "c": "You've shown great bravery in protecting our lands in Alterac Valley! I will tell my superiors of your deeds."
+ }
+]

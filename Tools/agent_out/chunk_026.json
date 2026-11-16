@@ -1,0 +1,962 @@
+[
+ {
+  "id": 7799,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7800,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7801,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7802,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "We are currently accepting donations for wool cloth.  A donation of sixty pieces of wool cloth will net you full recognition by Ironforge for your generous actions.  Our stores are such on wool that we would only need sixty pieces from you total; we should be able to acquire enough from others in the realm to support our drive.$B$BIf you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful!  We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7803,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "As with most other fabrics, our stocks of silk are at an all-time low.  Our stores are such that we'd only need sixty pieces of silk from you total; we should be able to reach our goal with the support of others.$B$BA benevolent gift such as silk, might I add, would certainly increase your local standing in the community!  If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful!  We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7804,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "Mageweave is running low, and we could use your help to replenish our stocks!  By counting on the community as a whole, we would only need a donation of 60 pieces of mageweave cloth from you to enable us to reach our goal.  Such generosity would not go unnoticed by Ironforge, I assure you!$B$BIf you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful!  We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7805,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$N, you've been a tremendous contributor to our cloth drive.  As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth.  We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$B$BIf you are willing, please bring me what runecloth you can spare.  We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you.  Thank you again for your assistance!  We'd certainly be lost without you.$B$BWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future.  Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7806,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7807,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "We are currently accepting donations for wool cloth.  A donation of sixty pieces of wool cloth will net you full recognition by the Gnomeregan Exiles for your generous actions.  Our stores are such on wool that we would only need sixty pieces from you total; we should be able to acquire enough from others in the realm to support our drive.$B$BIf you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful!  We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7808,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "As with most other fabrics, our stocks of silk are at an all-time low.  Our stores are such that we'd only need sixty pieces of silk from you total; we should be able to reach our goal with the support of others.$B$BA benevolent gift such as silk, might I add, would certainly increase your local standing in the community!  If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful!  We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7809,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7810,
+  "t": "Arena Master",
+  "o": "Speak with Short John Mithril in the Stranglethorn Arena.",
+  "d": "There must be more to being a master of the arena than this!   Perhaps the Pirate who runs the event at Gurubashi will know!",
+  "p": "",
+  "c": "Arr Me Hearty! Gaining one Trinket be not enough to make ye master of the Arena! Now tis the time to truly prove your steel."
+ },
+ {
+  "id": 7811,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7812,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7813,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7814,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "A benevolent gift such as silk, might I add, would certainly increase your local standing in the community! If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7815,
+  "t": "Snapjaws, Mon!",
+  "o": "Katoom the Angler at Revantusk Village in the Hinterlands wants you to kill 10 Saltwater Snapjaw turtles. Return to him when you have completed this task.",
+  "d": "Don't let their big eyes fool you, mon! Those saltwater snapjaws be a menace. I can't fish for five minutes without getting a broken line from one of those oversized fish vacuums stealing my bait.$B$BDo me and the people of Revantusk Village a service and kill em, mon.$B$BKill the whole lot of em!",
+  "p": "How goes the hunt?",
+  "c": "Oh, mon! I can't thank you enough! Hopefully this here fishing pole will be reward enough for the job."
+ },
+ {
+  "id": 7816,
+  "t": "Gammerita, Mon!",
+  "o": "Katoom the Angler at Revantusk Village in the Hinterlands wants you to kill Gammerita and retrieve Katoom's Best Lure from her corpse.$B$BKatoom mentioned that Gammerita hangs out on the coast with the other turtles.",
+  "d": "Yo! There be a turtle out there not like the others. She be the Gammerita, leader of the saltwater snapjaws - a downright dirty thievin' reptile.$B$BMon, she stole my best lure. Snapped it right off my line! Since then, the fish just aren't biting the same.$B$BFind Gammerita and get my lure out of her stomach.",
+  "p": "Did you get it yet?",
+  "c": "MON! This is fantastic! With my best lure and the snapjaw population down, the fish will pile up."
+ },
+ {
+  "id": 7817,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7818,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7819,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Greetings once again, $N!  Our need for runecloth is constant, and we can always use additional resources if you are willing to part with them.  For an additional stack of twenty runecloth, I will make sure that you are recognized for your continuing efforts on behalf of the Undercity.$B$BWhenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7820,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "We are currently accepting donations for wool cloth.  A donation of sixty pieces of wool cloth will net you full recognition by Thunder Bluff for your generous actions.  Our stores are such on wool that we would only need sixty pieces from you total; we should be able to acquire enough from others in the realm to support our drive.$B$BIf you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7821,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "As with most other fabrics, our stocks of silk are at an all-time low.  Our stores are such that we'd only need sixty pieces of silk from you total; we should be able to reach our goal with the support of others.$B$BA benevolent gift such as silk, might I add, would certainly increase your local standing in the community!  If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7822,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "Mageweave is running low, and we could use your help to replenish our stocks!  By counting on the community as a whole, we would only need a donation of 60 pieces of mageweave cloth from you to enable us to reach our goal.  Such generosity would not go unnoticed by Thunder Bluff, I assure you!$B$BIf you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7823,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7824,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7825,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7826,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7827,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "As with most other fabrics, our stocks of silk are at an all-time low.  Our stores are such that we'd only need sixty pieces of silk from you total; we should be able to reach our goal with the support of others.$B$BA benevolent gift such as silk, might I add, would certainly increase your local standing in the community!  If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7828,
+  "t": "Stalking the Stalkers",
+  "o": "Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill 5 Silvermane Stalkers and 5 Silvermane Howlers. Return to him once the task is complete.$B$BMarkhor mentioned that the wolves hide in the wilds of the Hinterlands.",
+  "d": "Many brave trolls have been lost to the harsh wilds of the Hinterlands, $r. The Silvermane wolves are one of the biggest threats to our hunters. They lay in wait, hiding amongst the bushes and landscape, then strike out when the opportunity presents itself.$B$BThis type of ferocity will not go unchecked!$B$BYou must think like the Silvermane. Stalk the stalkers! Slay them all!",
+  "p": "Show them the might of Revantusk!",
+  "c": "A job well done, $R. The Revantusk thank you for your contribution."
+ },
+ {
+  "id": 7829,
+  "t": "Hunt the Savages",
+  "o": "Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill 10 Savage Owlbeasts. Return to him once the task is complete.$B$BMarkhor mentioned that the Savage Owlbeasts occupy the wilds of the Hinterlands.",
+  "d": "Among the more ornery of the wildlife of the Hinterlands are the savage owlbeasts. Many a good Revantusk warrior has been lost to the ferocious claws and beak of the beasts.$B$BKill every savage owlbeast you see, $r. Return to me when you can stand no more bloodshed. Your contribution will then be weighed, measured, and judged.",
+  "p": "Clear your head of impure thoughts, $r. Become one with the wilds!",
+  "c": "You have proven a worthy ally to the Revantusk, $N. Well done."
+ },
+ {
+  "id": 7830,
+  "t": "Avenging the Fallen",
+  "o": "Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill a Razorbeak Skylord and retrieve its Skylord Plume. Return to him once the task is complete.$B$BMarkhor mentioned that the Razorbeak Skylord are a rare breed that tend to occupy the wilds of the Hinterlands.",
+  "d": "The filth that calls itself Wildhammer trains gryphon to slay troll. Horrible, I know, but worry not, justice will soon be meted out.$B$BFor now, I want you to focus on eradicating the elder gryphons of the region. They are known as Skylords.$B$BSlay one and return to me with its plume.",
+  "p": "The Razorbeak Skylord is a much rarer breed of gryphon: One responsible for mating and creating murderous offspring.",
+  "c": "<Markhor examines the plume.>$B$BI wonder how many of our hunters this beast devoured before you brought it to justice."
+ },
+ {
+  "id": 7831,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "Mageweave is running low, and we could use your help to replenish our stocks!  By counting on the community as a whole, we would only need a donation of 60 pieces of mageweave cloth from you to enable us to reach our goal.  Such generosity would not go unnoticed by Orgrimmar, I assure you!$B$BIf you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7832,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7833,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7834,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "As with most other fabrics, our stocks of silk are at an all-time low.  Our stores are such that we'd only need sixty pieces of silk from you total; we should be able to reach our goal with the support of others.$B$BA benevolent gift such as silk, might I add, would certainly increase your local standing in the community!  If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7835,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "Mageweave is running low, and we could use your help to replenish our stocks!  By counting on the community as a whole, we would only need a donation of 60 pieces of mageweave cloth from you to enable us to reach our goal.  Such generosity would not go unnoticed by the Darkspear Trolls, I assure you!$B$BIf you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7836,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7837,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7838,
+  "t": "Arena Grandmaster",
+  "o": "",
+  "d": "",
+  "p": "Avast Lubber! Bring me 12 trinkets of the Arena Master.",
+  "c": "Much blood have you spilt on the Arena floor and I be glad to name you Grandmaster of the Arena!"
+ },
+ {
+  "id": 7839,
+  "t": "Vilebranch Hooligans",
+  "o": "Smith Slagtree at Revantusk Village in the Hinterlands wants you to find Slagtree's Lost Tools. Return to him once this task is complete.$B$BYou recall Smith Slagtree mentioning that the tools might be at one of the Vilebranch temples in the northeastern region of the Hinterlands. You should also check Skulk Rock.",
+  "d": "Vilebranch scum invaded our village and stole my tools! I have backup tools but the set they stole was a gift given to me by a kind hearted gnome that saved my life when I was a young orc.$B$BI want those tools back, $N - they mean the world to me.$B$BMarkhor reported that the tools were spotted near the Agol'watha and Shaol'watha temples.$B$BThose temples are in the northeastern region of the Hinterlands.$B$BRecover my tools!",
+  "p": "Watch out for the Vilebranch trolls of the region, $N. They are ruthless, murderous filth.",
+  "c": "My tools! You found them! Oh glorious day! Thank you, $N."
+ },
+ {
+  "id": 7840,
+  "t": "Lard Lost His Lunch",
+  "o": "Lard at Revantusk Village in the Hinterlands wants you to find Lard's Lunch. Return to him when this task is complete.$B$BLard mentioned that he left it on the island to the north. Watch out for Vilebranch trolls.",
+  "d": "Lard was at secret special spot having picnic when ugly mean Vilebranch hit Lard wit da big stick. Lard run back to Revantusk but forget Lard lunch. Lard hungry. Maybe you go back to secret special spot and get Lard lunch? Lard scared. Go nort! Island der to da nort is da secret special spot.",
+  "p": "<Lard rubs his enormous belly.>$B$BLard so hungry.",
+  "c": "<Lard takes the huge haunch of meat from you and stuffs it in his face.>$B$BDis hit da spot! Tanks little one.$B$BLard make you special picnic basket for help Lard."
+ },
+ {
+  "id": 7841,
+  "t": "Message to the Wildhammer",
+  "o": "Otho Moji'ko at Revantusk Village in the Hinterlands wants you to slaughter 8 Highvale Scouts, 5 Highvale Outrunners, 5 Highvale Rangers and 2 Highvale Marksman. Return to him when this task is complete.$B$BYou can find the Highvale high elves at the Quel'Danil Lodge in the northwestern region of the Hinterlands.",
+  "d": "The Wildhammer be striking up deals with our enemies, forgin' new alliances. This time, they be workin' with the high elves, mon.$B$B<Otho spits.>$B$BWe be needin' to send those Wildhammer dwarves a message - a message in the blood of our enemies. Slaughter every Highvale high elf that you come across, leave their bodies as a warnin'.$B$BNever mess with trolls!",
+  "p": "You be too clean, mon. You gotta mix it up - get down and dirty with the enemy.",
+  "c": "It be lookin' like the Revantusk are forgin' new alliances as well, mon! You done good."
+ },
+ {
+  "id": 7842,
+  "t": "Another Message to the Wildhammer",
+  "o": "Otho Moji'ko at Revantusk Village in the Hinterlands wants you to bring him 1 Long Elegant Feather from the gryphons that inhabit the Hinterlands. Return to him once this task is complete.$B$BGryphons are known to inhabit every region of the Hinterlands.",
+  "d": "They say the Wildhammer and gryphon are as close to each other as troll and mate. Disgusting, but we be able to use this to our advantage, mon. We send them another message.$B$BKill all the gryphons you see in the Hinterlands and collect a long elegant feather! From this we make the final message.",
+  "p": "The last message gonna scare them off for sure. Either that or make them very, very angry.",
+  "c": "Oh, mon, this gonna be good. One more step to go and Wildhammer see that they can't mess with troll!"
+ },
+ {
+  "id": 7843,
+  "t": "The Final Message to the Wildhammer",
+  "o": "Otho Moji'ko at Revantusk Village in the Hinterlands wants you to travel to Aerie Peak in the western region of the Hinterlands and place the Final Message to the Wildhammer by the well in the center of town. Return to him once this task is complete.$B$BBeware of angry Wildhammer dwarves and unruly members of the Alliance.",
+  "d": "<Otho hands you a long, blood drenched spear, wrapped in several gryphon feathers.>$B$BYou take this, mon. You take this to Aerie Peak, dead center of town by the well. You plant it! Drive it right into the ground! Show those dwarves that troll mean business! Come back when you do this. Hopefully you come back alive.",
+  "p": "What's the hold up, mon?",
+  "c": "I wish I coulda been there to see the look on their faces, mon. Are they packing up their bags? Leavin' town?$B$BYou done good, $N. Real good. Otho reward you with the big mojo."
+ },
+ {
+  "id": 7844,
+  "t": "Cannibalistic Cousins",
+  "o": "Mystic Yayo'jin at Revantusk Village in the Hinterlands wants you to kill 6 Vilebranch Scalpers and 2 Vilebranch Soothsayers. Return to her when this task is complete.$B$BYayo'jin indicated that these trolls could be found near the Shaol'watha and Agol'watha temples in the north by northeastern region of the Hinterlands.",
+  "d": "Three different tribes of trolls inhabit the Hinterlands, $N. That is about as far as the similarities between the tribes extends: We are all trolls and we live in the Hinterlands.$B$BThe Vilebranch - aptly named - are a depraved lot; feeding on other trolls and humanoids.$B$BIf Zul'jin were here, he would have destroyed the whole lot of them with a flick of his wrist - alas, Zul'jin has not yet returned and we are left to our own devices.$B$BIt is up to you to destroy the filth of the region!",
+  "p": "The Vilebranch Soothsayers and Scalpers inhabit the north by northeast region of the Hinterlands.",
+  "c": "Well done, $c. Zul'jin himself could not have done a better job!"
+ },
+ {
+  "id": 7845,
+  "t": "Kidnapped Elder Torntusk!",
+  "o": "Primal Torntusk at Revantusk Village in the Hinterlands wants you to rescue her mate, Elder Torntusk, from Jintha'alor.$B$BYou have been told that he is being held prisoner atop Jintha'alor, the Vilebranch capital city located in the southern region of the Hinterlands.",
+  "d": "My mate was taken by Vilebranch savages in a bold midnight raid on our village. Our spies have told me that he is still alive and being held prisoner atop Jintha'alor. The Vile Priestess Hexx is said to be preparing him for a sacrifice to the faceless blood God, Hakkar.$B$BYou must save him, $N! Our village could not stand a loss this great.",
+  "p": "",
+  "c": "You must act quickly, $N. Surely the guards have been alerted to your presence."
+ },
+ {
+  "id": 7846,
+  "t": "Recover the Key!",
+  "o": "Elder Torntusk at Jintha'alor wants you to kill Hitah'ya the Keeper to get the Shackle Key to his bindings. Return to Elder Torntusk when you have recovered the key.",
+  "d": "The key to my bindings is held by Hitah'ya the Keeper. She is in the nearby cave. Be careful, $c, for she is guarded well.$B$BKill her and bring the key back to loosen my shackles. Only then will I be free to return home.",
+  "p": "You must hurry!",
+  "c": "Freedom at last! Thank you, $N. Revantusk will know your deeds!"
+ },
+ {
+  "id": 7847,
+  "t": "Return to Primal Torntusk",
+  "o": "Elder Torntusk at Jintha'alor wants you to return to Primal Torntusk at Revantusk Village with news of his rescue.",
+  "d": "Return to my mate, Primal Torntusk at Revantusk Village. Tell her that I am coming home! She is sure to reward you.",
+  "p": "",
+  "c": "You have done the Revantusk a great service, $N! We owe you a great debt of gratitude."
+ },
+ {
+  "id": 7848,
+  "t": "Attunement to the Core",
+  "o": "Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",
+  "d": "Rifts stir, tear, and collapse all around us, $r. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.$B$BSurprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.$B$BI assure you, the portal is there and access is possible.$B$BI've piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",
+  "p": "You must attune your soul with the Molten Core before access is granted.",
+  "c": "I am now able to transport you to the Molten Core. Ask and it shall be done."
+ },
+ {
+  "id": 7849,
+  "t": "Separation Anxiety",
+  "o": "Huntsman Markhor at Revantusk Village in the Hinterlands wants you to recover his twin brother's remains. Find and return Huntsman Malkhor's Skull and Huntsman Malkhor's Bones to Huntsman Markhor.$B$BMarkhor mentioned that his brother's remains were fed to the oozes and wolves of the Vilebranch. He also mentioned that there is a refuse pit filled with oozes in Jintha'alor as well as a wolf den. Both of these places are near the top of the temple.",
+  "d": "Like many in our village, I too have lost a loved one to the wilds. Alas, it was my twin brother Malkhor - taken in the same raid as Torntusk's mate by the Vilebranch.$B$BSadly, he was not fated to live and was given a swift, brutal execution; his remains fed to the oozes and wolves of the Vilebranch.$B$BIt is too late to save his life but not too late to save his soul. Recover his remains, $N.",
+  "p": "When I have his remains, I shall take them to Yayo'jin and have them prepared for a proper burial.",
+  "c": "My dearest brother, how I will miss you...$B$BThank you for your assistance, $N. You are truly a hero in my eyes."
+ },
+ {
+  "id": 7850,
+  "t": "Dark Vessels",
+  "o": "Primal Torntusk at Revantusk Village in the Hinterlands wants you to recover 5 Vessels of Tainted Blood from Jintha'alor. Return to Primal Torntusk when this task is complete.",
+  "d": "The Vilebranch fight with supernatural ferocity. This is due to the foul magical weavings of the Vile Priestess Hexx.$B$BThroughout Jintha'alor you will find dark vessels of tainted blood. The vessels radiate the foul magic of the faceless blood God, empowering the Vilebranch and also driving them to madness.$B$BSteal those vessels and return them to me so that I may remove the taint and ultimately loosen the grip of the blood God.",
+  "p": "Be cautious in battling the Vilebranch, $N. Their minds are clouded - they fight to the death.",
+  "c": "The dark energy that compels the Vilebranch has been lifted - for now. We must remain ever vigilant in our battle against evil, as even if the Vile Priestess is destroyed, another soon takes her place."
+ },
+ {
+  "id": 7861,
+  "t": "Wanted: Vile Priestess Hexx and Her Minions",
+  "o": "You have been ordered to slay Vile Priestess Hexx and 5 Vilebranch Aman'zasi Guards. See Primal Torntusk at Revantusk Village in the Hinterlands once this task is complete.$B$BVile Priestess Hexx and the Aman'zasi Guards can be found atop Jintha'alor in the Hinterlands.",
+  "d": "By order of Primal Torntusk, Vile Priestess Hexx and her minions are to be brought to justice!$B$BA grand reward is offered for any that slay the Vile Priestess Hexx and all of her Aman'zasi elite guard.",
+  "p": "Do you bring news from Jintha'alor?",
+  "c": "A crippling blow to the Vilebranch, indeed. You shall be richly rewarded, $N."
+ },
+ {
+  "id": 7862,
+  "t": "Job Opening: Guard Captain of Revantusk Village",
+  "o": "You have been tasked with the decimation of 5 Vilebranch Berserkers, 3 Vilebranch Shadow Hunters, 3 Vilebranch Blood Drinkers, and 2 Vilebranch Soul Eaters.$B$BShould you complete this task, return to Primal Torntusk at Revantusk Village in the Hinterlands.",
+  "d": "With the loss of Guard Captain Malkhor, the position of Guard Captain of Revantusk is once again open. If you are interested in becoming Captain of the Guard for Revantusk, complete the following tasks and submit your application to Primal Torntusk:$B$BExterminate Vilebranch Berserkers.$B$BExterminate Vilebranch Shadow Hunters.$B$BExterminate Vilebranch Blood Drinkers.$B$BExterminate Vilebranch Soul Eaters.",
+  "p": "Are you here about the job opening?",
+  "c": "You are indeed a worthy candidate for the new position, $N. Accept this trinket as a token of our appreciation for your hard work. I will be reviewing all applications next year."
+ },
+ {
+  "id": 7863,
+  "t": "Sentinel Basic Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7864,
+  "t": "Sentinel Standard Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7865,
+  "t": "Sentinel Advanced Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7866,
+  "t": "Outrider Basic Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7867,
+  "t": "Outrider Standard Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7868,
+  "t": "Outrider Advanced Care Package",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've certainly begun to prove yourself to us, $N. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. $B$BAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored."
+ },
+ {
+  "id": 7871,
+  "t": "Vanquish the Invaders!",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7872,
+  "t": "Vanquish the Invaders!",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7873,
+  "t": "Vanquish the Invaders!",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7874,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+  "p": "The blood of our enemies is a mark of honor. Do you have such a mark?",
+  "c": "<Captain Shatterskull roars in triumph.>$B$BHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, $R."
+ },
+ {
+  "id": 7875,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+  "p": "The blood of our enemies is a mark of honor. Do you have such a mark?",
+  "c": "<Captain Shatterskull roars in triumph.>$B$BHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, $R."
+ },
+ {
+  "id": 7876,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+  "p": "The blood of our enemies is a mark of honor. Do you have such a mark?",
+  "c": "<Captain Shatterskull roars in triumph.>$B$BHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, $R."
+ },
+ {
+  "id": 7877,
+  "t": "The Treasure of the Shen'dralar",
+  "o": "Return to the Athenaeum and find the Treasure of the Shen'dralar. Claim your reward!",
+  "d": "In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",
+  "p": "",
+  "c": "You open the chest to find..."
+ },
+ {
+  "id": 7881,
+  "t": "Carnival Boots",
+  "o": "",
+  "d": "",
+  "p": "We at the Darkmoon Faire do much walking.  We walk from one faire site to another... in fact, you'll never see us sitting down on the job!  So it is no surprise that we wear out quite a lot of boots!  We need boots that are both durable and stylish, and embossed leather boots fit that bill rather well.$B$BYou!  You're a leatherworker; make me embossed leather boots and I'll give you a Darkmoon Faire ticket for the work.",
+  "c": "Thank you, $N.  These are quite well made.  The craftsmanship is top notch!  Here is a Darkmoon Faire ticket... enjoy, sir."
+ },
+ {
+  "id": 7882,
+  "t": "Carnival Jerkins",
+  "o": "",
+  "d": "",
+  "p": "Our Faire workers do more than sweep trash and hammer spikes! They also help guard the carnival as it travels, and to that end they are always needing good sturdy armor jerkins.$B$BIf you make some tough leather armor and bring it to me, then I'll make sure it gets to the right people. I'll also get you some Darkmoon Faire tickets as trade.",
+  "c": "Ah, you brought the jerkins.  Splendid.  What animal's skin did you use to make these, may I ask?  The stitch-work is very well done, and the texture of the leather has a rugged style to it.  I can tell you are a craftsman of skill!$B$BThank you, $N, and here are your tickets."
+ },
+ {
+  "id": 7883,
+  "t": "The World's Largest Gnome!",
+  "o": "",
+  "d": "",
+  "p": "Yebb Nebblegear is looking to add more talent to his show, and he's searching far and wide for the world's largest gnome. Do you know any gnomes of considerable size?$B$BWell before he finds the gnome, he wants to have its costume ready. I think a barbaric harness would be a good foundation for the costume; can you make some harnesses and bring them to me? Do that, and I'll have a stack of Darkmoon Faire tickets for you...",
+  "c": "Oh dear, these are quite large!! I can't imagine finding a gnome that would fit snuggly into them, but not to worry - if the gnome we find is not big enough, I can make adjustments to his costume.$B$BMany thanks, $N. Here are the tickets I promised you. "
+ },
+ {
+  "id": 7884,
+  "t": "Crocolisk Boy and the Bearded Murloc",
+  "o": "",
+  "d": "",
+  "p": "Yebb is working on other attractions for his zoo, including wet, swampy abodes for a boy raised by crocolisks, and perhaps for a murloc. We will need nice, water-tight leggings so we won't get waterlogged during prop-ups and tear-downs. For that job, I think turtlescale leggings will do the trick.$B$B$N, can you make those leggings? If you do, then a fat stack of Darkmoon Faire tickets will be your reward...",
+  "c": "Great, you made them!  These will do nicely... I just hope I won't be the one to clean the crocolisk cage when the time comes.  Those beasts can be rather beastly, don't you think?$B$BHere are your tickets, $N.  Enjoy them, and enjoy your stay at the Darkmoon Faire!"
+ },
+ {
+  "id": 7885,
+  "t": "Armor Kits",
+  "o": "",
+  "d": "",
+  "p": "You might not realize this, but running a traveling carnival is costly! Everything wears down so fast it's a wonder we can turn a profit.$B$BBecause of all those hidden costs, we're always looking for ways to maintain our equipment as cheaply as possible. Our tents, for instance, tear regularly but I've found that leather armor kits make great patches. Can you find and bring me some armor kits? That'll save us a bundle! Do that, and I have a fistful of Darkmoon Faire tickets for you...",
+  "c": "Great! This will work great! I just noticed a rip in a tent over yonder, and one of these armor kits is just what I need to patch it up!$B$BThank you very much, $N. These armor kits will save us a ton in repair costs. Here are your tickets - you deserve them!"
+ },
+ {
+  "id": 7886,
+  "t": "Talismans of Merit",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Thank you, $N. Your exploits in Warsong Gulch ring throughout Ashenvale Forest."
+ },
+ {
+  "id": 7887,
+  "t": "Talismans of Merit",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Thank you, $N. Your exploits in Warsong Gulch ring throughout Ashenvale Forest."
+ },
+ {
+  "id": 7888,
+  "t": "Talismans of Merit",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Thank you, $N. Your exploits in Warsong Gulch ring throughout Ashenvale Forest."
+ },
+ {
+  "id": 7889,
+  "t": "Coarse Weightstone",
+  "o": "",
+  "d": "",
+  "p": "It takes a lot of work to be the strongest woman alive!  My weight set is getting too light and if I'm to stay fit then I'll need more weights!$B$BDo you think you could bring me some weight stones?  If you do, then I'll give you a Darkmoon Faire ticket.",
+  "c": "Great! These will work great! They're not too heavy, but not too light either. They're perfect for building muscle mass!$B$BThanks much, $N. Here's your Darkmoon Faire ticket!"
+ },
+ {
+  "id": 7890,
+  "t": "Heavy Grinding Stone",
+  "o": "",
+  "d": "",
+  "p": "To help with my workout, I like to fit a staff between heavy grinding stones, then lift the staff over my head. It isn't easy, but being the strongest woman in the world, like I am, can't be earned sitting down!$B$BCan you help me? I need more grinding stones - bring me some and I'll trade Darkmoon Faire tickets for them.",
+  "c": "You brought the stones! And they're heavy! I can already feel my muscles getting bigger. Thanks $N!$B$BHere, take these tickets, and be sure not to eat too many sweets while your at the faire. A big strong $c like you needs to keep himself in fighting shape!"
+ },
+ {
+  "id": 7891,
+  "t": "Green Iron Bracers",
+  "o": "",
+  "d": "",
+  "p": "I'm working on a new costume, for when I have my own booth as the strongest woman alive! Right now I'm looking for some bracers I can wear. They can't cover much because people want to see my muscles, but I still want to flash a little color, you know?$B$BHow about green iron bracers, $N? Can you make me green iron bracers? If you can, then I have a whole bunch of Darkmoon Faire tickets for you.",
+  "c": "Thanks much, $N. Here's your Darkmoon Faire tickets!"
+ },
+ {
+  "id": 7892,
+  "t": "Big Black Mace",
+  "o": "",
+  "d": "",
+  "p": "For my act as the strongest woman alive, I plan to accept items from the audience and smash them with a big, black mace!$B$BCan you make me a big black mace, $N?",
+  "c": "Thanks much, $N. Here's your Darkmoon Faire tickets!"
+ },
+ {
+  "id": 7893,
+  "t": "Rituals of Strength",
+  "o": "",
+  "d": "",
+  "p": "$N, in my quest to become the strongest woman alive, I have traveled the world and learned muscle building secrets from distant weight masters, strength gurus, and ancient manuals. I now know forbidden exercises that would kill the weak and cripple the uninitiated!$B$BThese feats of strength and conditioning require training with the densest of grinding stones. $N, can you find or make some grinding stones and bring them to me? I'll give you tickets if you do...",
+  "c": "Thanks much, $N. Here's your Darkmoon Faire tickets!"
+ },
+ {
+  "id": 7894,
+  "t": "Copper Modulator",
+  "o": "",
+  "d": "",
+  "p": "Yebb is developing a new attraction for the Zoo Bizarre, one that will drive people crazy with wonder, and delight!  But it will take a lot of work, and a lot of materials...$B$BThat includes copper modulators.  We need lots of modulators for the mechanical parts of the attraction.  Bring me copper modulators and I'll trade for them with a Darkmoon Faire ticket.",
+  "c": "Aha! The modulators! Superb!$B$BI can't tell you exactly what we're building, but these will be invaluable for its construction. I am in your debt, $n, but please, take this Darkmoon Faire ticket as a token of my appreciation."
+ },
+ {
+  "id": 7895,
+  "t": "Whirring Bronze Gizmo",
+  "o": "",
+  "d": "",
+  "p": "My new booth will be a sight to see, yes sir! A sight to see, and... for a lucky few, to touch!$B$BI can already hear the whirring bronze gizmos singing their song of mechanical rapture as patrons step to my booth and test their skill!$B$BAh... now I need the gizmos themselves to bring my dream closer to fruition. Please, $N, bring me whirring bronze gizmos... and Darkmoon Faire tickets will be yours!",
+  "c": "You brought the gizmos! Wonderful! Even now I can hear their buzzing, whirring chorus in my mind! Oh, when this booth is ready it will be the wonder of the world, mark me! $B$BHere are your tickets, $N. And please enjoy your stay at the Faire!"
+ },
+ {
+  "id": 7896,
+  "t": "Green Fireworks",
+  "o": "",
+  "d": "",
+  "p": "When I finally get this booth up and running, I'll want to advertise! And what better way is there to advertise than with fireworks?$B$BWell, some might think that the smell of a cauldron, churning with the boiling heads of your foes is better for drawing crowds, but... we're in mixed company. So fireworks it will have to be!$B$BBring me green fireworks, $N, and I have a big fistful of Darkmoon Faire tickets for you.",
+  "c": "You brought the fireworks. Wonderful work, $N! I can't wait to light these and tell the world that my booth is ready to go! I must still wait, quite a long time I'm afraid, but... I'll be ready when I'm ready, yes?$B$BHere are the tickets, $N. Enjoy yourself!"
+ },
+ {
+  "id": 7897,
+  "t": "Mechanical Repair Kits",
+  "o": "",
+  "d": "",
+  "p": "The biggest reason I can't open up my booth is that... everything's broken! I need mechanical repair kits to fix all this stuff!$B$BCan you bring me those kits, $N? I'll trade you... kits for Darkmoon Faire tickets. What do you say?",
+  "c": "Thank you! Now I can get to fixing things.$B$BIt's going to take a lot of repair kits and a lot of late nights to get everything in working order. Sometimes I think it'd be better to get back to my roots and restart my career as a headhunter, but... the Faire has been good to me.$B$BTake these tickets, $N, and have fun!"
+ },
+ {
+  "id": 7898,
+  "t": "Thorium Widget",
+  "o": "",
+  "d": "",
+  "p": "Yebb Nebblegear, like me, is working on a future attraction. So amazing is this attraction, says Nebb, that it will draw folks from across the world... and it will make us all very, very rich!$B$BHe says he needs thorium widgets for its construction, and wants me to collect them for him. So what do you say, $N? Do you know where to get Thorium widgets? If you're an engineer, can you make them? Do you want to trade them for Darkmoon Faire tickets?",
+  "c": "Ah, thank you, $N! Yebb will enjoy these widgets. I don't know what he has planned for them, but Yebb's a clever little gnome. He's clever, and maybe a little devious....$B$BIf only he liked the taste of humanoid flesh... he'd make a great troll!$B$BHere, $N. A deal's a deal, and these tickets are yours."
+ },
+ {
+  "id": 7899,
+  "t": "Small Furry Paws",
+  "o": "",
+  "d": "",
+  "p": "The first lesson in drawing a crowd is: lure them with gadgets and trinkets!  Can you help me?$B$BI need small furry paws to use for prizes.  You can find those on the cats of the Barrens or Darkshore....$B$BBring me some paws and I'll trade you a Darkmoon Faire ticket for them.",
+  "c": "Great, you got them! We can use these to make toys and baubles, and those will attract more people to the Faire!$B$BHere's your ticket, $N. You earned it!"
+ },
+ {
+  "id": 7900,
+  "t": "Torn Bear Pelts",
+  "o": "",
+  "d": "",
+  "p": "Children love toys! And no matter what race, I've found that all children love furry, plushy toys made from torn bear pelts!$B$BYou can get those pelts from the bears of Ashenvale or Hillsbrad. Bring me a heap of them and earn yourself a heap of Darkmoon Faire tickets!",
+  "c": "Nice pelts, $N! I'll get someone to sew these into a bunch of plush toys. With a little stuffing and some paint, I think they'll be the envy of children across Azeroth!$B$BTickets? Ah yes, your payment!$B$BHere they are!"
+ },
+ {
+  "id": 7901,
+  "t": "Soft Bushy Tails",
+  "o": "",
+  "d": "",
+  "p": "It's amazing what people value! Take, for instance, a wooden stick with a soft bushy tail attached to it. Now, you and I might think something like that isn't all that valuable... but if you give that piece of junk a neat name like \"Savage Fuzz Tail\" and put it in a pretty box, then people will think it's valuable. Trash becomes treasure!$B$BGet me soft bushy tails from the wolves of Desolace and the Badlands, and I'll give you Darkmoon Faire tickets.",
+  "c": "Well done, $N! These tails will make great prizes for our visitors, and that means happy visitors... who talk to their friends and bring more visitors!$B$BHere are your tickets! Have a good time at the Darkmoon Faire... and don't forget to tell your friends about us!"
+ },
+ {
+  "id": 7902,
+  "t": "Vibrant Plumes",
+  "o": "",
+  "d": "",
+  "p": "A person's imagination is an incredible thing. It can make the smallest hill seem like the largest mountain. It can make the most innocuous shadow appear cast by a horrible nightmare!$B$BWe at the Darkmoon Faire let our visitor's imaginations blossom! But to help stretch their imaginations... sometimes we have to get tricky.$B$BI need vibrant plumes for one of my attractions. You can get them from the birds of the more dangerous areas of Azeroth. Bring me the plumes and many tickets will be yours!",
+  "c": "Ah, the plumes! They are amazing, don't you think! It would be easy to spark one's imaginations with such beauties!$B$BYou do such charitable work, $N. The smiles on our visitors' faces when they see the show is a grand payment indeed, but please take these tickets as well."
+ },
+ {
+  "id": 7903,
+  "t": "Evil Bat Eyes",
+  "o": "",
+  "d": "",
+  "p": "Do you ever find yourself wandering in a cave, late at night, looking for adventure? You do? Really? Well, then you've seen the creepy eyes of bats staring at you from high up, waiting for you to let down your guard so they can suck your blood!$B$BScary thought, don't you think? Of course! It's no doubt that bat eyes are scary!$B$BWill you bring me some evil bat eyes, $N? I want them for... something I'm designing. Something scary.$B$BYou can get them from the bats of the Eastern Plaguelands.",
+  "c": "Great!  You got the eyes!  I hope hunting those bats was frightening for you, because if it scared a brave $c like yourself, then those eyes will certainly scare our Faire visitors.$B$BTake these tickets, $N, and thank you for your service."
+ },
+ {
+  "id": 7905,
+  "t": "The Darkmoon Faire",
+  "o": "Deliver the Free Ticket Voucher to Gelvas Grimgate, located inside the Darkmoon Faire carnival.",
+  "d": "The Darkmoon Faire is coming!  Be sure to experience all the wonders and excitement of it when it comes to town!$B$BIf you act right now, you can redeem this voucher for free prize tickets!  Just hand your voucher to Gelvas Grimgate located inside the carnival.$B$BRight now, the Faire is outside Goldshire, in the Elwynn Forest.  Don't miss out!  Go today!",
+  "p": "Yes friend, may I help you? Do you have a voucher that needs redeeming?",
+  "c": "Welcome to the Darkmoon Faire! This voucher is good for FIVE, yes, FIVE prize tickets!$B$BWhen you accumulate prize tickets, you'll want to speak to me about redeeming them for valuable prizes. The more tickets you get, the more prizes you can win. Huzzah!"
+ },
+ {
+  "id": 7907,
+  "t": "Darkmoon Beast Deck",
+  "o": "Return the Beast Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Beast cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "Oh dear.",
+  "c": "Well this explains a lot. If you ever find a way into Ahn'Qiraj, keep an eye out for ol' Brann. I'm afraid that he'll be powerless without his monkey."
+ },
+ {
+  "id": 7908,
+  "t": "Arena Master",
+  "o": "Speak with Short John Mithril in the Stranglethorn Arena.",
+  "d": "There must be more to being a master of the arena than this!   Perhaps the Pirate who runs the event at Gurubashi will know!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7921,
+  "t": "Talismans of Merit",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Thank you, $N. Your exploits in Warsong Gulch ring throughout Ashenvale Forest."
+ },
+ {
+  "id": 7922,
+  "t": "Mark of Honor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!"
+ },
+ {
+  "id": 7923,
+  "t": "Mark of Honor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!"
+ },
+ {
+  "id": 7924,
+  "t": "Mark of Honor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!"
+ },
+ {
+  "id": 7925,
+  "t": "Mark of Honor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!"
+ },
+ {
+  "id": 7926,
+  "t": "The Darkmoon Faire",
+  "o": "Deliver the Free Ticket Voucher to Gelvas Grimgate, located inside the Darkmoon Faire carnival.",
+  "d": "The Darkmoon Faire is coming!  Be sure to experience all the wonders and excitement of it when it comes to town!$B$BIf you act right now, you can redeem this voucher for free prize tickets!  Just hand your voucher to Gelvas Grimgate located inside the carnival.$B$BRight now, the Faire is just outside Thunder Bluff, in Mulgore.  Don't miss out!  Go today!",
+  "p": "Yes friend, may I help you?  Do you have a voucher that needs redeeming?",
+  "c": "Welcome to the Darkmoon Faire!  This voucher is good for FIVE, yes, FIVE prize tickets!$B$BWhen you accumulate prize tickets, you'll want to speak to me about redeeming them for valuable prizes.  The more tickets you get, the more prizes you can win.  Huzzah!"
+ },
+ {
+  "id": 7927,
+  "t": "Darkmoon Portals Deck",
+  "o": "Return the Portals Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Portal cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of portals! Congratulations!",
+  "c": "So you have put together a deck of Portals. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 7928,
+  "t": "Darkmoon Warlords Deck",
+  "o": "Return the Warlords Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Warlord cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of warlords!   Congratulations!",
+  "c": "So you have put together a deck of Warlords.   Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.   Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 7929,
+  "t": "Darkmoon Elementals Deck",
+  "o": "Return the Elementals Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Elemental cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of elementals! Congratulations!",
+  "c": "So you have put together a deck of Elementals. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 7930,
+  "t": "5 Tickets - Darkmoon Flower",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7931,
+  "t": "5 Tickets - Minor Darkmoon Prize",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7932,
+  "t": "12 Tickets - Lesser Darkmoon Prize",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7933,
+  "t": "40 Tickets - Greater Darkmoon Prize",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7934,
+  "t": "50 Tickets - Darkmoon Storage Box",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7935,
+  "t": "10 Tickets - Last Month's Mutton",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7936,
+  "t": "50 Tickets - Last Year's Mutton",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7937,
+  "t": "Your Fortune Awaits You...",
+  "o": "Travel to the Eastvale Logging Camp in Elwynn Forest and seek out your fortune.",
+  "d": "\"Your fortune awaits you in Eastvale.\"$B$BThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Eastvale Logging Camp in Elwynn Forest.  Focusing closer in on the image, you see a haystack that sits next to a stable.$B",
+  "p": "This haystack looks like the one from your vision.",
+  "c": "A quick search of the haystack reveals a lockbox from within it!  It would seem that you have found your fortune!"
+ },
+ {
+  "id": 7938,
+  "t": "Your Fortune Awaits You...",
+  "o": "Travel to the Deadmines in Westfall and seek out your fortune.",
+  "d": "\"Your fortune awaits you inside the Deadmines.\"$B$BThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Deadmines inside Westfall's ruined hamlet of Moonbrook.  Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the mines itself.  Stepping through it, a strange chest appears out from nowhere.",
+  "p": "This chest looks like the one from your vision...",
+  "c": "A quick search of the chest reveals a lockbox from within it!  It would seem that you have found your fortune!"
+ },
+ {
+  "id": 7939,
+  "t": "More Dense Grinding Stones",
+  "o": "",
+  "d": "",
+  "p": "$N, thank you for all the help you've given me. I really can't thank you enough!$B$BAlthough my need is no longer great... if you bring me more dense grinding stones, I still have more Darkmoon Faire tickets for you.",
+  "c": "Thanks much, $N. Here's your Darkmoon Faire tickets!"
+ },
+ {
+  "id": 7940,
+  "t": "1200 Tickets - Orb of the Darkmoon",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 7941,
+  "t": "More Armor Kits",
+  "o": "",
+  "d": "",
+  "p": "$N, I must thank you for all your help.  I have plenty of supplies, through no small efforts on your part, but if you wish to bring me more armor kits, then I will gladly trade them for Darkmoon Faire tickets.",
+  "c": "There you are, $N.  A fair trade.  Enjoy."
+ },
+ {
+  "id": 7942,
+  "t": "More Thorium Widgets",
+  "o": "",
+  "d": "",
+  "p": "$N, you have been so good to us, bringing me goods without tiring. You have my eternal thanks!$B$BAlthough our need for Thorium widgets is not as great as it was, you may still bring them to me and I will gladly trade them for Darkmoon Faire tickets.",
+  "c": "Here you are, $N. Here are Darkmoon Faire tickets for your enjoyment. Do not, as they say, spend them all in one place!"
+ },
+ {
+  "id": 7943,
+  "t": "More Bat Eyes",
+  "o": "",
+  "d": "",
+  "p": "$N, the attraction I'm designing will be the scariest event since Gnomeregan was overrun! And it's largely thanks to you and all the baubles you've brought me. Many, many thanks!$B$BI don't need much else, but... if you bring me more evil bat eyes from the bats of the Eastern Plaguelands... I might have more Darkmoon Faire tickets for you.",
+  "c": "Thanks again, $N.  Here are your tickets!"
+ },
+ {
+  "id": 7944,
+  "t": "Your Fortune Awaits You...",
+  "o": "Travel to the Wailing Caverns in the Barrens and seek out your fortune.",
+  "d": "\"Your fortune awaits you inside Wailing Caverns.\"$B$BThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of a cave to the southwest of the Crossroads in the Barrens.  Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the caverns itself.  Stepping through it, a strange chest appears out from nowhere.$B",
+  "p": "This chest looks like the one from your vision...",
+  "c": "A quick search of the chest reveals a lockbox from within it!  It would seem that you have found your fortune!"
+ },
+ {
+  "id": 7945,
+  "t": "Your Fortune Awaits You...",
+  "o": "Travel to Palemane Rock in Mulgore and seek out your fortune.",
+  "d": "\"Your fortune awaits you outside Palemane Rock.\"$B$BThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Palemane Rock of Mulgore.  Focusing closer in on the image, you see a tree stump that sits close to the cave entrance.$B",
+  "p": "This tree stump looks like the one from your vision.",
+  "c": "A quick search of the tree stump reveals a lockbox from within it!  It would seem that you have found your fortune!"
+ },
+ {
+  "id": 7946,
+  "t": "Spawn of Jubjub",
+  "o": "",
+  "d": "",
+  "p": "I'm so happy Jubjub is no longer lost. She loves Dark Iron ale so much that when I ran out... she ran away to find more!$B$BNow that Jubjub's back, I want as much ale as I can get! I won't want her to run away again!$B$BDo you have any Dark Iron Ale? If you do, then I'll trade you one of Jubjub's frog eggs for a mug...",
+  "c": "Thank you, $N.  Here is your egg!  It won't be ready to hatch for a little while, but when it does you'll have a great pet!"
+ },
+ {
+  "id": 7961,
+  "t": "Waskily Wabbits!",
+  "o": "Collect 10 Unlucky Wabbit Feet from the Waskily Wabbits.",
+  "d": "These rabbits are breeding uncontrollably.  Something must be done!$b$bHelp us $n, you're our only hope.",
+  "p": "",
+  "c": ""
+ }
+]

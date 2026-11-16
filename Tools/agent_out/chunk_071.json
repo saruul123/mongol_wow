@@ -1,0 +1,962 @@
+[
+ {
+  "id": 13859,
+  "t": "At The Enemy's Gates",
+  "o": "Aneera Thuron at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders that we are ready to face any enemy."
+ },
+ {
+  "id": 13860,
+  "t": "At The Enemy's Gates",
+  "o": "Handler Dretch at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "The Argent Crusade has seen our resolve and they know that our warriors will see this through to the end."
+ },
+ {
+  "id": 13861,
+  "t": "Battle Before The Citadel",
+  "o": "Eadric the Pure at the Argent Tournament Grounds wants you to kill 3 Boneguard Commanders.",
+  "d": "Even as some of us labor on the tournament, our brothers prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's commanders.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have you fought against the enemy in the Court of Bones?",
+  "c": "The Argent Crusade is heartened to have $cs like you fighting alongside us in the battle against the Lich King."
+ },
+ {
+  "id": 13862,
+  "t": "Battle Before The Citadel",
+  "o": "Eadric the Pure at the Argent Tournament Grounds wants you to kill 3 Boneguard Commanders.",
+  "d": "Even as some of us labor on the tournament, our brothers prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled argent charger at the camp, then destroy the Lich King's commanders.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have you fought against the enemy in the Court of Bones?",
+  "c": "The Argent Crusade is heartened to have $cs like you fighting alongside us in the battle against the Lich King."
+ },
+ {
+  "id": 13863,
+  "t": "Battle Before The Citadel",
+  "o": "Crok Scourgebane at the Argent Tournament Grounds wants you to kill 3 Boneguard Commanders.",
+  "d": "As some crusaders prepare for the tournament, they have sent others to make an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's commanders.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have you fought against the enemy in the Court of Bones?",
+  "c": "Everywhere we have met the Scourge, we have made them fear us, and this campaign is no different."
+ },
+ {
+  "id": 13864,
+  "t": "Battle Before The Citadel",
+  "o": "Crok Scourgebane at the Argent Tournament Grounds wants you to kill 3 Boneguard Commanders.",
+  "d": "As some crusaders prepare for the tournament, they have sent others to make an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's commanders.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have you fought against the enemy in the Court of Bones?",
+  "c": "Everywhere we have fought the Scourge, we have taught them to fear us and this campaign will be no different."
+ },
+ {
+  "id": 13889,
+  "t": "Hungry, Hungry Hatchling",
+  "o": "Your Venomhide Hatchling wants you to feed it 15 pieces of Fresh Dinosaur Meat.",
+  "d": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.$B$BThe drawings are rough, but you can make out the shapes of diemetradons, stegodons, and pterrordaxes. As the raptor finishes the sketch, it looks up at you, bares its teeth, and makes a biting motion.$B$BYour venomhide hatchling must be craving fresh meat from these animals. Find and kill any type of diematradon, stegodon, or pterrordax in Un'Goro Crater and feed its meat to your hungry hatchling.",
+  "p": "The hatchling cocks its head and looks at you.",
+  "c": "The venomhide hatchling seems satisfied with the giant meal you've provided, but there's no way of telling when it will be hungry again."
+ },
+ {
+  "id": 13903,
+  "t": "Gorishi Grub",
+  "o": "Your Venomhide Hatchling wants you to feed it 10 Silithid Meat.",
+  "d": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.$B$BThe hatchling's drawings seem to resemble various types of large insects, perhaps the gorishi silithids. The hatchling finishes his picture, then gestures at it with one short arm, snaps its jaws, and licks its lips.$B$BIt must want you to go to the Slithering Scar, in center of the southern part of Un'Goro Crater, and gather silithid meat. When you have the meat, feed it to your hungry hatchling.",
+  "p": "The hatchling cocks its head and looks at you.",
+  "c": "Your venomhide hatchling flashes you a toothy smile and then settles in for a nap."
+ },
+ {
+  "id": 13904,
+  "t": "Poached, Scrambled, Or Raw?",
+  "o": "Your Venomhide Hatchling wants you to feed it 12 Silithid Eggs.",
+  "d": "The venomhide hatchling's stomach growls as it gestures to get your attention. It begins scratching pictures of silithids into the dirt, adding small ovals underneath them. It looks at you hopefully and gestures at the circles.$B$BThey can only mean silithid eggs. The Noxious Lair, in western Tanaris and near the border with Un'Goro Crater, would probably be a great place to find the eggs your little hatchling wants.",
+  "p": "The hatchling looks at you.",
+  "c": "Your hatchling licks its lips after devouring the meal of silithid eggs. For a moment, you think it seems disappointed that feeding time has come to an end."
+ },
+ {
+  "id": 13905,
+  "t": "Searing Roc Feathers",
+  "o": "Your Venomhide Hatchling wants you to get 5 pieces of Searing Roc Plumage.",
+  "d": "The hatchling looks at you for a moment, almost as if wondering whether you'll understand. It scrawls a picture of a pair of feathers in the dirt, then points with one claw to the bindings at its elbows and knees.$B$BIt doesn't seem hungry, but what could the feathers be for?$B$BIt must want them for adornments like the ones you've seen on other raptors. The largest feathers come from the searing rocs that congregate around the bones of large creatures in western Tanaris, northeast of Thistleshrub Valley.",
+  "p": "Your venomhide hatchling looks at you with anticipation.",
+  "c": "The venomhide hatchling accepts the feathers and begins looking them over, holding several up to its armbands."
+ },
+ {
+  "id": 13908,
+  "t": "Gearing Up To Ride",
+  "o": "Bring 20 Rugged Leather, 20 Runecloth, and 80 gold to Mor'vek in the southeast part of the Marshlands in Un'Goro Crater.",
+  "d": "Your venomhide is strong and healthy and you've developed quite a bond. You'll be ready to ride him once I've completed your saddle and bridle. Just like you, they have to be specially conditioned to stand up to the toxins the raptor produces.$B$BAll you'll need to do is bring me some rugged leather, runecloth, and money to buy the rest of the supplies and I'll have that saddle for you in no time.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13914,
+  "t": "Searing Roc Feathers",
+  "o": "Your Venomhide Hatchling wants you to get 5 pieces of Searing Roc Plumage.",
+  "d": "The hatchling looks at you for a moment, almost as if wondering whether you'll understand. It scrawls a picture of a pair of feathers in the dirt, then points with one claw to the bindings at its elbows and knees.$B$BIt doesn't seem hungry, but what could the feathers be for?$B$BIt must want them for adornments like the ones you've seen on other raptors. The largest feathers come from the searing rocs that congregate around the bones of large creatures in western Tanaris, northeast of Thistleshrub Valley.",
+  "p": "Your venomhide hatchling looks at you with anticipation.",
+  "c": "The venomhide hatchling accepts the feathers and begins looking them over, holding several up to its armbands."
+ },
+ {
+  "id": 13915,
+  "t": "Hungry, Hungry Hatchling",
+  "o": "Your Venomhide Hatchling wants you to feed it 15 pieces of Fresh Dinosaur Meat.",
+  "d": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.$B$BThe drawings are rough, but you can make out the shapes of diemetradons, stegodons, and pterrordaxes. As the raptor finishes the sketch, it looks up at you, bares its teeth, and makes a biting motion.$B$BYour venomhide hatchling must be craving fresh meat from these animals. Find and kill any type of diematradon, stegodon, or pterrordax in Un'Goro Crater and feed its meat to your hungry hatchling.",
+  "p": "The venomhide hatchling licks its lips and tilts its head to the side.",
+  "c": "The venomhide hatchling seems satisfied with the giant meal you've provided, but there's no way of telling when it will be hungry again."
+ },
+ {
+  "id": 13916,
+  "t": "Poached, Scrambled, Or Raw?",
+  "o": "Your Venomhide Hatchling wants you to feed it 12 Silithid Eggs.",
+  "d": "The venomhide hatchling's stomach growls as it gestures to get your attention. It begins scratching pictures of silithids into the dirt, adding small ovals underneath them. It looks at you hopefully and gestures at the circles.$B$BThey can only mean silithid eggs. The Noxious Lair, in western Tanaris and near the border with Un'Goro Crater, would probably be a great place to find the eggs your little hatchling wants.",
+  "p": "",
+  "c": "Your hatchling licks its lips after devouring the meal of silithid eggs. For a moment, you think it seems disappointed that feeding time has come to an end."
+ },
+ {
+  "id": 13917,
+  "t": "Gorishi Grub",
+  "o": "Your Venomhide Hatchling wants you to feed it 10 Silithid Meat.",
+  "d": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.$B$BThe hatchling's drawings seem to resemble various types of large insects, perhaps the gorishi silithids. The hatchling finishes his picture, then gestures at it with one short arm, snaps its jaws, and licks its lips.$B$BIt must want you to go to the Slithering Scar, in center of the southern part of Un'Goro Crater, and gather silithid meat. When you have the meat, feed it to your hungry hatchling.",
+  "p": "The hatchling cocks its head and looks at you.",
+  "c": "Your venomhide hatchling flashes you a toothy smile and then settles in for a nap."
+ },
+ {
+  "id": 13926,
+  "t": "Little Orphan Roo Of The Oracles",
+  "o": "Speak to Orphan Matron Aria, then use the Oracle Orphan Whistle to call the orphan you will be taking care of during Children's Week.",
+  "d": "The orphans have been looking forward to the opportunity to meet friends like you, $N. It's wonderful that you've agreed to take one into your care.$B$BTake this whistle.  With it, you will be able to call for the orphan you have agreed to sponsor.  It will only last for a limited time - not much longer than Children's Week itself, in fact.$B$BPlease, $N, call upon your orphan.  He will be excited to meet you and see the sights of Northrend with you.",
+  "p": "You taking care of us?",
+  "c": "You take us away from puppy-men hatchlings? Good. We like you already. Mean puppy-men hatchlings took all our favorite toys away."
+ },
+ {
+  "id": 13927,
+  "t": "Little Orphan Kekek Of The Wolvar",
+  "o": "Speak to Orphan Matron Aria, then use the Wolvar Orphan Whistle to call the orphan you will be taking care of during Children's Week.",
+  "d": "The orphans have been looking forward to the opportunity to meet friends like you, $N. It's wonderful that you've agreed to take one into your care.$B$BTake this whistle.  With it, you will be able to call for the orphan you have agreed to sponsor.  It will only last for a limited time - not much longer than Children's Week itself, in fact.$B$BPlease, $N, call upon your orphan.  He will be excited to meet you and see the sights of Northrend with you.",
+  "p": "Orphan lady say Kekek go with you.",
+  "c": "You take Kekek hunting? Good to get away from mean old orphan lady who doesn't let Kekek hunt."
+ },
+ {
+  "id": 13929,
+  "t": "The Biggest Tree Ever!",
+  "o": "Take your orphan, Roo, to visit Grizzlemaw. Make sure to call for him if he is not present when you enter the trunk of the great tree.",
+  "d": "Before there was a big war and we left the village, we remember Soo-say telling us all about the biggest tree ever!$B$BSoo-say call it Grizzlemaw or something. Soo-say tell us it in the middle Grizzle Hills. No, wait, that not what Soo-say say. Soo-say say Grizzly Hills. Now we remember! Tree is big and right in middle of Grizzly Hills. Can't miss!$B$BYou take us there, oki? We see inside of giant tree? Soo-say tell us big bear men live in tree too. Maybe we see them.",
+  "p": "Can we see the big tree? Can we?",
+  "c": "We never knew trees got that big! Nope. Maybe Great Ones had special plan for it?"
+ },
+ {
+  "id": 13930,
+  "t": "Home Of The Bear-Men",
+  "o": "Take your orphan, Kekek, to visit Grizzlemaw. Make sure to call for him if he is not present when you enter the trunk of the great tree.",
+  "d": "High Shaman Rakjak always tell stories of mighty warriors, even ones far away. Sometimes he tell stories about giant bear-men fighting great battle for tree-city.$B$BMaybe you take Kekek there, see tree, see battle! High Shaman Rakjak tell Kekek that giant tree-city Grizzlemaw stand in the middle of Grizzly Hills.$B$BKekek never see a city before meeting orphan lady, but this city have no warriors, only men in purple dresses. Kekek want to see real warriors fight for real city.",
+  "p": "Kekek want to visit bear-men tree. We go.",
+  "c": "This is Kekek's kind of city. Bear-men fight for home just like Frenzyheart do. Orphan lady tell Kekek not to fight with other pups, but Kekek fight anyway."
+ },
+ {
+  "id": 13931,
+  "t": "Another Year, Another Souvenir.",
+  "o": "Redeem the Brewfest Stein Voucher with Blix Fixwidget in the back of the Brewfest camp.",
+  "d": "Not only are we supplying brew to everyone, we also have steins to give out!  Beautiful, commemorative steins all obtained by the most legal of means!  Here's a voucher for one.$b$bTalk to Blix near the back of the Brewfest camp.  He's pretty strange, even more so now that he's always wearing those goggles.  He'll handle the voucher for you, and any other Brewfest transaction.",
+  "p": "What's happening hot stuff? Got something for me?",
+  "c": "What's this? A stein voucher? So you like drinking? Great! After I give you this stein, go have a few drinks! Then a few more. Maybe have a few more after that... Then, now this is important, come see me.$b$bLook, I know you'll be back eventually. If you want your Brewfest tokens redeemed you have to see me.$b$bAnyways, here's the stein, and remember to talk to me later."
+ },
+ {
+  "id": 13932,
+  "t": "Another Year, Another Souvenir.",
+  "o": "Redeem the Brewfest Stein Voucher with Belbi Quikswitch in the Brewfest camp.",
+  "d": "Brewfest isn't just about racing rams, it's also about drinking!  When you have a moment, take this voucher to Belbi Quikswitch.  She's near the back of the Brewfest camp.  If you can't see her, don't worry, she'll be sure to see you.$b$bIn any case, take this voucher to her to get your free Brewfest stein.  She'll also be more than happy to handle any and all other Brewfest transactions.",
+  "p": "What's happening hot stuff? Got something for me?",
+  "c": "Aww, it's just a stein voucher... Maybe you're just playing hard to get. So here's this year's stein for you.$b$bBut I suspect I'll be seeing a lot more of you. After all, if you want any Brewfest tokens redeemed, I'm your girl...$b$bOr maybe I'm his girl...$b$bOooohhh... or his..."
+ },
+ {
+  "id": 13933,
+  "t": "The Bronze Dragonshrine",
+  "o": "Take your orphan, Roo, to visit the Bronze Dragonshrine. Make sure to call for him if he is not present when you get there.",
+  "d": "Sometimes High-Oracle Soo-say tell stories about a shrine to dragon-things, not like great rain stone, but different. Soo-say tell us maybe we see ourselves there, but not like in a shiny. Soo-say mean we could see what we are like many years from now.$B$BYou take us there? We remember shrine to bronze dragon-things in place called Dragonblight. Soo-say say great rain stone show him shrine to northeast of Wyrmrest Temple, or northwest of place dryskins call Wintergarde Keep. We go?",
+  "p": "We visit shrine to dragon-things?",
+  "c": "We very glad you brought us here, $N. We always worried what would happen to us when the orphan matron found us in Sholazar."
+ },
+ {
+  "id": 13934,
+  "t": "The Bronze Dragonshrine",
+  "o": "Take your orphan, Kekek, to visit the Bronze Dragonshrine. Make sure to call for him if he is not present when you get there.",
+  "d": "When Kekek was a pup, he sometimes heard elders talking about a far-off shrine. Sometimes they say that bronze dragon-things there know all about future.$B$BKekek tell you he be great warrior, now we go see. Bronze dragon-thing shrine somewhere in Dragonblight, northeast of dragon-thing temple called Wyrmrest, also northwest of man-town called Wintergarde.$B$BWe go there, see future. Prove orphan-lady wrong about Kekek. Kekek warrior, not bully.",
+  "p": "Kekek want to visit dragonshrine.",
+  "c": "See? Kekek never get tired of saying, \"Kekek tell you so.\"$b$bMaybe now you believe other things Kekek tell you, like how sky is green."
+ },
+ {
+  "id": 13937,
+  "t": "A Trip To The Wonderworks",
+  "o": "Purchase a Small Paper Zeppelin at the Wonderworks and then throw it to your orphan, Roo.",
+  "d": "We have time for one more stop? We heard Dalaran has toy store, but we never get to go there. Orphan mistress says too many orphans would crowd the store. Maybe we can go, just us?$B$BWe can have a small paper zeppelin? We think they have those at Wonderworks in Dalaran. We always wanted to play with one. Maybe you throw one to us?",
+  "p": "We go to the Wonderworks?",
+  "c": "That was fun! We like toy store. Maybe orphan matron take us sometimes. We ask. Maybe you tell her too?"
+ },
+ {
+  "id": 13938,
+  "t": "A Visit To The Wonderworks",
+  "o": "Purchase a Small Paper Zeppelin at the Wonderworks and then throw it to your orphan, Kekek.",
+  "d": "You take Kekek one more place? Orphan lady say Dalaran have toy store called Wonderworks, but Kekek never seen it. She say that if one orphan go, she have to take everyone. Maybe you take Kekek?$B$BKekek seen other children playing with small paper zeppelin? Kekek hear those come from Wonderworks. Maybe you get one and throw it around with Kekek?",
+  "p": "This toy store yet?",
+  "c": "Kekek like playing with paper zeppelin. Not as good as hunting, but give something to do when bored at orphanage."
+ },
+ {
+  "id": 13950,
+  "t": "Playmates!",
+  "o": "Take your orphan, Roo, to visit Winterfin Retreat. Make sure to call for him if he is not present when you get there.",
+  "d": "Orphanage gets real lonely, you know? Sometimes we want to go places, meet new friends.$B$BMaybe you can take us somewheres with other hatchlings? We heard about a place called Winterfin Retreat, in the big Borean Tundra. We think it's way in the northwest, near the edge of the Coldarra-island.$B$BThe orphan lady say someone brave save a bunch of hatchlings there. We think they lonely, too. We think they need friends. You take us there?",
+  "p": "You take us to Winterfin Retreat? Meet new friends maybe?",
+  "c": "That was fun! We go again sometime? We can't wait to see our new friend again!"
+ },
+ {
+  "id": 13951,
+  "t": "Playmates!",
+  "o": "Take your orphan, Kekek, to visit Snowfall Glade. Make sure to call for him if he is not present when you get there.",
+  "d": "Kekek think there not enough other pups living with orphan-lady. Maybe we go visit some others?$B$BKekek know a tribe that lives in Dragonblight, at place called Snowfall Glade. You know? Snowfall Glade north of walrus-men town of Mo'aki Harbor and south of Ruby Dragonshrine.$B$B<Kekek scowls at the mention of the tuskarr.>$B$BYou take Kekek there, to some of the villages there. Maybe we meet new wolvar, show them how fierce Frenzyheart are!",
+  "p": "You take Kekek to Snowfall Glade now?",
+  "c": "Kekek like new Snowfall friends, maybe come back and go hunting together sometime. Maybe we go tip over walrus-men when they sleeping."
+ },
+ {
+  "id": 13952,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Human Spirit in Stormwind's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 13954,
+  "t": "The Dragon Queen",
+  "o": "Take your orphan, Roo, to visit Alexstrasza the Life-Binder at the top of Wyrmrest Temple. Make sure to call for him if he is not present when you get there.",
+  "d": "One of High-Oracle Soo-say's stories says Great Ones made all the dragons and a queen for the dragons, too. We want to see her! Would you take us to the top of Wyrmrest Temple? We remember Soo-say telling us the temple-thing was in the middle of Dragonblight.$B$BWe really want to meet dragon queen. She must be so big and pretty. Maybe she help us find new parents.$B$BYou take us?",
+  "p": "",
+  "c": "Do you think she ever saw an oracle before? We might be the first one ever to meet her! We thinks she liked us, but we're not sure. She doesn't talk a lot. Nope. But that was fun!"
+ },
+ {
+  "id": 13955,
+  "t": "The Dragon Queen",
+  "o": "Take your orphan, Kekek, to visit Alexstrasza the Life-Binder at the top of Wyrmrest Temple. Make sure to call for him if he is not present when you get there.",
+  "d": "Kekek always liked dragons. Always wanted to be one, but orphan-lady said no. But she did say maybe you take Kekek to meet dragon queen.$B$BKekek think orphan-lady have good idea for once. You take Kekek to Wyrmrest Temple in the middle of Dragonblight? Fly all the way to top to meet dragon queen. She must be really big, to be queen of all dragons. Kekek can't wait to see!",
+  "p": "We go see dragon queen now?",
+  "c": "Queen not what Kekek expected, but Kekek understand why. Queen's visitors get crushed if she was always big dragon! Still want to see someday."
+ },
+ {
+  "id": 13956,
+  "t": "Meeting a Great One",
+  "o": "Take your orphan, Roo, to visit the Etymidian at the Shaper's Terrace. Make sure to call for him if he is not present when you get there.",
+  "d": "High-Oracle Soo-say always tell us about how Great Ones built shrines and we give them shinies, but he never see Great Ones. No one see Great Ones, but maybe you know how to find one?$B$BSoo-say told us the Great Ones made a waygate and put it in the center of the southern part of Sholazar. Soo-say not say where it goes, but maybe it take us to a Great One! Take us through that waygate and let's find out, $N.",
+  "p": "Do you know how to find a Great One? We've never seen one before.",
+  "c": "We got to meet a Great One! Too bad it was during his nap time, but we understand. We like naps, too! Maybe we learn naps from Great Ones like we learn about shrines and shinies!$b$bCan we come back and visit the Great One again when not sleeping?"
+ },
+ {
+  "id": 13957,
+  "t": "The Mighty Hemet Nesingwary",
+  "o": "Take your orphan, Kekek, to visit Hemet Nesingwary at the Nesingwary Base Camp. Make sure to call for him if he is not present when you get there.",
+  "d": "Know who Kekek always wanted to meet? Hemet Nesingwary.$B$BMaybe you take Kekek to see him? Elder Harkek tell us all about him. He come to Sholazar to hunt biggest creatures anywhere! Even Frenzyheart elders respect Hemet Nesingwary as great hunter.$B$BElder Harkek tell Kekek that Nesingwary Base Camp in the middle of west side of Sholazar, right on river called Seabreach Flow. We go visit and learn how to hunt like Hemet?",
+  "p": "",
+  "c": "You help Kekek learn him a book? Then, Kekek hunt with Hemet Nesingwary!"
+ },
+ {
+  "id": 13959,
+  "t": "Back To The Orphanage",
+  "o": "Return your ward to the Dalaran orphanage by handing in the Oracle Orphan Whistle to Orphan Matron Aria in Dalaran.",
+  "d": "We had the best time with you, $N. We wish you could be our $g daddy : mama; now, but you have to take us back to Orphan Matron Aria in Dalaran.$B$BMaybe you could come visit us again sometime? We loved meeting Winterfin hatchlings and getting to see the dragon queen. No one will believe us when we say we met a Great One!$B$BWe going to miss you, $N. We promise to write letter sometime, oki? ",
+  "p": "Do we have to go back? We want to stay with you.",
+  "c": "It sounds like little Roo had a great time this week. I know he was getting awfully lonely in the orphanage and was eager to make some new friends. Thank you so much for agreeing to look after him."
+ },
+ {
+  "id": 13960,
+  "t": "Back To The Orphanage",
+  "o": "Return your ward to the Dalaran orphanage by handing in the Wolvar Orphan Whistle to Orphan Matron Aria in Dalaran.",
+  "d": "Know what? You not so bad after all, $N. You take Kekek a lot of fun places. Kekek meet a lot of new friends and do things no other pup get to do.$B$BYou, and Hemet Nesingwary, and Snowfall Glade pups all new best friends. Maybe sometime you bring Kekek that green hills book? Kekek promise to write sometimes, too, tell you how things go. Maybe even be nice to big-tongue kids sometimes.$B$BKekek gotta go back to orphan-lady Aria now, back in purple human city.",
+  "p": "Kekek not want to go. Kekek want to see more of Northrend with Jeursey.",
+  "c": "Thank you for agreeing to care for Kekek this week. I know he can be a handful, but I think that with more individual attention and a few more friends, he'll do a lot better. No doubt he's going to be telling stories of his adventures with you for weeks."
+ },
+ {
+  "id": 13986,
+  "t": "An Injured Colleague",
+  "o": "Take the Battered Tribal Shield to Aponi Brightmane on Elder Rise within Thunder Bluff.",
+  "d": "The fight's been hard up here, $c, as I'm sure you know. We're holding out, but not everyone has gone unscathed.$b$bA warrior in our band, Aponi Brightmane, was taken ill by an infected wound in her arm. She's been taken back to Thunder Bluff for recuperation. It seems she left her shield here at the front in the confusion, however - could you take it to her, along with our well-wishes? Her smile is missed around here.$b$bYou can find her on Elder Rise on the Bluff.",
+  "p": "Oh! Hello there. I don't think we've met; is there something I can do for you?",
+  "c": "Oh, my shield! I won't be using it anytime soon, but thank you. I hate that I'm sitting here useless when I could be helping on the front, but fighting with my arm like this won't help anyone.$b$bTake care out there, won't you?"
+ },
+ {
+  "id": 13997,
+  "t": "If You're Reading This While I'm In Combat...",
+  "o": "ELM Daze Target wants you to kill 5 ELM Attackers for Dan and Great Justice!",
+  "d": "Dan is the most awesome programmer in the world... the World of Warcraft!$B$BIsn't it weird that you used to not be able to talk with me at all while I was fighting?  No longer, my friend, now that Dan has made significant improvements to one of my creature flags!$B$BCelebrate with me by snuffing out the lives of these awful creatures that perpetually have me in combat.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14016,
+  "t": "The Black Knight's Curse",
+  "o": "Crusader Rhydalla at the Argent Tournament Grounds wants you to investigate the Black Knight's Grave.",
+  "d": "I wanted to remove the Black Knight's remains from the tournament grounds after your victory, but Confessor Paletress insisted that he receive a decent burial. Ever since, a dark presence has lingered in the cemetery and people are afraid to go there to visit the fallen.$B$BWould you visit the cemetery just past the eastern end of the tournament grounds and see if you can discover what's happening? ",
+  "p": "",
+  "c": "<Crusader Rhydalla frowns.>$B$BDo you think they've been planning this? I suppose it doesn't matter, but I don't like the implication that we've been playing into their hands. Whatever is going on, we have to stop it."
+ },
+ {
+  "id": 14017,
+  "t": "The Black Knight's Fate",
+  "o": "Capture Doctor Kolher's Orders at Deathspeaker's Watch, then return to Crusader Rhydalla at the Argent Tournament Grounds.",
+  "d": "You said the body was taken by cultists? I can only think of one place they would have gone, Deathspeaker's Watch, the encampment on the rise west of the tournament grounds.$B$BWhatever the cultists are doing must be stopped. The rumors I've heard can only be true, then. The infamous Doctor Kohler must be among the cultists, practicing his arts. Look for a rise or an altar overlooking the cultist camp, slay the doctor, and look for proof of his plans. Slow down his work in any other way you can.",
+  "p": "Did you find out what they're doing with the Black Knight's remains?",
+  "c": "The doctor will not have time to complete his work, but his plan is already in motion. From what you've reported, the Lich King's servants have reanimated and empowered the Black Knight and there's no telling what the knight's master has in mind. You have done well in uncovering this plot. I will tell High Crusader Adelard of your findings and together, we will alert the tournament's participants."
+ },
+ {
+  "id": 14022,
+  "t": "Pilgrim's Bounty",
+  "o": "Speak with Gregory Tabor just outside the city gates of Stormwind.",
+  "d": "Won't you celebrate Pilgrim's Bounty with us, $N? It's a time for reflecting on your journeys and your good fortune, sharing plentiful food and stories with friends.$B$BYou can partake of wonderful Pilgrim's Bounty feasts near major towns by sitting at a bountiful table and serving the foods you find there.$B$BIf you're interested in learning how to cook the traditional Pilgrim's Bounty foods, seek out Gregory Tabor. You will find him just outside Stormwind's gates.",
+  "p": "",
+  "c": "If you'd like to learn to cook Pilgrim's Bounty foods, I can help. If you're not already a cook, all you have to do is train and you'll be cooking in no time!"
+ },
+ {
+  "id": 14023,
+  "t": "Spice Bread Stuffing",
+  "o": "Cook 5 servings of Spice Bread Stuffing and then bring them to Jasper Moore at the feasting area just outside Stormwind's gates.",
+  "d": "Our spice bread stuffing is the cornerstone of the Pilgrim's Bounty table. The recipe has always been a favorite in Stormwind and now it has taken its place in the bountiful cookbook.$B$BIf you are already a cook, pay a visit to the Pilgrim's Bounty vendor to get your copy of the cookbook and all the local ingredients you'll need to prepare holiday fare. And if you're not yet a cook, there's no better time to start!$B$BOnce you've made the stuffing, bring it to Jasper Moore over near the tables.",
+  "p": "We can always use more of that delicious spice bread stuffing. It's very popular.",
+  "c": "Excellent. This is just what we needed. It's going to be a chore keeping all the tables stocked with fresh food, but it's well worth it."
+ },
+ {
+  "id": 14024,
+  "t": "Pumpkin Pie",
+  "o": "Make 5 slices of Pumpkin Pie and bring them to Edward Winslow at the feasting area right outside Ironforge.",
+  "d": "That spice bread stuffing you made smells delicious, but no Pilgrim's Bounty feast is complete without a slice of pumpkin pie. It's another one of our favorite dishes here in Stormwind, since it uses ripe Elwynn pumpkins that only grow here.$B$BIf you don't know how to make pumpkin pie already, there's a recipe in your bountiful cookbook.$B$BWould you mind cooking up a few slices and bringing them to Edward Winslow outside Ironforge? He's bound to be running low by now.",
+  "p": "More pumpkin pie? Just in time.",
+  "c": "The pumpkin pie's been a big hit up here. I've never seen a dwarf get so excited about anything made from a vegetable."
+ },
+ {
+  "id": 14028,
+  "t": "Cranberry Chutney",
+  "o": "Make 5 servings of Cranberry Chutney and bring them to Jasper Moore at the feasting area outside Stormwind.",
+  "d": "If you haven't tried the cranberry chutney yet, you're in for a treat. It's made with the freshest tangy Wetlands cranberries. Just pick some up from the Pilgrim's Bounty vendor if you want to try your hand at making chutney.$B$BThe recipe should be in your bountiful cookbook.$B$BIf you've got some extra time on your hands, would you mind making some of the chutney and bringing it down to Jasper Moore outside Stormwind? I promised him I'd trade some for the pie you brought.",
+  "p": "Is that cranberry chutney I smell?",
+  "c": "Finally, the cranberry chutney I was promised. You wouldn't believe how fast the celebrants go through the stuff here."
+ },
+ {
+  "id": 14030,
+  "t": "They're Ravenous In Darnassus",
+  "o": "Bring 5 servings of Spice Bread Stuffing and 5 Pumpkin Pies to Isaac Allerton near the entrance to Darnassus.",
+  "d": "Thanks for bringing the cranberry chutney. There's so much cooking to do, I hardly have time to think of anything else. And on top of my responsibilities here, Isaac Allerton in Darnassus is out of almost everything. I don't suppose you'd be willing to step in and whip up some more spice bread stuffing and pumpkin pie? The vendor should have all the ingredients you need$B$BYou should be able to find him near the feasting tables near the entrance to Darnassus just beyond the Warrior's Terrace.",
+  "p": "Have you come to partake of the Pilgrim's Bounty feast?",
+  "c": "Thanks for bringing everything. I was starting to get worried.$B$BWhile you're here, you should try your hand at making some candied sweet potatoes."
+ },
+ {
+  "id": 14032,
+  "t": "Kobold Camp Cleanup",
+  "o": "Kill 8 Kobold Vermin, then return to Marshal McBride.",
+  "d": "Your first task is one of cleansing, $N.  A clan of kobolds have infested the woods to the north.  Go there and fight the kobold vermin you find.  Reduce their numbers so that we may one day drive them from Northshire.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14033,
+  "t": "Candied Sweet Potatoes",
+  "o": "Make 5 servings of Candied Sweet Potatoes and bring them to Gregory Tabor just outside the gates of Stormwind.",
+  "d": "While you're here, you might want to stock up on Teldrassil sweet potatoes. They're used to make the most delicious candied sweet potatoes you've ever tasted.$B$BIf you don't believe me, look up the recipe in your bountiful cookbook and give it a try. And if there are any extras, you might want to share them with Gregory Tabor at the feasting area just outside Stormwind. They're one of his favorites, but to hear him tell it, everything's his favorite!",
+  "p": "$N, it's good to see you again.",
+  "c": "Ah, candied sweet potatoes! My favorite! Did Isaac tell you?"
+ },
+ {
+  "id": 14035,
+  "t": "Slow-roasted Turkey",
+  "o": "Make 5 Slow-Roasted Turkeys and bring them to Isaac Allerton near the gates of Darnassus.",
+  "d": "Every Pilgrim's Bounty feast requires a magnificent centerpiece, and I'm not talking about a decorative horn of plenty, either. No, the focus of the meal is a magnificent roast turkey.$B$BThere's a good recipe for it in your bountiful cookbook. Why not hunt some wild turkeys and prepare a few? The turkeys wander all over Elwynn Forest, so you shouldn't have a problem finding one.$B$BOnce you're done roasting them, will you bring them to Isaac Allerton near the gates of Darnassus?",
+  "p": "What brings you back to Darnassus, $N?",
+  "c": "These are beautiful and just in time to feed hungry feasters. Thank you, $N. You've truly mastered all the courses of a traditional Pilgrim's Bounty meal."
+ },
+ {
+  "id": 14036,
+  "t": "Pilgrim's Bounty",
+  "o": "Speak with Miles Standish in the courtyard above Undercity.",
+  "d": "Are you here to celebrate Pilgrim's Bounty with us? It was once a time for reflecting on your journeys and your good fortune while sharing a meal with friends. Many still mark the occasion.$B$BYou can partake of Pilgrim's Bounty feasts near major towns by sitting at a bountiful table and serving the foods you find there.$B$BIf you're interested in learning how to cook the traditional Pilgrim's Bounty foods, seek out Miles Standish. You will find him in the courtyard above Undercity.",
+  "p": "",
+  "c": "If you'd like to learn to cook Pilgrim's Bounty foods, I can help. If you're not already a cook, all you have to do is train and you'll be cooking in no time."
+ },
+ {
+  "id": 14037,
+  "t": "Spice Bread Stuffing",
+  "o": "Cook 5 servings of Spice Bread Stuffing and then bring them to William Mullins at the feasting area in the courtyard above the Undercity.",
+  "d": "Our spice bread stuffing is the cornerstone of the Pilgrim's Bounty table. The recipe dates from better times in Lordaeron and now it has taken its place in the traditional meal.$B$BIf you are already a cook, pay a visit to the Pilgrim's Bounty vendor to get your copy of the bountiful cookbook and all the local ingredients you'll need to prepare holiday fare. And if you're not yet a cook, there's no better time to start!$B$BOnce you've made the stuffing, bring it to William Mullins over near the tables.",
+  "p": "The tables could really use more of that spice bread stuffing.",
+  "c": "It's a chore keeping all these tables stocked. If you stop and think about it, it's strange going to so much trouble when we needn't eat anymore.$B$B<William shrugs.>$B$BTradition is tradition."
+ },
+ {
+  "id": 14040,
+  "t": "Pumpkin Pie",
+  "o": "Make 5 slices of Pumpkin Pie and bring them to Francis Eaton at the feasting area right outside Orgrimmar.",
+  "d": "That spice bread stuffing you made is a hit, but no Pilgrim's Bounty feast is complete without a slice of pumpkin pie. It's another traditional local dish, since it uses ripe Tirisfal pumpkins that only grow around here.$B$BIf you don't know how to make pumpkin pie already, there's a recipe in your bountiful cookbook.$B$BWould you mind cooking up a few slices and bringing them to Francis Eaton outside Orgrimmar? He's bound to be running low by now.",
+  "p": "We can always use more pumpkin pie.",
+  "c": "The pie always goes first. I think people must be skipping the meal and going directly for the dessert. Have you given it a try yet?"
+ },
+ {
+  "id": 14041,
+  "t": "Cranberry Chutney",
+  "o": "Make 5 servings of Cranberry Chutney and bring them to Dokin Farplain at the base of the elevator on the western side of Thunder Bluff.",
+  "d": "Have you tried the cranberry chutney yet? It's made with fresh tangy Southfury cranberries. Just pick some up from the Pilgrim's Bounty vendor if you want to try your hand at making chutney.$B$BThe recipe should be in your bountiful cookbook.$B$BIf you've got some extra time on your hands, would you mind making some of the chutney and bringing it to Dokin Farplain at the base of the elevator on the western side of Thunder Bluff.",
+  "p": "How are you enjoying Pilgrim's Bounty, $C?",
+  "c": "Ah, more cranberry chutney! You wouldn't believe how fast the celebrants go through it."
+ },
+ {
+  "id": 14043,
+  "t": "Candied Sweet Potatoes",
+  "o": "Make 5 servings of Candied Sweet Potatoes and bring them to Francis Eaton just outside of Orgrimmar.",
+  "d": "While you're here, you might want to stock up on Mulgore sweet potatoes. They're used to make delicious candied sweet potatoes, my favorite part of the Pilgrim's Bounty meal.$B$BIf you don't believe me, look up the recipe in your bountiful cookbook and give it a try. If you're headed back to Orgrimmar, bring them to Francis Eaton at the feasting area just outside the city. I've been trying to keep him supplied, but everything goes so fast over there.",
+  "p": "Welcome back, $N.",
+  "c": "So Dokin drafted you to help with the candied sweet potatoes?$B$B<Francis smiles.>$B$BIt's the only way he can keep up. Thanks for bringing these."
+ },
+ {
+  "id": 14044,
+  "t": "Undersupplied in the Undercity",
+  "o": "Bring 5 servings of Spice Bread Stuffing and 5 servings of Cranberry Chutney to Miles Standish near the entrance to Undercity.",
+  "d": "Thanks for bringing the candied sweet potatoes. There's so much cooking to do, I can hardly keep up. And then, Miles sends me a note saying he's on the verge of running out of stuffing and cranberry chutney. I don't suppose you'd be willing to step in and whip up some more of each? The vendor should have all the ingredients you need.$B$BYou should be able to find Miles Standish near the feasting tables in the courtyard in the ruins above Undercity.",
+  "p": "It's good to see you again. $N.",
+  "c": "Thanks for bringing everything. Some of the tables were starting to look a little bereft of serving dishes."
+ },
+ {
+  "id": 14047,
+  "t": "Slow-roasted Turkey",
+  "o": "Make 5 Slow-Roasted Turkeys and bring them to Francis Eaton near the gates of Orgrimmar.",
+  "d": "Every Pilgrim's Bounty feast requires a centerpiece, and for us, that's a slow-roasted wild turkey. I can't think of anything better to bring the meal together.$B$BThere's a good recipe for it in your bountiful cookbook. Why not hunt some wild turkeys and prepare a few? The turkeys wander all over Tirisfal Glades, so you shouldn't have a problem finding any.$B$BOnce you're done roasting them, will you bring them to Francis Eaton outside Orgrimmar?",
+  "p": "What brings you back to Orgrimmar, $N?",
+  "c": "These look perfect. Thank you, $N. You've truly mastered all the courses of a traditional Pilgrim's Bounty meal."
+ },
+ {
+  "id": 14048,
+  "t": "Can't Get Enough Turkey",
+  "o": "Bring 20 Slow-Roasted Turkeys to Caitrin Ironkettle outside Ironforge.",
+  "d": "I've been cooking nonstop since before the start of the holiday, and I still can't keep up with the demand. I don't suppose I could persuade you to help with one of the dishes, could I?$B$BTurkey is hard to come by here, so if you could supply some slow-roasted turkeys, it would be a big help. If you intend to prepare them yourself, you can hunt fresh wild turkeys anywhere in Elwynn Forest. You should be able to buy everything else you need from any of the Pilgrim's Bounty vendors.",
+  "p": "Did you manage to find those turkeys?",
+  "c": "These are just what I need. Thanks, $N. You're a lifesaver."
+ },
+ {
+  "id": 14051,
+  "t": "Don't Forget The Stuffing!",
+  "o": "Bring 20 Spice Bread Stuffing to Caitrin Ironkettle at the feasting area outside Ironforge.",
+  "d": "Keeping these tables stocked can be overwhelming! I've got to make the cranberry chutney while keeping my eye on the sweet potatoes, and making sure the pies don't burn.$B$BI think I've got everything covered. No, wait, I'm forgetting something. The stuffing! Oh, no. There won't be time to get another batch of stuffing started before everything else is done. Would you be willing to help me out? It shouldn't take long to buy or make some stuffing and you can buy the ingredients right here.",
+  "p": "Were you able to get that stuffing?",
+  "c": "Thank goodness! I wouldn't be able to serve the feast without spice bread stuffing."
+ },
+ {
+  "id": 14053,
+  "t": "We're Out of Cranberry Chutney Again?",
+  "o": "Bring 20 servings of Cranberry Chutney to Ellen Moore at the feasting area outside Stormwind.",
+  "d": "My husband, Jasper, was going to make more cranberry chutney, but it looks like he's busy trying to make sure there's enough candied sweet potatoes for all the guests. Would you be willing to help? If you're a cook, you can get the tangy Wetlands cranberries you'll need from the Pilgrim's Bounty vendor outside Ironforge.$B$BIf you don't feel up to cooking, you could always ask someone else to make the chutney, too.",
+  "p": "Were you able to get your hands on any cranberry chutney?",
+  "c": "Thanks. This looks great, and you're a fair bit faster than Jasper, but don't tell him I said so."
+ },
+ {
+  "id": 14054,
+  "t": "Easy As Pie",
+  "o": "Bring 20 pieces of Pumpkin Pie to Mary Allerton at the feasting area near the gates of Darnassus.",
+  "d": "Isaac's been hard at work helping celebrants learn about the traditional Pilgrim's Bounty feast and how to make dishes out of all the ingredients we harvest at this time of year. I've been trying to keep the tables stocked with as many of the dishes as I can, but we're running out of one of Isaac's favorites, pumpkin pie.$B$BWould you be able to get some for us? If you want to make the pies yourself, you'll need to buy ripe Elwynn pumpkins from the Pilgrim's Bounty vendor outside Stormwind.",
+  "p": "How are those pies coming along?",
+  "c": "These are perfect. Isaac, and everyone else, will love them!"
+ },
+ {
+  "id": 14055,
+  "t": "She Says Potato",
+  "o": "Bring 20 Candied Sweet Potatoes to Jasper Moore at the feasting area outside of Stormwind.",
+  "d": "My wife Ellen has enlisted my help in keeping the tables stocked, but she can't make up her mind. First I was making pumpkin pie, but now she's changed her mind and she wants candied sweet potatoes.$B$BWell, I've already started on the pie, so maybe you can help me whip up those sweet potatoes. She'll be pleasantly surprised if we can get everything she's asked for.$B$BIf you're going to cook the sweet potatoes yourself, you'll have to buy them from the Pilgrim's Bounty merchant in Darnassus. Thanks, $N.",
+  "p": "Do you have those candied sweet potatoes?",
+  "c": "These are perfect. Thanks for helping me with this, $N. The meal will get served on time and Ellen will be happy."
+ },
+ {
+  "id": 14058,
+  "t": "She Says Potato",
+  "o": "Bring 20 Candied Sweet Potatoes to William Mullins at the feasting area above Undercity.",
+  "d": "Roberta Carter has recruited me to help prepare one of the feast dishes, candied sweet potatoes.  Normally, I'd love to help, but I've promised the hostess that I'd help her watch the tables.$B$BI'd really appreciate it if you would help me come up with those candied sweet potatoes. Roberta would never forgive me if I let her down.$B$BIf you're going to cook the sweet potatoes yourself, you'll have to buy them from the Pilgrim's Bounty merchant in Thunder Bluff. Thanks, $N.",
+  "p": "Do you have those candied sweet potatoes?",
+  "c": "Thanks, $N. Now, I can help the hostess out and still keep my word to Roberta."
+ },
+ {
+  "id": 14059,
+  "t": "We're Out of Cranberry Chutney Again?",
+  "o": "Bring 20 servings of Cranberry Chutney to Roberta Carter at the feasting area in the courtyard above Undercity.",
+  "d": "I wish I knew why we're going through cranberry chutney so fast. Sometimes, I think they're feeding it to the abominations when I'm not looking. Would you be willing to help me make up a new batch? If you're a cook, you can get the tangy Southfury cranberries you'll need from the Pilgrim's Bounty vendor outside Orgrimmar.$B$BIf you don't feel up to cooking, you could always ask someone else to make the chutney, too.",
+  "p": "Were you able to get your hands on any cranberry chutney?",
+  "c": "Thanks for your help, and let me know if you ever get to the bottom of the case of the disappearing chutney."
+ },
+ {
+  "id": 14060,
+  "t": "Easy As Pie",
+  "o": "Bring 20 pieces of Pumpkin Pie to Marhara Goldwheat at the feasting area outside Thunder Bluff.",
+  "d": "Dokin and Laha have been hard at work helping celebrants learn about the traditional Pilgrim's Bounty feast and how to make dishes out of all the ingredients we harvest at this time of year. I've been trying to keep the tables stocked with as many of the dishes as I can, but we're running low on pumpkin pie.$B$BWould you be able to get some for us? If you want to make the pies yourself, you'll need to buy ripe Tirisfal pumpkins from the Pilgrim's Bounty vendor outside the Undercity.",
+  "p": "How are those pies coming along?",
+  "c": "These are great! Thank you for helping, $N."
+ },
+ {
+  "id": 14061,
+  "t": "Can't Get Enough Turkey",
+  "o": "Bring 20 Slow-Roasted Turkeys to Ondani Greatmill outside Orgrimmar.",
+  "d": "I've been cooking nonstop since before the start of the holiday, and I still can't keep up with the demand. I don't suppose I could persuade you to help with one of the dishes, could I?$B$BTurkey is hard to come by here, so if you could supply some slow-roasted turkeys, it would be a big help. If you intend to prepare them yourself, you can hunt fresh wild turkeys anywhere in the Tirisfal Glades. You should be able to buy everything else you need from any of the Pilgrim's Bounty vendors.",
+  "p": "How's your turkey hunt going?",
+  "c": "These turkeys are exactly what I needed. Thanks for helping me out of a tough situation."
+ },
+ {
+  "id": 14062,
+  "t": "Don't Forget The Stuffing!",
+  "o": "Bring 20 Spice Bread Stuffing to Ondani Greatmill outside Orgrimmar.",
+  "d": "Keeping these tables stocked can be overwhelming! I've got to make the cranberry chutney while keeping my eye on the sweet potatoes, and making sure the pies don't burn.$B$BI think I've got everything covered. No, wait, I'm forgetting something. The stuffing! Oh, no. There won't be time to get another batch of stuffing started before everything else is done. Would you be willing to help me out? It shouldn't take long to buy or make some stuffing and you can buy the ingredients right here.",
+  "p": "Were you able to get that stuffing?",
+  "c": "Perfect timing! I wouldn't be able to serve the feast without spice bread stuffing."
+ },
+ {
+  "id": 14064,
+  "t": "Sharing a Bountiful Feast",
+  "o": "Eat five helpings of every food at a Bountiful Table until you gain the Spirit of Sharing.",
+  "d": "You've not celebrated Pilgrim's Bounty properly until you've eaten your fill at a Bountiful Table.$B$BPlease, sit down, feast, and try everything! You can move from chair to chair yourself, or ask others at the table to pass you some of their food.$B$BOnce you eat enough of every dish, you'll be infused with the Spirit of Sharing.",
+  "p": "",
+  "c": "What a feast, hmmm?$B$BI'm so glad you could celebrate the spirit of Pilgrim's Bounty with us."
+ },
+ {
+  "id": 14065,
+  "t": "Sharing a Bountiful Feast",
+  "o": "Eat five helpings of every food at a Bountiful Table until you gain the Spirit of Sharing.",
+  "d": "You've not celebrated Pilgrim's Bounty properly until you've eaten your fill at a Bountiful Table.$B$BPlease, sit down, feast, and try everything! You can move from chair to chair yourself, or ask others at the table to pass you some of their food.$B$BOnce you eat enough of every dish, you'll be infused with the Spirit of Sharing.",
+  "p": "",
+  "c": "What a feast, hmmm?$B$BI'm so glad you could celebrate the spirit of Pilgrim's Bounty with us."
+ },
+ {
+  "id": 14074,
+  "t": "A Leg Up",
+  "o": "Recover 10 Stolen Tallstrider Legs for Narasi Snowdawn at the Argent Tournament Grounds.",
+  "d": "The Argent Crusade dispatched a fast ship carrying tallstrider meat and other supplies for us here at the tournament grounds, but it never arrived. Scouts reported seeing it attacked by the kvaldir, fearsome vrykul raiders who roam the seas.$B$BThey've slain the crew and taken the cargo to an island called Hrothgar's Landing. If you look to the north, you can see it shrouded in the mist. Would you help us in recovering the stolen supplies? Without those tallstrider legs, we'll soon be out of food.",
+  "p": "Were you able to recover any of the missing supplies?",
+  "c": "These look a little worse for wear, but they're still edible. The crusaders will be glad to hear that we've managed to recover some of the ship's cargo."
+ },
+ {
+  "id": 14076,
+  "t": "Breakfast Of Champions",
+  "o": "Acquire 4 Jormungar Egg Sacs and bring them to Savinia Loresong at the Argent Tournament Grounds.",
+  "d": "Now that the coliseum is complete, the Argent Crusade has asked us to help look after the creatures that champions will be fighting.$B$BThe giant jormungar have perhaps the strangest diet; they grow strong by eating the eggs of their own kind and the best eggs come from deep jormungar.$B$BTake this drum to the Foot Steppes in central Storm Peaks and play them near the snow mounds you see there.  Rouse the deep jormungar, kill them, and gather their egg sacs.",
+  "p": "Were you able to get those eggs? Those worms will start eating their handlers if they're not fed soon.",
+  "c": "Well done, $N. I'll take these to the Argent Crusade's keepers right away. They'll have no choice but to acknowledge that we're doing far more than the Sunreavers to keep the coliseum running smoothly."
+ },
+ {
+  "id": 14077,
+  "t": "The Light's Mercy",
+  "o": "Use the Confessor's Prayer Book to perform last rites for 8 Slain Tualiq Villagers and then return to Narasi Snowdawn at the Argent Tournament Grounds.",
+  "d": "I've been listening to Confessor Paletress speak, and I must tell you, her words have given me much to consider. It is not enough to fight beside the crusaders; we must take up their mission.$B$BOff the north coast is Hrothgar's Landing, where the seagoing Kvaldir have overrun an old tuskarr settlement and slain the villagers. Take this book and read the rites for the dead near the corpses of the villagers. It will allow their spirits to escape the mists engulfing the island and find peace.",
+  "p": "Have you seen to the spirits of the slain Tualiq villagers?",
+  "c": "<Narasi accepts the prayer book from you.>$B$BThank you. The book was a gift from Confessor Paletress herself. She would  be honored to know that you have used it to bring tranquility to the slain."
+ },
+ {
+  "id": 14079,
+  "t": "Learn to Ride in Elwynn Forest",
+  "o": "Return the pamphlet to Randal Hunter at Eastvale Logging Camp in Elwynn Forest.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Randal Hunter.$B$BRandal can be found at Elwynn Forest's Eastvale Logging Camp, along the road east out of Stormwind.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14080,
+  "t": "Stop The Aggressors",
+  "o": "Narasi Snowdawn at the Argent Tournament Grounds wants you to kill 10 Kvaldir.",
+  "d": "The Kvaldir, fearsome vrykul raiders, have disrupted our shipments and murdered the tuskarr inhabitants of an island to the north, renaming it Hrothgar's Landing. If they are allowed to get a foothold there, there is no doubt that we will be their next target.$B$BThe crusade's forces have their hands full dealing with the Scourge, and we must defend the tournament grounds. Fly north from the grounds until you reach the island and take on the Kvaldir before they can destroy anything else.",
+  "p": "Have you shown the Kvaldir that we will not let them threaten us?",
+  "c": "Your actions have shown that we stand as one with the Argent Crusade, while the Sunreavers are too busy preening to take up their blades."
+ },
+ {
+  "id": 14081,
+  "t": "Learn to Ride in the Eversong Woods",
+  "o": "Return the pamphlet to Perascamin at Thuron's Livery in Silvermoon City.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Perascamin.$B$BPerascamin can be found at Thuron's Livery, southeast of the Shepherd's Gate leaving Silvermoon City.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14082,
+  "t": "Learn to Ride at the Exodar",
+  "o": "Return this pamphlet to Aalun outside the Exodar on Azuremyst Isle.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Aalun.$B$BAalun can be found at the entrance to the Exodar on Azuremyst Isle.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14083,
+  "t": "Learn to Ride in Dun Morogh",
+  "o": "Return the pamphlet to Ultham Ironhorn at Amberstill Ranch in Dun Morogh.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Ultham Ironhorn.$B$BUltham can be found at the Amberstill Ranch in Dun Morogh, found along the road east out of Ironforge.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14084,
+  "t": "Learn to Ride in Dun Morogh",
+  "o": "Return the pamphlet to Binjy Featherwhistle at Steelgrill's Depot in Dun Morogh.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Binjy Featherwhistle.$B$BBinjy can be found at Steelgrill's Depot, just northeast of Kharanos in Dun Morogh.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14085,
+  "t": "Learn to Ride in Darnassus",
+  "o": "Return the pamphlet to Jartsam at the Cenarion Enclave in Darnassus.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Jartsam.$B$BJartsam can be found at the Cenarion Enclave in Darnassus.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14086,
+  "t": "Learn to Ride in Orgrimmar",
+  "o": "Return the pamphlet to Kildar in Orgrimmar's Valley of Honor.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Kildar.$B$BKildar can be found in Orgrimmar's Valley of Honor.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14087,
+  "t": "Learn to Ride in Mulgore",
+  "o": "Return the pamphlet to Kar Stormsinger at Bloodhoof Village in Mulgore.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Kar Stormsinger.$B$BKar can be found in Mulgore's Bloodhoof Village.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14088,
+  "t": "Learn to Ride in Durotar",
+  "o": "Return the pamphlet to Xar'Ti at Sen'jin Village in southern Durotar.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Xar'Ti.$B$BXar'Ti can be found at Sen'jin Village in southern Durotar.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14089,
+  "t": "Learn to Ride in Tirisfal Glades",
+  "o": "Return the pamphlet to Velma Warnam at Brill in Tirisfal Glades.",
+  "d": "This pamphlet advertising riding training and mount purchases was sent from Velma Warnam.$B$BVelma can be found at Brill in Tirisfal Glades.",
+  "p": "Ah, you received my letter? Good.",
+  "c": "So, shall we begin your Apprentice Riding training?"
+ },
+ {
+  "id": 14090,
+  "t": "Gormok Wants His Snobolds",
+  "o": "Use the Weighted Net to capture 8 Snowblind Followers and bring them to Savinia Loresong at the Argent Tournament Grounds.",
+  "d": "Two of my men have already been killed trying to confine the magnataur called Gormok the Impaler, yet the creature still rages. It howls for hours about being without its favorite snobold.$B$BIf the Argent Crusade didn't wish to use this monster in the coliseum, I'd slay it myself. Perhaps it's time to bring the beast its playthings. Take this net and travel to Garm's Bane in southeast Storm Peaks. It's just northeast of K3. Capture some of those snobolds and pray to the Light you've found the right one.",
+  "p": "Have you managed to round up those snobolds yet? Gormok's anger shows no signs of lessening.",
+  "c": "The sooner we get these stinking things out of my sight and into their cage, the faster my mood will improve. I wish the Argent Crusade had given the Sunreavers the care of this creature. They're enough alike that they ought to be able to understand each other."
+ },
+ {
+  "id": 14092,
+  "t": "Breakfast Of Champions",
+  "o": "Acquire 4 Jormungar Egg Sacs and bring them to Tylos Dawnrunner at the Argent Tournament Grounds.",
+  "d": "Now that the coliseum is complete, the Argent Crusade has asked us to help look after the creatures that champions will be fighting.$B$BThe giant jormungar have perhaps the strangest diet; they grow strong by eating the eggs of their own kind and the best eggs come from deep jormungar.$B$BTake this drum to the Foot Steppes in central Storm Peaks and play them near the snow mounds you see there. The sound will rouse the deep jormungar. Kill them, collect their egg sacs, and return to the tournament grounds.",
+  "p": "Were you able to get those eggs? The jormungar are going to get nasty if they don't get fed.",
+  "c": "I'll let the crusaders know that you've just returned with a fresh load of food while the Silver Covenant was sitting on its heels."
+ },
+ {
+  "id": 14095,
+  "t": "Identifying the Remains",
+  "o": "Take the Kraken Tooth to Crusader Silverdawn as proof of your victory.",
+  "d": "A whole tooth from a dead Kraken is a rare find indeed.  Crusader Silverdawn will want to see this.",
+  "p": "What have you found, Champion?",
+  "c": "I knew that Kraken was not a match for the likes of you.  Without that Kraken disrupting those boats, those Kvaldir will have no choice but to retreat.  Great job, Champion!"
+ },
+ {
+  "id": 14096,
+  "t": "You've Really Done It This Time, Kul",
+  "o": "Rescue Kul the Reckless and 4 Captive Aspirants from Deathspeaker's Watch and return to Narasi Snowdawn at the Argent Tournament Grounds.",
+  "d": "Crusader Kul has gone and gotten himself into trouble again, only this time he's not alone. When he saw the cultists making camp at Deathspeaker's Watch, west of the tournament grounds, Kul gathered the aspirants for an assault.$B$BWithout reinforcements, Kul and his followers were easily captured. I have no doubt that the cult will sacrifice the prisoners unless we can mount a rescue. Any of those cultists could carry keys to the black cages. Find the keys and free Kul and the captive aspirants.",
+  "p": "Did you free Kul and those hopeless aspirants?",
+  "c": "Thanks to you, Kul and the aspirants will live fight the Scourge again. That's far from the first time someone's had to save Kul from himself. My only hope is that the crusaders can find a better outlet for his enthusiasm than allowing him to impart all of his bad habits to impressionable young aspirants."
+ },
+ {
+  "id": 14100,
+  "t": "Relic of the Earthen Ring",
+  "o": "Bring your four totems to Gotura Fourwinds in Orgrimmar.",
+  "d": "You have progressed far in your training, $N. Now that you have mastered the four basic elements, you must strive to keep all four in balance. There is a practical benefit to this discipline - with practice, you may carry only a single relic instead of all four totems.$B$BSpeak to Gotura Fourwinds at the Valley of Wisdom in Orgrimmar, and hone your mastery of the elements.",
+  "p": "Hmmm, what brings you to seek the aid of the Earthen Ring?",
+  "c": "Ah, you've mastered the four totems. You should be proud of your accomplishments so far, young $r, but this is only the beginning of your journey.$b$bHere, accept this gift from the Earthen Ring. Carry this relic with you and you will have the power of all four elements at your command.$b$bContinue your training, friend. Grave challenges are ahead for this world - I can hear it in the wind and feel it in the rumblings of the earth. We must be prepared for the worst."
+ },
+ {
+  "id": 14101,
+  "t": "Drottinn Hrothgar",
+  "o": "High Crusader Adelard at the Argent Tournament Grounds wants you to defeat Drottinn Hrothgar.",
+  "d": "The kvaldir, seafaring vrykul who raid ships and coastal settlements, have overrun a tuskarr  island across the strait to the north. Their leader is a veteran raider, Drottinn Hrothgar, who seeks to control these seas.$B$BWith him in power, our shipments and troop transports will never be safe. We will be stranded here at the Lich King's mercy.$B$BTake this captured kvaldir war horn to the circle of tuskarr statues on the northeastern part of Hrothgar's Landing and use it to challenge the kvaldir leader.",
+  "p": "",
+  "c": "The defeat of the drottinn will set the kvaldir to fighting amongst themselves, buying us time to use our advantage. The crusade and the tournament are in your debt, champion."
+ },
+ {
+  "id": 14102,
+  "t": "Mistcaller Yngvar",
+  "o": "High Crusader Adelard at the Argent Tournament Grounds wants you to kill Mistcaller Yngvar.",
+  "d": "The Kvaldir have returned to the coasts of Northrend and if left unchecked, they will prevent our supplies and reinforcements from arriving. One of them, known as Mistcaller Yngvar, has taken up residence in a cave on the western side of Hrothgar's Landing. There, he manipulates the mists to conceal the Kvaldir and  the sea beasts they command.$B$BTake this charm and travel across the strait north of the tournament grounds, to Hrothgar's Landing. Find the mistcaller's cave and use the charm to reveal him.",
+  "p": "",
+  "c": "You have bought us valuable time to move against the Kvaldir and free the seas of these pests. Once again, the Argent Crusade is in your debt."
+ },
+ {
+  "id": 14103,
+  "t": "Titanium Powder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Wonderful! Another batch of powder!$B$BJust between us jewelcrafters, I've been making hand over fist selling \"pure titanium\" jewelry to the local Dalaran mages. Even with their superior intellect, they aren't particularly savvy with their gold. If you get more, I'll be here."
+ },
+ {
+  "id": 14104,
+  "t": "Ornolf The Scarred",
+  "o": "High Crusader Adelard at the Argent Tournament Grounds wants you to kill Ornolf the Scarred.",
+  "d": "Ornolf the Scarred is a fearsome raider renowned among his Kvaldir brethren for raiding and capturing ships. From aboard Bor's Fury, he and his crew attack our ships and steal our goods.$B$BOrnolf and his men are among those who slaughtered the inhabitants of a tuskarr island to the north and renamed it Hrothgar's Landing. His ship sits at anchor at the eastern end of the island's harbor. Take this captured banner and display it on his ship to provoke him into facing you in battle.",
+  "p": "",
+  "c": "Ornolf's crew will want to avenge their leader, but without him, they will be easier to defeat. We must live to carry out our mission, to see Icecrown rid of the Scourge and other evils."
+ },
+ {
+  "id": 14105,
+  "t": "Deathspeaker Kharos",
+  "o": "High Crusader Adelard at the Argent Tournament Grounds wants to you kill Deathspeaker Kharos.",
+  "d": "The Cult of the Damned has redoubled its efforts to see us destroyed. They have grown bold and are massing their strength at Deathspeaker's Watch on the ridge west of the tournament grounds.$B$BThe ruthless Deathspeaker Kharos has his men fortifying their positions, preparing to unleash all of the cult's weapons.$B$BMy men are preparing themselves and the valiants to defend the grounds, but I want champions like you, $N, to lead our efforts to blunt the attack. Find Deathspeaker Kharos and slay him.",
+  "p": "",
+  "c": "You are truly an example to all who have gathered beneath our banner, $N. Together, we will show the Scourge that we will not be defeated."
+ },
+ {
+  "id": 14107,
+  "t": "The Fate Of The Fallen",
+  "o": "Crusader Silverdawn wants you to bring peace to 6 Fallen Hero's Spirits.",
+  "d": "The Argent Crusade is hardly the first force to challenge the Lich King. Our enemy turns spirits of the fallen against us.$B$BTheir spirits wander the Valley of Fallen Heroes, southwest of the grounds and between Aldur'thar and the Ironwall Rampart. The area is littered with discarded soul crystals, used by the Scourge to control the spirits. Gather those soul crystals and use them with this Light-blessed relic to bestow the blessing of peace upon the spirits. They have more than earned their rest.",
+  "p": "Have you brought peace to the spirits of the fallen heroes?",
+  "c": "You have done our fallen brethren a great service and spared us the need to face them again on the field of battle. As our campaign against the Scourge progresses, I find myself thinking about my own fate.$b$bShould I fall, $N, I would want someone like you to do for me what you have done for the spirits of the fallen this day. I could not bear the thought of forcing my own brothers to slay me again and again."
+ },
+ {
+  "id": 14108,
+  "t": "Get Kraken!",
+  "o": "Crusader Silverdawn wants you to mount an Argent Hippogryph, throw 6 Flaming Spears at the North Sea Kraken and take out 3 Vrykul Deepcallers.$B$BYou can find the Argent Hippogryphs right outside the Argent Crusade tent at the Tournament Grounds.",
+  "d": "The Sunreavers and Silver Covenant sent ships north to engage the Kvaldir at Hrothgar's Landing, but were intercepted and detained by a Kvaldir Raiding vessel.  To make matters worse, the Kvaldir have found a way to call forth the dreaded Kraken that lives beneath the North Sea.  If anyone on board is to get out alive, that Kraken must be driven away and the Kvaldir's summoning ritual ... disrupted.$B$BCrusader, take these spears and an Argent Hippogryph will take you to the battle.",
+  "p": "Have you driven away the Kraken yet? Hurry, Crusader! There isn't much time.",
+  "c": "Crusader, you may have bought those sailors just enough time to escape, Maybe next time, those Silver Covenant and Sunreavers will listen before running head first at the enemy."
+ },
+ {
+  "id": 14111,
+  "t": "Relic of the Earthen Ring",
+  "o": "Bring your four totems to Farseer Eannu in Ironforge.",
+  "d": "You have progressed far in your training, $N. Now that you have mastered the four basic elements, you must strive to keep all four in balance. There is a practical benefit to this discipline - with practice, you may carry only a single relic instead of all four totems.$B$BSpeak to Farseer Eannu near the Great Forge in Ironforge. He will help you hone your mastery of the elements.",
+  "p": "The spirits stir within you. What brings you to seek the aid of the Earthen Ring?",
+  "c": "I see you've mastered use of the four totems. You are on your way to becoming one with the elemental spirits, but this is only the beginning of your journey.$b$bHere, accept this gift from the Earthen Ring. Carry this relic with you and you will have the power of all four elements at your command.$b$bYour training must continue! I sense a great many trials lie ahead for this world, and we will need the power of the elements behind us if we are to prevail."
+ },
+ {
+  "id": 14112,
+  "t": "What Do You Feed a Yeti, Anyway?",
+  "o": "Savinia Loresong at the Argent Tournament Grounds wants you to bring her 3 pieces of North Sea Shark Meat.",
+  "d": "The crusaders have captured a yeti that they're calling Icehowl. He's to be a participant in the coliseum battles and we've been asked to help with his training and upkeep.$B$BThe crusaders weren't fond of my suggestion that we feed the beast surplus Sunreavers. The creature has a predilection for shark meat, so I want you to fly down to the Silver Blade, floating in the strait to the north. Get some fresh chum from one of the buckets on the boat, then spread it in the water to attract sharks.",
+  "p": "I hope you have something to feed Icehowl, otherwise I really will start bringing Sunreavers down to his cage.",
+  "c": "I'm glad we've gotten that done. It's not the most glorious task in the world, but when we partnered with the Argent Crusade, we promised to do all they asked of us without complaint. Of course, the same cannot be said of the Sunreavers."
+ },
+ {
+  "id": 14136,
+  "t": "Rescue at Sea",
+  "o": "Girana the Blooded at the Argent Tournament Grounds would like you to kill 8 Kvaldir Berserkers and 3 Kvaldir Harpooners aboard The Firehawk.",
+  "d": "The Kvaldir have set up camp at Hrothgar's Landing, the small island to the North.  We sent Captain Aerthas Firehawk to the area, but they ran into a Kvaldir Raiding party heading to the Tournament Grounds!  The Firehawk is now under attack by the raiders and is vastly outnumbered. Get out there and show those Kvaldir why attacking the Sunreavers is a poor plan indeed. $B$BThe Firehawk is between Hrothgar's Landing to the north and the Tournament Grounds, on the western side of The Sea Reaver's Run.",
+  "p": "Have you helped fend off the Kvaldir attack?",
+  "c": "Great job, Champion. The fight continues, but now the Kvaldir know that we do not tolerate such attacks."
+ },
+ {
+  "id": 14140,
+  "t": "Stop The Aggressors",
+  "o": "Giranan the Blooded at the Argent Tournament Grounds wants you to kill 10 Kvaldir.",
+  "d": "The Kvaldir, fearsome vrykul raiders, have disrupted our shipments and murdered the tuskarr inhabitants of an island to the north, renaming it Hrothgar's Landing. If they are allowed to get a foothold there, there is no doubt that we will be their next target.$B$BThe crusade's forces have their hands full dealing with the Scourge, and we must defend the tournament grounds. Fly north from the grounds until you reach the island and take on the Kvaldir before they can destroy anything else.",
+  "p": "Have you shown the Kvaldir that we will not let them threaten us?",
+  "c": "Your actions have shown that we Sunreavers are far better allies to the Argent Crusade than the Silver Covenant and it is we who will be triumphant."
+ },
+ {
+  "id": 14141,
+  "t": "Gormok Wants His Snobolds",
+  "o": "Use the Weighted Net to capture 8 Snowblind Followers and bring them to Tylos Dawnrunner at the Argent Tournament Grounds.",
+  "d": "Two of my men have already been killed trying to confine the magnataur called Gormok the Impaler, yet the creature still rages. It howls for hours about being without its favorite snobold.$B$BIf the Argent Crusade didn't wish to use this monster in the coliseum, I'd slay it myself. Perhaps it's time to bring the beast its playthings. Take this net and travel to Garm's Bane in southeast Storm Peaks. It's just northeast of K3. Capture some of those snobolds and pray to the Light you've found the right one.",
+  "p": "Have you managed to round up those snobolds yet? Gormok's anger shows no signs of lessening.",
+  "c": "The sooner we get these stinking things out of my sight and into their cage, the faster my mood will improve. I wish the Argent Crusade had given the Silver Covenant the care of this creature. They're going to have to get their hands dirty when the battle for Icecrown Citadel starts and I have a feeling they'll prove fragile and fussy allies."
+ },
+ {
+  "id": 14142,
+  "t": "You've Really Done It This Time, Kul",
+  "o": "Rescue Kul the Reckless and 4 Captive Aspirants from Deathspeaker's Watch and return to Girana the Blooded at the Argent Tournament Grounds.",
+  "d": "Crusader Kul has gone and gotten himself into trouble again, only this time he's not alone. When he saw the cultists making camp at Deathspeaker's Watch, west of the tourney grounds, Kul gathered the aspirants for an attack.$B$BThey were easily captured, and now Kul languishes in a cage on the platform in the camp. I am sure that the cult will sacrifice the prisoners unless we can rescue them. Any of those cultists could carry keys to the black cages. Find the keys and free Kul and the captive aspirants.$B",
+  "p": "Did you free Kul and those hopeless aspirants?",
+  "c": "Kul will live to embarrass himself again. That's far from the first time someone's had to save Kul from himself. With examples like him, it's no wonder most of the aspirants are taking up the habits of the Silver Covenant."
+ },
+ {
+  "id": 14143,
+  "t": "A Leg Up",
+  "o": "Recover 10 Stolen Tallstrider Legs for Girana the Blooded at the Argent Tournament Grounds.",
+  "d": "The Argent Crusade dispatched a fast ship carrying tallstrider meat and other supplies for us here at the tournament grounds, but it never arrived. Scouts reported seeing it attacked by the kvaldir, fearsome vrykul raiders who roam the seas.$B$BThey've slain the crew and taken the cargo to an island called Hrothgar's Landing. If you look to the north, you can see it shrouded in the mist. Would you help us in recovering the stolen supplies? Without those tallstrider legs, we'll soon be out of food.",
+  "p": "Were you able to recover any of the missing supplies?",
+  "c": "These look a little worse for wear, but they're still edible. The crusaders will be glad to hear that we've had some success. Maybe we can give the half-eaten ones to the Silver Covenant. That would make my day."
+ },
+ {
+  "id": 14144,
+  "t": "The Light's Mercy",
+  "o": "Use the Confessor's Prayer Book to perform last rites for 8 Slain Tualiq Villagers and then return to Girana the Blooded at the Argent Tournament Grounds.",
+  "d": "I've been listening to Confessor Paletress speak, and I must tell you, her words have made me think. We fight beside the crusaders, but we can learn from them, too.$B$BOff the north coast is Hrothgar's Landing, where the seagoing Kvaldir have overrun an old tuskarr settlement and slain the villagers. Take this book and read the rites for the dead near the corpses of the villagers. It will allow their spirits to escape the mists engulfing the island and find peace.",
+  "p": "Have you seen to the spirits of the slain Tualiq villagers?",
+  "c": "<Girana accepts the prayer book from you.>$b$bThank you. We don't always see eye-to-eye with the crusaders, but I've learned a lot from Confessor Paletress in my time here."
+ },
+ {
+  "id": 14145,
+  "t": "What Do You Feed a Yeti, Anyway?",
+  "o": "Tylos Dawnrunner at the Argent Tournament Grounds wants you to bring him 3 pieces of North Sea Shark Meat.",
+  "d": "The crusaders have captured a yeti that they're calling Icehowl. He's to be a participant in the coliseum battles and we've been asked to help with his training and upkeep.$B$BThe crusaders weren't fond of my suggestion that we feed some Silver Covenant members to the beast. The creature prefers shark meat, so I want you to fly down to the Crimson Dawn, floating in the strait to the north. Get some fresh chum from one of the buckets on the boat, then spread it in the water to attract sharks.",
+  "p": "I hope you have something to feed Icehowl, otherwise I really will start bringing Silver Covenant members down to his cage.",
+  "c": "I'm glad we've gotten that done. It's not the most glorious task in the world, but when we partnered with the Argent Crusade, we promised to do all they asked of us without complaint. Of course, the same cannot be said of the Silver Covenant."
+ },
+ {
+  "id": 14151,
+  "t": "Cardinal Ruby",
+  "o": "Linzy Blackbolt in Dalaran wants you to successfully transmute 5 epic gems with your alchemy skill.  Acceptable transmutes include Ametrine, Eye of Zul, Dreadstone, King's Amber, and Majestic Zircon.",
+  "d": "The Cardinal Ruby is said to be the finest gem in all of Northrend.  It sparkles like a crystal rose under the sun.$b$bBefore I teach you this recipe, I ask that you perform five epic gem transmutes to prepare your mind.  You can do any you like, and even do the same transmute many times.$b$bReturn to me when you are truly ready.",
+  "p": "Have you performed the transmutes?",
+  "c": "Very good, $N.$B$BNow, the trick is to align the facets just right..."
+ },
+ {
+  "id": 14152,
+  "t": "Rescue at Sea",
+  "o": "Head out to The North Sea and kill 8 Vrykul Berserkers and 3 Vrykul Harpooners attacking The Wavecrest.",
+  "d": "Champion, Captain Wavecrest and her ship were sent north to disrupt the Kvaldir in Hrothgar's Landing when they were intercepted by a Kvaldir raiding party headed to the Tournament Grounds. Unfortunately, the Kvaldir far outnumber the crew on board and are slowly taking over the ship.$B$BWe need you to go north to The Wavecrest in The Sea Reaver's Run, between the Tournament Grounds and Hrothgar's Landing and help the crew fend off the attack.  You should see the ship on the east side of the pass.",
+  "p": "Have you helped fend off the Kvaldir attack?",
+  "c": "It seems things are worse than we initially thought.  You still made a valiant effort and saved many of The Wavecrest's crew's lives."
+ },
+ {
+  "id": 14160,
+  "t": "Writ of Merit",
+  "o": "Deliver the Writ of Merit to Timothy Jones in Dalaran.",
+  "d": "This fine parchment lists a great many accomplishments, achieved by $N, in the tradition of jewelcrafting.$b$bReturn this writ to Timothy Jones in Dalaran for a proper reward.",
+  "p": "Good day, $n. What have you got there?",
+  "c": "This is a fine list of deeds, $N! You are to be rewarded handsomely for your accomplishments."
+ },
+ {
+  "id": 14163,
+  "t": "Call to Arms: Isle of Conquest",
+  "o": "Win an Isle of Conquest battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "As we get closer to victory in Icecrown, it's become more apparent that our armies are going to have to deal with the Horde before they can deal with the Lich King.$B$BThe elite guard known as the Kor'kron has been deployed to block our advance in the Isle of Conquest.  The isle is of vital strategic importance, $N.  See to it that our lads prevail!",
+  "p": "It's good to see you, $n! Do you have news from the front?",
+  "c": "The Horde will never be a match for our forces as long as we have people like you on our side, $N."
+ },
+ {
+  "id": 14164,
+  "t": "Call to Arms: Isle of Conquest",
+  "o": "Win an Isle of Conquest battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "Victory in Northrend will be ours soon... but not until we obtain a foothold in Icecrown to transport and supply our forces.$B$BThe Isle of Conquest is an ideal location.  It is easily defensible and rich in resources.  The Alliance have reached the same conclusion and have sent the Seventh Legion to wrest control of it from our forces.$B$BGo, $N, and ensure that the Horde prevails at any cost!",
+  "p": "Has the Alliance been driven away from the field of battle?",
+  "c": "Nothing will stand between us and total victory. For the Horde!"
+ },
+ {
+  "id": 14166,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Dalaran Spirit in Dalaran's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14167,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Dwarf Spirit in Ironforge's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14168,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Gnome Spirit in Ironforge's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14169,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Draenei Spirit in The Exodar's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14170,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Night Elf Spirit in Darnassus' graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14171,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Blood Elf Spirit in Silvermoon City's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14172,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Aldor Spirit in Shattrath's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14173,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Scryer Spirit in Shattrath's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14174,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Forsaken Spirit in Undercity's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14175,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Orc Spirit in Orgrimmar's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14176,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Tauren Spirit in Thunder Bluff's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14177,
+  "t": "The Grateful Dead",
+  "o": "Acquire some Bread of the Dead and give it to the Cheerful Troll Spirit in Orgrimmar's graveyard.$B$BUse an Orange Marigold to see the otherwise invisible spirit.",
+  "d": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!$B$BMight I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...$B$BChapman there sells the recipe, I think.",
+  "p": "You don't have any Bread of the Dead, do you?",
+  "c": "Ah, more delicious Bread of the Dead, thank you!$B$BPlease, take this in return... a little something fun for the holiday."
+ },
+ {
+  "id": 14178,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle of Arathi Basin that demands immediate reinforcements.$B$BReturn to me with news of victory, $N.  We cannot allow the Horde scum to secure the resources that are rightfully ours!",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "Excellent news,$c! If our tactical deployments continue to be this successful, the Horde will be in full retreat before long."
+ },
+ {
+  "id": 14179,
+  "t": "Call to Arms: Eye of the Storm",
+  "o": "Win an Eye of the Storm battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The fight against the Horde knows no boundaries, $N.  Even in Outland, territorial disputes and old hatreds are enough to tip the scales in favor of war.$B$BGo into the Eye of the Storm and make sure the Alliance prevails in Outland just like it has in Azeroth.",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "We've come one step closer to achieving total victory over the Horde. We cannot allow the enemy to obtain a foothold in this world or any other."
+ },
+ {
+  "id": 14180,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.$B$BTheir need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
+  "p": "What news do you bring from the front, $n?",
+  "c": "Excellent work, $N. The integrity of our borders must be preserved at all costs!"
+ }
+]

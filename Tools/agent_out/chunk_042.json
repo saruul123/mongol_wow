@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10116,
+  "t": "Wanted: Chieftain Mummaki",
+  "o": "Bring Chieftain Mummaki's Totem to Ikuti at the Orebor Harborage.",
+  "d": "Wanted: Chieftain Mummaki - leader of the foul and degenerate Lost One tribe of the Daggerfen, for his brutal attacks against the Orebor Harborage.$B$BThe chieftain and his band of assassins are responsible for the deaths of numerous Kurenai and draenei and should only be approached by seasoned combatants.$B$BTravelers are advised to avoid the Daggerfen Village area to the west of the Orebor Harborage.$B$BTo claim the bounty, present proof of the chietain's demise to Ikuti.",
+  "p": "So you wish to claim the bounty on Chieftain Mummaki?",
+  "c": "Remarkable! There have been others who tried to claim the bounty, but they never returned. It's not hard to figure out what happened to them.$B$BI'm relieved that we'll no longer be troubled by Mummaki and his degenerates."
+ },
+ {
+  "id": 10117,
+  "t": "Wanted: Chieftain Mummaki",
+  "o": "Bring Chieftain Mummaki's Totem to Shadow Hunter Denjai.",
+  "d": "Wanted: Chieftain Mummaki - leader of the foul and degenerate Lost One tribe of the Daggerfen, for his brutal attacks against Zabra'jin and its inhabitants.$B$BThe chieftain and his band of assassins are responsible for the deaths of numerous scouts and messengers and should only be approached by seasoned combatants.$B$BTravelers are advised to avoid the Daggerfen Village area to the northwest of Zabra'jin.$B$BTo claim the bounty, present proof of the chietain's demise to Shadow Hunter Denjai.",
+  "p": "So you wish to claim the bounty on Chieftain Mummaki?",
+  "c": "You have my thanks, $N. I was beginning to think that I was going to have to take a substantial part of the garrison up there and deal with Mummaki myself. Of course, there's no telling what might have happened to Zabra'jin then."
+ },
+ {
+  "id": 10118,
+  "t": "Message to the Daggerfen",
+  "o": "Slay 3 Daggerfen Assassins and 15 Daggerfen Muckdwellers and return to Shadow Hunter Denjai at Zabra'jin.",
+  "d": "Of all the Lost One tribes in Zangarmarsh, the Daggerfen are the most cunning and most aggressive. They are highly organized and make no secret of the fact that they desire control over the other Lost Ones in the marsh.$B$BTheir attacks have already taken quite a toll on my scouts and messengers. I cannot afford to lose any more men.$B$BIf we don't act soon, they'll have complete control over the roads and Zabra'jin will effectively be surrounded.",
+  "p": "The only thing the Daggerfen understand is swift and brutal action. They should know that we will not let them have their way.",
+  "c": "I think you've managed to send a fairly strong message to them. Perhaps now, the rest of my men won't be so afraid to take the fight to the Daggerfen. Or, if they are, they'll find themselves ashamed by their lack of bravery."
+ },
+ {
+  "id": 10119,
+  "t": "Through the Dark Portal",
+  "o": "Travel through the Dark Portal and find Commander Duron. He awaits your arrival on the other side - in the Outland.$B",
+  "d": "For 20 years the Dark Portal has remained a silent monument - a eulogy to a time long since forgotten.$B$B<Relthorn looks around.>$B$BI never thought to see this day, yet here we stand, looking into the abyss.$B$BOn the other side of this gate we are locked in a savage war - a war that we cannot win without support. You must go through the Dark Portal and help our troops, $c.$B$BReport to Commander Duron at once. He awaits you in Outland...",
+  "p": "",
+  "c": "Welcome to Outland, $N -- welcome to the nightmare! Though the initial Expeditionary Force made it through unscathed, the Legion is attempting to retake the Dark Portal and prevent any of our reinforcements from coming though.$B$BAs much as I'd like your aid here, our troops and the Horde soldiers are able to fend off the Legion platoons that are attempting to take control of this platform.$B$BWe need you where your talents can best be utilized."
+ },
+ {
+  "id": 10120,
+  "t": "Arrival in Outland",
+  "o": "Lieutenant General Orion at the Dark Portal in Hellfire Peninsula wants you to bring Orion's Report to Vlagga Freyfeather.",
+  "d": "Aided by the Alliance, my forces will hold the line here, but I need you to deliver my report to General Krakork in Thrallmar. With his help, we'll be able to drive these demons back into the abyss that spawned them! Speak to Vlagga Freyfeather who stands on the platform behind us. She'll speed you on your way.",
+  "p": "I saw you speaking with Orion - it must be important business...",
+  "c": "So you're Orion's new messenger? I pray you fare better than the last one he sent, $c. With the Legion pressing in, you'd never make it to Thrallmar on foot. Say the word, and my faithful wyvern will deliver you there safely."
+ },
+ {
+  "id": 10121,
+  "t": "Eradicate the Burning Legion",
+  "o": "Speak with Sergeant Shatterskull at the Supply Caravan just outside of Thrallmar, to the east.",
+  "d": "Though this land is full of strange new enemies, the Burning Legion is still the greatest threat to our Expedition. One of my most trusted warriors, Sergeant Shatterskull, has been studying the Legion's tactics - trying to discern the demons' true purpose in this land. Seek him out at the supply caravan just outside the southern wall.$B$BAnd $n - be wary of the Legion. Their evil cannot be underestimated.",
+  "p": "",
+  "c": "No doubt you saw the Legion's warriors dotting the landscape on your flight from the Dark Portal. Though we defeated them at the Battle of Mount Hyjal some five years past, the cursed demons just keep coming back for more. If it's a challenge they crave, then the Horde will answer in kind!$B$BWe orcs have more than just a score to settle with the Legion. What about you, $N? Shall I tell you of our enemy?"
+ },
+ {
+  "id": 10122,
+  "t": "The Citadel's Reach",
+  "o": "Search the northernmost camp along the Southern Rampart for any trace of Private Imarion.",
+  "d": "Each day, Hellfire Citadel opens its gates, and more fel orcs pour out and into the camps they've established along the ramparts south of the fortress.$B$BI dispatched one of my most capable scouts, Private Imarion, to track their movements, preparations and numbers, but he hasn't returned to report his findings.$B$BImarion was to focus his efforts on the northernmost camp along the Southern Rampart, near where it joined the Citadel. Find him, $N. Without his information, we're sitting ducks.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10123,
+  "t": "Felspark Ravine",
+  "o": "Sergeant Shatterskull at the Supply Caravan east of Thrallmar in Hellfire Peninsula wants you to kill 4 Flamewaker Imps, 6 Infernal Warbringers and 1 Dreadcaller.",
+  "d": "Doom Lord Kazzak commands the Burning Legion in Outland. While we can't get to Kazzak - yet - we can and must get to his lieutenants that command Legion troops from the ground.$B$BThey have stationed dreadlords in Felspark Ravine, east of here. They are responsible for these infernal storms that rain down upon our heads. To take them and their minions out would be a great set back to the Burning Legion.",
+  "p": "Thrallmar is safe so long as the arcanist and his bloodmages remain at the front.",
+  "c": "Outstanding work, soldier. The frequency of the attacks is sure to lessen - at least until they bring forth more dreadlords.$B$BNow for the bad news: I've got your new orders..."
+ },
+ {
+  "id": 10124,
+  "t": "Forward Base: Reaver's Fall",
+  "o": "Report to Forward Commander To'arch at Reaver's Fall.",
+  "d": "Your battle prowess has been noted by high command, $c. They want to send you to the front lines to meet up with Maimfist's crew. They're radicals, devoted to the complete extermination of the Burning Legion, so you may fit right in...$B$BHead east about 200 paces and veer south at the jutting mass of land. You'll see Reaver's Fall where an old farm used to stand. Once there, you are to report to Foward Commander To'arch.$B$BNow move out!",
+  "p": "",
+  "c": "So you're the one responsible for clearing out Felspark, eh? That's good to hear - we need soldiers like you who can take these fiends head on!"
+ },
+ {
+  "id": 10125,
+  "t": "Mission: Disrupt Communications",
+  "o": "Forward Commander To'arch at Reaver's Fall in Hellfire Peninsula has asked that you use To'arch's Explosives and destroy Legion Antenna: Spite, Legion Antenna: Rage, Legion Antenna: Hate, Legion Antenna: Fear.",
+  "d": "Directly east of here is the Legion Front. The front acts as a mobile command station for the Burning Legion. Jutting out of the ground you'll see Legion antennas. The Legion uses these to communicate with their forge camps throughout Outland. They also serve as wards to scramble Legion transmissions, making magical surveillance impossible.$B$BI want you to take these explosives and use them to obliterate the antennas. Get all of them, $N. They run south to north on the border of the Legion Front.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10126,
+  "t": "Warboss Nekrogg's Orders",
+  "o": "Travel south along the west side of the South Rampart and search the next camp for signs of Private Imarion.",
+  "d": "The orders, signed by 'Warboss Nekrogg,' order the fel orc patrols stationed at this camp to bring their human prisoner south for interrogation.$B$BLieutenant Amadi mentioned that the Southern Rampart is dotted with fel orc camps. Perhaps the next large section of the wall to the south is where they took Private Imarion.$B$BJudging by the note's mention of interrogation, it seems the private's fel orc captors see some value in keeping him alive. Pick up the trail before they decide to change their minds.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10127,
+  "t": "Mission: Sever the Tie",
+  "o": "Forward Commander To'arch at Reaver's Fall in Hellfire Peninsula wants you to kill 4 Fel Handlers, 8 Wrathguards, and Subjugator Shi'aziv.",
+  "d": "It would be a dereliction of duty if I did not order you to take out the demons that inhabit the Legion Front, just east of this base.$B$BBoth sides of the front are set up in the same manner: Fel handlers roam between Legion encampments, which are in turn guarded by wrathguards. A shivan subjugator oversees the entire operation. Kill 'em all and let Kazzak sort 'em out.$B$BAnd watch out for patrolling fel reavers. I know you're tough but those things will make short work of you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10128,
+  "t": "Saving Private Imarion",
+  "o": "Continue south along the Southern Rampart and search for where Warboss Nekrogg is holding Private Imarion.",
+  "d": "The tracks lead south from Imarion's equipment, appearing to follow the Southern Rampart. The roughness of the shallow ruts suggests that Imarion's captors were in a hurry to move him to his next destination, but why?$B$BWas someone waiting there for him, perhaps the Warboss Nekrogg, the leader named in the orders you found further north?$B$BThe shield and the tracks raise more questions than they solve, but it seems certain that where you find Private Imarion, you're likely to find Warboss Nekrogg too.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10129,
+  "t": "Mission: Gateways Murketh and Shaadraz",
+  "o": "Speak with Wing Commander Brack, bomb Gateway Murketh and Gateway Shaadraz and then return to Forward Commander To'arch at Reaver's Fall.",
+  "d": "We've identified the two main transporters that the Burning Legion are using to bring in reinforcements: Gateway Murketh and Gateway Shaadraz.$B$BIf you look east up the Path of Glory, you'll see them on either side of the road.  I want you to bomb them both into oblivion!$B$BHere are the bombs you'll use, specially designed by a goblin in Area 52.  Now, speak with Wing Commander Brack -- he'll put you on a wyvern.",
+  "p": "If you missed during your first pass, take another...",
+  "c": "That will set them back weeks! Fantastic work, $N. The Legion never expected such heavy resistance."
+ },
+ {
+  "id": 10130,
+  "t": "The Western Flank",
+  "o": "Kill 10 Shattered Hand Guards, 10 Shattered Hand Berserkers, and 5 Shattered Hand Acolytes, then report to Lieutenant Amadi at Honor Hold's western guard tower.",
+  "d": "In addition to other instructions, the orders tell the remaining fel orcs to prepare their equipment and rations for a coming attack.$B$BAccording to the plans, Warboss Nekrogg's forces are to form the western flank of a pincer attack on Honor Hold.$B$BWith the hold's garrison concentrating on its eastern walls, an attack from the west would be devastating. Honor Hold can only hope to hold out if the western forces are kept out of the battle.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10131,
+  "t": "Planning the Escape",
+  "o": "Kill a Shattered Hand Grenadier and bring his Crude Explosives to Private Imarion at Gor'gaz Outpost.",
+  "d": "Like I said, getting out of here won't be easy. Warboss Nekrogg may look like an overgrown brute, but he's no simpleton.$B$BHe won't let the cage key out of his sight and doesn't come down from his tower atop that chunk of wall until he's ready to question me or that orc he's managed to capture.$B$BIt's going to take something extraordinary to get him off that wall, but I have an idea. Find one of the grenadiers that patrol the ground along the Southern Rampart and bring me some of his explosives.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10132,
+  "t": "Colossal Menace",
+  "o": "Slay 5 Raging Colossi and then return to Tola'thion at the Cenarion Post in Hellfire Peninsula.",
+  "d": "You see that huge red crystal to the north?  It fell from the sky not long ago, causing a massive earthquake.$B$BWhen we came out here to investigate the disturbance, we found all of these colossi wandering about that weren't previously here.$B$BThere's definitely something strange about that crystal and the energies that it's emanating, but I don't have time for that.  Those mountain giants are my immediate concern.$B$BI want you to head up to Fallen Sky Ridge with some friends and deal with them.",
+  "p": "You have eliminated the colossal menace?",
+  "c": "Good work.$B$BIf you ask me, all that we have to do is kill enough of those colossi, and then we won't have to worry any longer about the ridge or that strange crystal in the middle of it.$B$BHere, take one of these as a gift from the Cenarion Expedition."
+ },
+ {
+  "id": 10133,
+  "t": "Mission: Kill the Messenger",
+  "o": "Forward Commander To'arch at Reaver's Fall in Hellfire Peninsula has asked that you find and slay Arix'malidash and recover the Legion Missive.",
+  "d": "Your handiwork is already causing the Legion great discomfort, $N. My scouts have just informed me that the Legion has resorted to sending communication via courier. We have successfully managed to cut their troops off from the host!$B$BWhat I ask of you next is more than I would ask of an ordinary soldier.$B$BThe Legion courier travels from the Pools of Aggonar to Forge Base: Mageddon, north of here. You must intercept the courier at Mageddon, dispose of him, and return to me with the Legion missive.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10134,
+  "t": "Crimson Crystal Clue",
+  "o": "Deliver the Crimson Crystal Shard to Tola'thion at the Cenarion Post in Hellfire Peninsula.",
+  "d": "As the colossus falls under the weight of your attacks, you notice for the first time that it was holding a red crystal fragment.$B$BWhile it was small and unnoticeable in the mountain giant's hand, it's a fairly hefty piece for you to carry around.  It also suspiciously looks like it's a piece of the giant crystal in the middle of the ridge.$B$BIt's most definitely a clue as to the strangeness that is occurring here, and you're sure that the druids at the Cenarion Post to the south will want to see it.",
+  "p": "That's a big crystal you have there.  Did you get that while you were up at the ridge killing colossi?$B$BLet me take a look at it.",
+  "c": "Hmph.  Just looks like a big lump of unrefined crystal to me.$B$BAdmittedly, I can feel a sickly, evil aura emanating off of it, but that's not exactly in my line of work.  I'm just here to put an end to the mountain giant menace."
+ },
+ {
+  "id": 10135,
+  "t": "Mission: Be the Messenger",
+  "o": "Take the Legion Missive to Nazgrel at Thrallmar in Hellfire Peninsula.",
+  "d": "I am merely a field commander, $c. The authority to act on this kind of information falls squarely on the shoulders of our leader, Nazgrel. You must take this missive to him in Thrallmar. Ride with the wind at your back, soldier. Let nothing prevent you from reaching Nazgrel!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10136,
+  "t": "Cruel's Intentions",
+  "o": "Kill Arazzius the Cruel, then return to Nazgrel in Thrallmar.",
+  "d": "Magister Bloodhawk finally deciphered the Legion missive you found earlier. It turned out to be attack plans sent by one of Highlord Kazzak's lieutenants - Arazzius the Cruel. Apparently, Arazzius commands the Legion ground forces in Hellfire. The time has come to terminate his command, $N. Terminate with extreme prejudice. $B$BHead west to the Pools of Aggonar and put an end to this so-called 'Legion lord'. Today, the Horde reclaims Hellfire Peninsula. Let the Legion be damned. ",
+  "p": "Destiny calls, $N. Arazzius the Cruel has eluded justice long enough. Let his death be a message to all those who would oppose the Horde. You are next.",
+  "c": "For generations to come, they will sing songs of this day, $N - songs of your valor. I wish Thrall had been here to celebrate this victory with us. The Legion is undone - and Hellfire now belongs to the Horde once again! There may yet be hope for this ravaged world - and our peoples' place within it. $B$BLok'tar ogar!$B$B"
+ },
+ {
+  "id": 10137,
+  "t": "Provoking the Warboss",
+  "o": "Use the Crude Explosives to create a disturbance and lure Warboss Nekrogg out of his tower. Kill him, obtain Nekrogg's Key, and use it to open Private Imarion's cage. Once you have freed Private Imarion, report to Lieutenant Amadi.",
+  "d": "The plan succeeds or fails on how well these explosives are made...$B$BAs much as I'd hate to rely on anything made by an orc, it's my only real chance to get out of here. Take this and throw it against the banner hanging from the tower up there.$B$BOnce it explodes, Warboss Nekrogg won't be able to resist the chance to make an example of the troublemaker. Kill him, take the key, and then open my cage. Good luck, $N.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10138,
+  "t": "Under Whose Orders?",
+  "o": "Kill 20 Shattered Hand Grunts, 10 Shattered Hand Warlocks, and capture Drillmaster Zurok's Orders. Then, return to Lieutenant Amadi at Honor Hold's western guard tower.",
+  "d": "One thing is clear, $N: we can't keep this up. The fel orcs have us surrounded and as quickly as we can kill them, several spring up to replace them. We can't hope to win this war huddled behind Honor Hold's shattered walls and counting the days until our deaths at the hands of the fel orcs or the Legion.$B$BYou've done a remarkable job of sparing us from the brunt of the fel orc attack, but now you must fight your way up the Path of Glory and learn who is orchestrating these attacks.",
+  "p": "",
+  "c": "Well done, $N. These orders should finally reveal the identity of the mastermind behind these attacks."
+ },
+ {
+  "id": 10139,
+  "t": "Dispatching the Commander",
+  "o": "Slay Force-Commander Gorax and report to Lieutenant Amadi at Honor Hold's western tower.",
+  "d": "From what I can tell, Drillmaster Zurok served as the right hand of the fel orc leader in Hellfire Peninsula, Force-Commander Gorax.$B$BThis Gorax isn't your typical fel orc brute, though. I almost admire the way he managed to keep us on the defensive for so long.$B$BZurok's orders indicate that Gorax's command center is located at the end of the Path of Glory, near where the citadel's walls meet the Northern Rampart. There's no telling what to expect, $N, but it would be wise to travel with allies.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10140,
+  "t": "Journey to Honor Hold",
+  "o": "Take a flight to Honor Hold and deliver Duron's Report to Marshal Isildor.",
+  "d": "When you're ready, I'll arrange a flight straight to Honor Hold.$B$BFrom there, speak with Marshal Isildor and give him Duron's report.  He'll be happy to see another recruit from the homelands, and I'm sure the information in that report is important stuff!",
+  "p": "Thank the Light you made it here safely. Honor Hold needs all the seasoned warriors it can muster.",
+  "c": "Our expedition to this forsaken, wreck of a world has almost ground to a halt, $N. We encountered more resistance than we bargained for.$B$BAs if facing the Burning Legion again wasn't bad enough - there are horrors in this land unlike anything we've ever encountered."
+ },
+ {
+  "id": 10141,
+  "t": "The Legion Reborn",
+  "o": "Speak with Sergeant Altumus at the East Supply Caravan just outside of Honor Hold, to the east.",
+  "d": "While the Burning Legion invaded Azeroth, they were also at work here, in Outland.  We have tracked their movements over the years, but this latest activity, $c - well, this is beyond anything we've seen.$B$BSeek out Sergeant Altumus near the eastern supply caravan. She has been monitoring the invaders and may have insights into their purpose.$B$BBe swift - and take care, $n - the Burning Legion is not to be underestimated.",
+  "p": "",
+  "c": "Force Commander Danath may have misunderstood my request for reinforcements. You look capable, but... I asked for a full sized battalion!$B$BYou see, we have a bit of a demon problem..."
+ },
+ {
+  "id": 10142,
+  "t": "The Path of Anguish",
+  "o": "Sergeant Altumus at the East Supply Caravan east of Honor Hold in Hellfire Peninsula wants you to kill 4 Flamewaker Imps, 6 Infernal Warbringers and 1 Dreadcaller.",
+  "d": "Doom Lord Kazzak commands the Burning Legion in Outland. While we can't get to Kazzak - yet - we can and must get to his lieutenants that command Legion troops from the ground.$B$BThey have stationed dreadlords at the Path of Anguish, east of here. They are the ones responsible for these infernal storms that rain down upon our heads. To take them and their minions out would be a great set back to the Burning Legion.",
+  "p": "Honor Hold is safe so long as the archers guard our skies.",
+  "c": "Outstanding work, soldier. The frequency of the attacks is sure to lessen - at least until they bring forth new dreadlords.$B$BNow for the bad news: I've got your new orders..."
+ },
+ {
+  "id": 10143,
+  "t": "Expedition Point",
+  "o": "Report to Forward Commander Kingston at Expedition Point.",
+  "d": "Your battle prowess has been noted by high command, $c. They want to send you to the front lines to meet up with Rohamus's crew. They're radicals, devoted to the complete extermination of the Burning Legion, so you may fit right in...$B$BHead east about 400 paces, across the Valley of Bones, until you run into a destroyed fel reaver. You'll see Expedition Point where a Legion base used to stand. Once there, you are to report to Forward Commander Kingston.$B$BNow move out!",
+  "p": "",
+  "c": "Glad to meet you, soldier.$B$BEnough chatting... now listen up -- I have a vital mission for you and I want you to succeed... and survive!"
+ },
+ {
+  "id": 10144,
+  "t": "Disrupt Their Reinforcements",
+  "o": "Defeat enemies around Portal Grimh and Portal Kaalez to gather Demonic Rune Stones.$B$BUse Kingston's Primer inside Portal Grimh and Portal Kaalez.$B$BReturn to Forward Commander Kingston with the remaining explosives.",
+  "d": "You'll find the Legion front to our northeast, and spaced along it are portals used to gather reinforcements from throughout Outland. We, $n, are going to destroy those portals!$B$BTake this primer.  Designed in Area 52, it uses the demons' own power as an explosive device!  Defeat Legion forces around Portals Grimh and Kaalez to gather demonic rune stones, use the primer to detonate the stones inside the portals... then watch the fireworks!!$B$BGo, $n, and return to me when your mission is complete.",
+  "p": "I wish I could be there to watch the fire display.  Those explosives pack a big punch!",
+  "c": "Well done, $N.  Disabling those portals will stem the flow of Legion reinforcements for a long time!$B$BBut we can't rest yet..."
+ },
+ {
+  "id": 10145,
+  "t": "Mission: Sever the Tie UNUSED",
+  "o": "Forward Commander Kingston at Expedition Point in Hellfire Peninsula wants you to kill 4 Fel Handlers, 8 Wrathguards, and Subjugator Yalqiz.",
+  "d": "It would be a dereliction of duty if I did not order you to take out the demons that inhabit the Legion Front, just north of this base.$B$BBoth sides of the front are set up in the same manner: Fel handlers roam between Legion encampments, which are in turn guarded by wrathguards. A shivan subjugator oversees the entire operation. Kill 'em all and let Kazzak sort 'em out.$B$BAnd watch out for patrolling fel reavers. I know you're tough but those things will make short work of you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10146,
+  "t": "Mission: The Murketh and Shaadraz Gateways",
+  "o": "Speak with Wing Commander Dabir'ee, bomb Gateway Murketh and Gateway Shaadraz and then return to Forward Commander Kingston at Expedition Point.",
+  "d": "Just west of the Dark Portal are two huge transporters: Gateway Murketh and Gateway Shaadraz.$B$BIf you look east up the Path of Glory, you'll see them on either side of the road.  I want you to bomb them both into rubble!$B$BHere are the bombs you'll use, specially designed by a goblin in Area 52.  Now, speak with Wing Commander Dabir'ee -- he'll put you on a gryphon and send you on your way.",
+  "p": "This is a vital mission, $N.  It's one I would not trust to just anyone.",
+  "c": "That will slow them down, there's no denying it! I think you just put me in an uncharacteristically good mood, $N!"
+ },
+ {
+  "id": 10147,
+  "t": "Mission: Kill the Messenger",
+  "o": "Forward Commander Kingston at Expedition Point in Hellfire Peninsula has asked that you find and slay Arix'malidash and recover the Legion Missive.",
+  "d": "Your handiwork is already causing the Legion great discomfort, $N. My scouts have just informed me that the Legion has resorted to sending communication via courier. We have successfully managed to cut their troops off from the host!$B$BWhat I ask of you next is more than I would ask of an ordinary soldier.$B$BThe Legion courier travels from the Pools of Aggonar to Forge Base: Mageddon, far north of here. You must intercept the courier at Mageddon, dispose of him, and return to me with the Legion missive.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10148,
+  "t": "Mission: Be the Messenger",
+  "o": "Take the Legion Missive to Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula.",
+  "d": "I am merely a field commander, $c. The authority to act on this kind of information falls squarely on the shoulders of our leader, Force Commander Danath Trollbane. You must take this missive to him in Honor Hold. Ride with the wind at your back, soldier. Let nothing prevent you from reaching Danath!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10149,
+  "t": "Mission: End All, Be All",
+  "o": "Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula has asked that you slay Arazzius the Cruel.$B",
+  "d": "Do you know what would have happened if you had not intercepted this missive, $N?$B$B<Danath nods.>$B$BThe entirety of the Legion army in Hellfire would have been knocking on our door. There is no way that we could have survived such an assault.$B$BThere is only one way to make sure that these orders never reach the Legion Front. You must travel to the Pools of Aggonar, far northwest of here, and slay this Arazzius creature.$B$BDo this and I will grant you a commendation.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10150,
+  "t": "The Citadel's Reach",
+  "o": "Search the northernmost camp along the Northern Rampart for any trace of Scout Makha.",
+  "d": "Each day, Hellfire Citadel opens its gates, and more fel orcs pour out and into the camps they've established along the ramparts south of the fortress.$B$BI dispatched one of my most capable trackers, Scout Makha, to track their movements, preparations and numbers, but she hasn't returned to report her findings.$B$BMakha was to focus her efforts on the northernmost camp along the Northern Rampart, near where it ends in the rocks. Find her, $N. Without her information, we're sitting ducks.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10151,
+  "t": "Warboss Nekrogg's Orders",
+  "o": "Travel south along the west side of the Northern Rampart and search the next camp for signs of Scout Makha",
+  "d": "The orders, signed by 'Warboss Nekrogg,' order the fel orc patrols stationed at this camp to bring their orcish prisoner south for interrogation.$B$BShadow Hunter Ty'jin mentioned that the Northern Rampart is dotted with fel orc camps. Perhaps the next large section of the wall to the south is where they took Scout Makha.$B$BJudging by the note's mention of interrogation, it seems the scout's fel orc captors see some value in keeping her alive. Pick up the trail before they decide to change their minds.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10152,
+  "t": "The Western Flank",
+  "o": "Kill 10 Shattered Hand Guards, 10 Shattered Hand Berserkers, and 5 Shattered Hand Acolytes, then report to Stone Guard Ambelan at Spinebreaker Post near Zeth'Gor.",
+  "d": "In addition to other instructions, the orders tell the remaining fel orcs to prepare their equipment and rations for a coming attack.$B$BAccording to the plans, Warboss Nekrogg's forces are to form the western flank of a pincer attack on Thrallmar.$B$BWith the town's garrison concentrating on its eastern walls, an attack from the west would be devastating. Thrallmar can only hope to hold out if the western forces are kept out of the battle.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10153,
+  "t": "Saving Scout Makha",
+  "o": "Continue south across the Path of Glory to the Southern Rampart and search for where Warboss Nekrogg is holding Scout Makha.",
+  "d": "The tracks lead south from Makha's equipment, appearing to cross the Path of Glory. The roughness of the shallow ruts suggests that Makha's captors were in a hurry to move her to the next destination, but why?$B$BWas someone waiting there for her, perhaps Warboss Nekrogg, the leader named in the orders you found further north?$B$BThe shield and the tracks raise more questions than they solve, but it seems certain that where you find Scout Makha, you're likely to find Warboss Nekrogg too.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10154,
+  "t": "Planning the Escape",
+  "o": "Kill a Shattered Hand Grenadier and bring his Crude Explosives to Scout Makha at Gor'gaz Outpost.",
+  "d": "Like I said, getting out of here won't be easy. Warboss Nekrogg may look like an overgrown brute, but he's no simpleton.$B$BHe won't let the cage key out of his sight and doesn't come down from his tower atop that chunk of wall until he's ready to question me or that human he's managed to capture.$B$BIt's going to take something extraordinary to get him off that wall, but I have an idea. Find one of the grenadiers that patrol the ground along the Southern Rampart and bring me some of his explosives.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10155,
+  "t": "Provoking the Warboss",
+  "o": "Use the Crude Explosives to create a disturbance and lure Warboss Nekrogg out of his tower. Kill him, obtain Nekrogg's Key, and use it to open Scout Makha's cage. Once you have freed Scout Makha, report to Stone Guard Ambelan at Spinebreaker Post near Zeth'Gor.",
+  "d": "The plan succeeds or fails on how well these explosives are made...$B$BAs much as I'd hate to rely on anything made by a fel orc, it's my only real chance to get out of here. Take this and throw it against the banner hanging from the tower up there.$B$BOnce it explodes, Warboss Nekrogg won't be able to resist the chance to make an example of the troublemaker. Kill him, take the key, and then open my cage. Good luck, $N.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10156,
+  "t": "Under Whose Orders?",
+  "o": "Kill 20 Shattered Hand Grunts, 10 Shattered Hand Warlocks, and capture Drillmaster Zurok's Orders. Then, return to Stone Guard Ambelan at Spinebreaker Post.",
+  "d": "One thing is clear, $N: we can't keep this up. The fel orcs have us pinned down and as quickly as we can kill them, several spring up to replace them. We can't hope to win this war with our forces divided and locked in constant combat with the fel orcs and the demons of the Legion.$B$BYou've done a remarkable job of blunting the fel orc attack, but now you must fight your way up the Path of Glory and learn who is orchestrating this offensive.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10157,
+  "t": "Dispatching the Commander",
+  "o": "Slay Force-Commander Gorax and report to Shadow Hunter Ty'jin at Thrallmar.",
+  "d": "From what I can tell, Drillmaster Zurok served as the right hand of the fel orc leader in Hellfire Peninsula, Force-Commander Gorax.$B$BThis Gorax isn't your typical fel orc brute, though. I almost admire the way he managed to keep us on the defensive for so long.$B$BZurok's orders indicate that Gorax's command center is located at the end of the Path of Glory, near where the citadel's walls meet the Northern Rampart. There's no telling what to expect, $N, but it would be wise to travel with allies.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10158,
+  "t": "Bleeding Hollow Supplies",
+  "o": "Destroy 6 piles of Bleeding Hollow Supplies and report to Stone Guard Ambelan at Spinebreaker Post.",
+  "d": "The orcish ruins of Zeth'Gor to serve as a base for an ever-growing tide of orcs emerging from Hellfire Citadel.$B$BShadow Hunter Ty'jin sent me here to keep an eye on the outpost and its strange inhabitants.$B$BSomething has changed these orcs, augmented them in a way we've never seen before. We have to do anything we can to keep them from strengthening. Fight your way into Zeth'Gor and destroy any supplies you find there.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10159,
+  "t": "Keep Thornfang Hill Clear!",
+  "o": "Kill 8 Thornfang Ravagers and 8 Thornfang Venomspitters, and then return to Mahuram Stouthoof at the Cenarion Post in Hellfire Peninsula.",
+  "d": "We've been fighting an ongoing battle to keep the pass through Thornfang Hill to the west clear of ravagers.  It would be bad if we were to become completely cut off from the refuge in Zangarmarsh.$B$BWe don't want to displace the creatures, but there seems to be little choice as their attacks on travelers through the area have become more aggressive.$B$BClear some of the ravagers out of there if you can.",
+  "p": "How fares your attempt to clear Thornfang Hill?",
+  "c": "With the ravagers cleared, travelers to and from the Cenarion Refuge in Zangarmarsh should have an easier time of it.$B$BThe Cenarion Expedition is indebted to you."
+ },
+ {
+  "id": 10160,
+  "t": "Know your Enemy",
+  "o": "Speak with Lieutenant Amadi at the old guard tower just west of Honor Hold.",
+  "d": "Rumors have surfaced that some new breed of orc is on the rise. Larger, meaner - more cunning than the brutes we're familiar with.  If these rumors are true then our forces, already stretched, may be taxed beyond their limit.$B$BI have entrusted my lieutenant, Amadi, with investigating this matter. If you would help us in this dark hour, seek her out. She is stationed at the broken tower just west of the Hold.$B$BAnd $N - be careful out there. You're heading into a dangerous new world.",
+  "p": "",
+  "c": "<Lieutenant Amadi nods.>$B$BGood, we need all the help we can get. The increasing fel orc presence around the Southern Rampart concerns me. I sent out a scout to investigate, but he hasn't yet returned."
+ },
+ {
+  "id": 10161,
+  "t": "In Case of Emergency...",
+  "o": "Collect 30 pieces of Zeppelin Debris and bring them to \"Screaming\" Screed Luckheed at the Zeppelin Crash.",
+  "d": "In the event of an emergency, it's always the pilot's job to keep a level head, especially when the only orders your co-pilot follows come from his stomach.$B$BThe good news is that we won't need to wait days for replacement parts to be imported. The bad news is that the \"spare\" parts got scattered from here to the Valley of Bones to the east.$B$BThe other bad news? The spare parts aren't so spare. They, uh, fell off during our rapid descent. Could you help me collect enough to get us off the ground again?",
+  "p": "Did you find enough of the parts? If not, I might have to use that frying pan Legassi keeps waving around. Then, I'd have to rename the zeppelin the \"Flying Skillet.\"",
+  "c": "Some of this is in pretty bad shape, but there should be enough to work with here. With some creative engineering, I'm confident I can make it work!"
+ },
+ {
+  "id": 10162,
+  "t": "Mission: The Abyssal Shelf",
+  "o": "Forward Commander To'arch at Reaver's Fall in Hellfire Peninsula has asked that you destroy 20 Gan'arg Peons, 5 Mo'arg Overseers and 5 Fel Cannons.",
+  "d": "Now that you've got your wings, perhaps you'd be interested in running another bombing mission?$B$BThis time we've isolated the Legion's main production area, behind the forge camps to the north. I need you to get on a wyvern and destroy the whole damned thing!$B$BHere are your bombs - now, talk to Wing Commander Brack when you're ready for takeoff.",
+  "p": "Show them that not even the skies are safe!",
+  "c": "You fly as if you've been doing this your entire life, $N. Outstanding performance out there! Not even a scratch on the wyvern destroyers!"
+ },
+ {
+  "id": 10163,
+  "t": "Mission: The Abyssal Shelf",
+  "o": "Wing Commander Gryphongar at Shatter Point in Hellfire Peninsula has asked that you destroy 20 Gan'arg Peons, 5 Mo'arg Overseers and 5 Fel Cannons.",
+  "d": "Now that you've got your wings, perhaps you'd be interested in running another bombing mission?$B$BThis time we've isolated the Legion's main production area, behind the forge camps to the north. I need you to get on a gryphon and destroy the whole damned thing!$B$BHere are your bombs - now, talk to Gryphoneer Windbellow when you're ready for takeoff.$B",
+  "p": "Show them that not even the skies are safe!",
+  "c": "You fly as if you've been doing this your entire life, $N. Outstanding performance out there! Not even a scratch on the gryphon destroyers!"
+ },
+ {
+  "id": 10164,
+  "t": "Everything Will Be Alright",
+  "o": "Greatfather Aldrimus standing outside the Auchenai Crypts of Auchindoun has asked that you enter the Auchenai Crypts and destroy Exarch Maladaar.",
+  "d": "You've had quite an adventure, $N. And before you've even set foot inside of the Auchenai Crypts.$B$BI am one of the fortunate spirits. I was neither bound to Levixus nor a part of Exarch Maladaar's vile experiments in necromancy. While you have destroyed Levixus, Maladaar lives on, continuing to torment the spirits inside the crypts.$B$BWhat I ask is simple. Enter the Auchenai Crypts and destroy Exarch Maladaar so that the spirits trapped inside can finally rest in peace.",
+  "p": "Save the spirits, $N.",
+  "c": "You've done it, $N! The spirits are freed!$B$BAlthough I am without a material manifestation, I am still able to reward you with items from the spirit world. Use them with caution as such items are often volatile and can cause great harm to their user."
+ },
+ {
+  "id": 10165,
+  "t": "Undercutting the Competition",
+  "o": "Nexus-Prince Haramad located outside of the Mana-Tombs wants you to kill Nexus-Prince Shaffar and bring Shaffar's Wrappings back to him.",
+  "d": "That Shaffar is a shrewd one - I'll give him that... He's managed to keep the Consortium out while he safely pillages this crypt for all it's worth. I have no faith in these imbeciles actually breaking through Shaffar's defenses so I'll make you a deal, $r.$B$BEnter the Mana-Tombs and kill Nexus-Prince Shaffar. Bring me back his body wrap as proof of this deed and I'll reward you handsomely.",
+  "p": "I don't like to \"share.\"",
+  "c": "Another competitor goes under... You do good work for a flesh beast, $r. If you are ever in Netherstorm, look me up. I make my home at the Stormspire."
+ },
+ {
+  "id": 10166,
+  "t": "Whitebark's Memory",
+  "o": "Larianna Riverwind wants you to place Old Whitebark's Pendant by the runestone at the Scorched Grove.",
+  "d": "This pendant brings back memories of a different time.  A better time.$B$BUnfortunately, memories are the last thing I need right now.$B$BI want you to bury this by the runestone in the Scorched Grove.  It was there that I first met the treant elder.  Put my old friend's memory to rest.",
+  "p": "You've returned, haven't you done enough?",
+  "c": "I no longer belong to this world and must admit defeat.  The land has forever changed and nothing will ever be the same.Leave the pendant here with me, maybe one day, long after the elves are gone, a new tree will grow on this very spot - amongst a burnt forest and the husks of dead treants. "
+ },
+ {
+  "id": 10167,
+  "t": "Auchindoun...",
+  "o": "Travel to the Auchenai Crypts in the Bone Wastes of Terokkar Forest and slay Exarch Maladaar to free the spirit of D'ore.$B",
+  "d": "Deep within the Auchenai Crypts is a tomb: A tomb unlike any that exists on this shattered realm. It was from this tomb, the first tomb, that the vast mausoleum of Auchindoun was born.$B$BYou must venture to the Auchenai Crypts of Auchindoun and find this tomb. Slay the guardian of the crypt to release the captive spirit within. The spirit holds the key... ",
+  "p": "<D'ore's spirit hums.>$B$BGreetings, $N.",
+  "c": "The memory is vivid, $N. My energies were wholly drained from the crash. I was only a dim speck of void energies when the Prophet Velen and his draenei compatriots lifted my remains and brought them here. After much ceremony, my diminished form was laid to rest within this sarcophagus. I have been regenerating for nearly a thousand years. The cycle is almost complete..."
+ },
+ {
+  "id": 10168,
+  "t": "What the Soul Sees",
+  "o": "Locate a Soul Mirror somewhere in the Auchenai Crypts and use it to call forth a Darkened Spirit from Ancient Orc Ancestors in Nagrand. Destroy 15 Darkened Spirits so that the ancestors may rest in peace.$B$BReturn to Mother Kashur at the Ancestral Grounds when this task is complete.",
+  "d": "For several centuries, the spirits of Auchindoun coalesced into my darkened essence. Many of the catastrophes that befell this crypt were a direct result of my weakened state.$B$BRegrettably, there is nothing that can be done to stop this cycle. It is a facet of the naaru condition - without the void, the Light cannot exist.$B$BYour only recourse is to destroy the ancient spirits of Nagrand before they transform into creatures of the void. Use the soul mirrors found throughout this crypt to free them...",
+  "p": "<Mother Kashur is visibly upset.>These naaru are wise beyond all manner of life on this world. ",
+  "c": "You have completed a long and dangerous journey, risking life and limb to ensure the safety of the Mag'har and the serenity of our ancestors. For this I am thankful beyond what words could convey. "
+ },
+ {
+  "id": 10169,
+  "t": "Losing Gracefully",
+  "o": "Magister Falris in Shattrath wants you to take the Vial of Sedative Serum to the Terrace of Light and pour it into Haronem's Regiment Cooking Pot.",
+  "d": "The Aldor have gained the favor of the Sha'tar today.  As if that should come as any sort of surprise!$B$BWatch them showing off their fancy footwork a few feet away from A'dal.  Could they possibly put any more effort into sucking up to the naaru?$B$BHarbinger Haronem's marksman regiment is so dedicated, it even brings its own cooking pot to avoid taking long breaks for lunch.  This cannot go without retribution, $N.$B$BI want you to pour this vial into their meal.  The results should be... comical.",
+  "p": "The smell of herbs and spices fills the air around the pot.",
+  "c": "The Aldor marksmen appear distracted with their drill, allowing you ample time to place the contents of the vial into the stew."
+ },
+ {
+  "id": 10170,
+  "t": "Return to the Greatmother",
+  "o": "Return to Garadar and speak to Greatmother Geyah.",
+  "d": "Return to Greatmother Geyah at Garadar with news of your victory, $N. This will surely lift the spirits of the Mag'har. Perhaps even the young Hellscream will be lifted from his malaise.",
+  "p": "",
+  "c": "I want you to personally deliver this news to Garrosh."
+ },
+ {
+  "id": 10171,
+  "t": "The Inconsolable Chieftain",
+  "o": "Greatmother Geyah at Garadar has asked that you speak with Garrosh.",
+  "d": "You have done so much for the Mag'har, $N. Your accomplishments are known to all, including Garrosh. Go to him now and tell him of your latest victory. Tell him that you do what you do for him and his people. Surely he will be lifted by your words.",
+  "p": "",
+  "c": "Everyone is proud. Proud that our people will live to see another winter. But beyond that? What is there?$B$BMaybe you should lead this clan, $N. Maybe then I will be allowed to die when the Greatmother passes. Allowed to finally erase the shame of my family name. I long for such peace."
+ },
+ {
+  "id": 10172,
+  "t": "There Is No Hope",
+  "o": "Speak to Greatmother Geyah and tell her what Garrosh told you.",
+  "d": "You are an honorable $r, $N. You have done much for the Mag'har. No one could ever deny your service to my people. Alas, the time of the Mag'har is at an end. You have shown me, more than anything, that I am unfit to lead these people. My cursed blood runs too deep. I will not... I cannot become the second Hellscream to damn the orcs.$B$BPlease, $N, return to the Greatmother and tell her what I have told you. I am too ashamed to see her... to look into her eyes.",
+  "p": "<Greatmother Geyah is lying down.>",
+  "c": "<Tears stream down Greatmother Geyah's face.>$B$BSeek out your warchief. Tell him that I await him here..."
+ },
+ {
+  "id": 10173,
+  "t": "The Archmage's Staff",
+  "o": "Retrieve Archmage Vargoth's Staff from Ekkorash the Inquisitor and bring it to Ravandwyr in Area 52. To bring Ekkorash out of hiding, sprinkle the Conjuring Powder on the brazier in the center of the ruins.",
+  "d": "Allow me to introduce myself, $c.$B$BI am Ravandwyr, apprentice to the Archmage Vargoth.$B$BMy master is... indisposed, shall we say. I am here on a matter of great importance.$B$BThe Arklon Ruins southeast of the city are a hotbed of Burning Legion activity. Their purpose in the ruins concerns neither me nor my master, but their leader, Ekkorash, possesses the archmage's staff.$B$BThis conjuring powder will allow you to draw the demon out of hiding. Sprinkle it on the brazier at the center of the ruins.",
+  "p": "I will not rest until Archmage Vargoth's staff is restored to him. Were you able to wrest it from the demon's grasp?",
+  "c": "Ah, so you managed to recover the staff. Impressive, $N. Perhaps you are the one I've been looking for.$B$BOh yes, your reward...$B$B<Ravandwyr presses a few coins into your palm.>$B$BNo doubt you had higher expectations, but that too will come with time. For now, consider opportunity the true reward."
+ },
+ {
+  "id": 10174,
+  "t": "Curse of the Violet Tower",
+  "o": "Use Archmage Vargoth's Staff to make contact with Archmage Vargoth.$B$BIf you lose Archmage Vargoth's Staff, speak to Ravandwyr at Area 52 to receive a replacement.",
+  "d": "Now, you will be able to use the archmage's staff to contact him.$B$BHe resides in the Violet Tower, on an 'island' to the southeast. The tower is both sanctuary and prison to him, cursed as it is. Kirin Tor can neither enter nor leave, keeping me apart from my master.$B$BThe staff's magic can penetrate the tower's defenses, but only if invoked by one outside the Kirin Tor.$B$BTake the archmage's staff and use it to conjure his image. Tell him what has happened and that I have not completely failed him.",
+  "p": "",
+  "c": "<Archmage Vargoth's image examines you as you convey Ravandwyr's message.>$B$BRavandwyr has everything a master can expect of his apprentice. When I gave him the staff and told him to flee. I hoped that he would use it to find help and free me once Kael'thas's forces withdrew from the tower. Since then, I have learned a great deal about the nature of the curse.$B$BIt can be broken, $N, but it will require your help."
+ },
+ {
+  "id": 10175,
+  "t": "Thrall, Son of Durotan",
+  "o": "Venture to Orgrimmar and deliver Geyah's message to Thrall.",
+  "d": "Return to your world, $N. Go to my grandchild and tell him that his blood is here - on this shattered world.$B$BTell him that his father's legacy lives on.$B$BTell him everything...$B",
+  "p": "",
+  "c": "<Thrall's voice takes on the hollow essence of a storm cloud.>I... I have a grandmother? She lives? "
+ },
+ {
+  "id": 10176,
+  "t": "Ar'kelos the Guardian",
+  "o": "Enter the Violet Tower at the center of Kirin'Var Village and defeat Ar'kelos, then speak with Archmage Vargoth.",
+  "d": "Now that you've gathered all the items I'll need to break Kael'thas's curse, one thing remains to be done. When Kael'thas sealed the tower, he placed an arcane golem, known as Ar'kelos, at the bottom of the tower.$B$BYou must defeat Ar'kelos in order allow me to work magic within the tower again.$B$BWhen you enter the Violet Tower, the curse will begin to affect you.$B$BOnce you have defeated Ar'kelos, ascend the tower and assist me in making preparations for the ritual.",
+  "p": "At last, we meet.",
+  "c": "You have done well, $N. Destroying the dampening field will make it much easier for me to prepare the magic that will lift the tower's curse at last."
+ },
+ {
+  "id": 10177,
+  "t": "Trouble at Auchindoun",
+  "o": "Report to Field Commander Mahfuun at the entrance to the Shadow Labyrinth at Auchindoun in Terokkar Forest.",
+  "d": "I have spies within Auchindoun and they have been sending me disturbing reports.  That place has been nothing but trouble ever since it exploded a couple of years ago.$B$BSomething in there has gone horribly wrong - again - and the Shadow Council is now on a war footing.  Though the reports were lacking on details, their preparations appear to be directed inward.$B$BYou must make your way to the entrance of the Shadow Labyrinth.  My field commander, Mahfuun, will fill you in on what needs to be done.",
+  "p": "",
+  "c": "It's about time that you arrived.$B$BMehlisah said that she would be sending help days ago. And we've been fighting in here longer than that!"
+ },
+ {
+  "id": 10178,
+  "t": "Find Spy To'gun",
+  "o": "Locate Spy To'gun in the Shadow Labyrinth of Auchindoun.",
+  "d": "To'gun, the fool!  We're barely holding off the attacks here, and he goes back in to get more information and try to save the other spies!$B$BI don't know whether to love him or kill him!$B$BThe Shadow Council must have used magic to ferret us out, because all of our spies had to get out of there in a hurry.  Most of us didn't make it.$B$BPlease, if you're brave enough to enter the Shadow Labyrinth, will you keep an eye peeled for To'gun?  It's been a while, and I fear the worst.",
+  "p": "",
+  "c": "What? Grik'tha sent you in here after me?$B$BI don't know whether to be touched or call her a fool!$B$BDo you think you could help me get out of this cage? It's a bit cramped."
+ },
+ {
+  "id": 10179,
+  "t": "The Custodian of Kirin'Var",
+  "o": "Speak with Custodian Dierworth at Kirin'Var Village in Netherstorm.",
+  "d": "When it became clear that our expedition was trapped in Outland with no way to return to Azeroth, the Kirin Tor contingent traveled to the Plains of Farahlon and built Kirin'Var village. I left the administration of the town in the hands of Custodian Dieworth, but when Kael'thas and his forces sealed me in the Violet Tower, I lost contact with the custodian.$B$BSearch for him in Kirin'Var Village and help him in any way you can, $N. I'm certain he's got his hands full in the aftermath of the attack.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10180,
+  "t": "Can't Stay Away",
+  "o": "Speak with Isfar, who can be found near the entrance to the Sethekk Halls in Auchindoun.",
+  "d": "I tried to persuade Isfar to remain here, in the safety of Shattrath, but he would have none of it. Instead, he's decided to venture out to Auchindoun again on his own.$B$BHe was lucky enough to escape the Sethekk Halls once, but if they discover him, there won't be a second time.$B$BI admire his desire to free his sister, but he's not going to be able to do it without help.$B$BFind Isfar and have a word with him, $N. If you can't persuade him to come back, perhaps you could help him rescue Lakka?",
+  "p": "",
+  "c": "I should've suspected he would send you after me. He tried to talk me out of returning to the Sethekk Halls, but I couldn't live with myself if I allowed Lakka to die in there."
+ },
+ {
+  "id": 10182,
+  "t": "Battle-Mage Dathric",
+  "o": "Locate Battle-Mage Dathric's quarters in Wizard's Row and return the blade to his weapon rack. Then, speak with Custodian Dieworth at Kirin'Var Village.",
+  "d": "The sword is of exceptional quality, finely crafted and perfectly balanced for a battle-mage. The seal of the Kirin Tor and the name \"Dathric\" are engraved into the weapon's pommel.$B$BTurning the weapon over in your hands, you notice a sense of wrongness radiating from the metal, as if the item is torn between two worlds. Could this be the item anchoring Battle-Mage Dathric's spirit to this world?$B$BPerhaps returning it to its proper place can break the bond, freeing Dathric's spirit to rest at last.",
+  "p": "What have you found, $N?",
+  "c": "You've done well, $N. I can no longer sense any restlessness in Dathric's spirit. I would give much for the opportunity to speak to him one more time, but it is enough that he is finally at rest."
+ },
+ {
+  "id": 10183,
+  "t": "Off To Area 52",
+  "o": "Deliver the Netherologist's Notes to Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "I'm out here studying the nether - the ethereal currents and all that.  This is an ideal spot away from the lights and hubbub of town.  Isn't this bridge great?  If I could just keep this junk working.$B$BHey, you know, if you're looking for work there's plenty at Area 52!  It's just up the path and take a right at the fork in the road.$B$BWhy don't you deliver my latest research notes to Rocket-Chief Fuselage?  I'm sure that he'd have plenty for you to do, what with the X-52 rocket ship, and all!",
+  "p": "Busy, busy.  No time to waste!  There's a rocket ship to be built!$B$BWhat do you want?",
+  "c": "Oh, Coppernickels finally decided to report his findings, did he?  Lazy scientists!$B$BWhat's this?$B$B<The chief riffles through the notations a few times, clearly with a look of disbelief.>$B$BHe says here that the violent nether-energies flowing through the Netherstorm are going to rip everything to shreds in only a few months.$B$BThat's inconvenient - now we'll have to move up the time-table on building the rocket ship!"
+ },
+ {
+  "id": 10184,
+  "t": "Malevolent Remnants",
+  "o": "Custodian Dieworth at Kirin'Var Village wants you to defeat 20 Severed Spirits in Kirin'Var's Town Square.",
+  "d": "Most of the spirits in the village are little more than pale remnants of Kirin Tor mages. They retain no knowledge of their former selves and wander the ruins in blind anger.$B$BIt wasn't always like this, though. In the immediate aftermath of the attack, the spirits were restless, but not spiteful. With the passage of time they have only grown more aggressive. I dare not venture into the southern part of the village, for they will not spare even me. Quiet them and let us hope it will purge their anger.",
+  "p": "It pains me to know there is so little to be done for our comrades.",
+  "c": "It is not what they deserved, but it is the best we can do."
+ },
+ {
+  "id": 10185,
+  "t": "A Fate Worse Than Death",
+  "o": "Kill 10 Mageslayers and 10 Mana Seekers and return to Custodian Dieworth at Kirin'Var Village.",
+  "d": "After the blood elves leveled Kirin'Var Village, they started the construction of a large building to the northwest. Without the expertise of the archmage, we can't say for certain what's going on there.$B$BOne thing is clear, though. The blood elf activities have unleashed a tide of ravenous mana elementals on the village. They seem drawn to the ruins of Wizard Row, wreaking further destruction. We cannot permit this to continue.",
+  "p": "Have you managed to clear out some of the mana creatures from the village ruins?",
+  "c": "<The custodian looks dismayed.>$B$BI can already see the next wave coming over the horizon. Culling them will work for the time being, but more permanent measures are needed."
+ },
+ {
+  "id": 10186,
+  "t": "You're Hired!",
+  "o": "Collect 10 Etherlithium Matrix Crystals and return them to Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "Let me be the first to welcome you aboard, Junior Technician 3rd Grade $N!$B$BWe're building my masterpiece out here - the X-52 Nether-Rocket!$B$BBut first we need to get all of the parts and fuel for it.  That's where you come in.$B$BTo start, I need crystals - LOTS of crystals - for the rocket's Etherlithium Engine Matrix.  The draenei had crystals coming out of their ears!$B$BSo head north to the Ruins of Enkaat and get them for me!  Nevermind all of the draenei ghosts.",
+  "p": "Does it look like the X-52 Nether-Rocket is ready for liftoff?  Am I cruising the Twisting Nether in the comfort of my command chair?  Exploiting strange new worlds?  Seeking out new technology and business opportunities?  Boldly going where no goblin has gone before?$B$BNo!$B$BSo, I hope you have those crystals that I sent you after.",
+  "c": "Gah!  Those look rough.  Maybe we can use them in the tertiary engine manifold chamber?$B$BStill, a good job Junior Technician 3rd Grade!  You'll make 2nd Grade in no time."
+ },
+ {
+  "id": 10187,
+  "t": "A Message for the Archmage",
+  "o": "Speak to Archmage Vargoth at the top of the Violet Tower in Netherstorm.",
+  "d": "Although things are grim here, it heartened us quite a bit to hear from you that the archmage has not forgotten the village's plight.$B$B<The custodian glances up at the tower.>$B$BIt's ridiculous, isn't it? Sometimes it seems all that separates us is a wall of mere stone. The wall of magic is easy enough to forget.$B$BIf you would be so kind, ascend the tower and let Archmage Vargoth know that we are making progress with the village and will soon have a plan to ward off the mana creatures.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10188,
+  "t": "The Sigil of Krasus",
+  "o": "Retrieve the Sigil of Krasus from Spellbinder Maryana at Manaforge Coruu, northwest of the Violet Tower.",
+  "d": "Before we departed Azeroth all those years ago, the Kirin Tor entrusted our expedition with a powerful artifact, the Sigil of Krasus. It was a great boon to us in our battle against the orcs and it could play a key role in helping me break the enchantment that imprisons me.$B$BHowever, when Kael'thas divested me of my possessions, he gave the sigil to Spellbinder Maryana, who remained behind with the garrison. If he truly realized what he had in his possession, he wouldn't have given it away so easily.",
+  "p": "If I am to be free of the tower's curse, I must have the sigil.",
+  "c": "Ah, it is as magnificent as I remembered. Can you not feel the power radiating from it?$B$BOf course, there is much more to be done, but you have my deepest thanks for restoring the sigil to me."
+ },
+ {
+  "id": 10189,
+  "t": "Manaforge B'naar",
+  "o": "Spymaster Thalodien at Area 52 wants you to go to the outskirts of Manaforge B'naar and retrieve the B'naar Personnel Roster from Captain Arathyn.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "You may have noticed one of Kael's manaforges on your way here.  You know, the large purple buildings sucking energy from the sky?$B$BWe were sent here by the Sha'tar to investigate them.  You can help our information gathering efforts by obtaining a personnel roster.  Giving us an idea of who's there and what they do will prove to be invaluable information.$B$BWe believe Captain Arathyn, leading a ballista team just outside of Manaforge B'naar, is in possession of one such roster.  Obtain it for us.",
+  "p": "Did you obtain the items I asked of you, $N?",
+  "c": "Excellent! With this roster we can make more educated decisions when targeting Kael's followers at the manaforges.$B$BIt's too bad, I was beginning to take a liking to killing his lackeys indiscriminately."
+ },
+ {
+  "id": 10190,
+  "t": "Recharging the Batteries",
+  "o": "Use the Battery Recharging Blaster on enough Phase Hunters to get the Battery Recharge Level to 10.  Then return it to Bot-Specialist Alley at the Ruins of Enkaat in the Netherstorm.",
+  "d": "I have the very important task of collecting the machinery inside these ruins, but I'm having a problem keeping all of my bots charged up.$B$BThe phase hunters - those wyrm-looking things - have lots of energy!  You can find them all over the edges of this island, floating in from the nether.$B$BFill the battery on this recharging blaster by using it on a phase hunter when they're very weak, and then finish it off to soak up the last of its energy.",
+  "p": "Have you recharged the battery in that blaster yet?",
+  "c": "Hey, watch where you're pointing that thing! You've got it set to 'Kill'!!!$B$BIt looks like you've recharged the battery, and then some. This'll help immensely to keep these guys going."
+ },
+ {
+  "id": 10191,
+  "t": "Mark V is Alive!",
+  "o": "Escort the Maxx A. Million Mk. V through the Ruins of Enkaat and back out to safety.  Then speak with Bot-Specialist Alley just outside the Ruins of Enkaat in the Netherstorm.",
+  "d": "Greetings, $r.  I am charged up and fully functional.$B$BThere are fragile draenei machines in these ruins, which I must retrieve.  I am equipped with delicate servos in my wrist actuators, and the latest in combustion-pneumatic bump soakers.  Handling them with care will not be an issue.$B$BHowever, the ghosts that haunt these ruins will likely attack, so I will need you and your friends along for protection.",
+  "p": "Back so soon?$B$BIs everything okay with the Maxx A. Million Mk. V?!",
+  "c": "You did it! You did it! I could just kiss you!$B$BOh, darn... the Maxx A. Million Mk. V is out of juice again. Ah well, he had enough to get the job done, and that's what counts!$B$BRocket-Chief Fuselage will be pleased to get these draenei machines hooked up inside the X-52 Nether-Rocket! That means a promotion for me! I'm so happy, I just have to give you a reward!$B$BHere, take your pick from one of these."
+ },
+ {
+  "id": 10192,
+  "t": "Krasus's Compendium",
+  "o": "Reclaim Krasus's Compendium - Chapter 1, Krasus's Compendium - Chapter 2, and Krasus's Compendium - Chapter 3 from Kirin'Var Village's Town Square. ",
+  "d": "The Kirin Tor sent one other of Krasus's possessions with our expedition. It was his spellbook, called Krasus's Compendium. Containing all the spells he mastered, it lent us a much-needed advantage in the war.$B$BBefore Kael'thas and his forces laid siege to Kirin'Var, the compendium had been stolen from me by a rebellious apprentice intent on studying necromancy. The apprentice and his followers divided and studied the text in secret, locking themselves inside their houses in the southern part of town.",
+  "p": "Have you brought the book?",
+  "c": "<Archmage Vargoth's image seems to inspect the compendium.>$B$BIt's a little worse for the wear, but considering the treatment it's been through, it's a miracle all of it survived. Safeguard it, $N. Without it, we stand little chance of being able to break the tower's ward."
+ },
+ {
+  "id": 10193,
+  "t": "High Value Targets",
+  "o": "Spymaster Thalodien at Area 52 wants you to go to Manaforge B'naar and slay 2 Sunfury Warp-Masters, 6 Sunfury Warp-Engineers and 8 Sunfury Geologists.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "Based on the roster information, we know that the brains of the manaforge operations are the warp-masters and warp-engineers.  It is they who oversee the retrieval of a so called \"warp-energy\" by the manaforge and its delivery to a remote destination via a system of underground pipes.$B$BThe only other specialists in the area are geologists.  Everyone else is either part of the military or a magister crony; both easily replaced.$B$BGet in there and kill Kael's specialists; that's what'll hurt him the most.",
+  "p": "How goes it, $N? Got any news? What have you done for me lately?",
+  "c": "You're one reliable fellow, $N. If there's one thing I like more than killing Kael's lapdogs, it is having someone else do it for me.$B$BLess blood on my clothes that way."
+ },
+ {
+  "id": 10194,
+  "t": "Stealth Flight",
+  "o": "Speak to Veronia outside Area 52 and fly to Manaforge Coruu.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "While you were gone, my men uncovered another one of these manaforges.  It is east of here and is known as Manaforge Coruu.$B$BTwo of my best spies have arranged a secret landing spot outside of the manaforge.  You are to help them infiltrate Kael's forces and obtain whatever information you can.$B$BSpeak to Veronia just outside the city walls; she's arranged for a windrider that will take you to Manaforge Coruu.  Once there, speak to Caledis Brightdawn; he will brief you on your mission.",
+  "p": "",
+  "c": "Arranging for your flight wasn't cheap. Let's hope you have what it takes to get the job done."
+ },
+ {
+  "id": 10195,
+  "t": "Mercenary See, Mercenary Do",
+  "o": "Bring 30 Arakkoa Feathers to Ros'eleth at the Allerian Stronghold.",
+  "d": "Ever since you brought that first batch of feathers and I completed Bertelm's hat, all the other mercenaries have been clamoring for their own, including Thander. It told them I'd get right on it, but I'm going to need a steady supply of arakkoa feathers for the project.$B$BI'll gladly accept any you happen to gather in your adventures in the forest.",
+  "p": "",
+  "c": "These are great! Don't be surprised if you see a bunch of men walking around in feathered hats very soon!"
+ },
+ {
+  "id": 10196,
+  "t": "More Arakkoa Feathers",
+  "o": "Bring 30 Arakkoa Feathers to Malukaz at Stonebreaker Hold.",
+  "d": "I've had some success drawing the arakkoa spirits closer to me, but they are still very shy. Perhaps if I improve my disguise, they will be more willing to approach me in the trance.$B$BTo do that, though, I'll need more feathers like the ones you've already brought me. If you get any more of the feathers, I'd be very happy to take them off your hands.",
+  "p": "",
+  "c": "Thank you, $N. I'll put them to good use."
+ },
+ {
+  "id": 10197,
+  "t": "A Convincing Disguise",
+  "o": "Obtain a set of Sunfury Arcanist Robes, one pair of Sunfury Researcher Gloves and a Sunfury Guardsman Medallion and bring them to Caledis Brightdawn at Manaforge Coruu in Netherstorm.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "Infiltrating the ranks of Kael's army will not be an easy task.  With my knowledge of illusionary magic I could pass you off as one of Kael's followers, but there are certain details in their uniforms I could not replicate.$B$BBring me a set of their robes, a pair of their gloves and a Sunfury guardsman medallion.  This will make the results of my magic much more convincing.",
+  "p": "Have you obtained the outfit pieces I asked of you?",
+  "c": "Excellent! When I'm through with you, you will be able to slip among the Sunfury ranks unnoticed."
+ },
+ {
+  "id": 10198,
+  "t": "Information Gathering",
+  "o": "Use the Sunfury Disguise, go into Manaforge Coruu and listen to the conversation between Commander Dawnforge and Arcanist Ardonis.  Report back to Caledis Brightdawn at Manaforge Coruu after completing this task.$B$BCompleting tasks for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "I've prepared a uniform with the pieces you obtained.  It is magically enhanced to complete the illusion.$B$BWe spotted Commander Dawnforge going in to meet Arcanist Ardonis a few minutes ago.  He had a full retinue of guards with him, so whatever they're discussing is bound to be incredibly important; see if you can catch any of it.$B$BOh, I almost forgot.  You'll want to stay away from the arcane golems patrolling the manaforge.  They will see right through the illusion.",
+  "p": "How goes the eavesdropping, $N? You'd best hurry. I'm getting antsy here.",
+  "c": "Manaforge Duro is in trouble? I'm sure Thalodien will love to hear the news. Let's wrap up the job here first."
+ },
+ {
+  "id": 10199,
+  "t": "That Little Extra Kick",
+  "o": "Obtain 5 Nether Ray Stingers for Boots at Area 52 in the Netherstorm.",
+  "d": "So, I'm just missing the one ingredient that'll give my concoction that little extra kick that it needs.$B$BThe sting of the nether rays, roaming around near the shaleskin flayers, delivers quite a punch.  Bring me some of their stingers and I'll extract the venom right out of them!$B$BI'm certain the results will be explosive!",
+  "p": "If I can drain the venom from enough of those nether ray stingers, I think we might just have the most explosive fuel ever devised!",
+  "c": "Wow! Alright, now we're talking!$B$BLet me just take those little beauties and squeeze the badness right out of them. This should make a rocket fuel brew that'll blow everyone's socks off!$B$BHere, just let me mix the shale oil and this stinger venom together, and we'll see what happens...."
+ },
+ {
+  "id": 10200,
+  "t": "Return to Thalodien",
+  "o": "Return to Spymaster Thalodien at Area 52 in Netherstorm.",
+  "d": "It would be best if this information got back to Thalodien as soon as possible.  I'll stay here and cover our tracks.$B$BIt wouldn't do us much good to have Kael'thas find out what we were snooping around here.  Secret information is always better if your enemy doesn't know you have it.",
+  "p": "",
+  "c": "You do not cease to amaze me, $N. That was quite the feat of stealth you pulled off at Manaforge Coruu."
+ },
+ {
+  "id": 10201,
+  "t": "And Now, the Moment of Truth",
+  "o": "Find Grek and ask him to try it on his weapon. Once he's tried out the oil, return to Rakoria with the results.",
+  "d": "The oil is finally ready for its first test. It seems heavy enough to serve as a high quality weapon oil.$B$BThe only way to find out is to have a professional try it out. See Grek over there by the wanted posters? Sure, he's no poet, but the orc knows his way around a weapon!$B$BTake a sample of the oil to him and ask him to use it on his weapon. After he's had a chance to test it out, let me know what he thinks of it.",
+  "p": "Well, do you have the test results?",
+  "c": "<You tell Rakoria the results of the test and she throws her head back, laughing.>"
+ },
+ {
+  "id": 10202,
+  "t": "A Defector",
+  "o": "Go to Manaforge Ara and speak to Magister Theledorn.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "We've recently been contacted by a Sunfury magister who wishes to join our ranks and swears he has information we're in need of.  We've checked our informants to make sure he's not a double agent and he checks out.$B$BHe's stationed in Manaforge Ara which makes communication difficult.  Talk to him and see what he knows.  If he's half as useful as he claims to be, we'll be able to put him to good use.",
+  "p": "",
+  "c": "It's about time you showed up. I was beginning to wonder if the Scryers were interested at all."
+ },
+ {
+  "id": 10203,
+  "t": "Invaluable Asset Zapping",
+  "o": "Use the Ultra Deconsolodation Zapper to beam the Hyper Rotational Dig-A-Matic, Servo-Pneumatic Dredging Claw, Multi-Spectrum Terrain Analyzer, and the Big Wagon Full of Explosives back to Area 52.  Then report to Lead Sapper Blastfizzle at the eastern end of the fissure that runs through Area 52 in the Netherstorm.",
+  "d": "See the fissure running through Area 52?  We did that!  <grin>$B$BIt's yielding up all sorts of goodies for the X-52 Nether-Rocket, but we're running short on equipment.$B$BWe had an operation at the Arklon Ruins to the southeast until the Burning Legion moved in.  I need you to take this Ultra Deconsolodation Zapper to the ruins.  Use it to beam our gear back to Lead Sapper Blastfizzle down in the fissure.$B$BJunior Technician 3rd Grade $N, this is your chance for that promotion.  Don't blow it!",
+  "p": "Isn't this place great? And everyday yields something new and exotic!$B$BWhat a stroke of luck that we nearly destroyed the town digging down here.",
+  "c": "You must be the one that zapped all of that sapping equipment back to us here from the ruins! Hooray for you!$B$BI've already reallocated the equipment out to our other locations. Now we'll be able to expedite our fissure operations on this whole island by an order of magnitude! The nether-rocket will be completed in no time!$B$BHmmm, that's odd. Wait a minute, did you say that you sent four things back to us? I only got three..."
+ },
+ {
+  "id": 10204,
+  "t": "Bloodgem Crystals",
+  "o": "Magistrix Larynna wants you to go to Manaforge B'naar and obtain a Bloodgem Shard from a Sunfury Magister.  Use this shard near the larger Bloodgem crystals and return to her at Area 52.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "Kael's magisters have refined their usage of mana crystals to the point where they can siphon large amounts of energy in a matter of seconds.$B$BThey do this by attuning smaller bloodgem crystal shards to larger, fully charged ones.$B$BGo to Manaforge B'naar and obtain one of these shards from a Sunfury magister and use it to siphon energy from one of the larger crystals.$B$BReturn to me so that I may study the effects of the aura.  Do not worry; any side effects should be temporary.",
+  "p": "Did you investigate the bloodgems used by the Sunfury magisters, $N?",
+  "c": "Hmmm... just as I suspected.$B$BExposure to this level of raw energy greatly magnifies our innate addiction to magic.$B$BI'm not surprised Kael gets away with what he does; all his subordinates are basically drunk on this."
+ },
+ {
+  "id": 10205,
+  "t": "Warp-Raider Nesaad",
+  "o": "Kill Warp-Raider Nesaad and then return to Nether-Stalker Khay'ji at Area 52 in the Netherstorm.",
+  "d": "Warp-Raider Nesaad must be dealt with!  I have no idea how he survived my attack, but he cannot be allowed to continue his operation out there.$B$BGo back and take out Nesaad.  He keeps a small ethereal camp near the southwestern corner of the Heap.$B$BDon't fail like I did, $c.",
+  "p": "It's over then? Warp-Raider Nesaad is dead?",
+  "c": "It's a relief to hear that scum is finally dealt with. You do good work, $N... may I be so forward as to call you by your name?$B$BIf you're willing, I have another task that needs doing. One that is very important and someone of your obvious skill should be able to handle with ease."
+ },
+ {
+  "id": 10206,
+  "t": "Pick Your Part",
+  "o": "Collect 10 pieces of Ethereal Technology and return them to Papa Wheeler at Area 52 in the Netherstorm.",
+  "d": "Those ethereal clowns are as opportunistic as us, I'll give them that.  But no one, and I mean NO ONE, moves in on a B.O.O.M. claim!$B$BThe Heap to the south is ours!$B$BIf we're to finish the X-52 Nether-Rocket, we're going to need all of the new tech that we can get our hands on.  And since the ethereals are stealing from us, I think it's only fair that we repay them in kind.$B$BWhy don't you head down there and see if you can acquire some of their technology out from under their noses!",
+  "p": "Back with their tech so soon?  You better not just be pulling my leg here, $C.$B$BThe success of the X-52 project out here depends upon you getting us that stuff a.s.a.p.!",
+  "c": "Hehe, ethereal suckers!$B$BThanks for getting us these parts, $c.  I bet we can just hook these babies right up inside the rocket.  I wonder what they do?  Should be fun finding out!$B$BHmm, let me see if I can dig up some pocket change to throw your way."
+ },
+ {
+  "id": 10207,
+  "t": "Forward Base: Reaver's Fall REUSE",
+  "o": "Report to Forward Commander To'arch at Reaver's Fall.",
+  "d": "Your battle prowess has been noted by high command, $c. They want to send you to the front lines to meet up with Maimfist's crew. They're radicals, devoted to the complete extermination of the Burning Legion, so you may fit right in...$B$BHead east about 200 paces and veer south at the jutting mass of land. You'll see Reaver's Fall where an old farm used to stand. Once there, you are to report to Foward Commander To'arch.$B$BNow move out!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10208,
+  "t": "Disrupt Their Reinforcements",
+  "o": "Defeat enemies around Portal Xilus and Portal Kruul to gather Demonic Rune Stones.$B$BUse To'arch's Primer within Portal Xilus and Portal Kruul.$B$BReturn to To'arch with To'arch's Primers at Reaver's Fall in Hellfire Peninsula.",
+  "d": "Directly east of here is the Legion Front.  Spaced across the front are infernal portals and gateways, used to bring reinforcements to Hellfire Peninsula and throughout Outland. We're going to destroy those portals!$B$BTake these primers.  Designed in Area 52, they use the demons' own power as an explosive!  Defeat Legion forces around Portals Xilus and Kruul to gather demonic rune stones, use the primer to detonate four stones inside the portals, and watch!  Return to me when your mission is complete.",
+  "p": "The Legion won't be prepared for the surprise you have for them, eh $N?",
+  "c": "Well done! I could almost feel the tremors of the explosions from here!$B$BNow, we have one more bombing mission for you..."
+ },
+ {
+  "id": 10209,
+  "t": "Summoner Kanthin's Prize",
+  "o": "Defeat Summoner Kanthin at Manaforge Duro, on the island to the north of Sunfury Hold, and reclaim the Stone of Glacius from him.",
+  "d": "The next thing we must do is reclaim my familiar, Glacius, from the blood elf summoner who holds it captive. Summoner Kanthin was one of the most senior magisters in the force Kael'thas sent to decimate Kirin'Var. It's only natural that he would claim my familiar as a kind of trophy.$B$BI'm certain that Kanthin, fool that he is, has tried to compel Glacius to serve him. My scrying has revealed that Kanthin is now stationed at 'Manaforge Duro,' if that terminology has any meaning for you.",
+  "p": "Have you secured the Stone of Glacius?",
+  "c": "<You're not sure whether it's just distortion. or the archmage really is smiling.>$B$BWith the last of my possessions restored, I have everything I need to break through Kael'thas's magic. I'll begin working the spell right away."
+ },
+ {
+  "id": 10210,
+  "t": "A'dal",
+  "o": "Speak to A'dal, the leader of the Sha'tar, in the center of the Terrace of Light.",
+  "d": "Welcome to Shattrath City, $c.  This might be the one place in all of Outland where you'll find any semblance of safety.$B$BA group of naaru known as the Sha'tar drove the demons away from here.$B$BIf you've never met a naaru, you ought to see A'dal inside the Terrace of Light.  The leader of the Sha'tar is an awe-inspiring sight if I ever saw one.  Sure is a change of pace from anything else in this bleak land.",
+  "p": "",
+  "c": "<The light that filled your senses as you approached A'dal intensifies as you address him.  Melodic chimes continue to ring within your head.>$B$B<You are safe here.>"
+ },
+ {
+  "id": 10211,
+  "t": "City of Light",
+  "o": "Follow Khadgar's servant and listen to its story.  Return to Khadgar after completing this task.",
+  "d": "Do not burden A'dal with petty inquisitions, $c.  That just might be the most powerful being you ever come face to face with.$B$BYou do not look familiar.  I suppose you want to learn about the city?$B$BYou'll have to excuse me if I don't give you a tour myself, but I'm a bit busy discussing strategy with A'dal.  Perhaps you'll find a summoned servant acceptable in my stead?  Excellent!",
+  "p": "The stories of men are ephemeral, $N. The stories of cities last well into the years.",
+  "c": "I hope you learned a thing or two about Shattrath, $N.  It might take some time for things to sink in."
+ },
+ {
+  "id": 10212,
+  "t": "Hero of the Mag'har",
+  "o": "Return to Greatmother Geyah at Garadar in Nagrand.$B",
+  "d": "I must set things in order before I leave. Return to the Greatmother and tell her that her grandson comes. ",
+  "p": "",
+  "c": "You are truly the hero of the Mag'har, $N. If not for you, we would have surely been overrun by the ogres and Broken.$B$BWe are a poor people but we do have some artifacts of power. Please, I insist that you take from our coffer."
+ },
+ {
+  "id": 10213,
+  "t": "Investigate the Crash",
+  "o": "Search for crash survivors.  ",
+  "d": "When I was wounded in the wastes I saw a goblin zeppelin crash.  It went down to the northwest, beyond the Expedition Armory. $B$BThe zeppelin was on fire.  Shrieking, burning goblins were falling like bombs from the sky.  Of course I was in a lot of pain and I had lost a lot of blood.  I may have imagined the whole thing.$B$BIf you can find any survivors, we can offer them sanctuary here at Spinebreaker Post.  ",
+  "p": "",
+  "c": "We were shot down by the Burning Legion, even though we waved a flag of truce.  Who knew the Burning Legion was so mean? $B$BWe cannot come with you to Spinebreaker Post.  We need to repair our zeppelin and be on our way.  "
+ },
+ {
+  "id": 10214,
+  "t": "When This Mine's a-Rockin'",
+  "o": "Kill 15 Gan'arg Sappers and return to Foreman Razelcraz.",
+  "d": "The mine's been overrun by a plague of gan'arg misfits, and on top of that, the peons have decided that this is a fine time for a nap! I don't know how they can sleep through all the disurbances coming from the mine, but that's the least of my problems.$B$BIf we don't get rid of those gan'arg pests soon, Thrallmar's supply of ore and other minerals will be cut off. I've already asked Watch Commander Krunk for help, but he says he can't spare the men with the town under constant attack. Will you help?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10216,
+  "t": "Safety Is Job One",
+  "o": "Artificer Morphalius wants you to kill 10 Ethereal Crypt Raiders, 5 Ethereal Sorcerers, 5 Nexus Stalkers and 5 Ethereal Spellbinders.$B$BOnce that's done, find the Ethereal Transporter in the chamber before Shaffar's and activate it.",
+  "d": "Shaffar's ethereals have completely blocked us out of the Mana-Tombs. Thankfully, I've got a plan. While we can't go in through the front door, there are sure to be several transporters inside.$B$BI want you to clear the way for my crew first and then I want you to activate one of their transporters to teleport us inside.$B$BActivate the teleporter in the chamber right before Shaffar's chambers when the way has been cleared. Don't worry, I'll make it worth your while...",
+  "p": "This device has over a dozen buttons, none of which look familiar to you.",
+  "c": "<You close your eyes and press a button.>"
+ },
+ {
+  "id": 10217,
+  "t": "Fossil Fuel",
+  "o": "Test",
+  "d": "My Shredder is out of fuel!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10218,
+  "t": "Someone Else's Hard Work Pays Off",
+  "o": "Escort Cryo-Engineer Sha'heen safely through the Mana-Tombs so that he can gather the ether held inside Shaffar's ether collectors.$B$BReport to Nexus-Prince Haramad located outside the Mana-Tombs at the Consortium encampment should you succeed.",
+  "d": "Who were you expecting!? That idiot Morphalius was 'de-prioritized.' Now I'm here to clean up his mess. All I need from you is to watch my back as I go through Shaffar's ether gatherers and suck them dry of all that they have collected. If I successfully complete my mission, Haramad himself will reward you!$B$BWhat do you say? Escort me through the Mana-Tombs and then collect some incredible treasure? You already did most of the work anyway! Nothing's alive back behind us, right?",
+  "p": "Hello, little flesh beast.",
+  "c": "Seeing as how this was Morphalius's idea, I decided to give him his old job back. Well done little flesh beast. Well done, indeed!$B$BRemember, if you're ever looking for work and happen to be in Netherstorm, come find me at the Stormspire.\n"
+ },
+ {
+  "id": 10220,
+  "t": "Make Them Listen",
+  "o": "Mordiba wants you to defeat 12 Unyielding Footmen, 8 Unyielding Knights, and 6 Unyielding Sorcerers at the Expedition Armory to the west of Spinebreaker Post.",
+  "d": "I was sent here to make contact with the Unyielding spirits.  These once proud Alliance soldiers were defeated long ago, and now their cursed spirits haunt the ruins to the west.  $B$BIf they would only join us we would gain a powerful ally.  Imagine, a legion of undying warriors to use against our enemies.  But these undead are mad with hatred and will not listen to me.  $B$BPerhaps they can be forced to join us.  ",
+  "p": "Have you taught the Unyielding the consequences of defying the Forsaken?  ",
+  "c": "The Unyielding have felt the strength of the Horde.  No doubt they will soon be in the mood to listen to my proposed alliance."
+ },
+ {
+  "id": 10221,
+  "t": "Dr. Boom!",
+  "o": "Kill Dr. Boom and return with the good news to Lead Sapper Blastfizzle at Area 52 in the Netherstorm.",
+  "d": "$N, my former protege, Sparky Uberthruster, wouldn't wear his helmet while down here and one day transformed into the infamous Dr. Boom!$B$BAnd he stole off to the northeast with most of our sapping equipment!  He and his Boom Bots have been a menace to Area 52 ever since.$B$BI need you to go to his Camp of Boom just outside of town and put an end to him!  Use these Boom's Doom bombs to take him out.$B$BAnd make sure not to get too close to him or his Boom Bots!",
+  "p": "Have you saved us from the depredations of Dr. Boom? I promise this time there won't be any exploding wagons, though that was a lot of fun!$B$BWe really should do that more often.",
+  "c": "I'll always miss Sparky. <sniff> But we'll all sleep better now knowing that as Dr. Boom he is no longer around to terrorize us!$B$BJust let this be a lesson to you. Don't come down here without a nether helmet!$B$BNow, how can I repay you?"
+ },
+ {
+  "id": 10222,
+  "t": "The Sunfury Garrison",
+  "o": "Custodian Dieworth at Kirin'Var Village wants you to kill 10 Sunfury Archers.",
+  "d": "After Prince Kael'thas's forces destroyed the village and imprisoned the archmage in the Violet Tower, they withdrew to Sunfury Hold to the northeast. The very men who destroyed our village and slew our fellows toast their 'amazing victory' while we are helpless to avenge the fallen.$B$BWe must not allow these crimes to go unanswered! Be the instrument of our vengeance, $N. Go to Sunfury Hold and claim the lives of those responsible for this crime.",
+  "p": "Is it done, $N? Have you avenged the fallen of Kirin'Var Village?",
+  "c": "What you've done this day can never bring back the fallen, but perhaps it can help soothe their spirits. Although, truth be told, no amount of blood can quench my anger over the actions of Kael'thas."
+ },
+ {
+  "id": 10223,
+  "t": "Down With Daellis",
+  "o": "Custodian Dieworth at Kirin'Var Village wants you to kill Master Daellis Dawnstrike.",
+  "d": "I'll never forget the blood elf who led the attack. He wore a tabard with a device I've never seen before, over top of crimson armor.$B$BHe was ferocious and merciless, leading from the front where most other blood elf officers would never be seen. He was responsible for the deaths of many Kirin Tor mages that day, but he didn't linger long at Sunfury Hold. Kael'thas has ordered him to Manaforge Duro to aid in their attempt to control the area. Find him, $N, and silence his bow for good.",
+  "p": "Have you finished the task, $N?",
+  "c": "<You're not certain, but it seems as though Custodian Dieworth is on the verge of tears.>$B$BAt last, it is through. If I could will myself out of existence, I would, but the truth is I don't know how to let go. For the ones in the village, it is difficult but straightforward. I suppose this is the price we pay for retaining such strong ties to this place."
+ },
+ {
+  "id": 10224,
+  "t": "Essence for the Engines",
+  "o": "Collect 7 Mana Wraith Essences and return them to Chief Engineer Trep at Area 52 in the Netherstorm.",
+  "d": "As the X-52's chief of engineering, I have to see to it that the nether-rocket's main engines are in tip-top shape.$B$BUnfortunately, I haven't built them yet.$B$B$C, I'm in dire straits here!  I have almost all of the parts.  All that I'm missing is the engine core.$B$BLuckily for us, I think we can make use of the essence from the local mana wraiths to jump-start the engines.$B$BThey can be found near most of the glowing trenches in the northern part of the island.  Except for here in Area 52, of course.",
+  "p": "You have all of those essences yet?",
+  "c": "Wow, that's a lot of essence!$B$BOk, let's see what happens when I mix it with the etherlithium matrix crystals."
+ },
+ {
+  "id": 10225,
+  "t": "Report to Engineering",
+  "o": "Deliver the Etherlithium Matrix Crystals to Chief Engineer Trep at Area 52 in the Netherstorm.",
+  "d": "$N!  I need you to take all of these etherlithium crystals over to Chief Engineer Trep, my, uh, chief of engineering.$B$BHe should know what to do with them.  And if he doesn't, you see to it that he finds out!",
+  "p": "Um, hi. I'm a little busy here. What's that you have there?",
+  "c": "Ooh, etherlithium matrix crystals. Yeah, those sound important!$B$BLet's just put them over here and I'll get to figuring them out in a moment."
+ },
+ {
+  "id": 10226,
+  "t": "Elemental Power Extraction",
+  "o": "Extract 5 Elemental Power for Chief Engineer Trep at Area 52 in the Netherstorm.",
+  "d": "Darn it, that didn't do it!$B$BOk, I've got another idea!  I had Xyrol whip up an elemental power extractor.  I'm not certain exactly what this power will do, but I know that I can use it.$B$BThe sundered rumblers and warp aberrations on the ledge of the Crumbling Wastes to the south have just what I need for the engines!$B$BThe extractor will change the form of their power into something solid that you'll be able to gather up after you've defeated them.",
+  "p": "You have the power from those elementals yet? Oh, don't hurry or anything. It's just my life and career on the line.",
+  "c": "That's more like it! Alright, now I think we're in business.$B$BJust let me dump this stuff into the thing"
+ },
+ {
+  "id": 10227,
+  "t": "I See Dead Draenei",
+  "o": "Speak to Ramdor the Mad, standing on the bone pile outside of the Auchenai Crypts.",
+  "d": "I see dead draenei. They're all around us.$B$BBah, nobody believes me because I'm a child. Not even my own mommy believes me.$B$B<Ha'lei points to Ramdor.>$B$BHe believes me, though... He sees them too. Boy does he get angry about it!$B$BIt's kind of funny. I see ghosts and people just smile and pat me on the head, trying to placate me. Ramdor sees ghosts and people label him as crazy. I sure hope I never grow up!$B$BYou should probably talk to Ramdor before you go inside. He was once a death priest.",
+  "p": "",
+  "c": "The child is correct. I was once a \"death priest.\"$B$B<Ramdor winces.>$B$BSuch an unsavory title.$B$BThrough that corridor lies the Auchenai Crypts. Inside you will find the remnants of my priory. They are all mad now, of course. Insane to the last! I suppose I stood out, being the last one among them with any common sense. Of course, I was excommunicated for my beliefs.$B$BWhat are my beliefs, you say?"
+ },
+ {
+  "id": 10228,
+  "t": "Ezekiel",
+  "o": "Find and speak with Ezekiel of Shattrath in Shattrath City.",
+  "d": "I believe that the dead, which we have been caring for these last 500 odd years, should be left alone. Maladaar has other plans. He has retreated to the Crypt of Remembrance to start his experiments... Necromancy.$B$BI hope you weren't thinking about going in there... Not before helping me out so that these damned spirits will finally leave me alone. I know where they keep their treasures, $r. Got your attention, eh?$B$BBring me the book of the dead, held by the Aldor, Ezekiel of Shattrath.$B",
+  "p": "",
+  "c": "Book of the dead? Never heard of it... What's this about anyway? Who sent you?"
+ },
+ {
+  "id": 10229,
+  "t": "Decipher the Tome",
+  "o": "Take the Mysterious Tome to Althen the Historian in Spinebreaker Post.  ",
+  "d": "This tome appears to be some sort of history written in a secret Alliance cipher.  Althen, the historian in Spinebreaker Post, has studied the Unyielding for some time; he may be able to crack the Alliance code and decipher the book.  ",
+  "p": "What is this?  A book carried by an Unyielding spirit?  How strange.  Let me study it.  Perhaps I can learn the history of the Unyielding.",
+  "c": "I have studied ancient history my entire un-life.  I have never seen anything like this book.  It tells the entire history of the Armory, including events that happened after its destruction.  $B$BThe Unyielding have kept their history, even after they had fallen in battle.  With this book we will be able to understand the Unyielding and convince them to join us.  "
+ },
+ {
+  "id": 10230,
+  "t": "The Battle Horn",
+  "o": "Take the Unyielding Battle Horn from Lieutenant Commander Thalvos and bring it to Althen the Historian in Spinebreaker Post.",
+  "d": "Perhaps we have taken the wrong approach to the Unyielding? $B$BThe tome tells me the Expedition Armory was destroyed by orcs and death knights long ago.  The Unyielding remain here as vengeful spirits trapped in an eternal battle against the fel orc clans.  $B$BThey think only of revenge.  We must arrange for them to defeat their most hated enemies.  Enter the Expedition Armory once again and find Lieutenant Commander Thalvos.  He carries a battle horn that can summon the Unyielding.  Bring it to me.  ",
+  "p": "We must help the Unyielding soon.  If we can convince them to join us the Horde will have gained a powerful ally.  ",
+  "c": "You have done well $N.  This ancient horn will allow us to summon the Unyielding. $B$BThat is, if they are willing.  "
+ },
+ {
+  "id": 10231,
+  "t": "What Book? I Don't See Any Book.",
+  "o": "Ezekiel said the book has been stolen. Your best bet is to find the Ruffians and see if they have any information.$B",
+  "d": "Ramdor? Hrm, let me think... Ramdor... Oh yes, the death priest. What does he want with the book? Well it doesn't matter. Yes I lied to you and no I don't have the book. Not anymore, anyway. It was stolen. Probably by one of those filthy refugees.$B$BBesides, Auchindoun is now defunct. We have no use for the book. If you find it, you can keep it.$B$BLike I said, I saw some of those ruffians snooping around the terrace last week. Start your search with them. They're probably playing dice in the slums.",
+  "p": "Whaddya want?",
+  "c": "Ok, ok! Don't hurt us. We had the book but we sold it..."
+ },
+ {
+  "id": 10232,
+  "t": "In A Scrap With The Legion",
+  "o": "Kill 5 Mo'arg Doomsmiths and 15 Gan'arg Engineers.  Then return to Papa Wheeler at Area 52 in the Netherstorm.",
+  "d": "The Burning Legion has moved in on our claim at the Scrap Field down the path and across the bridge to the east.$B$BThis could be a huge problem for us!  With the Legion at the Arklon Ruins, and now there, it's starting to look bad for us - and the rocket project - here at Area 52.$B$B$N, I need you to go out there and deal with those demons!  I'd do it, but I'm a lover, not a fighter.$B$BYep, this is going to be trouble, I can feel it!",
+  "p": "I sure hope that you're up to that tussle with the Burning Legion.$B$BThere aren't many things that I hate worse than those that renege on a deal, or <cough> gnomes, but demons are certainly one of them!",
+  "c": "Well, that's good and bad news, now isn't it? We've dealt them a blow, but with the Burning Legion running free all over the Netherstorm - and getting closer to us here - well, I don't know how it's going to go.$B$BI have a feeling that we're going to have to change gears here for a while. Hope you'll be able to help us out, $N."
+ },
+ {
+  "id": 10233,
+  "t": "Torching Sunfury Hold",
+  "o": "Using a Flaming Torch, destroy 4 Sunfury Ballistas and 4 Sunfury Tents and return to Lieutenant-Sorcerer Morran at Kirin'Var Village.",
+  "d": "Ridding Sunfury Hold of its garrison is not sufficient to keep the blood elves from reoccupying it. Kael'thas's followers are zealous and tenacious. Leaving them anything to use at Sunfury is effectively an invitation to return.$B$BNo, it must all be destroyed. See to it that their tents and artillery burn to ashes!$B$B<The ghost's fists clench.>$B$BSteal torches from the Sunfury flamekeepers to accomplish your task, $N.",
+  "p": "Smoke rises from the Sunfury Hold fortifications. Is that your handiwork?",
+  "c": "The Kirin Tor hardly relish destruction for its own sake, but we have no qualms about acting against our enemies, even in death."
+ },
+ {
+  "id": 10234,
+  "t": "One Demon's Trash...",
+  "o": "Gather 10 Fel Reaver Parts and return them to Mama Wheeler at the Midrealm Post inside Eco-Dome Midrealm in the Netherstorm.",
+  "d": "You look like a capable young $g man: woman;!  I was wondering if you could lend me a hand?$B$BTo the east is the Scrap Field, which the Burning Legion has moved into.  It's full of huge fel reaver parts.  There're also a whole bunch of smaller parts in there that they don't seem to care about.$B$BI want you to get in there and get me a lot of those smaller fel reaver parts!",
+  "p": "You have those parts yet?  With the Burning Legion moving in on each of our claims around here one at a time, we unfortunately have little time.",
+  "c": "These will have to do for now, I suppose. If only we could scare them off.$B$BHey, that gives me an idea!"
+ },
+ {
+  "id": 10235,
+  "t": "Declawing Doomclaw",
+  "o": "Obtain Doomclaw's Hand and deliver it to Mama Wheeler at the Midrealm Post inside Eco-Dome Midrealm in the Netherstorm.",
+  "d": "You know what might just discourage them?  Take out their leader!$B$BIt seems to work everywhere else from what I've heard.  And when they see a $g grizzled : tough; $c, such as yourself take out their leader... why, I bet they'll tuck tail and run for the hills!$B$BGet back in there and take out the big one they call Doomclaw.  I hear he keeps himself in the eastern part of the Scrap Field underneath the pipe.$B$BBring me his claw, too!  Maybe we can make use of it.",
+  "p": "Dealt with Doomclaw yet?",
+  "c": "He, uh... he said what? THEY'RE GONNA GO AFTER AREA 52?!$B$BOh, this is not good... not good!"
+ },
+ {
+  "id": 10236,
+  "t": "Outland Sucks!",
+  "o": "Find 6 Shredder Parts and return to Foreman Razelcraz by the mine northwest of Thrallmar.",
+  "d": "I can't believe I left Booty Bay to come to Outland.  My cousin Screed Luckheed promised me I would make a fortune, but instead he flew off in his zeppelin and left me here to try to scrape a living out of this mine.  $B$BHow am I suppose to make a living here with helboars and demons and fel orcs attacking all the time?  My shredder here was broken yesterday and the parts I need to fix it were stolen by fel orcs.  They took the parts into the fissure to the southwest and may have dropped them there.",
+  "p": "Did you find some spare parts for my shredder?  I really want to get it fixed so I can get back to mining.  I have to make a living somehow, if only so I can buy a one-way ticket back to Booty Bay.",
+  "c": "Hurray, you found some parts!  Now maybe I can get my shredder working.  If I earn enough money I might be able to get back to Booty Bay.$B$BI sure hope my cousin, Screed Luckheed, crashes that stupid zeppelin of his.  I can't believe he tricked me into coming to Outland."
+ },
+ {
+  "id": 10237,
+  "t": "Warn Area 52!",
+  "o": "Deliver the bad news to Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "$N, you have to get word back to Area 52 immediately!  Hurry!$B$BTell the rocket-chief that the Burning Legion is after us now!",
+  "p": "",
+  "c": "Heh, you're kidding, right? The Burning Legion is blaming us for all of that?$B$BBut YOU'RE the one that did it!$B$BOy, I have a headache and it's as big as this rocket. Okay, okay, this calls for a change of plans.$B$BIf the Burning Legion thinks that it's going to come here, destroy our town and ruin my dream of cruising through the Twisted Nether, they are sadly mistaken.$B$BAnd I know just the goblin to help us out."
+ },
+ {
+  "id": 10238,
+  "t": "How to Serve Goblins",
+  "o": "Rescue Manni, Moh and Jakk from the Fel Orc camps and return to Foreman Razelcraz by the mine northwest of Thrallmar.",
+  "d": "Why would fel orcs steal my shredder parts?  I hate them so much.  They just sneak into my camp here and take things all the time.  A couple of days ago they stole three of my peons!  Now the rest of my peons have run off because they are afraid they are going to be eaten by fel orcs.  $B$BI can't run a mine without peons.  If you could save the peons that I lost maybe the others would come back.  The fel orcs have their camps along the wall to the southwest.",
+  "p": "Have you saved my peons yet? Please hurry, I'm afraid they are going to be eaten and they probably won't taste very good. If they taste really bad the fel orcs might get really mad at me.",
+  "c": "Thank you for saving my peons.  Now maybe I can get them to fix my shredder with those parts you found. earn some money and get out of Outland.  I can't wait to be back in Booty Bay."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 654,
+  "t": "Tanaris Field Sampling",
+  "o": "Acquire untested samples for 8 basilisks, 8 hyenas, and 8 scorpions.  Bring the testing kit back to Chief Engineer Bilgewhizzle in Gadgetzan before the power source runs out.",
+  "d": "Activating the power source makes the field testing kit start to glow and vibrate.  It would seem to be working as planned.$B$BI will have it shipped immediately.$B$BAccording to Chief Engineer Bilgewhizzle, you now have some time to collect the data you need in the Tanaris desert.$B$BReturn to him when you have completed the task.",
+  "p": "Well, did you get everything you needed? If you didn't and the power runs out, everything inside will be ruined and you'll have to start over.$B$BHey, don't look to me for sympathy; I'm all about the Gadgetzan Water Company making a profit, and if that means selling you power sources until we can afford to import water in from the icy springs of Dun Morogh, so be it!",
+  "c": "All right then, it will take me just a second to remove the power source. After that, you can do with it whatever you like now without having to worry about losing the data inside."
+ },
+ {
+  "id": 655,
+  "t": "Hammerfall",
+  "o": "Speak with Tor'gan in Hammerfall.",
+  "d": "It is still clear to me, like yesterday... So many years without hope, with wood and steel to bind me to this terrible place. Then finally, finally! There was the Warchief. Doomhammer in his midnight plate, his warhammer held high.$b$bIt was... too terrible... That the blow of a coward would strike down our greatest hero. From behind he charged on his horse, and then his lance ran him through... I fell to my knees. What hope was there? What hope is there...",
+  "p": "",
+  "c": "Ah, Gor'mul you speak of. Yes, from what he says, it seems he has never recovered from the death of Doomhammer.$B$BGor'mul was a captive here when Thrall and Orgrim fought to free the camp, but as the earth shook and our brethren escaped, he was left behind. He wandered alone and lost for years without direction or hope, until we returned to establish ourselves here in Hammerfall."
+ },
+ {
+  "id": 656,
+  "t": "Summoning the Princess",
+  "o": "Go to the Shards of Myzrael, summon her and defeat her.$B$BGather her Eldritch Shackles and bind them to the Shards of Myzrael.",
+  "d": "You must defeat Myzrael before she grows in strength.  If you do not, then once she has gathered enough power she will challenge her captors!  There are some who think they can control her, but if she can be controlled then why did the giants chain her in the first place??$B$BCrazy logic, eh?$B$BTo defeat her, summon her at the Shards of Myzrael where you first spoke with her.  Defeat her and gather her Eldritch Shackles, then bind them to the Shards of Myzrael.$B$BDo that, and she will again be trapped.",
+  "p": "The Shards of Myzrael are now strangely quiet.",
+  "c": "As the eldritch shackles are placed around the Shards, an unhuman wail is heard from far below. The scream is followed by a roar.$b$bThe Shards of Myzrael no longer invoke feelings of warmth and security as they once did. Now they pulse with an open menace... as if the thing beneath them holds ill will toward the surface."
+ },
+ {
+  "id": 657,
+  "t": "Hints of a New Plague?",
+  "o": "Speak to Kinelory near Go'Shek Farm in Arathi Highlands.",
+  "d": "<Quae begins to go through the folder.>$B$BThis IS interesting. Seems Apothecary Jorell has been working on some deadly experiments here at Go'Shek. Not sure what that has to do with Hillsbrad, but Phin wouldn't like it if we let it continue.$B$BWe had a run-in with some orcs while you were gone, and I'm not in good enough shape to help Kinelory. If you're up for it, she's going to need some protection when she goes down to the farm to steal whatever research Jorell still hasn't sent to Tarren Mill.",
+  "p": "",
+  "c": "If it brings Phin peace, I'll destroy every single one of the Forsaken personally. He's done so much for us since the plague. We never thought we'd find friends or family again.$B$BWhen you're prepared, come let me know. We'll get started right away."
+ },
+ {
+  "id": 658,
+  "t": "Hints of a New Plague?",
+  "o": "Find the Forsaken Courier and bring back her Sealed Folder to Quae near the Go'Shek Farm.",
+  "d": "So, Phin sent you to check on us? Not surprised--he worries too much.$B$BWe've been watching the farm for days, and Kin claims she saw a courier come out of that small house to the south not long ago.$B$BShe talks a lot, but I can always trust her senses when we're in dangerous areas.$B$BYou wouldn't happen to be a skilled tracker, would you? We think the courier might be carrying notes to Tarren Mill. If we could get our hands on those documents, it might shed some light on what's happening in Hillsbrad.",
+  "p": "We appreciate your help in looking for that courier, $N.$B$BWhile you were gone, Kin saw an apothecary come out of that same house to the south of here. I'm confident that they're up to no good--I just need proof of it before we go off and do something rash.$B$BHave you had any luck yet?",
+  "c": "Excellent!$B$BLet's see what this is about..."
+ },
+ {
+  "id": 659,
+  "t": "Hints of a New Plague?",
+  "o": "Find Quae and Kinelory near the Go'Shek Farm in the Arathi Highlands.",
+  "d": "Hail, and well met, $N. I lead a group of adventurers investigating odd happenings in this area.$B$BMy cousin in Hillsbrad recently put down his dog Stanley because the animal mystically grew to an immense size and savagely attacked anyone who came near him.$B$BI believe the undead are involved, and we're looking for signs to prove as much.$B$BTwo of my companions, Quae and Kinelory, headed to the Go'Shek Farm in the Arathi Highlands, and haven't checked in for days. Find them for me? I grow concerned.",
+  "p": "",
+  "c": "Try and stay as quiet as possible, traveler.$B$BOrcs don't take too well to being spied on, and there is more to this farm than meets the eye."
+ },
+ {
+  "id": 660,
+  "t": "Hints of a New Plague?",
+  "o": "Protect Kinelory until she returns to Quae.",
+  "d": "All right, $N. I'm ready if you are.$B$BShall we?",
+  "p": "The time for talk is done. Protect Kinelory if you care about the people of Hillsbrad at all.",
+  "c": "You've done a great service for us, $N. Thank you.$B$BI hope Kin wasn't too much of a handful down there. She's very friendly, but can be just as deadly when you're her enemy."
+ },
+ {
+  "id": 661,
+  "t": "Hints of a New Plague?",
+  "o": "Find Phin Odelic at Southshore in Hillsbrad Foothills.",
+  "d": "I've seen Kinelory look way worse after a night in the tavern than she does now. You obviously did a good job protecting her.$B$BThese items she brought back from the farm should at least let Phin get an idea of what's going on out here in Arathi. Just to make sure there's no retaliation after your attack, we're going to stay here for a bit longer. Would you be willing to head back to Southshore and talk to Phin?",
+  "p": "",
+  "c": "So, the two troublemakers are all right after all? Haha, I'm glad to hear it. I thank you for bringing me news of their whereabouts and status--it pleases me greatly that they are still alive; the two of them are irreplaceable as friends and traveling companions.$B$BBut... it's more important I thank you properly for your help. Here. Take this along with my group's thanks.$B$BWith any luck, we'll figure out what the Forsaken are up to, and put an end to it."
+ },
+ {
+  "id": 662,
+  "t": "Deep Sea Salvage",
+  "o": "First Mate Nilzlix wants you to retrieve the Charts and Logs from the Maiden's Folly and the Spirit of Silverpine.",
+  "d": "O'Breen led the ships into the cove.  We were certain this is where the treasure could be found.  The Harbinger docked safely but as the Maiden's Folly and Spirit of Silverpine approached the tides began to lower.  Strangest thing I've ever seen!$b$bThose two ships ran aground into something... some sort of temple in the reef.  They sank so quickly, was quite a tragedy.$b$bWe need to retrieve their Logs as well as their Charts before we leave.  We can't leave that information behind for prying eyes!",
+  "p": "How goes the search and recovery mission, $n?  We really need to get those Logs and Charts back from the Maiden's Folly and Spirit of Silverpine.$b$bIf the information from those sources were to fall into enemy hands, Fleet Master Seahorn would force us down the plank.$b$bThat is if we ever get out of this mess...",
+  "c": "Knowing this information is secure will bring some ease to the command in Booty Bay. Well done, $N."
+ },
+ {
+  "id": 663,
+  "t": "Land Ho!",
+  "o": "Talk to Captain O'Breen at Faldir's Cove in Arathi Highlands.",
+  "d": "Lolo sees a tiny $r! Always on the lookout, Lolo is!$b$bWelcome to Faldir's Cove.  Captain O'Breen said we'd only be here for a few hours.  Just long enough to gather the treasure and get back to Booty Bay.$b$bBut Lolo thinks we're going to be here a lot longer than that.  We lost the other two ships from our formation.  Poor Spirit of Silverpine and Maiden's Folly.  On the bottom of the sea they rest now!$b$bLolo suggests you talk to Captain O'Breen if you plan on sticking around here.",
+  "p": "",
+  "c": "Ahoy, matey.$b$b'Twas a horrible mess. Seahorn will have my ship if he finds out what went down.$b$bOne of the Professor's contraptions indicated the lost treasure was near this cove. I brought the Harbinger in to dock and signaled for the Spirit of Silverpine and Maiden's Folly to follow suit.$b$bThen the sea rumbled. The tides lowered and the two ships crashed into the reef.$b$bIt's not just a reef. Something's down there....$b$bHelp my crew out and you'll be rewarded handsomely."
+ },
+ {
+  "id": 664,
+  "t": "Drowned Sorrows",
+  "o": "Captain Steelgut in Faldir's Cove wants you to kill 10 Daggerspine Raiders and 3 Daggerspine Sorceresses.",
+  "d": "Argh, 'tis a horrible life. I should be in a watery grave right now, not sittin' here by the fire, breathin' fresh air.$b$bThe crew tried so hard to save my beautiful Maiden's Folly. Bless the boys, bless their hearts.$b$bO'Breen made it to shore safely but we weren't so lucky. The seas just sank on us, I swear.$b$bOne second we're afloat and the next water is rushin' in. And those beasts! Killed all the survivors. Horrible naga scum. I went black and ended up here, saved.$b$bI want those beasts dead.",
+  "p": "Bah, maybe I should go kill those naga scum myself. It's obvious you're not goin' to do it.$B$BMaybe I can find some knitting needles so you can keep yourself busy.",
+  "c": "Nice work out there, $N.$b$bThose scum deserved what they got. While nothin' will ever bring me ship or me crew back, the death of those naga gives me some solace."
+ },
+ {
+  "id": 665,
+  "t": "Sunken Treasure",
+  "o": "Escort Professor Phizzlethorpe to the cave and back.",
+  "d": "Now that we are full-fledged Blackwater Raiders it is our job to help Mr. O'Breen locate the lost elven treasure.$b$bIt is next to impossible to find the gems in the dark sea without aid. The doctor has constructed some goggles that will help. He needs the goggles charged with the energy derived from the enchanted stone in the cave just up the hill.$b$bBut the cave is cursed! When we get close, we get ambushed. Defend me and I can harness the energy from the stone into the goggles.",
+  "p": "This is no time to talk! The goggles need to be charged with the power of the stone!",
+  "c": "The goggles work perfectly now! Well done, $N."
+ },
+ {
+  "id": 666,
+  "t": "Sunken Treasure",
+  "o": "Doctor Draxlegauge in Faldir's Cove wants you to collect 10 Elven Gems and return the Goggles of Gem Hunting once you are done.",
+  "d": "The treasure has been on the sea floor so long that the gems have calcified into thick stone. But the power harnessed in these goggles will allow you to locate them easily.$b$bA little gnomish ingenuity goes a long way!$b$bSo borrow the Goggles of Gem Hunting, $n, and see if you can collect some of the lost treasure for Captain O'Breen.$b$bI'd swim down there myself but...um...well, I have important scientific business to tend to up on the safe, dry land....er, yeah.",
+  "p": "How did the goggles work? Did everything function properly? Adjustments can be made if necessary.$b$bOh, and I'll need those goggles back when you're done. I am sure Captain O'Breen will have many uses for them later on.",
+  "c": "Most superb, $N! The Captain will be very pleased! And just wait until word gets back to Fleetmaster Seahorn!"
+ },
+ {
+  "id": 667,
+  "t": "Death From Below",
+  "o": "Protect Shakes O'Breen during the attack.",
+  "d": "This is bad. It seems the Daggerspines are amassing for an attack.$b$bNaga are known for their ruthlessness in battle. They will keep attacking until I am dead.$b$bI don't value my own life above that of my crew members, but you must help to defend me. The crew will not be able to make it back to Booty Bay without my knowledge of the seas.$b$bThe naga will be coming from the sea. I need you to remain up here with me to fend off the attack. Man the cannon and drive them back.$b$bAre you ready, $n?",
+  "p": "",
+  "c": "We survived the attack!$b$bWe could not have done it without you, $N.$b$bWe'll be heading out as soon as the tide rises. If you weren't such a promising hero I'd offer you a place on my crew. But I can tell you have bigger fish to fry.$b$bEven if you are a puny $r...."
+ },
+ {
+  "id": 668,
+  "t": "Sunken Treasure",
+  "o": "Take the Elven Gems to Captain O'Breen at Faldir's Cove in Arathi Highlands.",
+  "d": "Let's not leave Captain O'Breen waiting. He'll want to see these gems first hand. After all, that's why we're here!$b$bAnd after a few weeks of consorting with these pirates, the professor and I have realized the last thing that's good for our health is to be caught hanging on to their treasure.$b$bHere, $n, take these to O'Breen.",
+  "p": "Ahoy, $C. What brings you to the bridge?",
+  "c": "So the little gnomes proved their worth after all? I knew we kept those ankle biters around for a reason!"
+ },
+ {
+  "id": 669,
+  "t": "Sunken Treasure",
+  "o": "Take the Sample Elven Gem to Fleet Master Seahorn at Booty Bay in Stranglethorn Vale.",
+  "d": "Fleet Master Seahorn will want to hear about our find at once.$b$bBut as you can see, we're not in much of a position to get out of here. Not only is the tide too low, but those damned creatures we disrupted are keeping a close eye on our movements.$b$bYou can be of great service to the Blackwater Raiders if you can get word to Fleet Master Seahorn in Booty Bay that we discovered the treasure and are working on extracting more.  Take him this sample as proof.",
+  "p": "What brings you to Booty Bay, $C?",
+  "c": "Ah, leave it to good old Shakes O'Breen! I knew that he was the right Captain for the mission!"
+ },
+ {
+  "id": 670,
+  "t": "Sunken Treasure",
+  "o": "Deliver Seahorn's Letter to Shakes O'Breen at Faldir's Cove in Arathi Highlands.",
+  "d": "Say, $n, you seem to be an adventurous type. My fleet is stuck in Booty Bay until we can restock.$b$bThere are some heavy things brewing here and abroad and I need to get some top secret correspondence to Shakes O'Breen who is tied up off the Arathi coast.$b$bCan I trust you to deliver this message safely and in confidence?",
+  "p": "So was Seahorn impressed? I bet you his smile reached from Booty Bay to Ratchet.",
+  "c": "Thank you for making such a long and perilous journey. You have the gratitude of the Blackwater Raiders."
+ },
+ {
+  "id": 671,
+  "t": "Foul Magics",
+  "o": "Get 10 Bloodstone Amulets for Tor'gan in Hammerfall.",
+  "d": "I have felt a strangeness in the air... a feeling that simmers in my blood. I had my suspicions. I set off to find the source of my unease and discovered to the west, at Northfold Manor, the residual traces of demonic summoning. As I got close, my blood began to boil and the rage within me grew.$b$bOn the ground I spied an amulet of bloodstone, used to assist in demonic summoning. The one I found was depleted, however. I'll need another to examine, but I dare not return to the manor. Can you bring me some?",
+  "p": "Once-cursed blood still runs through my veins, $N. If someone... something is summoning demons, it must be stopped.",
+  "c": "It will take some time for me to ascertain the true intentions of the Syndicate, but their obvious association with dark, demonic magic troubles me. I will tell you when I know more."
+ },
+ {
+  "id": 672,
+  "t": "Raising Spirits",
+  "o": "Acquire 10 Highland Raptor Eyes from Highland Striders and Highland Thrashers for Tor'gan in Hammerfall.",
+  "d": "We tried to settle him in, cheer him up, telling him stories of our mighty city at Orgrimmar in Kalimdor, but nothing would move him.$b$bTales of our young Warchief, Thrall, who bears the armor and hammer of Orgrim... but, perhaps... Perhaps! A demonstration of our newly found shamanistic magic would give him new hope. It is worth a try!$b$bA small object we could make for him, yes... Bring me some raptor eyes, and I will see what I can do.",
+  "p": "I will create an amulet that will give Gor'mul some of the strength of the raptors. Perhaps that will awaken some flame within him...",
+  "c": "Excellent. The spirits of the raptors that gave these eyes will lend strength to the bearer of this amulet."
+ },
+ {
+  "id": 673,
+  "t": "Foul Magics",
+  "o": "Retrieve Marez Cowl's Bloodstone Orb and bring it to Tor'gan in Hammerfall.",
+  "d": "There is no doubt in my mind that a powerful warlock resides within the walls of Stromgarde. From time to time, using an arcane magical relic, this warlock has summoned forth terrible demons in large numbers. We must remove the source of his energy.$b$bFind the warlock and kill him. Bring me whatever magical object you find on his person, and I will take steps to destroy it and see that its power is not used to taint this land any longer.",
+  "p": "The burning in my blood... it grows by the day. The warlock must be stopped.",
+  "c": "My restless nights will turn to peaceful slumber when I have destroyed this orb. Thank you, $N. It is a chilling reminder of the terrible power the demons held over the orcs before Hellscream released them from their curse."
+ },
+ {
+  "id": 674,
+  "t": "Raising Spirits",
+  "o": "Give the Raptor Talon Amulet to Gor'mul at Hammerfall in Arathi Highlands.",
+  "d": "Here, take this amulet to Gor'mul, and see if the raptors' strength can awaken the flame of the warrior that once burned through his veins.",
+  "p": "What hope is there when the hand of a coward can slay the mightiest of the mightiest? What hope, I ask you!",
+  "c": "What is this? Polished bone. What use have I for polished bone? Will a trinket restore the Horde to its glory?"
+ },
+ {
+  "id": 675,
+  "t": "Raising Spirits",
+  "o": "Speak with Tor'gan at Hammerfall in Arathi Highlands.",
+  "d": "<Gor'mul tosses the amulet into the ground.>$b$bTor'gan sent you, didn't he? Pah! Why he feels some mercy towards me I would not understand. Mercy was denied me when I was not allowed to die with my Warchief in battle. A cruel blow fate has dealt me...",
+  "p": "",
+  "c": "It did not work, I see. Nonetheless, I feel that showing him the power of the shamans will eventually return Gor'mul to his once proud self. The amulet's power was not great enough to show him our newfound power."
+ },
+ {
+  "id": 676,
+  "t": "The Hammer May Fall",
+  "o": "Kill 8 Boulderfist Ogres and 10 Boulderfist Enforcers, then find Drum Fel in the Hammerfall outpost in Arathi Highlands.",
+  "d": "Weaklings... all of them. You, $c, what are you looking at? Think you're something special, huh? Why not prove it?$B$BThe Hammerfall outpost in Arathi's under attack. Unless we send them help soon, their demise is imminent.$B$BBut before you go rushing off, you may want to test your skills first. Northeast of Stromgarde in Arathi is an ogre mound inhabited by the Boulderfist tribe. When you can handle the ogres and enforcers there, then report to Drum Fel in Hammerfall.",
+  "p": "I have not the time to sharpen my axe, let alone leave the outpost to slay those beasts that would try and slay my kin.$B$BYou do not seem to have the experience of a grunt let alone a full-fledged warrior, what do you want, $N?",
+  "c": "So, you think you're strong enough to help Hammerfall? So be it.$b$bTallow either sent you to that ogre mound in the hopes that you would kill yourself or he thinks you're strong enough to aid us. Either way, you're here now and I am in need of more soldiers in our fight against the constant attacks.$b$bIf you plan on staying in Hammerfall then get some rest, and come speak to me again when you're ready. There's no shortage of fighting to be had."
+ },
+ {
+  "id": 677,
+  "t": "Call to Arms",
+  "o": "Slay 10 Witherbark Axe Throwers, 10 Headhunters and 8 Witch Doctors, and return to Drum Fel in the Hammerfall outpost.",
+  "d": "The Witherbark trolls and Boulderfist ogres of Arathi are working together to rid us from this land, but we shall not meet our fates at their, or anyone else's, hand. We will slay them and show them that we, too, have a home here. $B$BThe trolls turned their backs to us; the ogres would use us for food and bedding if we allowed them to--these things shall not be.$B$BWe start our attack on the Witherbark trolls to the south of here. Slay them in droves, and only return when their camps run thick with blood.",
+  "p": "If you have not yet completed my task, then perhaps you are a coward in heart as well as a tyro in war.",
+  "c": "The signs of war are upon your garments, and sweat drips from your brow. Good, very good indeed."
+ },
+ {
+  "id": 678,
+  "t": "Call to Arms",
+  "o": "Kill 10 Boulderfist Brutes and 4 Boulderfist Magi, and return to Drum Fel in the Hammerfall outpost.",
+  "d": "Your strength is evident, $N. Now to see how you fare against a real enemy.$B$BThe Boulderfists have a lair to the southwest of here towards the dwarven bridge, and, if I'm not mistaken, the maulers and magi there shall present to you a greater challenge--they have done so to us thus far.$B$BSlay as many as you can and come to me in body when you are successful, or come to me in spirit when you fail. I shall give praise to your tenacity in battle either way.",
+  "p": "You hesitate. Why? You have shown great strength thus far, $N. Do not fail me now.",
+  "c": "You are as strong as a kodo, and your lust for battle does your people proud."
+ },
+ {
+  "id": 679,
+  "t": "Call to Arms",
+  "o": "Kill 7 Boulderfist Shaman and 3 Boulderfist Lords and return to Drum Fel in the Hammerfall outpost.",
+  "d": "The head of the beast is ready to be taken off... with great force, $N. You have shown every sign that you are able to help us with this final mighty blow. The leaders of these attacks have made their lair within the ruins of Stromgarde, a glaring symbol of human frailty.$B$BFind and slay those Boulderfist lords and their lackey shaman who would try and drive us from these lands.",
+  "p": "I see your courage finally wanes. It seems my instincts were correct about you: your strength is nothing compared to your bravado.$b$bReturn to me when the beast's head has been severed, or return never again.",
+  "c": "You do your people proud, $N. The threat has been greatly lessened, and I am sure we will begin to thrive here in the Highlands."
+ },
+ {
+  "id": 680,
+  "t": "The Real Threat",
+  "o": "Slay Or'Kalar and bring his Head to Korin Fel in the Hammerfall outpost.",
+  "d": "You serve my husband well, $c, but he does not know why Hammerfall is under attack.$B$BOr'Kalar, Mug'thol's pawn in Stromgarde, has an intense hatred for my husband, and wishes nothing more than my husband's death for defeating him years ago.$B$BMy auguries tell me that Or'Kalar has laid a trap for my husband, so I have hidden signs of the ogre's presence from him.$B$BMy husband will rush off foolishly if he learns of the ogre's whereabouts and I would ask for your help in slaying the creature.",
+  "p": "Near the Tower of Arathor--that is where you will find Or'Kalar. His death will stop the attacks on Hammerfall and protect my husband's life.$B$BI see in your eyes that you think me weak--even dishonorable--for my silence. Some day you will learn what it is to love as I do. Perhaps then you will understand a different kind of strength and honor.$B$BIn the meantime, do as I ask, and slay Or'Kalar.",
+  "c": "You have done me a great service, $N. Know that my husband's life and the safety of Hammerfall has been protected for another day because of your deeds. Please take this as a reward for your courage."
+ },
+ {
+  "id": 681,
+  "t": "Northfold Manor",
+  "o": "Kill 10 Syndicate Highwaymen and 6 Syndicate Mercenaries.$B$BReturn to Captain Nials at Refuge Pointe.",
+  "d": "We are fighting a war for Stromgarde, and we are losing.  The ogres, the Syndicate and we have divided our once great city, and each faction battles the other into a bloody stalemate.$B$BBut our forces dwindle while our enemy grows.$B$BWe need help from the town of Southshore, but supplies are difficult to receive while the Syndicate holds territory between us.$B$BGo to the Syndicate base in Northfold Manor and slay them.  Then, perhaps, pressure on our supply trains will lessen and more will get through.",
+  "p": "$N, with each passing hour our hold on Stromgarde grows more tenuous. You must make haste or our city will surely fall.",
+  "c": "Very good, $N. With the deaths of those Syndicate members we should have an easier time receiving supplies from Southshore.$b$bPerhaps our cause yet has hope."
+ },
+ {
+  "id": 682,
+  "t": "Stromgarde Badges",
+  "o": "Bring 7 Stromgarde Badges to Captain Nials at Refuge Pointe.",
+  "d": "The Syndicate in Stromgarde do battle with our contingent of militia there. In order to urge the rabble to fight our more disciplined troops, the Syndicate leaders have placed a bounty on our soldiers, awarding gold for each Stromgarde Badge gathered off killed militiamen.$B$BWe want those badges retrieved - we cannot allow the cutthroats to take trophies from our brave fallen!$B$BEnter the Syndicate-controlled area of Stromgarde and hunt them for our badges.",
+  "p": "Have you retrieved any Stromgarde Badges, $N? The Syndicate must learn they cannot profit from our dead.",
+  "c": "Thank you, $N. We will inform the families of these fallen soldiers that they were killed in battle.$b$bIt will be grim news to bear, but it is better than the uncertainty of a missing loved one."
+ },
+ {
+  "id": 683,
+  "t": "Sara Balloo's Plea",
+  "o": "Take Sara Balloo's note to King Magni Bronzebeard of Ironforge.",
+  "d": "$n, I have but a small request to ask of you.$b$bTake this note I have prepared to our great monarch of Ironforge, King Magni Bronzebeard. 'Tis a small task to ask of one such as yourself, someone who has shown great valor to the cause of the Alliance thus far.$b$bFor me to go before the King in my grief-ridden state would not serve the purpose of my cause.  Surely you understand.",
+  "p": "So you are $N the $C? News of your contributions to the Alliance has traveled quite far, you know?$B$BOn what business do you come before me today?",
+  "c": "It will take but a moment for me to peruse this letter..."
+ },
+ {
+  "id": 684,
+  "t": "Wanted!  Marez Cowl",
+  "o": "Bring Marez's head to Captain Nials at Refuge Pointe.",
+  "d": "A bounty has been placed on the head of Marez Cowl, a high-level advisor and operative of the Syndicate.  She was last seen within the Syndicate controlled territory of Stromgarde.$B$BBounty may be collected from Captain Nials.$B$BBe warned: Marez is a skilled and cunning Warlock, known for her trafficking with demons.  Extreme caution is advised when hunting her.",
+  "p": "Greetings, $C. You have a report to make?",
+  "c": "You took down Marez Cowl? Well done, $N. Well done indeed!$b$bMarez menaced our Stromgarde defenders, and it is rumored she was an emissary between the Syndicate and some other, darker power. We are glad to see she'll longer ply her powers against us."
+ },
+ {
+  "id": 685,
+  "t": "Wanted!  Otto and Falconcrest",
+  "o": "Bring Otto's Head and Falconcrest's Head to Captain Nials at Refuge Pointe.",
+  "d": "The Stromgarde Militia has placed bounties on the heads of Lord Falconcrest, and his bodyguard Otto.  Falconcrest heads the Syndicate's efforts in the Arathi Highlands, and his death would cause a major disruption in those efforts.$B$BHis bodyguard Otto, although not a strategic target, is a fierce opponent and has killed dozens of our defenders.$B$BTheir bounties may be collected from Captain Nials.",
+  "p": "Hello. Do you have a report to submit?",
+  "c": "Falconcrest and Otto? Wonderful!$b$bHere is your reward, $N. I am happy to pay it."
+ },
+ {
+  "id": 686,
+  "t": "A King's Tribute",
+  "o": "King Magni Bronzebeard wants you to speak with Grand Mason Marblesten.",
+  "d": "I do not expect good dwarves like Mrs. Balloo to understand why the travesties of war must be endured for the greater good of our people. The loss of her husband, and the loss of every dwarf that fights in the name of the Alliance, weighs heavy on my soul.$b$bWhile I cannot bring her husband back from the Twisting Nether, I can pay tribute to him.$b$bI am going to commission a memorial to Sully Balloo to be built by Grand Mason Marblesten.$b$bSend word to him now, $c. You shall be custodian of my bidding.",
+  "p": "",
+  "c": "So King Magni Bronzebeard himself sent ye?$B$BMy, my! This must be important!"
+ },
+ {
+  "id": 687,
+  "t": "Theldurin the Lost",
+  "o": "Find Theldurin the Lost.",
+  "d": "Theldurin the Lost was once a member of our order, the Twilight's Hammer.  But he lost his mind and scorned our teachings.  And before he fled from us, he stole the scroll of Myzrael!  We could not catch him, but rumors say he hides in the Badlands, gibbering and mad.$B$BTo bring the Lady back to us, you must find the scroll.  And to do that, you must find Theldurin.",
+  "p": "",
+  "c": "Hello. Hello, hello hello hello hello HELLO!$B$BI'm sorry - wait, no I'm not! Don't be rude!$B$BOh no...that was crazy talk.$B$BBut...sometimes being crazy is my only solace."
+ },
+ {
+  "id": 688,
+  "t": "Myzrael's Allies",
+  "o": "Speak with Zaruk at Hammerfall in Arathi Highlands.",
+  "d": "<Myzrael speaks.>$B$BFree!  I AM FREE!  I am free to gather strength, hidden from my captors.  For if they faced me now they would surely overpower and again imprison me.$B$BBut in time I will confront the giants, and they will regret their wardship of me!$B$BYou are a noble ally, $N.  I will need your help again in time.  When I am ready, I will need you to summon me to the surface$B$BSpeak with Zaruk in Hammerfall.  He knows how I can be summoned.",
+  "p": "",
+  "c": "Welcome, $c. The Lady has informed me of your coming, and if we are to bring her back to the surface then we have much to discuss..."
+ },
+ {
+  "id": 689,
+  "t": "A King's Tribute",
+  "o": "Grand Mason Marblesten of Ironforge wants 5 pieces of Alterac Granite.",
+  "d": "So our good King would like a memorial built in honor of a soldier named Sully Balloo?  And you say the poor chap died during the Thandol Span tragedy?$b$bBah, will there ever be peace on Azeroth?$b$bNonetheless, any commission from the King is of utmost importance. To build a truly epic and lasting piece I want to work with one of the finest stones available. Travel to Darrow Hill in Hillsbrad and gather for me some Alterac Granite.",
+  "p": "$N, $N, $N! Tell me you have enough Alterac Granite for me to begin my masterpiece in honor of Sully Balloo.",
+  "c": "Perfect! Better than I could have imagined!$B$BAnd I have quite an imagination you know..."
+ },
+ {
+  "id": 690,
+  "t": "Malin's Request",
+  "o": "Find Skuerto at Refuge Pointe in the Arathi Highlands.",
+  "d": "Greetings, $N. You have the look of an adventurer about you, and I have a task that needs some tending to.$B$BArchmage Trelane, my original master, fled Stromgarde in the Arathi Highlands not too long ago, and he's asked me to help him in recovering some of the items he left behind.$B$BThe city fell under siege, and he attempted to defend the Tower of Arathor, but to no avail. I have agents in the Highlands already, but they've requested I send more aid. Are you interested?",
+  "p": "",
+  "c": "So, Malin sent ye? I don't care if Muradin rose up from the dead and whisked ye here on a dragon. I'm busy! Talk to Kryten if you need somethin'."
+ },
+ {
+  "id": 691,
+  "t": "Worth Its Weight in Gold",
+  "o": "Find 10 Witherbark Tusks, 4 Witherbark Medicine Pouches and a Shadow Hunter Knife for Apprentice Kryten at Refuge Pointe.",
+  "d": "Archmage Malin sent Skuerto and I here to collect reagents for him. I was at a loss as to how I was going to collect the items, but now that you're here, I think my problem's solved.$B$BI need the following: Witherbark tusks, Witherbark medicine pouches and a shadow hunter knife.$B$BCould you find those for me? The Witherbark live to the southeast of Arathi.",
+  "p": "Have you had any luck so far, $N?$B$B<Kryten makes some notes in his journal as he reads.>$B$BIf my research is correct, the tusks should come from any Witherbark troll. The medicine pouches come from the Witherbark witch doctors, and the strongest of the Witherbark shadow hunters should carry the special knife given to them after they've completed their rites of passage. There's no way to tell which shadow hunters will have the knife until you do battle.",
+  "c": "Incredible! I can see why Malin asked you to come join us - very well done indeed!$B$BAt this rate, Skuerto and I will be headed back to Stormwind in no time at all.$B$BI believe my dwarven companion is back from scouting Boulderfist Hall; go speak to him when you're ready.$B$BIt looked as though he might have had a bit of a scuffle with the ogres. Don't mention that to him, though; he's very sensitive about criticisms to his skills at scouting."
+ },
+ {
+  "id": 692,
+  "t": "The Lost Fragments",
+  "o": "Bring the Torn Scroll Fragment, the Crumpled Scroll Fragment and the Singed Scroll Fragment to Theldurin the Lost.",
+  "d": "The Scroll of Myzrael...the Scroll of Myzrael?!  You don't want that!  Its magic can pull Myzrael to the surface world and if you do that, we are in trouble!$B$BOr...maybe it's too late.  Maybe she already is free.  Maybe she's just gathering strength before unleashing herself upon us.  If so, then you'll NEED the scroll!$B$B...too bad it's destroyed.  Enraged elementals stole it and tore it up and now fight over the fragments.$B$BBut if you can gather those fragments, maybe we can fix it...",
+  "p": "Did you find those fragments?!?! You'll need the Scroll of Myzrael if you want to trap her again, before it's too late!",
+  "c": "Ah, you found them! Good work, $N! These might be the only chance we have against the evil of Myzrael!$b$bJust let me find my scrap-ratchet and see if I can re-attach these fragments..."
+ },
+ {
+  "id": 693,
+  "t": "Wand over Fist",
+  "o": "Find Trelane's Wand of Invocation and return it to Skuerto at Refuge Pointe.",
+  "d": "Hey, $N. Sorry to be so short with ye earlier... and no, that ain't a pun.$B$BI figured out where Trelane's first item ended up: Kor'gresh has it in Boulderfist Hall. An' by the way he was throwing down blasts of ice at his kin to keep them in line, he must be close to figurin' out how to use all of its powers.$B$BBoulderfist Hall's south of here an' then east of Thandol Span. Find the ogre an' get back that wand.$B$BWhile you're gone, I'll figure out what we're gonna do about Stromgarde.",
+  "p": "Our goal is the wand, $N. Focus on that for now.",
+  "c": "Brilliant, $N. One item down an' three more to go, based on my list. The other three items are all in Stromgarde.$B$BTake a rest an' get your strength back--the next phase of my plan'll require a little more time an' effort. Come back to me after you've gotten a warm meal an' some rest."
+ },
+ {
+  "id": 694,
+  "t": "Trelane's Defenses",
+  "o": "Find an Azure Agate and bring it to Apprentice Kryten at Refuge Pointe.",
+  "d": "All rested?$B$BHere's our next step: there're ogres all around the Tower of Arathor in Stromgarde. We're gonna need to activate the tower's defenses if you're gonna stand a chance against 'em an' still make it to the items alive. To do that, we're gonna need some gems the Boulderfist shaman have taken a liking to. They took 'em from the tower, but they're not gonna stay in their possession for long.$B$BGet one of them gems an' bring 'em to Kryten--he knows the spell to enchant 'em so they'll work as a key.",
+  "p": "$N, hello again. Have you found an azure agate yet?",
+  "c": "You amaze me, $N. Well done again.$B$BGive me a moment to cast the proper spell to enchant the gem, an' you'll be ready."
+ },
+ {
+  "id": 695,
+  "t": "An Apprentice's Enchantment",
+  "o": "Speak to Skuerto at Refuge Pointe in Arathi Highlands.",
+  "d": "Here you are, $N. The gem only needs to be pressed against one of the pedestals near the base of the tower to activate its defenses. Use it when you're ready to enter the tower and find Trelane's remaining items. $B$BGood luck to you. I'll be awaiting your return here at the camp. Oh, and speak to Skuerto before you leave. He'll give you the rest of the details you'll need.",
+  "p": "",
+  "c": "Good, good.$b$bIf there are no other delays, how about we get started?"
+ },
+ {
+  "id": 696,
+  "t": "Attack on the Tower",
+  "o": "Find Trelane's Phylactery, Trelane's Orb, and Trelane's Ember Agate, and return them to Skuerto at Refuge Pointe.",
+  "d": "Here's what your lookin' for: Trelane's phylactery, Trelane's orb, an' Trelane's ember agate.$B$BAll three should be in chests within the tower an' you shouldn't have a problem opening the chests on your own; you just have to be careful of the ogres.$B$BThe tower's defenses won't take care of 'em on their own; you'll need to have your weapons at the ready. Those ogres find out you're there and stealing from 'em, an' they'll be sure to put the hurt on you.$B$BBe careful, an' good luck.",
+  "p": "You do this, an' I'm sure Malin'll be more than pleased with you.",
+  "c": "Malin couldn't've asked a worthier person to come here an' aid us, $N. You've done a grand job!$B$BHe'll be pleased to see what an overwhelming success our mission's been."
+ },
+ {
+  "id": 697,
+  "t": "Malin's Request",
+  "o": "Take the Sealed Letter to Archmage Malin in the Mage Quarter of Stormwind.",
+  "d": "Take this letter back to Stormwind and let Malin know that Kryten an' I'll be home soon. He'll reward you well for helping us here, $N, of that I've no doubt.$B$BTravel safely.",
+  "p": "Yes? You look vaguely familiar. I do apologize, but have we met? I get so busy I lose track.",
+  "c": "<Archmage Malin opens the letter, and his eyes grow wide.>$B$BBy the Light, you've done it. How wonderful. Trelane will be so pleased. I'm sure Kryten and Skuerto are just as excited as I am to have them on their way back to Stormwind.$B$BThank you, $N. Please, take this to help you in your journeys."
+ },
+ {
+  "id": 698,
+  "t": "Lack of Surplus",
+  "o": "Bring 8 Unprepared Sawtooth Flanks to Tok'Kar in Swamp of Sorrows.",
+  "d": "I'm working on getting some supplies together for our outpost near the beach to the east--Tok'kar does what he can, but between shifts of guard duty and cooking for his soldiers there's not much time left in the day.$B$BThey do enjoy cooking up some sawtooth meat when they can, but I haven't had time to get them another shipment. Would you mind helping them out?$B$BThe young sawtooths aren't as tasty as the older ones, so stay clear of those; give them a year or two to get to full size.",
+  "p": "Lok'tar, $C. Traveling through the swamps isn't a risk taken lightly. You're brave to test your mettle here.",
+  "c": "Ah! Wonderful. Fresh meat for the fire tonight. Thank you, $N.$b$bYou've helped make the coming nights more tolerable. The fire burns bright, and our stomachs will be full.$b$bIts a pleasant surprise to have you bring us a shipment; Dar's not the most attractive orc anyone's laid eyes upon, but at least his attitude reeks far less than his smell."
+ },
+ {
+  "id": 699,
+  "t": "Lack of Surplus",
+  "o": "Bring 6 Sawtooth Snapper Claws to Tok'Kar in the Swamp of Sorrows.",
+  "d": "With the threat of murlocs along the coast, we're stationed out here to protect--or warn if the force is too large--of any coming threats to Stonard. It doesn't give us much time for relaxation, and we could use some more help if you're able.$B$BThe sawtooth snappers' claws make for fine weapons when properly prepared. Bring me some of their claws and I'll see you're rewarded with one of our weapons in thanks for the fresh meat and the good company.",
+  "p": "Good mead, a warm fire, an army of orcs and an arsenal of weapons... that's all we really need out here along the coast. I don't regret my position out here safeguarding Stonard, but it would be nice if we could one day get a burrow, or at least a tower.",
+  "c": "Glad to see you're alive and well, $N.$b$bThese claws should make do nicely. The more weapons we have at the ready for attacks against us, the better off we'll be.$b$bI'll get started on your weapon as soon as possible. It will only take a short time. I've become quite adept and quick at their production."
+ },
+ {
+  "id": 700,
+  "t": "A King's Tribute",
+  "o": "Report to King Magni Bronzebeard.",
+  "d": "Ah, such fine stone comes from Lordaeron.  Such a shame the land is in such shambles.$b$bBut the Memorial came out quite well! I should think the King will be most pleased with it.$b$bNow if you will, please send word to His Majesty that the Memorial is complete as requested. ",
+  "p": "",
+  "c": "The granite seems but a small token compared to a great dwarf's life. But no dwarf shall last on this planet for eternity.$B$BLet us just hope that the memorial stands as a reminder to those who will trod the great Azeroth of the future. Lest we not forget it is for them that brave soldiers such as Sully Balloo so valiantly gave their lives."
+ },
+ {
+  "id": 701,
+  "t": "Guile of the Raptor",
+  "o": "Acquire 12 Raptor Hearts from Highland Fleshstalkers for Tor'gan.",
+  "d": "With some additional objects, I will be able to create an item that will imbue Gor'mul with the guile of the raptor! With the power of the raptor flowing through him, Gor'mul will know our new power and rediscover the warrior that lies dormant!$b$bI will require raptor hearts to fashion the item and spell.",
+  "p": "My preparations are made, all I require are the raptor hearts.",
+  "c": "Yes, these will work perfectly. I will transfer their power and the spirit of the raptors into this orb. This orb will imbue Gor'mul with the fiery strength and intelligence of the raptor."
+ },
+ {
+  "id": 702,
+  "t": "Guile of the Raptor",
+  "o": "Give Tor'gan's Orb to Gor'mul at Hammerfall in Arathi Highlands.",
+  "d": "Take this orb and use its energy to give Gor'mul the essence of the raptor. Surely this will invigorate his spirit and give him new purpose in life. With him returned to normal, we can explain to him the current state of the Horde, and we will have a great warrior's assistance in our unceasing battles.",
+  "p": "Returned again have you? Indeed there is nothing more I could wish for now than more of Tor'gan's pity.$B$BWhat have you for me this time? Perhaps a piece of brightly colored string? Or a length of rope to end this misery of mine...",
+  "c": "At least it is something interesting you bring to me this time. A strange power it emits..."
+ },
+ {
+  "id": 703,
+  "t": "Barbecued Buzzard Wings",
+  "o": "Bring 4 Buzzard Wings to Rigglefuzz.",
+  "d": "Oh yes, my barbecued buzzard wings are a favorite!  The sauce is rich and the meat is tangy.  And the smell will bring the hungry running from miles away!$B$BI have everything I need to cook up a batch.  Everything...except the buzzard wings!$B$BIf you want some then get me the buzzard wings.  Bring me enough, and I might even share the recipe with you!",
+  "p": "Hello, $N. Did you bring me my wings?",
+  "c": "Ah, I'll get started on those wings right away. I can almost taste them already!$b$bAnd here's the recipe in case you want to make them yourself!"
+ },
+ {
+  "id": 704,
+  "t": "Agmond's Fate",
+  "o": "Bring 4 Carved Stone Urns to Prospector Ironband in Loch Modan.",
+  "d": "The last report I received from Agmond is troubling, more so now that he's dead!  He mentioned that his diggers uncovered \"ancient urns\" at the dig site outside Uldaman.  I fear that the urns he found at that site incited the troggs, just as did the idols I found here.$B$BI need you to get those urns for our studies.  Go to the Uldaman site, gather the urns, then return to me.",
+  "p": "Did you find those urns, $N? We must find the link between them and the troggs!",
+  "c": "Well done! With luck and diligence, we will find whatever link exists between the troggs and these ancient artifacts.$B$BYou have done a great deed for the Prospectors, $N. Your efforts will not be forgotten. And neither will Agmond."
+ },
+ {
+  "id": 705,
+  "t": "Pearl Diving",
+  "o": "Bring 9 Blue Pearls to Rigglefuzz in the Badlands.",
+  "d": "The Badlands is a harsh place, filled with vicious predators and bold scavengers.  Scary, especially for a short little goblin.  To survive, I have to be tricky!$B$BI know the recipe for flash bombs.  I use those to scare away wildlife.  But I'm running low on one of the ingredients: crushed blue pearl powder.  Get me some and I'll make it worth your efforts.$B$BHeh, and I hope you have good boots on.  The Blue Pearls I need are found from clams at the Vile Reef.$B$BYep, the Vile Reef in Stranglethorn!",
+  "p": "Did you get my pearls?  I'm almost out of flash bombs!",
+  "c": "These will work great! I just need to smash them into powder...then mix them with a little of this and a little of that.$b$bWatch out, scavengers! Prepare to be flashed!"
+ },
+ {
+  "id": 706,
+  "t": "Fiery Blaze Enchantments",
+  "o": "Acquire a Black Drake's Heart for Sigrun Ironhew.",
+  "d": "As an apprentice to Feranor Steeltoe, I learned his special technique for imbuing weapons with fiery enchantments. Last I heard of him, he was working at a smithy with a hunting party up in Lordaeron.$b$bI can't tell you too many of the details about the process, but I can tell you it requires blood from a rare, still-beating black drake whelp's heart. I don't have much to do waiting for word from Ironforge. If you bring me a heart from the whelps in Lethlor Ravine, I'll show you my skill!",
+  "p": "How goes the hunt, $C?",
+  "c": "Ah yes, this will do excellently. This will enable your weapons to strike with searing heat!"
+ },
+ {
+  "id": 707,
+  "t": "Ironband Wants You!",
+  "o": "Speak with Prospector Ironband at Ironband's Excavation Site in Loch Modan.",
+  "d": "$N.  I received reports from Prospector Ironband at his excavation site in Loch Modan--he needs some legwork done concerning another of our excavations.$B$BI don't have more details than that, but if you want to stretch your legs then go speak with Ironband.",
+  "p": "",
+  "c": "So Stormpike sent you, did he?  Good.$B$BI have a big task for you..."
+ },
+ {
+  "id": 708,
+  "t": "The Black Box",
+  "o": "Take the Corroded Black Box to the Hall of Arms in Ironforge.",
+  "d": "The surface of this metallic black box is heavily pitted, as if it had been immersed in acid - it must have been sitting in the giant condor's stomach for a long time.$B$BTurning the box over, a symbol is found stamped on its bottom.  Below the symbol are the words:$B$B\"Engine #19 - Ironforge Siege Brigade\"",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 709,
+  "t": "Solution to Doom",
+  "o": "Bring the Tablet of Ryun'eh to Theldurin the Lost.",
+  "d": "Oh my!  Oh my!  There is a doom approaching.  Mark me!  A doom!$B$BNo, I cannot speak of it...cannot utter their names or they may hear me!  But if we learn, yes, if we learn more of them...then maybe we can learn how to foil them!$B$BMaybe.$B$BGo into Uldaman.  No!  I said it!  You must find...find the tablet of...Ryun'eh.  Yes, find it!  And don't make me speak that name again!$B$BIt is deep in that place, in an ancient chest.  That's where it hides...in a chest crafted before the works of any dwarf.",
+  "p": "Did you find the tablet? It must hold secrets! Secrets to save us!",
+  "c": "Oh, fortune is with us! Thank you! We may yet be saved!"
+ },
+ {
+  "id": 710,
+  "t": "Study of the Elements: Rock",
+  "o": "Find 10 Small Stone Shards and bring them to Lotwil Veriatus in the Badlands.",
+  "d": "Here in the Badlands I've stopped to work on my latest project: my shackles of elemental binding.$B$BWhen complete, they will allow mages to summon even more powerful elementals for use in even greater capacities. To start things off, I need small stone shards to test some of my newest offensive spells along with a few gizmos I've pieced together.$B$BThe shards are easily collected from the lesser rock elementals to the west of here. Could you bring me some?",
+  "p": "This area's perfect for-- Could you hold these in place for a moment? Yes, just like that, along the vector normal. Now, what was I... Right. Perfect for testing my latest project. The raw materials, the open space... what more could an intelligent and enlightened practitioner of the arts ask for?",
+  "c": "These shall do nicely, $N. Thank you. Hmm, a bit more sand than I'd anticipated. Have to adjust the coefficient of friction. No, wait; it should still be negligible with the frost oil.$B$B<Mumbling to himself, Lotwil puts one fist into the palm of his other hand and stares at them as if fascinated.>"
+ },
+ {
+  "id": 711,
+  "t": "Study of the Elements: Rock",
+  "o": "Bring 3 Large Stone Slabs to Lotwil Veriatus in the Badlands.",
+  "d": "$N, you've already proven more able than all my apprentices combined.$B$BThe next parts I need require a little more strength. Large stone slabs can be found on rock elementals if you're careful enough. Their bodies are stronger and larger, and therefore more prone to having pieces large enough for my tests. You can find them further west of here or southeast along the mountains' edges.$B$BTake your time; I'll need a while to test these smaller pieces you brought me.",
+  "p": "I'm most pleased, $N. My spells affected the smaller pieces just as I predicted. If this experiment is as successful as I foresee, then the elementals I'll be able to control will put anything summoned prior to this to shame.",
+  "c": "$N, simply amazing! I would have thought it'd take half a dozen tauren to bring all these to me."
+ },
+ {
+  "id": 712,
+  "t": "Study of the Elements: Rock",
+  "o": "Bring 5 Bracers of Rock Binding to Lotwil Veriatus in the Badlands.",
+  "d": "$N, there's one more part I need from the elementals here in the Badlands: the bracers of rock binding from the greater rock elementals. By my calculations, those bracers should be enough to gauge the strength of my own shackles.$B$BMy attempts at scrying the greater rock elementals showed a group of them southwest of here, near some ogres if I recall.$B$BBring me 5 of their bracers just so I have extras. Servo's notorious for misplacing my reagents and research.",
+  "p": "The stone slabs you found were ideal, $N. Lucien will be taking the extra ones back to Kharanos when we're done here. After all, they could prove useful again.$B$BFor instance, they'd be a nice basis for a handy little shelter once I start looking into a multidisciplinary approach to high-yield explosives...",
+  "c": "$N, have you ever considered becoming a research assistant? No? I'm not sure what I'll do without your abilities here. Intelligence, curiosity, and strength--all combined into one package."
+ },
+ {
+  "id": 713,
+  "t": "Coolant Heads Prevail",
+  "o": "Find Frost Oil and bring it to Lotwil Veriatus in Badlands.",
+  "d": "Let me tell you something about Frost Oil: nothing can keep an engine or gears from overheating quite like it.$B$BIts cooling properties are extraordinary, and its longevity as a lubricant without equal. That's not all: it also aids in retaining enchantments on magical items.$B$BI need a vial of it to increase the magical capacity of my shackles and make them powerful enough to stop our summoned friend from killing us all.$B$BBro'kin, a goblin friend of mine, can teach you to make it. He's in Alterac.",
+  "p": "Have you found the oil I need? It would be so helpful if you were able to find some.",
+  "c": "Stupendous! This should be the perfect coolant for my new bracers. If the enchantments don't last a century, then I'll give all my belongings to Servo.$B$BAll the mages of the Assembly will be in such awe after I finish this, $N. You just wait and see."
+ },
+ {
+  "id": 714,
+  "t": "Gyro... What?",
+  "o": "Bring a Gyrochronatom to Lotwil Veriatus in the Badlands.",
+  "d": "$N, you've done your job well beyond all standards.$B$B<Lotwil's obviously distracted by his work.>$B$BIf we ever meet in Kharanos, feel free to come apply for work.$B$BWhoops! Quick, grab the... yes, that. Thanks.$B$BNow I just need one more thing. It's a small part, but rather crucial, I'm afraid: a gyrochronatom.$B$BIf you could just go grab one and bring it to me, I should be ready to complete this.",
+  "p": "Yes, yes, yes. Just a moment.$B$B<Lotwil continues to work on some kind of contraption.>",
+  "c": "HA!$b$b<Lotwil grabs the gyrochronatom from you.>$b$bPerfect... just about done. No, really. I AM almost done now. This project is my top priority... at the moment. Let me pop this into place, and you can see for yourself what you've helped me create. It'll just take me a few more minutes... maybe... possibly longer. Well, maybe a lot longer. We'll see..."
+ },
+ {
+  "id": 715,
+  "t": "Liquid Stone",
+  "o": "Bring a Healing Potion and a Lesser Invisibility Potion to Lucien Tosselwrench in the Badlands.",
+  "d": "I'm thinking those items you acquired for Lotwil are going to be the least of our worries, $N. On the other hand, you've proven more than adept at the sciences Lotwil holds sacred, so how about helping me out?$B$BI need an invisibility potion and a healing potion; both might come in handy real soon if he pulls this off.$B$BIn return, I'll give you this recipe for a potion I've been developing while learning from Lotwil. It's based on some of the research he's been doing here in the Badlands.",
+  "p": "He's getting closer to finishing. How are things going on your end?",
+  "c": "YES!$b$bI mean, thank you, $N. These will be helpful while traveling through the Badlands."
+ },
+ {
+  "id": 716,
+  "t": "Stone Is Better than Cloth",
+  "o": "Bring some Patterned Bronze Bracers to Lucien Tosselwrench in the Badlands.",
+  "d": "I know how cheap Lotwil can be, $N, so let me make you something for all your troubles. Maybe it'll even help protect you from the coming atrocity that is Lotwil's newest invention.$B$BI've been working with all the extra stones you collected for him, and I can make some nice bracers that you might want to use. They're enchanted, of course.$B$BI'll just need patterned bronze bracers crafted by a blacksmith so I can complete the bracers I'm making for you.",
+  "p": "I wouldn't wait too long to get that bracer, $N.$b$bWho knows what's going to happen next?",
+  "c": "Here you go, $N. Try these on."
+ },
+ {
+  "id": 717,
+  "t": "Tremors of the Earth",
+  "o": "Use the Sign of the Earth to activate the Pillars of Amethyst, Opal, and Diamond and obtain the Runestones.$b$bPlace the runestones in the Seal of the Earth to free Blacklash and Hematus.$b$bSlay them and return Blacklash's Bindings, the Chains of Hematus, and the Sign of the Earth to Garek.",
+  "d": "It has become obvious that we cannot ensure that Blacklash and Hematus will remain imprisoned in Lethlor. That black dragons have taken up residence there, and that the ogres managed to steal the Sign indicates that more drastic measures will have to be taken.$b$bThe drakes' prison is maintained by three runestones that may only be retrieved using the Sign of the Earth. Those runestones can then be used to break the seal which imprisons them.$b$b$n... assure that their dreams are eternal.",
+  "p": "Strong magics and powers held the drakes' prison for so long, but we cannot allow any possibility that Blacklash and Hematus may be released.",
+  "c": "No longer will the Kirin Tor need to worry over the prisoners of Lethlor. I will return to report success to my master. Krasus will no doubt be pleased."
+ },
+ {
+  "id": 718,
+  "t": "Mirages",
+  "o": "Retrieve the Supply Crate for Sigrun Ironhew.",
+  "d": "In our hurry to leave the Uldaman excavation site, we were forced to abandon many wagons and crates of supplies along the way. The local ogres from Camp Kosh have been on our abandoned equipment like vultures on a rotting corpse. Don't smell much better, either. Than the corpses, I mean.$b$bAnyways, they took the cart that was carrying all our weapons and such... so--well, this is a bit embarrassing--we haven't been able to get any food.$b$bWe're in a bit of a pickle here, suppose you could help us out?",
+  "p": "The desert's a bad place to be hungry, my friend, let me tell you that.$B$BHey... what's that over there...",
+  "c": "Thanks so much, $N. While you were gone, I... er... swallowed a mouthful of sand. It...$B$BWell, enough of that, we'll go out and get some food tonight. Eat like kings!"
+ },
+ {
+  "id": 719,
+  "t": "A Dwarf and His Tools",
+  "o": "Find Ryedol's Lucky Pick and return it to Prospector Ryedol south of Hammertoe's Dig Site.",
+  "d": "Hey, $N. Be careful 'round here. There be Dark Iron dwarves all around--looked like the Shadowforge clan.$B$BThey just attacked the excavation site I was workin' at--killed nearly everyone there, including my boss Hammertoe. I barely escaped with me life.$B$BThe site's just to the north of here, and I'm tryin' to plan a way to get some of our supplies back, especially me lucky pick.$B$BThink you'd be up to helpin' me out some? One of those damned Dark Iron must have my pick! Could be anyone of them.",
+  "p": "Not sure what the Shadowforge were lookin' for, but they definitely had a purpose.",
+  "c": "Ye're me savior, $c. I'm glad someone could teach those Shadowforge a lesson or two. Thanks for yer help."
+ },
+ {
+  "id": 720,
+  "t": "A Sign of Hope",
+  "o": "Find Prospector Ryedol and let him know Hammertoe Grez is alive.",
+  "d": "<There is text roughly scribbled in chalk on the map.>$B$B\"Ryedol, $BThey're taking me to Uldaman. Send help.$B-Hammertoe\"",
+  "p": "",
+  "c": "Hammertoe's alive?! This is amazin', $N!"
+ },
+ {
+  "id": 721,
+  "t": "A Sign of Hope",
+  "o": "Find Hammertoe Grez in Uldaman.",
+  "d": "$N, can ye find him? Can you find Hammertoe in Uldaman?$B$BIf those dirty Shadowforge are holdin' him hostage to figure out what he knows about the titan excavations, then all of Ironforge could be in huge trouble.$B$BFor a long time now those Dark Irons have been lookin' for magics to make more powerful golems. Hammertoe was doin' the same, of course, but only to stop them.$B$BThey're probably keepin' him alive until they learn what he knows.Ye've got to hurry if you're gonna save him!",
+  "p": "",
+  "c": "Yes? Ah'm sorry... <cough> Feel so weak. Can ye come closer, $c?$B$BRyedol sent ye? Muradin be praised, that boy's not as slow in the head as I once thought. <cough>"
+ },
+ {
+  "id": 722,
+  "t": "Amulet of Secrets",
+  "o": "Find Hammertoe's Amulet and return it to him in Uldaman.",
+  "d": "Ye're brave... <cough>... to come into Uldaman fer me, $c.$B$BIf ye're really here to help... ol' Hammertoe, then... <cough>... you'll need to find... me amulet.$B$BDeepshadow's got it... Magregan Deepshadow. He's 'round here... in the ruins fer sure. That amulet'll lead 'em... <cough>...  right to the scrolls if he ain't stopped. It's up to you, $N. Please... get that amulet.$B$BThe scrolls will surely help the Dark Irons create even more powerful golems. I just know it. I can feel it in me bones.",
+  "p": "The Shadowforge clan... <cough> is dangerous. Be careful. <cough> You must find the amulet.",
+  "c": "Ha! <cough cough>$B$BAh knew you'd find me amulet, $N.$B$B<weeze> Well done indeed, $N. <cough>"
+ },
+ {
+  "id": 723,
+  "t": "Prospect of Faith",
+  "o": "Take Hammertoe's Amulet to Prospector Ryedol in the Badlands.",
+  "d": "<Hammertoe holds his wounds and takes a moment to regain his composure before speaking again.>$B$BFind Ryedol, $N. Bring 'im me amulet. <cough cough> He'll... <cough> figure out what to do. He knows I was seeking the origins of our people, and he... <cough>... knows it was also my mission to stop the Shadowforge clan. They must not be allowed to find the scrolls... <cough>",
+  "p": "I'd say it was a bad day, but this is the Badlands: every day's a bad day.",
+  "c": "Hammertoe's amulet? I think my spirits were higher when I thought he was dead. Knowin' fer sure only makes the pain worse. This amulet was his life's work. I can't let his death be in vain."
+ },
+ {
+  "id": 724,
+  "t": "Prospect of Faith",
+  "o": "Take Hammertoe's Amulet to Historian Karnik in Ironforge.",
+  "d": "Okay, okay... who would know what to do?$B$BHistorian Karnik! That's it!$B$BHe's in Ironforge. He'll be able to help. He and Hammertoe were workin' together to find the lost artifacts in Uldaman.$B$BGuess the Shadowforge found out the two of them knew more than they were lettin' on.$B$BTell Karnik what's happened to Hammertoe and give him the amulet--he'll tell you what needs to be done next.",
+  "p": "Ah, yes. Another traveler seeking something from the dwarves.$B$B$G Sir : Ma'am;, I'm truly sorry, but I've no time to answer meaningless questions right now.",
+  "c": "Oh! Well, this is a different matter entirely. You probably don't realize the gravity of this matter yet, do you?$B$BI care deeply about Hammertoe's demise, but if he sent you here with his amulet, then he understood what's at stake.$B$BWe will have to take time to mourn his death later.$B$BLet me show you one of the reasons this amulet is so valuable."
+ },
+ {
+  "id": 725,
+  "t": "Passing Word of a Threat",
+  "o": "Find Advisor Belgrum and give him his note.",
+  "d": "$N, run and find Advisor Belgrum as quickly as you can. Tell him what you've witnessed and ask him how he wants us to proceed. This note will explain more to him.$B$BIn the meantime, I will take the time to speak to Hammertoe's spirit. Maybe he knows something that will help us put a stop to those Shadowforge cretins' activities in the Badlands. We can only pray.",
+  "p": "Hmm? Yes, $C.",
+  "c": "Ah, word from Historian Karnik. Excellent.$B$BI always have time for his business.$B$B<Advisor Belgrum opens the note and begins to read.>"
+ },
+ {
+  "id": 726,
+  "t": "Passing Word of a Threat",
+  "o": "Speak to Historian Karnik.",
+  "d": "<Advisor Belgrum reaches the end of the note, and his eyes widen for a moment.>$B$BOch, these are evil tidings.$B$B$N, please return to Historian Karnik and tell him on the king's authority to act on this information swiftly and decisively. He must halt the Shadowforge's activities in the Badlands.",
+  "p": "",
+  "c": "You're treating this matter with an urgency I'd expect from the king himself, $N.$B$BAll right, then. I know what'll bring the Shadowforge down.$B$BTheir presence in Uldaman can be slowed if we strike them at their base of operations: Angor Fortress."
+ },
+ {
+  "id": 727,
+  "t": "To Ironforge for Yagyin's Digest",
+  "o": "Give the Sigil of the Hammer to Gerrig Bonegrip in the Forlorn Cavern of Ironforge.",
+  "d": "The Tablet tells much.  But not enough!  Not nearly enough!$B$BThere is a book, a digest that Yagyin wrote in ages past.  The ... people I fled ... they keep this book in many places.  And their most learned study it.  It holds vast knowledge.  Knowledge to protect us!$B$BGo to Gerrig Bonegrip.  He is in a shop in Ironforge, in the Forlorn Cavern.  Show him this sigil and he'll think you one of them.  Ask him for Yagyin's Digest ... and bring it to me!",
+  "p": "Hello. Welcome to my shop, but watch what you touch.$B$BKnowledge can be deadly.",
+  "c": "Oh. Greetings, brother.$B$BAnd praise to the dwellers beneath."
+ },
+ {
+  "id": 728,
+  "t": "To the Undercity for Yagyin's Digest",
+  "o": "Bring the Sigil of the Hammer to Keeper Bel'dugur in the Undercity.",
+  "d": "The tablet tells much.  But not enough!  Not nearly enough!$B$BThere is a book, a digest that Yagyin wrote in ages past.  The... people I fled from... they keep this book in many places.  And their most learned study it.  It holds vast knowledge.  Knowledge to protect us!$B$BGo to Keeper Bel'dugur in the Undercity of Lordaeron.  Show him this sigil and he'll think you one of them.  Ask him for Yagin's Digest...and bring it to me!",
+  "p": "Ah, we have an eager $C, I see. Are you here to learn from my collection? Good!$B$BBut be warned: just as knowledge gives power to the strong...it will drive the weak mad.",
+  "c": "Be discrete with your signs, $c. There are those who do not believe the righteousness of our pledge.$B$BAnd there are those who would see us fail if they knew of us.$B$BWe must always be careful. And watchful. And patient."
+ },
+ {
+  "id": 729,
+  "t": "The Absent Minded Prospector",
+  "o": "Travel south and check on Prospector Remtravel.",
+  "d": "What an honor it was when Master Greywhisker assigned me to work under the guidance of the great Prospector Remtravel. At the academy in Ironforge everyone knew of Remtravel's great discoveries.$b$bBut the prospector is rather... um... oblivious ...to his surroundings.$b$bWe had uncovered evidence of a great society. Horrible golems sprang forth from the ground and overran the site. Remtravel never seemed to notice. I ran back to Auberdine for help.$b$bPlease travel south and see if the prospector is okay!",
+  "p": "",
+  "c": "Hollee. is that you? I need some help chiseling this stone. Hand me my stone brush, I think I see something.$b$bHey, you're not Hollee! Don't suppose you've seen my stone brush?$b$bNever mind that now! I promised the League I'd send the mysterious fossil I found. Where did Hollee go?$b$bSo much work to be done! Now where is that mysterious fossil... and my brush... and Hollee...$b$bAnd who are you... 'tis no matter, so long as you're here to help.$b$bLet me know when you're ready to start looking."
+ },
+ {
+  "id": 730,
+  "t": "Trouble In Darkshore?",
+  "o": "Travel to Auberdine and look for signs of the dwarven excavation team.",
+  "d": "How nice it is to see a $c interested in the great archeological wonders of our world.$b$bOftentimes our work is dismissed as mere hobby by our friends in the Alliance. But what many fail to realize is that recent discoveries in Khaz Modan have proven that a great and powerful force threatens all of Azeroth, from Lordaeron to Kalimdor.$b$bI am most worried about my crew that I sent to Darkshore. They haven't sent word in weeks.$b$bTravel to Auberdine and look for a clue as to their whereabouts.",
+  "p": "",
+  "c": "I'm so glad Chief Archeologist Greywhisker sent for us.... "
+ },
+ {
+  "id": 731,
+  "t": "The Absent Minded Prospector",
+  "o": "Protect Prospector Remtravel as he searches for the mysterious fossil, then return to Archaeologist Hollee in Auberdine.",
+  "d": "So then, Hollee... oh that's right, you are not Hollee. Where's Hollee?$b$bBah, that's beside the point. We must find that stone brush... I mean the mysterious fossil! We must find that fossil. The Explorers' League in Darnassus will want some indication as to what I've been doing.$b$bLet me know when you are ready and we will hunt down that brush.... I mean fossil! We shall find something in writing to satisfy the League.$b$bSo are you ready yet?",
+  "p": "Is the prospector alive?",
+  "c": "Thank the stars Prospector Remtravel is safe! I told you he was absent minded. I can't believe he insisted on staying there with all of those horrible creatures lurking about."
+ },
+ {
+  "id": 732,
+  "t": "Tremors of the Earth",
+  "o": "Retrieve the Sign of the Earth for Garek.",
+  "d": "I heard from Sigrun that you have been a great help to him. Perhaps I might enlist your help. I was sent here by my master, Krasus of the Kirin Tor, to put an end to the trouble brewing in Lethlor Ravine.$b$bI cannot divulge the exact nature of my assignment here or the tasks that I must undertake, but be assured it is of vital importance.$b$bA band of wandering ogres, sometimes seen near Camp Boff, stole an object called the Sign of the Earth; I must have it. Bring it to me, and I will tell you more.",
+  "p": "The nomadic band of ogres travels between their camps across the Badlands; heat rising from the dry earth and the swirling winds will make it difficult to track their progress. I have heard that sometimes they travel through Camp Boff. If you are lost, you might try your search there.",
+  "c": "Good tidings you bring bearing the Sign, $N. The Sign of the Earth was created by the Dark Iron dwarves of Angor Fortress to bind two of Deathwing's ruthless lieutenants, the twins Blacklash and Hematus."
+ },
+ {
+  "id": 733,
+  "t": "Scrounging",
+  "o": "Get 7 pieces of Scrap Metal for Sigrun.",
+  "d": "It's going to be tough going here if I can't manage to scrounge up some materials to construct some defenses and other necessities. I've noticed that the ogres in the area seem to be well equipped with scrap metal. Maybe the stories of siege engines in the Badlands weren't so far off after all...$b$bAnyways, the Prospector's been getting worried about the state of our little camp, so I'd like to get working soon if I can.$b$bThe main ogre camp is at Dustbelch Grotto, a good trek to the west of here.",
+  "p": "Well, I've made do with what I could, but... it's not much. Have you found any more supplies?",
+  "c": "It's a start, $N, and it'll have to do until we hear word from Ironforge or the Explorers' League.$B$BNow, if only I could find some salt somewhere for my quenching barrel..."
+ },
+ {
+  "id": 734,
+  "t": "This Is Going to Be Hard",
+  "o": "Speak to Lucien Tosselwrench in the Badlands.",
+  "d": "Wonderful, wonderful.$B$B<Lotwil looks up at you for a moment before going back to his shackles.>$B$BGo speak to Lucien, $N. I need a cog #5. Bring it to me, will you?",
+  "p": "",
+  "c": "Cog #5, huh? Yeah, this isn't going to be good."
+ },
+ {
+  "id": 735,
+  "t": "The Star, the Hand and the Heart",
+  "o": "Return the items on the Bonegrip's Note to Gerrig Bonegrip in Ironforge.",
+  "d": "Yagyin's Digest, eh?  Are you starting a new chapter of us, somewhere?  Never mind, it is not my place to ask.$B$BI will help you, for I have an extra copy.  We must aid each other, yes?  That is how we flourish.$B$BI require three items of power.  Bring them to me and I will give you the digest.$B$BI will not speak their names.  Ears may be on us.  But here, I will write them down.",
+  "p": "Do you have the relics for which I asked?",
+  "c": "You are resourceful, $c. If it truly is your charge to begin a new chapter of our order, then I believe you will run it well."
+ },
+ {
+  "id": 736,
+  "t": "The Star, the Hand and the Heart",
+  "o": "Bring the items on Bel'dugur's Note to Keeper Bel'dugur in the Undercity.",
+  "d": "You need Yagyin's Digest?  Your plan, then, is to gather another flock?  Of course it is...and of course I will help you, $gbrother:sister;.$B$BBut you must help me too.$B$BI require three items of power.  Bring me these and the digest will be yours.$B$BI cannot utter the names of these items, but I will write them down.$B$BGet me the items on this list.  If you can do that, then you are truly worthy of opening your own chapter of our order.",
+  "p": "How goes your mission, $c.",
+  "c": "I am impressed! You possess great skill, or great fortune, to have gained these relics. Either way, you are an asset to us."
+ },
+ {
+  "id": 737,
+  "t": "Forbidden Knowledge",
+  "o": "Bring Yagyin's Digest to Theldurin.",
+  "d": "I have the digest for you, $N.  I need not tell you to take great care with it.  And to keep it far from unfriendly hands.  $B$BThis book holds many truths...$B$B...And the truth can burn.",
+  "p": "Ho! You were gone a long time. Did you get the digest?",
+  "c": "You got it! Oh, hope glimmers!$B$BYour efforts may yet save us, $N. A monument they should make of you! A shrine they should build! May your name be praised until your grandchildren have grandchildren!$B$BUnless...THEY are freed and rise to the surface.  If that happens then you can forget about children.$B$BIf THEY are freed, then we're all worm food."
+ },
+ {
+  "id": 738,
+  "t": "Find Agmond",
+  "o": "Find Agmond.",
+  "d": "Prospector Agmond was in charge of our excavation sites in the Badlands, to the southwest.  I say \"was\" because...well, I haven't heard from him in weeks.  I need you to find Agmond so I can get his report.$B$BLast I heard Agmond was at the southernmost dig site in the Badlands--a tiny operation past the Angor Fortress.  I'd start your search for him there.",
+  "p": "",
+  "c": "This skeleton must be the unfortunate remains of Agmond. His body is broken and battered, and his bones picked clean."
+ },
+ {
+  "id": 739,
+  "t": "Murdaloc",
+  "o": "Slay Agmond's killer, Murdaloc.$B$BSlay 12 Stonevault Bonesnappers.$B$BReport to Prospector Ironband in Loch Modan.",
+  "d": "Agmond's tracks lead from the west.  It is easy to tell from the bloody smears across rock and sand that the dwarf crawled some distance.$B$BAnd here he died.$B$BUpon close inspection, the word \"Murdaloc\" is roughly scrawled in a patch of Badlands sandstone.$B$BScrawled next to Agmond's dead hand.",
+  "p": "Do you have news of Agmond's fate? Did you find him?",
+  "c": "This is sobering news, $N. But Agmond had a strong arm and a fierce hammer-swing, and his skull was as thick as they come! Although he was killed by those cursed troggs I'm sure he took a lot of them down with him."
+ },
+ {
+  "id": 740,
+  "t": "<UNUSED>",
+  "o": "",
+  "d": "This quest will take players into the Searing Gorge.$B$BStay tuned...",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 741,
+  "t": "The Absent Minded Prospector",
+  "o": "Take the mysterious fossil to Chief Archaeologist Greywhisker in Darnassus.",
+  "d": "So the prospector wants to send the mysterious fossil to the Explorers' League in Darnassus? I don't feel right leaving Darkshore without him.$b$bHere, $n, deliver the mysterious fossil to Chief Archaeologist Greywhisker in Darnassus.",
+  "p": "What can I do for you, $R?",
+  "c": "Oh my! Leave it to Prospector Remtravel to discover such a find!"
+ },
+ {
+  "id": 742,
+  "t": "The Ashenvale Hunt",
+  "o": "Speak with Senani Thunderheart at Splintertree Post, Ashenvale.",
+  "d": "Attention, young adventurers!  The wilds of Ashenvale await you!$B$BThe Horde has established a strong presence in the lands north of the Barrens.  Our two outposts - Splintertree Post and the Zoram Strand Outpost - strive to bring glory to the Horde!  Those who would prove themselves should seek out guidance there.  Of note: Senani Thunderheart in Splintertree Post, directly north of the Barrens, seeks adventurers willing to take part in a great hunt of Ashenvale!",
+  "p": "",
+  "c": "Welcome to the new frontier, $N. Ashenvale is a land of opportunity, one where a young $c like yourself is able to find boundless chances to prove their mettle. Look around the outpost here, and be sure to travel out to the Zoram Strand, as the Horde has another outpost there as well.$B$BYour presence here tells me that you've come to learn more about the hunt. Listen close, and I will gladly share with you what you need to know."
+ },
+ {
+  "id": 743,
+  "t": "Dangers of the Windfury",
+  "o": "Bring 8 Windfury Talons to Ruul Eagletalon in Bloodhoof Village.",
+  "d": "Thank you for taking the time to speak to me, $N. I am Ruul, warrior and teacher.$B$BYou have obviously reached an age when you must prepare for your trials if you are to adventure much further out of Mulgore.$B$BIf you wish a test of your strength, start by seeking out the Windfury harpies to the southeast. They nestle along the mountain's edges away from the road.$B$BThey are one of our natural enemies here in Mulgore and will be a good gauge of your skill.",
+  "p": "The Windfuries are deadly foes. Their strength in battle is only rivaled by their desire for fresh meat.",
+  "c": "You have done well, $N. You seem well prepared to travel onward. Let the wind always be at your back."
+ },
+ {
+  "id": 744,
+  "t": "Preparation for Ceremony",
+  "o": "Collect 6 Azure Feathers and 6 Bronze Feathers, and bring them to Eyahn Eagletalon in Thunder Bluff.",
+  "d": "$N, my brother soon stands before Chief Bloodhoof, and it is my honor to make his headdress for him.$B$BI want to ask a favor of you while I finish tanning these leather straps. There is not time for me to find enough feathers, and I was wondering, would you gather more for me?$B$BYou can find feathers of the correct size from the harpies residing far to the north and northwest of Thunder Bluff. I need only 6 azure and 6 bronze feathers to complete the design.",
+  "p": "This headdress will certainly be a wonderful gift for my brother.",
+  "c": "Thank you for your help, $N.$b$bMy part in my brother's ceremony is almost complete. Giving him his headdress and witnessing the ceremony are all my duty requires of me."
+ },
+ {
+  "id": 745,
+  "t": "Sharing the Land",
+  "o": "Kill 10 Palemane Tanners, 8 Palemane Skinners, and 5 Palemane Poachers, then return to Baine Bloodhoof in Bloodhoof Village.",
+  "d": "$N, there are many conflicts that wound this land. It is my hope that you will not bear witness to as many of them as I have. Yet there is one that I would ask you to seek out. It will give you some sense of how terrible, if left unchecked, even a small threat can be to the land.$B$BPalemane gnolls have settled to the south of Bloodhoof and in a cave to the west. They disrespect our attempts to communicate with them, and they slay the wildlife of Mulgore unbridled.$B$BWords are no longer the answer.",
+  "p": "If the Palemanes had respected the land and its inhabitants more, this conflict would have never occurred.",
+  "c": "$N, it is good you've taken my task seriously. Respect of the land and its creatures is important. Death and life are a circle... a necessity. One cannot exist without the other. Take time to ponder this and do well to never forget it."
+ },
+ {
+  "id": 746,
+  "t": "Dwarven Digging",
+  "o": "Collect 5 Prospector's Picks.$B$BAt a forge, smash the Prospector's Picks to create Broken Tools.$B$BBring 5 Broken Tools to Baine Bloodhoof in Bloodhoof Village.",
+  "d": "There are dwarves preparing a dig site to the northwest.  They think secrets lie in the earth, and that is true, but hollowing and defiling the land is no way to earn its teachings.$B$BCollect the dwarven tools of digging, smash them, and return to me with the dwarves' broken tools.$B$BYou can smash the tools at a forge.  You will find one in Thunder Bluff, but any forge -- even a forge at the dwarven camp -- will suffice.",
+  "p": "Hello, $N.  Do you have the Broken Tools?  The dwarves' digging will enrage the kodos of Mulgore.  This defilement must be stopped!",
+  "c": "Thank you, $N. This will calm the beasts of Mulgore. And, spirits willing, it will teach the dwarves that hollowing the land is not the path to knowledge."
+ },
+ {
+  "id": 747,
+  "t": "The Hunt Begins",
+  "o": "Grull Hawkwind in Camp Narache wants you to bring him 7 Plainstrider Feathers and 7 pieces of Plainstrider Meat.",
+  "d": "You have a promising air about you, and will prove yourself to the tribe. Perhaps someday soon you will be welcomed into the great city of Thunder Bluff. But before that can happen you must prove yourself to my father, Chief Hawkwind.$b$bUp here on Red Cloud Mesa we pride ourselves on keen hunting skills. Tauren hunt out of necessity and for sport. Our supply of meats has run low and we require feathers for clothing. Hunt the nearby plainstriders and prove yourself by resupplying the village.",
+  "p": "Providing meat and feathers for the tribe is the first step in proving yourself as a hunter before the Chief.",
+  "c": "The $R of Narache thank you, $N. You show much promise."
+ },
+ {
+  "id": 748,
+  "t": "Poison Water",
+  "o": "Bring 6 Prairie Wolf Paws and 4 Plainstrider Talons to Mull Thunderhorn in Bloodhoof.",
+  "d": "Goblins and their servants have tainted our sacred water wells!  We cannot allow this.$B$BTo cleanse each well, I must create a cleansing totem, then you must bring the totem to the well and perform a cleansing ritual.$B$BFirst we will create a cleansing totem for the Winterhoof Water Well.  To do this, the land must offer its aid. Hunt prairie wolves for their paws and adult plainstriders for their talons.  They are to the southwest.$B$BReturn to me with the paws and talons, $N.",
+  "p": "Do you have the paws and talons, $N?",
+  "c": "You have done well, $N. I will take these and bind their power into a totem of cleansing."
+ },
+ {
+  "id": 749,
+  "t": "The Ravaged Caravan",
+  "o": "Morin Cloudstalker wants you to examine the contents of a supply crate at the Ravaged Caravan.",
+  "d": "A few days ago, we found a Venture Co. caravan traveling under guard on the northern shore of Stonebull Lake. We'd lost two of our number in an earlier battle, so we were quick to attack and lay waste to the caravan.$b$bWe left their supply crates, thinking that our torches would destroy anything of value, but given that Venture Co. salvagers have been spotted near the burned wagons, maybe we were wrong.$b$bPerhaps you could go to the caravan and examine the contents of the crates.",
+  "p": "",
+  "c": "All sides of the crate are stamped with the sign of the Venture Co. Mining Division. Notes printed carefully on the side of the carton indicate that the contents are due for processing at one of their central plants."
+ },
+ {
+  "id": 750,
+  "t": "The Hunt Continues",
+  "o": "Grull Hawkwind in Camp Narache wants you to bring him 10 Mountain Cougar Pelts.",
+  "d": "A tauren skilled in the ways of the hunt knows that his prey is not for mere trophy. The beasts of the plains provide us with a means of survival. You will make quite an impression on the elders if you can bring back some highly valued Mountain Cougar Pelts. You can find the beasts lurking in the hills to the south.$b$bOur children need clothing and our tents need mending.",
+  "p": "If you can provide pelts for the tribe I will pass word along to my father, Chief Hawkwind, of your generous deeds.",
+  "c": "The $R of Narache thank you for these provisions, $N. With your skill in the ways of the hunt you will surely be revered in Thunder Bluff someday."
+ },
+ {
+  "id": 751,
+  "t": "The Ravaged Caravan",
+  "o": "Return the Venture Co. Documents to Morin Cloudstalker near Bloodhoof Village.",
+  "d": "Prying open the lid reveals a tightly packed assortment of ore and minerals, more evidence of the Venture Co.'s mining operation in Mulgore. On the top of the ore and minerals you remove a tightly bound sheaf of papers.$b$bUp in the foothills to the east, you can barely hear the sounds of work, and see smoke rising from a large fire.",
+  "p": "Hail, $N. Have you learned anything new about the Venture Co.'s plans and operations in our homeland?$b$bIf they plan to exploit our lands as they have others, the Outrunners will be quick to put an end to it.",
+  "c": "It does indeed appear that the Venture Co. is attempting to rob us of our natural resources. It is good to know this for true, and now it seems, we must do something about it."
+ },
+ {
+  "id": 752,
+  "t": "A Humble Task",
+  "o": "Chief Hawkwind wants you to search for his mother near the water well to the southeast of Camp Narache.",
+  "d": "All members of the tribe share in the harmony of life. We live together and work together.$b$bOur commitment to one another carries with it a high degree of responsibility. I ask of you now a humble task.$b$bMy mother set out this morning to fetch water from the well to the southeast of Narache. It has been quite some time now. Perhaps you could check on her for me while I attend to tribal matters here?",
+  "p": "",
+  "c": "You traveled all this way just to help an old woman? My my, aren't you a keeper?"
+ },
+ {
+  "id": 753,
+  "t": "A Humble Task",
+  "o": "Take a Water Pitcher from the water well.$b$bReturn the pitcher to Chief Hawkwind in Camp Narache which is northwest from the water well.",
+  "d": "I have traveled many paths through life and these old legs lack the vigor they once had. I can still perform my duties to the tribe. Sometimes it just takes an old woman a little longer to do the task.$b$bBut you look like an eager $c. Let's put some of that youthful vitality to the test. Take a water pitcher from the well and bring it to my son, the Chief, in Camp Narache.$b$bRemember that even the most humble task can gain the recognition of elders.",
+  "p": "You look as though you have returned from the plains. Do you have any word from Greatmother Hawkwind?",
+  "c": "You carried this pitcher back at the Greatmother's bidding, I see.$b$bYour willingness to help others and provide for the tauren of Camp Narache leads me to believe you would make the tribe proud in Thunder Bluff someday."
+ },
+ {
+  "id": 754,
+  "t": "Winterhoof Cleansing",
+  "o": "Use the Winterhoof Cleansing Totem at the Winterhoof Water Well, then return to Mull Thunderhorn.",
+  "d": "I have crafted the totem to cleanse the Winterhoof Water Well.  Now, you must take it to the well and perform a cleansing ritual.  You will find it to the southeast, guarded by foul goblins!$B$BThis will not be an easy task, but you must do it if we are ever to use its waters again.$B$BFortune to you, $N.",
+  "p": "Do not delay, $n. The Winterhoof Well's taint must be removed!",
+  "c": "News of your deed reached me moments ago -- already the beasts near the well drink from it eagerly.$b$bYou have done a great thing for the land, $N. And you have done a great thing for the Tauren people."
+ },
+ {
+  "id": 755,
+  "t": "Rites of the Earthmother",
+  "o": "Travel to Seer Graytongue who lives in the hills directly south of Camp Narache.",
+  "d": "Your willingness to perform a humble task for the tauren of Narache and your eagerness to learn are noble traits, $n. I believe one day you will be heralded in Thunder Bluff as a $c of greatness.$b$bBefore that you must embark on the Rites of the Earthmother, of which there are three.$b$bThe first test is the Rite of Strength. Travel to Seer Graytongue and tell him Chief Hawkwind has sent you.$b$bYou will find the seer's abode directly to the south of Camp Narache, tucked away in the hills.",
+  "p": "",
+  "c": "Chief Hawkwind sent you? Embarking on the Rites of the Earthmother is no small task..."
+ },
+ {
+  "id": 756,
+  "t": "Thunderhorn Totem",
+  "o": "Bring 6 Stalker Claws and 6 Cougar Claws to Mull Thunderhorn.",
+  "d": "To create the Thunderhorn Cleansing Totem, you must gather the claws of the predators of the Mulgore plains.  Hunt prairie stalkers for their stalker claws and flatland cougars for their cougar claws, then return to me.$B$BYou will find the prairie stalkers and flatland cougars to the east and west.",
+  "p": "$N, do you have the claws I sent you to gather? The Thunderhorn Water Well grows more tainted with each passing hour!",
+  "c": "Thank you, $N. The purity with which these beasts hunt is vital in the creation of the next cleansing totem.$b$bThe goblins will never learn the difference between contending with the land, and living in harmony with it."
+ },
+ {
+  "id": 757,
+  "t": "Rite of Strength",
+  "o": "Kill Bristlebacks in Brambleblade Ravine and bring 8 Bristleback Belts to Chief Hawkwind in Camp Narache.",
+  "d": "The Rites of the Earthmother are the steps a young tauren needs to take to gain respect in Thunder Bluff.$b$bFirst you must pass the Rite of Strength. In this test you must prove your bravery by slaying enemies of the tribe.$b$bBristlebacks of Brambleblade Ravine to the east are encroaching on our tribal lands. They ambush our hunting parties and steal from the village by dark.$b$bShow your valor by slaying these villains and return to the Chief in Camp Narache with their belts as proof of your deeds.",
+  "p": "Have you completed the Rite of Strength, $N? I require proof of your valor against the enemy of our tribe, the Bristlebacks.",
+  "c": "You have passed the first test of the Rites of the Earthmother. The tribe will be proud."
+ },
+ {
+  "id": 758,
+  "t": "Thunderhorn Cleansing",
+  "o": "Use the Thunderhorn Cleansing Totem at the Thunderhorn Water Well, then return to Mull.",
+  "d": "The totem is ready, $N.  And again, it is your task to perform the ritual of cleansing.$B$BGo to the Thunderhorn Water Well, north of the village, and use the Thunderhorn Cleansing Totem in your ritual.  After you do this, return to me.$B$BMay the spirits guide you.",
+  "p": "The Thunderhorn Water Well is still tainted, $n. Please, you must perform the ritual!",
+  "c": "Ancestors of the Thunderhorn clan spoke to me in a dream, praising you for your actions near their well.$b$bFor their gratitude, they wish to give you this..."
+ },
+ {
+  "id": 759,
+  "t": "Wildmane Totem",
+  "o": "Bring 8 Prairie Alpha Teeth to Mull Thunderhorn in Bloodhoof Village.",
+  "d": "There is but one water well left to cleanse, named after the Wildmane clan.  For this well to be pure, the land must offer the teeth of a fierce predator, the prairie wolf alpha.  Find the alphas to the north, then return to me when your hunt is finished.$B$BAlphas often wander around the base of our mighty city, Thunder Bluff.",
+  "p": "$N. Do you have the teeth I asked for?",
+  "c": "Very good, $N. I can feel the sacrifice of the land in this offering, and my spirit swells with sadness, and pride."
+ },
+ {
+  "id": 760,
+  "t": "Wildmane Cleansing",
+  "o": "Use the Wildmane Cleansing Totem at the Wildmane Water Well, then return to Mull Thunderhorn.",
+  "d": "Your cleansing of the Winterhoof and Thunderhorn wells is spoken among the spirits, young $N.  The Wildmane Totem is made, and your last task lies ahead.$B$BThe Wildmane Water Well lies north of Thunder Bluff.  Perform the ritual!  Heal the land of the goblins' poisons!  Let clean water flow once again!",
+  "p": "",
+  "c": "You've done it. You have cleaned the wells, and healed our land. Bloodhoof village is grateful, $N.$b$bMay the wind whisper your deeds for a hundred seasons, and may the waters of Mulgore remain clean forever."
+ },
+ {
+  "id": 761,
+  "t": "Swoop Hunting",
+  "o": "Bring 8 Trophy Swoop Quills to Harken Windtotem in Bloodhoof Village.",
+  "d": "The swoop is a cunning bird, and difficult to find and hunt.  A collection of Swoop Quills is a badge of cleverness and determination for a hunter.$B$BIf you are willing to take up this task, then enter the plains and hunt the swoop.$B$BBring me their quills, and bring honor to your clan.$B$BThe swoops may be found anywhere in Mulgore, but your eyes must be sharp to spot them, and your hooves must be quick to catch them.",
+  "p": "Have you found the swoops, $N.  Do you have their quills?",
+  "c": "I know that gathering these quills was not an easy task, $N. In doing this, you prove that you are a $c of merit. It is good to have you at Bloodhoof Village."
+ },
+ {
+  "id": 762,
+  "t": "An Ambassador of Evil",
+  "o": "Kill Ambassador Infernus in Angor Fortress and bring proof of his death to Advisor Belgrum in Ironforge.",
+  "d": "Ambassador Infernus was sent to Angor Fortress by Ragnaros himself to mind the Shadowforge seeking lost artifacts in Uldaman.$B$BIt has already meant tremendous casualties for our people, but it has obviously grown worse. I hesitate to guess how many artifacts they would be able to find and use against Ironforge.$B$BOur goal is simple, $c. Return to the Badlands and destroy Ambassador Infernus. Once the threat is eliminated, return to Advisor Belgrum with proof of your victory.$B$BIt is in your hands now.",
+  "p": "Time is of the essence, $N. Ragnaros will not wait for us to prepare.",
+  "c": "$N, your dedication to Ironforge and to the dwarven people cannot be refuted. I thank you for your help in this matter.$B$BI shall send word to Historian Karnik informing him that you have succeeded, and I shall also have aid sent to the Badlands as soon as possible to help recover the excavation site. Thank you again.$B$BBefore you go, there is one more thing I would ask of you in the name of King Bronzebeard."
+ },
+ {
+  "id": 763,
+  "t": "Rites of the Earthmother",
+  "o": "Take the Totem of Hawkwind to Baine Bloodhoof in Bloodhoof Village. Follow the road out of Camp Narache.",
+  "d": "For you to continue with the Rites of the Earthmother you must pass two more tests. It is time for you to broaden your experience, $n.$b$bTravel to Bloodhoof Village and seek out the Chief, Baine Bloodhoof, son of Cairne. There you may continue your journey and earn the acceptance of the elders of Thunder Bluff.$b$bTake this totem to Baine. He will recognize my carvings and help you on your path.$b$bFollow the road out of Camp Narache and travel with haste. Do not stray or you will lose your way.",
+  "p": "What brings you to my village, $C?",
+  "c": "Word from my good friend, Chief Hawkwind! Ah, I can see by his carvings you are of a special breed."
+ },
+ {
+  "id": 764,
+  "t": "The Venture Co.",
+  "o": "Kill 14 Venture Co. Workers and 6 Venture Co. Supervisors for Morin Cloudstalker at Bloodhoof Village.",
+  "d": "This explains the buildup of Venture Co. employees and equipment we've seen in Mulgore. Those goblins... their company is expanding too quickly for their own good. It's how they say, show a goblin something, and you can hear the scales in the background.$b$bGreedy little things, they are. Unfortunately for their business enterprise, we tauren cannot allow them to conduct their operations in our lands. Go to their mine northeast of the ravaged caravan and send them a message.",
+  "p": "The Venture Co. was refused mining rights here in Mulgore, but it would seem that they do not take no for an answer. We tauren are not ones to mince words, however, and we have other ways of getting our message across.",
+  "c": "I don't think there could be too much misinterpreting or ignoring of that signal, hm? The Venture Co. will know not to take the tauren lightly, or to be so arrogant as to believe we would allow them to steal the natural resources around us without protest."
+ },
+ {
+  "id": 765,
+  "t": "Supervisor Fizsprocket",
+  "o": "Kill Supervisor Fizsprocket and return his clipboard to Morin Cloudstalker at Bloodhoof Village.",
+  "d": "According to the documents you salvaged from the caravan, the Venture Co. created many plans to attempt to drive us from our lands here, so that they could have free reign to plunder our lands.$b$bThe depths that they would sink to accomplish their goals disgusts and appalls me. I want the mastermind behind their plans killed. His name is Supervisor Fizsprocket, you will find him at the Venture Co. mine east of the ravaged caravan. Bring me his clipboard, we shall see if we find out anything useful.",
+  "p": "I seethe with anger at the thought of the atrocities the Venture Co. is willing to perpetrate against us in the name of profit.",
+  "c": "My anger is somewhat lessened at the news that the villain Fizsprocket is dead. I will go through his personal effects and see if there is any additional information about what the Venture Co. has planned for the future. Thank you for your efforts, $N."
+ },
+ {
+  "id": 766,
+  "t": "Mazzranache",
+  "o": "Bring a Prairie Wolf Heart, Flatland Cougar Femur, Plainstrider Scale and Swoop Gizzard to Maur Raincaller at Bloodhoof Village.",
+  "d": "My grandfather told me stories about his battles with a strider named Mazzranache. He told me of its demonic red eyes, razor-sharp talons and venomous bite.$b$bAs fortune would have it, while traveling across the plains, I encountered it, and it took a nasty bite from my shoulder. He was as terrible as my grandfather described. I will need some hard-to-find animal parts to clean the infection from his bite: a wolf heart, cougar femur, plainstrider scale and swoop gizzard.$b$bHurry, time is of the essence.",
+  "p": "My fever grows worse and I find my mind drifting into delirious nightmares... I should have known that I wouldn't be able to handle a beast my grandfather was unable to defeat...$b$bDo you have the ingredients for the remedy? I fear if I do not clean the infection soon, it will be the death of me.",
+  "c": "Ah, thank you, $N. Using the items you brought me, I will be able to create the remedy I need to stop the spread of the infection and, eventually, cure it completely. I owe you my life in thanks.$b$bBut I'll never forget that screeching call when Mazzranache came upon me, the blaze of color as its beak descended...$b$bBe wary on your travels."
+ },
+ {
+  "id": 767,
+  "t": "Rite of Vision",
+  "o": "Speak with Zarlman Two-Moons in Bloodhoof Village.",
+  "d": "The Rite of Vision, one of the Rites of the Earthmother, will help guide you toward earning the respect of the elders of Thunder Bluff.$b$bOur people have learned that the land is our most holy provider. In order to take part in the ritualistic vision, you must speak with the spiritual leader of the village, Zarlman Two-Moons.",
+  "p": "",
+  "c": "I sensed you would be coming to me, $c. I can always recognize one who is trying to pass the Rites of the Earthmother."
+ },
+ {
+  "id": 768,
+  "t": "Gathering Leather",
+  "o": "Bring 12 pieces of Light Leather to Veren Tallstrider in Thunder Bluff.",
+  "d": "Greetings, young one.  You have a gleam in your eye; I can tell you are eager to venture back to the plains for the hunt.  May you bring honor to your clan!$B$BI work with the skins of beasts, fashioning them into clothes and armor for the people of Thunder Bluff.$B$BIf you hunt beasts and bring me their skins, then I will fashion something for you.",
+  "p": "Hello again. Have you been hunting? Do you have skins for me?",
+  "c": "Ah, these are very nice pieces. They'll make fine leather goods.$B$BHere, $N. Take this in trade..."
+ },
+ {
+  "id": 769,
+  "t": "Kodo Hide Bag",
+  "o": "Bring 4 Light Leather and 4 Coarse Thread to Veren Tallstrider in Thunder Bluff.",
+  "d": "The kodo beasts of Mulgore are strong and sturdy -- traits much respected among us.  If you are skilled in leatherworking and wish the knowledge to make a Kodo Hide Bag, then bring me supplies for my trade.$B$BDo this, and I will share my knowledge with you.",
+  "p": "Do you have my supplies, $N?",
+  "c": "Ah, good. Thank you, $N. My heart swells with pride to see youths interested in the craft of leatherworking."
+ },
+ {
+  "id": 770,
+  "t": "The Demon Scarred Cloak",
+  "o": "Find someone who knows of Ghost Howl.",
+  "d": "The ragged hide of Ghost Howl still bears a terrible wound, gained from the wolf's battles against the Burning Legion.$B$BPerhaps someone in Bloodhoof Village should know of Ghost Howl's demise....",
+  "p": "",
+  "c": "I can barely believe my old eyes! You defeated the great wolf Ghost Howl? I look upon you with new respect, young $c. You are a $c of extreme skills!$b$bLet me offer you something. My days of hunting are over, but I would be honored if you used one of my weapons in your hunts.$b$bMay it strike true, and bring you renown.$b$bAnd let us hope that Ghost Howl's spirit has finally found peace."
+ },
+ {
+  "id": 771,
+  "t": "Rite of Vision",
+  "o": "Collect 2 Well Stones and 2 Ambercorn and bring them back to Zarlman Two-Moons in Bloodhoof Village.",
+  "d": "In order to pass through the Rite of Vision, you must gather the reagents needed to make the Water of the Seers.$b$bI will need well stones, which can be found around the water wells in Mulgore. With those I will combine Ambercorn, which fall beneath the mighty trees in our land.$b$bThese reagents contain magical elements, and when brewed and consumed before the tribal fire, will cause you to encounter a vision. Follow it, and it will lead you to the next step of this holy quest.",
+  "p": "Once you have gathered enough well stones from around the water wells and Ambercorn from beneath the trees, I will prepare the Water of the Seers for you.",
+  "c": "I see you have learned to gather from our sacred land, $N. It will take but a moment for me to brew the Water of the Seers."
+ },
+ {
+  "id": 772,
+  "t": "Rite of Vision",
+  "o": "Consume the Water of the Seers in front of the tribal fire in Bloodhoof Village and follow the vision once it appears.",
+  "d": "I now present you with the Water of the Seers.$b$bWhen you are ready, consume the waters near the tribal fire. Once you have ingested the holy waters, it will take a few moments before the vision materializes before the fire.$b$bAt that point, it is up to you to follow it to your destiny....",
+  "p": "",
+  "c": "Be not afraid, $N. You have successfully passed the Rite of Vision."
+ },
+ {
+  "id": 773,
+  "t": "Rite of Wisdom",
+  "o": "Travel to Red Rocks east of Thunder Bluff and speak with the Ancestral Spirit.",
+  "d": "To gain acceptance amongst the elders of Thunder Bluff you must next complete the Rite of Wisdom.$b$bNow that you have passed the Rite of Vision, the ancestral spirits of Red Rocks will give you the blessing of our ancestors. Only those who have drunk from the Water of Seers can gain the blessing.$b$bTravel east of Thunder Bluff, to Red Rocks and seek out the Ancestral Spirit, $n.",
+  "p": "",
+  "c": "You have shown great diligence in your yearning to pass the Rites of the Earthmother, $N.$b$bWe, the Ancestral Spirits, represent the mighty tauren who gave their lives bravely to found and protect our great city of Thunder Bluff. I hereby pass the duty of that protection over to you.$b$bYou have passed the Rite of Wisdom, young $c. Enter Thunder Bluff with pride."
+ }
+]

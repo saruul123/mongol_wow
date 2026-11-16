@@ -1,0 +1,962 @@
+[
+ {
+  "id": 13076,
+  "t": "Time Yet Remains",
+  "o": "Return to Highlord Tirion Fordring at Crusaders' Pinnacle with news of Emerald Acorn's effects.",
+  "d": "I feel refreshed... renewed... but the plague still grips me. Not to worry, I am still eternally grateful that you went to such lengths for me, a complete stranger. If nothing else, you've bought me a few more precious hours not plaguing the world as a hideous undead.$B$BThank you, $c. Please extend my thanks to Tirion as well, and let him know that it has been an honor to serve beside him.",
+  "p": "",
+  "c": "It saddens me to hear that it did not work. No reason to fret though, I have met other beings of good that may still be of aid to us."
+ },
+ {
+  "id": 13077,
+  "t": "The Touch of an Aspect",
+  "o": "Request the aid of Alexstrasza the Life-Binder at Wyrmrest Temple.",
+  "d": "The dragon-queen, Alexstrasza, possesses magics over all life. In the past, she has used great fire to incinerate undead and rebirth fresh new life in their place. Perhaps her powers might be able to save our Bridenbrad as well.$B$BAlexstrasza makes her home at Wyrmrest Temple in Dragonblight - please go to her and humbly request her aid on my behalf.",
+  "p": "",
+  "c": "Greetings to you, $r.$B$BThe concern is clear on your face. Please tell me what troubles you."
+ },
+ {
+  "id": 13078,
+  "t": "Dahlia's Tears",
+  "o": "Alexstrasza the Life-Binder at Wyrmrest Temple has requested that you recover Dahlia's Tears from soil freshly cleansed by a Ruby Keeper's flames.",
+  "d": "In this dark time, I'll not be the one to abandon a champion of the Light.$B$BWe will need something sacred for this to have a hope of saving your Bridenbrad... a remnant of a devout being that fell victim to this very same plague.$B$BGo now to the sacred soil of the passages outside my Ruby Dragonshrine where the battle is joined. As my Ruby Keepers fly down and set flame to the ground beneath undead feet, you will witness new life grow forth. Among that life are Dahlia's Tears - bring them to me.",
+  "p": "Ah, dear Dahlia. I do miss you so.",
+  "c": "With Dahlia's Tears and ancient magic, I fashion you some small amount of hope for your great crusader."
+ },
+ {
+  "id": 13079,
+  "t": "The Boon of Alexstrasza",
+  "o": "Bring the Breath of Alexstrasza to Crusader Bridenbrad at the Silent Vigil in Icecrown.",
+  "d": "You must understand, young $r, that cleansing the body in favor of life anew is something well within my grasp... removing the plague of undeath without affecting the body, however, is beyond the scope of the powers that I control.$B$BIf this Bridenbrad is the beacon of light that you profess him to be, perhaps he will endure such a cleansing and thrive, but I cannot state with confidence that this is the salvation that you seek. Take it and go with all of my blessings.",
+  "p": "You have returned yet again, $c. Why do you risk yourself so?",
+  "c": "The breath of Alexstrasza... you have gone to the dragon-queen herself? I'm extremely grateful.$B$BI understand the risks of such cleansing and I am prepared. Proceed, $c."
+ },
+ {
+  "id": 13080,
+  "t": "Hope Yet Remains",
+  "o": "Return to Highlord Tirion Fordring at Crusaders' Pinnacle with news of the effects of the Breath of Alexstrasza.",
+  "d": "<Bridenbrad raises a hand to you as he catches his breath.>$B$BIt was nearly as painful as it looked, but it was as if I could feel some of the corruption being burnt away from within my body. It seems the plague is not so readily bested though.$B$B$C, thank you for everything that you have done. Your selfless actions have renewed my hope that there is yet great good left within this world - I can depart without fear that darkness will prevail in my absence.$B$BGo now, go with no regrets.",
+  "p": "",
+  "c": "The Scourge plague is no simple foe to defeat. Alexstrasza's words suggest that perhaps we can yet save our Bridenbrad from the unimaginable fate of the unliving should he fall, but I will not give him up so easily.$B$BThere is yet one more path of light I would like to pursue. One more being who might avert this horrible fate."
+ },
+ {
+  "id": 13081,
+  "t": "The Will of the Naaru",
+  "o": "Request the aid of A'dal at Shattrath City in Terokkar Forest.",
+  "d": "I appreciate everything that you have done for us, $n. I have one last errand for you... one last gleaming hope for a paladin who deserves any salvation that we can extend.$B$BGo now to Shattrath and speak to the naaru, A'dal. He has long been a beacon of light and powerful ally to devout paladins. Impart Bridenbrad's story and seek any aid that he might have to offer.$B$BI cannot impress how important it is that you move quickly - I fear our crusader does not have much more time in this world.",
+  "p": "",
+  "c": "<A gentle ringing fills your head as you approach the naaru.>$B$BI know why you have come."
+ },
+ {
+  "id": 13082,
+  "t": "The Boon of A'dal",
+  "o": "Return to Crusader Bridenbrad at the Silent Vigil in Icecrown.",
+  "d": "I am pleased that you have come to me, $n. I know of Crusader Bridenbrad, and of your travels in hope of saving him. Bridenbrad's valor has sparked remarkable selflessness in you, and this is a miracle unto itself.$B$BThe Light will take care of its own. I will extend my blessing to Bridenbrad and he shall not endure the corruption of undeath. I shall return you to Dalaran, and you shall return to him. Know that I remain with you.",
+  "p": "",
+  "c": "<As you approach Crusader Bridenbrad, you cannot help but notice that his skin has taken on a pale hue and his breaths are shallow. It is clear that he has little time left.>$B$BYou have returned to me, $c. I must admit... it is good to see you again... your face renews my hope that this land will be free of Arthas's grasp one day soon. I'm proud to have met you...$B$B<Bridenbrad's words trail off, a dim smile on his face. As life seems to slip from him, a gentle ringing fills your ears.>"
+ },
+ {
+  "id": 13083,
+  "t": "Light Within the Darkness",
+  "o": "Bring Crusader Bridenbrad's Tabard to Highlord Tirion Fordring at Crusaders' Pinnacle.",
+  "d": "<Crusader Bridenbrad's tabard rests in the bottom of the chest, shifting slightly as the howling wind finds its way in.>$B$BTirion will desire this last remnant of the great crusader.",
+  "p": "He has departed, hasn't he? I felt a small bit of light leave the land.",
+  "c": "I am glad you were able to save him from undeath. With A'dal's blessing, he will know no evil in his afterlife.$b$bWe shall take heart in his shining example and in your selflessness. Thank you for all that you have done."
+ },
+ {
+  "id": 13084,
+  "t": "Vandalizing Jotunheim",
+  "o": "Duke Lankral at The Shadow Vault wants you to burn 10 Vrykul Banners.",
+  "d": "Let us see if we can further weaken the resolve of the vrykul, $N.$B$BEach day I wish you to travel to Jotunheim and put their banners to the torch. It may seem a trivial thing, but to see their ancestral home vandalized on a daily basis will demoralize them more than any physical punishment you can inflict.$B$BAt least... it can't hurt.",
+  "p": "You have more work to do.",
+  "c": "<The duke looks at you a moment and nods.>$B$BYou're inflicting horrible mental trauma on the Jotunheim vrykul. This is where they were first reawakened. It is a place of significant importance to them, second only to Ymirheim.$B$BYou must keep up the pressure there while I hold the vault from the assault of the Lich King."
+ },
+ {
+  "id": 13085,
+  "t": "Vaelen Has Returned",
+  "o": "Speak with Vaelen the Flayed at The Shadow Vault.",
+  "d": "I just saw that incompetent fool, Vaelen the Flayed, sneak into the vault building.$B$BGo see to it that he rectifies his mistake and returns my death knights to me!",
+  "p": "",
+  "c": "I think I can guess why you're here, $N."
+ },
+ {
+  "id": 13086,
+  "t": "The Last Line Of Defense",
+  "o": "Use an Argent Cannon to destroy 100 Scourge attackers. You must also kill 3 Frostbrood Destroyers.$B$BReturn to Siegemaster Fezzik should you succeed.",
+  "d": "I've triggered the base's defenses, $c! Atop each of the Vanguard's four towers is a retractable Argent Crusade cannon, blessed by Father Gustav himself. You'll need to fly up to one of those towers and man a cannon. Use it to destroy the Scourge onslaught that the Lich King has deployed.$B$BJust one warning, the Scourge will undoubtedly send their frost wyrms to lay siege to the towers. Shoot them out of the sky! If they destroy the walls and towers of this base, we're done for!",
+  "p": "The screams of the dying will haunt me forever! Help them!",
+  "c": "You handled the cannon like a goblin gunner, friend. You've saved the Vanguard and the Argent Crusade - all the while backing the Highlord himself up on the field of battle! Amazing!"
+ },
+ {
+  "id": 13087,
+  "t": "Northern Cooking",
+  "o": "Bring four chilled meat to Brom Brewbaster at Valgarde.   Chilled meat can be found on any Northrend beast.",
+  "d": "So what are ya doin' if you dinna have any stew for me.   I got me a HUNGER!   At least bring me some chilled meat so I kin cook me own stew!   If ya do, I kin give ya the recipe so you kin make it for yourself.   NOW GO GET ME SOME MEAT!",
+  "p": "WHERE IS MY MEAT!",
+  "c": "Ya gots me meat!  Here is your recipe, I gots cookin to do!"
+ },
+ {
+  "id": 13088,
+  "t": "Northern Cooking",
+  "o": "Bring four chilled meat to Rollick Mackreel at Valiance Keep.   Chilled meat can be found on any Northrend beast.",
+  "d": "We got a lot of new recruits here and these lads are hungry!  If you could go out and get me some chilled meat for stew, I could teach you how to make it for yourself.",
+  "p": "The lads need meat for their stew.",
+  "c": "That will keep our recruits fed!   Here's how you cook it."
+ },
+ {
+  "id": 13089,
+  "t": "Northern Cooking",
+  "o": "Bring four chilled meat to Thomas Kolichio at Vengeance Landing.   Chilled meat can be found on any Northrend beast.",
+  "d": "Nothing like a stew made from the living to warm your bones.   Bring me some of the chilled meat that can be found on the wretched beasts of this place, and I shall teach you to make a warm stew.",
+  "p": "The stew awaits...",
+  "c": "We can quickly turn this flesh into stew."
+ },
+ {
+  "id": 13090,
+  "t": "Northern Cooking",
+  "o": "Bring four chilled meat to Orn Tenderhoof at Warsong Hold.   Chilled meat can be found on any Northrend beast.",
+  "d": "The warriors of the Warsong Offensive need food in their bellies to keep their strength up.   If you could bring some chilled meats from the Rhinos or other beasts, I could make them some stew.   I would be willing to teach you the recipe if you were willing.",
+  "p": "When the meat is present, the stew will be prepared.",
+  "c": "I give my thanks to you."
+ },
+ {
+  "id": 13091,
+  "t": "The Art of Being a Water Terror",
+  "o": "The Bone Witch in Njorndar Village wants you to possess a Water Terror and use it to slay 10 vrykul in the greater Jotunheim region.$B$BQualifying vrykul are Jotunheim Sleep-Watchers, Jotunheim Warriors, Mjordin Water Magi, Njorndar Spear-Sisters, and Valhalas Vargul.",
+  "d": "The water lock outside my cave is teeming with elementals that the vrykul magi have yet to tame. I am going to teach you a trick for possessing these creatures for a short time, and you will use them to wreak havoc upon Jotunheim!$B$B<The banshee-infested vrykul draws magic in the air and touches a large finger to your forehead.>$B$BGo now and open the gate to the lock. A water terror will rush out and you will possess it to destroy our enemies!",
+  "p": "My reading of the bones tells me that you're not quite done.",
+  "c": "I have never seen such terror in the eyes of a vrykul. They think themselves masters of their world.$B$BYou and I are going to prove them wrong. Very wrong."
+ },
+ {
+  "id": 13092,
+  "t": "Reading the Bones",
+  "o": "The Bone Witch in Njorndar Village has instructed you to collect 15 Vrykul Bones.",
+  "d": "One of the benefits of possessing this creature is that I have access to all of her powers. As a bone witch and rune reader, she has the power to throw the bones and determine one's fate.$B$B<The Bone Witch smirks.>$B$BLucky for you and I that I have it within my power to influence those readings.$B$BBring me the bones of the vrykul that you kill here in Jotunheim and I will toss them to allow you to determine your own fate.",
+  "p": "I find it remarkable that these beings ever held sway over the world when they utilized such primitive magic.",
+  "c": "And now we shall see what the future holds for you.$b$b<The Bone Witch casts the bones upon the rug in front of her.>$b$bChoose your fate, $c."
+ },
+ {
+  "id": 13093,
+  "t": "Reading the Bones",
+  "o": "",
+  "d": "",
+  "p": "Bring me more vrykul bones and we will influence the fates in your favor.",
+  "c": "Choose your fate, $N."
+ },
+ {
+  "id": 13094,
+  "t": "Have They No Shame?",
+  "o": "Librarian Serrah wants you to enter the Nexus and recover Berinand's Research.",
+  "d": "Archmage Berinand is the Kirin Tor's foremost authority on Malygos. He's spent his life studying the aspect and his behaviors.$b$bRecently, he loaned me his research on the Arcanomicron, some sort of map that Malygos is trying to assemble. I made the mistake of discussing it with a group of Horde adventurers while they were restocking their goods here - and now it's gone!$b$bIt must have been them, $c. Please, follow them into the nexus and recover the book before Berinand comes to recover it.",
+  "p": "Please, $n, tell me you've found Berinand's research....",
+  "c": "You found it!? Yes, yes, it's all here.$b$bPlease, take this with my gratitude. And if it's not too much to ask, it would be better for me if Berinand never learned of this."
+ },
+ {
+  "id": 13095,
+  "t": "Have They No Shame?",
+  "o": "Librarian Serrah wants you to enter the Nexus and recover Berinand's Research.",
+  "d": "Archmage Berinand is the Kirin Tor's foremost authority on Malygos. He's spent his life studying the aspect and his behaviors.$b$bRecently, he loaned me his research on the Arcanomicron, some sort of map that Malygos is trying to assemble. I made the mistake of discussing it with a group of Alliance adventurers while they were restocking their goods here - and now it's gone!$b$bIt must have been them, $c. Please, follow them into the nexus and find the book before Berinand comes to recover it from me.",
+  "p": "Please, $n, tell me you've found Berinand's research....",
+  "c": "You found it!? Yes, yes, it's all here.$b$bPlease, take this with my gratitude. And if it's not too much to ask, it would be better for me if Berinand never learned of this."
+ },
+ {
+  "id": 13096,
+  "t": "Gal'darah Must Pay",
+  "o": "Tol'mar at Dubra'Jin wants you to slay Gal'darah in Gundrak.",
+  "d": "Did ya see it, mon?$b$bIt musta been da most awful thing I ever seen. Da great Akali - slain right before my eyes. Horrible...$b$bI done took an oath not ta be gettin' involved here. My job be to observe only. But dis cannot stand! Gal'darah must pay!$b$bGo into Gundrak and seek him out. Come back to me when Akali's death been avenged, mon.",
+  "p": "Has Akali's death been avenged, $r?",
+  "c": "Ya done it?! Gal'darah be no more?$b$bHere ya go, mon. Take dis gift for bringin' justice to that wretch."
+ },
+ {
+  "id": 13097,
+  "t": "Unfinished Business",
+  "o": "Har'koa wants you to speak with Tol'mar at Dubra'jin.",
+  "d": "While it is true that the Prophet of Akali will trouble this world no more, there yet remains work to be done.$b$bThe greater part of Akali's blood has empowered another, and it is in him that the true danger lies.$b$bQuickly, $n, make your way north of Gundrak to Dubra'Jin and speak with Tol'mar. He will be able to direct you further in this cause.",
+  "p": "",
+  "c": "Lissen up, mon. Dere be dangerous work ta be done!"
+ },
+ {
+  "id": 13098,
+  "t": "For Posterity",
+  "o": "Chronicler Bah'Kini at Dubra'Jin wants you to enter Gundrak and collect 6 Drakkari History Tablets.",
+  "d": "Gundrak be doomed, mon.$b$bHistory be repeatin' itself before our eyes. When trolls be turnin' on their own gods, the end be certain. It just be a matter of time.$b$bPerhaps if we can record the events clearly, we might prevent future generations from traveling down da same path.$b$bIf you be havin' the courage, enter Gundrak and search for clues to what brought the Drakkari Empire to such an end as dis.",
+  "p": "You find da Drakkari history tablets, mon?",
+  "c": "<Bah'Kini scans the engraved tablets for a moment, then turns her attention back to you.>$b$bDese be authentic, $r. I'll be placin' dem in their proper place in my collection.$b$bPerhaps we can finally be puttin' an end to dis behavior."
+ },
+ {
+  "id": 13099,
+  "t": "Just Checkin'",
+  "o": "To'kini wants you to speak to Bah'kini at Dubra'Jin.",
+  "d": "There have been fearsome sounds echoing from Gundrak. They have been increasing in volume and frequency of late.$b$bMy long-time student is currently recording events from her post just west of Gundrak. Perhaps you could find the time to check in on her for me?",
+  "p": "",
+  "c": "Long-time student? Hah!$b$bIf by long-time ya mean my whole life, den I suppose dat be accurate.$b$bTo'kini be my cowardly father - too fearful to take up a position so near Gundrak... so he sent me!"
+ },
+ {
+  "id": 13100,
+  "t": "Infused Mushroom Meatloaf",
+  "o": "Use your Meatloaf Pan to cook 4 Infused Mushrooms and 2 Chilled Meats and bring the finished Mushroom Meatloaf to Orton Bennet in Curiosities & Moore, located in Runeweaver Square in Dalaran.",
+  "d": "We have an important order that needs to go out!  Orton Bennet in Curiosities & Moore needs a mushroom meatloaf.$B$BGet some infused mushrooms found in the Dalaran sewers, chilled meat, and cook them in this meatloaf pan.  When you're done, deliver the cooked meatloaf to Orton.",
+  "p": "Do you have any food for me?$B$BI never seem to be able to get away from the shop, even for a minute.",
+  "c": "This looks great!  Thanks!"
+ },
+ {
+  "id": 13101,
+  "t": "Convention at the Legerdemain",
+  "o": "Bring 4 Northern Stew that you use your cooking skill to make and a Jug of Wine from the cheese shop in Dalaran to Arille Azuregaze at the Legerdemain Lounge found in Runeweaver Square in Dalaran.",
+  "d": "Arille Azuregaze at the Legerdemain Lounge has a convention coming in and needs a feast pronto!$B$BYou need to provide some Northern Stew and a Jug of Wine from the cheese shop \"One More Glass\" in central Dalaran.  The owner of the cheese shop owes me the wine and you should find it somewhere around the shop.$B$BBring the wine and stews to Arille.",
+  "p": "Where is my food, I will have conventioneers here any minute!",
+  "c": "This is plenty of food for everyone!  I am sure the customers will be pleased."
+ },
+ {
+  "id": 13102,
+  "t": "Sewer Stew",
+  "o": "Cook 4 Crystalsong Carrots from Crystalsong Forest with 4 Chilled Meat in the Cookpot.$B$BOnce it is ready bring the Vegetable Stew to the Dalaran sewers Innkeeper Ajay Green.",
+  "d": "Ajay Green the innkeeper in the Dalaran sewers needs a vegetable stew for his customers as they are running low on food down there.$B$BCollect 4 Crystalsong Carrots from the Crystalsong Forest and cook them together with 4 Chilled Meat.$B$B You can get to the Crystalsong Forest from the portal chamber in the eastern corner of Runeweaver Square.$B$BOnce the vegetable stew is ready, bring it to Ajay.",
+  "p": "I've got hungry people down here!  We need some stew.",
+  "c": "This will be consumed in no time!   Thanks!"
+ },
+ {
+  "id": 13103,
+  "t": "Cheese for Glowergold",
+  "o": "Combine the empty cheese platter with Aged Dalaran Limburger from the cheese shop \"One More Glass\" and with 6 Half Full Dalaran Wine Glasses found on tables around Dalaran.$B$BBring the Wine and Cheese platter to Ranid Glowergold at the Leatherworkers in the Magus Commerce Exchange.",
+  "d": "Ranid Glowergold in the Leatherworkers shop in Dalaran has had a sudden craving for wine and cheese.$B$BCollect cheese which is on the shelf at \"One More Glass\" in central Dalaran and half full wine glasses found on tables all over the city.  Pour the wine together into a bottle and serve it with the cheese to Ranid.$B$BWe don't think he will know the difference.",
+  "p": "Have you seen a servant with my wine and cheese platter.   I am quite peckish!",
+  "c": "Aha, this appears to be a fine vintage!"
+ },
+ {
+  "id": 13104,
+  "t": "Once More Unto The Breach, Hero",
+  "o": "Report to the Ebon Watcher in the Valley of Echoes just outside the Breach.",
+  "d": "The Vanguard is secure, ally. We have reclaimed the Valley of Echoes and taken down the web walls blocking entry to the Breach. Now is the time to strike at Scourgeholme and establish our presence inside Icecrown. The battlefront moves on!$B$BI have asked the Ebon Watcher for his assistance with our assault upon Scourgeholme. His intimate knowledge of the Scourge will be invaluable in our effort.$B$BGo now and report to him at the tent outside of the Breach, northwest of here.",
+  "p": "",
+  "c": "My knowledge of Scourge tactics is without equal.$B$B<The Ebon Watcher peers at you.>$B$BBefore the battle for Light's Hope Chapel, my knights and I served under the Lich King - his icy grasp controlling our every action. The light of dawn changed everything..."
+ },
+ {
+  "id": 13105,
+  "t": "Once More Unto The Breach, Hero",
+  "o": "Report to the Ebon Watcher in the Valley of Echoes just outside the Breach.",
+  "d": "The Vanguard is secure, ally. We have reclaimed the Valley of Echoes and taken down the web walls blocking entry to the Breach. Now is the time to strike at Scourgeholme and establish our presence inside Icecrown. The battlefront moves on!$B$BI have asked the Ebon Watcher for his assistance with our assault upon Scourgeholme. His intimate knowledge of the Scourge will be invaluable in our effort.$B$BGo now and report to him at the tent outside of the Breach, northwest of here.",
+  "p": "",
+  "c": "Your power has grown, my faithful knight.$b$b<Highlord Darion Mograine peers at you.>$b$bVengeance is at hand, $gbrother:sister;. Koltira aids the Horde upon the gunship, Orgrim's Hammer, while Thassarian assists the Alliance aboard the Skybreaker. The Ebon Blade will soon wash over Icecrown and leave the armies of the Lich King in ruin."
+ },
+ {
+  "id": 13106,
+  "t": "Blackwatch",
+  "o": "Speak to Darkrider Arly at Blackwatch in Icecrown.",
+  "d": "The Scourge has a large facility called the Fleshwerks, dedicated to producing abominations and flesh giants. If we can shut it down, we can deprive the Lich King of a large component of his armies.$B$BI've sent Darkrider Arly to the area. She has a small base, Blackwatch, on a ridge overlooking the Fleshwerks and to the west of Corp'rethar. I'm told the Argent Crusade is sending someone to coordinate their efforts there, but the darkrider will know what to do. Find and assist her.",
+  "p": "",
+  "c": "Good. We'll need all the help we can get. Olakin here is the Argent Crusade's contribution to our effort. Let's cut the chatter and get down to the business of denying the Scourge their armies of the flesh."
+ },
+ {
+  "id": 13107,
+  "t": "Mustard Dogs!",
+  "o": "Fill the Empty Picnic Basket with 4 Rhino Dogs that you cook with your cooking skill and 4 Wild Mustard that you find in the grassy areas of Dalaran.$B$BBring the Picnic Basket to Archmage Pentarus at Krasus' Landing in Dalaran.",
+  "d": "Archmage Pentarus likes to watch the occasional game of battle ball and is preparing to go, but needs food for the trip.$B$BYou need to fill his picnic basket with 4 rhino dogs that you cook and then 4 wild mustard that are found in grassy areas of the city.$B$BBring him his picnic basket so he can be ready to go see the big game.",
+  "p": "I am almost ready to go, I just need the food and for my mates... er... my fellow mages to arrive.",
+  "c": "Perfect!  I just hope the Dalaran Destroyers finally win one!"
+ },
+ {
+  "id": 13108,
+  "t": "Whatever it Takes!",
+  "o": "King Jokkum in Dun Niffelem wants you to enter the Halls of Lightning and defeat Loken. You are then to return to King Jokkum with Loken's Tongue.",
+  "d": "One way or another, Loken shall fall.$b$bIf I have to rip him limb from limb myself, he soon shall pay for his wretched deeds.$b$bShould you meet with him before I do, the honor and glory of his defeat shall be yours.$b$bReturn to me with his lying tongue, and earn my blessing and gratitude.",
+  "p": "Has justice been brought to Loken?",
+  "c": "That vile worm is dead?$b$bYou have turned out to be a great boon to my people, little $r.$b$bPlease accept this gift in return for your loyal friendship."
+ },
+ {
+  "id": 13109,
+  "t": "Diametrically Opposed",
+  "o": "King Jokkum at Dun Niffelem wants you to enter the Halls of Lightning and defeat Volkhan.",
+  "d": "I shall speak plainly to you, little $r. My people have not been the same since our ties with Thorim were severed.$b$bAs their leader, I wish nothing more than for their hearts to be mended and our friendship with the Stormlord to be renewed. In your defeat of Fjorn, a step has been taken down that path. I would have you bring us a step further...$b$bIn the Halls of Lightning, one even greater than Fjorn sits in opposition to our existence. Volkhan will not rest until either he, or we, are no more.",
+  "p": "Has Volkhan been extinguished, little $r?",
+  "c": "Volkhan shall haunt the dreams of my people no more.$b$bContinue your efforts, little $r. In time, I am certain my people will grow to forgive Thorim."
+ },
+ {
+  "id": 13110,
+  "t": "The Restless Dead",
+  "o": "Father Gustav at the Valley of Echoes in Icecrown wants you to use Holy Water on the corpses of Reanimated Crusaders to free 10 restless souls.",
+  "d": "Not all of our soldiers made it out of Scourgeholme. Many were slain and turned into twisted reflections of their former selves. Such is the way of the Scourge. For those damned souls, there is no eternal peace. We must provide their souls rest.$B$BTravel through the Breach into Scourgeholme and slay the skeletal reanimated crusaders. Sprinkle this holy water on their bones so that their spirits may be freed.",
+  "p": "It is a grim task, $N, but it must be done.",
+  "c": "The path of the righteous crusader is one beset by inequity and evil. To cut through the middle is the only salvation. You have done that on this day and much more."
+ },
+ {
+  "id": 13111,
+  "t": "One of a Kind",
+  "o": "Chronicler Bah'Kini at Dubra'Jin wants you to enter Gundrak and recover a piece of the Drakkari Colossus.",
+  "d": "Lissen, mon.$b$bAt first glance, it be lookin' like da same old story here - trolls tappin' into forbidden powah by destroyin' da very beings dey should be worshippin'.$b$bWhile dis be true, dere be somethin' special about dese Drakkari. If what I learned be true, den inside Gundrak dere be a special golem - one like nuthin' created before!$b$bYa want adventure, mon? Go inside Gundrak and bring me back a piece from dat golem ta study.",
+  "p": "You get me a piece of dat golem, mon?",
+  "c": "Ahh, yeah mon! Dat be what I'm lookin' for.$b$bHere ya go - take somethin' nice for your troubles."
+ },
+ {
+  "id": 13112,
+  "t": "Infused Mushroom Meatloaf",
+  "o": "Use your Meatloaf Pan to cook 4 Infused Mushrooms and 2 Chilled Meats and bring the finished Mushroom Meatloaf to Orton Bennet in Curiosities & Moore, located in Runeweaver Square in Dalaran.",
+  "d": "Orton Bennet in Curiosities & Moore be needin' a mushroom meatloaf.$B$BGet ya some infused mushrooms found in the Dalaran sewers, chilled meat, and cook 'em in the meatloaf pan.  When ye be done, bring that meatloaf to Orton.$B$BIf only de council would let me serve me gnome specialty, I would show dem a real treat!",
+  "p": "Do you have something for me? I so rarely get away from my shop.",
+  "c": "Is this food from Awilo? Can you promise me there isn't any gnome in it?"
+ },
+ {
+  "id": 13113,
+  "t": "Convention at the Legerdemain",
+  "o": "Bring 4 Northern Stews and a Jug of Wine from the cheese shop in Dalaran to Arille Azuregaze at the Legerdemain Lounge found in Runeweaver Square in Dalaran.",
+  "d": "Can you believe da horde has outlawed cannibalism...it just ain't right I tell ya!  I guess I should keep me mind on me work when we gots an order to fill.$B$BArille Azuregaze at the Legerdemain Lounge has many a guest a'comin to his place, mon.  You gots to be providin' some Northern Stew and a Jug of Wine from the cheese shop in central Dalaran.$B$BBring the wine and stew to Arille.",
+  "p": "Where is my food? My guests will be here soon!",
+  "c": "My guests should find this acceptable. Just don't tell them it came from Awilo."
+ },
+ {
+  "id": 13114,
+  "t": "Sewer Stew",
+  "o": "Cook 4 Crystalsong Carrots from Crystalsong Forest with 4 Chilled Meat in the Cookpot.$B$BThen bring the Vegetable Stew to the Dalaran sewers Innkeeper Ajay Green.",
+  "d": "We be havin' another order to fill.  Da innkeeper in da Dalaran sewers needs a vegetable stew as his customers dey don't have so much to eat, mon.$B$BHe asked for a vegetable stew as he didn't appreciate da gnome that was in the last stew I sent.  Get 4 Crystalsong Carrots from the Crystalsong Forest and cook them together with 4 Chilled Meat and bring it to Ajay.$B$BYou can be gettin' to da Forest from da portal chamber in da eastern corner of Runeweaver Square. ",
+  "p": "Make sure there isn't any gnome in the stew this time!",
+  "c": "Stew looks good.  Thanks for your help."
+ },
+ {
+  "id": 13115,
+  "t": "Cheese for Glowergold",
+  "o": "Combine the empty cheese platter with Aged Dalaran Limburger from the cheese shop \"One More Glass\" and with 6 Half Full Dalaran Wine Glasses found on tables around Dalaran.$B$BBring the Wine and Cheese platter to Ranid Glowergold at the Leatherworkers in the Magus Commerce Exchange.",
+  "d": "Ranid Glowergold in da Leatherworkers shop be havin' a need for wine and cheese.  Why he don't want some tasty gnome is beyond me.$B$BCollect da cheese from da cheese shop in central Dalaran and da half full wine glasses found on tables around da city.  Bring da wine and serve it with the cheese to Ranid.$B$BYou can call da wine a Wine Medley, mon'.",
+  "p": "Have you seen a servant with my wine and cheese platter.  I am quite peckish!",
+  "c": "This wine is quite amazing!  I must know where it's from."
+ },
+ {
+  "id": 13116,
+  "t": "Mustard Dogs!",
+  "o": "Fill the Empty Picnic Basket with 4 Rhino Dogs that you be cookin' with your skill and 4 Wild Mustard that you find in the grassy areas of Dalaran.$B$BBring the Picnic Basket to Archmage Pentarus at Krasus' Landing in Dalaran.",
+  "d": "Da Archmage Pentarus likes to be watchin' his crazy battle ball game, but he be needin' some food for da game.$B$BYou be needin' to fill his picnic basket with 4 cooked rhino dogs and then 4 wild mustard that are found in da grassy corners of de city.$B$BFill up his basket with the mustard dog goodies, mon'.",
+  "p": "Make sure the wild mustard dogs are 100% rhino and have no Gnome in them!",
+  "c": "Perfect!  I just hope the Dalaran Destroyers finally win one!"
+ },
+ {
+  "id": 13117,
+  "t": "Where Are They Coming From?",
+  "o": "Investigate a Summoning Altar in the eastern part of the Fleshwerks, then report back to Darkrider Arly at Blackwatch.",
+  "d": "The Lich King's tireless minions labor away night and day to assemble scores of abominations and flesh giants down there in the Fleshwerks.$B$BYet, that is not enough. More and more skeletal constructors keep appearing to increase the pace of work.$B$BIf we do not discover where they're coming from and how they're able to work so quickly, we'll be overrun before we can act in force. Search to the southeast and see if you can find the source of these skeletons.",
+  "p": "Have you found the source of the skeletons?",
+  "c": "<You tell the darkrider about your discoveries at the summoning altar.>$b$bI suspected such. We can't let this continue. Our first priority is to destroy those summoning altars and then deal with the mess the Scourge has already created here."
+ },
+ {
+  "id": 13118,
+  "t": "The Purging Of Scourgeholme",
+  "o": "The Ebon Watcher at the Valley of Echoes in Icecrown wants you to kill 3 Forgotten Depths High Priests, 3 Forgotten Depths Underkings, and 8 Reanimated Crusaders.",
+  "d": "The Scourge have sent their armies at the Argent Crusade and have been repelled. What they do now is called a 'slash and burn.' All prisoners that they hold at Scourgeholme will be executed and raised as servants of the Lich King.$B$BUndoubtedly the Argent Crusade will request that you give their soldiers a proper farewell. I'll ask no such thing of you. To succeed we must kill Scourge indiscriminately.$B$BVenture to Scourgeholme, northwest through the Breach, and lay waste to all that stand in your way.",
+  "p": "Do not waste time, $N.",
+  "c": "You have done well, $N. Keeping their numbers down will give the Argent Crusade the time that they need to set a foundation."
+ },
+ {
+  "id": 13119,
+  "t": "Destroying the Altars",
+  "o": "Kill Master Summoner Zarod and use his Summoning Stave to destroy the First, Second, Third, and Fourth Summoning Altars. When you've completed this task, report to Darkrider Arly at Blackwatch.",
+  "d": "So they're summoning in their workers and warriors at those altars?$B$BThey'll need to be the first thing to go. The master summoner should have a staff which allows him to activate the portal. If you kill the master summoner and take the staff, you can use it to overload the summoning portal and destroy its altar.$B$BDo this at all four of the altars and return to me once they've been destroyed.",
+  "p": "Are the summoning altars in ruins?",
+  "c": "<Darkrider Arly nods in approval.>$b$bGood. Now, we can focus our efforts on shutting down the rest of the Fleshwerks."
+ },
+ {
+  "id": 13120,
+  "t": "Death's Gaze",
+  "o": "Use the Death's Gaze Orb to place orbs on the Abomination Lab Orb Stand, the Flesh Giant Lab Orb Stand, and the Cauldron Area Orb Stand, then return to Darkrider Arly at Blackwatch.",
+  "d": "The Fleshwerks is a vast operation, and it will be difficult to keep an eye on all that transpires there. Fortunately, I have a plan.$B$B<Arly produces an orb from the folds of her cloak and shows it to you.>$B$BThis is a death's gaze orb. With it, we can observe the Scourge's actions and decide how best to strike.$B$BPlace these orbs on the stands at three crucial areas -- the abomination lab and the flesh giant lab to the southwest, along with the area surrounding the green cauldron far to the west.",
+  "p": "Have you placed those orbs?",
+  "c": "<Darkrider Arly closes her eyes and seems to focus on something far away.>$b$bWith the eyes of death itself, I watch our enemy. With this knowledge, we will utterly destroy them."
+ },
+ {
+  "id": 13121,
+  "t": "Through the Eye",
+  "o": "The Bone Witch in Njorndar Village has tasked you with using the Eye of the Lich King to gain information.",
+  "d": "We must use the Lich King's tools against him if we are to decide our next step.$B$BOver the mountain to the southwest lies Kul'galar Keep. Within it reside the oracles of Jotunheim who receive orders from their master and scry upon others through the Eye of the Lich King.$B$BIt is the eye that you must fight your way to. While it cannot be used to pierce the veil within Icecrown Citadel, you should be able to use it to discern something of value so that we will know how best to proceed.",
+  "p": "You return with no information at all! Is this how you repay my help to you and the Knights of the Ebon Blade?$B$BBegone and do not return until you have the knowledge which I seek!",
+  "c": "Perfect! It's true that Iskalder is rumored to have been the finest vrykul warrior ever to live. And Vardmadra herself is going to come her to judge him!$b$bWe must move quickly if we are to get to this ancient hero before they do!"
+ },
+ {
+  "id": 13122,
+  "t": "The Scourgestone",
+  "o": "The Ebon Watcher at the Valley of Echoes in Icecrown wants you to bring him 15 Scourgestones.",
+  "d": "A Scourgestone is an item given to all Scourge upon birth or creation. It provides certain benefits to the holder, but more importantly it allows Scourge leaders visibility into the location and movement of all of their units.$B$BWith enough Scourgestones, I might be able to track the movement of other Scourge units across Icecrown.$B$BAs you slaughter Scourge in Scourgeholme, gather all of the Scourgestones that you find. Return to me when your bags are full.",
+  "p": "Scourgestones will help us find our enemy.",
+  "c": "Now let me see if there's something that I can do with these stones to give us a little bit of insight."
+ },
+ {
+  "id": 13124,
+  "t": "The Struggle Persists",
+  "o": "Raelorasz wants you to enter the Oculus and rescue Belgaristrasz  and his companions.",
+  "d": "The battle goes on, $n. Somehow we have managed to avoid detection and continue our attempts to frustrate Malygos' schemes. This, though, is where the good news ends and the bad begins.$b$bOur best efforts have had little or no effect. Malygos and his underlings grow stronger in power with each passing day. And now, our latest assault team has been captured and is being held in the Oculus.$b$bWe must attempt a rescue! Belgaristrasz and his companions are invaluable to our cause. Can we count on you, $n?",
+  "p": "",
+  "c": "Listen well, $r.$b$bYour work here has just begun!"
+ },
+ {
+  "id": 13125,
+  "t": "The Air Stands Still",
+  "o": "The Ebon Watcher at the Valley of Echoes in Icecrown wants you to kill Salranax the Flesh Render, Underking Talonox and High Priest Yath'amon.",
+  "d": "You must defeat the lords of Scourgeholme if this place is to be free of the Scourge's grasp.$B$BSalranax the Flesh Render lords over the temple on the first tier of Scourgeholme. Nearby Salranax you'll find High Priest Yath'amon preaching at the spirit tower on the second tier. Underking Talonox holds court at the Pit of Fiends, up the high road.$B$BThese are formidable opponents and must be approached with caution. Use this war horn should you require aid. The death knights of Acherus will come.",
+  "p": "Finish them, $N!",
+  "c": "A hard fought victory, $N! The lieutenants will be replaced, but at least for today the air about Scourgeholme stands still."
+ },
+ {
+  "id": 13126,
+  "t": "A Unified Front",
+  "o": "Belgaristrasz wants you to destroy 10 Centrifuge Constructs to bring down Varos' shield. You then must defeat Varos Cloudstrider.",
+  "d": "Please accept our gratitude, $r.$b$bYou and your friends have succeeded where we had failed - you have bested Drakos. From here, however, it will take our combined efforts to proceed.$b$bAbove us, Varos hides behind an impenetrable shield. To reach him, you must defeat the Centrifuge Constructs that power his shield. That is where my friends and I come in....$b$bWe each can provide you with drakes from our respective flights. Only with the help of these drakes will you be able to expose Varos.",
+  "p": "So, it is done!",
+  "c": "It is as I had hoped, $r. We work well together.$b$bMay our continued cooperation be enough to overcome the challenges that yet await!"
+ },
+ {
+  "id": 13127,
+  "t": "Mage-Lord Urom",
+  "o": "Belgaristrasz wants you to defeat Mage-Lord Urom in the Oculus.",
+  "d": "Only one obstacle stands between us and our ultimate goal here, $c. His name is Urom.$b$bAbove us, guarding the third ring, he awaits us. Beware his powerful conjurings, friend. He is a frightful opponent, certain to challenge your prowess.$b$bBring him down. Make him pay for his treacherous allegiance to the enemy!",
+  "p": "Has Mage-Lord Urom been dealt with?",
+  "c": "Victory is in reach, friend.$b$bFocus, for now comes the true test."
+ },
+ {
+  "id": 13128,
+  "t": "A Wing and a Prayer",
+  "o": "Belgaristrasz wants you to kill Eregos in the Oculus and then report to Raelorasz at the Transitus Shield in Coldarra.",
+  "d": "The time has come to face Eregos, friend.$b$bHe is cunning and strong. One of Malygos' most trusted minions, he draws strength from the energies he is charged with defending - sipping from the well of the great aspect himself.$b$bThis shall not be easy....$b$bHowever, defeating the Mage-Lord has allowed us to unlock the full power of our drakes. Their skills shall be at your command. Use them wisely and Eregos shall surely fall.$b$bShould you succeed, return to Raelorasz and inform him of our victory.",
+  "p": "Do you bring news of Belgaristrasz?",
+  "c": "<Raelorasz listens intently to your report.>$b$b$N, this is most welcome news.$b$bNot since the onset of this conflict have we dealt a blow of this magnitude to the Lord of Magic.$b$bPlease, friend, accept the gratitude of our unified dragonflights."
+ },
+ {
+  "id": 13129,
+  "t": "Head Games",
+  "o": "Kurzel wants you to use Kurzel's Blouse Scrap at the corpse of Novos the Summoner, then take the Ichor-Stained Cloth to Mack.",
+  "d": "Too lazy for their own good.... Wait! I know how to teach 'em!$b$b<Kurzel rips a long strip of material from her blouse and hands it to you.>$b$bHere, $r, take this. Dip it in the remains of that annoying lich over there and return it to Mack back at the camp.$b$bOnce the boys have stewed in their guilt for a while I'll show up and let them off the hook.$b$bThey'll learn not to let a lady wander off alone!",
+  "p": "<hic>$b$bWhutcha got there, pal?",
+  "c": "<Mack looks at you and laughs uncontrollably.>$b$bAww noo... Why'd she hafta run off an' git 'ershelf killed?$b$bYa know, I should write a lil shong about 'er. That should cheer me up!$b$b<hic>"
+ },
+ {
+  "id": 13130,
+  "t": "The Stone That Started A Revolution",
+  "o": "Crusade Architect Silas at the Valley of Echoes in Icecrown wants you to retrieve 10 Trunks of Crystalline Heartwood and 10 pieces of Ancient Elven Masonry.",
+  "d": "You may look at Scourgeholme now and see a rancid pit of decay, but one day it will be a place of glory and honor. Highlord Fordring has deemed it \"Justice Keep.\"$B$BAlas, even an impregnable fortress like Icecrown Citadel began with but a single stone. So begins our search for the stone to start a revolution.$B$BTravel to Crystalsong, south of here, and seek out the Unbound Thicket in the east. Once there gather crystalline heartwood from the thicket floor and elven masonry from the Ruins of Shandaral.",
+  "p": "Are you lost?",
+  "c": "Heartwood by nature is resistant to disease, rot and plague. This heartwood, however, goes so far as to repel such things! The masonry, affected by the fallout of the Unbound Thicket, will work in much the same way.$B$BSoon we will break ground. "
+ },
+ {
+  "id": 13132,
+  "t": "Vengeance Be Mine!",
+  "o": "Brigg in Utgarde Pinnacle wants you to kill King Ymiron.",
+  "d": "Och! They cannae be blamed, $g lad:lass;. Who'da done different?$b$bThey hurled themselves at them piles o' gold - thought they'd hit the mother lode, they did. Aye... But look at 'em now. Mindless servants unable to pick up a single doubloon.$b$bOnly luck spared me from the same fate. In the scurry I got knocked down - was a wee bit tipsy to begin with. Looked up ta see the first of 'em turn...$b$bBe a good $g lad:lass; and find the one in charge here and teach 'em not ta be cursin' me mates.",
+  "p": "Ya find the one in charge here, $r? Did ya make 'em suffer?",
+  "c": "Splendid! Mebbe now me mateys be able ta rest in peace.$b$bHere ya go, lad.Don't let it be said that ol' Brigg weren't generous ta those who showed 'im a kindness.$b$bGood doin' business wit yeh."
+ },
+ {
+  "id": 13133,
+  "t": "Find the Ancient Hero",
+  "o": "The Bone Witch at Njorndar Village wants you to return with Iskalder.",
+  "d": "Quickly, $N, head southwest to the Halls of the Ancestors!$B$BWithin you will find slumbering mjordin. Wake them until you find Iskalder. When you do, use this amulet upon him and bring him back to me.$B$BNow go. There is no time to waste!",
+  "p": "Where is the ancient hero?$B$BWe do not have time to chat. Go to the Halls of the Ancestors and find him before it is too late!",
+  "c": "He's a fine specimen and will serve us well.$B$BNow, we have to make sure to use him properly to trap Vardmadra!"
+ },
+ {
+  "id": 13134,
+  "t": "Spill Their Blood",
+  "o": "Darkrider Arly at Blackwatch wants you to destroy 5 vats of Embalming Fluid and 5 Blood Orbs.",
+  "d": "The Scourge cannot create their flesh monsters without blood and embalming fluid to preserve the parts and keep them functioning. If we can deny them these materials, their army will fall apart and we can easily destroy their creations.$B$BThroughout the labs where the flesh giants and abominations are cobbled together, you will find vats of embalming fluid and large orbs filled with blood. Destroy these, and bring death to any who would stop you!",
+  "p": "Have you done as I asked?",
+  "c": "<A dark, hollow laugh greets you as you report to the darkrider.>$b$bYou reek of victory, $N, and that is good news, indeed."
+ },
+ {
+  "id": 13135,
+  "t": "It Could Kill Us All",
+  "o": "Crusade Engineer Spitzpatrick at the Valley of Echoes in Icecrown wants you to retrieve 8 pieces of Crystallized Energy.",
+  "d": "Southeast of here, at the eastern reaches of Crystalsong Forest, is an area known as the Unbound Thicket. Within that thicket creeps all manner of life. One thing all of the affected creatures of the thicket share in common is their affinity for magical energy. Each of them holds pure, crystallized energy. Enough to kill us all should it ever destabilize!$B$BTravel to the Unbound Thicket and kill its denizens for crystallized energy. We need fuel and they need to die. We call that a \"win-win.\"",
+  "p": "Did you get the crystallized energy?",
+  "c": "Ah, this is perfect. The bomber should be up and running in no time."
+ },
+ {
+  "id": 13136,
+  "t": "Jagged Shards",
+  "o": "Bring 10 Jagged Shards to Crusader Olakin Sainrith at Blackwatch.",
+  "d": "You pulled this jagged, dark brittle shard from the body of a ghoul. The metal blade lacks a smooth edge, suggesting it was forged by an unskilled hand, or was broken from a larger piece.$B$BYou recall seeing similar shards embedded in the bodies of all the ghouls you've encountered at the Fleshwerks, leading you to wonder why their creators bothered to include the metal at all. Perhaps Crusader Olakin Sainrith would have some insight if you brought him the shards from several ghouls.",
+  "p": "What is that vile thing?",
+  "c": "<Olakin handles the shards of metal gingerly.>$b$bYou saw these on all of the ghouls down there? I've never seen anything like this in all my battles against the Scourge."
+ },
+ {
+  "id": 13137,
+  "t": "Not-So-Honorable Combat",
+  "o": "The Bone Witch in Njorndar Village wants you to defeat Iskalder upon Battlescar Spire.",
+  "d": "Atop the tallest peak to the southwest overlooking Jotunheim is Battlescar Spire. It is a place of reverence for the vrykul, second only to Valhalas in terms of where they prefer to do honorable combat.$B$BWe shall visit not-so-honorable combat upon it.$B$BGather your companions and fly to the spire. When you are ready, light the signal fire and I will appear within the body of Iskalder.$B$BWe will fight, you will win, and Vardmadra is sure to come to witness the battle!",
+  "p": "You have yet to defeat the ancient hero!",
+  "c": "I've put Vardmadra aside for the moment. She's someplace safe until we can enact our final revenge!"
+ },
+ {
+  "id": 13138,
+  "t": "I'm Smelting... Smelting!",
+  "o": "Use the Bag of Jagged Shards near one of the bottom level Malykriss furnaces. Return to Crusader Olakin Sainrith at Blackwatch with the Smelted Metal Bar.",
+  "d": "<Olakin turns one of the shards over in an armored fist.>$B$BThese could pierce armor with enough force. We have to find out what they're made of and what the Lich King intends to do with them.$B$BTo the east, nestled next to Icecrown Citadel itself, lies Malykriss. From the few reports we have, it's full of smelting and smithing equipment. Bring these shards there, and smelt them in one of the open furnaces on the bottom level of Malykriss. Once the metal has been reformed, we can identify it.",
+  "p": "Have you smelted those fragments yet?",
+  "c": "There is no doubt, this is raw saronite. We've seen weapons made from it in the hands of the Lich King's chosen before, but this is the first time it's been used to arm anything else. The scale of that mining operation must be huge."
+ },
+ {
+  "id": 13139,
+  "t": "Into The Frozen Heart Of Northrend",
+  "o": "Deliver Father Gustav's Report to Highlord Tirion Fordring at the Argent Vanguard in Icecrown.$B",
+  "d": "Silas and Spitzpatrick have signed off on the materials and fuel needed to begin construction of Justice Keep. Thanks to you and the Ebon Blade the Scourge presence within Scourgeholme has been decimated and their lieutenants have been defeated.$B$BI have chosen the site at which we will break ground, but first you must deliver my report to Highlord Tirion Fordring. We will begin our march into Icecrown on his command.$B",
+  "p": "Stand easy, $N. What have you to report?\n",
+  "c": "Your assistance has been integral in securing the front. The first true victory of this war is close at hand - which is why our next step is the most crucial.$B$BRest assured, $N, the Scourge will not give up without a fight. Your most difficult challenge awaits."
+ },
+ {
+  "id": 13140,
+  "t": "The Runesmiths of Malykriss",
+  "o": "Bring 5 Runed Saronite Plates to Crusader Olakin Sainrith at Blackwatch.",
+  "d": "Those shards you recovered can only have come from one place, Malykriss. It's the seat of the Lich King's metalworking operations, to the east of Corp'rethar.$B$BWhat's puzzling is that metal isn't needed to stitch together abominations or flesh giants, or to summon skeletal servants. Find the skeletal runesmiths working on the bottom level of Malykriss and capture the plates they're working on. We need to find out why this metal is finding its way to the Fleshwerks.",
+  "p": "Were you able to capture those rune plates?",
+  "c": "These plates match the shards almost exactly. They must be using cuttings from them to \"enhance\" the ghouls produced here. The Scourge is desperate enough to make a weapon of anything, it seems. All the more reason to hasten our destruction of this abominable place!"
+ },
+ {
+  "id": 13141,
+  "t": "The Battle For Crusaders' Pinnacle",
+  "o": "Venture to Crusaders' Pinnacle and use the Blessed Banner of the Crusade atop the Pile of Crusader Skulls. Defend the banner against Scourge attack until the land atop the pinnacle is sanctified and then return to Father Gustav at the Valley of Echoes in Icecrown.",
+  "d": "<Highlord Fordring holds a banner of the Argent Crusade.>$B$BThis banner is like no other, $N. It carries with it a powerful blessing, able to sanctify large tracts of blighted land.$B$BYou must take it northwest, through the Breach, to an area the Scourge have mockingly named Crusaders' Pinnacle. Plant the banner atop the skulls of our fallen brethren at Crusaders' Pinnacle and defend it against attack. Once the land is sanctified, return to Father Gustav.$B$BGo now, $N. Hold no fear in your heart.",
+  "p": "",
+  "c": "Blessed Light! We have taken the pinnacle! Finally, construction of Justice Keep can begin. Highlord Fordring and the knights are already en route to our new base. You must meet them there, $N!"
+ },
+ {
+  "id": 13142,
+  "t": "Banshee's Revenge",
+  "o": "The Bone Witch at Njorndar Village has asked you to exact her revenge by challenging and defeating Overthane Balargarde.",
+  "d": "The time has come, $N. You and your friends must challenge the lord of Balargarde Fortress, the master of Jotunheim, Overthane Balargarde.$B$BAtop the fortress, which is on the southwestern edge of Jotunheim, you will find a horn. Blow into it. Allow your challenge to resound throughout the steadfast.$B$BBalargarde will have no choice but to face you. And I... excuse me, Vardmadra will be there to adjudicate the challenge.$B$B<The banshee-possessed vrykul lets out a bellowing cackle.>",
+  "p": "Overthane Balargarde is not dead. Did you have problems finding his fortress?",
+  "c": "Words cannot describe what I'm feeling at the moment, $N. My revenge is complete and there is naught else for me to do.$B$BIf only I could be there when the Lich King is finally taken down.$B$BDon't fool yourself though, Jotunheim is far from 'dealt' with. I will remain in possession of this witch until such time as the vrykul are no longer a threat.$B$BLook around, there are many items of value in this cave. Take your pick."
+ },
+ {
+  "id": 13143,
+  "t": "New Recruit",
+  "o": "Vereth the Cunning on the Rise of Suffering has requested that you bring a subdued Lithe Stalker to the top of the rocks northeast of the Rise of Suffering.",
+  "d": "First things first. I saw some Lithe Stalkers on the ramparts just east of us. They used to serve us before we broke with Arthas, and they're about as perfect a scout as you can get... with a little prodding from an eye of dominion.$B$BFly up, find one of the stalkers, beat it down a bit, and then use this Sigil of the Ebon Blade to command its obedience. It will recognize the sigil, guaranteed. Lead it back to the top of the rocks northeast of here and it will find its way to me.",
+  "p": "I'm sure their masters don't go easy on them, but there's no way these things would forget the lessons we lashed into their skins. They'll fear those sigils for as long as they crawl this land.",
+  "c": "I've chained the wretch to the post over there and I'll look into getting my hands on more of them.$B$BNow let's make some use of that eye."
+ },
+ {
+  "id": 13144,
+  "t": "Killing Two Scourge With One Skeleton",
+  "o": "Darkrider Arly at Blackwatch wants you to destroy 3 Chained Abominations with Burning Skeletons.",
+  "d": "The workers in the Fleshwerks abomination lab have already completed a number of their creations. For now, the creatures are chained to the pillars around the edge of the lab, but if we do not act, they will march with the Lich King's armies.$B$BGrasping arms reach out of the bone piles spread throughout the Fleshwerks. These arms belong to skeletons enchanted with the power of fire. Find and free these skeletons, then take them near the completed abominations and watch the show!",
+  "p": "Have you destroyed the completed abominations?",
+  "c": "Ah, good. There's nothing like the smell of roasted putrid flesh in the morning. That's the smell of victory over the Scourge."
+ },
+ {
+  "id": 13145,
+  "t": "The Vile Hold",
+  "o": "Vereth the Cunning at the Rise of Suffering has requested that you use a Lithe Stalker to scout out Malykriss.",
+  "d": "We need to know what we're up against.$B$BUse the eye of dominion to assume control of a lithe stalker and scout out the area. There are a few spots in particular I saw when flying in that I want you to get a closer look at: the overlook in the northeast, the work area in the southeast, the large forge near the center, and the ritual area in the southwest.$B$BThe stalker can leap far and won't be hurt by large falls - use that to your advantage to get up and down from those ramparts.",
+  "p": "Flying may be a bit more graceful, but there's no way we could get in as close as the stalker without being detected.",
+  "c": "Excellent work. It seems more death knights remained loyal to Arthas than I initially thought.$B$BHe certainly is sparing nothing in his attempt to replace Acherus. A pure saronite citadel would be hard to destroy indeed. There's no need to destroy it though... we can halt production and put down these death knight leaders here and now, before they become a real threat.$B$BMost importantly, we need to disrupt them enough to get those death knights away from from the leaders so that we can make our strike."
+ },
+ {
+  "id": 13146,
+  "t": "Generosity Abounds",
+  "o": "Vereth the Cunning wants you to use the Lithe Stalker's Iron Chain to drag Scourge Bombs to 4 Lumbering Atrocities inside Malykriss.",
+  "d": "We need to cause some disruption... anything to bring those death knights away from their leaders. If we lay waste to their minions below, I suspect they'll have to devote more attention to keeping a close eye on operations.$B$BAbominations are easy prey - slow, predictable, and most importantly, stupid. Take advantage of their trust of the stalkers to drag them some of the Scourge bombs scattered throughout the construction area. You'll be able light the bombs far before they figure out what's going on.",
+  "p": "Did they even see it coming?",
+  "c": "They didn't even think to lay a hand on you, did they? At least they're predictable."
+ },
+ {
+  "id": 13147,
+  "t": "Matchmaker",
+  "o": "Vereth the Cunning at the Rise of Suffering wants you to use a Lithe Stalker to throw rocks at Umbral Brutes as they near lesser undead in Malykriss. Return after you've started 5 fights.",
+  "d": "The major difference between vargul and lesser undead minions is that vargul still possess enough of their minds to despise being used for labor. Never will a vargul be pleased to be working aside skeletons or ghouls.$B$BLets take advantage of this inevitable animosity and start some fights between the umbral brutes and the other undead in Malykriss. That should serve to slow production and bring the death knights down to babysit.$B$BShould be simple - throw rocks at the brutes as they near lesser undead.",
+  "p": "Predictable louts.",
+  "c": "No need to sacrifice our own men when they are this easily manipulated, eh?"
+ },
+ {
+  "id": 13148,
+  "t": "Necklace Repair",
+  "o": "Repair the necklace with a single Chalcedony and return it to Timothy Jones in at the Jewelcrafters Shop in the Magus Commerce Exchange in Dalaran.",
+  "d": "This damaged necklace has an invoice with it that reads \"Property of Timothy Jones - Cartier and Co Fine Jewelry - Magus Commerce Exhange - Dalaran\".$B$BPerhaps you should repair it and return it to him.$B",
+  "p": "What brings you here?",
+  "c": "How did you find this!  Many of these necklaces were looted from one of my shipments a few weeks ago!  Let me repay you with this Jewelcrafter's Token."
+ },
+ {
+  "id": 13150,
+  "t": "ZZOLDLost: Widget",
+  "o": "Repair the whatsit and return it to Timothy Jones at the Jewelcrafting shop in Dalaran.",
+  "d": "Attached to the bottom of the widget is an invoice that indicates the owner is \"Timothy Jones - Jewelershop Name, District Name\" in Dalaran.   Perhaps if you fixed it and returned it to him, he would have a reward for you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13151,
+  "t": "A Royal Escort",
+  "o": "Chromie has asked you to accompany Arthas in the Culling of Stratholme. You are to speak with her again after Mal'Ganis is defeated.",
+  "d": "The Infinite Dragonflight are not likely to give up so easily. I cannot be certain of what they're up to, but something tells me we haven't seen the last of them today.$b$bIn just a moment, Arthas will face a desperate dilemma, and make a momentous decision.$b$bDon't lose focus now, $n. I needn't remind you how much is at stake. I must call upon you to accompany the prince in his culling of Stratholme.$b$bArthas must make it through Stratholme alive and you must see to it that he defeats Mal'Ganis!",
+  "p": "",
+  "c": "You have done well, $N.$b$bThe Infinites have been foiled and this thread of history remains intact.$b$bI thank you for your invaluable assistance, as does the entire Bronze Dragonflight."
+ },
+ {
+  "id": 13152,
+  "t": "A Visit to the Doctor",
+  "o": "Darkrider Arly at Blackwatch wants you to destroy the Metal Stake imprisoning Patches in the Sanctum of Reanimation and help him get his revenge on Doctor Sabnok.",
+  "d": "So they've been embedding these ghouls with broken shards of saronite down in the Sanctum of Reanimation? We must put a stop to this, before these ghouls can be deployed against our troops.$B$BFind the entrance to the Sanctum of Reanimation in the flesh giant lab area of the Fleshwerks. There, the ghoul mastermind, Doctor Sabnok, keeps the most fearsome of his creations, Patches. Free Patches from his chains and help him take his revenge on the doctor. Let his own creation be his undoing.",
+  "p": "Have you unleashed the doctor's creation against him?",
+  "c": "<Dakrider Arly throws her head back and laughs darkly.>$B$BA fitting end for the 'good' doctor, wouldn't you say?"
+ },
+ {
+  "id": 13153,
+  "t": "Warding the Warriors",
+  "o": "Sorceress Kaylana at Wintergrasp Fortress wants you to retrieve 10 sets of Imbued Horde Armor from Horde players at the Glacial Falls.",
+  "d": "$n, good to see you. While the battle has subsided for now, we must hurry and replenish our stocks. My research indicates that the armor of soldiers recently slain in the Glacial Falls becomes imbued with an incredible amount of energy. The Horde has been seen collecting armor in the area.$B$BHead to the Glacial Falls and slay any of the Horde you find there. Return their imbued armor to me.$B$BIf you cannot find any of the Horde, you might find the armor of an adventurer slain by the elementals.",
+  "p": "So, did you find the armor?",
+  "c": "Augh. It's still dripping. Couldn't you have at least dried it off first?"
+ },
+ {
+  "id": 13154,
+  "t": "Bones and Arrows",
+  "o": "Bowyer Randolph at Wintergrasp Fortress wants you to retrieve 10 Quivers of Dragonbone Arrows from Horde players at the Forest of Shadows.",
+  "d": "Dragons are incredible! Well, their bones at least! I've been equipping our archers with arrowheads made of Dragonbone. Unfortunately, since the massacre at Angrathar, it has become almost impossible to get bone from Dragonblight.$B$BHowever, the Forest of Shadows on the western edge of Wintergrasp has enough bones to tide us over.$B$BHead to the Forest of Shadows and bring back any bone splinters you can find!$B$BThe Horde have been seen collecting bone splinters in the area. Slay them!",
+  "p": "How was the hunting? I've heard rumors the place is haunted, though I never venture out there myself.",
+  "c": "Excellent! This will help fuel the flames of war for days to come. "
+ },
+ {
+  "id": 13155,
+  "t": "Vereth the Cunning",
+  "o": "Report to Vereth the Cunning on the Rise of Suffering in Icecrown.",
+  "d": "I've already heard some rumors regarding Malykriss and Arthas's new death knight order, but I assumed it nothing more than filling the void. These numbers suggest he's trying to take it up a notch though.$B$BWe dispatched one of our best to Malykriss not long ago - Vereth the Cunning. You should be able to find him on the Rise of Suffering, just west of Malykriss, and inside the Court of Bones.$B$BTry not to draw too much attention on your way in.",
+  "p": "",
+  "c": "The Vile Hold... a testament to how much Arthas hates losing. Let's drive the blade deep."
+ },
+ {
+  "id": 13156,
+  "t": "A Rare Herb",
+  "o": "Anchorite Tessa in Wintergrasp Fortress wants you to retrieve 10 Horde Herb Pouches from Horde players in the Steppe of Life.",
+  "d": "My, it its quite chilly up here! Reminds me of the stormy peaks of Kaarinos on Argus. However, with all of this snow and ice, our soldiers can easily catch cold.$B$BHead to the Steppe of Life in southwestern Wintergrasp, and bring me back 10 of the Horde herb pouches you find. I will grind them into a medicine to help protect against the cold.$B$BThe Horde have been seen collecting them from the plant life in the area. Do not hesitate to slay them and retrieve the herbs!",
+  "p": "I hope you didn't pull up any of the lashers by mistake! They gave Private Doane quite a whipping last week.",
+  "c": "Excellent! This will help protect our troops against the cold."
+ },
+ {
+  "id": 13157,
+  "t": "The Crusaders' Pinnacle",
+  "o": "Seek out Highlord Tirion Fordring at Crusaders' Pinnacle in Icecrown.",
+  "d": "Stand proud in knowing that it was you who helped establish the Argent Crusade inside the walls of Icecrown, $N. The Crusaders' Pinnacle now stands in direct defiance of the Lich King and his twisted minions.$B$BHighlord Fordring and the crusaders who survived await your arrival at Crusaders' Pinnacle. Travel once more through the Breach and seek out the highlord!",
+  "p": "",
+  "c": "A long and arduous journey awaits us as we make our way to the gates of Icecrown Citadel. I, and the soldiers of the Argent Crusade, wish to thank you for all that you have done. We rest easier knowing that you will fight alongside us in this cursed place.$B$B<Highlord Tirion Fordring salutes.>\n"
+ },
+ {
+  "id": 13158,
+  "t": "Discretion is Key",
+  "o": "Rhonin wants you to go to the Violet Hold in Dalaran and speak with Warden Alturas.",
+  "d": "Listen to me, $r.$b$bIt's just been brought to my attention that there's been an incident at the Violet Hold. It would appear that the blues are launching a full scale invasion of Dalaran!$b$bI need you to get to the prison and speak with Warden Alturas at once. He'll give you the details.$b$bThat is not all. I need this handled with utmost discretion. We mustn't alarm the citizens of Dalaran if it can possibly be avoided. Do I make myself clear?$b$bVery well. Now, go!",
+  "p": "",
+  "c": "Not a moment too soon.$b$bAre you prepared to defend Dalaran, $c?"
+ },
+ {
+  "id": 13160,
+  "t": "Stunning View",
+  "o": "Vereth the Cunning at the Rise of Suffering wants you to use a Lithe Stalker's heave ability to destroy 12 sleeping Iceskin Sentries.",
+  "d": "Gargoyles make effective scouts and can be deadly if left to rain attacks from the air, but they have a very obvious weakness. Most of them have to go through long periods resting as stone to maintain the energy they need to carry their heavy bodies through the air.$B$BAs I peered through the eye you were using, I noticed dozens of iceskin sentries resting on the eastern and southern walls inside. Use the stalker to leap up to their ledges and devastate them while they sleep.",
+  "p": "Almost too easy.",
+  "c": "Not so much of a threat when they're sleeping."
+ },
+ {
+  "id": 13162,
+  "t": "The Rider of Frost",
+  "o": "Vereth the Cunning on the Rise of Suffering wants you to kill Sapph, the Rider of Frost.",
+  "d": "Sapph... Sapph's a death knight like no other. She'll shower you with sweet words and you'll swear that she has no evil within her heart, and then she'll run you through without even breaking her smile.$B$BI have no fear that you'll be able to best Sapph, but do not grow overconfident. Her strength lies in lulling her victims into a false ease, shortly before shattering them with a fierce barrage of frost attacks.$B$BDo not let your guard down, and do not underestimate her.",
+  "p": "Are we rid of her?",
+  "c": "I can't deny, I'll miss her laugh... and that smile that would creep onto her face just before she killed someone. A little less need to watch my back though, so I suppose I can't complain."
+ },
+ {
+  "id": 13163,
+  "t": "The Rider of Blood",
+  "o": "Vereth the Cunning on the Rise of Suffering wants you to kill Baelok, the Rider of Blood.",
+  "d": "Baelok is one of the few vrykul that I've ever seen rise through the ranks, and that was mostly accomplished through sheer brutality. If your competition ends up dead, there's far less to compete against.$B$BWhen you join battle with him, spread out from your companions and keep your distance as much as you reasonably can. He will not hesitate to steal your life force for himself, so you will need to hinder his ability to do so as much as possible.$B$BYou have my confidence. See to it that he dies.",
+  "p": "Is he dead?",
+  "c": "So he finally lost? Good to hear."
+ },
+ {
+  "id": 13164,
+  "t": "The Fate of Bloodbane",
+  "o": "Vereth on the Rise of Suffering has dispatched you to kill Orbaz Bloodbane.",
+  "d": "With the riders of the Host of Suffering dead, now is the time to put an end to their true leader: Orbaz Bloodbane.$B$BMograine caught up with me while you were off and told me that he found where Orbaz is hiding. Under Icecrown Citadel itself, there is an immense pit - you will find Orbaz just outside its lip.$B$BSome of the Ebon Blade's strongest agents have already been dispatched - gather aid and join the fight. It is time for Bloodbane to die.",
+  "p": "Are we finally free of that Arthas want-to-be?",
+  "c": "Morgraine himself arrived to see the deed done then? I imagine there was some ill blood between those two - no surprise that he wanted a piece of the wretch.$b$bYou've done exceedingly well, $r, and you shall be awarded appropriately. The Ebon Blade thanks you."
+ },
+ {
+  "id": 13165,
+  "t": "Taking Back Acherus",
+  "o": "Use your Death Gate spell to return to Acherus: The Ebon Hold. Report to Highlord Darion Mograine once you arrive.",
+  "d": "The haze has been lifted. I can see as clearly now as the day that I plunged the Ashbringer into my own heart to free my father's cursed soul: my last memory as a free man.$B$BWe must take back Acherus from the Scourge if our order is to survive in this new world. I have taught you how to call forth a death gate. The death gate will return you to Acherus when you call upon it, $N. Use it now and meet me at Acherus. The first battle of the Knights of the Ebon Blade is underway! Death to the Scourge!",
+  "p": "",
+  "c": "The Lich King has returned to Northrend, wounded by the Ashbringer, but the second floor still holds the last of his armies."
+ },
+ {
+  "id": 13166,
+  "t": "The Battle For The Ebon Hold",
+  "o": "Slay 10 Scourge and help kill Patchwerk. Return to Highlord Darion Mograine should you succeed.",
+  "d": "The Hall of Command has been secured, but the Lich King has left us a little present in the Heart of Acherus. The stitched terror, Patchwerk, and a horde of abominations have taken over the second floor.$B$BUse the teleporter to get to the second floor and destroy the Scourge forces that remain. Do not engage Patchwerk alone! You must fight the monstrosity with other death knights of Acherus!$B$BGo, $N. You have my strength to carry you!",
+  "p": "Acherus will be ours!",
+  "c": "Well done, death knight. The remaining Scourge will be dealt with in short order and the rebuilding process will begin anew.$B$BI have but one last task for you.\n"
+ },
+ {
+  "id": 13167,
+  "t": "Death to the Traitor King",
+  "o": "Kilix the Unraveler in the Pit of Narjun has tasked you with defeating Anub'arak in Azjol-Nerub. You are to return to Kilix with Anub'arak's Broken Husk.",
+  "d": "Anub'arak, the traitor king, makes his home in the once proud underland of Azjol-Nerub.$b$bSince his betrayal, he has twisted and perverted our homeland into the wretched squalor it is today. He rules over an army of undead nerubians who, like their leader, have pledged themselves to serving the Lich King.$b$bBring an end to the traitor king's reign, $c. You will be doing a great service to both of our peoples.$b$bIf you manage to succeed where all others have failed, bring me the husk of Anub'arak.",
+  "p": "Is it done, $c? Has the traitor king finally met his end?",
+  "c": "<A fierce glow emanantes from all of Kilix's eyes as he stares at the husk.>$b$bIt is DONE!$b$b$R! Your name shall be recorded in the history of our people.$b$bI am in your debt...."
+ },
+ {
+  "id": 13168,
+  "t": "Parting Gifts",
+  "o": "Keritose Bloodblade at the Shadow Vault wants you to use an Eye of Dominion to take control of a captured Eidolon Watcher.",
+  "d": "Look what we have here... eyes of dominion. The Cult normally goes to great lengths to keep these things safe, but I suppose their options for retreat are few when we're slaughtering them in their own home.$B$BThe eyes allow a being of any relative power to control an undead minion's actions precisely. As you can imagine, this can be extremely useful when it comes to your typical clumsy ghoul or skeleton.$B$BCare to try your hand at it? Use one of the eyes to control a captured shade.",
+  "p": "The options of subterfuge made available to us with the eyes are obvious.  These will be very useful tools.",
+  "c": "Nothing to it, eh? Any intelligent being should have little trouble controlling lesser undead. I suspect only the likes of a true necromancer could use these to sieze control of any of the more powerful undead. That won't be a problem though - I can already think of quite a variety of destruction we can wreak with even the most paltry minions.$B$BShall we have at it then?"
+ },
+ {
+  "id": 13169,
+  "t": "An Undead's Best Friend",
+  "o": "Keritose Bloodblade at the Shadow Vault wants you to use the Eidolon Watcher to feed 18 Hungering Plaguehounds.",
+  "d": "As is usual practice, the undead at the saronite quarry to the southwest starve plaguehounds to keep them extra aggressive. Use the shade to get up close and feed some of those hounds and I promise you they'll be content to leave you alone, if not side with the hand that fed them.$B$BDon't get too close to those things until you've fed them though. Their noses don't fall victim to your shade's elusiveness.",
+  "p": "No need to be wasteful - those hounds will serve whoever bothers to feed them.",
+  "c": "Put them right to sleep, didn't it?"
+ },
+ {
+  "id": 13170,
+  "t": "Honor is for the Weak",
+  "o": "Keritose Bloodblade at the Shadow Vault would like you to assassinate 20 Restless Lookouts.",
+  "d": "Ghouls are fragile things when it comes down to it, and the lookouts at the saronite quarry down the path to the southwest are no exception. Using one of the shades, I have no doubt that you can sneak up and put down their lookouts without making a sound.$B$BClear out as many lookouts as you can reach in a reasonable amount of time... we'll want their ranks thinned for our assault to come.",
+  "p": "Hard to lookout for what can't be seen.",
+  "c": "Without even getting your hands dirty."
+ },
+ {
+  "id": 13171,
+  "t": "From Whence They Came",
+  "o": "Keritose Bloodblade at the Shadow Vault has sent you to banish 10 Scourge Containment Crystals.",
+  "d": "My main concern is the saronite quarry down the path to the southwest. They are pulling up immense amounts of ore from that quarry and I'd like to know what they're building with it. To that end, we'll start by weakening their defenses.$B$BI noticed a series of crystals scattered throughout the base and I assume they are defensive structures of some sort, not unlike ziggurats. Use the eidolon watcher to destroy any of those crystals that you find.",
+  "p": "Are those crystals out of the way? I don't want them to prove a nasty surprise for my gryphons.",
+  "c": "Excellent work. We should have little threat in the air then."
+ },
+ {
+  "id": 13172,
+  "t": "Seeds of Chaos",
+  "o": "Keritose Bloodblade at the Shadow Vault has dispatched you to slaughter 80 undead in the Weeping Quarry. Speak to him to secure a skeletal gryphon for the assault.",
+  "d": "Effective tool, is it not? Excellent job weakening their defenses, $c. Now we can push the main assault.$B$BThe plan here is straight-foward - we're looking to destroy anything moving, and get in there and steal some information amidst the confusion.$B$BLet me know when you're ready and I'll set you up with a skeletal gryphon.",
+  "p": "Have some fun of it, eh?",
+  "c": "Practically defenseless. It doesn't get much easier than that."
+ },
+ {
+  "id": 13173,
+  "t": "Amidst the Confusion",
+  "o": "",
+  "d": "We got our hands on quite a few workers. They should do nicely.$B$BI want you to use an eye to bring one of these workers back into the quarry. With the entire camp in disarray, there's no way they'll be able to distinguish you from any of the other workers that were scattered by the assault.$B$BFind whoever is in charge of the operation and get to work. With any luck, we'll find out where that Saronite is being shipped off to pretty quickly. I'll watch over your shoulder through the eye.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13174,
+  "t": "Amidst the Confusion",
+  "o": "Keritose Bloodblade at the Shadow Vault has requested a Weeping Quarry Document, a Weeping Quarry Ledger, a Weeping Quarry Map, and a Weeping Quarry Schedule.",
+  "d": "Shutting down their operation is just half of the plan. The other important goal here is to find out where all that saronite is being sent. We know of a few places it's been ending up, but the amount they're pulling out suggests to me that there's a bigger project in the works.$B$BOnce you're inside the quarry, get your hands on any of their documents that you can find. If you're assaulting the place with one of the gryphons, you can drop down from it as soon as the wetwork is done.",
+  "p": "Did you bring back what I requested?",
+  "c": "Let's see here... what do we have...$B$B<Keritose buries his head in the papers for a bit, seemingly gleaning little that he did not already know. Suddenly he finds what he is looking for...>$B$BMalykriss! The Vile Hold. It seems Arthas did not take the loss of his death knights so well... I'm not exactly sure what he's doing with all of that saronite, but I have a feeling he might be overcompensating for something.$B$BThat boy is not used to losing."
+ },
+ {
+  "id": 13177,
+  "t": "No Mercy for the Merciless",
+  "o": "Commander Zanneth in Wintergrasp Fortress wants you to slay 10 members of the Horde.",
+  "d": "Welcome to the Wintergrasp Fortress, $n. Your mission is simple. Defeat ten of the Horde's finest. Now, go! Bring victory to the Alliance!",
+  "p": "Well, have you completed your mission?",
+  "c": "Glorious! Truly, you are among the champions of the Alliance."
+ },
+ {
+  "id": 13178,
+  "t": "Slay them all!",
+  "o": "Commander Dardosh in Wintergrasp Fortress wants you to slay 10 members of the Alliance.",
+  "d": "Welcome to the Wintergrasp Fortress, $n. Warlord Garrosh demands one thing: Slay them all!$B$BReturn to me when ten of the strongest members of the Alliance are dead.",
+  "p": "Well, have you completed your mission?",
+  "c": "Lok'tar! Victory for the Horde!"
+ },
+ {
+  "id": 13179,
+  "t": "No Mercy for the Merciless",
+  "o": "Commander Zanneth in Wintergrasp wants you to slay 10 members of the Horde.",
+  "d": "Welcome to the Wintergrasp, $n. Your mission is simple. Defeat ten of the Horde's finest. Now, go! Bring victory to the Alliance!",
+  "p": "Well, have you completed your mission?",
+  "c": "Glorious! Truly, you are among the champions of the Alliance."
+ },
+ {
+  "id": 13180,
+  "t": "Slay them all!",
+  "o": "Commander Dardosh in Wintergrasp wants you to slay 10 members of the Alliance.",
+  "d": "Welcome to the Wintergrasp, $n. Warlord Garrosh demands one thing: Slay them all!$B$BReturn to me when ten of the strongest members of the Alliance are dead.",
+  "p": "Well, have you completed your mission?",
+  "c": "Lok'tar! Victory for the Horde!"
+ },
+ {
+  "id": 13181,
+  "t": "Victory in Wintergrasp",
+  "o": "Win a Wintergrasp battleground match and return to Tactical Officer Abrahmis in Wintergrasp. You must have participated in the battle to be credited for the victory.",
+  "d": "Commander Zanneth might be satisfied with a pile of Horde corpses at his feet, but controlling Wintergrasp is of the utmost importance to the Valiance Expedition. Make sure it remains in our control.$B$BHowever, don't think we'll just let you stand around while your allies do your dirty work for you. If you're not at least a second level recruit by the end of the battle, don't come back.",
+  "p": "Do you bring word of victory?",
+  "c": "Just what I wanted to hear!  A victory in Lake Wintergrasp - even a temporary one - is crucial to our overall strategy against the Horde."
+ },
+ {
+  "id": 13182,
+  "t": "Don't Forget the Eggs!",
+  "o": "Kilix the Unraveler in the Pit of Narjun wants you to enter Azjol-Nerub and destroy 6 Nerubian Scourge Eggs.",
+  "d": "Throughout Azjol-Nerub, the scourged nerubians carefully nurture eggs that will soon hatch, providing them even greater numbers.$b$bIt would do little good for the caverns to be cleansed of the undead that stain them if these fouled eggs were left to hatch and take their place.$b$bAs you  explore the expanse that was once Azjol-Nerub, be sure to clear our ancient home of any scourge eggs you find.",
+  "p": "Were you able to rid our home of the scourged eggs?",
+  "c": "It saddens me to see that things have come to this. If only we could return our great empire to what it once was..."
+ },
+ {
+  "id": 13183,
+  "t": "Victory in Wintergrasp",
+  "o": "Win a Wintergrasp battleground match and return to Tactical Officer Kilrath in Wintergrasp. You must have participated in the battle to gain credit for the victory.",
+  "d": "While Dardosh might be content with slaying our foes, it is of the utmost importance that we control Wintergrasp Fortress. Do whatever it takes to ensure Wintergrasp is ours.$B$BHowever, don't think we'll just let you stand around while your allies do your dirty work for you. If you're not at least a second level recruit by the end of the battle, don't come back.",
+  "p": "What news do you bring?",
+  "c": "It is a truly great thing you have accomplished this day. Be recognized for your sacrifice!"
+ },
+ {
+  "id": 13185,
+  "t": "Stop the Siege",
+  "o": "Lieutenant Murp in Wintergrasp Fortress wants you to destroy 3 Alliance siege machines.",
+  "d": "I hears dem! The Alliance come soon. Destroy three Alliance siege devices and come back to Murp.",
+  "p": "Have you destroyed their siege vehicles?",
+  "c": "Good job. Murp wish he was there to help."
+ },
+ {
+  "id": 13186,
+  "t": "Stop the Siege",
+  "o": "Senior Demolitionist Legoso in Wintergrasp Fortress wants you to destroy 3 Horde siege machines.",
+  "d": "It is only a matter of time before this castle is besieged by the forces of the Horde. Destroy three of their siege devices and return to me.",
+  "p": "There is no time to waste, have you destroyed their siege vehicles?",
+  "c": "Excellent. That should slow down their assault."
+ },
+ {
+  "id": 13187,
+  "t": "The Faceless Ones",
+  "o": "Kilix the Unraveler in the Pit of Narjun wants you to kill Herald Volazj and the three Forgotten Ones that accompany him in Ahn'Kahet.",
+  "d": "In my peoples' struggle against the forces of the undead, they dug deeper as they lost ground. In desperation, they dug too deep.$b$bWe inadvertently exposed a tendril of the old god's will, which was made manifest in the creatures known only as the Faceless.$b$bIn the end, we could not fight on two fronts against such powerful enemies. Our misfortune cost us the war against the undead, and ultimately, our home.$b$bEnter Ahn'kahet, $c, and cleanse our former home of these Faceless atrocities.",
+  "p": "Have you overcome the faceless ones, $c?",
+  "c": "You have done well, $c.$b$bMay your deeds renew hope for our people, that someday we may reclaim the city of our ancestors."
+ },
+ {
+  "id": 13188,
+  "t": "Where Kings Walk",
+  "o": "Deliver the letter to King Varian Wrynn of the Alliance at Stormwind Keep in Stormwind City.",
+  "d": "You are now, and forever will be, a Knight of the Ebon Blade, $N, but know this: you were once a hero of the Alliance.$B$B<Darion stares at you.>$B$BThis order must establish allies for itself if it is to survive. You must represent the Knights of the Ebon Blade to the Alliance.$B$BOn the platform, southeast of me, is a portal to Stormwind City. Take this letter, given to me on your behalf by Lord Fordring, and deliver it to King Varian Wrynn. Use the portal.",
+  "p": "You have mere moments to live.",
+  "c": "<Varian stares off into the distance.>$B$BIndeed old friend... Blood and honor.$B$B<Varian affixes his gaze upon you.>$B$BWere it not for this letter from Tirion, you would be a stain upon my floor. Only an endorsement from one of the greatest paladins to ever live could have ensured your survival.$B$BWe... We will work together against the Scourge. Against the Lich King!$B$BGLORY TO THE ALLIANCE!"
+ },
+ {
+  "id": 13189,
+  "t": "Warchief's Blessing",
+  "o": "Deliver the letter to Thrall, Warchief of the Horde at Orgrimmar.",
+  "d": "You are now, and forever will be, a Knight of the Ebon Blade, $N, but know this: you were once a hero of the Horde.$B$B<Darion stares at you.>$B$BThis order must establish allies for itself if it is to survive. You must represent the Knights of the Ebon Blade to the Horde.$B$BOn the platform, southeast of me, is a portal to Orgrimmar. Take this letter, given to me on your behalf by Lord Fordring, and deliver it to Thrall. Use the portal.",
+  "p": "An interesting turn of events.",
+  "c": "Eitrigg is alive because of this paladin. He would have been executed had Lord Fordring not broken him out of Stratholme.$b$bTirion Fordring, to have sacrificed everything to save the life of an orc... I have ever only known one other human to make such a sacrifice.$b$b<Thrall blinks back a tear.>$b$bYou will be in my heart always, Taretha.$b$bYes. For Tirion Fordring and for Eitrigg! We will accept you as a member of the Horde and your order as allies.$b$bBlood and honor! For the Horde!"
+ },
+ {
+  "id": 13191,
+  "t": "Fueling the Demolishers",
+  "o": "Siegesmith Stronghoof at Wintergrasp Fortress wants you to retrieve 10 Eternal Embers from Alliance players in the Cauldron of Flames.",
+  "d": "Lok'tar, $n! While the battle may be over, we must prepare for the Alliance's next assault! Travel to the Cauldron of Flames in south eastern Wintergrasp and retrieve ten eternal embers.$B$BThe embers are mixed in with coal to fuel the Demolishers and Siege Engines. $B$BWe've heard reports of Alliance pigs collecting the embers all day. Slay them and take their embers! If they have already abandoned the area, then be prepared to fight the fire elementals there until you find some!",
+  "p": "Well? Did you manage to find the embers or did the Alliance beat you to it and leave you crying?",
+  "c": "Excellent! This will help us defeat the Alliance in the battles to come!"
+ },
+ {
+  "id": 13193,
+  "t": "Bones and Arrows",
+  "o": "Lieutenant Vieron Blazefeather at Wintergrasp Fortress wants you to retrieve 10 Quivers of Dragonbone Arrows from Alliance players in the Forest of Shadows.",
+  "d": "Why would they set me to the task of arming our archers? I was a poet, not a ranger! Well, no use complaining. $n, I am in need of dragon bone for our arrowheads.$B$BTravel to the Forest of Shadows on the western side of Wintergrasp. Ever since the last skirmish, the Alliance have been scavenging dragon bones in the area. Slay them and take the bones.$B$BIf that fails, you might be lucky and get one from the spirits in the area. I hear they love to impale their living victims on the bones as they die.",
+  "p": "Back so soon? Drat, I was hoping to catch a moment's rest.",
+  "c": "Well, I guess its another night of sharpening bones for me. Why didn't I stay in Silvemoon City like my brother? "
+ },
+ {
+  "id": 13194,
+  "t": "Healing with Roses",
+  "o": "Primalist Mulfort wants you to retrieve 10 Alliance Herb Pouches from Alliance players at the Steppe of Life.",
+  "d": "Between the battles, one might almost believe that there was hope for peace in this land. Sadly, that is not to be our fate.$B$BTravel to the Steppe of Life in southwestern Wintergrasp. I have need of the roses that grow there for salve to treat the wounded.$B$BSadly, the rose has become scarce due to the Alliance harvesting it too rapidly. Slay them on the Steppe of Life and retrieve their herb pouches from the bodies.$B$BIf that fails, perhaps a lasher or two might have one.",
+  "p": "Were you able to recover the herbs? The sick and wounded increase by the hour.",
+  "c": "Thank you, this will go far to treat our soldier's wounds."
+ },
+ {
+  "id": 13195,
+  "t": "A Rare Herb",
+  "o": "Anchorite Tessa in Wintergrasp wants you to retrieve 10 Horde Herb Pouches from Horde players in the Steppe of Life.",
+  "d": "My, it is quite chilly up here! Reminds me of the stormy peaks of Kaarinos on Argus. However, with all of this snow and ice, our soldiers can easily catch cold.$B$BHead to the Steppe of Life in southwestern Wintergrasp, and bring me back 10 Horde Herb Pouches. I will grind the herbs into a medicine to protect against the cold.$B$BThe Horde have been seen collecting them from the plant life in the area. Do not hesitate to slay them and retrieve the herbs!$B$BYou may also find one on a lasher in the area.",
+  "p": "I hope you didn't pull up any of the lashers by mistake! They gave Private Doane quite a whipping last week.",
+  "c": "Excellent! This will help protect our troops against the cold."
+ },
+ {
+  "id": 13196,
+  "t": "Bones and Arrows",
+  "o": "Bowyer Randolph in Wintergrasp wants you to retrieve 10 Quivers of Dragonbone Arrows from Horde players at the Forest of Shadows.",
+  "d": "Dragons are incredible! Well, their bones at least! I've been equipping our archers with arrowheads made of Dragonbone. Unfortunately, since the massacre at Angrathar, it has become almost impossible to get bone from Dragonblight.$B$BHowever, the Forest of Shadows on the western edge of Wintergrasp has enough bones to tide us over.$B$BHead to the Forest of Shadows and bring back any bone splinters you can find!$B$BThe Horde have been seen collecting bone splinters in the area. Slay them!",
+  "p": "How was the hunting? I've heard rumors the place is haunted, though I never venture out there myself.",
+  "c": "Excellent! This will help fuel the flames of war for days to come. "
+ },
+ {
+  "id": 13197,
+  "t": "Fueling the Demolishers",
+  "o": "Siegesmith Stouthandle in Wintergrasp wants you to retrieve 10 Eternal Embers from Horde players at the Cauldron of Flames.",
+  "d": "$n! About time you showed up. While we may have lost the last battle, we should prepare for the next! Travel to the Cauldron of Flames in southeastern Wintergrasp and retrieve several eternal embers.$B$BThe embers are mixed in with coal to fuel the Demolisher and Siege Engines. $B$BOh, and if you happen to see some of the Horde in the Cauldron, don't hesitate to slay them and take their embers. We must prevent them from holding the keep!",
+  "p": "Well? Did you manage to find the embers or did the Horde beat you to it and leave you crying?",
+  "c": "Excellent! This will help fuel the flames of war for days to come. "
+ },
+ {
+  "id": 13198,
+  "t": "Warding the Warriors",
+  "o": "Sorceress Kaylana in Wintergrasp wants you to retrieve 10 sets of Imbued Horde Armor at the Glacial Falls.",
+  "d": "$n, good to see you. We must prepare for our next assault on the fortress. My research indicates that the armor of soldiers recently slain in the Glacial Falls becomes imbued with an incredible amount of energy. The Horde has been collecting armor in the area.$B$BHead to the Glacial Falls and slay any of the Horde you find there. Return their imbued armor to me.$B$BIf you cannot find any of the Horde, you might find the armor of an adventurer slain by the elementals.",
+  "p": "So, did you find the armor?",
+  "c": "Augh. It's still dripping. Couldn't you have at least dried it off first?"
+ },
+ {
+  "id": 13199,
+  "t": "Bones and Arrows",
+  "o": "Lieutenant Vieron Blazefeather in Wintergrasp wants you to retrieve 10 Quivers of Dragonbone Arrows from Alliance players at the Forest of Shadows.",
+  "d": "Why would they set me to the task of arming our archers? I was a poet, not a ranger! Well, no use complaining. $n, I am in need of dragon bone for our arrowheads.$B$BTravel to the Forest of Shadows on the western side of Wintergrasp. Ever since the last skirmish, the Alliance have been scavenging dragon bones in the area. Slay them and take the bones.$B$BIf that fails, you might be lucky and get one from the spirits in the area. I hear they love to impale their living victims on the bones as they die.",
+  "p": "Back so soon? Drat, I was hoping to catch a moment's rest.",
+  "c": "Well, I guess its another night of sharpening bones for me. Why didn't I stay in Silvemoon City like my brother? "
+ },
+ {
+  "id": 13200,
+  "t": "Fueling the Demolishers",
+  "o": "Siegesmith Stronghoof in Wintergrasp wants you to retrieve 10 Eternal Embers from Alliance players at the Cauldron of Flames.",
+  "d": "Lok'tar, $n! While the battle may have subsided, we must prepare to retake the fortress! Travel to the Cauldron of Flames in south eastern Wintergrasp and retrieve ten eternal embers.$B$BThe embers are mixed in with coal to fuel the Demolishers and Siege Engines. $B$BWe've heard reports of Alliance pigs collecting the embers all day. Slay them and take their embers! If they have already abandoned the area, then be prepared to fight the fire elementals there until you find some!",
+  "p": "Well? Did you manage to find the embers or did the Alliance beat you to it and leave you crying?",
+  "c": "Excellent! That should put a dent in their war machines!"
+ },
+ {
+  "id": 13201,
+  "t": "Healing with Roses",
+  "o": "Primalist Mulfort in Wintergrasp wants you to retrieve 10 Alliance Herb Pouches from Alliance players at the Steppe of Life.",
+  "d": "So many of our braves were lost during the battle, but even more shall die if left untreated. $B$BTravel to the Steppe of Life in southwestern Wintergrasp. I have need of the roses that grow there for salve to treat the wounded.$B$BSadly, the rose has become scarce due to the Alliance harvesting it too rapidly. Slay them on the Steppe of Life and retrieve their herb pouches from the bodies.$B$BIf that fails, perhaps a lasher or two might be in bloom.",
+  "p": "Were you able to recover the herbs? The sick and wounded increase by the hour.",
+  "c": "Thank you, this will go far to treat our soldiers' wounds."
+ },
+ {
+  "id": 13202,
+  "t": "Jinxing the Walls",
+  "o": "Hoodoo Master Fu'jin in Wintergrasp wants you to retrieve 10 Enchanted Alliance Breastplates from Alliance players at the Glacial Falls.",
+  "d": "Hey 'mon. See dem Alliance sitting comfy in their keep?$B$BI think they be a bit too comfy, ya? I want ta be jinxing the place, but I be needin' some souls, mon. Not any soul though, only da soul of a strong warrior could do da job.$B$BThe Glacial Falls in east Wintergrasp be havin' dem special properties to extract da soul. Slay the Alliance there, they be havin' the stuff we need.$B$BBring back da armor of the slain. If there be no Alliance maybe da elementals got 'em, mon.",
+  "p": "Did ya bring da armor, mon?",
+  "c": "Ooh, ya dats da stuff, mon!"
+ },
+ {
+  "id": 13204,
+  "t": "Funky Fungi",
+  "o": "You are to collect 6 Grotesque Fungus from Savage Cave Beasts in Ahn'kahet and deliver them to Kilix the Unraveler in The Pit of Narjun.",
+  "d": "A misshapen piece of mushroom-like fungus falls from a particularly smelly, ooze-covered patch of the cave beast's flesh. Examining it, you are violently repulsed by its overwhelming stench.$b$bYou wonder to yourself if this is the kind of thing that the nerubians might find appetizing. Placing the sticky organism in your pack, you determine to find out...",
+  "p": "What in creation are these?!",
+  "c": "Do you have any idea what you've been carrying around, $c?$b$bThe cave beasts you've been harvesting have no traditional method of excreting their waste. You might want to wash your hands...$b$bThank you for the thought, but if you come across any more of these please keep them for yourself."
+ },
+ {
+  "id": 13205,
+  "t": "Disarmament",
+  "o": "Defender Mordun wants you to enter Utgarde Keep and steal 5 Vrykul Weapons",
+  "d": "Take it from me, $g lad:lass;, them vrykul weapons be downright nasty!$b$bI've felt their edge personally, and there be somethin' unnatural about 'em. Deceptively well-balanced, wickedly sharp - just plain deadly.$b$bGet into their stronghold and if nuthin' else, pilfer some o' them weapons! Mebbe we can learn us a thing 'er two about 'em, mebbe not.$b$bBottom line - the fewer axes they be swingin' around, the better.",
+  "p": "You pinch a load a' them vrykul axes?",
+  "c": "<Mordun whistles.>$b$bWill ya just look at 'em? Incredible.$b$bI half expected these neanderthals to be swingin' around clubs and throwin' rock.$b$bNo such luck..."
+ },
+ {
+  "id": 13206,
+  "t": "Disarmament",
+  "o": "Dark Ranger Marrah wants you to steal 5 Vrykul Weapons from Utgarde Keep and bring them to High Executor Anselm in Vengeance Landing.",
+  "d": "We must discover the secret to these savages' weapons!$b$bIf you'd have seen how easily they cut through my companions, you'd understand my sense of urgency. Just have a look at their forge if you doubt my words.$b$bScour the place. Gather all of their arms that you can carry and bring them to Anselm for his inspection.$b$bDo not fail us, $c. Every weapon you are able to bring out of this place is one less that we must face in the field.",
+  "p": "What have you got there, $c?",
+  "c": "Marrah has informed us of the superiority of the Vrykul's weaponry. We'll have a look at these and see if there's anything to learn.$b$bTake this for your trouble, $c."
+ }
+]

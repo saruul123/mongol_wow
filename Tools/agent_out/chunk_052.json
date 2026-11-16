@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11348,
+  "t": "The Rune of Command",
+  "o": "Prospector Belvar at Fort Wildervar wants you to test the Rune of Command and defeat Binder Murdis.",
+  "d": "Can you feel the power emanating from the runes I've carved on this tablet? They're smaller versions of the runes that the Iron Dwarves are using. We'll use it to shut down their operation.$B$BTake it to Giants' Run and use it on a stone giant that the dwarves have not altered.$B$BThe giant should obey you, but I've tailored the runes to restore it to its natural state after a time. The giant may prove a valuable ally in the battle against Binder Murdis, the leader of the Iron Dwarf forces at Giants' Run.",
+  "p": "Have you tried the rune?",
+  "c": "You've done well in defeating Binder Murdis, but the Iron Dwarves won't give up easily.$B$BWe've made a lot of progress in understanding how they manipulate runes. Perhaps next time we encounter them, our knowledge will give us an advantage."
+ },
+ {
+  "id": 11349,
+  "t": "Mastering the Runes",
+  "o": "Bring a set of Iron Rune Carving Tools to Prospector Belvar at Fort Wildervar.",
+  "d": "I've got a set of picks, hammers, and chisels with me, but they won't work for carving these runes. The tools used by the Iron Dwarves are imbued with magic during their forging.$B$BWhen they're used to carve runes, the symbols form much more than mere words. These runes have the power to bind, compel, and twist.$B$BI believe I know how it works, but without a set of those tools, I can't be certain. Look for kits resembling mine near the Iron Dwarf pavilions at Giants' Run and bring them to me.",
+  "p": "Have you returned with those tools?",
+  "c": "<Belvar handles the tools carefully.>$B$BI'm going to try these out. If we're to understand the Iron Dwarves' motives and defeat them, I need to know exactly what the runes are doing."
+ },
+ {
+  "id": 11350,
+  "t": "The Book of Runes",
+  "o": "Longrunner Pembe at Camp Winterhoof wants you to bring him The Book of Runes.",
+  "d": "Chieftain Ashtotem dispatched me on a scouting mission to Giants' Run, a broad, rocky plateau to the southeast, past the Frozen Glade.$B$BThe area has been taken over by Iron Dwarves who seem to be altering the giants as they emerge from the earth.$B$BThe iron rune stonecallers and binders carry large tomes with them, which must contain the runes they're carving on the giants.$B$BCapture the pieces of this book, assemble them, and bring it back to me. It's the only way we'll understand their plans.",
+  "p": "Have you recovered the book?",
+  "c": "<The longrunner browses the book of runes.>$b$bI'm no loremaster, but I have some familiarity with the language of the Iron Dwarves. I think the runes they're carving on the giants are derived from their spoken language, but there are some differences."
+ },
+ {
+  "id": 11351,
+  "t": "Mastering the Runes",
+  "o": "Bring a set of Iron Rune Carving Tools to Longrunner Pembe at Camp Winterhoof.",
+  "d": "I think I've figured out what the Iron Dwarves are doing. The tools they use are imbued with magic during their forging.$B$BWhen they're used to carve runes, the symbols form much more than mere words. These runes have the power to bind, compel, and twist.$B$BIf I had a set of those tools, I could mimic the runes in the book. I captured one of these boxes from one of the pavilions at Giants' Run, but it was empty. Look for similar boxes and recover a set of tools from them.",
+  "p": "Have you returned with those tools?",
+  "c": "<Pembe examines the tools.>$b$bThese are more delicate than I'd thought. Allow me a moment to try them out."
+ },
+ {
+  "id": 11352,
+  "t": "The Rune of Command",
+  "o": "Longrunner Pembe at Camp Winterhoof wants you to test the Rune of Command and defeat Binder Murdis.",
+  "d": "Can you feel the power emanating from the runes I've carved on this tablet? They're smaller versions of the runes that the Iron Dwarves are using. We'll use it to shut down their operation.$B$BTake it to Giants' Run and use it on a stone giant that the dwarves have not altered.$B$BThe giant should obey you, but I've tailored the runes to restore it to its natural state after a time. The giant may prove a valuable ally in the battle against Binder Murdis, the leader of the Iron Dwarf forces at Giants' Run.",
+  "p": "Have you tried the rune?",
+  "c": "You've done well in defeating Binder Murdis, but the Iron Dwarves won't give up easily.$b$bAs my people move north, I'm certain we will encounter the Iron Dwarves again. Next time, we will be prepared to thwart them before they can dig in."
+ },
+ {
+  "id": 11354,
+  "t": "Wanted: Nazan's Riding Crop",
+  "o": "Wind Trader Zhareem has asked you to obtain Nazan's Riding Crop. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Today I have a buyer who is interested in a piece that's held by the mount of Illidan's herald. I, of course, speak of Vazruden the Herald and his dragon mount, Nazan.$B$BIf you want the finder's fee that I offer in return, find them flying above the Ramparts at Hellfire Citadel and return with the dragon's riding crop.$B$BMy sources tell me that the item in question is personally held by the dragon. It is said that Nazan refuses to allow Vazruden to strike him with it.",
+  "p": "The riding crop please.",
+  "c": "Another soon-to-be satisfied customer. It looks like it's in fine condition. You are to be rewarded.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11355,
+  "t": "March of the Giants",
+  "o": "Researcher Aderan at Fort Wildervar wants you to use the Runeseeking Pick on the corpses of 4 Runed Stone Giants.",
+  "d": "To the east, at Giants' Run, rune-inscribed stone giants have started to migrate north toward Frostblade Peak. What their ultimate destination is, I do not know.$B$BThe glowing runes inscribed in the stone flesh of the giants guide them on their journey.$B$BUse this pick to deactivate the runes on the giants' corpses and return with your findings.",
+  "p": "What have you found?",
+  "c": "<Researcher Aderan listens to your findings.>$B$BThe runes for \"north\" and \"west\" appeared multiple times? There's a highly reinforced command to move in that direction, but the runes are more than propulsion. Something is attracting them, but what?"
+ },
+ {
+  "id": 11356,
+  "t": "Costumed Orphan Matron",
+  "o": "Speak with a Costumed Orphan Matron in either Goldshire, Kharanos or Azure Watch.",
+  "d": "During Hallow's End, human orphanages have organized trips for their orphans to visit Alliance countryside villages.  Those poor children would love to see a real $c like yourself!$B$BWhy don't you visit them?  You'll find orphans at Goldshire in Elwynn Forest, Kharanos in Dun Morogh and Azure Watch in Azuremyst.  Speak to the children's ward, a costumed orphan matron, and she'll introduce you to the children.",
+  "p": "",
+  "c": "You're here to visit the children!  Wonderful!  They have known such heartache in their short lives.  It is good that they see real heroes like you.  It really lifts their spirits!"
+ },
+ {
+  "id": 11357,
+  "t": "Masked Orphan Matron",
+  "o": "Speak with a Masked Orphan Matron in either Razor Hill, Brill or Falconwing Square.",
+  "d": "For Hallow's End, orc orphans were taken on a trip to many Horde villages.  The orphan matrons thought it would be good for them to see real heroes adventuring in the field.$B$BWhy don't you visit them?  A brave $c like yourself could strengthen their spirits with tales of your valor!  Go to either Razor Hill in Durotar, Brill in Tirisfal Glades or Falconwing Square in Eversong Woods.  Speak with the masked orphan matron and she'll introduce you to the children.",
+  "p": "",
+  "c": "The children love to watch heroes at their work.  It is my hope that, one day, each of these orphans will grow into a strong member of the Horde, and ultimately die in glorious battle!$B$BAh, thoughts of such a fine fate brings mist to my eyes..."
+ },
+ {
+  "id": 11358,
+  "t": "The Lodestone",
+  "o": "Researcher Aderan at Fort Wildervar wants you to compare the Rune Sample with the Broken Tablet.",
+  "d": "If we can locate what's luring the giants northwest, we might be able to stop them before they reach their destination.$B$BAlthough I was able to decipher many of the runes on the samples you brought me, the ones I don't know concern me the most. When I visited Giants' Run, I noticed a large broken tablet jutting from the ground where the northeastern part of the area met the snow at the foot of Frostblade Peak. Take this sample, compare the runes with the tablet, and see what you can learn.",
+  "p": "Have you discovered what lodestone attracts the giants?",
+  "c": "<Aderan listens as you describe your findings.>$B$BOf course! This Megalith must be the key to the Iron Dwarves' plans. We must destroy it before their plan comes to fruition!"
+ },
+ {
+  "id": 11359,
+  "t": "Demolishing Megalith",
+  "o": "Defeat Megalith and return to Researcher Aderan at Fort Wildervar.",
+  "d": "Binder Murdis created Megalith to be the most powerful of the runed giants and to lead them in their mission. Defeating Megalith will leave them lost and without direction. After the expeditionary force arrives, our soldiers will be able to isolate and defeat the remaining giants and oust their Iron Dwarf masters from their camps.$B$BSearch the foothills of Frostblade Peak, north of Giants' Run for Megalith and defeat him!",
+  "p": "Do you bring news of Megalith's downfall?",
+  "c": "You've done well in felling Megalith, but I wonder about his final words.$B$BYou're sure he said the Stoneforge?$B$BI know of no place with that name, but it sounds like a word with origins in the titans. What plans do the Iron Dwarves have for such a thing? This bears watching, $N, for we must find it before the Iron Dwarves' plan comes to fruition."
+ },
+ {
+  "id": 11360,
+  "t": "Fire Brigade Practice",
+  "o": "Throw Water Buckets onto 5 fires, and then speak with the Costumed Orphan Matron.",
+  "d": "With the Headless Horseman at large, the heroes of Goldshire are always ready to form a fire brigade.  Do you want to help?$B$BNorth of here, guards set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here, or the one near the fires.$B$BGood bye, $N.  When you're done with fire brigade practice, please visit us again!",
+  "p": "Hello, $N. Have you been perfecting your fire fighting techniques? Don't forget about the practice area to the north!",
+  "c": "You're wet and smudged with soot!  You must have been extinguishing fires!$B$BWell done!  As an honorary member of the Goldshire Fire Brigade, I beg you to return here if ever the village needs you!"
+ },
+ {
+  "id": 11361,
+  "t": "Fire Training",
+  "o": "Toss Water Buckets on 5 fires, then speak with the Masked Orphan Matron in Razor Hill.",
+  "d": "The grunts set up a fire training area outside the village.  These days, Razor Hill's buildings often catch fire -- you should lend a hand and train as a fire fighter!$B$BHead west out of Razor Hill, then turn right as you pass the village's wall.  Find the training area, then grab buckets and toss them on the practice fires.",
+  "p": "Have you dowsed any fires, $n?  The training area is west of Razor Hill's western exit.",
+  "c": "Well done, $N! Children, take a good look at this $c. Grow strong and brave like him and one day you too will fight for the Horde."
+ },
+ {
+  "id": 11362,
+  "t": "Wanted: Keli'dan's Feathered Stave",
+  "o": "Wind Trader Zhareem has asked you to obtain Keli'dan's Feathered Stave. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "There is no accounting for taste. Take my most recent buyer for instance.$B$BThere is a blood orc within Hellfire Citadel known as Keli'dan the Breaker. He bears a most mundane stave; certainly nothing to take a second glance at. And yet, this is what my customer wishes.$B$BWho am I to say no?$B$BIf you desire my compensation, you will find him and his stave within the Blood Furnace.",
+  "p": "We are speaking again... you must have the stave.",
+  "c": "Perhaps I will have new feathers tied onto it before shipping it on to the buyer. I'm certain with so many arakkoa hereabouts it will not prove difficult. A small matter, and nothing to detract from your reward in any case.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11363,
+  "t": "Wanted: Bladefist's Seal",
+  "o": "Wind Trader Zhareem has asked you to obtain Bladefist's Seal. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Today I have a very wealthy collector in need of something very unique indeed.$B$BWarchief Kargath Bladefist carries upon his person his seal of command, which he uses to sign all official documents. I want you to retrieve it for me.$B$BYou will find him deep within the Shattered Halls. No doubt you will have to wade through a veritable army to get to him. I have no doubt that you will succeed.",
+  "p": "I have heard it whispered that the warchief has weapons in place of his hands. Is this true?",
+  "c": "Truly a daring acquisition that the bards should put pen to parchment for. Here, you have more than earned this.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11364,
+  "t": "Wanted: Shattered Hand Centurions",
+  "o": "Nether-Stalker Mah'duun has tasked you with the deaths of 4 Shattered Hand Centurions. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "Do you question your master? Neither does Mah'duun.$B$BThe blood of the centurions of the Shattered Hand clan is what I seek. You will find them within the Shattered Halls of Hellfire Citadel.$B$BIf you want the bounty, you will not return until you have slain them all.",
+  "p": "You have returned. The centurions all lay dead?",
+  "c": "Very well, you have earned your bounty.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11365,
+  "t": "March of the Giants",
+  "o": "Sage Edan and Camp Winterhoof wants you to use the Runeseeking Pick on the corpses of 4 Runed Stone Giants.",
+  "d": "To the east, at Giants' Run, rune-inscribed stone giants have started to migrate north toward Frostblade Peak. I know nothing of their goals, nor of their destination.$B$BThe glowing runes inscribed in the stone flesh of the giants guide them on their journey. Fell some of these giants.$B$BTake this pick with you and use it on the corpses of the runed stone giants. It will deactivate the runes. Once you've tested enough giants, return to me with your findings.",
+  "p": "What have you found?",
+  "c": "<The sage listens to your findings.>$b$bThe runes for \"north\" and \"west\" appeared over and over? I'm not an expert in these runes, but the repetition of them suggests a strong command.$b$bThese carvings are more than passive directions, though. They seem to pull the giants toward something, but what?"
+ },
+ {
+  "id": 11366,
+  "t": "The Lodestone",
+  "o": "Sage Edan at Camp Winterhoof wants you to compare the Rune Sample with the Broken Tablet.",
+  "d": "We must find what's luring the giants northwest, so we can stop them before they reach their destination.$B$BWhile the rune samples gave us some clues, the unknown runes worry me.$B$BWhen I visited Giants' Run, I noticed a large broken tablet jutting from the ground where the northeastern part of the area met the snow at the foot of Frostblade Peak. Take this sample, compare the runes with the tablet, and see what you can learn about the identity of this lodestone.",
+  "p": "Have you discovered what lodestone attracts the giants?",
+  "c": "<Edan listens as you describe your findings.>$b$bMegalith? A literal transcription from the tablet! This Megalith must be the centerpiece of the iron ones' mysterious plans."
+ },
+ {
+  "id": 11367,
+  "t": "Demolishing Megalith",
+  "o": "Defeat Megalith and return to Sage Edan at Camp Winterhoof.",
+  "d": "Binder Murdis created Megalith to be a kind of keystone for the runed giants and to lead them in their mission. Defeating Megalith will leave them lost and without direction. I will ask Chieftain Ashtotem to divert some of our men as we move north and dedicate them to eliminating the last of the runed giants. Without their giants, the Iron Dwarves cannot stand against us.$B$BSearch the foothills of Frostblade Peak, north of Giants' Run for Megalith and defeat him!",
+  "p": "Do you bring news of Megalith's downfall?",
+  "c": "You've done well in felling Megalith, but I wonder about his final words.$b$bYou're sure he said the Stoneforge?$b$bIt is not a name our people know, but it sounds like it might be a creation of the \"titans\" the ousiders speak of. The Iron Dwarves have ever been a cunning and dangerous foe, $N. We must watch these giants and find this Stoneforge before they can carry out their plans."
+ },
+ {
+  "id": 11368,
+  "t": "Wanted: The Heart of Quagmirran",
+  "o": "Wind Trader Zhareem has asked you to obtain The Heart of Quagmirran. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "I have an unusual request. A certain wealthy individual that I am in contact with off-world is interested in a macabre piece.$B$BSpecifically, she wants the heart of Quagmirran.$B$BI hear that the beast has three, but one will suffice for our purposes. As I understand it, you can find Quagmirran resting within a deep pool of water at the Slave Pens.",
+  "p": "I trust that you know of a way to preserve the heart in transit?",
+  "c": "Now that I think of it, it's a pity I didn't ask you to return with the other two hearts as well. Perhaps next time. In any case, you've earned your commission.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11369,
+  "t": "Wanted: A Black Stalker Egg",
+  "o": "Wind Trader Zhareem wants you to obtain a Black Stalker Egg. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "There is only ever one great mother of the marsh walkers in Zangarmarsh. She is always known as the Black Stalker, and she hatches from one of the eggs left behind when her mother dies.$B$BI have a buyer who is interested in one of those eggs. He mentioned something about adding her as a zoo attraction.$B$BIf you are interested in the reward I am offering, travel to the Underbog and slay the Black Stalker for her egg.",
+  "p": "We're speaking again because you have the egg? Outstanding, let me see it!",
+  "c": "Is it not amazing to feel the life pulsing within the egg? I must hurry to deliver it to the purchaser. We wouldn't want it hatching here now would we?$B$BYour payment is ready.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11370,
+  "t": "Wanted: The Warlord's Treatise",
+  "o": "Wind Trader Zhareem has asked you to acquire The Warlord's Treatise. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "While it is known that Warlord Kalithresh of the naga is a great warrior in his own right, there are fewer who know that he has codified all of his knowledge.$B$BOne of my customers is aware of it though, and is keenly interested in obtaining his treatise.$B$BI ask that you travel to the Steamvault in Coilfang Reservoir and obtain this book for me.",
+  "p": "My customer grows restless. I believe he wishes to plumb the depths of the warlord's tactical thinking to help with one of his ongoing conflicts.",
+  "c": "Indeed, I fear my customer will not have time to peruse the entirety of this book. Nevertheless, that is not our concern. Here is your reward.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11371,
+  "t": "Wanted: Coilfang Myrmidons",
+  "o": "Nether-Stalker Mah'duun has asked you to slay 14 Coilfang Myrmidons. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "Mah'duun hears and obeys, and I now ask you to be my instrument.$B$BIt has been related to me that the myrmidons of the coilfang tribe must be destroyed. Seek them out within the humid confines of the Steamvault underneath Coilfang Reservoir.$B$BI will accept nothing less than their utter annihilation.",
+  "p": "How fares your fight against the coilfang myrmidons?",
+  "c": "I trust that it was a fight worthy of your time? Certainly this bounty will be.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11372,
+  "t": "Wanted: The Headfeathers of Ikiss",
+  "o": "Wind Trader Zhareem has asked you to acquire The Headfeathers of Ikiss. Deliver them to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "I've recently been approached by a tauren whose husband is about to be elevated to chieftain. She wishes to make a special addition to his headdress.$B$BSpecifically, she wants to obtain the headfeathers from the dastardly Talon King Ikiss.$B$BIf you are interested in collecting my reward, travel to Auchindoun's Sethekk Halls and find him.",
+  "p": "The time of the chieftain's ceremony grows near.",
+  "c": "I am sure that these feathers will make a fine addition to the chieftain's headdress. You have earned your compensation, $c.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11373,
+  "t": "Wanted: Shaffar's Wondrous Pendant",
+  "o": "Wind Trader Zhareem wants you to obtain Shaffar's Wondrous Amulet. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Today I have a personal request of you, yet the reward will certainly match the danger.$B$BMy family has a 'history', shall we say, with Nexus-Prince Shaffar and his followers. If the amulet he wears were to fall into my hands then surely that would mean that he had been dealt with.$B$BIf the bounty I am offering is of interest to you then journey to his lair within Auchindoun's Mana-Tombs.",
+  "p": "Not many know that the source of Shaffar's magic rests solely within his amulet. Without it he is powerless.$B$BThen again, if you have it that must mean that he is dead.",
+  "c": "<You sense a deep level of satisfaction from the wind trader.>$B$BGood, I am glad to hear of his demise. And perhaps I will be able to unlock the secrets of his amulet for myself. If not, then I will sell it for a handsome price.$B$BI trust that this reward is sufficient.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11374,
+  "t": "Wanted: The Exarch's Soul Gem",
+  "o": "Wind Trader Zhareem has asked you to recover The Exarch's Soul Gem. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Within Auchindoun's Auchenai Crypts many unsavory experiments are undertaken in the pursuit of a greater understanding of the necromantic arts. Many are the spirits that are tortured or destroyed therein.$B$BI have a customer who is interested in the liberation of one of those spirits. I have been informed that this spirit is contained within a soul gem held by none other than Exarch Maladaar himself.$B$BSeek him out within the crypts with all due haste and return to me with the gem.",
+  "p": "Can you imagine being trapped within a gem for all eternity?",
+  "c": "You're quite the heroine, $N. I am certain that my customer will find a way to free the spirit of their loved one from within the gem. For a job well done, your payment awaits.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11375,
+  "t": "Wanted: Murmur's Whisper",
+  "o": "Wind Trader Zhareem has asked you to obtain Murmur's Whisper. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "When I'm done speaking, you may not want to take this commission.$B$BI have an eccentric client who specializes in the study of dead realities. It is rumored that the being known as Murmur destroyed the last world from which he was summoned. The professor is interested in examining his 'whisper' as he called it to understand how it is that Murmur accomplished such a feat.$B$BWill you journey to the Shadow Labyrinth within Auchindoun and retrieve it for me?",
+  "p": "I'm not even certain what form a whisper is supposed to take in the physical world, but the professor assures me that you'll know it when you see it.$B$BPerhaps it is something akin to the being's voice box?",
+  "c": "I was worried that you might not return. I trust that you didn't go deaf from fighting Murmur?$B$BHere is your reward. The professor will be pleased no doubt, though I worry what he ultimately wishes to do with this thing.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11376,
+  "t": "Wanted: Malicious Instructors",
+  "o": "Nether-Stalker Mah'duun wants you to kill 3 Malicious Instructors. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "Mah'duun has heard it said that none are as cruel as the six-armed demonesses inside the Shadow Labyrinth.$B$BGo to Auchindoun, seek them out, kill them all.$B$BIf you cannot accomplish so simple a task, we do not have anything further to say to one another.",
+  "p": "The instructors, they are all dead? No?$B$BDid I not say not to return unless you had killed them all?",
+  "c": "I am satisfied. He who speaks through the nether shall be as well. Mah'duun has your bounty prepared.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'deen."
+ },
+ {
+  "id": 11377,
+  "t": "Revenge is Tasty",
+  "o": "The Rokk in Lower City has asked you to cook up some Kaliri Stew using his cooking pot.  Return to him when it's done.",
+  "d": "I'm providing the catering for some unusual party guests tonight.  One of these fellows was flying around in Skettis and got knocked to the ground by a monstrous kaliri--his leg was broken badly.$b$bThey've requested something special for his get well party: Kaliri Stew.$b$bI can loan you my cooking pot so you can whip up a batch of stew for me.  The recipe itself is simple, but you'll need to get a giant kaliri wing and some cooked warp burgers.",
+  "p": "Do I smell something tasty?",
+  "c": "Oh, I do smell something tasty! I hope you gave that bird quite a good beating.$B$BPlease, help yourself to some of my extra stock. I'm sure someone of your talent could put it to good use."
+ },
+ {
+  "id": 11378,
+  "t": "Wanted: The Epoch Hunter's Head",
+  "o": "Wind Trader Zhareem has asked you to obtain the Epoch Hunter's Head. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The tastes of my customers range from the mundane to the exotic. And sometimes they want to do very mundane things with the exotic objects they seek.$B$BSuch is the case with my latest request. My client, who shall remain nameless, wishes to obtain the head of the Epoch Hunter to mount on his wall.$B$B$C, will you find a way to travel back in time to Old Hillsbrad and procure said head for my trophy-hunting patron?",
+  "p": "The head of the Epoch Hunter... how does one come to the decision that they want it mounted on their wall?$B$BAnd even then, to not hunt the beast yourself, what does one say to their friends when asked how the fight went?$B$BHe'll lie, I suppose.",
+  "c": "I see you are returned to the present time intact.$B$B<The wind trader looks around.>$B$BIt doesn't appear that anything has changed. But then again, how would I know?$B$BThat's a nice cut; my customer will be pleased. Here is your reward.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11379,
+  "t": "Super Hot Stew",
+  "o": "The Rokk in Lower City has asked you to cook up some Demon Broiled Surprise using his cooking pot, two Mok'Nathal Shortribs and a Crunchy Serpent.  Return to him when it's done.",
+  "d": "I'm trying to invent something with some real zing.  But to be honest, I'm more of an idea goblin these days.  I've lost my sense of adventure.$b$bBut you... remind me of my younger days; ready to take on the world with a sword in one hand and a skillet in the other.$b$bI want you to take my beloved cooking pot and head out to Blade's Edge.  Throw in some shortribs and crunchy serpent--already cooked for extra flavor--and broil it over an abyssal's corpse, the only thing hot enough to do the trick.",
+  "p": "Any luck with my little experiment?",
+  "c": "Now look at that...$B$B<The Rokk takes a sip of the concoction and his face twists into a bizarre mask of pain and delight.>$B$BSweet A'dal that's good! A cook with your potential shouldn't be without his proper materials. Take some of my extra stock and make me proud."
+ },
+ {
+  "id": 11380,
+  "t": "Manalicious",
+  "o": "The Rokk in Lower City has asked you collect 15 Mana Berries from the Eco-Domes in Netherstorm.",
+  "d": "Wouldn't you know it, I think my foodstuffs are up to date and someone comes along and requests the unusual: Mana Berry Delight.$b$bUnfortunately, mana berries are only found in the eco-domes of Netherstorm.  Just don't bother looking around Stormspire--it's picked clean.$b$bI could only trust someone trained in the culinary arts to pick the best berries, so don't let me down!",
+  "p": "Any luck, friend?",
+  "c": "Those are the juiciest mana berries I've ever seen. I think I'm getting smarter just by looking at them.$B$BSince I no longer need most of my meat and fish stock, why don't you take some? I'm certain you could make something delicious."
+ },
+ {
+  "id": 11381,
+  "t": "Soup for the Soul",
+  "o": "The Rokk in Lower City has asked you to cook up some Spiritual Soup using his cooking pot.  Return to him when it's done.",
+  "d": "Death is in the air.  I've never had so many orders for my famous soup--it lifts your spirits and soothes the soul.$b$bAnd I know a fellow cook when I see one!  Would you like to help me out and get a cut of the profits?$b$bHere, take my cooking pot, gather some clefthoof meat and I'll let you in on a little secret.  What makes my soup so good for the soul?  It's not chicken--I cook it at the Ancestral Grounds in Nagrand to soak up all that spiritual stuff there.",
+  "p": "What smells so good?",
+  "c": "That is a fine batch of spiritual soup if I ever did smell one. Just a pinch of pepper and it's done.$B$BAs promised, here's your cut. And because you did such a fine job, I'm going to throw in some of my extra stock."
+ },
+ {
+  "id": 11382,
+  "t": "Wanted: Aeonus's Hourglass",
+  "o": "Wind Trader Zhareem has asked you to acquire Aeonus's Hourglass. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "I swear that some of my customers are crazy. There are possessions that you go after, and there are ones that you dare not even think of!$B$BMy current client is clearly over-the-top insane. He covets the hourglass that Aeonus holds.$B$BYes, you heard right, Aeonus of the Infinite Dragonflight!$B$BWho am I to argue since he's paying a king's ransom? So, ready to go to the Caverns of Time and travel to the Black Morass to retrieve it for me?",
+  "p": "If I were you, I would be very careful with time-travel. You wouldn't want to accidentally do something, like kill one of your ancestors, and then accidentally erase yourself from the present!",
+  "c": "Odd that the sands in that thing are still falling upward. I think I will have it delivered to its new owner with all due haste.$B$BI thank you for a job well done, $c. You have certainly earned your commission.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11383,
+  "t": "Wanted: Rift Lords",
+  "o": "Nether-Stalker Mah'duun wants you to kill 4 Rift Lords. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "Mah'duun knows where you must go. Mah'duun knows that you must kill rift lords. But, Mah'duun does not know exactly when.$B$BI know that does not make sense, but the voice on the winds was not more specific.$B$BTravel to the Black Morass through the Caverns of Time and the way shall be made clear.",
+  "p": "We are speaking, but I sense that all of the rift lords are not yet dead.$B$BReturn again when they are, $C.",
+  "c": "You found your way back in time, and then back again. You must be a great $c, $R. The bounty is earned.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11384,
+  "t": "Wanted: A Warp Splinter Clipping",
+  "o": "Wind Trader Zhareem has asked you to obtain a Warp Splinter Clipping. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Not long ago, I was approached by a kaldorei druidess with a touching request. And plenty of gold, of course!$B$BIt would appear that the forces of Darnassus wish to restore an ancient of the arcane known as Warp Splinter. The giant tree has been confused or corrupted, I'm not certain, but you'll find it inside of the Botanica at Tempest Keep.$B$BShe said that all they would need to regrow him was a small clipping.",
+  "p": "Did you lose your way to the Botanica? You can't miss it... it's at Tempest Keep off of the eastern edge of the Netherstorm.",
+  "c": "Aw, you did get it! It's so tiny. And yet, when the druids are done with it -- a process I am told will take a very long time -- Warp Splinter will be regrown anew.$B$BAnd here is your reward as promised.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11385,
+  "t": "Wanted: Sunseeker Channelers",
+  "o": "Nether-Stalker Mah'duun wants you to kill 6 Sunseeker Channelers. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "It has been whispered to Mah'duun that the channelers of the military unit known as the Sunseekers must be killed today.$B$BThey are to be found within the Botanica at Tempest Keep.$B$BYou want the bounty, you kill the channelers.",
+  "p": "How can it be that we are speaking when the channelers are not all lying dead?",
+  "c": "And now they are dead, channeling no longer. He who whispers upon the nether is satisfied and you have secured the bounty.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11386,
+  "t": "Wanted: Pathaleon's Projector",
+  "o": "Wind Trader Zhareem has asked you to acquire Pathaleon's Projector. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "I always assumed that Pathaleon the Calculator used magic to project his image across Outland. Apparently I was wrong.$B$BMy latest customer tells me that the blood elf uses a mechanical device for his communication with the leaders of Prince Kael'thas's special projects. As I understand it, he acquired it from the Zaxxis rebels in the Netherstorm.$B$BMy client wishes to obtain the projector. Why don't you pay Pathaleon a visit? He can be found within the Mechanar at Tempest Keep.",
+  "p": "It's not that projector technology is something special in and of itself, but the range of this particular model is a true breakthrough!",
+  "c": "I'm tempted to keep it for myself and return my client's money. It could certainly expand the reach of my business.$B$B<The wind trader sighs.>$B$BHowever, I have a reputation to uphold.$B$BSpeaking of my reputation, thank you for helping me to maintain it. Here is your commission.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11387,
+  "t": "Wanted: Tempest-Forge Destroyers",
+  "o": "Nether-Stalker Mah'duun wants you to destroy 5 Tempest-Forge Destroyers. Return to him in Shattrath's Lower City once they all lie dead in order to collect the bounty.",
+  "d": "There are mechanical constructs within the Mechanar which Mah'duun has been told must be dismantled.$B$BGo to Tempest Keep, find the tempest-forge destroyers and destroy them.$B$BThen you may return to collect the bounty.",
+  "p": "<The nether-stalker cocks his head in apparent confusion at your presence.>$B$BThe destroyers have not all been destroyed.",
+  "c": "Mah'duun enjoys fighting constructs; they are less messy than organic beings.$B$BThe bounty is yours.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11388,
+  "t": "Wanted: The Scroll of Skyriss",
+  "o": "Wind Trader Zhareem has asked you to obtain The Scroll of Skyriss. Deliver it to him in Shattrath's Lower City to collect the reward.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Today's client seeks something truly unique.$B$BIt is said that Harbinger Skyriss is a servant of the Old Gods. It is also said that he carries a large scroll that contains their instructions for his domination of life in the universe on their behalf.$B$BMy current buyer wishes to get $g his : her; hands on that scroll, nevermind that $g he : she; won't be able to read the language upon it.$B$BTravel to Tempest Keep's Arcatraz and get it for me, will you, $c?",
+  "p": "It must be a very dangerous thing to do to meddle directly in the affairs of the Old Gods.$B$BBetter you than me!",
+  "c": "I dare not touch the scroll lest I too risk the notice of the Old Gods. I will have one of my assistants handle its delivery.$B$BYou have more than earned your reward, $c, and I wish you all the luck in the known worlds.$B$BCome back tomorrow and I will have another request for you to fulfill."
+ },
+ {
+  "id": 11389,
+  "t": "Wanted: Arcatraz Sentinels",
+  "o": "Nether-Stalker Mah'duun wants you to dismantle 5 Arcatraz Sentinels. Return to him in Shattrath's Lower City once that has been accomplished in order to collect the bounty.",
+  "d": "The sentinels within the Arcatraz have gone haywire. The prisoners run rampant and the guards attack those that would help.$B$BMah'duun hears the speaker on the nether winds. The speaker says to destroy the sentinels.$B$BAccomplish this and today's bounty is yours.",
+  "p": "Do you not know how to get to Tempest Keep and the Arcatraz? East through the Netherstorm and then fly or fall, the choice is yours.",
+  "c": "With the sentinels destroyed, perhaps the naaru will ask the Consortium to replace them? Mah'duun does not know and does not care.$B$BYou have earned the bounty.$B$BReturn again tomorrow and the winds will have whispered once more to Mah'duun."
+ },
+ {
+  "id": 11390,
+  "t": "I've Got a Flying Machine!",
+  "o": "The Steel Gate Chief Archaeologist wants you to transport 3 Sacks of Relics from the bottom of the site and take them to the platform on the north or south side of Steel Gate.$B$BUse the grappling hook on the flying machine to do this.$B$BReport back to him after you've done so.",
+  "d": "Well, what are you waiting for, there's work to be done!$B$BHere's the keys to our flying machine. Grab three sacks of relics and haul them up to the crane platforms on the north and south sides of Steel Gate.  I'll mark them for you.$B$BHurry up! We haven't got all day!",
+  "p": "Eh? You finished with all of that hauling?",
+  "c": "Good job, though I think ye might be wanting a refresher course in basic piloting.$B$BWell, no matter, one warm body's as good as another. Here's yer haul for the day. "
+ },
+ {
+  "id": 11391,
+  "t": "Steel Gate Patrol",
+  "o": "You're Steel Gate's ace pilot now, so the Steel Gate Chief Archaeologist wants you to keep patrol around the dig site and fight off anything that attacks.$B$BReport back to him when you're done with your patrol.",
+  "d": "Eh? Yer back for another day's work?$B$BWell, alright, here's the keys. We don't need any haulin' today, so just keep an eye out for anything suspicious, okay?$B$BI've hooked her up with some rockets and a machine gun - just in case.",
+  "p": "Gargoyles?! I saw them out there! Did ya take care of 'em all?$B$BWhat's the world comin' to when a dwarf cannot even dig without being attacked.",
+  "c": "Nice shooting, ace.$B$BHere's your wages. Come back tomorrow for another round, ya hear?"
+ },
+ {
+  "id": 11392,
+  "t": "Call the Headless Horseman",
+  "o": "Take a Dreary Candle to the Loosely Turned Soil.",
+  "d": "Many dreary candles adorn this pumpkin shrine.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11393,
+  "t": "Where is Explorer Jaren?",
+  "o": "Overseer Irena Stonemantle has asked you to locate her fiance, Explorer Jaren.",
+  "d": "$N, my betrothed, Jaren, went west with a small group of explorers to check into rumors of artifacts on the Chillmere Coast. But there are murloc down there, and I fear the worst has befallen them.$B$BSurely you have time to see if they're alright? There's a way down to the beach just to the southwest, though watch out for the worgs and other things lurking in the woods.",
+  "p": "",
+  "c": "<The explorer beams a smile as you tell him who sent you. He continues in hushed tones.>$B$BIrena was concerned about me?  She gets that from her father you know."
+ },
+ {
+  "id": 11394,
+  "t": "And You Thought Murlocs Smelled Bad!",
+  "o": "Explorer Jaren has asked you to kill 15 Scourge of any type along the Chillmere Coast. Return to him once you have done so.",
+  "d": "Originally I came down here to investigate some rumors about artifacts to be dug up. I knew that there were murlocs along the coast here, but I never in a million years thought I'd see this.$B$B<The explorer pokes his head out to look around the tree.>$B$BThe Scourge are out there, and they're changing murlocs, and anything else they can get their hands on, into the walking dead!$B$B$C, I think it's our duty to do something about this. Think you could take out a good chunk of those Scourge?",
+  "p": "I don't know, $c, it doesn't look like you've destroyed enough of them yet.",
+  "c": "<Jaren seems very excited about your success, but motions you to keep your conversation to a whisper.>$b$bGreat job, $N! That's a lot of Scourge goo all over your stuff though. You might want to think about a quick dip in the strait. It's cold, but it'll get you cleaned up right quick."
+ },
+ {
+  "id": 11395,
+  "t": "It's a Scourge Device",
+  "o": "Deliver the Scourge Device to Explorer Jaren on the Chillmere Coast.",
+  "d": "The Scourge creature you just destroyed had this device held in its clutches. It has a jewel set into it which looks similar to the one that tops the scourging crystals.$B$BSurely, Explorer Jaren would like to have a look at this.",
+  "p": "What an odd-looking device you have there, $c. Let me have a closer look at it.",
+  "c": "I know what this is! $N, it's a controlling device for those scourging crystals!$b$bI bet anything that it can be used to shut down their force fields. Hmmm.$b$b<The explorer looks thoughtful as he ponders the implications of you having the device.>"
+ },
+ {
+  "id": 11396,
+  "t": "Bring Down Those Shields",
+  "o": "Explorer Jaren on the Chillmere Coast has asked you to destroy 3 Scourging Crystals.",
+  "d": "Look at the button on the side of the controller here. I bet if you got close enough to one of those scourging crystals, you could use the controller to bring its shield down. Then it would simply be a matter of destroying the thing before its shield goes back up.$B$BWhat do you say, $N? You up for it? I can guarantee a nice reward for you if you can bring down those shields and destroy the crystals.$B$BIt's the least we can do to keep the Scourge from making more of their own kind.",
+  "p": "I don't know, $n. I think you need to take out a few more of those things.",
+  "c": "Nice!$b$b<Jaren looks around quickly to make sure that nothing noticed his outburst.>$b$bAlright, you certainly earned your pick of one of these things I found while I was down here.$b$bAnd, $N, if you happen to find yourself back at Steel Gate, give Irena my love and let her know that I'm okay."
+ },
+ {
+  "id": 11397,
+  "t": "And You Thought Murlocs Smelled Bad!",
+  "o": "Apothecary Anastasia has asked you to destroy 15 Scourge of any type along the Chillmere Coast. Return to her at the Apothecary Camp once you have done so.",
+  "d": "I came here to investigate a rumor about a Scourge presence nearby. I expected murlocs along the coast down below, but I never thought I'd see this!$B$BThe Scourge are down there, and they're changing murlocs, and anything else they can get their hands on, into the walking dead!$B$B$C, we will not suffer them to create more of their kind, especially not from murlocs! There is a ramp down to the beach just northwest of the camp. See to it that you deal with the Scourge in a timely fashion!",
+  "p": "That's interesting, when last I looked it didn't appear as if you'd destroyed enough of them yet. Perhaps you might redouble your efforts?",
+  "c": "<Anastasia ponders your success for a moment.>$b$bA satisfactory job to be certain, yet somehow I sense that there's something else we should be doing to stop the efforts of the Scourge on that beach."
+ },
+ {
+  "id": 11398,
+  "t": "It's a Scourge Device",
+  "o": "Deliver the Scourge Device to Apothecary Anastasia at the Apothecary Camp.",
+  "d": "The Scourge creature you just destroyed had this device held in its clutches. It has a jewel set into it which looks similar to the one that tops the scourging crystals.$B$BSurely, Apothecary Anastasia would like to have a look at this.",
+  "p": "What's that you have there, $c? Let me have a closer look at it!",
+  "c": "I can tell you what this is, $N. It's a controlling device for those scourging crystals down there!$b$bI bet anything that it can be used to shut down their force fields. Hmmm.$b$b<The apothecary looks thoughtful as she ponders the implications of you having the device.>"
+ },
+ {
+  "id": 11399,
+  "t": "Bring Down Those Shields",
+  "o": "Apothecary Anastasia at the Apothecary Camp has asked you to destroy 3 Scourging Crystals.",
+  "d": "Look at the button on the side of the controller here. I bet if you got close enough to one of those scourging crystals, you could use the controller to bring its shield down. Then it would simply be a matter of destroying the thing before its shield goes back up.$B$BBrave enough to hazard another trip down there, $N? I can guarantee a nice reward for you if you can bring down those shields and destroy the crystals.$B$BHow can you refuse if it means less Scourge, especially ones made from murlocs?",
+  "p": "You still haven't destroyed enough scourging crystals. No reward until you do so.",
+  "c": "<Anastasia turns and smiles at her succubus.>$b$bVery well, $N, I concede that you have certainly earned a choice of one of these."
+ },
+ {
+  "id": 11400,
+  "t": "Brewfest Riding Rams",
+  "o": "Bring the \"Honorary Brewer\" Hand Stamp to Pol Amberstill near the entrance to the Brewfest Grounds in Dun Morogh.",
+  "d": "If you show this hand stamp to Pol Amberstill, the Ram Racing Apprentice, he'll allow you to purchase Brewfest riding rams.",
+  "p": "Is that an \"Honorary Brewer\" stamp you've got on your hand?",
+  "c": "Good job, $N... you've won the trust of the festival's brewers, earning the right to purchase a Brewfest riding ram."
+ },
+ {
+  "id": 11401,
+  "t": "Call the Headless Horseman",
+  "o": "Take a Dreary Candle to the Loosely Turned Soil.",
+  "d": "Many dreary candles adorn this pumpkin shrine, which grins, taunting...",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11402,
+  "t": "Clayton's Quest: Extreme!",
+  "o": "Seriously, go slay those Evil Squirrels!",
+  "d": "Clayton wants you to find and slay twenty Evil Squirrels. ",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11403,
+  "t": "Free at Last!",
+  "o": "Take the Tome of Thomas Thomson to a Masked Orphan Matron in Durotar, Brill or Falconwing Square.",
+  "d": "Rage was my prison, $N, and you have freed me.  Though I thought I did right, my soul now weeps for the terror and the death I have caused the good people of Azeroth.$B$BThank you for leading me back to the Light.  May I never again lose my way.$B$BTake this torn prayer book to an orphan matron, so the children will know that I will haunt them no more.",
+  "p": "",
+  "c": "What? This holy tome once belonged to an infamous paladin of the Alliance. Was he the Headless Horseman? Does this mean that the Horseman is defeated?$B$BThis is a glorious day, $N! Your legend will shine bright, and may it last for twice the years of the Horseman's reign of fear."
+ },
+ {
+  "id": 11404,
+  "t": "Call the Headless Horseman",
+  "o": "Take a Dreary Candle to the Loosely Turned Soil.",
+  "d": "Many dreary candles adorn this pumpkin shrine, which grins, taunting...",
+  "p": "",
+  "c": "Will you lay the candle down and call the Headless Horseman from his doomed rest?"
+ },
+ {
+  "id": 11405,
+  "t": "Call the Headless Horseman",
+  "o": "Take a Dreary Candle to the Loosely Turned Soil.",
+  "d": "Many dreary candles adorn this pumpkin shrine, which grins, taunting...",
+  "p": "This dirt has been recently disturbed. Earthworms lie in the topsoil, squirming to escape the dark depths beneath them.",
+  "c": "Will you lay the candle down and call the Headless Horseman from his doomed rest?"
+ },
+ {
+  "id": 11406,
+  "t": "Everything Must Be Ready",
+  "o": "Speak with Gil Grisert at Fort Wildervar.",
+  "d": "When the expeditionary force moves north, Captain Adams expects everything to be ready at Fort Wildervar. The scouts and craftsmen there have been tasked with preparing the gear and rations for our men for the climb into the hills.$B$BThe captain's famous for his temper, so I want to send someone ahead to check on the preparations. Fort Wildervar is far to the northeast, beyond Skorn, up in the snow-covered areas near the border with Grizzly Hills. Find Gil Grisert there and make sure he is prepared.",
+  "p": "",
+  "c": "So the quartermaster sent you?$B$B<Gil seems relieved.>$B$BTo be honest, we're running a bit behind here and we're going to need some help making our goals.$B$B<Gil shudders.>$B$BNone of the men want to brave the wrath of Captain Adams."
+ },
+ {
+  "id": 11407,
+  "t": "Bark for Drohn's Distillery!",
+  "o": "Spread the word about Brewfest at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.",
+  "d": "So, do you want to help bring strength and honor to Brewfest?  We need you to shout at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.$b$bWe'll lend you a racing ram for 4 minutes and also give you these racing reins.$b$bBe careful though, the cheap goblins didn't put any apple crates along the way.",
+  "p": "Have you finished spreading the word about Brewfest?",
+  "c": "You kept your word and let people know about our brewmasters. Thank you. We promised you these tickets, and gladly give them to you. I imagine the trolls are a bit more stingy with handing over their tickets...$B$BCome back another day to help us spread the word about Brewfest."
+ },
+ {
+  "id": 11408,
+  "t": "Bark for T'chali's Voodoo Brewery!",
+  "o": "Spread the word about Brewfest at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.",
+  "d": "We need to spread the word about the trolls at Brewfest.  Ya need to shout at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.$b$bBut I'll make it easy for ya, I'll lend you a racing ram for 4 minutes.  I'll also give you these racing reins.$b$bBe careful though, the goblins didn't put any apple crates along the way.  They are cheap like that.",
+  "p": "Have you finished spreading the word about Brewfest? But more importantly, did you let people know about the amazing troll brew?",
+  "c": "Ya did it! We gotta get ready for the flood of customers that are sure to come our way! Thanks!$B$BOh, that's right, and we promised you a reward. Can't forget about that...$B$BFeel free to stop by again another day to help us spread the word some more."
+ },
+ {
+  "id": 11409,
+  "t": "Now This is Ram Racing... Almost.",
+  "o": "You have 4 minutes to ride the ram and maintain 3 different levels of speed for 8 seconds.",
+  "d": "So you want to check out the racing rams?  The dwarves think they have got a handle on it, but let's be honest, they are drunk most of the time, so how hard can it really be?$b$bNow before I let you strut your stuff, you'll need to show me that you can handle these fine, legally obtained creatures.$b$bSo here's the deal:  I'll lend you some racing reins and the use of a ram. You need to prove to me that you can handle using these rams.$b$bKeep the ram at a trot, canter and gallop for 8 seconds each.",
+  "p": "Have you got a handle on riding racing rams?",
+  "c": "Hey, that wasn't too bad... are you sure you're not a dwarf?$b$bSo there's plenty more racing to be had and it's not just from me.  All over the Brewfest grounds you'll find people in need of a decent ram racer.  So go and make yourself useful.$b$bOh and don't forget, these rams were legally obtained.  I just want to make sure we're clear."
+ },
+ {
+  "id": 11410,
+  "t": "The One That Got Away",
+  "o": "Christopher Sloan at Fort Wildervar wants you to defeat Frostfin.",
+  "d": "The barbfish you brought should work well as bait for most fish, but I fear it'll attract a monster!$B$BWhen I first arrived, I put some of Nat Pagle's favorite bait on my hook and cast it into the water. A huge monster latched on, with giant teeth and icicles hanging from its fins!$B$BWould've pulled me into those icy waters if I hadn't cut the line! I can't use the new bait until ol' Frostfin's been dealt with. Use this bait near the sunken boat in the middle of the lake. He won't be able to resist!",
+  "p": "I'm itching to try out the new bait.$b$bHave you had any luck with Frostfin?",
+  "c": "At last, we can finally fish in peace! 'Course, by the time we catch anything, the expedition'll arrive and claim it all for themselves.$B$BYou have our thanks, $N. Don't be a stranger 'round here."
+ },
+ {
+  "id": 11411,
+  "t": "Camp Winterhoof",
+  "o": "Speak to Chieftain Ashtotem at Camp Winterhoof.",
+  "d": "In my travels as a courier, I've seen a number of strange denizens of the Howling Fjord, but one group stands out. From a distance, they look like tauren, but upon closer inspection, they're quite different -- sturdier and shaggier.$B$BI found one of their settlements far to the north, beyond Halgrind, Skorn, and the northern forests. Camp Winterhoof, it's called, and it sits in the foothills of Gjalerhorn near the border with Grizzly Hills. Make contact with them, and see if they might be of use to us.",
+  "p": "",
+  "c": "<The chieftain listens as you introduce yourself.>$b$bI am Chieftain Ashtotem, and my people are the taunka, and I will speak truly, outsider. Among my people, trust is earned, not given. You have my leave to walk among them and offer your assistance. Time grows short and some of them may welcome even an outsider's help with their preparations."
+ },
+ {
+  "id": 11412,
+  "t": "There and Back Again",
+  "o": "Get a keg from the Goblin stranded on the road to Razor Hill and return it to Ram Master Ray's assistant.  Do this 3 times before your ram goes away.",
+  "d": "Am I glad you're here.  We are in big trouble!  The goblin that was supposed to be bringing us more brew had an accident on his way from Razor Hill.  You gotta get us that brew!$b$bI'll put you on one of my racing rams and you follow the road to Razor Hill.$b$bOnce you get near him he'll toss you a keg, then you run the keg back here and toss the keg to my more capable assistant.  For now, all we want are 3 kegs.  Do a good job and maybe we'll have another job for you.",
+  "p": "Did you see the mess that goblin made? I hope you didn't do too much reckless off-roading.",
+  "c": "Thanks for your help! As long as Brewfest is going and the Dark Iron Dwarves are attacking and our supplier is stuck in that canyon, I'll need some help shipping kegs. So if you want to work for more tickets, talk to me every day.$B$BHere are the tickets we promised you. Have fun!"
+ },
+ {
+  "id": 11413,
+  "t": "Did Someone Say \"Souvenir?\"",
+  "o": "Redeem the Brewfest Stein Voucher with Blix Fixwidget in the back of the Brewfest camp.",
+  "d": "Not only are we supplying brew to everyone, we also have steins to give out!  Beautiful, commemorative steins all obtained by the most legal of means!  Here's a voucher for one.$b$bTalk to Blix near the back of the Brewfest camp.  He's pretty strange, even more so now that he's always wearing those goggles.  He'll handle the voucher for you, and any other Brewfest transaction.",
+  "p": "What's happening hot stuff? Got something for me?",
+  "c": "What's this? A stein voucher? So you like drinking? Great! After I give you this stein, go have a few drinks! Then a few more. Maybe have a few more after that... Then, now this is important, come see me.$B$BLook, I know you'll be back eventually. If you want your Brewfest tickets redeemed, or Keg Protector marks redeemed, you have to see me.$B$BAnyways, here's the stein, and remember to talk to me later."
+ },
+ {
+  "id": 11414,
+  "t": "Brother Betrayers",
+  "o": "Ulfang has asked you to kill the traitorous worgs, Bjomolf and Varg. Return to him in disguise in the Rivenwood after you have done so.$B$BIf you somehow lose the Worg Disguise, return to Watcher Moonleaf for a replacement.",
+  "d": "Watcher Moonleaf is from my dreams! If you are her friend, you are mine.$B$BI was alpha male until the last full moon. Then the strange white worg, Garwal, came from the north, and with the help of my once-brothers, he quickly became alpha worg. There is something unnatural about him.$B$BTo help, you must first kill those who betrayed me.$B$BBjomolf hunts to the northwest of a place called Steel Gate. And look for Varg to the southeast, near the West Spear Tower.$B$BThey will not be fooled by your form.",
+  "p": "",
+  "c": "The smell of their blood upon your muzzle pleases me. Brothers should not turn on each other."
+ },
+ {
+  "id": 11415,
+  "t": "Brother Betrayers",
+  "o": "Ulfang has asked you to kill the traitorous worgs, Bjomolf and Varg. Return to him in disguise in the Rivenwood after you have done so.$B$BIf you somehow lose the Worg Disguise, return to Sage Mistwalker for a replacement.",
+  "d": "Mistwalker is from my dreams! If you are his friend, you are mine.$B$BI was alpha male until the last full moon. Then the strange white worg, Garwal, came from the north, and with the help of my once-brothers, he quickly became alpha. There is something unnatural about him.$B$BTo help, you must first kill those who betrayed me.$B$BBjomolf hunts to the northwest of a place the two-legs call Steel Gate. And look for Varg to the southeast, near the West Spear Tower.$B$BThey will not be fooled by your form.",
+  "p": "<A low growl rises from Ulfang's throat.>$B$BBjomolf and Varg are not dead!",
+  "c": "The smell of their blood upon your muzzle pleases me. Brothers should not turn on each other."
+ },
+ {
+  "id": 11416,
+  "t": "Eyes of the Eagle",
+  "o": "Ulfang has asked you to collect the Eyes of the Eagle. Return to him in disguise in the Rivenwood after you have done so.$B$BIf you somehow lose the Worg Disguise, return to Watcher Moonleaf for a replacement.",
+  "d": "Garwal hides himself behind an unnatural magic. None can see him unless he wants you to. There may be one chance we can take, though.$B$BMy enemy, the great eagle, Talonshrike, is said to have eyes that can see anything. If you were to take her eyes, then you would surely be able to see Garwal.$B$BTalonshrike keeps her nest at the base of a waterfall just to the southwest of the vrykul place called Skorn. If you touch the eggs in her nest, she will come down from the sky to kill you.$B$BGet her eyes.",
+  "p": "You have the eyes of the eagle?",
+  "c": "<Ulfang howls loudly at your defeat of his great eagle enemy.>$B$BThe honor of the kill is yours. I wish that it had been my maw to finally close upon her neck.$B$BLet us not waste the sacrifice that she has made for us. Here, eat them!"
+ },
+ {
+  "id": 11417,
+  "t": "Eyes of the Eagle",
+  "o": "Ulfang has asked you to collect the Eyes of the Eagle. Return to him in disguise in the Rivenwood after you have done so.$B$BIf you somehow lose the Worg Disguise, return to Sage Mistwalker for a replacement.",
+  "d": "Garwal hides himself behind an unnatural magic. None can see him unless he wants you to. There may be one chance we can take, though.$B$BMy enemy, the great eagle, Talonshrike, is said to have eyes that can see anything. If you were to take her eyes, then you would surely be able to see Garwal.$B$BTalonshrike keeps her nest at the base of a waterfall just to the southwest of the vrykul place called Skorn. If you touch the eggs in her nest, she will come down from the sky to kill you.$B$BGet her eyes.",
+  "p": "You have the eyes of the eagle?",
+  "c": "<Ulfang howls loudly at your defeat of his great eagle enemy.>$b$bThe honor of the kill is yours. I wish that it had been my maw to finally close upon her neck.$b$bLet us not waste the sacrifice that she has made for us. Here, eat them!"
+ },
+ {
+  "id": 11418,
+  "t": "We Call Him Steelfeather",
+  "o": "Locate Steelfeather circling Fort Wildervar and use the Feathered Charm to discover his secret. Report your findings to Gil Grisert.",
+  "d": "We see one brave hippogryph circling over the fort, then swooping down and taking prey. Jethan over there has taken a couple of shots at the creature, but his arrows bounced right off!$B$BWe've taken to calling this remarkable creature Steelfeather, but we can't see why he prefers the area around Fort Wildervar. Most hippogryphs are wary of people.$B$BResearcher Aderan has helped us fashion a charm from one of the creature's feathers. He claims it will allow the user to see through Steelfeather's eyes.",
+  "p": "Did Aderan's charm work?",
+  "c": "You saw a nest, with hatchlings? Hmm... so our \"he\" is actually a \"she,\" eh?$b$bI guess that settles it. I suppose I wouldn't want to move a nest full of hatchlings just because of a new neighbor, either.$b$b<Gil favors Trapper Jethan with a mock glare.>$b$bI'm sure we'd get along just fine if ol' Jethan would stop trying to make a trophy of her."
+ },
+ {
+  "id": 11419,
+  "t": "Brewfest Riding Rams",
+  "o": "Bring the \"Honorary Brewer\" Hand Stamp to Driz Tumblequick near the entrance to the Brewfest Grounds in Durotar.",
+  "d": "If you show this hand stamp to Driz Tumblequick, the Ram Racing Apprentice, he'll allow you to purchase Brewfest riding rams.",
+  "p": "Is that an \"Honorary Brewer\" stamp you've got on your hand?",
+  "c": "Good job, $N... you've won the trust of the festival's brewers, earning the right to purchase a Brewfest riding ram."
+ },
+ {
+  "id": 11420,
+  "t": "The Path to Payback",
+  "o": "Guard Captain Zorek at Valgarde in Howling Fjord wants you to recover the Harpoon Operation Manual.",
+  "d": "Two weeks ago our chief engineer got his hands on a vrykul harpoon gun - the same type of gun that the vrykul use to take down our ships. By studying that gun he managed to put together a comprehensive operation manual.$B$BUnfortunately he was abducted and taken north of here to Wyrmskull Village. We eventually did find him, but near death and without the manual. His dying words indicated that the manual was lost in the Utgarde Catacombs, located at the northwest end of Wyrmskull. Get me that manual!",
+  "p": "Did you find the manual?",
+  "c": "<Zorek flips through the manual.>$B$BHrm, interesting...$B$BAccording to the manual, the vrykul have a special tool that allows them to control the harpoon guns with deadly accuracy. It looks a bit like the wheel of one of our ships. Furthermore, it's portable and seems to plug into the harpoon guns like a key. We need to get our hands on one of those!"
+ },
+ {
+  "id": 11421,
+  "t": "It Goes to 11...",
+  "o": "Lieutenant Icehammer in the Howling Fjord wants you to destroy the Dragonflayer Longhouse, Dragonflayer Dockhouse, Dragonflayer Storage Facility and 8 Dragonflayer Defenders.$B$BReturn the Harpoon Control Mechanism to him once the task is complete.",
+  "d": "We must strike while the vrykul forces are in disarray! Take the harpoon control mechanism to Nifflevar and locate the northernmost harpoon building on the bluff side of the village.$B$BOnce there, commandeer one of the vrykul harpoon guns that are stationed on the building's deck. Use the harpoon gun to rain hell upon Wyrmskull Village! Destroy the longhouse, dockhouse, storage facility and any defenders that the vrykul may send at you!$B$BDo this and Daggercap Bay will become a much safer port!",
+  "p": "Is Wyrmskull up in flames?",
+  "c": "Excellent work, $N! You took out a good chunk of their dragon riders and really pissed off their leadership.$B$BAre you ready to head back to Valgarde and report the good news to Zorek? If so, I've got a crazy idea!\n"
+ },
+ {
+  "id": 11422,
+  "t": "Trident of the Son",
+  "o": "Old Icefin wants you to obtain Rotgill's Trident. Return it to him on the small island on the Chillmere Coast.",
+  "d": "<From the scratches he makes in the rock, you see several symbols: a trident, a mur'ghoul, the sun, a wrecked ship, and a rough stick-figure of yourself.>$B$B<Puzzling out what the murloc is conveying takes a while. Obviously he wants you to get a trident from the Chillmere Coast, but the image of the sun is puzzling. That is until you realize he means his son.>$B$B<His son was changed into a mur'ghoul! He wants you to find him to the south near the wrecked ship and return with his trident.>",
+  "p": "<One of Old Icefin's dead fish-like eyes studies you, clearly looking for signs of his son's trident.>",
+  "c": "<Reaching out to take his son's trident from you, Old Icefin's hand shakes a little. Could it be that the aged murloc is grieving?>$b$b<Is that just extra moisture pooling at the base of his eye?>"
+ },
+ {
+  "id": 11423,
+  "t": "The Enemy's Legacy",
+  "o": "Go into Nifflevar, north of Ghostblade Post and look for the Saga of the Winter Curse, the Saga of the Val'kyr and the Saga of the Twins.",
+  "d": "As our armies march through Northrend, our enemies will not suffer mere defeat.  Their houses will burn, their corpses will be devoured by our plagues, all trace of their existence will be lost.$B$BThis worries me as a seeker of knowledge.  The eastern town of Nifflevar will soon be razed by our forces in Vengeance Landing.  The vrykul bard, Helgus, lived there and wrote three sagas: the Saga of the Twins, the Saga of the Winter Curse and the Saga of the Val'kyr.  Obtain them before Nifflevar is destroyed.",
+  "p": "The scrolls, $n? Did you obtain them?",
+  "c": "This is of tremendous value, $N. I must renew my efforts in salvaging and translating vrykul texts.$b$bDon't get me wrong. Our enemies need to be destroyed... their ancient knowledge doesn't."
+ },
+ {
+  "id": 11424,
+  "t": "Shield Hill",
+  "o": "\"Hacksaw\" Jenny wants you to bring her 5 Ancient Vrykul Bones from the reanimated Vrykul in Shield Hill, south of New Agamand.",
+  "d": "My work should be extremely easy in a time of war.  There ought to be usable body parts everywhere.$B$BIt's not that simple, though.  With these eggheads making all sorts of killer plagues and sending them to enemy towns, most of the material gets contaminated.$B$BThere is a place, though, where usable samples exist.  Shield Hill, south of here, is an ancient vrykul burial ground where the dead walk but are not afflicted with any plague - ours or the Lich King's.  Get me some bones, I'll pay ya well.",
+  "p": "Got my bones then?",
+  "c": "Hmmmmph... these will do for now. There seems to be some oddness to them.$b$bI tell ya - I've handled body parts for years now and never have I had such a weird feeling in my stomach. Anyway, a deal is a deal. Here's your payment."
+ },
+ {
+  "id": 11425,
+  "t": "Test Quest - Craig",
+  "o": "Vermin, gotta hate 'em.",
+  "d": "Go on a quest!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11426,
+  "t": "Locating the Mechanism",
+  "o": "Guard Captain Zorek at Valgarde in Howling Fjord wants you to bring him a Harpoon Control Mechanism.",
+  "d": "Don't worry, $N; this is all going to lead to something big! HUGE! You're just going to have to trust me for now and do as I ask of you.$B$BWe need to get the mechanism mentioned in the manual for the next step of the plan. I have a strong suspicion that you'll find one on one of those vrykul that operate the harpoon guns in Wyrmskull Village. You'll find them on the east side of the village, on the docks by the longhouses.",
+  "p": "Did you locate the mechanism?",
+  "c": "Outstanding! Those overgrown apes will soon know what it means to mess with the Alliance!"
+ },
+ {
+  "id": 11427,
+  "t": "Meet Lieutenant Icehammer...",
+  "o": "Guard Captain Zorek wants you to take the Harpoon Control Mechanism to Lieutenant Icehammer stationed outside of Nifflevar.",
+  "d": "Do you see those vrykul buildings on the bluffs to the northeast? The vrykul call that place Nifflevar. It's where most of their harpoon attacks on our frigates originate.$B$BWell guess what? The time for payback has come, $N. I need you to take this harpoon control mechanism and meet up with Lieutenant Icehammer, who is hiding out in a vrykul building northwest of Nifflevar.$B$BWhen you're ready I'll place you on the back of one of our gryphons and zip you right to him! $B",
+  "p": "What is this? Do I look like a babysitter?",
+  "c": "<Lieutenant Icehammer takes the harpoon control mechanism from you.>$B$BAh, you come bearing gifts!"
+ },
+ {
+  "id": 11428,
+  "t": "Keeper Witherleaf",
+  "o": "Lurielle at the Frozen Glade wants you to kill Keeper Witherleaf.",
+  "d": "You have been a great friend and ally to us, $N. There is one more thing I must ask of you.$B$BYou have seen the corruption of the Twisted Glade and the beasts that dwell there. The blacksouled keepers will continue raising these abominations from the waters and soil of our glade unless we act against them.$B$BThe most powerful of the blacksouled keepers is known as Keeper Witherleaf. Slay him, $N, and open the way for the redemption of the glade as you once redeemed my sisters.",
+  "p": "Have you rid the Twisted Glade of Keeper Witherleaf?",
+  "c": "My heart broke when I learned the keepers had turned against us. Once, we considered them our brothers and our closest friends.$B$BI grieve for the brothers and sisters we have lost, but without your help, there would be no hope for our future. You will always be welcome among us, $N."
+ },
+ {
+  "id": 11429,
+  "t": "Drop It then Rock It!",
+  "o": "Lieutenant Icehammer in the Howling Fjord wants you to place the Alliance Banner in Baleheim and then defend the banner against attackers.$B$BReturn to Lieutenant Icehammer with the Alliance Banner should you survive.",
+  "d": "I'm not about to put the fate of this mission into the hands of some untested scrub.$B$BNow, if you want to prove to me that you've got what it takes to carry out this mission, you'll need to do what I tell you.$B$BTake this battle standard and head over to Baleheim, directly north of here. Once you're at Baleheim, find the center of town and drop our flag. Fight off any vrykul dirt bags that attempt to take down our beloved flag and return to me once you've established Alliance dominance!",
+  "p": "Still alive, I see. Clearly you're not trying hard enough.",
+  "c": "For the Alliance! You're a strong one, $N. Strong enough to crack some vrykul skull at Nifflevar.\n"
+ },
+ {
+  "id": 11430,
+  "t": "Harpoon Master Yavus",
+  "o": "Lieutenant Icehammer in the Howling Fjord wants you to slay Harpoon Master Yavus at Nifflevar.",
+  "d": "That was a fairly strong showing at Baleheim, $N. Before you go off patting yourself on the back there's work to be done at Nifflevar.$B$BWe've located the vrykul responsible for the majority of the harpoon attacks on our frigates - goes by the name of Yavus. You'll find him in the main harpoon structure on the bluffs of Nifflevar, southeast of here.$B$BTrack him down and execute him for crimes against the Alliance!$B$BDo me proud, $N!$B",
+  "p": "",
+  "c": "It'll take them a while to find a replacement for Yavus. Now is the perfect time to unleash Zorek's plan! While they're scurrying to regain control of Nifflevar, you're going to use their own harpoon guns against them!"
+ },
+ {
+  "id": 11431,
+  "t": "Catch the Wild Wolpertinger!",
+  "o": "The \"dwarf,\" Glodrak Huntsniper, has asked you to capture 5 Stunned Wolpertingers using the Wolpertinger Net. He mentioned that you must be intoxicated or wearing Synthebrew Goggles to see them.",
+  "d": "Hey there! I'm a crazy dwarf! We dwarves believe when you get enough brew together, invisible creatures show up. In fact they are probably wandering around the Brewfest grounds right now! But you can only see them if you are really drunk.$b$bWe dwarves will come up with any excuse to drink.$b$bI bet you want a reason to drink too... So here it is, bring me 5 of those wolpertingers with this net I got from a really drunk dwarf.$b$bIf you can't see them, get some Synthebrew Goggles from me - almost as good!",
+  "p": "Were ya drunk enough to see the little buggers?",
+  "c": "Well, lookee there! Ye've got yerself a right bushel o' wolpertingers, ye do!$b$b<He takes a deep drink from his tankard.>$b$bI'll tell ye what I'm gonna do. Since ye're such a spot-on $c, I'll let ye keep one'a these fer yer very own!"
+ },
+ {
+  "id": 11432,
+  "t": "Sleeping Giants",
+  "o": "Mage-Lieutenant Malister has tasked you with slaying 5 Dormant Vrykul. Return to him at Westguard Keep when you have done so.",
+  "d": "I've overheard what you've had to say with Father Levariol. Allow me to suggest that he's not having you go far enough.$B$BYou must also deal with the vrykul that lie dormant in the Waking Halls beneath Gjalerbron!$B$BI have no doubt that the rituals involved with awakening them are the key to their downfall. Most likely the necrolords have some device that you can use to bring the vrykul out of their dormant state prematurely.$B$BSurely such a disruption will prove fatal to the vrykul.",
+  "p": "$N, I find it implausible that you have dealt with enough of the dormant vrykul. Come back when you have done so.",
+  "c": "You did what had to be done. Though some might consider it dishonorable to slay the helpless, in this case you would have been a fool to have done otherwise.$B$BAnd we certainly couldn't have just left them standing there to be ritually wakened, now could we?$B$BIt was a brave thing you did for all of us down in those catacombs, $N."
+ },
+ {
+  "id": 11433,
+  "t": "Sleeping Giants",
+  "o": "Ahota Whitefrost has tasked you with slaying 5 Dormant Vrykul. Return to him at Camp Winterhoof when you have done so.",
+  "d": "I've overheard what you've had to say with Greatmother Ankha. With all due respect, she's not having you go far enough.$B$BYou must also deal with the vrykul that lie dormant in the Waking Halls beneath Gjalerbron!$B$BI have no doubt that the rituals involved with awakening them are the key to their downfall. Most likely the necrolords have some device that you can use to bring the vrykul out of their dormant state prematurely.$B$BSurely such a disruption will prove fatal to the vrykul.",
+  "p": "I find it unlikely that you have dealt with enough of the dormant vrykul. Come back when you have done so.",
+  "c": "You did what had to be done. The unwise might consider it dishonorable to slay the helpless while they awaken, but in this case you would have been a fool to have done otherwise.$b$bAnd we certainly couldn't have just left them standing there to be ritually wakened, now could we?$b$bIt was a brave thing you did for all of us down in those catacombs, $r."
+ },
+ {
+  "id": 11434,
+  "t": "Forgotten Treasure",
+  "o": "Handsome Terry at Scalawag Point wants you to bring him 1 Amani Vase and 1 Eagle Figurine from the shipwreck to the south.",
+  "d": "I've made my fortune by specializing in treasure that regular pirates don't appreciate: art, antiquities, collector's pieces.$B$BBlack Conrad's fleet sank south of here years ago.  All the gold and jewelry was picked clean by divers, but two ancient relics remain there.  One is a museum-quality Amani vase, the other is an eagle figurine.$B$BGo and retrieve them for me and I'll vouch for you with the other pirates.  I'll even throw in something to make your underwater adventure a bit more manageable.",
+  "p": "Did you obtain my relics, $N?  Nobody gets by in this life on good looks alone... not even me!",
+  "c": "We're going to go places together, $N.  With my good looks and your... can-do attitude, we're sure to make a killing."
+ },
+ {
+  "id": 11435,
+  "t": "Gathered Pumpkins NYI",
+  "o": "Take the bunch of jack-o'-lanterns to the Costumed Orphan Matron.",
+  "d": "Hi,$N!  Thanks for driving away the Horseman!  Now that he's gone,the matron said we can roam the village!$B$BI found some pumpkins that the Horseman dropped.  They look scary... will you take them and show  them to the matron?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11436,
+  "t": "Let's Go Surfing Now",
+  "o": "Use the large Vrykul Harpoon Gun in Nifflevar to launch yourself into Valgarde. Report your victory over the Vrykul to Guard Captain Zorek.",
+  "d": "Navigating the steep bluffs of Howling Fjord can be nerve-racking! I've come up with a solution to ease that burden by utilizing vrykul technology and dwarven ingenuity. With just a few adjustments and some fine tuning I've created Icehammer's harpoon controller! Of course it hasn't been tested, but that's what you're here for!$B$BTake the controller to the big gun in Nifflevar and use it to launch yourself into Valgarde. Report your victory to Zorek. Oh yea, you can keep the controller.",
+  "p": "<Zorek raises an eyebrow at you.>",
+  "c": "You are insane, $N! What kind of degenerate would actually launch themselves from a harpoon gun as a method of travel?$B$BBut I guess you need to be a little crazy to pull off what you did up there on the bluffs! Fantastic work! We've gotten word that the Dragonflayer leader, Ingvar, is furious! Maybe one day you'll be ready to stomp his face into the dirt - in the name of our beloved Alliance."
+ },
+ {
+  "id": 11437,
+  "t": "[PH] Beer Garden A",
+  "o": "[PH] Speak to a Brewfest Barker in any Beer Garden and receive a free pretzel.",
+  "d": "[PH] Speak to a Brewfest Barker in any Beer Garden outside of Darnassus,the Exodar,Shattrath City,or Stormwind City and receive a free pretzel.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11438,
+  "t": "[PH] Beer Garden B",
+  "o": "[PH] Speak to a Brewfest Barker in any Beer Garden and receive a free pretzel.",
+  "d": "[PH] Speak to a Brewfest Barker in any Beer Garden outside of Darnassus,the Exodar,Shattrath City,or Stormwind City and receive a free pretzel.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11439,
+  "t": "Fire Brigade Practice",
+  "o": "Throw Water Buckets onto 5 fires, and then speak with the Costumed Orphan Matron.",
+  "d": "The brave dwarves of Kharanos can form a fire brigade in an instant, now that the Headless Horseman is around. Do you want to help?$B$BSouth of here, the mountaineers set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here.$B$BGood bye, $N.  When you're done with fire brigade practice, please visit us again!",
+  "p": "Hello, $n.  Have you been perfecting your fire fighting techniques?  Don't forget about the practice area to the south!",
+  "c": "You're smudged with soot!  You must have been extinguishing fires!$B$BWell done!  As an honorary member of the Kharanos Fire Brigade, I beg you to return here if ever the village needs you!"
+ },
+ {
+  "id": 11440,
+  "t": "Fire Brigade Practice",
+  "o": "Throw Water Buckets onto 5 fires, and then speak with the Costumed Orphan Matron.",
+  "d": "With the threat of the Headless Horseman looming, the peacekeepers have been diligent in forming a fire brigade when needed. Do you want to help?$B$BWest of here, toward the Exodar, the peacekeepers set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here.$B$BGood bye, $N.  When you're done with fire brigade practice, please visit us again!",
+  "p": "Hello, $n. Have you been perfecting your fire fighting techniques? Don't forget about the practice area to the west!",
+  "c": "You're wet and smudged with soot!  You must have been extinguishing fires!$B$BWell done!  As an honorary member of the Azuremyst Fire Brigade, I beg you to return here if ever the village needs you!"
+ },
+ {
+  "id": 11441,
+  "t": "Brewfest!",
+  "o": "Speak to the Brewfest Organizer.",
+  "d": "Speak to the Brewfest Organizer at the Brewfest Grounds outside of Ironforge and receive a free beer.",
+  "p": "",
+  "c": "Ho ho! Come for your free beer?"
+ },
+ {
+  "id": 11442,
+  "t": "Welcome to Brewfest!",
+  "o": "[PH] Speak to the Brewfest Organizer and receive a free beer.",
+  "d": "[PH] Speak to the Brewfest Organizer at the Brewfest Grounds outside of Ironforge and receive a free beer.",
+  "p": "",
+  "c": "Ho ho! Come for your free beer?"
+ },
+ {
+  "id": 11443,
+  "t": "Daggercap Divin'",
+  "o": "Harold Lagras at the bottom of Daggercap Bay wants you to recover 10 Valgarde Supply Crates.",
+  "d": "Hey... Uh... What's up? What are you doing down here?$B$BMe? Oh... Well, you see... I'm... Um... I'm trying to clean this place up! Orders from Keller himself! He says to me, \"Harry, I want you to put on a divin' bell and search the shipwrecks of Daggercap for OUR stuff...\"$B$BSay, maybe you could lend me a hand while you're down here. Throughout the bay here are all kinds of goodies, err, I mean supplies. Go out and bring me back whatever you find. Use this diving helm so you don't run out of air and die.",
+  "p": "Did you find those supplies?",
+  "c": "Wow! You sure are efficient. Yep, well, just give me those crates. I'll need to document them and take inventory and some other stuff that you haven't been trained to deal with or understand. Don't worry; I'll be sure to let Keller know what a great job you did down here! Yep. Yea, you can leave now. Skedaddle!"
+ },
+ {
+  "id": 11444,
+  "t": "[PH] Beer Garden A",
+  "o": "[PH] Speak to a Brewfest Barker in any Beer Garden and receive a free pretzel.",
+  "d": "[PH] Speak to a Brewfest Barker in any Beer Garden outside of Darnassus,the Exodar,Shattrath City,or Stormwind City and receive a free pretzel.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11445,
+  "t": "[PH] Beer Garden B",
+  "o": "[PH] Speak to a Brewfest Barker in any Beer Garden and receive a free pretzel.",
+  "d": "[PH] Speak to a Brewfest Barker in any Beer Garden outside of Darnassus,the Exodar,Shattrath City,or Stormwind City and receive a free pretzel.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11446,
+  "t": "Brewfest!",
+  "o": "Speak to the Brewfest Organizer.",
+  "d": "Speak to the Brewfest Organizer at the Brewfest Grounds outside of Orgrimmar and receive a free beer.",
+  "p": "",
+  "c": "What?! A free beer? Yeah, yeah. I guess we said we'd do that this year."
+ },
+ {
+  "id": 11447,
+  "t": "Welcome to Brewfest!",
+  "o": "[PH] Speak to the Brewfest Organizer and receive a free beer.",
+  "d": "[PH] Speak to the Brewfest Organizer at the Brewfest Grounds outside of Ironforge and receive a free beer.",
+  "p": "",
+  "c": "What?! A free beer? Yeah, yeah. I guess we said we'd do that this year."
+ },
+ {
+  "id": 11448,
+  "t": "The Explorers' League Outpost",
+  "o": "Deliver McSorf's Bundle to Stanwad at the Explorers' League Outpost in Howling Fjord.",
+  "d": "It's all a bunch of cryptic nonsense! Even with this cipher I can't make heads or tails of these tablets. Admittedly, cryptography is not my strong point.$B$BYou'll need to take the cipher and tablets to our cryptographer, Stanwad. Unfortunately, I haven't heard from Stanwad in two weeks. He took a team of twenty scientists to the dig sites on the southeastern bluffs of the fjord and hasn't been heard from since. The best I can do is have McGoyver over there give you a lift with his flying machine.",
+  "p": "<Stanwad grumbles.>",
+  "c": "<Stanwad takes the bundle from you and begins sorting the data.>$b$bWow. How many people did you say died to get this information?$b$b<Stanwad shakes his head.>$b$bYou'll be happy to know that what McSorf and his crew of bumbling imbeciles discovered is an ancient recipe for tundra stew. Did he not notice the icons of common vegetables and the pictograph of a humanoid mouth chompin' down on said veggies? You don't need a damned cipher to break this code!"
+ },
+ {
+  "id": 11449,
+  "t": "Fire Training",
+  "o": "Toss Water Buckets on 5 fires, then speak with the Masked Orphan Matron in Brill.",
+  "d": "The deathstalkers have set up a fire training area outside the town.  We cannot afford further damage to the buildings of Brill - you should do your duty and train as a fire fighter.$B$BHead west past the graveyard, following the road. You'll find the training area there.",
+  "p": "Have you dowsed any fires, $n? The training area is west of Brill.",
+  "c": "Well done, $N. Children, take a good look at this $c. Let her be a strong example to you."
+ },
+ {
+  "id": 11450,
+  "t": "Fire Training",
+  "o": "Toss Water Buckets on 5 fires, then speak with the Masked Orphan Matron in Falconwing Square.",
+  "d": "The guards have set up a fire training area outside the town.  We cannot allow the Horseman to destroy what we have worked so hard to rebuild - you should do your duty and train as a fire fighter.$B$BHead south through the gate to the crossroads. You'll find the training area there.",
+  "p": "Have you dowsed any fires, $n?  The training area is south of Falconwing Square.",
+  "c": "Well done, $N.  Children, take a good look at this $c.  Let $ghim:her; be a fine example for you to follow."
+ },
+ {
+  "id": 11451,
+  "t": "Alicia's Poem",
+  "o": "You have been asked to deliver Alicia's Poem to Caylee Dak in Shattrath City in Outland.",
+  "d": "Hi, I wrote a poem for my friend Caylee.  She likes to hang out with the Aldor in Shattrath City.  You know, in Outland?$b$bCould you take my poem to her?  My mommy says I'm too young to go to Shattrath City!",
+  "p": "Oh, is that a poem?",
+  "c": "What a touching poem, thank you!"
+ },
+ {
+  "id": 11452,
+  "t": "The Slumbering King",
+  "o": "Defeat Queen Angerboda and stop the ritual to awaken King Ymiron. Should you manage to do so, return to Westguard Keep and report your success to Captain Adams.",
+  "d": "A sheaf of parchment drops from the still hand of the overlord. Upon it you can discern the outline of the rituals that are taking place in the catacombs below.$B$BHowever, it appears that the queen of the vrykul, Angerboda, is having difficulty awakening King Ymiron. The ritual is taking place within the large chamber, known as the Winter's Terrace, on the north end of Gjalerbron.$B$BIf you hurry, you may be able to stop her before it is too late.",
+  "p": "$n, what news do you bring?",
+  "c": "I'm not sure that I like the sound of that one bit! The Lich King absconding with Ymiron can only mean trouble. Unfortunate that you weren't able to kill him along with his queen.$B$BStill, you've put a huge dent in their plans and bought us the valuable time that we need.$B$BAnd who knows, with the way you get around, you'll likely run into King Ymiron again. I'm sure that he won't fare so well the next time you meet."
+ },
+ {
+  "id": 11453,
+  "t": "The Slumbering King",
+  "o": "Defeat Queen Angerboda and stop the ritual to awaken King Ymiron. Should you manage to do so, return to Camp Winterhoof and report your success to Chieftain Ashtotem.",
+  "d": "A sheaf of parchment drops from the still hand of the overlord. Upon it you can discern the outline of the rituals that are taking place in the catacombs below.$B$BHowever, it appears that the queen of the vrykul, Angerboda, is having difficulty awakening King Ymiron. The ritual is taking place within the large chamber, known as the Winter's Terrace, on the north end of Gjalerbron.$B$BIf you hurry, you may be able to stop her before it is too late.",
+  "p": "$n, what news do you bring?",
+  "c": "I'm not sure that I like the sound of that one bit! The Lich King absconding with Ymiron can only mean trouble. Unfortunate that you weren't able to kill him along with his queen.$b$bStill, you've put a huge dent in their plans and bought us the valuable time that we need.$b$bAnd who knows, with the way you get around, you'll likely run into King Ymiron again. I'm sure that he won't fare so well the next time you meet."
+ },
+ {
+  "id": 11454,
+  "t": "Seek the Saboteurs",
+  "o": "Find Coren Direbrew in the Grim Guzzler within Blackrock Depths.",
+  "d": "This scrap of paper seems to have been left behind accidentally by the Dark Iron invaders.$B$BWhile the plans are complicated and written in some form of coded Dwarvish, the signature at the end - \"Coren Direbrew\" - is clear enough, as is mention of the Grim Guzzler deep within Blackrock Depths. You should seek out the instigator and put an end to these raids.",
+  "p": "",
+  "c": "It's a damn shame, it is, you lot cavorting up there without drinking the finest of the fine brews - ours! Did we get an invite to the competition? Of course not. Ya fight in some war and suddenly yer beer's not good enough! So aye, we smashed up yer kegs a bit, and rightly so!$B$BEr... seeing as you've smashed through our defenses and all, though, maybe ya can do something fer me..."
+ },
+ {
+  "id": 11455,
+  "t": "The Fragrance of Money",
+  "o": "Handsome Terry at Scalawag Point in Howling Fjord wants you to obtain 4 Bear Musk from the Rabid Brown Bears in the surrounding area.",
+  "d": "Us pirates are known for many things, but hygiene isn't one of them.  Most pirate ships be carrying five or six times as many rats as people.$B$BIt's no wonder all the bears on this island caught the rabies soon after we moved in.  Long story short, the boss wants 'em all dead.$B$BIt just so happens I know a recipe for a bear musk fragrance popular among Stormwind nobles.  We kill the bears and sell the musk.  I see a fine business opportunity for us here.  What say ye?",
+  "p": "Ye got the bear musk for me, matey?",
+  "c": "Excellent work!  It might not be quite as daring as plundering the high seas, but I'd be a darned son of a deckswabber if I passed on this opportunity."
+ },
+ {
+  "id": 11456,
+  "t": "Feeding the Survivors",
+  "o": "Elder Atuik at Kamagua in Howling Fjord wants you to obtain 6 pieces of Island Shoveltusk Meat from Island Shoveltusk in the Isle of Spears.",
+  "d": "We tuskarr rely mostly on our fish catch for sustenance.  In times of great need, however, we will on occasion hunt land animals.$B$BThe nearby village of Iskaal was recently attacked by pirates and the survivors just keep pouring in.$B$BOur catch has been modest this week, but there are many shoveltusk on the island and their meat is plentiful.$B$BAid my people by hunting these great beasts and obtaining their meat.",
+  "p": "Have you obtained the meat we need?",
+  "c": "I thank you, $N.  My people are in a time of great need."
+ },
+ {
+  "id": 11457,
+  "t": "Arming Kamagua",
+  "o": "Elder Atuik wants you to obain 3 Chimaera Horns.",
+  "d": "Issliruk, the spirit of war, is depicted as a silver eagle by my people.  Our stories tell of how Issliruk fought against a hundred worgs to save his young.$B$BIt is time for us, too, to fight against our foes to save our brethren.  We will need to craft new weapons.  The horns of the frostwing chimaera that make their home in the snowy parts of the island are sharp and are easily crafted into spear tips.  Bring me the best of these horns that you can find.",
+  "p": "It's good to see you again, $r.",
+  "c": "You continue to prove your worth as an ally, $N.  Your actions will not be forgotten."
+ },
+ {
+  "id": 11458,
+  "t": "Avenge Iskaal",
+  "o": "Elder Atuik wants you to go to Iskaal and slay 8 Northsea Slavers.  Use the Horn of Kamagua should you need assistance.",
+  "d": "The totem of Issliruk is ready, $N, and for that I thank you.  We must cast our peaceful ways for the time being and strike at those who've attacked our land and our kin.$B$BThe pirate slavers that raided Iskaal have lost their minds and slaughtered all their captives.  Go to Iskaal, to the east of here and do what must must be done.  Take this horn and call on my brethren should you need assistance.",
+  "p": "Have you done what I asked of you, $n?",
+  "c": "You are a formidable ally, $N.  My people will forever be in your debt."
+ },
+ {
+  "id": 11459,
+  "t": "Zeh'gehn Sez",
+  "o": "Return to Handsome Terry to decipher what Zeh'gehn asked of you.",
+  "d": "Is like dis, mon.  Ye be wantin' me 'elp spotting some craven bag-o-wire been cardin' da crew?$B$BYe gotta bring me a croaker, matey.  Aft I an' I show ye who da blaggard be, mon.  Nah, nah, croaker show ye.  Ye'll ku fer yerself with yer own deadlights, yahso.$B$BBring us a carver yahso too, 'atsteppa.  Galang, bucko.",
+  "p": "",
+  "c": "You didn't understand a thing Zeh'gehn said?  Well, of course not.$B$BLet's see then."
+ },
+ {
+  "id": 11460,
+  "t": "Trust is Earned",
+  "o": "Hidalgo at the Explorers' League Outpost in the Howling Fjord wants you to find a Fjord Grub and feed it to one of the falcons in the cage by his feet.",
+  "d": "The first and most important factor in falconry is the bond between the falconer and $g his:her; bird. Trust must be earned by the master!$B$B<Hidalgo points to the falcons in the cage at his feet.>$B$BIf you are to earn their trust you will first need to fill their bellies.$B$BThe fjord rock falcon, as these birds are known, primarily eat grubs. Throughout the fjord you will find loose rocks that serve as breeding grounds for these grubs. Find a grub and return here to feed the falcons in the cage.",
+  "p": "This is an important exercise, $n. If you are to become a falconer you must learn how to feed your bird.",
+  "c": "Yes, $N. I can see the bond of companionship forming. She has accepted you as master."
+ },
+ {
+  "id": 11462,
+  "t": "Handsome Terry",
+  "o": "Don the Pirate Disguise and speak to Handsome Terry inside Scalawag point.",
+  "d": "Your people paid me good money to infiltrate the Northsea Freebooters and get your foot in the door.$B$BI talked you up to a fellow in Scalawag Point called Handsome Terry.  I told him you come highly recommended.$B$BPut your disguise on and go see him.  Here comes someone to take you there.$B$BYou're going to have to prove yourself a bit before they introduce you to their higher ups.  But that's all up to you.  Remember, $N, once you're inside you're on your own!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11463,
+  "t": "Pirates of the North Seas",
+  "o": "Find Grezzix Spindlesnap on the northern end of Garvan's Reef off of the Southwestern coast of Howling Fjord.",
+  "d": "The past few weeks have seen an increase in pirate attacks against our supply ships.  We've hired a goblin spy to pave the way for one of our agents to infiltrate the suspected pirates.$B$BThis group of Northsea Freebooters operates out of Scalawag Point, on Garvan's Reef.  We don't know much about them, but we do know that Sylvanas wants their leader's head.$B$BYou come very highly recommended, $N.  If you take on this task, we can keep our military focused against Arthas' forces.  Are you up to it?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11464,
+  "t": "Gambling Debt",
+  "o": "Taruk at Scalawag Point wants you to collect \"Silvermoon\" Harry's Debt.",
+  "d": "I heard you did a little work for Terry.  I was hoping someone reliable would show up around these parts.$B$BSee, pirates love to gamble.  They, however, do not love to pay their gambling debt.$B$BIf you're interested in collecting some coin on my behalf, I'd be willing to give you a cut.$B$BLet's start you out with an easy one.  \"Silvermoon\" Harry's a bit of an eccentric, keeps all sorts of expensive blood elf knickknacks inside his tent - yet when I see him he always pretends to be broke.  Get my gold.",
+  "p": "You're back.  Did you get what's owed to me?",
+  "c": "A job well done.  Here's your cut, $N.  There's more where this came from.$B$BThere's no shortage of deadbeat pirates on this island."
+ },
+ {
+  "id": 11465,
+  "t": "The Ransacked Caravan",
+  "o": "Hidalgo at the Explorers' League Outpost in the Howling Fjord wants you to use the Trained Rock Falcon to recover 5 Fjord Turkeys.$B$BReturn to Hidalgo with the cage once you have completed this task.",
+  "d": "I was leading a caravan here from Valgarde that was attacked by Dragonflayers. I was the only survivor of that ambush. Unfortunately, I couldn't make it back here with the cargo of fjord turkeys. This is the perfect opportunity for you to get your feet wet with your rock falcon.$B$B<Hidalgo hands you a cage.>$B$BTake this falcon cage and head west down the road leading out of this camp. Use the falcon to capture the loose turkeys and return here when you've gathered enough.$B$BRemember to feed the falcon!",
+  "p": "Your falcon must be constantly fed or else it will eat the prey that you are sending it to kill.",
+  "c": "Clever fiends. And patient too! We need to stop underestimating our enemy. Those vrykul are deadly hunters!$b$bRegardless, mission accomplished. Perhaps it is time for you to hunt something a bit more elusive than a fat turkey, eh?"
+ },
+ {
+  "id": 11466,
+  "t": "Jack Likes His Drink",
+  "o": "Taruk at Scalawag Point in Howling Fjord wants you to collect Jack Adams' Debt.",
+  "d": "Our next customer,  Jack Adams, won't be the pushover that Harry was.  He spends all day drinking with his friends, tough pirates all of them.  Let's not use force this time, could get ugly.$B$BSee if you can use his drinking habit to your advantage.  There's only so much alcohol someone can handle before passing out.$B$BMaybe one of the bar wenches will be of assistance.  Once he's out, see if you can slip your hand into his pocket and get what's mine.",
+  "p": "Did you get what's mine, $N?",
+  "c": "I'm impressed, $N.  And I'm not the type who's easily impressed."
+ },
+ {
+  "id": 11467,
+  "t": "Dead Man's Debt",
+  "o": "Taruk at Scalawag Point wants you to search for Black Conrad's Treasure on the plateau in the northeastern end of the Isle of Spears, just north of Iskaal.",
+  "d": "You might've heard of Black Conrad, he's a famous pirate around these parts.$B$BWell, he had a thing for gambling on my fights.  He had a thing for not paying, too.$B$BI'd love to collect, but trouble is... he's dead.$B$BI was about ready to write the whole thing off, when I came across this...$B$B<Taruk unfolds a map of the Isle of Spears with an X on a northeastern plateau.>$B$BHe hid his treasure on tuskarr land.  I want you to get it.  I'll be damned if I let that bilge sucker get away without paying.",
+  "p": "Did you find the treasure, $N?",
+  "c": "I'll take the gold, as it is what Conrad owed me.  The rest is for you to keep.$B$BIf you're ever in need of something more permanent, I'm sure I could arrange for something.  In the meantime, may the wind blow strong in your sail, friend."
+ },
+ {
+  "id": 11468,
+  "t": "Falcon Versus Hawk",
+  "o": "Hidalgo at the Explorers' League Outpost in the Howling Fjord wants you to use your Trained Rock Falcon to capture 10 Fjord Hawks.$B$BReturn to Hidalgo with the cage when you have completed this task.$B",
+  "d": "Do you feel the closeness, $N? Surely you feel a true bond forming between you and your falcon. Would you believe me if I told you that when the time is right you'll be able to see through the eyes of your bird? Aye, it is the ultimate level of falconry.$B$BBut first you must hunt more! The bird must hone and quicken its reflexes. Send it against a more formidable opponent! The fjord hawks of the region make the tops of the trees around us their homes. They shall be your next target!  ",
+  "p": "Your falcon must be constantly fed or else it will eat the prey you are sending it to kill.",
+  "c": "Aye, the hawks are very territorial and often travel in packs. I suppose I could have told you that before I sent you out into the field.\n"
+ },
+ {
+  "id": 11469,
+  "t": "Swabbin' Soap",
+  "o": "Scuttle Frostprow wants you to obtain Big Roy's Blubber as the main ingredient for her magic swabbin' soap. Return to her on the eastern pirate ship at Scalawag Point when you have it.",
+  "d": "Yeah, I got to get the deck swabbed spotless afore Mad Jonah comes 'round. An' I ain't gonna do it on my hands and knees neither!$B$BProblem is, we're all outa soap. That's more your problem than mine though, mate. Being the newbie 'round here, I gots a special trip for ya to make.$B$BUp on the northwest coast of this island, there's a whole mess o' sea lions. Amongst the nearby ice floes you'll find the alpha bull, Big Roy. Bring me back his blubber and I'll magic-up the best soap ya ever seen!",
+  "p": "Where's that blubber? An' don't try to tell me he ain't got none either.$B$BThat Big Roy's so damned big it's a wonder he can still galumph around!",
+  "c": "Ew, that's a stink if I ever smelled one!$B$BGo on now, put it down right here. I'll cast my spell and she'll be swabbin' soap for sure!"
+ }
+]

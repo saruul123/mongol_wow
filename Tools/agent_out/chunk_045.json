@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10487,
+  "t": "Dust from the Drakes",
+  "o": "Collect 4 Dusts of the Fey Drake.",
+  "d": "The Alliance has recently moved in to the west, using their elven magics to grow a town and grove in a short matter of time.  We must keep their defenses weak so that they do not also grow a spine.$B$BI have a plan that will do that and more.  I want you to traverse the bridge to the southwest, which crosses over Bloodmaul Ravine and leads into the Living Grove.$B$BAttack their fey drake defenses in the Living Grove and bring back the magical dust that sometimes can be found upon their wings.",
+  "p": "It would seem that the Alliance is determined to follow us wherever we go. Let us teach them that we are not intimidated by their presence.$B$BDo you have that which I have requested?",
+  "c": "Not only have you weakened their defenses, but we're going to put this dust to use in bolstering our own defenses against the Alliance."
+ },
+ {
+  "id": 10488,
+  "t": "Protecting Our Own",
+  "o": "Use Gor'drek's Ointment on 5 of the Thunderlord Dire Wolves.",
+  "d": "With the magical dust you recovered, I have fashioned a magic ointment that will aid in our own defenses.$B$BOur dire wolves are the perfect combination of mount, sentry and friend, but the Alliance scum have been poaching them in the Jagged Ridge.$B$B$N, I want you to take this ointment and apply it to our dire wolf friends.  The Alliance will get a rude surprise the next time that they send one of their hunting parties.$B$BBe aware though that some of the wolves may not like this, and will turn on you.",
+  "p": "How fares the bolstering of our Thunderlord dire wolve's defenses?",
+  "c": "Now that you have strengthened the wolves, and the Jagged Ridge's defenses, perhaps we can refocus our attentions on more deadly matters, such as the ogres?$B$BYou have done a good job in aiding us here. We could use the help of someone capable, such as yourself, should you decide to stay.$B$BWhatever you do, you have earned my respect and appreciation."
+ },
+ {
+  "id": 10489,
+  "t": "Felling an Ancient Tree",
+  "o": "Collect Stronglimb Deeproot's Trunk.",
+  "d": "WANTED!$B$BStronglimb Deeproot, ancient of war and chief defender of the Living Grove south of Sylvanaar.$B$BFind him by heading west across the bridge that traverses the Bloodmaul Ravine.$B$BReturn his hewn trunk to Tor'chunk Twoclaws.",
+  "p": "What's that you have there? You're a strong one!",
+  "c": "Stronglimb Deeproot's Trunk! Did you chop him down by yourself?$B$BI bet you did. You know, Rexxar and I are looking for a young, strong $c, such as yourself, to help out around here, especially with the problems we continually have with the ogres. Make sure that you follow-up with me on that possibility.$B$BWell that trunk's definitely proof, which means you're here to collect the bounty and not to listen to me talk. Go ahead, take your pick."
+ },
+ {
+  "id": 10490,
+  "t": "Call of Water",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "I'm sensing that it's been a while since last you were tested.  This is because Farseer Nobundo has been asking for you.$B$BYou must have grown greatly in wisdom because you are being called to learn the mysteries of the element of water.$B$BI trust that you remember how to take the boat from Auberdine in Darkshore on Kalimdor back to the Exodar?  And that you remember where to find the farseer at the Crystal Hall inside the Exodar, yes?",
+  "p": "",
+  "c": "We meet again. I have been watching your progress from afar, $c, and I am pleased.$B$BThe time has come for you to commune with the element of water, to learn its mysteries and give yourself over to the water so that you might in turn learn to master it. "
+ },
+ {
+  "id": 10491,
+  "t": "Call of Air",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "$N, once again Farseer Nobundo has been asking for you.  It must be time for you to learn the secrets of air, the last of the elements!$B$BI want you to know that I'm very proud of all that you have accomplished thus far.  I know that you have great things ahead of you.$B$BTake the boat from Auberdine in Darkshore on Kalimdor.  Cross the Veiled Sea and seek out the farseer inside the Crystal Hall of the Exodar on Azuremyst Isle.",
+  "p": "",
+  "c": "And finally we come to it, the last of the four great elements: air. Do you think yourself wise enough to continue, $N?"
+ },
+ {
+  "id": 10492,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Bindings of Elements to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 10493,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Lightforge Bracers to Mokvar in Orgrimmar.",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 10494,
+  "t": "Just Compensation",
+  "o": "Bring a Cord of Elements and a set of Gauntlets of Elements to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gloves that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 10495,
+  "t": "Just Compensation",
+  "o": "Bring a Lightforge Belt and a set of Lightforge Gauntlets to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 10496,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Boots of Elements, a Kilt of Elements and Pauldrons of Elements.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 10497,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Lightforge Boots, Lightforge Legplates and Lightforge Spaulders.$B",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N. Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 10498,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Coif of Elements and Vest of Elements.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Wildheart pieces in exchange for your new Feralheart Cowl and Vest?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 10499,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Lightforge Helm and Lightforge Breastplate.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Magister's pieces in exchange for your new Sorcerer's Crown and Robes?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 10500,
+  "t": "The Horde Needs Your Help!",
+  "o": "Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": "Throm'ka, $c! Good to see so many of the Horde, such as yourself, $N, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.$b$bSo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to."
+ },
+ {
+  "id": 10501,
+  "t": "The Alliance Needs Your Help!",
+  "o": "Speak with Field Marshal Snowfall in Ironforge's Military Ward.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10502,
+  "t": "The Bloodmaul Ogres",
+  "o": "Slay any 30 Bloodmaul Ogres at Bloodmaul Outpost.",
+  "d": "There is a threat to Sylvanaar far deadlier than the Horde at Thunderlord Stronghold.$B$BI'm speaking of the native ogres of these mountains.  Just to the south and east, down in the ravine, lives the Bloodmaul clan.  While they aren't the only group of ogres that threaten us here, they are the closest.$B$BI would have you head south through the Living Grove, and then go down the path to the east, which leads to their outpost.  Slay as many of the Bloodmaul ogres at Bloodmaul Outpost as you can.",
+  "p": "Our scouts have reported that the Bloodmaul ogres have begun to creep up the switchback, which leads up to the Living Grove from their hold.$B$BIt is unfortunate that we cannot find a way to live together in peace with the ogres, but then, when have we ever been able to do so?",
+  "c": "This is a good first step toward securing Sylvanaar and the grove.$B$BWith their ogres not so numerous, the Bloodmaul will think twice about attacking us here.$B$BNow, if only they were the only clan of ogres that we have to worry about."
+ },
+ {
+  "id": 10503,
+  "t": "The Bladespire Threat",
+  "o": "Slay any 30 Bladespire Ogres and 10 Bladespire Raptors at Bladespire Hold and the Bladespire Grounds.",
+  "d": "There is a threat to Thunderlord Stronghold worse than the Alliance at Sylvanaar.$B$BI speak of the ogres of these mountains.  Just to the west, down in the ravine, lies the Bladespire clan.  While they aren't the only ogres, they are the closest and they're the ones that we defeated to take this place.$B$BHead north through the Jagged Ridge, and then down the path, which leads to their hold.  Slay as many of the Bladespire ogres and their raptors as you can at Bladespire Hold and the Bladespire Grounds.",
+  "p": "Our scouts have reported that the Bladespire ogres have established a camp even closer to the switchback, which leads from their hold up to us here.$B$BIt is unfortunate that we cannot simply subjugate these ogre scum to our will, but if it's a fight that they want, they will find the Horde more than accommodating.",
+  "c": "This is a good first step toward securing our position here against the ogres.$B$BWith their numbers decimated, the Bladespire will think twice about attempting to retake Thunderlord Stronghold.$B$BNow, if they were the only clan of ogres that we have to worry about."
+ },
+ {
+  "id": 10504,
+  "t": "The Bladespire Ogres",
+  "o": "Slayl any 30 Bladespire Ogres in Bladespire Hold and the Bladespire Grounds.",
+  "d": "To the north of the Bloodmaul clan lies a threat more grave:  Bladespire Hold.$B$BThe Bladespire ogres are the strongest clan in the mountains, having the favor of the gronn known as Gruul the Dragonkiller, and his seven sons.$B$BNow that we've dealt with winnowing the Bloodmaul, it is time to turn our eye upon their rivals.$B$BFrom Bloodmaul Hold head north through the ravine until you come to Bladespire Hold and the Bladespire Grounds.  Slay as many of the Bladespire ogres therein as you can.",
+  "p": "Bloodmaul or Bladespire, it doesn't matter. All of the ogre clans fight against each other, vying for the dominance that comes with having the favor of Gruul the Dragonkiller.$B$BEach is still our enemy, regardless of who that favor has fallen to.",
+  "c": "Your actions against both the Bloodmaul and the Bladespire ogre clans have gone a long way to securing Sylvanaar's future. While we do not seek to expand past this patch of land, which we initially found empty, we will also not suffer those that would destroy us.$B$BAs you have done us good service, I would reward that service with the appreciation of the Alliance."
+ },
+ {
+  "id": 10505,
+  "t": "The Bloodmaul Ogres",
+  "o": "Slay any 30 Bloodmaul Ogres at Bloodmaul Outpost.",
+  "d": "To the south of the Bladespire clan lies yet another threat:  Bloodmaul Outpost.$B$BWhile the Bloodmaul ogres are not the strongest clan in the mountains, not having the favor of the gronn known as Gruul the Dragonkiller, they run a close second.$B$BNow that we've dealt with winnowing the Bladespire, it is time to turn our eye upon their rivals.$B$BFrom Bladespire Hold head south through the ravine until you come to Bloodmaul Outpost.  Slay as many of the Bloodmaul ogres in the vicinity as you can.",
+  "p": "Bladespire or Bloodmaul, it matters not. All of the ogre clans fight against each other, vying for the dominance that comes with having the favor of Gruul the Dragonkiller.$B$BEach is still our enemy, regardless of who that favor has fallen to, and we will drive them before us!",
+  "c": "Your actions against both the Bladespire and the Bloodmaul ogre clans have gone a long way to securing Thunderlord Stronghold's future. We will not suffer those that would get in the way of our destiny here.$B$BAs you have done good work in destroying these ogres, I intend to reward you with the appreciation of the Horde."
+ },
+ {
+  "id": 10506,
+  "t": "A Dire Situation",
+  "o": "Apply Rina's Diminution Powder to 5 of the Bloodmaul Dire Wolves at Bloodmaul Outpost and in Bloodmaul Ravine.",
+  "d": "With their wolf pack reduced, the Horde is looking for replacements.  Unfortunately there's another source nearby.$B$BThe Bloodmaul ogres in the ravine below to the east keep a strong pack as their own sentries.  I hated sending you to kill the Thunderlord wolves, so why don't we do something different this time?$B$BI've derived a magic powder from the dust that naturally falls off the wings of our fey drakes.  Sprinkle it on the Bloodmaul dire wolves to make them undesirable to the Horde.",
+  "p": "Any luck out there? I know that it's dangerous work to be doing this amongst the Bloodmaul ogres, but if we can avoid the killing of any more animals, I'll be happy.",
+  "c": "I'm glad to hear that it worked. The fewer the number of Nature's creatures that have to die, the better.$B$BWith all that you've done for us already, I must say that I'm beginning to grow very fond of your company.$B$BTake care, $N."
+ },
+ {
+  "id": 10507,
+  "t": "Turning Point",
+  "o": "Use Socrethar's Teleportation's Stone at Invasion Point: Overlord, north of Forge Base: Oblivion to transport your party to Socrethar's Landing.  Once there, use Voren'thal's Presence to defeat Socrethar.$B$BPerforming quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "This is the chance we've been waiting for, $N.  Not only have we uncovered the evidence we need to show our people who Kael'thas is really working for, but we can prove our strength by defeating his new masters.$B$BMy frail health prevents me from aiding you in person with this endeavor, but I will offer you an object that will allow me to project my powers across the continent.  ",
+  "p": "Is it done, $N?",
+  "c": "You are an individual of formidable power, $N. The Scryers are fortunate to count you as an ally.$B$BAs word of Kael's new allegiance spreads, more people will see things our way. The fact that we can claim such a decisive victory against Kael'thas' new overlords puts us in a most favorable situation.$B$BI will not forget your deeds."
+ },
+ {
+  "id": 10508,
+  "t": "A Gift for Voren'thal",
+  "o": "Spymaster Thalodien at Area 52 wants you to obtain the First Half of Socrethar's Stone from Forgemaster Morug at Forge Base: Oblivion and the Second Half of Socrethar's Stone from Silroth at Forge Base: Gehenna.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "I don't want to send you to Voren'thal empty-handed.  It's not in my style to be underwhelming.$B$BTo gain access to Socrethar's Seat in the north, we'll need to use his own teleporters - locked by Socrethar's teleportation stone.  The first half of the stone is in the possession of Forgemaster Morug at Forge Base Oblivion.  The second half is held by the demon Silroth at Forge Base: Gehenna.$B$BObtain these and Voren'thal will be impressed beyond words.",
+  "p": "Have you obtained Socrethar's teleportation stone, $N?",
+  "c": "You do not cease to amaze me, $N!  Good thing you're on our side."
+ },
+ {
+  "id": 10509,
+  "t": "Bound for Glory",
+  "o": "Bring Socrethar's Teleportation Stone to Voren'thal the Seer at the Scryer's Tier in Shattrath City.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "Now I can properly send you back to Shattrath City.  You've uncovered evidence of Kael'thas making pacts with the Burning Legion and you've got the key to the overlord's back door.$B$BMake sure Voren'thal doesn't topple over with excitement from the news - the old man's getting a bit fragile, if you know what I mean.  You'll find him inside the Seer's Library at the Scryer's Tier.",
+  "p": "",
+  "c": "You have no idea what this will mean for the Scryers, $N. You will have to excuse me while I catch my breath and assess the situation."
+ },
+ {
+  "id": 10510,
+  "t": "Into the Draenethyst Mine",
+  "o": "Collect 5 Draenethyst Mine Crystals.",
+  "d": "Well it's good to see someone who's willing to help out around here!$B$BBorgrim and I are part of the Explorers' League, and we're here to learn what we can of these mountains.  We've heard all sorts of tales, and I can't wait to get settled in and started.$B$BOne thing in particular has caught my attention.  The night elves speak of a place down in the ravine to the east known as the Draenethyst Mine.  It's at the south end of Bloodmaul Outpost.  I'd like some of the crystals that grow naturally therein.",
+  "p": "Isn't this exciting?  After all of the dirt and insects of Silithus, this place is like a paradise.",
+  "c": "Ooh, by the looks of those, they're fine specimens.  I can't wait to get my examination tools unpacked and have a real look at them!$B$BThank you!"
+ },
+ {
+  "id": 10511,
+  "t": "Strange Brew",
+  "o": "Collect 11 Bloodmaul Brutebane Brew.",
+  "d": "If I'm going to start this vacation out right, then I'm going to need more brew.  Unfortunately, the elves know nothing of the fine art of fermentation.$B$BI overheard that the Bloodmaul ogres down in the ravine have plenty.  I'm willing to give it a try.$B$BDo me a favor?  Head south through the Living Grove and then down the ramp to the east into Bloodmaul Outpost and procure me some?  I hear they have big barrels of it laying around and that their brewmasters carry it around to all the other ogres.",
+  "p": "It's getting pretty dry around here.  How am I supposed to enjoy my vacation without something to drink?",
+  "c": "What is that smell?  Oh no, don't tell me that's the ogre brew?!$B$BI'm almost afraid to try this stuff out.  Oh well, what the hell?  Bottoms up!"
+ },
+ {
+  "id": 10512,
+  "t": "Getting the Bladespire Tanked",
+  "o": "Use the Bloodmaul Brutebane Keg in an attempt to get 5 Bladespire Ogres drunk.",
+  "d": "I'll not take another sip of that ill-smelling muck!  But it does give me an idea.$B$B<Borgrim gets a twinkle in his eye.>$B$BSo here's the plan.  We know that the Bloodmaul practically live off of this swill.  But I wonder what their enemies, the Bladespire ogres, think of it?$B$B$N, I want you to take the rest of this rubbish and see if you can get the Bladespire ogres tanked.  You can find them by heading north from Bloodmaul Outpost through the ravine.",
+  "p": "What's the word? Are the Bladespire ogres as indiscriminate as the Bloodmaul, or did it nearly kill them like it did me?",
+  "c": "Ah, hahaha! That's what I thought. I guess ogre's will drink anything.$B$BStupid, the lot of 'em!$B$BWell, I must say even though I didn't get my brew, you have given me a great start to my vacation.$B$BTell you what... we have all sorts of stuff here we don't really need. Can I offer you something?"
+ },
+ {
+  "id": 10513,
+  "t": "Oronok Torn-heart",
+  "o": "Seek out Oronok Torn-heart on the Shattered Shelf - north of Coilskar Cistern.$B",
+  "d": "I do not know how we can acquire the spell that the spirits mentioned, $N. Truth be told, I don't even know where we would start such a search.$B$B<Torlok stares off in the distance, lost in thought.>$B$BHrm... It is a long shot but it might be our only chance. There is an orc that I have seen visit this area before. I spoke to him briefly once. He is a hermit that claims to live above Coilskar Cistern to the northeast. Seek out this orc, Oronok Torn-heart.$B$BAs I said, it is a long shot.",
+  "p": "",
+  "c": "Words of damnation? Never heard of 'em. Take my advice: Let the dead rest.$B$BBut since you've already come all this way, I could use some help with a few other matters. What do you say?"
+ },
+ {
+  "id": 10514,
+  "t": "I Was A Lot Of Things...",
+  "o": "Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley wants you to recover 10 Shadowmoon Tubers from the Shattered Plains.$B$BHe also wants Oronok's Boar Whistle back when you're done.",
+  "d": "I've been a lot of things, stranger, but what I once was isn't what's important. What I am now is what matters and what I am now is a farmer.$B$BI use trained felboars to dig up tubers from the hardened earth of the Shattered Plains. Recently, though, flayers from a nest to the northeast have been attacking my animals, preventing me from gathering tubers.$B$BWould you go to the area north of here and gather tubers for me? Use this whistle while standing on a tuber mound and a boar will come dig one up!",
+  "p": "Get me those tubers!",
+  "c": "You say there were a lot more of those flayers than you expected? Looks like it's time to take out the trash."
+ },
+ {
+  "id": 10515,
+  "t": "A Lesson Learned",
+  "o": "Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley wants you to destroy 10 Ravenous Flayer Eggs on the Shattered Plains.",
+  "d": "We need to show those flayers what happens when you mess with Oronok's business!$B$BI want you to go back to the Shattered Plains and destroy every flayer egg that you see. They'll be deep in flayer territory so keep your guard up.",
+  "p": "No mercy!",
+  "c": "That'll teach those damned, filthy animals not to kill my boars! Well done, $N!"
+ },
+ {
+  "id": 10516,
+  "t": "The Trappings of a Vindicator",
+  "o": "Collect Vindicator Vuuleen's Blade and Vindicator Vuuleen's Shield.",
+  "d": "I know it's strange, but I do want to stay in this cage.  It gives me the perfect opportunity to do what I came here for; to gather information on the Bladespire.$B$BI can leave at any time, but I would like to have my sword and shield back.$B$BTwo of their leaders have my trappings.  Droggam has my sword and Mugdorg has my shield.$B$BIf you have need, obtain and use the brew from Bloodmaul Outpost to the south to thin out their help and entice those two, but beware their sober guards who don't drink!",
+  "p": "$C, do you have my sword and shield?$B$BWhile I could leave at any time, it would be embarrassing for me to return to Sylvanaar without my trappings.",
+  "c": "And now I owe you a great debt, for you have helped me to restore my honor.  But our work here is not yet over."
+ },
+ {
+  "id": 10517,
+  "t": "Gorr'Dim, Your Time Has Come...",
+  "o": "Slay Gorr'Dim, leader of the Bladespire Hold ogres.",
+  "d": "The leader of Bladespire Hold is known as Gorr'Dim.  Trust me... the name is appropriate.$B$BStill, I wouldn't underestimate him.  He's crafty enough to have elevated his clan to be the favorite of Gruul the Dragonkiller and they now dominate these mountains.  And Gorr'Dim keeps an entourage about him at all times, including defenders who are sworn not to drink the Bloodmaul brew.$B$BFor the safety of Sylvanaar, I'm asking that you go back in there and deal with him.",
+  "p": "What was all of that noise? Was that you dealing with Gorr'Dim?",
+  "c": "Very well. You're a very resourceful $c, that's for certain.$B$BI wonder then if there's one more thing that you can do for myself and Sylvanaar?"
+ },
+ {
+  "id": 10518,
+  "t": "Planting the Banner",
+  "o": "Use the Bladespire Banner atop the Northmaul Tower to lure Gurn Grubnosh.  Collect the Bladespire Clan Banner and the Helm of Gurn Grubnosh.",
+  "d": "I want you to steal the Bladespire banner from one of their champions and take it south to Bloodmaul Outpost.  Plant it atop their Northmaul Tower.$B$BThis will infuriate the Bloodmaul and they will attack you relentlessly.  But it will also keep their hatred focused on Bladespire Hold, and away from Sylvanaar.$B$BYou will know you have accomplished the deed when you have defeated Gurn Grubnosh and taken his helm.  Return it to Sylvanaar.$B$B$N, this isn't going to be easy.  Take a  friend or two with you.",
+  "p": "What brings you to me? Surely not more trouble with the Bloodmaul ogre clan?",
+  "c": "Gurn Grubnosh's helm and a Bladespire banner?$B$BQuite clever of you and the vindicator to come up with that plan.$B$BBy keeping the attention of the Bloodmaul clan on Bladespire Hold, you've relieved the pressure that they were beginning to assert upon us here.$B$BPlease, $N, accept a humble gift from Sylvanaar."
+ },
+ {
+  "id": 10519,
+  "t": "The Cipher of Damnation - Truth and History",
+  "o": "Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley wants you to listen to his story. Speak to Oronok to begin hearing his story.",
+  "d": "<Oronok adjusts his posture and stands to his full height.>$B$BI had to be sure, $N. And to be sure, I had to test you. Please excuse the little masquerade. I am as much a farmer as you are $g female:male;. Which is to say, not at all.$B$BIf you are to recover the Cipher of Damnation, you will need to listen to what I have to tell you. When you are ready, let me know and I will tell you the story.",
+  "p": "Be patient and listen, $N.",
+  "c": "Do you understand what must be done? Find the sons of Oronok. Find my boys..."
+ },
+ {
+  "id": 10520,
+  "t": "Assisting Arch Druid Staghelm",
+  "o": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.$B$BPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "p": "",
+  "c": "Well now, $c... since you were informed that I was leading this research myself, you obviously came as quickly as you could.$B$BNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself."
+ },
+ {
+  "id": 10521,
+  "t": "Grom'tor, Son of Oronok",
+  "o": "Find Grom'tor, Son of Oronok at Coilskar Point in Shadowmoon Valley.",
+  "d": "My first born, Grom'tor, left to search Coilskar Point - directly southwest of here.$B$BHe's the warrior in the family - ill-tempered and blood-thirsty... Traits he inherited from his mother. Search along the outskirts of Coilskar Point. If you see naga corpses, Grom'tor is sure to be close.$B$BWhen you find him, tell him this: \"We spill blood for just cause.\" It will let him know that you are a friend to Torn-heart and prevent your premature death.",
+  "p": "",
+  "c": "<Grom'tor grunts.>$B$BIt's good you came. This maggot just spilled its guts. We've got them now!"
+ },
+ {
+  "id": 10522,
+  "t": "The Cipher of Damnation - Grom'tor's Charge",
+  "o": "Grom'tor, Son of Oronok at Coilskar Point in Shadowmoon Valley wants you to recover the First Fragment of the Cipher of Damnation.",
+  "d": "This naga filth is the sixth one I've interrogated today. He's got the fancy armor so I figured he knew something. Those other ones were useless.$B$B<Grom'tor points to the corpses of the naga around him.>$B$BI only had to beat him once and he told me everything.$B$BThe first part of the cipher is hidden in a naga chest at Coilskar Point or Coilskar Cistern, east of here. He says naga carry the keys. Kill 'em, take their keys and use them to open the Coilskar chests. Return to me when you find the cipher.",
+  "p": "Any luck?",
+  "c": "This must be taken back to father at once."
+ },
+ {
+  "id": 10523,
+  "t": "The Cipher of Damnation - The First Fragment Recovered",
+  "o": "Take Grom'tor's Lockbox to Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley.",
+  "d": "<Grom'tor wraps the documents up and places them in a lockbox.>$B$BTake this box to father. He awaits your return at the farm, northeast of here.$B$BTell him that I will be home soon. As soon as I am done having my fun...",
+  "p": "You have succeeded?",
+  "c": "When the Cipher of Damnation is reformed, we shall end this curse!"
+ },
+ {
+  "id": 10524,
+  "t": "Thunderlord Clan Artifacts",
+  "o": "Collect the Thunderlord Clan Drum, Thunderlord Clan Arrow and the Thunderlord Clan Tablet.",
+  "d": "The artifact bears markings that indicate its origins as being created by the Thunderlord clan orcs.  These orcs used to live at Thunderlord Stronghold before they were changed into fel orcs.$B$BFor a time the Bladespire ogres inhabited the stronghold until recently when the Horde pushed them out.$B$BYou've heard of other artifacts that were lost.  A drum, an arrow and a tablet come to mind as objects that you know are being sought after.$B$BFind them in Bladespire Hold and return them to Rokgar Bloodgrip.",
+  "p": "Do I know you?",
+  "c": "I do not believe my eyes! If this is some sort of trick, I will flay the flesh from your bones, $c!$B$BQuickly, let me examine these priceless artifacts before you break them with your clumsy hands."
+ },
+ {
+  "id": 10525,
+  "t": "Vision Guide",
+  "o": "Use the Fiery Soul Fragment to transform your spirit into a vision guide, which will reveal the location of the final Thunderlord artifact.",
+  "d": "$R fool.  You almost destroyed the drum!$B$BI've worked too hard to get here, and my hands have been empty up until now.  At least you were able to succeed where the others only met with failure, or worse.$B$BIt is time to evoke a vision that will lead you to the last relic that I have been seeking.$B$BTake this fiery fragment of my soul.  Use it to transform your body into flame and denature your spirit into a vision guide that will shoot forth to reveal the location of the final Thunderlord relic.",
+  "p": "What did you see? Tell me, I must know where it is!",
+  "c": "The back of the Draenethyst Mine? The Bloodmaul clan must have stolen it from the Bladespire ogres.$B$BBah! That is too far away... too deep into Bloodmaul territory for me to travel.$B$BBut you. You know the path. You will go there in my stead!"
+ },
+ {
+  "id": 10526,
+  "t": "The Thunderspike",
+  "o": "Collect the Thunderspike.",
+  "d": "If the vision that I granted you is true, then you must travel down into the ravine and to the south end of Bloodmaul Ravine.  There you will find the Draenethyst Mine.$B$BJourney to the back of the mine, and retrieve the Thunderspike.  Ignore everything else!  I have no interest in the crystals of the mine, nor the ogres therein.$B$BAs soon as you have the spear return it to me here!$B$BAnd, $N, be very careful with it... I would hate to think what would happen to you should you break it.",
+  "p": "The significance of these artifacts eludes you, I am sure.$B$BWhen we have all five, our right to the ownership of Thunderlord Stronghold will be secured through the appeasement of its dead spirits.$B$BDo you begin to grasp now why this is so important? Do you understand why I have little patience for niceties?",
+  "c": "Now I am impressed! Do you have any idea how many others died attempting to retrieve all of these relics?$B$BWe are fortunate to have you working with us here, $N. Even if you are a bit slow.$B$BYou must allow me to reward your dedication to our cause. Choose, but choose wisely. When you are done, I will hand over the artifacts to appease the ghosts of Thunderlord Stronghold."
+ },
+ {
+  "id": 10527,
+  "t": "Ar'tor, Son of Oronok",
+  "o": "Find Ar'tor, Son of Oronok at Illidari Point in Shadowmoon Valley.",
+  "d": "My youngest son, Ar'tor, left to search Illidari Point - far to the southwest, nestled between Legion Hold and Wildhammer Stronghold.$B$BWhile Ar'tor is a hunter of remarkable skill and an expert tracker, I fear that he may be in over his head this time. Illidari Point is the proving grounds for Illidan's demons. These are demons that left the Burning Legion to join the Betrayer!$B$BTravel to Illidari Point and find Ar'tor, $N.",
+  "p": "",
+  "c": "Ar'tor's body lies limp, suspended in mid-air. You have no idea how long he has been dead but your heart aches for Oronok.$B$BPerhaps you should try and get him down and take his corpse back to his father."
+ },
+ {
+  "id": 10528,
+  "t": "Demonic Crystal Prisons",
+  "o": "Seek out and slay Painmistress Gabrissa at Illidari Point and return to the corpse of Ar'tor, Son of Oronok with the Crystalline Key.",
+  "d": "From assessing the scene, you note that Ar'tor is being held in place by energy beams emanating from the crystals hovering around the rune. Try as you might, Ar'tor is unmovable.$B$BYou note that the crystals have an empty slot at their base - perhaps for a key. It also seems as if succubi periodically perform some sort of ritual at the site.$B$BSearch Illidari Point for their leader. Perhaps she holds the key to releasing Ar'tor.",
+  "p": "Ar'tor hovers lifelessly before you.",
+  "c": "You slide the crystalline key into the slots at the base of each of the demonic crystals."
+ },
+ {
+  "id": 10529,
+  "t": "The Hunter's Path",
+  "o": "Speak with Lieutenant Dawnrunner at Farstrider Retreat in Eversong Woods.",
+  "d": "Lieutenant Dawnrunner at Farstrider Retreat has requested an audience with all able hunters.  It would greatly benefit you to seek her out, $N.  She is a beacon of wisdom for those of our calling.$b$bFarstrider Retreat lies south of Silvermoon City.",
+  "p": "",
+  "c": "$N, it is good you have come. Our list of allies grows thin, and even those who share our cause are not completely trusted. It is because of this that we, the rangers, turn to nature for aid.$B$BIn the allies of the forest we find a deep bond that does not know deceit."
+ },
+ {
+  "id": 10530,
+  "t": "The Hunter's Path",
+  "o": "Speak with Lieutenant Dawnrunner at Farstrider Retreat in Eversong Woods.",
+  "d": "Lieutenant Dawnrunner at Farstrider Retreat has requested an audience with all able hunters.  It would greatly benefit you to seek her out, $N.  She is a beacon of wisdom for those of our calling.$b$bFarstrider Retreat lies south of Silvermoon City.",
+  "p": "",
+  "c": "$N, it is good you have come. Our list of allies grows thin, and even those who share our cause are not completely trusted. It is because of this that we, the rangers, turn to nature for aid.$B$BIn the allies of the forest we find a deep bond that does not know deceit."
+ },
+ {
+  "id": 10531,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the mine, the lumber mill, the blacksmith and the farm, then return to Field Marshal Oslight in Refuge Pointe.",
+  "d": "$N, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.$B$BAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!$B$BWhen you have done this to all four points, return to me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10532,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10534,
+  "t": "Returning Home",
+  "o": "Caedmos at the Exodar has requested you come see him.",
+  "d": "A $r $c...$b$bYes, there was a priest of your order here recently, $n.  He told me it was time you returned to the Exodar met with Caedmos.  There was a sense of urgency in his request, so I wouldn't take too long to see him.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10535,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10537,
+  "t": "Lohn'goron, Bow of the Torn-heart",
+  "o": "The Spirit of Ar'tor at Illidari Point in Shadowmoon Valley wants you to recover Lohn'goron, Bow of the Torn-heart from the demons of the area.",
+  "d": "It is a sign, $N. Even in death, I cannot be stopped. Recovering a part of the Cipher of Damnation is my destiny. With your help, that destiny will be fulfilled.$B$BBefore we embark on that journey, I must have my longbow, Lohn'goron. It is a family heirloom that has been handed down from Torn-heart to Torn-heart for generations.$B$BMy instinct tells me that a demon stole it from my corpse. Kill the demons here until you find my bow. ",
+  "p": "Fear not, hero. When the time is right, I will assist you...",
+  "c": "It means \"hero's sojourn\" in my native tongue. It rings true even now - in this era where our heroes have all died...$B$BIt seems as though one always rises."
+ },
+ {
+  "id": 10538,
+  "t": "Boiling Blood",
+  "o": "Use Bleeding Hollow Blood at the Cursed Cauldron to make Boiled Blood.  Bring 12 Boiled Blood to Apothecary Albreck at Spinebreaker Post.",
+  "d": "That last experiment was not a complete loss -- I did save a small bit of the blood you brought me.  Now boiled down, it should be free of whatever curses the Bleeding Hollow witches placed on their people's blood.$B$BI need more for study.  Go gather Bleeding Hollow blood from the orcs in Zeth'Gor.  When you've gathered the blood, bring it to their cursed cauldron and boil it.  Bring me the boiled blood.",
+  "p": "Do you have the boiled blood, $N? I am eager to study it without an interruption this time...",
+  "c": "Very good. Now I can more easily perform my tests...$B$BThank you, $N. Your talents are considerable."
+ },
+ {
+  "id": 10539,
+  "t": "Returning Home",
+  "o": "Caedmos at the Exodar has requested you come see him.",
+  "d": "A $r $c...$b$bYes, there was a priest of your order here recently, $n.  He told me it was time you returned to the Exodar met with Caedmos.  There was a sense of urgency in his request, so I wouldn't take too long to see him.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10540,
+  "t": "The Cipher of Damnation - Ar'tor's Charge",
+  "o": "The Spirit of Ar'tor at Illidari Point in Shadowmoon Valley wants you to recover the Second Fragment of the Cipher of Damnation from Veneratus the Many.$B$BCreatures attacked or damaged by the Spirit Hunter will not yield loot or experience.",
+  "d": "At last, we are ready. I will bestow a piece of my spirit upon you, hero. It will guard you and help you in your battle against evil.$B$BYou must then travel south of here towards the back of Illidari Point. Hidden in the ether is a vile creature known as Veneratus the Many. My spirit hunter will call him out when he is near.$B$BDestroy Veneratus and take from his corpse the second part of the Cipher of Damnation.",
+  "p": "The cipher must be recovered!",
+  "c": "<Ar'tor fades in and out of existence.>$B$BIt would seem that my time is nearly at an end, hero."
+ },
+ {
+  "id": 10541,
+  "t": "The Cipher of Damnation - The Second Fragment Recovered",
+  "o": "Take Ar'tor's Lockbox to Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley.$B",
+  "d": "I thank you, hero. For without you, my spirit would forever remain in this cursed place.$B$B<Ar'tor hands you a spectral lockbox.>$B$BTake it and deliver it to my father at the farm, far to the northeast, above Coilskar Cistern... Inside are Lohn'goron and the second part of the cipher.$B$BHe will be sad to hear news of my death. Promise me that you will assure him that I died a free soul. Tell him that I see the hunting grounds and they are glorious. Tell him that I wait for him there...",
+  "p": "<A single tear rolls down Oronok's cheek.>",
+  "c": "<Oronok wipes the tear away and smiles at you.>$B$BThank you. I promise you, hero, a song of honor will be written in your name."
+ },
+ {
+  "id": 10542,
+  "t": "They Stole Me Hookah and Me Brews!",
+  "o": "Collect T'chali's Hookah and 10 Bloodmaul Brutebane Brews.",
+  "d": "T'chali used to be a pretty friendly troll.  Me come down here to teach the Bloodmaul how to brew their beer.  But once me do that, the Bloodmaul bury T'chali and leave him here to rot!$B$BThe worst part of it was that they stole me hookah!$B$BSo, you want to help T'chali?  You bring me hookah back.  T'chali think the ogres that stole it headed southwest over by the mine.$B$BAnd while you're in there, pick up some brews, too!",
+  "p": "Hey, you got me hookah and those brews yet?",
+  "c": "Yes, that is what T'chali is talking about! Though me not sure what those ogres put in there; that not T'chali's brand of tobacco that me smell in the hookah.$B$BNo matter, T'chali is happy. Happy enough, in fact, to ask you to do something else."
+ },
+ {
+  "id": 10543,
+  "t": "Grimnok and Korgaah, I Am For You!",
+  "o": "Slay Grimnok Battleborn and Korgaah.",
+  "d": "T'chali has been waiting for his revenge!$B$BThe day they bury T'chali and leave him to die, it was Grimnok Battleborn that led them.  And the next day it was Korgaah that come south to raid and kick T'chali in the head.$B$BI want them dead!$B$BYou will find Grimnok atop the Southmaul Tower in Bloodmaul Outpost.  You will find Korgaah in the top of a building at the north end of Bladespire Hold.  Korgaah has sober defenders, so use the brew to distract him away from them, because they won't drink.",
+  "p": "You think T'chali likes being this way? No!$B$BSo, have you exacted me revenge yet? Are Grimnok and Korgaah dead?",
+  "c": "T'chali is pleased that Korgaah and Grimnok Battleborn are pushing up daisies just like him.$B$BBut T'chali's thirst for revenge is not quenched. There's one more thing that you must do!"
+ },
+ {
+  "id": 10544,
+  "t": "A Curse Upon Both of Your Clans!",
+  "o": "Use the Wicked Strong Fetish to curse 5 buildings or towers in Bladespire Hold and 2 in Bloodmaul Outpost.",
+  "d": "T'chali wants revenge on all of the ogres!$B$BT'chali was a powerful witch doctor in life.  If you reach into me grave you will find a wicked strong fetish.$B$BInvoke the fetish's magic at the entrances to the buildings and towers of both Bladespire Hold and Bloodmaul Outpost.  The voodoo you work will summon an evil spirit that you must defeat.  This in turn will curse that building.$B$BBeware, if you attempt to curse a building that is already cursed, you will call down another cursed spirit!",
+  "p": "T'chali does not want to speak again until $N has used the fetish to curse the buildings and towers of both the Bladespire and Bloodmaul clans!",
+  "c": "Hahaha, revenge is sweet!$B$BBut, T'chali can see you be interested in moving on now that you help him get his revenge. I hear you, mon... life is for the living.$B$BTell you what, T'chali got lots of goodies still left here in his grave. You pick the one you like best!"
+ },
+ {
+  "id": 10545,
+  "t": "Bladespire Kegger",
+  "o": "Use the Bloodmaul Brutebane Keg to get 5 Bladespire Ogres drunk.",
+  "d": "As T'chali was saying, he helped out his Bloodmaul friends to make their brew.  But what T'chali did not say was why.$B$BThe Bloodmaul are in dire straits.  The Bladespire clan be crushing them, and they needed a new weapon to help out with their fight.$B$BThat's when T'chali came up with a great idea.  Why not make the perfect brew, one that strengthens you and weakens your enemy?  Only thing is, T'chali does not know if it works.$B$BSo, you gonna take this brew up to Bladespire Hold and see if it works!",
+  "p": "Tell T'chali... did the brew work? Did the Bladespire ogres like it?",
+  "c": "That's good news! That brew is gonna come in handy with what T'chali is gonna ask you to do next."
+ },
+ {
+  "id": 10546,
+  "t": "Borak, Son of Oronok",
+  "o": "Find Borak, Son of Oronok near Eclipse Point in Shadowmoon Valley.",
+  "d": "While Ar'tor was off hunting and Grom'tor was off fighting, Borak studied. Eventually he took up a vocation as a scholar and left for the wilds of Draenor. He returned home a few years ago a changed orc.$B$BHis heightened sense of awareness and mental acuity had forged a silent assassin.$B$BNow a confident and powerful orc, he has taken to recovering the most guarded piece of the cipher.$B$BFind Borak hiding near Eclipse Point, far to the south. He watches from the shadows of the bridge.",
+  "p": "",
+  "c": "<Borak is silent for a moment.>$B$BI've been watching these blood elves for weeks now, trying to get a lock on where they've hidden the third part of the Cipher of Damnation.$B$BThus far, I've been unsuccessful in gathering any clues. The only thing I do know is that Illidan sends an envoy from the Black Temple here once a day.$B$BThis envoy is untouchable. I've shadowed him for a week, trying to figure out how to separate him from his bodyguard. Unfortunately, the bodyguard never leaves his side."
+ },
+ {
+  "id": 10547,
+  "t": "Of Thistleheads and Eggs...",
+  "o": "Borak, Son of Oronok at the bridge north of Eclipse Point wants you to find a Rotten Arakkoa Egg and deliver it to Tobias the Filth Gorger in Shattrath City, located in northwest Terokkar Forest.",
+  "d": "I'd have given up had I not noticed... He's a Thistlehead. I couldn't place it at first but the signs are all there...$B$BNow if we could get our hands on some bloodthistle, we'd be in business.$B$BIn my travels, I met a shady Broken in Shattrath named Tobias.$B$BTobias made a business of trading bloodthistle to blood elves for rotten arakkoa eggs.$B$BDirectly west of here are arakkoa ruins. Search them for an egg and head to the lower city of Shattrath. That's where you'll find Tobias.",
+  "p": "<Tobias raises an eyebrow.>$B$BBloodthistle? Never heard of it... Are you a peacekeeper? You know you'd have to tell me if you were... I've got rights!",
+  "c": "You've got a rotten arakkoa egg? Well why didn't you say so! I think we can do business.$B$B<Tobias smiles, exposing a mouthful of decay and filth.>"
+ },
+ {
+  "id": 10548,
+  "t": "The Sad Truth",
+  "o": "Eralan in Tranquillien wants you to retrieve the Archeologist's Shrunken Head from one of the chests in Zeb'Tela or Zeb'Nowa.",
+  "d": "Remember how I told you about the fat merchant who was looking for that ring?  As it turns out, he had his archeologist son looking for the thing and it didn't turn out so well.  By not so well I mean they killed him and shrunk his head.$b$bNow this might seem cold, calculating, and exceptionally callous, but he'd pay a lot to get his son's head back.  Sounds like the perfect job for you!$b$bGo east until you find the troll ruins of Zeb'Tela and Zeb'Nowa.  You're bound to find it one of the chests there.",
+  "p": "How's the head hunting?",
+  "c": "Oh, wow. That is not pretty. I'm sure the merchant will appreciate it more than me.$B$BAs payment, the merchant offered to buy one of my special stock items for you, so take your pick sweetie!"
+ },
+ {
+  "id": 10549,
+  "t": "REUSE",
+  "o": "Eralan in Tranquillien wants you to retrieve the Archeologist's Shrunken Head from one of the chests in Zeb'Tela or Zeb'Nowa.",
+  "d": "Remember how I told you about the fat merchant who was looking for that ring?  As it turns out,he had his archeologist son looking for the thing and it didn't turn out so well.  By not so well I mean they killed him and shrunk his head.$b$bNow this might seem cold,calculating,and exceptionally callous,but he'd pay a lot to get his son's head back.  Sounds like the perfect job for you!$b$bGo east until you find the troll ruins of Zeb'Tela and Zeb'Nowa.  You're bound to find it one of the chests there.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10550,
+  "t": "The Bundle of Bloodthistle",
+  "o": "Take the Bundle of Bloodthistle back to Borak, Son of Oronok at the bridge near Eclipse Point in Shadowmoon Valley.$B",
+  "d": "I wasn't lying. That egg was incredible. Where did you get it from?$B$BWell, if you ever need more bloodthistle, you know where I am and what I need.$B$BHere's a bundle of the stuff. Take it back to your benefactor.",
+  "p": "Do you have the bloodthistle?",
+  "c": "Now to set the trap!"
+ },
+ {
+  "id": 10551,
+  "t": "Allegiance to the Aldor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N?  The Aldor will welcome you as an ally, but the Scryers will not easily forgive your decision."
+ },
+ {
+  "id": 10552,
+  "t": "Allegiance to the Scryers",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N?  The Scryers will welcome you as an ally, but the Aldor will not easily forgive your decision."
+ },
+ {
+  "id": 10553,
+  "t": "Voren'thal the Seer",
+  "o": "Speak to Voren'thal the Seer inside the Seer's Library at the Scryer's Tier in Shattrath City.$B$BPerforming quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "Now that you've chosen a side, $N, you should meet the Scryers' leader.$B$BYou will find Voren'thal the Seer inside the Seer's Library at the Scryer's Tier.$B$BSee if you can be of assistance to him.  He will be glad to hear you've decided to lend them a hand.",
+  "p": "",
+  "c": "Khadgar sends a new recruit?  Let us put you to work, $c."
+ },
+ {
+  "id": 10554,
+  "t": "Ishanah",
+  "o": "Speak to Ishanah inside the Shrine of Unending Light at the Aldor Rise in Shattrath City.$B$BPerforming quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "Now that you've decided to side with the Aldor, you'd do well to introduce yourself to their leader.  You will find High Priestess Ishanah inside the Shrine of Unending Light.",
+  "p": "",
+  "c": "Welcome, $N. I'm glad to hear you've decided to join us in our mission. May the Light always protect you."
+ },
+ {
+  "id": 10555,
+  "t": "Malaise",
+  "o": "Collect 18 Plucked Lashh'an Feathers.",
+  "d": "The magic practiced by the Lashh'an arakkoa is unnatural. They rip out handfuls-clawfuls?-of their own feathers as reagents!$b$bThat doesn't sound like good magic to me. I've come here to learn more about their spells. Unfortunately getting close is too much for me.$b$bYou could succeed: cast one of their spells on yourself, then return to me. You'll have to find one of their spellbooks, high up in the trees of Veil Lashh.$b$bAnd unless you've grown feathers I can't see, you'll need to get some of those.$B",
+  "p": "From the crude pictographs on the pages of the aged tome, you discern that a large number of Lashh'an feathers will be needed when casting the spells contained within.",
+  "c": "Flipping through the pages of the scratched notes and spindly script of the Lashh'an arrakoa, you find a page with a pictogram of the circles of power you have seen in Veil Lashh."
+ },
+ {
+  "id": 10556,
+  "t": "Scratches",
+  "o": "Use the Fistful of Feathers on the Lashh'an Spell Circle.",
+  "d": "The pictograms indicate using feathers to cast the spell at one of the circles of power in Veil Lashh.$b$bConfusing iconography seems to show an arakkoa being suffused with the spirit of a kaliri.",
+  "p": "This is exciting! I can't wait to examine the workings of the spell.",
+  "c": "I don't know what to say. This spell is very strange. It is not a simple conjuration or enchantment, but some sort of communion or communication spell.$B$BI'm not sure what to make of it, $N. I'll have to think about it some more.$B$BBut thanks for your help, anyways! I'm sure I'll think through this sooner or later.$BGains."
+ },
+ {
+  "id": 10557,
+  "t": "Test Flight: The Zephyrium Capacitorium",
+  "o": "Speak with Rally Zapnabber and use the Zephyrium Capacitorium.",
+  "d": "I built an amazing device, the Zephyrium Capacitorium, and I'm sure it'll work perfectly, but... do you want to help me test it?$B$BThere's plenty of hazard pay!$B$BSpeak with my twin over there, Rally. Good luck, $N. Come back after your experiment.  Or... if that's not possible due to sustained injuries, your next of kin can report to collect your pay.",
+  "p": "Don't be afraid! This is for science, and science is painful!",
+  "c": "Wow, you made it! And not a single bruise or compound fracture! See, I told you everything would work out!$B$BHere's your pay, $N, though I factored in medical expenses and you don't need those... so that's a bonus for you!"
+ },
+ {
+  "id": 10558,
+  "t": "Revered Among Honor Hold",
+  "o": "Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula wants you to become revered with Honor Hold by fighting Fel Orcs inside the Shattered Halls of Hellfire Citadel.",
+  "d": "You've proven your worth to our cause, $N.  One such as yourself could one day become a great leader.$B$BContinue to fight our enemies in the Shattered Halls and gain renown among my men.  If you live up to my expectations I will have greater tasks to ask of you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10559,
+  "t": "Revered Among Thrallmar",
+  "o": "Nazgrel at Thrallmar in Hellfire Peninsula wants you to become revered with Thrallmar by fighting the Fel Orcs inside the Shattered Halls of Hellfire Citadel.",
+  "d": "You've proven yourself time and again, $c.  Yet more trials await you.$B$BContinue to fight the Fel Horde inside the Shattered Halls of Hellfire Citadel and your name will be known to all of Thrall's followers in this land.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10560,
+  "t": "Revered Among the Sha'tar",
+  "o": "A'dal in Shattrath City wants you to become revered with the Sha'tar by defeating the forces of Kael'thas inside Tempest Keep.",
+  "d": "<The calming melodic tones projected by A'dal become more hushed and somber.>$B$B<You are shown the large naaru structure known as Tempest Keep.  It is now inhabited by the forces of Kael'thas and its power used for nefarious ends.  A'dal promises you greater tasks once you've done your part to take back Tempest Keep.>",
+  "p": "",
+  "c": "<A'dal appears to be extremely pleased with you.  With your help Tempest Keep will one day reclaimed from the clutches of evil.>"
+ },
+ {
+  "id": 10561,
+  "t": "Revered Among the Keepers of Time",
+  "o": "Andormu inside the Caverns of Time in Tanaris wants you to become revered with the Keepers of Time by continuing to defend the events of Old Hillsbrad and the Black Morass inside the Caverns of Time.",
+  "d": "You've proven yourself to us, $r.  The timeline is not yet safe, however.$B$BWe're in need of true champions and you may prove to be one.$B$BContinue to defend the events of the past from intruders and you'll get the renown you deserve.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10562,
+  "t": "Besieged!",
+  "o": "Wing Commander Nuainn, outside of Wildhammer Stronghold, wants you to kill 10 Infernal Attackers.",
+  "d": "Don't let your guard down, $r. We're under constant assault from the Burning Legion.$B$BFrom their base of Legion Hold to the northwest, the demons rain down a ceaseless stream of infernals. As quickly as we can kill them, the new meteors impact and begin a new wave of attacks.$B$BMy men are ragged and exhausted. I don't know how much longer they'll hold out. Please, $N, lend your help to our defenses. Take your place on the line and halt the advance of the infernals!",
+  "p": "Have you tired already, $c?",
+  "c": "Thank you for relieving my men, $N. With your help, and that of others, we may yet hold out. Unfortunately, merely holding out is not enough. We must go on the offensive."
+ },
+ {
+  "id": 10563,
+  "t": "To Legion Hold",
+  "o": "Make your way to Legion Hold and locate the Legion Communication Device. While standing near the communication device, use your disguise and learn about the Legion's plans. Return to Wing Commander Nuainn at Wildhammer Stronghold when you've completed your mission.",
+  "d": "The fortress of Legion Hold is nigh impregnable, and to be completely honest, I can't spare the forces for an assault. Our hopes are riding on you, $N.$B$BWhat little information we've been able to gather indicates that the Legion stocks and prepares its infernals at the hold. With the help of a disguise I'll give you, you must sneak into Legion Hold and learn about their plans. Your best hope is to intercept or overhear communication between their commanders. Good luck, $N.",
+  "p": "What did you discover? ",
+  "c": "<Wing Commander Nuainn listens to your report, growing more alarmed with each sentence.>$B$BSo you're saying they have more than enough infernals to intensify the bombardment? If we don't stop them before they can put the next phase of their plan into motion, Wildhammer Stronghold is finished."
+ },
+ {
+  "id": 10564,
+  "t": "Blast the Infernals!",
+  "o": "Use the Fel Bomb while standing on the green glyph in Legion Hold, then report to Wing Commander Nuainn at Wildhammer Stronghold.",
+  "d": "The device we've assembled won't win any beauty contests, but it should be capable of destroying the infernals amassed at Legion Hold. Judging from what the fel reaver power core's energy did to the Fetid Pool, it holds a respectable amount of explosive power.$B$BIf you set the device off in the middle of the green glyph at the hold, it should be in range to hit all of the infernals.",
+  "p": "Have you found a way to destroy the Legion's infernal stockpile?",
+  "c": "Well done, $N! I wish I could say that the Legion would give up after a setback like this, but you and I know better than that. The Deathforge that you learned about during your reconnaissance mission will be our next target."
+ },
+ {
+  "id": 10565,
+  "t": "The Stones of Vekh'nir",
+  "o": "Collect and use a Vekh'nir Crystal at the Vekh'nir Spell Circle to create a Charged Vekh'nir Crystal.",
+  "d": "The arakkoa of Vekh'nir have been a thorn in our sides for many years. Some strange religion guides them, a religion which has the arakkoa in a frenzy of activity. They carry these crystals with them now, which they have turned to some dark purpose.$b$bI know something of their rituals. They take the crystals to their spell circles to infuse them. We at the village would like to know more. Waylay a few of the arakkoa until you find a crystal, charge it, then return it to me.",
+  "p": "The Vekh'nir arakkoa have been benign for many years, but now something has stirred them.",
+  "c": "Ah, look how it glows! I must try this at once."
+ },
+ {
+  "id": 10566,
+  "t": "Trial and Error",
+  "o": "Try out each of Dertrok's wands on an Arakkoa Ogre Slave. Each wand will require an Infused Vekh'nir Crystal to use.",
+  "d": "I've fashioned four wands that I believe will enhance the power of the arakkoa's crystals. Take these wands to Trogma's Claim, and try them on the ogre slaves.$b$bYou'll need to find an infused crystal off of the arakkoa in the area.$b$bWhen you figure out which is best, come back to me.",
+  "p": "I eagerly await your results, $N.",
+  "c": "This information will be every helpful, $N. I will further refine that design and see if we can't expand its utility."
+ },
+ {
+  "id": 10567,
+  "t": "Creating the Pendant",
+  "o": "Collect 6 Ruuan'ok Claws and use them at the Ruaan'ok Oracle Circle to summon a Harbinger of the Raven. Kill it to collect its Harbinger's Pendant.",
+  "d": "The arakkoa of Ruaan Weald elevate from their flock the Harbingers of the Raven, the heralds of their god.$b$bThey believe that the Harbingers watch over them from the sky, where they receive the teachings of the Raven, and descend to pass this message along.$b$bThe Harbingers hold a powerful sway over the souls of the arakkoa. They use magical pendants, which we need.$b$bAttract one of the Harbingers by slaying its flock and taking their claws. Place the claws upon the altar to get his attention.",
+  "p": "Once the Harbinger is aware of your attack upon his flock, he will be quick to respond.",
+  "c": "You have it!$B$BWith this pendant, I will be able to attune you to the arakkoa of Grishnath in such a way that will enable you to comprehend their speech.$B$BWith this, we may gain further understanding of the arakkoa, and the nature of the Raven. I will need your help to do this."
+ },
+ {
+  "id": 10568,
+  "t": "Tablets of Baa'ri",
+  "o": "Anchorite Ceyla at the Altar of Sha'tar wants you to collect 12 Baa'ri Tablets from the ground and from Ashtongue Workers at the Ruins of Baa'ri.$B$BCompleting quests with the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "Years ago, the dreaded warlock known as Gul'dan raised the volcano in the middle of Shadowmoon.  The draenei village of Baa'ri, to the southwest, was buried under the lava along with its inhabitants and artifacts of religious importance.$B$BThe treacherous tribe of Broken known as the Ashtongue has been ordered by Illidan to excavate the area.  We must use this opportunity to recover the Tablets of Baa'ri, an ancient text rumored to hold the secrets of the Temple of Karabor, now known as the Black Temple.",
+  "p": "Have you found the tablets yet, $N?",
+  "c": "The Baa'ri tablets! Yes, this might provide us with very useful information."
+ },
+ {
+  "id": 10569,
+  "t": "The Sketh'lon Wreckage",
+  "o": "Recover the Skethlon Commander's Journal Page 1, Skethlon Commander's Journal Page 2, and Skethlon Commander's Journal Page 3 from the Dark Conclave arakkoa at the Sketh'lon Wreckage to Gryphonrider Kieran.",
+  "d": "Our scouts have brought back disturbing reports from the ruined arakkoa encampments in the area.$B$BThe ghosts of powerful arakkoa magicians wield powers we never thought they possessed. They seem to be organizing, as though preparing for something, but our knowledge is limited. We cannot afford to remain ignorant!$B$BTravel north to the Sketh'lon Wreckage, to the northwest of the Deathforge and search for signs of their motives.",
+  "p": "What have you discovered?",
+  "c": "<Kieran leafs through the journal pages.>$B$BMuch of this is unintelligible. but I can make out bits here and there about preparations for a spell gone awry. casualties, and a deteriorating situation. There's also a curious note here about a 'deserter.'"
+ },
+ {
+  "id": 10570,
+  "t": "To Catch A Thistlehead",
+  "o": "Borak, Son of Oronok at the bridge near Eclipse Point in Shadowmoon Valley wants you to recover the Stormrage Missive.",
+  "d": "<Borak takes the bundle of bloodthistle from you and places it to his nose.>$B$BPungent...$B$BNow, take this bundle and place it at the other end of this bridge. When the envoy makes his daily rounds, he will be compelled to pick it up - without his bodyguard. You see, blood elves look down upon bloodthistle addicts. If any of his compatriots ever found out...$B$BAll you need to do is lie in wait for him to dismiss his bodyguard. When he is alone, make your strike! Kill him and take the missive.",
+  "p": "Be quick about it, $Gboy:girl;.",
+  "c": "<Borak takes the missive from you and begins to read.>$B$BClever bastards! This is a directive from Illidan that dictates where the cipher is to be hidden next. Apparently, they keep it moving. It does not tell us where it currently rests... If only we could deliver the missive now that we know the next location.$B$BToo bad the seal on the missive is broken, rendering it unusable.$B$BHrm... Yet..."
+ },
+ {
+  "id": 10571,
+  "t": "Oronu the Elder",
+  "o": "Anchorite Ceyla at the Altar of Sha'tar wants you to obtain the Orders from Akama from Oronu the Elder at the Ruins of Baa'ri.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "According to the tablets, an artifact known as a Medallion of Karabor was kept at Baa'ri.  Only the highest-ranking draenei priests were granted these, as they allowed unfettered access into the Temple of Karabor.$B$BWe must find out whether the Ashtongue have recovered the medallion that was kept at Baa'ri yet.  Its power would provide great aid in our fight against Illidan.$B$BAkama's lieutenant at Baa'ri, Oronu the Elder, receives written orders from him daily.  Obtain them and bring them to me.",
+  "p": "Any news yet, $N? Time is not on our side.",
+  "c": "Akama's very own handwriting. It is truly sad to think of what became of one as wise and beloved as he."
+ },
+ {
+  "id": 10572,
+  "t": "Setting Up the Bomb",
+  "o": "Obtain a Fel Reaver Power Core and a Fel Reaver Armor Plate and bring them to Wing Commander Nuainn at Wildhammer Stronghold.",
+  "d": "We cannot permit the Legion to carry out its plan to destroy Wildhammer Stronghold on their march to the Black Temple.$B$BThere's only one way to stop them, $N. You must create an explosive large enough to destroy the Legion's entire stockpile of infernals at the hold.$B$BThe Fetid Pool near Legion Hold holds an old fel reaver power core you could use as the base of your device. Search the other wreckage near the fel reaver for armor plating we might be able to make a casing from.",
+  "p": "<You hand the materials to the wing commander.>",
+  "c": "<The wing commander inserts the power core into the armor plates and seals the device shut, nodding.>$B$BThis should do the trick. Should make quite an explosion too, if I do say so m'self."
+ },
+ {
+  "id": 10573,
+  "t": "The Deathforge",
+  "o": "Report to Stormer Ewan Wildwing at the Deathforge Tower.",
+  "d": "From your findings at Legion Hold, we know that the Legion's Shadow Council allies are producing infernals in the Deathforge. I've dispatched a small scouting party to keep watch over the area, but they're not able to accomplish everything we need.$B$BIf the Deathforge is left alone to operate, they'll rebuild the infernal stockpile that you destroyed at Legion Hold.$B$BI want you to meet up with Stormer Ewan Wildwing, at the Deathforge Tower, to the northwest, overlooking the Deathforge itself.",
+  "p": "",
+  "c": "<The dwarf nods.>$B$BIt'll be good to have the backup. We've gathered some preliminary information on what the Shadow Council is up to in there, but I'll feel better once we're able to start taking action against them."
+ },
+ {
+  "id": 10574,
+  "t": "The Ashtongue Corruptors",
+  "o": "Obtain the four medallion fragments from Haalum, Eykenen, Lakaan and Uylaru and return to Anchorite Ceyla at the Altar of Sha'tar in Shadowmoon Valley.$B$BPerforming quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "According to Akama's letter, four fragments of the medallion were unearthed and given to the Ashtongue Corruptors.  These dreaded Broken were once powerful shaman who now defile the very elements they revered.$B$BHaalum, Corruptor of Air, can be found at Netherwing Pass.  Eykenen and Uylaru, Corruptors of Earth and Fire, were last seen at the Fel Pits near the Hand of Gul'dan.  Lakaan, Corruptor of Water, is rumored to be near Coilskar Point.$B$BFind them and obtain the medallion fragments.",
+  "p": "Have you obtained the four medallion fragments, $N?",
+  "c": "Yes! The four fragments of the medallion. Now to put them together..."
+ },
+ {
+  "id": 10575,
+  "t": "The Warden's Cage",
+  "o": "Anchorite Ceyla wants you to enter the Warden's Cage, south of the Ruins of Baa'ri and interrogate Sanoru on Akama's whereabouts.$B$BCompleting quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "The fragments you obtained are only half of the medallion.  The Ashtongue leader, Akama, must have kept the other half.$B$BI dread to ask this of you, as Akama is both evil and cunning.$B$BHe and the Ashtongue Deathsworn - the vilest and most brutal of the tribe - are rumored to run a torture chamber inside the Warden's Cage.$B$BI want you to find that dreaded prison,  and find the whereabouts of Akama.  His second in command at the location is a Broken known as Sanoru - interrogate him if you have to.",
+  "p": "",
+  "c": "We've been expecting you, $N. Akama said you would arrive sooner or later."
+ },
+ {
+  "id": 10576,
+  "t": "The Shadowmoon Shuffle",
+  "o": "Borak, Son of Oronok at the bridge near Eclipse Point in Shadowmoon Valley wants you to recover 6 pieces of Eclipsion Armor.$B",
+  "d": "<Borak looks you up and down.>$B$BThis is going to be tricky, but I think I can make it work.$B$BI can disguise you as one of these Illidari blood elves, $N. What I need first, though, are several pieces of their armor. It is imperative that the armor be clean. No blood stains! We want to avoid suspicion.$B$BBring me the gear and I'll take care of the rest of the disguise.$B$BOnce the disguise is assembled, you're going to deliver the message to the Grand Commander - in person.",
+  "p": "It's far too complicated, $R. You wouldn't understand.",
+  "c": "Well done, $N. I hope you are a good actor. The next step in my grand plan is going to require some theatrics!"
+ },
+ {
+  "id": 10577,
+  "t": "What Illidan Wants, Illidan Gets...",
+  "o": "Borak, Son of Oronok at the bridge near Eclipse Point in Shadowmoon Valley wants you to Deliver Illidan's Message to Grand Commander Ruusk at Eclipse Point.",
+  "d": "Take this disguise and enter Eclipse Point. Once inside, use the disguise to cloak yourself. The Eclipsion blood elves will be unable to see through the disguise, thereby granting you safe passage to Grand Commander Ruusk.$B$BOnce you find Ruusk, tell him where next to move the cipher. You're going to have to act your heart out, $N. Play it off as if you are his superior, delivering a message from his lord. That should do it!$B$BOh - watch out for the dragonhawks as they see through the disguise.",
+  "p": "The disguise is delicate. Almost any action, aside from walking, will disrupt the magic holding it together.",
+  "c": "Now all you need to do is go get the cipher. Easy, right?"
+ },
+ {
+  "id": 10578,
+  "t": "The Cipher of Damnation - Borak's Charge",
+  "o": "Borak, Son of Oronok at the bridge near Eclipse Point in Shadowmoon Valley wants you to recover the Third Part of the Cipher of Damnation from Ruul the Darkener.$B$BThis mission will require a group.",
+  "d": "That Cipher fragment will never reach Zuluhed. You're going to ambush Ruul the Darkener and his transport before it has a chance to make the delivery.$B$BThe Dragonmaw Fortress is directly east of here, across the Netherwing Fields. Somewhere between Dragonmaw Fortress and the Sanctum of the Stars is where you'll find Ruul. Strike hard and strike fast! And $N, from the sound of it, this Ruul is going to be tough. Keep your guard up.$B$BReturn the Cipher to me should you succeed.$B",
+  "p": "You must act quickly!",
+  "c": "Finally! The cipher fragment is ours!$B$B<Borak places the fragment into a box.>"
+ },
+ {
+  "id": 10579,
+  "t": "The Cipher of Damnation - The Third Fragment Recovered",
+  "o": "Take Borak's Lockbox to Oronok Torn-heart at Oronok's Farm in Shadowmoon Valley.",
+  "d": "Take this box to my father. He still resides at Oronok's Farm, far to the north, above Coilskar Cistern. When all three fragments are pieced together, the ancient words will be known once more.$B$BGood luck, $N. Tell my father that I will be home soon.",
+  "p": "$N!",
+  "c": "As soon as all three of the fragments of the cipher are together, the ancient words will be known.$B$BRecovery of this fragment was no doubt challenging. You must be rewarded for such heroism."
+ },
+ {
+  "id": 10580,
+  "t": "Where Did Those Darn Gnomes Go?",
+  "o": "Search the southern area of the Jagged Ridge of the Blade's Edge Mountains for a clue as to the whereabouts of Toshley and the other gnomes.",
+  "d": "Despite the good that we've done here, I feel bad about one thing: driving Toshley and his gnome friends away.$B$BWe had no choice; they were making a mess of our efforts in the grove with all of their technology and experimentation.$B$BI would appreciate it if you would find out what became of them.  Last we heard, they headed east across the bridge.  I'm certain that they must have turned south, away from Thunderlord Stronghold.$B$BLook for a clue as to their whereabouts in the southern Jagged Ridge.",
+  "p": "",
+  "c": "SYLVANAAR? COMMANDER SKYSHADOW?$B$BTHIS DOES NOT COMPUTE!$B$BBACK AWAY BEFORE I AM FORCED TO PLAY LOUD SOUNDS AT YOU!"
+ },
+ {
+  "id": 10581,
+  "t": "Follow the Breadcrumbs",
+  "o": "Follow the trail of spare parts up the ramp to the Razor Ridge. Speak with Toshley at Toshley's Station in the Blade's Edge Mountains.",
+  "d": "VERY WELL, I AM HEREBY WARNING YOU THAT YOU WILL FIND NOTHING UP ON THE RIDGE.$B$BDO NOT FOLLOW THE TRAIL OF SPARE PARTS THAT LEAD TO TOSHLEY'S STATION!  YOU WILL NOT FIND TOSHLEY, NOR ANY OTHER GNOME THERE.",
+  "p": "",
+  "c": "Alright, you want to make yourself useful? Good, I have just the thing that you can prove yourself with.$B$BI think you'll like it."
+ },
+ {
+  "id": 10582,
+  "t": "Minions of the Shadow Council",
+  "o": "Stormer Ewan Wildwing at the Deathforge Tower wants you to kill 10 Deathforge Guardians and 5 Deathforge Summoners.",
+  "d": "<Ewan listens to you recount the events at Legion Hold, nodding.>$B$BThat puts our observations into perspective. We've caught glimpses of them launching infernals in the direction of the hold, but haven't been able to find much more than that.$B$BThe Shadow Council has the Deathforge sealed tighter than a new keg o' thunderbrew. The first thing you'll need to do is crack some skulls so you can get in there and poke around. Start eliminating the Shadow Council guarding the entrance to the Deathforge!",
+  "p": "Have you cleared a way into the Deathforge yet?",
+  "c": "I wish I could've been out there with you! I've been itching to put my hammer to use, but my mission is to observe, not to kill.$B$BNow that you've punched a hole in their defenses, let's get to work on shutting down production in the Deathforge."
+ },
+ {
+  "id": 10583,
+  "t": "The Fate of Flanis",
+  "o": "Stormer Ewan Wildwing at Deathforge Tower wants you to search the Deathforge for Flanis Swiftwing and recover Flanis's Pack.",
+  "d": "Wing Commander Nuainn originally sent three of us out here to keep watch over the Deathforge and to gather information. Flanis Swiftwing volunteered to try to infiltrate the Deathforge, but we haven't heard anything from him in days.$B$BI fear the worst, $N. Flanis is a skilled scout, but if he's gotten in over his head, we have no way of knowing. Search the Deathforge for him and recover any information or items he might have collected.",
+  "p": "Did you find any sign of Flanis in the Deathforge?",
+  "c": "<Ewan shakes his head as he accepts the pack from you>$B$BI don't think Flanis realized how heavily guarded the Deathforge would be. Now that we know what's really going on there, I don't blame them. I just wish Flanis had known that when he went in.$B$BI can only hope there's something here that will help us shut down the Deathforge once and for all."
+ },
+ {
+  "id": 10584,
+  "t": "Picking Up Some Power Converters",
+  "o": "Use the Protovoltaic Magneto Collector to collect 5 Electromentals.",
+  "d": "Those dumb ogres at the Bladespire Outpost to the north have been raiding our power converters!  And you're going to get them back for me, sort of.$B$BNo doubt, with their big, clumsy hands, the ogres have damaged the converters.  So, what I want you to do is release the energy from them and then use this protovoltaic magneto collector on the resultant electromental to encase it.$B$BIt'll likely be sore with you, so you'll need to 'kill' it while it's contained in the magneto sphere.",
+  "p": "This line of research we have going with the electromentals is exciting! Just think of it... intelligent electrical creatures that we can create at will and that will follow our every instruction!",
+  "c": "Excellent! With all of this power that you've recovered we'll be able to keep the machinery running for a little while, anyway.$B$BThe Zephyrium Capacitorium is a real pig when it comes to power consumption!$B$BI hope dealing with those electromentals wasn't too difficult. I have something else in mind for you to do, and I have a feeling that it's going to be a little more dangerous."
+ },
+ {
+  "id": 10585,
+  "t": "The Summoning Chamber",
+  "o": "Obtain an Elemental Displacer from a Deathforge Smith or Deathforge Tinkerer and use it to disrupt the ritual in the summoning  chamber. Report to Stormer Ewan Wildwing at the Deathforge Tower when you've completed your task.",
+  "d": "In order for the Shadow Council to construct infernals as quickly as they're being used, they must have an area dedicated to summoning the corrupted elementals that serve as the souls of the creatures.$B$BThe summoning chamber is likely to be found below ground, near a pool of fouled water or lava. Locate the summoning chamber within the Deathforge and find a way to end their summoning ritual. The mo'arg involved in making the infernals may carry a tool that will help disrupt the summoner's magics.",
+  "p": "We cannot afford to let their production continue. Have you put an end to the summoning ritual?",
+  "c": "Well done, $N. Disrupting the Shadow Council's summoning puts us one step closer to shutting down the Deathforge."
+ },
+ {
+  "id": 10586,
+  "t": "Bring Down the Warbringer!",
+  "o": "Defeat Warbringer Razuun, recover Razuun's Orders, and report to Wing Commander Nuainn at Wildhammer Stronghold.",
+  "d": "We've made a lot of progress against the Shadow Council's operations at the Deathforge, but if we're to truly be triumphant, we'll need to defeat the Legion's overseer there.$B$BI found a key among the items in Flanis's pack. I'm certain it will prove useful in tracking down this Warbringer Razuun you observed at Legion Hold.$B$BAfter you've hunted down and dealt with Warbringer Razuun, report directly to Wing Commander Nuainn. He'll want to know immediately!",
+  "p": "What news do you bring from the Deathforge?",
+  "c": "<You make your report to the wing commander and hand over the captured orders.>$B$BDefeating Warbringer Razuun should've meant the end of our troubles with the Legion, but these orders outline a much larger plan that I had anticipated. I fear that more remains to be done."
+ },
+ {
+  "id": 10587,
+  "t": "Karabor Training Grounds",
+  "o": "Exarch Onaala at the Altar of Sha'tar wants you to obtain 8 Sunfury Glaives from Demon Hunter Supplicants and Demon Hunter Initiates at the Ruins of Karabor, southeast of the Altar of Sha'tar.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "Our scouts have reported a massive influx of Sunfury blood elf recruits heading to the Ruins of Karabor.  Normally this would represent a purely military threat, however we believe something else is amiss.$B$BDescriptions of their attire and fighting style are suspiciously close to that of Illidan himself.  I do not want to become alarmed without good reason, so I would like you to go there and bring me back their weapons.  We will then determine whether my fears are unfounded or not.",
+  "p": "Have you completed the task I asked of you, $N?",
+  "c": "Let's take a closer look at these weapons, $N.  Hmmm... this is rather unsettling."
+ },
+ {
+  "id": 10588,
+  "t": "The Cipher of Damnation",
+  "o": "Use the Cipher of Damnation at the Altar of Damnation to summon Cyrukh the Firelord.$B$BDestroy Cyrukh the Firelord and then speak with Earthmender Torlok, also found at the Altar of Damnation.",
+  "d": "How many times has this spell been used in the history of our worlds? Undoubtedly, its power for destruction is unparalleled.$B$BWhat you must do now is take the cipher, now made whole, and read from it at the Altar of Damnation - where the memory of Gul'dan stands.$B$BWhat you will see once the words are uttered are the memories left imprinted upon the land. Stand your ground and await the coming of Cyrukh.$B$BYou must be victorious, $N. This land cannot withstand another shattering.",
+  "p": "Is it done?",
+  "c": "<Earthmender Torlok takes the Cipher of Damnation from you.>$B$BYou have done as the elements asked. For that, we are grateful. While you will be rewarded, trouble still looms. The spirits of fire are in turmoil. A claim has been made. The Cipher of Damnation is known by another.$B$BIt is cryptic, I know, but that is all that the spirits would have me know. That and this symbol...$B$B<Earthmender Torlok turns around and points to the sky.>$B$BWhat could it mean?"
+ },
+ {
+  "id": 10589,
+  "t": "Gaining Access",
+  "o": "Bring a Legion Teleporter Control to Wing Commander Nuainn at Wildhammer Stronghold. The Mo'arg Weaponsmiths at Legion Hold are known to carry the devices.",
+  "d": "According to Razuun's orders, the massive infernal staging area is called Invasion Point: Cataclysm and it's nestled in the northern mountains. The only way to reach it is by using a teleporter located at Legion Hold.$B$BCertain members of the Legion host carry devices allowing them to activate the teleporters. You must capture one of these devices to win access to the teleporter. Slaughter all of the demons if you must, but you can't afford to return empty-handed.",
+  "p": "We must find a way to destroy the rest of those infernals, $N. We've come far, but failure could still cost us everything.",
+  "c": "Let me see if I can find out how this works..."
+ },
+ {
+  "id": 10590,
+  "t": "Prove Your Hatred",
+  "o": "Mehlar Dawnblade at the Bulwark wants you to bring him 20 Minion's Scourgestones.",
+  "d": "It is time you remembered history that should not be forgotten... the slaughter of our people by Arthas and his Scourge army.$b$bVengeance on the Scourge is the only way to ease your pain.  It is unfortunate they are not susceptible to fear and pain.  Only their utter destruction will bring you even a shred of satisfaction.$b$bSpeak with Argent Officer Garush for knowledge of scourgestones and how to obtain them -- I will need to see many of them as proof of your commitment before we speak again.",
+  "p": "Have the Scourge crumbled beneath your weapon?",
+  "c": "Very good, $N. Perhaps you have a taste for revenge after all."
+ },
+ {
+  "id": 10592,
+  "t": "Wisdom of the Banshee Queen",
+  "o": "Bring the Scourgestone Fragments to Lady Sylvanas Windrunner in Undercity.",
+  "d": "The scourgestones are weak when separated from the skeletal grasp that once held them.  Simply holding them in my hands has caused them to fracture and break.$b$b<Mehlar crushes the scourgestones into a pile of rubble.>$b$bTake these fragments to the Banshee Queen, Lady Sylvanas Windrunner, at her throne in Undercity.  With her lies the knowledge to turn these remains into a weapon against the Scourge.",
+  "p": "Do you have something for me, $R?",
+  "c": "These stones carry a taint I do not wish to remember, but one I cannot forget. You try my patience dangerously by bringing these to me.$B$BHowever, it is clear your heart seeks the same vengeance as I, and I will aid you with instruction."
+ },
+ {
+  "id": 10593,
+  "t": "Ancient Evil",
+  "o": "Unlock the secrets of the Temple of Atal'Hakkar to release Atal'alarion and recover the Putrid Vine from his flesh.  Return to Mehlar at the Bulwark when you have done this.",
+  "d": "If you wish to turn these stones into a weapon to fight the Scourge, you must acquire something equally vile to fortify them.$b$bAn ancient evil lies hidden at the bottom of the Temple of Atal'Hakkar in the Swamp of Sorrows.  Release the creature there and destroy him, taking only a small part of his body back to Mehlar Dawnblade.  My guards will deliver the scourgestone fragments to Mehlar.",
+  "p": "Given that you are alive, I can only surmise you were lucky enough to receive wisdom rather than death from Lady Sylvanas.",
+  "c": "The Banshee Queen has guided you well. This is precisely what I need to combine the fragments.$B$B<Mehlar watches as the vine interweaves through the fragments, binding them together.>$B$BThere!  Scourgebane, I shall call it. Be wary when you use it, for it serves you against its will."
+ },
+ {
+  "id": 10594,
+  "t": "Gauging the Resonant Frequency",
+  "o": "Place the Oscillating Frequency Scanners in such a way that when you stand amongst them, you are hit by 5 overlapping Oscillation fields.",
+  "d": "Take these scanners to the Singing Ridge.  By dropping them in a pattern on the ground, you will create overlapping fields that will read the amplitude of the crystals.  Stand amidst them in such a way that you're in five oscillation fields and I'll have the information that I need!$B$BYour scanners will even work with those that others drop.$B$BOh, and it's likely that a rift will be formed!  I have no idea what, if anything, will come out of it, but be prepared for the worst.",
+  "p": "Well, do you have the measurements from the singing crystals that I asked for?",
+  "c": "Oh, this is extraordinary! I had no idea... it's almost as if those crystals are alive.$B$BI wonder if there's some sort of symbiotic relationship between them and the nether drakes?$B$BThank you, thank you! You must accept a little something from my collection of odds and ends that I wouldn't be caught dead wearing.$B$BOne of them might look good on you, though."
+ },
+ {
+  "id": 10595,
+  "t": "Besieged!",
+  "o": "Blood Guard Gulmok outside of Shadowmoon Village, wants you to kill 10 Infernal Attackers.",
+  "d": "<Gulmok looks to the sky.>$B$BOur scouts are putting up a good fight, but the infernals keep coming!$B$BFrom their base of Legion Hold to the southwest, the demons bombard us with impunity! Even the elite Kor'kron guard cannot hold them off forever.$B$BI'm drafting every able-bodied $r to do their part in defense of Shadowmoon Village. This is no game, $c. The survival of the village is at stake. Do your duty to the Horde, and join the fray!",
+  "p": "Have you tired already, $c?",
+  "c": "I'm impressed that you managed to survive the carnage. You just might be the person we need for a dangerous mission."
+ },
+ {
+  "id": 10596,
+  "t": "To Legion Hold",
+  "o": "Make your way to Legion Hold, locate the Legion Communication Device, and learn about the Legion's plans while in disguise. Return to Blood Guard Gulmok at Shadowmoon Village when you've completed your mission.",
+  "d": "The fortress of Legion Hold is your target. You'll have no reinforcements, so a frontal attack is out of the question.$B$BWhat little information we have shows that the Legion stocks and prepares its infernals at the hold. With the help of a disguise I'll give you, you must sneak into Legion Hold and discover their plans.$B$BYour best hope is to intercept or overhear communication between their commanders. ",
+  "p": "What did you discover?",
+  "c": "What do you mean they're going to step up the bombardment? We can't allow that to happen. Get back out there and take care of it while there's something left of Shadowmoon Village!"
+ },
+ {
+  "id": 10597,
+  "t": "Setting Up the Bomb",
+  "o": "Obtain a Fel Reaver Power Core and a Fel Reaver Armor Plate, then bring them to Blood Guard Gulmok at Shadowmoon Village.",
+  "d": "We can't allow the Legion to trample us on their march to Black Temple.$B$BFind a way to destroy the infernals they intend to use against us. That's not a request, $N; it's an order.$B$BThe Fetid Pool near Legion Hold holds an old fel reaver power core you could use as the basis for a kind of fel bomb. Search the other wreckage near the fel reaver for a section of armor plating. You should be able to make a bomb powerful enough to take out those infernals and give the hold a nice shake!",
+  "p": "<You hand the materials to Gulmok.>",
+  "c": "That should do the trick. I wouldn't want to be in the hold when that thing goes off."
+ },
+ {
+  "id": 10598,
+  "t": "Blast the Infernals!",
+  "o": "Use the Fel Bomb while standing on the green glyph in Legion Hold to destroy the infernals, then report to Blood Guard Gulmok at Shadowmoon Village.",
+  "d": "The device we've assembled won't win any beauty contests, but it should be capable of destroying the infernals amassed at Legion Hold. Judging from what the fel reaver power core's energy did to the Fetid Pool, it holds a respectable amount of explosive power.$B$BIf you set the device off in the middle of the green glyph at the hold, it should be in range to hit all of the infernals.",
+  "p": "Have you found a way to destroy the Legion's infernal stockpile?",
+  "c": "This is no time for celebration, $N. We're not out of the fire yet. I've got new orders for you."
+ },
+ {
+  "id": 10599,
+  "t": "The Deathforge",
+  "o": "Report to Scout Zagran at Slag Watch.",
+  "d": "While you were taking care of the infernals at Legion Hold, I've been going over your reports. We've got no reason to believe the Legion lied about what's going on at the Deathforge. They're really cranking out infernals down there, so I've dispatched a scouting party to keep watch over it.$B$BIf we don't shut down the Deathforge, they'll rebuild the infernal stockpile that you destroyed at Legion Hold.$B$BReport to Scout Zagran atop Slag Watch, to the southeast of here and overlooking the Deathforge.",
+  "p": "",
+  "c": "<The orc nods.>$B$BIt'll be good to have the backup. We've gathered some preliminary information on what the Shadow Council is up to in there, but it's time for the hammer to fall."
+ },
+ {
+  "id": 10600,
+  "t": "Minions of the Shadow Council",
+  "o": "Scout Zagran at Slag Watch wants you to kill 10 Deathforge Guardians and 5 Deathforge Summoners.",
+  "d": "<Zagran listens to you recount the events at Legion Hold, nodding.>$B$BThat fills in the gaps we've seen. We've caught glimpses of them launching infernals in the direction of the hold, but haven't been able to find much more than that.$B$BThe Shadow Council has the forge pretty much locked down. Looks like you're going to need to fight your way in. Start eliminating the Shadow Council guarding the entrance to the Deathforge!",
+  "p": "Have you cleared a way into the Deathforge yet?",
+  "c": "I'd've been down there cracking skulls myself, but I'm under strict orders not to engage the enemy.$B$BLet's get to work on shutting down production in there."
+ },
+ {
+  "id": 10601,
+  "t": "The Fate of Kagrosh",
+  "o": "Scout Zagran at Slag Watch wants you to search the Deathforge for Kagrosh and recover Kagrosh's Pack.",
+  "d": "The scouting party originally had three members. Unfortunately, Kagrosh decided he wanted to be a hero.$B$BHe descended into the Deathforge and we haven't heard from him since.$B$BIn all likelihood, the fool's gone and gotten himself killed. The Shadow Council members aren't idiots and Kagrosh wasn't exactly strong in the subtlety department, if you know what I mean. Keep an eye out for him in the Deathforge and recover any information or items he might have collected.",
+  "p": "Did you find any sign of Kagrosh in the Deathforge?",
+  "c": "<Zagran shakes his head as he accepts the pack from you>$B$BI told you he was a fool. I hope there's something in here that justifies the time you spent searching for him."
+ },
+ {
+  "id": 10602,
+  "t": "The Summoning Chamber",
+  "o": "Obtain an Elemental Displacer from a Deathforge Smith or Deathforge Tinkerer and use it to disrupt the ritual in the summoning chamber. Report to Scout Zagran at Slag Watch when you've completed your task.",
+  "d": "In order to churn out infernals as quickly as the Deathforge seems to, they must have an area dedicated to summoning the elementals that form the core of the infernals.$B$BThe summoning chamber is likely to be found below ground, near a pool of fouled water or lava. Locate the summoning chamber within the Deathforge and find a way to end their summoning ritual. The mo'arg involved in making the infernals may carry a tool that will help disrupt the summoner's magics.",
+  "p": "We cannot afford to let their production continue. Have you put an end to the summoning ritual?",
+  "c": "Good, we're making progress. That puts us one step closer to shutting down this facility and returning safely to Shadowmoon Village."
+ },
+ {
+  "id": 10603,
+  "t": "Bring Down the Warbringer!",
+  "o": "Defeat Warbringer Razuun, recover Razuun's Orders, and report to Blood Guard Gulmok at Shadowmoon Village.",
+  "d": "We've made a lot of progress against the Shadow Council here at the Deathforge, but now it's time to finish the job.$B$BI found a key among the items in Kagrosh's pack. At least he accomplished something before they got to him.$B$BThe key should help you to track down this Warbringer Razuun you observed at Legion Hold.$B$BAfter you've hunted down and dealt with Warbringer Razuun, report directly to Blood Guard Gulmok. We must not keep him waiting.",
+  "p": "What news do you bring from the Deathforge?",
+  "c": "<You make your report to the blood guard and hand over the captured orders.>$B$BGood work, $N, but don't go thinking you'll be getting any ribbons for it. Let the night elves decorate their pretty little uniforms if they wish. Real warriors share tales of battle over a mug of ale."
+ },
+ {
+  "id": 10604,
+  "t": "Gaining Access",
+  "o": "Bring a Legion Teleporter Control to Blood Guard Gulmok at Shadowmoon Village. The Mo'arg Weaponsmiths at Legion Hold are known to carry the devices.",
+  "d": "According to Razuun's orders, the massive infernal staging area is called Invasion Point: Cataclysm and it's located in the mountains behind our village! The only way to reach it is by using a teleporter at Legion Hold.$B$BCertain Legion minions carry a device allowing them to use the teleporter. You must capture one of these devices to win access to the teleporter. Slaughter all of the demons if you must, but you can't afford to return empty-handed. Do not delay; the enemy is perilously close.",
+  "p": "A Legion presence in our midst is intolerable! We must find a way to deal with it before they can renew their assault.",
+  "c": "At last, we have a means with which to drive the Legion from Shadowmoon!"
+ },
+ {
+  "id": 10605,
+  "t": "Carendin Summons",
+  "o": "Speak with Carendin Halgar in Undercity.",
+  "d": "You have a hungry look about you, $n.  Perhaps it is time you advanced your training.$b$bTravel to Undercity and speak with Carendin Halgar, the old bag of bones knows a trick or two you might find useful.",
+  "p": "",
+  "c": "Ah, yet another power hungry initiate. Wonderful!$B$BWouldn't be much of a $c if you didn't thirst for power, now would you boy? Let's get on with it."
+ },
+ {
+  "id": 10606,
+  "t": "The Art of Fel Reaver Maintenance",
+  "o": "Kill Doctor Gutrick and obtain the Doctor's Key. Use the key to open the Doctor's Strongbox to retrieve The Art of Fel Reaver Maintenance and deliver the book to Plexi at Invasion Point: Cataclysm.",
+  "d": "The best way to destroy the rest of the Legion's supplies is to use their own weapons against them. I've been working on a rig that will let you take control of one of those Fel Reaver Sentinels below.$B$BThere are a couple things I need to work out, yet. For that, I'll need the manual that Doctor Gutrick keeps locked in a chest at the bottom of the ramp. He probably won't give up the key without a fight, so you'll need to capture it. Bring the fel reaver manual back to me and I'll do the rest!",
+  "p": "Did you get that manual?",
+  "c": "Ah, this is exactly what we'll need. I'd never accuse the Legion of producing anything resembling literature, but it gets the job done."
+ },
+ {
+  "id": 10607,
+  "t": "Whispers of the Raven God",
+  "o": "Kill Grishna arakkoa to gain Understanding Ravenspeech for 2 minutes. While under the effects of the spell, you can find and receive the prophecy from the four shrines.",
+  "d": "At Grishnath, totems left by the Oracles of the Raven enable the arakkoa to hear the Word of the Raven. Unfortunately, the language of the arakkoa is indecipherable to us.$b$bUsing the Harbinger's pendant, we can understand it. You will be able to take the souls of the arakkoa to understand their language. While you are suffused with the arakkoa's spirit, you can visit the totems and understand their message.$b$bDiscover this for us, $n.",
+  "p": "What is this $N? What do they believe he will do? Where do they believe he will lead them?",
+  "c": "This is truly disturbing. The arakkoa were peaceful for a long time. This cult of the Raven was nothing more than a gathering of misfits and madmen.$B$BBut their power has grown, that we cannot discount. Perhaps there is more to this Raven than we know."
+ },
+ {
+  "id": 10608,
+  "t": "Crystal Clear",
+  "o": "Slay 10 Crystal Flayers.",
+  "d": "The damned rock flayers are keeping me from my research down in the Singing Ridge!  By digging at the crystals there, with every scratch they are ruining my chances of studying the harmonics of the singing crystals.$B$BYou look like someone who can help me deal with this problem.  Head south and clear those crystal flayers out.",
+  "p": "Have you cleared those crystal flayers out of the Singing Ridge yet? We can't get started on my research until you do.",
+  "c": "Good riddance to them; that's what I say. Filthy creatures!$B$BSo, if you're certain that you eliminated those pests, then I have a little research project for you. I think you'll like it."
+ },
+ {
+  "id": 10609,
+  "t": "What Came First, the Drake or the Egg?",
+  "o": "Collect 3 Proto-Nether Drake Essences, 3 Adolescent Drake Essences and 3 Mature Drake Essences.",
+  "d": "I'm researching the applications of drake essences to my work as a physician.  I think they could be a panacea for a host of maladies!$B$BI need someone to go south to the Singing Ridge and get me some.$B$BWilling to take my temporal phase modulator and use it on the nether whelps that hatch from the nether drake eggs?  Retrieve the essences from whatever they turn into.$B$BWhich, I might add, I'm not certain of what that will be as we're using some pretty dicey, time  and space modifying tech here.",
+  "p": "You have them? You have the three drake essences that I so dearly need to continue my research?$B$BYou know that those nether drake eggs used to be black dragon eggs? It's a fact! But when Draenor blew apart, the resultant nether that raced across what was left mutated the eggs.",
+  "c": "You've no idea how important this research could be. Thank you!$B$BIt'll be interesting to delve into these essences. I'm particularly curious to see if the nether effect that changed the black dragon eggs into nether dragon eggs resulted in any potential extra blessings for my studies.$B$BI'm thinking, in fact, that you should be the first person to test out the benefits of my little concoction. Here, take these preliminary samples and use them when you find the need."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12207,
+  "t": "Vordrassil's Fall",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to go to Vordrassil's Limb, Vordrassil's Heart or Vordrassil's Tears and obtain 6 Slime Samples from the Entropic Oozes.",
+  "d": "Long ago, powerful druids planted a tree to the northeast of here.$B$BIt was called Vordrassil and it was to be a world tree.  It is not known why, but after the tree was fully grown, the druids decided it needed to be destroyed.$B$BEver since we arrived here, the earth has spoken to me, $N.  Its cries of pain come from the places where Vordrassil's remains fell on the ground.$B$BCorrupting ooze roams those places.  Bring me samples of it so we may begin to heal the land.",
+  "p": "Have you obtained the samples, $N?",
+  "c": "This slime is foul with a darkness far more ancient than their worldly forms would indicate. The land itself has a memory of this evil for as long as it has existed.$B$BWe must find out more, $N."
+ },
+ {
+  "id": 12208,
+  "t": "Good Troll Hunting",
+  "o": "Sergeant Thurkin told you to speak to Samir at Granite Springs.",
+  "d": "Good for nothing wretches!$b$bThey could have had it easy. We extended our hand in peace. All they had to do was give us passage through Drak'Tharon and we'd have let them be.$b$bBut no, the prideful little ice trolls decided that they wanted it rough. Now they'll be destroyed and we'll pass through their precious keep to Zul'Drak anyway.$b$bWe've contracted a gang to deliver us captured trolls. Talk to Samir if you want in on the action. You can find him to the northwest of here, due south of Zeb'Halek.",
+  "p": "",
+  "c": "Here to get in on the bounty action, eh?"
+ },
+ {
+  "id": 12209,
+  "t": "Materiel Plunder",
+  "o": "Quartermaster Bartlett at Venomspite has asked you to steal 8 Scarlet Onslaught Armor and 8 Scarlet Onslaught Weapons.",
+  "d": "Ah good, new meat. Do you wish to prove yourself, new meat?$B$BThe Scarlet Onslaught, the most zealous and racist of the Scarlet Crusade, are in our backyard to the south. If we're going to fight them, we'll need more armor and weapons than I can make in such a short time.$B$BWhy don't we take theirs?$B$BMore to the point, why don't YOU take theirs?",
+  "p": "I'll take what armor and weapons you can steal for me, new meat.$B$BThough they'll be of inferior quality to what I can make here, it's better than nothing.",
+  "c": "You do not smell so fresh now, new meat.$B$BVery well, all of this will do. By what name might I call you, $c?"
+ },
+ {
+  "id": 12210,
+  "t": "Troll Season!",
+  "o": "Lieutenant Dumont at Amberpine Lodge wants you to speak to Samir at Granite Springs.",
+  "d": "You, $r! No sense standing around here when there's work to be done!$b$bDrak'Theron Keep is the most direct route to Zul'Drak. We MUST capture it to ensure safe passage for the Alliance. But until we get the numbers to make an assault, we'll have to content ourselves in thinning out the ice trolls and collecting intel.$b$bTo that end, we've conscripted a gang of thugs to capture and deliver live trolls for interrogation. Travel northwest and speak with Samir at Granite Springs. He'll direct you further.",
+  "p": "",
+  "c": "Here to get in on the bounty action, eh?"
+ },
+ {
+  "id": 12211,
+  "t": "Let Them Not Rise!",
+  "o": "Apothecary Vicky Levine at Venomspite has asked you to use her Container of Rats to pick clean the corpses of 15 Scarlet Onslaught members at New Hearthglen.",
+  "d": "I don't understand it. The blight should have worked!$B$BNo sense worrying about it now.$B$B<The apothecary seems relieved for some reason.>$B$BThough it doesn't work on the Onslaught for some strange reason, we still need to keep their priests from raising them.$B$BI have another idea, one that their corpses shouldn't have any protection from.$B$B$N, take a container of my rats and unleash them upon any Onslaught corpses you come across at New Hearthglen. I starve the vermin, so they should be voracious!",
+  "p": "Well? Success I assume?$B$BDon't tell me that they have some kind of protection against being eaten by rats?!",
+  "c": "Oh good! For a moment I thought I was going to have to test the rats out on someone to make sure that they weren't defective.$B$BProgress, finally!"
+ },
+ {
+  "id": 12212,
+  "t": "Replenishing the Storehouse",
+  "o": "Master Woodsman Anderhol at Amberpine Lodge wants you to kill Tallhorn Stag and collect 8 Succulent Venison.",
+  "d": "G'day, $c.$b$bThe good lieutenant here says that there's been a Horde raid on our storehouse that's left our food supply dangerously low.$b$bNo doubt we'll make those cretins pay, but first we need to focus our attention on restocking. My men are doing all they can, but we're going to need every able body to contribute if we're to avert a crisis.$b$bYou should have no trouble harvesting venison from the local stag in these parts. Happy hunting!",
+  "p": "How goes the hunt, $r?",
+  "c": "These are some choice pieces of meat!  "
+ },
+ {
+  "id": 12213,
+  "t": "The Darkness Beneath",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to go to Vordrassil's Heart, Vordrassil's Tears and Vordrassil's Limb and use the Geomancer's Orb in the depths beneath the surface.",
+  "d": "Something... dark... happened to the tree Vordrassil.  After the druids decided to destroy it, its hollow remains grew roots deep into the ground.$B$BI want you to go to the three locations to the northeast where the tree's trunk shattered and go as far beneath the ground as you can.$B$BUse this orb once you get there to get an imprint of the energy surrounding the area.  This might shed some light on what happened to Vordrassil and why it failed to become a world tree.",
+  "p": "Have you done what I asked of you, $N?",
+  "c": "This orb... it has been tainted by... a purely evil force.$B$BWhatever else I might learn from studying this energy, one thing is certain. I must destroy this orb as soon as possible. Its corrupting force is just too strong."
+ },
+ {
+  "id": 12214,
+  "t": "Fresh Remounts",
+  "o": "Hansel Bauer at Venomspite has asked you to steal 3 Onslaught Warhorses and deliver them to him, handing over the reins when you do so.",
+  "d": "Hello. I am Hansel. Pleased to meet you, $g sir : ma'am;.$B$BThe high executor came to me and said, 'Hansel, I want you to get us new mounts.'$B$BWhere does he think dreadsteeds come from? The ground?$B$B<whispering> Actually, they do if you can find a horse graveyard.$B$BBut we don't have one of those, so what we need you to do is go south to New Hearthglen, kill the knights, take their riding crops, and steal their warhorses.$B$BRide the horse back to me here and hand over the reins, if you would.",
+  "p": "I'm sure glad that you came around. I was afraid that I was going to have to go down there and rustle them up myself.",
+  "c": "Ah, nothing makes me happier than a job well done.$B$BYou've done Venomspite a great service in acquiring these horses, $c."
+ },
+ {
+  "id": 12215,
+  "t": "Them or Us!",
+  "o": "Anderhol at Amberpine Lodge wants you to find and kill 6 Graymist Hunters in Grizzly Hills.",
+  "d": "As if we didn't have enough to concern ourselves with....$b$bWith the present food crisis, we find ourselves competing for food with the local worgs. The situation is becoming more dire, and I fear that if we don't address the issue immediately we'll soon find ourselves with nothing to hunt.$b$bScour the forest, $r. Kill any graymist you find. Recent reports have sighted a concentration of them on the other side of the river west of here.",
+  "p": "A few less worgs hunting these forests, I trust?",
+  "c": "Good work, $c.$b$bThis should help ensure that the wildlife in these parts ends up where it should - roasting over our fires."
+ },
+ {
+  "id": 12216,
+  "t": "Take Their Rear!",
+  "o": "Anderhol at Amberpine Lodge wants you to collect 8 Grizzly Flanks from the Grizzly Bears in Grizzly Hills.",
+  "d": "We've all been working hard and it's beginning to pay off, but we're still far from our goal. We need much more meat than we have and it's growing clear that the local stag population won't be enough by itself.$b$bI'm afraid we need you to turn your attention to more dangerous prey - the grizzlies that give this region its name. They're plentiful, and they're well fed from the abundant fish that swim in these streams.$b$bBe safe, $c!",
+  "p": "The mighty $c has returned!",
+  "c": "Outstanding!$b$bOur stores are nearly replenished now. You've done your part, $N."
+ },
+ {
+  "id": 12217,
+  "t": "Eagle Eyes",
+  "o": "Anderhol in Amberpine Lodge wants you to kill 5 Imperial Eagles and then report back to him.",
+  "d": "Well, $n, we've determined how the Horde was able to locate our hidden stores of food.$b$bIt turns out that they were binding their sight to the unsuspecting eagles that soar above the trees here. Using eagle vision, they were able to effectively spy on our every action.$b$bBy order of the lieutenant, we've got to hunt down these majestic birds in order to thwart our enemy.",
+  "p": "Have you completed your task, $c?",
+  "c": "A somber task, I know. But we can rest easier now knowing the enemy's eyes are no longer upon us."
+ },
+ {
+  "id": 12218,
+  "t": "Spread the Good Word",
+  "o": "Chief Plaguebringer Middleton at Venomspite in Dragonblight wants you to use the Forsaken Blight Spreader's Blight Bomb to destroy 30 Hungering Dead on the outskirts of the Carrion Fields.",
+  "d": "Before I can ship you off to Doctor Malefious with the good news, you will have to run a simple field test of the blight with the modifications I have made.$B$BThe hungering dead stream out from what remains of Old Wintergarde. Commandeer a vehicle from the east gate and drive it northeast through Vengeance Pass until you reach the twin towers at the southeastern edge of Wintergarde. Drop the blight bomb on the undead that cover the area. Report back to me with the results!",
+  "p": "This test will be the final experiment in the series, $N.",
+  "c": "As much as it irritates me that we may have assisted the Alliance, I declare the field test a success! Next stop: Agmar's Hammer!"
+ },
+ {
+  "id": 12219,
+  "t": "The Failed World Tree",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to go to Vordrassil's Limb, Vordrassil's Heart or Vordrassil's Tears and obtain 6 Slime Samples from the Entropic Oozes.",
+  "d": "My ancestors once planted a tree in the middle of the Grizzly Hills.$B$BIt was called Vordrassil and it was to become a world tree.$B$BFor reasons long forgotten, after the tree was fully grown, they decided it needed to be destroyed.  Its giant trunk splintered at three locations in the area to the north.$B$BWhere the tree touched the ground, foul ooze began to crawl the earth.  Bring me slime samples so I can begin my work and the earth can be healed.",
+  "p": "Have you gathered the samples, $N?",
+  "c": "The slime is not natural, $N.  Its very nature is corrupt and... evil.$B$BWe must find out more."
+ },
+ {
+  "id": 12220,
+  "t": "A Dark Influence",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to go to Vordrassil's Heart, Vordrassil's Tears and Vordrassil's Limb and use the Geomancer's Orb in the depths beneath the surface.",
+  "d": "When the tree Vordrassil fell, its hollow remains grew roots deep into the ground.$B$BI want you to go north of here to the three locations where the trunk shattered and go as far beneath the ground as you can.  You'll find them west of Grizzlemaw.$B$BUse this orb once you get there to get an imprint of the energy surrounding the area.  If we're to heal the land, we must first find out what caused Vordrassil to fail as a world tree all those years ago.",
+  "p": "Have you done what I asked of you, $N? ",
+  "c": "The energy in the orb is... overpowering...$B$BA dark force has tainted the ground near Vordrassil's remains.  We will need to investigate more."
+ },
+ {
+  "id": 12221,
+  "t": "The Forsaken Blight",
+  "o": "Deliver The Forsaken Blight to Doctor Sintar Malefious at Agmar's Hammer.",
+  "d": "I have prepared a package that must be delivered to Doctor Sintar Malefious at Agmar's Hammer. The contents of the package include the final blight specimen along with instructions on preparation and samples of the reactive agent.$B$BYou will find Agmar's Hammer in western Dragonblight. Just look for the black, jagged metal orc buildings - that will be Agmar's Hammer.$B",
+  "p": "About bloody time!",
+  "c": "<Doctor Malefious looks through the contents of the package.>$B$BGlorious! Exactly to specifications!$B$BHere is your payment, $N. Keep what you've seen and done to yourself. This work is all classified - information is given out on a need to know basis."
+ },
+ {
+  "id": 12222,
+  "t": "Secrets of the Flamebinders",
+  "o": "Bring 3 Flame-Imbued Talismans to Woodsman Drake at Amberpine Lodge.",
+  "d": "Even as we attempt to fight off the Horde, the Dragonflayer tribe musters in their village of Voldrune, near the coast to the south.$B$BThe most powerful warriors in the village are granted flame-imbued talismans that give them the ability to control powerful, savage proto-drakes. If we can gain control of one of these drakes, perhaps we can use it to neutralize the threat posed by Voldrune.$B$BThe Dragonflayer flamebinders create the talismans and imbue them with power. Kill them and take the talismans.",
+  "p": "Did you collect those talismans?",
+  "c": "With the talismans in hand, the drake will have no choice but to obey you. I can't wait to see the look on the thane's face when he realizes you've commandeered his proto-drake."
+ },
+ {
+  "id": 12223,
+  "t": "Thinning the Ranks",
+  "o": "Kill 12 Dragonflayer Huscarls and return to Woodsman Drake at Amberpine Lodge.",
+  "d": "There's a flurry of activity down in Voldrune village to the south. Thane Torvald Eriksson and his huscarls are preparing for war. With most of our men in the field dealing with the Horde's treachery, Amberpine will be vulnerable.$B$BTravel to Voldrune, which is near the southern coast, and show those Dragonflayers we're no soft target.$B$BSlay as many of the huscarls as you can find. Make them think twice about taking advantage of our conflict with the Horde.",
+  "p": "Have you done the deed?",
+  "c": "Well done, $N. Now, we must follow through and press the advantage."
+ },
+ {
+  "id": 12224,
+  "t": "The Kor'kron Vanguard!",
+  "o": "Report to Saurfang the Younger at the Kor'kron Vanguard.",
+  "d": "You have done well, $g brother:sister;. All that you have faced, you have done as a champion of the Horde. The Scourged Anub'ar of Azjol-Nerub, crushed under your foot! The taunka, brave and powerful new members of the Horde, because of you! Our super-weapon against the Scourge, tested and perfected by you!$B$BThe time has come, the moment is now - our elite soldiers at the Wrathgate need you. The son of Saurfang awaits your arrival at the Kor'kron Vanguard. Go now, northeast to the Wrathgate.",
+  "p": "",
+  "c": "Lok'tar ogar! I have heard much about you, $N. Your battle scars run deep - a testament to your dedication and power!$B$BWith the flanking attacks of the Lich King crushed in both the west and east, only the forces at the gate remain. We gain ground each day, soon to break through this wall and into Icecrown!$B$BOnce we stop the skeletal dragons, Highlord Fordragon and I will take the field."
+ },
+ {
+  "id": 12225,
+  "t": "Mmm... Amberseeds!",
+  "o": "Speak with Master Woodsman Anderhol in Amberpine Lodge.",
+  "d": "Your stomach growls as the pungent smell of hearty nuts draws your attention to the the bucket of seeds.$b$bSome thoughtful soul has obviously left these complimentary morsels here to rejuvenate weary visitors. Grateful, you take the remaining few and devour them.$b$bThe seeds do not disappoint. Finding yourself hungry for more, you set out to discover their origins....",
+  "p": "",
+  "c": "You did what!!!$b$bThose were Amberseeds! And that was an entire harvest's worth!$b$bThose magical seeds may have been the answer to our food crisis. Believe me when I tell you, $N, you're going to make this right!"
+ },
+ {
+  "id": 12226,
+  "t": "Just Passing Through",
+  "o": "Anderhol at Amberpine Lodge wants you to bring him 5 Blackroot Stalks.",
+  "d": "We must act quickly, $r! We can't risk letting those precious seeds become fully digested. They need to come out, NOW.$b$bForage up some blackroot from the riverbank just west of here and I'll make you a purgative that should get things moving.$b$bHurry now! And remember, you brought this upon yourself....",
+  "p": "Have you found the blackroot?",
+  "c": "These should do just fine...$b$b<Anderhol deftly twists the stalks, collecting their slick fluids in a tiny vial.>$b$bThere we go, now it's time to get down to business."
+ },
+ {
+  "id": 12227,
+  "t": "Doing Your Duty",
+  "o": "Anderhol in Amberpine Lodge wants you to take the Anderhol's Slider Cider and use the nearby outhouse to retrieve the Partially Processed Amberseeds.",
+  "d": "Alright, $r. Here's the juice.$b$bIt works immediately, so don't use it until you're safely inside the outhouse.$b$bNow go get me those seeds!",
+  "p": "Got those seeds for me yet, $r?",
+  "c": "Well, $N? Everything come out okay?$b$bHmm, looks like we caught 'em just in time...."
+ },
+ {
+  "id": 12229,
+  "t": "A Possible Link",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to obtain 8 Crazed Furbolg Blood from the Furbolgs at Heart's Blood Shrine and Rage Fang Shrine.",
+  "d": "Not long ago we sent an expedition to the east, where it was attacked by crazed furbolgs.  One of the survivors described slaying one of them and its body expelling a dark slimy substance.$B$BFor thousands of years, the furbolgs in this region have been peaceful.  It is possible that there is a link to the furbolgs' behavior and the dark energy we were able to detect earlier.$B$BBring me samples of the furbolgs' blood.  You will find them to the east in the Rage Fang Shrine and the Heart's Blood Shrine.",
+  "p": "Have you obtained the blood samples, $N?",
+  "c": "This blood carries the same taint as the slime you obtained earlier... this does not bode well, $N."
+ },
+ {
+  "id": 12230,
+  "t": "Stealing from the Siegesmiths",
+  "o": "Deathguard Molder at Venomspite has asked you to retrieve 6 Siegesmith Bombs.",
+  "d": "I'm tasked with the destruction of the Scarlet Onslaught's ballistae. Unfortunately, the apothecaries and I are at odds on the use of our resources, so I've nothing to destroy them with!$B$BTo the northeast are the Carrion Fields. The Scourge siegesmiths there at their forge and meat wagons are demolition masters.$B$BLuckily for us, they also leave their bombs lying about. $B$BI want you to retrieve them for me, off of the ground or the siegesmiths, I don't care which.",
+  "p": "You'd think that they'd let me make use of the blight spreaders... maybe load them up with something nasty to destroy the ballistae.$B$BBut no, they tell me that they're only for special missions.$B$BWhatever!",
+  "c": "<The deathguard rubs his hands together in anticipation.>$B$BExcellent. Their loss is my... our gain!$B$BYou didn't have trouble with any of these along the way? Some of them look rather unstable. I may be undead, but I value my existence!"
+ },
+ {
+  "id": 12231,
+  "t": "The Bear God's Offspring",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to speak to Orsonn at the Ragefang Shrine and Kodian at the Heart's Blood Shrine.",
+  "d": "It is possible that the furbolg of Grizzly Hills have the same taint that plagued Vordrassil.  They've been involved in a deadly tribal war recently after years of peaceful coexistence.$B$BThe shrines that they guard to the east are home to Ursoc's offspring.$B$BIf the corruption has affected the furbolg, it is possible that because of their lineage, Kodian and Orsonn have remained unharmed.$B$BIf that's the case, find them and listen to what they have to say.",
+  "p": "Have you spoken to Ursoc's children yet, $N?",
+  "c": "Ursoc's children are wise. Their words explain much of what we've seen so far."
+ },
+ {
+  "id": 12232,
+  "t": "Bombard the Ballistae",
+  "o": "Deathguard Molder at Venomspite has asked you to use the Siegesmith Bombs to bombard 5 New Hearthglen Ballistae.",
+  "d": "At last, our chance to strike at their siege engines! Don't flub it.$B$BI kid.$B$BA little.$B$B$C, bombard New Hearthglen's ballistae with these bombs.$B$BWe'll show the Royal Apothecary Society how it's done old style. No concoctions required!",
+  "p": "Someday I'll be lead deathguard!$B$BSomeday....",
+  "c": "Oh happy day!$B$BBy not using the time and resources of the apothecaries to get the job done, I'm sure to attract the attention of the high executor!$B$BThinking outside the box, that's what I'm all about. Yes, yes, you had a hand in helping too.$B$BHere, if I give you something will you promise to not mention your part in all of this?"
+ },
+ {
+  "id": 12233,
+  "t": "[Depricated]Sewing Your Seed",
+  "o": "",
+  "d": "No, no... You hold on to these.$b$bYou didn't actually expect me to handle them after all of that did you?$b$bhere's what you're going to do....",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12234,
+  "t": "Need to Know",
+  "o": "Spy Mistress Repine at Venomspite has asked you to steal the Scarlet Onslaught Daily Orders: Abbey, Scarlet Onslaught Daily Orders: Barracks, and Scarlet Onslaught Daily Orders: Beach.",
+  "d": "I need to know what New Hearthglen is up to.$B$BI want you to steal their orders of the day so that I can find that out.$B$BHead south and in their abbey, in their barracks, and on their beach, find those daily plans!$B$BJust in case you're confused, the barracks is the large building right next to the smithy.",
+  "p": "If you take too long, their daily plans will change, and we may have to start over again.$B$BDon't take too long!",
+  "c": "Well, what are you waiting for, $r? Hand them over!"
+ },
+ {
+  "id": 12235,
+  "t": "Naxxramas and the Fall of Wintergarde",
+  "o": "Speak with Gryphon Commander Urik at the gryphon station in Wintergarde Keep.",
+  "d": "Lord Fordragon has led a crushing assault against Arthas at the Wrathgate. In response to this affront, Arthas has sent Naxxramas down upon us. While Kel'Thuzad hides in the floating citadel, his ground commander, Thel'zan, lays siege to Wintergarde Keep. The lower village is already lost and any chance of extracting survivors from the ruins diminishes by the minute.$B$BWe must act quickly! Report to Gryphon Commander Urik at the gryphon station at once! He'll get you up to speed.$B$BLeave me!$B",
+  "p": "",
+  "c": "<Urik points to a gryphon.>$B$BHave you ever ridden one of those? It's simple, friend. Just hop on and tell it where to go.\n"
+ },
+ {
+  "id": 12236,
+  "t": "Ursoc, the Bear God",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to find Tur Ragepaw near Ursoc's Den and defeat Ursoc with his help.  Use the Purified Ashes of Vordrassil on Ursoc's Corpse when you've accomplished this.",
+  "d": "The time has come, $N.  Now we will learn whether our efforts will accomplish what we need or nothing at all.$B$BTake these ashes and seek the furbolg that Kodian told you about, Tur Ragepaw, near Ursoc's Den.  You will find the den to the north of Grizzlemaw.$B$BConvince Tur to aid you, for you will need all the help you can get.$B$BOnce you've defeated the bear god, use these ashes over his body.$B$BEven if his worldly form is destroyed, his spirit must be saved.",
+  "p": "You've returned. Did you succeed?",
+  "c": "<The druid looks pale and her eyes stare blankly past you. She has left a package in anticipation of your return.>"
+ },
+ {
+  "id": 12237,
+  "t": "Flight of the Wintergarde Defender",
+  "o": "Rescue 10 Helpless Wintergarde Villagers and return to Gryphon Commander Urik at Wintergarde Keep.",
+  "d": "With this whistle you can call down a Wintergarde gryphon. Mount the creature and head towards the ruins of Wintergarde Village, now known as the Carrion Fields, southeast of here. Once at the fields, keep your eyes peeled for helpless Wintergarde villagers. When you spot one, fly low and use the gryphon to pick them up. Return the rescued villager here, to the gryphon station.$B$BThere are Scourge all over the place so you'll need to keep your wits about you, hero. Good luck!",
+  "p": "Hurry, $N! You need to save the helpless villagers!",
+  "c": "Outstanding work, $N! We can get this keep back into working order now with the return of our citizens."
+ },
+ {
+  "id": 12238,
+  "t": "Cleansing Drak'Tharon",
+  "o": "Drakuru wants you to use Drakuru's Elixir at his brazier inside Drak'Tharon. Using Drakuru's Elixir there will require 5 Enduring Mojo.",
+  "d": "The time be here at last, good friend.$b$bDrak'Tharon soon be cleansed of them foul undead and restored to her noble purpose. My soul will be havin' peace, and in return for your help, the keep's most valuable treasures be yours, mon!$b$bDa keep rises up into a sacred ziggurat. Once ya be reachin' its top, ya must summon me a final time, and I'll perform the ritual.$b$bAlas, mon, my summonin' will again be comin' at a cost. Ya must collect the mojo from the survivors in the keep,",
+  "p": "",
+  "c": "We done a great thing, mon! And dis just be da beginning....$B$BSeek me out in Zul'Drak when da time be right.$B$BDere be a war to be won, mon!"
+ },
+ {
+  "id": 12239,
+  "t": "The Spy in New Hearthglen",
+  "o": "Deliver the Scarlet Onslaught Daily Orders to Agent Skully at New Hearthglen.",
+  "d": "I have a spy within the ranks of the Scarlet Onslaught. I need you to deliver these daily orders to her so that she can plan the next phase of our assault.$B$BShe goes by the name of Agent Skully and she's under a magical guise to appear as the Onslaught's cemetery caretaker.$B$BHere, take these orders to her, and then do as she asks. You'll find the graveyard on the side of the abbey.",
+  "p": "<The agent eyes you up and down, and then silently motions you over.>$B$BDon't blow my cover, $c!",
+  "c": "You have word from the spy mistress?$B$B<The agent looks around to make sure that no one is watching as she puts down her shovel.>$B$BLet me see those plans."
+ },
+ {
+  "id": 12240,
+  "t": "A Means to an End",
+  "o": "Apothecary Vicky Levine at Venomspite has asked you to use the Levine Family Termites to lure Foreman Kaleiki out and kill him.",
+  "d": "I received a few barrels of termites from my sister at the Bulwark back home in the last shipment. I think they're going to come in handy for something I have in mind for you.$B$BThe lumbermill operations at New Hearthglen are problematic for us, but so far we haven't been able to get anyone in there to take out their foreman.$B$BI think that if you were to unleash these termites on his precious woodworks, he'd be sure to come running.$B$BReady to take him out, $c?",
+  "p": "I miss my sister, $N. I hope she's well.",
+  "c": "I knew my sister wouldn't let us down.$B$BWell done, $N. The Onslaught's lumbermill will be out of commission for a while, which means no new construction or ballistae.$B$BThanks for helping me to live up to the family name."
+ },
+ {
+  "id": 12241,
+  "t": "Destroy the Sapling",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to take the Verdant Torch and use it to burn Vordrassil's Sapling.  Bring Vordrassil's Ashes back to Windseer Grayhorn.",
+  "d": "The furbolgs' work must be undone, $N.  The best of intentions do not count for much when the result is tainted by such strong a corruption.$B$BThe sapling must be destroyed, for it is the source of this dark influence.  Take this torch and use it to set fire to the corrupted sapling and bring me its ashes.$B$BOnce cleansed, by fire, I will use what power I can to remove the taint from them.  You will need the ashes to purify Ursoc from the evil power that holds sway over him.",
+  "p": "Have you brought me the ashes, $N?",
+  "c": "I can't make any promises, $N. But I will try my best to purify these."
+ },
+ {
+  "id": 12242,
+  "t": "Vordrassil's Seeds",
+  "o": "Windseer Grayhorn in Conquest Hold wants you to go to Grizzlemaw and obtain 8 of Vordrassil's Seeds.",
+  "d": "We must make sure that Vordrassil is never regrown.  The furbolg must have harvested its seed.$B$BGo to Grizzlemaw, in central Grizzly Hills, and obtain all the seeds that you can find.  I will make sure they're properly destroyed.",
+  "p": "Have you obtained Vordrassil's seeds yet, $n?",
+  "c": "Thank you, $N. I'll take those from you.$b$bThe corruptive power of these seeds is dangerous. I must destroy them right away."
+ },
+ {
+  "id": 12243,
+  "t": "Fire Upon the Waters",
+  "o": "Apothecary Vicky Levine at Venomspite has asked you to use her Apothecary's Burning Water to set the sails of the Sinner's Folly afire.$B$BWhile the deckhands are busy attempting to put the fires out, head belowdecks and retrieve Captain Shely's Rutters from the captain.",
+  "d": "I have another mission for you.$B$BI was able to repurpose some of the blight to concoct my world-famous burning water. I want you to take it and set the sails of the Sinner's Folly ablaze!$B$BUse it from the dock. Once the sails are on fire, the deckhands will be busy putting them out, and you'll slip belowdecks to 'retrieve' the captain's rutters.$B$BYou'll find the ship on Crusader's Landing, below and south of New Hearthglen. Look for the captain's quarters on the first lower deck, behind the stairs.",
+  "p": "Please do NOT tell me that their sails were somehow protected from my burning water!$B$BI'd hate to have to test it out here again.",
+  "c": "Ahhahahahahahahahaha!$B$BWithout their rutters, they've got nowhere to run to now.$B$BLooks to me like the end of the Scarlet Onslaught, and just when they were getting started. How sad.$B$BHeh."
+ },
+ {
+  "id": 12244,
+  "t": "Shredder Repair",
+  "o": "Synipus at Blue Sky Logging Grounds wants you to bring 3 Broken-down Shredders back to him.",
+  "d": "Listen, pal. Why don't ya roll up your sleeves and grab a wrench? There's work to be done! They need these shredders refurbished and sent down to Venture Bay, and they need it done yesterday....$b$bNo wrench? Well what good are ya then? May as well go down with the rest of the lugheads and play with the Horde!$b$bWhile you're there, see if you can drive some of those broken-down shredders up here for repairs. Be careful! They're in pretty bad shape.",
+  "p": "No time for chit-chat. These shredders might tip the balance for the alliance!",
+  "c": "<Synipus whistles.>$B$BOh, she's a beauty! We'll fix her up nice.$B$BIf you're short on things to do, go talk to Gordun and get a ride down to Venture Bay. They're sure to need a hand.$B$BOh, and while you're there, use these keys on a Refurbished Shredder. Wait 'til ya see what these babies can do when they're cleaned up!"
+ },
+ {
+  "id": 12245,
+  "t": "No Mercy for the Captured",
+  "o": "Spy Mistress Repine has asked you to slay Deathguard Schneider, Senior Scrivener Barriga, Engineer Burke, and Chancellor Amai.$B$BWhen you've accomplished this task, report your success to High Executor Wroth at Venomspite.",
+  "d": "We have more fools for you to kill.$B$BMy agents tell me that several of our good citizens have seen fit to fall into the hands of the Scarlet Onslaught.$B$BThis will not do.$B$BGo back to New Hearthglen and eliminate Deathguard Schneider, Senior Scrivener Barriga, Engineer Burke and Chancellor Amai.$B$BFrom what I hear, they're spread out throughout the area. No doubt they are being kept in cages awaiting torture.$B$BSpeak with them and then kill them!",
+  "p": "It's simple really. You're sent out to kill four incompetent fools that are likely to blab all of our secrets anytime now, and you go out and do it.$B$B<The high executor puts on an unholy grin.>",
+  "c": "What? You were expecting us to have you rescue them?$B$BNow why would we do that when they have a proven track record of getting themselves captured in the first place?$B$BNorthrend is a cold place, young $N. I suggest that you adjust to it."
+ },
+ {
+  "id": 12246,
+  "t": "A Possible Link",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to obtain 8 Crazed Furbolg Blood from the Furbolgs at Heart's Blood Shrine and Rage Fang Shrine.",
+  "d": "The furbolgs that live east of here are more aggressive and bestial than the ones we're used to.  Our forces have squared off with them more than once, and the survivors always speak of a dark, slimy substance dripping from their corpses.$B$BTheir condition could be linked with the contaminants we found on Vordrassil's remains.$B$BBring me samples of the furbolgs' blood.  You will find them in the Rage Fang Shrine and the Heart's Blood Shrine, far to the east.",
+  "p": "Have you obtained the blood samples, $N?",
+  "c": "The corruption present in this blood is identical to that of the slime. I don't have a good feeling about this."
+ },
+ {
+  "id": 12247,
+  "t": "Children of Ursoc",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to speak to Orsonn at the Rage Fang Shrine and Kodian at the Heart's Blood Shrine.",
+  "d": "The furbolgs of Grizzly Hills carry with them a corruption of some kind, that is for sure.  Tribal war has broken out amongst them after years of peaceful coexistence.$B$BWhat remains to be seen is whether the bears they worship as gods have also been tainted.$B$BUrsoc's two children, Orsonn and Kodian, dwell in the Heart's Blood Shrine and the Rage Fang Shrine, south and southeast of Grizzlemaw.$B$BSee if they will speak to you regarding what has happened here.",
+  "p": "Have you spoken to Orsonn and Kodian yet?",
+  "c": "Ursoc's children are wise. Their words explain much of what we've seen so far."
+ },
+ {
+  "id": 12248,
+  "t": "Vordrassil's Sapling",
+  "o": "Hierophant Thayreen in Amberpine Lodge wants you to take the Verdant Torch and use it to burn Vordrassil's Sapling.  Bring Vordrassil's Ashes back to Hierophant Thayreen.",
+  "d": "The druids of old seem to have had good reasons for destroying Vordrassil.  We cannot let the furbolgs regrow it.$B$BOn the other hand, saving Ursoc's spirit hinges on the magic contained by the sapling.$B$BTake this torch and use it to burn the tree.  You will find it in the middle of Grizzlemaw, inside Vordrassil's old trunk.$B$BBring me Vordrassil's ashes.  It is my hope that once purified by fire, we may use its magic to cleanse Ursoc's spirit of its dark taint.",
+  "p": "Have you brought me the ashes, $N?",
+  "c": "Yes! Vordrassil's magic is still present in these ashes. There might be hope for Ursoc yet."
+ },
+ {
+  "id": 12249,
+  "t": "Ursoc, the Bear God",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to find Tur Ragepaw near Ursoc's Den and defeat Ursoc with his help.  Use the Purified Ashes of Vordrassil on Ursoc's Corpse when you've accomplished this.",
+  "d": "It is time, $N.  Take these ashes and look for the furbolg that Kodian spoke of.  If he went to seek Ursoc, he will be near his den, north of Grizzlemaw.$B$BYou will need his help.  You won't be able to defeat Ursoc alone.$B$BOnce you've defeated Ursoc, use these ashes to purify his spirit.  Only then will we know whether our efforts have been in vain or not.",
+  "p": "You've returned. Did you succeed?",
+  "c": "<The druid looks pale and her eyes stare blankly past you. She has left a package in anticipation of your return.>"
+ },
+ {
+  "id": 12250,
+  "t": "Vordrassil's Seeds",
+  "o": "Hierophant Thayreen at Amberpine Lodge wants you to go to Grizzlemaw and obtain 8 of Vordrassil's Seeds.",
+  "d": "We cannot allow Vordrassil to grow again.  If the furbolg regrew it once, they can do it again.$B$BGo to Grizzlemaw, in central Grizzly Hills, and obtain Vordrassil's seeds.  I will make sure they're properly disposed of.",
+  "p": "Do you have the seeds, $N?",
+  "c": "Thank you, $N. I'll take those from you.$B$BThe corruptive power of these seeds is dangerous. I must destroy them right away."
+ },
+ {
+  "id": 12251,
+  "t": "Return to the High Commander",
+  "o": "Speak with High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight.",
+  "d": "Return to High Commander Halford Wyrmbane at once, $N. Let him know that your mission was a success and that the few remaining villagers that were rescued are back to work.",
+  "p": "",
+  "c": "<Halford salutes.>$B$BThe townsfolk are all back to work? Already? Outstanding, soldier! We'll get this town built back up and fortified in no time. Before long, reinforcements will be ready to join the fight with Lord Fordragon at the Wrathgate.$B$BI'm getting ahead of myself, of course, as there is much left to do here before we can even think about sending you to the aid of Bolvar.\n"
+ },
+ {
+  "id": 12252,
+  "t": "Torture the Torturer",
+  "o": "High Executor Wroth at Venomspite wants you to use the branding iron 5 times on Torturer LeCraft to get the information out of him. After that, kill him.",
+  "d": "Enough! I want you to put an end to the torture of my people!$B$BThe Onslaught's torturer, LeCraft, has been bleeding information out of everyone that gets caught by those fiends! I need to know what they know.$B$BMy sources tell me that he has set up shop in the basement of their barracks, which is right next to the smithy.$B$BI'll loan you my personal branding iron to see to it that the job is done right.$B$BFind him and get that information.",
+  "p": "What news do you bring? Success, no doubt?",
+  "c": "They knew all of that? And who the hell is this Grand Admiral Westwind that he spoke of?!$B$B<The high executor grumbles to himself about hating surprises.>$B$BBetter that we know than have to guess. I hope that you left your... er, my mark."
+ },
+ {
+  "id": 12253,
+  "t": "Rescue from Town Square",
+  "o": "High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight wants you to rescue 6 Trapped Wintergarde Villagers.",
+  "d": "Just down this path here is Wintergarde's town square. Once a hive of activity for the citizens of Wintergarde, now a warzone, filled with murderous geists hell-bent on vengeance towards the living.$B$BIn the buildings surrounding the town square are trapped villagers that must be rescued! I ask much of you, now, $N, but you are the only soldier I can spare. Free our people. Take this path down into town square and enter those houses. Kill anything that gets in your way! Return to me should you survive.",
+  "p": "Have you rescued our trapped villagers?",
+  "c": "<Halford says a prayer for the deceased.>$B$BYou do the Light's work, $N.$B$BI fear that our work has only just begun.$B$B<Halford holds up a document.>"
+ },
+ {
+  "id": 12254,
+  "t": "Without a Prayer",
+  "o": "Agent Skully at New Hearthglen has asked you to acquire Bishop Street's Prayer Book.",
+  "d": "These plans indicate something imminent is being planned.$B$BBut first, there's the matter of this strange protection that the Onslaught forces have. If Venomspite is to deal with them once and for all, we must find out who's behind it and eliminate them.$B$BI've noticed that the bishop in the chapel on the far side of New Hearthglen, across from the lumbermill, has stepped up his blessing of the troops. Kill him and steal his prayer book.$B$BMaybe it will give us a clue.",
+  "p": "You have the bishop's prayerbook? Did you find anything unusual in it?",
+  "c": "A newly scribed blessing at the back of the book you say?$B$B<The agent glances over your shoulder as you flip to the page at the end.>$B$BDamn it all! That's the high abbot's handwriting! I'd stake your life on it."
+ },
+ {
+  "id": 12255,
+  "t": "The Thane of Voldrune",
+  "o": "Use Flamebringer to defeat Thane Torvald Eriksson and report to Woodsman Drake at Amberpine Lodge.",
+  "d": "Now that you've captured the flame-imbued talismans and weakened Voldrune's defenses, we can strike at its leader, Thane Torvald Eriksson.$B$BThe thane's favorite mount is an unruly proto-drake he calls Flamebringer. It is kept bound in chains in the western part of Voldrune, but with the talismans, you should be able to control it long enough to use it against the thane.$B$BOnce you have Flamebringer under your control, search the tops of the towers of Voldrune for the thane and show him no mercy.",
+  "p": "Have you overcome the thane? We cannot risk leaving him in power.",
+  "c": "Good work, $N. I doubt any of the woodsmen would've wanted to take a crack at the proto-drake, but we couldn't afford to let the Dragonflayers build a base of power in Grizzly Hills. If only the Horde was so easily dealt with..."
+ },
+ {
+  "id": 12256,
+  "t": "The Flamebinders' Secrets",
+  "o": "Bring 3 Flame-Imbued Talismans to Sergeant Nazgrim at Conquest Hold.",
+  "d": "Even as the Alliance cowards attack our positions, the Dragonflayer vrykul outpost of Voldrune, to the southeast, prepares for war. The vrykul are far from the strongest enemy we face here, but we must eliminate them before they can truly threaten us.$B$BTheir most powerful warriors are permitted to ride half-trained proto-drakes into battle. To control the beasts, their flamebinders create powerful talismans. You'll need to slay them and take the talismans if our plan is to work.",
+  "p": "Did you collect those talismans?",
+  "c": "With the power of the talismans, the drake has no choice but to obey your commands. The thane's fate is sealed."
+ },
+ {
+  "id": 12257,
+  "t": "A Show of Strength",
+  "o": "Kill 12 Dragonflayer Huscarls and return to Sergeant Nazgrim at Conquest Hold.",
+  "d": "Preparations for war are underway in the vrykul village of Voldrune to the southeast. Voldrune's thane cannot field a large army, but with our forces spread thin, we are still at risk.$B$BWe cannot risk giving the thane and his men an opportunity to attack, so we must take the battle to them. If you are truly a $c of the Horde, you will relish the chance to demonstrate our strength.$B$BCut down the huscarls and prove to this Dragonflayer clan that the Horde is not to be trifled with!",
+  "p": "Have you done the deed?",
+  "c": "You have done exactly as I asked. We've got the Dragonflayers on the defensive and it'll soon be time to deal with their leader."
+ },
+ {
+  "id": 12258,
+  "t": "The Fate of the Dead",
+  "o": "Commander Lynore Windstryke at Wintergarde Keep in Dragonblight wants you to kill 15 Vengeful Geists.$B",
+  "d": "The town square, down this path, is overrun with the undead citizens of Wintergarde! Our own crypt provides a seemingly endless supply of soldiers for the Scourge to throw at us. Take no pity on them, though, $N. While they were once mortal, capable of compassion and thought, they are now ravaging undead with only one purpose: our destruction.$B$BVenture forth to the town square and deliver the vengeful geists to their maker. Give them peace.",
+  "p": "Put them out of their misery, $N.",
+  "c": "Perhaps now they will rest easy, their spirits free to ascend to the Light.$B$BMy thoughts and prayers now turn to Lord Fordragon and our forces at the Wrathgate. We must persevere here, if only to buy them enough time to defeat the Lich King. Wintergarde cannot fall."
+ },
+ {
+  "id": 12259,
+  "t": "The Thane of Voldrune",
+  "o": "Use Flamebringer to defeat Thane Torvald Eriksson and report to Sergeant Nazgrim at Conquest Hold.",
+  "d": "With the flame-imbued talismans, we can finally challenge the thane.$B$BHis favorite mount is a ferocious proto-drake called Flamebringer. It is kept bound in chains in the western part of Voldrune, but with the power of the talismans, you should be able to bend it to your will and use it against the thane.$B$BOnce you have Flamebringer under your control, search the tops of the towers of Voldrune for the thane and use Flamebringer to destroy him.",
+  "p": "Have you overcome the thane?",
+  "c": "The few remaining Dragonflayers dare not challenge us after your battle with the thane. Show no mercy to our enemies - that is the way of the Horde."
+ },
+ {
+  "id": 12260,
+  "t": "The Perfect Dissemblance",
+  "o": "Agent Skully at New Hearthglen has asked you steal the image of a Onslaught Raven Priest. Return the Banshee's Magic Mirror to her when you have done so.",
+  "d": "You may wonder how I can maintain this guise; I use a magic mirror that was loaned to me by the spy mistress.$B$BIt only has so much power in it, but I think there's enough for the both of us. Here, take it. I want you to use it to impersonate one of the Onslaught raven priests.$B$BBe quick about it... I have no idea how long my glamour will last while you have the mirror.$B$BRealize that you won't immediately be perfectly disguised, so don't count on it being foolproof until I've had a chance to help you.",
+  "p": "Please tell me that you didn't break the mirror?!",
+  "c": "Not bad, $c. Now that the priest's image is trapped within the mirror, I have something else that needs doing."
+ },
+ {
+  "id": 12261,
+  "t": "No Place to Run",
+  "o": "Place a Destructive Ward at the end of the path leading out of Obsidian Dragonshrine, where the road starts to give way to snow. Protect the ward until it is fully charged, then return to Serinar.",
+  "d": "They're drawing power from the bones of my dead brothers...$B$BI have no love for the cult, but I'm baffled by their audacity. There will be no mercy shown for them... not that I ever would have anyway.$B$BEnsure that they have no place to flee when the slaughter starts. Place a destructive ward at the end of the path leading out of the shrine... where the road starts to give way to snow. Defend it until it is fully charged.",
+  "p": "Have you placed the ward?",
+  "c": "Excellent. When they begin to flee in fear, the ward shall be there to wish them a fond farewell."
+ },
+ {
+  "id": 12262,
+  "t": "No One to Save You",
+  "o": "Kill 6 Burning Depths Necrolytes and 10 Smoldering Skeletons outside of the Obsidian Dragonshrine. Return to Serinar once the task is complete.",
+  "d": "We will spare no one. $B$BOutside, lowly necrolytes and their skeletal servants shame my land with their presence. Slaughter them all.",
+  "p": "I see the blood on your hands... it is done then?",
+  "c": "Did they beg for their miserable lives? Weaklings."
+ },
+ {
+  "id": 12263,
+  "t": "The Best of Intentions",
+  "o": "Wait for Serinar to administer the disguise of a Burning Depths Necrolyte, then proceed to the back of the Maw of Neltharion to uncover what the Cult of the Damned is doing there. Return to Serinar with details regarding their purpose.",
+  "d": "The Cult of the Damned has not come just to extract power from dead dragons. I suspect I know what they are up to, but I need you to prove me correct.$B$BI will grant you the guise of this dead necrolyte. Proceed to the back of the cave and confirm their intentions for being in this sacred place. I will watch through your eyes. $B$BBe cautious $N, any damage done to you is likely to break the fragile illusion.",
+  "p": "I tire of this pestilence.",
+  "c": "We are the Black Dragonflight. We have rained destruction on the lands of Azeroth for thousands of years. The decrepit Cult of the Damned worships death and we shall be glad to oblige."
+ },
+ {
+  "id": 12264,
+  "t": "Culling the Damned",
+  "o": "Kill 3 Burning Depths Necromancers, 6 Smoldering Constructs, and 6 Smoldering Geist in the Maw of Neltharion, and then return to Serinar.",
+  "d": "The cave beyond was swarming with Cult atrocities. There is only one way to deal with such creatures... you know what to do.",
+  "p": "I cannot help but wonder whether they are naive enough to think that I will abide this or if they are simply suicidal.",
+  "c": "Hearing their screams... watching the last life fade from their wretched bodies... it's invigorating, is it not?$B$BI relish it."
+ },
+ {
+  "id": 12265,
+  "t": "Defiling the Defilers",
+  "o": "Locate and stamp out 8 Necromantic Runes that have been drawn on the floor inside the Maw of Neltharion. Return to Serinar once the task is complete.",
+  "d": "I sensed a large accumulation of magic in the runes that we witnessed when you were scouting the cave. I will not have you toy with extracting the magic... often the most straight forward solution is the most effective one.$B$BDestroy the runes... stamp them out and ensure that the Cult will not have access to whatever power that they've accumulated there.",
+  "p": "Power wasted on the weak and useless.$B$BShow me a being worth of the life and magic they have been gifted, and then perhaps we can talk of waste before extinguishing their presence.$B$BDon't worry, I'll wait.",
+  "c": "Good. There is more to be done."
+ },
+ {
+  "id": 12266,
+  "t": "Tales of Destruction",
+  "o": "Travel back to Wyrmrest and let Nalice know that Serinar's task is complete.",
+  "d": "You can leave now, $r.$B$BGo tell Nalice she missed out on a good slaughter.",
+  "p": "",
+  "c": "Oh, it's you.$B$BI had hoped Serinar would simply return himself once the task was done... I suppose he's distracted by something or another to kill. He's missing out on a gloriously messy battle!$B$BAre you still here? I'm done with you."
+ },
+ {
+  "id": 12267,
+  "t": "Neltharion's Flame",
+  "o": "Use Neltharion's Flame to douse the summoning area in the back of the Maw of Neltharion. Once you get the attention of Rothin the Decaying, kill him, then return to Serinar at the front of the cave.",
+  "d": "With the cult's ranks thinned and some of their power stripped, it's time to strike at the source of the corruption.$B$BRothin the Decaying is resurrecting black dragons as magmawyrms in the back of the cave. Go to the summoning chamber and cleanse the remaining bones in the only way that will ensure that they will never be toyed with again... with flame.$B$BBurning the bones will surely gain Rothin's attention, see to it that he is destroyed as well.$B$BThe magic in this vial should see the task done.",
+  "p": "You are quite an effective tool, $c. Your hand in this purging is appreciated.",
+  "c": "The bones of my brood have been spared this filth. You have served me well, and as such, you shall be awarded appropriately."
+ },
+ {
+  "id": 12268,
+  "t": "Pieces Parts",
+  "o": "Pipthwack in Blue Sky Logging Grounds wants you to collect 4 Grooved Cogs, 3 Notched Sprockets, and 2 High Tension Springs.",
+  "d": "Ack! This thing's a mess!$b$bGoblin engineering leaves a great deal to be desired, believe you me. Just look at this! It's a wonder it ever worked to begin with.$b$bGive me a hand, will ya? To get this even close to operable specifications I'll need to replace a few cogs, sprockets, and springs. You should have no trouble finding them down around the sawmill.",
+  "p": "Got those parts for me, $c?",
+  "c": "Yes indeed. These should do the trick...$B$BThere. One more shredder ready for the fight. Thanks, $N."
+ },
+ {
+  "id": 12269,
+  "t": "Not In Our Mine",
+  "o": "Highlord Leoric Von Zeldig at Wintergarde Keep in Dragonblight wants you to recover 10 Wintergarde Miner's Cards.",
+  "d": "That blasted necropolis blindsided us! In the wake of its destruction Wintergarde Mine was lost. Worse yet, Kel'Thuzad's acolytes have raised the slain miners as Scourge and are using them to supply their siegesmiths with materials from our mine!$B$BThe supply line must be halted and our lost brothers must be put to rest.$B$BTravel to Wintergarde Mine, northeast of here in the Carrion Fields, and destroy the risen miners. Return to me with their miner cards so that I may put their passing in our registry.",
+  "p": "Did you recover their cards?",
+  "c": "<Leoric takes the cards from you.>$B$BI will get these to our recorder and deliver the grim news to the families of the miners.$B$BThere is still much to be done if we are to succeed here and ultimately at the Wrathgate. Lord Fordragon is depending on us."
+ },
+ {
+  "id": 12270,
+  "t": "Shred the Alliance",
+  "o": "Grekk at Blue Sky Logging Grounds wants you to acquire 3 shredders and return to him with them.",
+  "d": "Read my lips, $c - I need those shredders! Just as important - I need to keep them out of the hands of the Alliance!$b$bThey've been refurbishing the shredders and using them against our brothers in Venture Bay. Now we're going to give them a taste of their own medicine!$b$bYou see a shredder out there, grab it! You see one of the Alliance scum on one, kill 'em and then grab it! Once you have one, drive it back here to me and we'll get to work on it.$b$bDismissed!",
+  "p": "Get me those shredders yet, $c?",
+  "c": "Good work, soldier!$B$BNow take this key and get yourself down to Venture Bay. It'll let you use one of the refurbished shredders to unleash chaos on our enemies.$B$BOh yes, and talk to Darrok if you want to take the shortcut!"
+ },
+ {
+  "id": 12271,
+  "t": "The Rod of Compulsion",
+  "o": "Deliver the Torturer's Rod to High Executor Wroth at Venomspite.",
+  "d": "A rod drops from LeCraft's dead hand. There are pulsing magical runes along its length.$B$BCould this be how he was getting his confessions?$B$BBetter let the high executor have a look at it.",
+  "p": "Did you get that rod from their torturer?",
+  "c": "LeCraft had it you say? That makes sense.$B$BI recognize it from my youthful days as a torturer in the court of King Terenas of fallen Lordaeron. It's known as a rod of compulsion.$B$B<The high executor wrings his hands together in evil anticipation of what's to come.>$B$BI have an idea for how we can make good use of it!"
+ },
+ {
+  "id": 12272,
+  "t": "The Bleeding Ore",
+  "o": "Siege Engineer Quarterflash at Wintergarde Keep in Dragonblight wants you to recover 10 samples of Strange Ore from Wintergarde Mine.",
+  "d": "Hours before the Naxxramas invasion, one of the miners stumbled upon a dark ore that was oozing a viscous fluid. In the chaos that occurred during the evacuation of the mine, we lost the samples taken from the alien node. Now the Scourge prospects the ore for use in their machines of death.$B$BYou must get back to Wintergarde Mine, due northeast of here in the Carrion Fields, and recover the strange ore. It is imperative to our mission's success!",
+  "p": "Have you recovered samples of the strange ore?\n",
+  "c": "This might be the moment, the very second, that the tide turns against the Scourge. You have proven yourself as a hero of the Alliance, at least in my eyes, $N.$B$BNow if you would be so kind as to give me some space. I will require additional time to study this ore in order to isolate impurities and weakness.$B$BCarry on, ally. I will contact you once I have an update."
+ },
+ {
+  "id": 12273,
+  "t": "The Denouncement",
+  "o": "High Executor Wroth at Venomspite has tasked you with using the Rod of Compulsion on Commander Jordan, Lead Cannoneer Zierhut, Blacksmith Goodman, and Stable Master Mercer.$B$BOnce the rod has been used on them, kill each to exact a denouncement of the Scarlet Onslaught as their final words.",
+  "d": "It's time for us to utterly demoralize the Onslaught forces!$B$BI want you to take the rod and use it on four of their leaders: Commander Jordan upstairs at the barracks, Lead Cannoneer Zierhut down the southeast ramp overlooking the beach, Blacksmith Goodman at the smithy, and Stable Master Mercer at the stables.$B$BPlace them under the rod's compulsion, concentrate on making them denounce the Onslaught, and then kill them!",
+  "p": "Well?!",
+  "c": "<You think you see just the hint of a smile cross Wroth's face before quickly disappearing.>$B$BYou're now my favorite $c, $N. If you have a mind to, I'd like you to think about joining up as an officer in the Hand of Vengeance.$B$BWe can start you out as a deathguard, and in a few decades I think you have what it takes to make junior executor!$B$BNo? Well don't be too hasty... take your time and mull it over."
+ },
+ {
+  "id": 12274,
+  "t": "A Fall From Grace",
+  "o": "Agent Skully at New Hearthglen has asked you to ring the bell in the abbey and then go speak with the high abbot and get information out of him.",
+  "d": "We need more information from the high abbot, and now that we have the visage of one of the raven priests, I think we can get you close to talk with him.$B$BUnfortunately, we need to separate him from his bodyguards or you'll never get any information out of him.$B$B<The agent leans on her shovel and thinks a moment.>$B$BI think I've got it! While in disguise, go to the top of the abbey and ring the bell. That should bring the abbot's bodyguards running and you can then head down to speak with him.",
+  "p": "What did you find out? Have you even talked with him yet?",
+  "c": "What the hell is going on here?!$B$BHe jumped on his own? You're certain that you didn't push him?$B$B<The agent narrows her eyes at you.>$B$BFine. Clearly there's much more going on in this place than we first thought. "
+ },
+ {
+  "id": 12275,
+  "t": "The Demo-gnome",
+  "o": "Speak with Siege Engineer Quarterflash at Wintergarde Keep in Dragonblight.",
+  "d": "Quarterflash recently requisitioned my group for a specialist that he could send on a reconnaissance mission to the Wintergarde Mine. To that end, I sent him Slinkin, my demolitionist. I foolishly thought that he could close off that pit of damnation after his mission for Quarterflash was complete, securing another victory for us against the Scourge.$B$BAn entire day has now passed and Slinkin has not returned. I want answers! Speak with Siege Engineer Quarterflash and track down my missing agent!",
+  "p": "",
+  "c": "I feel terrible about this, friend. I fear that in my haste to recover the strange ore from Wintergarde Mine I may have doomed agent Slinkin.\n"
+ },
+ {
+  "id": 12276,
+  "t": "The Search for Slinkin",
+  "o": "Find Slinkin the Demo-gnome in Wintergarde Mine. Use Quarterflash's Homing Bot if you need help finding the mine.",
+  "d": "While I have not heard from Slinkin or know what fate has befallen him, perhaps I can assist in finding him.$B$B<Quarterflash holds up a tiny mechanical toy.>$B$BThis is not a toy, newfound compatriot. It is, in fact, my latest mechanical creation. The machine was created with the sole purpose of finding that which has been lost. These are unfortunate circumstances, but the machine is your best chance at finding Slinkin.$B$BWhen you are ready to begin your search, place the bot on the ground next to me.",
+  "p": "",
+  "c": "<There is a note in Slinkin's death grip.>$B$BChased into a dead end. Hidden for now, but they know I'm here. It won't be long until they find me.$B$BThe miners work tirelessly to unearth the strange ore that fuels the Scourge war machines. There is much banter. The language of death confounds me, but I have been able to identify commonly uttered sounds and phrases. The word \"Yogg-Saron\" is said with great contempt and is usually followed by loud outbursts. They refer to the ore as \"saronite.\" Meaning?"
+ },
+ {
+  "id": 12277,
+  "t": "Leave Nothing to Chance",
+  "o": "Retrieve a Wintergarde Mine Bomb and use it to blow up the Upper Wintergarde Mine Shaft and the Lower Wintergarde Mine Shaft. Report back to Siege Engineer Quarterflash at Wintergarde Keep in Dragonblight when you have completed this task.",
+  "d": "If there is good in your heart and your conscience is clear, read on.$B$BIn this mine, near the foreman's scaffold, rests a hefty cargo of dynamite. Go there and pick up several bundles of the explosive and make your way towards the entrance of the mine. Once there, set the dynamite and blow up the entrance. Remember to do this for the upper and lower entry points of Wintergarde Mine.$B$BYou must leave nothing to chance. The evil that exists here must never be allowed out. Light guide you.",
+  "p": "<Quarterflash nods.>$B$BHe was a good gnome, one of our best. Slinkin will be missed.",
+  "c": "His death will not have been in vain, friend. The information that Slinkin died for will be instrumental in defeating the Lich King. I promise you that we will make this right."
+ },
+ {
+  "id": 12278,
+  "t": "Brew of the Month Club",
+  "o": "Bring the \"Brew of the Month\" club membership form to Larkin Thunderbrew in the Stonefire Tavern in Ironforge.",
+  "d": "Membership has its privileges.  Being part of the \"Brew of the Month\" club means knowing where to get the latest and greatest brew.$b$bBring your \"Brew of the Month\" club membership form to Larkin Thunderbrew in the Stonefire Tavern in Ironforge.",
+  "p": "Do you have your membership forms filled out?",
+  "c": "Your paperwork looks to be in order. Welcome to the club, $N!$B$BYou can expect to get our mail at the start of every month. If you like what you got, stop by and we can sell you some more. This is the club that keeps on giving."
+ },
+ {
+  "id": 12279,
+  "t": "A Bear of an Appetite",
+  "o": "Bring 6 Northern Salmon to Hugh Glass at the Redwood Trading Post.",
+  "d": "Thank goodness you're back, Limpy! I worried that Griselda and I were going to be all alone.$B$BI'm cooking up some food here for us, but Griselda'll have none of it.$B$BShe's fond of the fish that live off the coast of the Eastwind Shore, to the east. Can't stand them myself, but she's always been a picky eater. Six good-sized fish ought to keep her happy for a while.$B$BNow, run... err... limp along, Joe. Wouldn't want to keep the girl waiting, would ya?",
+  "p": "If you don't hurry, it'll be more than just her stomach growling...",
+  "c": "You! You're not Limpy Joe!"
+ },
+ {
+  "id": 12280,
+  "t": "Making Repairs",
+  "o": "Lurz at Blue Sky Logging Grounds wants you to collect 4 Grooved Cogs, 3 Notched Sprockets, and 2 High Tension Springs.",
+  "d": "Twenty shredders by noon tomorrow!$b$bWho makes these schedules, anyway? No one who ever put one of these garbage cans back together, that's who....$b$bIf I'm going to hit my quota, I'll need a hand. Help me out and I'll share my commission with you - fair enough?$b$bI need cogs, sprockets and springs. They're littered across the ground down by the shredders.",
+  "p": "Ya fetch those parts for me yet?",
+  "c": "Thanks, $N. That should keep me going - at least until tomorrow....$B$BHere's the cash I promised."
+ },
+ {
+  "id": 12281,
+  "t": "Understanding the Scourge War Machine",
+  "o": "Deliver Quarterflash's Package to High Commander Halford Wyrmbane at Wintergarde Keep.",
+  "d": "We must take solace in the fact that Slinkin's death, while tragic, was for the greater good. His discovery coupled with your heroics in the mine and the samples you returned brings us one step closer to understanding the Scourge war machine.$B$BTake this package to High Commander Halford Wyrmbane. It holds a sample of the strange ore and my analysis.",
+  "p": "I heard about your bravery in the mine, $N.",
+  "c": "<Halford opens the package and reads the analysis.>$B$BI am by no means a scientist, $N, so you'll have to forgive my plebian understanding of what has been written. Now, according to this analysis - assuming I have the brain power of at least an adolescent school boy - we still don't know jack squat about the Scourge war machine. The only thing we do know is that the Scourge uses this foul metal to craft its siege engines, armor and weaponry.$B$B<Halford lets loose a long sigh.>"
+ },
+ {
+  "id": 12282,
+  "t": "Imprints on the Past",
+  "o": "Zelig the Visionary at Wintergarde Keep in Dragonblight wants you to recover his Scrying Orb.",
+  "d": "The memories of the past haunt this land, $N. I hear the cries of the fallen echo across Northrend - calling to me.$B$BArthas left a terrible imprint on everything he touched. Only wither and decay remains in his wake. It is important, then, for us to study the past so that we may better know our enemy. Perhaps untold truths shall surface that could help in our campaign.$B$BFirst, you must recover my scrying orb from the town hall, $N. Exit this tower and turn left down the path to reach the town square.",
+  "p": "Have you recovered my scrying orb?",
+  "c": "Well done, $N. As fate foretold, you will be the one to carry us through these hard times. Now the long journey begins."
+ },
+ {
+  "id": 12283,
+  "t": "The Truth Will Out",
+  "o": "Agent Skully has asked you to acquire The Diary of High General Abbendis and to deliver it to High Executor Wroth at Venomspite.",
+  "d": "We have to figure out what's going on here. We need the general's diary!$B$BI'm pretty sure that you'll find it on her nightstand upstairs at her house. It's the one next to church, across from the stables and the lumbermill.$B$BOnce you acquire the diary, take it to the high executor back at Venomspite.$B$BYou'll have to do this the old-fashioned way; the power of the mirror is low and there's only enough left for me.$B$B<The agent smirks.>",
+  "p": "It's about time, $N! What's been keeping you?",
+  "c": "Damn it all! Why couldn't you have come to me with good news?!"
+ },
+ {
+  "id": 12284,
+  "t": "Keep 'Em on Their Heels",
+  "o": "Commander Bargok wants you to kill 15 Alliance units or players in Blue Sky Logging Ground.",
+  "d": "We've suffered heavy casualties here, $r.$b$bThe only good news is that we've given as much as we've taken. I've requested more troops, but the bulk of our forces are bogged down in Venture Bay. It looks like we're on our own for now.$b$bNo matter how bad it gets, we MUST stand our ground! The precious resources of this region are essential to the Horde's long-term success in Northrend.$b$bWe've got to keep the Alliance on their heels until help arrives. Get out there and give 'em something to think about.",
+  "p": "Is that Alliance blood on your weapon, $r?",
+  "c": "Fifteen down, eh? Good to hear it, $c.$B$BIf nothing else you've bought us a bit of time - at least a day by my figuring.$B$BHere's your pay."
+ },
+ {
+  "id": 12285,
+  "t": "Do Unto Others",
+  "o": "High Executor Wroth at Venomspite has ordered you to return with The Head of the High General.",
+  "d": "Their attack is imminent, $c. I need you to get in there and sever the head of the Scarlet Onslaught, literally!$B$BIt's not going to be easy... Abbendis is sure to be surrounded by a great many of her men. I suggest that you take at least a couple of friends along.$B$BBring back her head and I'll see to it that you're properly rewarded for saving Venomspite.$B$BFail and don't even bother to return!",
+  "p": "Should I tell my forces to begin making our way toward Agmar's Hammer?$B$BOr did you manage kill the high general?",
+  "c": "Let's see them bring her back to life without her head!$B$B<The high executor's laugh draws a number of furtive glances.>$B$BI'm a little concerned that you let this grand admiral get away, but you're still the hero of the day, $N!$B$BTake your pick... you've earned it!"
+ },
+ {
+  "id": 12286,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12287,
+  "t": "Orik Trueheart and the Forgotten Shore",
+  "o": "Seek out the assistance of Orik Trueheart at Dawn's Reach in Dragonblight.",
+  "d": "I have gazed upon the orb and seen the path that you must walk, $N.$B$BMany years ago an atrocity was committed upon the shores of Dragonblight. The act itself remains shrouded in darkness, but I am certain that your destiny lies south, amidst the ruins of the Forgotten Shore.$B$BTake the road southeast through the ravaged town square. Follow the trail until you arrive at Dawn's Reach. You will meet an old friend of mine there known as Orik Trueheart. He will be expecting you.",
+  "p": "",
+  "c": "Zelig sent word, friend. We have been expecting you.$B$BI am Orik Trueheart, paladin of the Argent Crusade. The priestess standing across the campfire from me is Tilda Darathan. We are here on behalf of the Argent Crusade - sent to quell the unfortunate damned souls attempting to escape Wintergarde."
+ },
+ {
+  "id": 12288,
+  "t": "Overwhelmed!",
+  "o": "Aumana at Blue Sky Logging Grounds wants you to use the Renewing Tourniquet on 10 Wounded Skirmishers.",
+  "d": "You there, $c! Help me!$b$bWe're losing valuable lives! There are simply too many wounded for me to tend to alone. If we can't get our soldiers healed we could be run out of Grizzly Hills altogether!$b$bTake this tourniquet and use it on the wounded down on the battlefield.$b$bHurry, $n! They're dyyying!!",
+  "p": "Have you healed our wounded yet, $N?",
+  "c": "Oh, thank you, thank you.$B$BYou've helped us to live another day. Perhaps there's hope yet."
+ },
+ {
+  "id": 12289,
+  "t": "Kick 'Em While They're Down",
+  "o": "Sergeant Hartsman wants you to defeat 15 Horde units or players in Blue Sky Logging Grounds.",
+  "d": "It is a dark day for the Alliance. Many good men lay dead or dying here. Our only consolation is that they fought well and brought down many of the enemy with them.$b$bWith the bulk of our forces committed to Venture Bay we stand alone to weather this storm. The resources in this region are vital to the Alliance and may well make the difference in our struggle against the Horde. We must not fail!$b$bGo, $n. Strike at them while they lick their wounds. Avenge your fallen brothers and keep our hopes alive!",
+  "p": "How goes the fight, $N?",
+  "c": "Well done, $N.$B$BYou've bought us some time here, though likely no more than a day. Nevertheless, the Alliance is grateful for your efforts."
+ },
+ {
+  "id": 12290,
+  "t": "The Murkweed Elixir",
+  "o": "Orik Trueheart at Dawn's Reach in Dragonblight wants you to recover 5 Murkweed from the Eldritch Heights.",
+  "d": "The spirits of the damned haunt the coast. In life they were brave and noble soldiers of the Alliance, but in death they are cursed - bound to this world until the end of days. We must discover the source of their anguish if we are to free them!$B$BTo the southeast, on the Eldritch Heights, you will find a rare herb known as murkweed. It is murkweed that I will use to concoct an elixir that will allow you temporary entry into the world of the forgotten. Go now and gather the weed.",
+  "p": "Have you recovered the murkweed?",
+  "c": "<Orik takes the murkweed and begins mixing an elixir.>$B$BIt won't be much longer, $N."
+ },
+ {
+  "id": 12291,
+  "t": "The Forgotten Tale",
+  "o": "Orik Trueheart at Dawn's Reach in Dragonblight wants you to hear the tales of a Forgotten Peasant, Forgotten Rifleman, Forgotten Knight and Forgotten Footman.",
+  "d": "The toxins in the murkweed elixir will render you unconscious. So powerful is the effect of the murkweed that even your spirit will be fooled, allowing you to temporarily enter the world of the dead.$B$BOnce a spirit, you must speak to the ghostly denizens of the Forgotten Shore. Seek out the cause of their anguish and return to me.$B$BRemember, $N, these spirits were once Alliance soldiers. Treat them with respect, honor and dignity.$B$BNow, with elixir in hand, venture south to the Forgotten Shore.",
+  "p": "I have enough murkweed to make more elixirs, $N.",
+  "c": "<Orik's eyes fill with tears.>$B$BThey don't know. None of them know! They think Arthas to be some great hero, when in truth it was Arthas who ordered the ships to be burned. It was Arthas who left us all for dead in this frozen wasteland!$B$B<Orik weeps.>$B$BNot all of the soldiers from the Prince's fleet perished in the freezing winter. I was only a lad when I was given the chance to battle the Scourge... to save our home from certain destruction. I took that chance, $N."
+ },
+ {
+  "id": 12292,
+  "t": "Local Support",
+  "o": "Lieutenant Dumont at Amberpine Lodge wants you to go to Evergreen Trading Post and obtain the Cedar Chest.",
+  "d": "We've reached a deadlock with the Horde in Grizzly Hills.  Our forces are just about evenly matched and all signs so far have pointed to a stalemate.$B$BUntil this morning, that is.  The local trappers have requested our help.  Apparently the Horde took something that belongs to them... a relic of some sort.$B$BWe get this back for them and they'll give us the edge we need.  Head to the Evergreen Trading Post, west of Conquest Hold and look for a cedar chest.",
+  "p": "You bring me that box, $N?",
+  "c": "It's locked, isn't it?  It looks pretty ordinary.$B$B<Lieutenant Dumont Shakes the chest, producing a rattling wooden sound.>$B$BNo matter, I suppose.  If this gets us the edge we need against the Horde, then I could care less if the cure for the Plague was in there. "
+ },
+ {
+  "id": 12293,
+  "t": "Close the Deal",
+  "o": "Bring the Cedar Chest to Ivan at Aspen Grove Post.",
+  "d": "We have what the trappers want.  Now it's up to us to sign them up with our side.$B$BTake the chest to a trapper named Ivan at the Aspen Grove Post, just north of here.$B$BIf all goes well, we'll have local woodsmen serving as scouts for the king's army in no time.",
+  "p": "You've brought something for us?",
+  "c": "You did it!  You recovered the Sc... you recovered the chest that the Horde stole from us.  We thank you, $N."
+ },
+ {
+  "id": 12294,
+  "t": "A Tentative Pact",
+  "o": "Return to Lieutenant Dumont in Amberpine Lodge.",
+  "d": "Very well, $N.  Your people kept their end of the bargain.$B$BTell Dumont that we'll honor the deal.",
+  "p": "",
+  "c": "Excellent news, $N.  With the locals' help we'll have the logistical support we need to outmaneuver the Horde in this region.$B$BI have further tasks for you if you're interested."
+ },
+ {
+  "id": 12295,
+  "t": "An Exercise in Diplomacy",
+  "o": "Speak to Envoy Ducal in Silverbrook.",
+  "d": "We'd been trying to negotiate with the trappers for weeks, but we'd gotten nowhere until you found that blasted chest of theirs.$B$BThis should be good news to our envoy in Silverbrook.  We sent Ducal there about a week ago and his last letter indicated he'd been making little progress.$B$BGo to Silverbrook and aid him in his diplomatic efforts.  Take the roads heading northwest of here and you should find it after crossing a couple of bridges. ",
+  "p": "",
+  "c": "It's good to finally meet you, $N!  We'd heard about you up here.  Welcome to Silverbrook.$B$BThese trappers are a great bunch of lads and lasses.  Hardy people, they know the lay of the land really well.  You'll find it's a great thing that we finally won them over to our side."
+ },
+ {
+  "id": 12296,
+  "t": "Life or Death",
+  "o": "Rheanna at Blue Sky Logging Grounds wants you to use the Renewing Bandage on 10 Wounded Westfall Infantry units.",
+  "d": "Oh, the carnage....$b$bI've been through many battles, $c, and this one was more brutal than any I've seen. Our fight with the Horde has become more intense than ever. It's them or us here in Northrend - life or death.$b$bIf we are to survive here another day we'll need to mend our wounded. There are too many for me to rescue alone.$b$bI've prepared special bandages that will enable you to assist me. Take one and tend to those who have not yet succumbed to their wounds.",
+  "p": "",
+  "c": "Wonderful!$B$BThe alliance shall live to see another day, in part due to your diligence.$B$BPlease accept my thanks, friend."
+ },
+ {
+  "id": 12297,
+  "t": "Of Traitors and Treason",
+  "o": "Captain Adams has asked you to show the Alliance Missive to Greer Orehammer at Westguard Keep.",
+  "d": "The list I hold must be delivered to High Commander Halford Wyrmbane. He commands the 7th Legion, stationed at Wintergarde Keep on the eastern borders of the Great Dragonblight.$B$BIf any of the traitors on this list are stationed at Wintergarde... it could be catastrophic.$B$BHurry, $N. Show the document to Greer Orehammer here at Westguard Keep and explain the nature of your mission. He'll put you on his fastest gryphon to Wintergarde!",
+  "p": "Hello, $c.",
+  "c": "<Greer lifts his glasses onto the top of his head and reads the note, looking back up at you curiously when he's done.>$B$BYou will have my fastest gryphon! This information must be delivered to High Commander Wyrmbane at once!\n"
+ },
+ {
+  "id": 12298,
+  "t": "High Commander Halford Wyrmbane",
+  "o": "Deliver the Alliance Missive to High Commander Halford Wyrmbane at Wintergarde Keep in eastern Dragonblight. $B",
+  "d": "<Greer hands the missive back to you.>$B$BSkysong will take you to Wintergarde, $N. I guarantee you that it will be the fastest flight you've ever taken. Go now!$B",
+  "p": "What have you got there, soldier?",
+  "c": "<The High Commander reads the missive and then crumples it up.>$B$BDo you know where the people on this list are now? Take a look outside, near the front gate. They're the ones hanging from the arches.$B$BGhoul bait...\n"
+ },
+ {
+  "id": 12299,
+  "t": "Northern Hospitality",
+  "o": "Sergei at Silverbrook wants you to slay 8 Conquest Hold Marauders.",
+  "d": "It's good to meet you.  Let us celebrate our pact by partaking in some good old fashioned Horde-killing.$B$BYou'll find marauders from Conquest Hold just outside our town, west of here.  Why don't you head out there and hunt them like the filthy animals they are?$B$BLet's see if our new allies can back all their talk with some action.",
+  "p": "You done with those Horde cretins yet?",
+  "c": "Not bad, not bad.  You might not be as soft as some of the others."
+ },
+ {
+  "id": 12300,
+  "t": "Test of Mettle",
+  "o": "Find Sergeant Bonesnap northwest of Silverbrook and pass the Test of Mettle.",
+  "d": "Alright, friend.  You've done us a favor or two, but that's not the true test of a person's courage.$B$BAround these parts, you're not a real hunter unless you wear your prey's skin.$B$B<Sergei unsheathes his skinning knife and hands it to you.>$B$BThe leader of those motherless orcs attacking our town is called Bonesnap; you'll find him at a camp further northwest.$B$BThat's right.  You're going to skin the monster.",
+  "p": "The people in Silverbrook... they're not what they seem.",
+  "c": "Don't do it, $N.  The people that sent you here.... you shouldn't trust them."
+ },
+ {
+  "id": 12301,
+  "t": "The Truth Shall Set Us Free",
+  "o": "Orik Trueheart at Dawn's Reach in Dragonblight wants you to use Orik's Crystalline Orb in the ruins located at the Forgotten Shore to redeem the Forgotten.",
+  "d": "Zelig gave this crystal ball to me years ago with specific instruction on its use. For five years - whenever I would feel anger, anxiety, or sorrow over the events that transpired here - I was to focus my thoughts upon the orb.$B$BI now understand why Zelig gave this crystal to me.$B$BTake my crystalline orb to the Forgotten Shore. Find the ruins of my old base on the upper reaches of the beach and place the orb in the center of town. Let the forgotten see the world through my heart and soul.",
+  "p": "",
+  "c": "<Orik beams a smile at you.>$B$BYou did a good thing this day, $N. Hundreds of lost souls are now redeemed, thanks to you."
+ },
+ {
+  "id": 12302,
+  "t": "Words of Warning",
+  "o": "Go to the northwestern end of Silverbrook.",
+  "d": "Thanks for helping me, $N.  My name's Sasha.  Listen, I have to get the hell out of here.$B$BThe people that sent you here... my people... they've changed.  They're not good people anymore... and they want to turn you into one of... one of them.$B$BThis... 'test' they sent you on is just the beginning.$B$BHead to the northwestern end of Silverbrook.  You'll find something of interest to you.$B$BGood luck... and trust no one.",
+  "p": "",
+  "c": "Who's there?  Are you here to kill me?$B$BPlease!  You don't have to do this!"
+ },
+ {
+  "id": 12303,
+  "t": "Funding the War Effort",
+  "o": "Quartermaster Bartlett at Venomspite has asked you to recover 6 Forgotten Treasure.",
+  "d": "<The quartermaster lowers his voice and whispers to you.>$B$B$C, I need your help; our coffers are empty. The Kor'kron Vanguard at the Wrath Gate has taken all of our coin for the fight there.$B$BBut, I've heard whispers that there's treasure to be had amongst the wrecks on the Forgotten Shore to the southeast.$B$BWe have to do something soon, or we won't be able to continue the fight against the Scarlet Onslaught. War isn't cheap, you know!",
+  "p": "How much of that Alliance treasure did you manage to get your hands on?",
+  "c": "<The quartermaster gasps, but then his eyes narrow as he studies you for a moment.>$B$BI trust that you didn't stash any of this on the side for yourself? You wouldn't be that selfish when the fate of Venomspite is at stake?$B$BBesides, I'm going to reward you with a percentage of the take. It's not much, but in times like this, we all have to make sacrifices."
+ },
+ {
+  "id": 12304,
+  "t": "Beachfront Property",
+  "o": "Surveyor Hansen, just north of the Forgotten Shore, has asked you to slay 20 Forgotten ghosts.",
+  "d": "It's time for Venomspite to expand!$B$BWe'll take care of the Onslaught in due time, but I want you to spearhead our efforts on the Forgotten Shore. The property value has outstanding potential and just look at that view!$B$BUnfortunately, there's an infestation of human ghosts, shipwrecked crews and the like who haven't quite realized that they're dead.$B$BClear the beach and the waters off the shore, and maybe you and I will talk about building a cozy, new mausoleum down there soon.",
+  "p": "",
+  "c": "Can't you just see it now, $c? It'll be the vacation spot of Northrend!$B$BWhat do you think of the name, \"Hansen's Cove\", or maybe \"$N Bay\"? Kind of catchy, don't you think?"
+ },
+ {
+  "id": 12305,
+  "t": "Parting Thoughts",
+  "o": "Return to Zelig the Visionary at Wintergarde Keep in Dragonblight.",
+  "d": "You have honored me and honored the memory of hundreds of Alliance veterans, $N. Zelig was wise in sending you here. Please return to him and give him my thanks. He will be happy to hear of the events that transpired at the Forgotten Shore.$B$BI do not have the gift of foresight like Zelig, but I am certain that great things await you, friend.$B$BFarewell. $B",
+  "p": "",
+  "c": "<Zelig smiles.>$B$BIt is I who owe you a debt of gratitude, hero. Orik is like a brother to me. You have changed his life and given renewed hope to countless others."
+ },
+ {
+  "id": 12306,
+  "t": "Brew of the Month Club",
+  "o": "Bring the \"Brew of the Month\" club membership form to Ray'ma in the Darkbriar Lodge in Orgrimmar's Valley of Spirits.",
+  "d": "There is strength in numbers, $n.  Being part of the \"Brew of the Month\" club means knowing you and your brethren will always have access to the best brew.$b$bBring your \"Brew of the Month\" club membership form to Ray'ma in the Darkbriar Lodge in Orgrimmar's Valley of Spirits.",
+  "p": "Do ya have your membership forms filled out?",
+  "c": "So you be joinin' our ranks, $N? We treat ya nice here. You only get the best when you part of dis club!$B$BWe be sendin' out brew to you at da start of every month. If you like what you got, and you be wantin' more, head back over here. We make sure you get more of da brew you like."
+ },
+ {
+  "id": 12307,
+  "t": "Wolfsbane Root",
+  "o": "Katja in Silverbrook wants you to uproot 8 Wolfsbane Roots.",
+  "d": "Have you heard of the wolfsbane plant?  It is a horrible weed... it destroys our farmable crops.$B$BWe spent all of last week cutting them down, but the roots are beginning to sprout again.$B$BIt might not seem like an urgent matter, but a resurgence of the plant could be a real... disaster.  Do you think you could help us by uprooting them where you find them near the village?",
+  "p": "Yes, $c?",
+  "c": "<Katja reels away from you nervously.>$B$BThank you, $N.  You didn't get any wolfsbane on you, did you?  I've got these... allergies that act up once in a while."
+ },
+ {
+  "id": 12308,
+  "t": "Escape from Silverbrook",
+  "o": "Open the Wooden Cage and help the Freed Alliance Scout escape from Silverbrook.  Report to Lieutenant Dumont when you reach Amberpine Lodge.",
+  "d": "You... you're not one of them?  Quick!  Let me out!$B$BWe have to get to Amberpine Lodge immediately!  Once Lieutenant Dumont finds out who these people really are, this town will be reduced to rubble!",
+  "p": "You made it back. I was a worried about you, $N.",
+  "c": "Worgen.  Blasted, Light-forsaken, filth-ridden worgen.$B$BIt's time we showed the locals what us civilized folk do with beasts like them."
+ },
+ {
+  "id": 12309,
+  "t": "Find Durkon!",
+  "o": "Seek out Cavalier Durkon at the Wintergarde Crypt in Dragonblight.$B",
+  "d": "After the Scourge breached the south wall, I ordered Cavalier Durkon to investigate the town crypt. Moments ago I was handed his report.$B$BThe undead that plague us are coming from two sources: the ruins of Wintergarde, now a breeding ground for Scourge, and our very own town crypt! Amidst the chaos and confusion the Scourge managed to get a necrolord inside the crypt.$B$BIn his message, Durkon requested assistance. You will find him and help him, $N. The crypt is on the western border of the town square.",
+  "p": "",
+  "c": "Oh brother, it's a mess down there! I barely made it out last time - which is what prompted my request to the High Commander.$B$B<Durkon looks you up and down.>$B$BYou got that crazy look in your eyes, $r. Thankfully, you're gonna need to be crazy to do what I'm about to ask of you."
+ },
+ {
+  "id": 12310,
+  "t": "A Swift Response",
+  "o": "Lieutenant Dumont wants you to go to Forest's Edge Post and slay Vladek and 7 Silverbrook Hunters.",
+  "d": "Our response must be immediate.  Decisive.  We must teach these savages not to cross us.$B$BOur scouts have located what's left of the Silverbrook trappers... you know, the ones you didn't get to douse in flames.  Apparently they're blockading the road to the southeast... perhaps they're trying to box us in.$B$BHead to the Forest's Edge post and take care of them.  Their leader's reported to be a man named Vladek... make sure he's dealt with.",
+  "p": "Is it done, %N?",
+  "c": "It's a shame those trappers turned out to be... afflicted.  We sure could've used a few more fighting men.$B$BMay the poor souls rest in peace."
+ },
+ {
+  "id": 12311,
+  "t": "The Noble's Crypt",
+  "o": "Cavalier Durkon at Wintergarde Keep wants you to slay Necrolord Amarion.",
+  "d": "Held within the cold stone walls of this crypt are the remains of the nobles and dignitaries that died in Northrend. At its very core now sits a necrolord who raises the corpses as servants of the Scourge.$B$BYou must make your way to the bottom of the Wintergarde Crypt and kill Necrolord Amarion. Only then will the assault from within cease!$B$BAnd $N, be on the lookout for any information that might be laying about inside the room where Amarion resides. $B",
+  "p": "Is Amarion dead?",
+  "c": "Now if we could stop the Scourge attacks coming from outside the keep we might be able to send help to Lord Fordragon at the Wrathgate."
+ },
+ {
+  "id": 12312,
+  "t": "Secrets of the Scourge",
+  "o": "Deliver the Flesh-bound Tome to Cavalier Durkon at Wintergarde Keep in Dragonblight.",
+  "d": "Scrawled across the flesh-bound chapters of this tome are strange symbols and shapes that seem to have been scraped into the pages with a blade. You have no idea what is written, but you are certain that whatever it is, it must be important.$B$BDeliver the tome to Cavalier Durkon standing guard topside at Wintergarde Crypt.",
+  "p": "A Scourge tome?",
+  "c": "Whatever information is held in this book must be of great importance! I could hear the howls and wails echoing through the crypt as you made your escape!$B$BThe High Commander must be notified!"
+ },
+ {
+  "id": 12313,
+  "t": "UNUSED Save Brewfest!",
+  "o": "Talk to the Brewfest spy in the Grim Guzzler of Blackrock Depths.$B",
+  "d": "Save Brewfest!  Talk to the Brewfest spy in the Grim Guzzler of Blackrock Depths.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12314,
+  "t": "Down With Captain Zorna!",
+  "o": "Slay Captain Zorna and report to Baron Freeman at Venture Bay.",
+  "d": "The Horde's forces are poised to break through our lines and complete their conquest of Venture Bay if we do not act. The Horde's forces in the port are commanded by Captain Zorna, near the ship on the far side of the bay.$B$BIf you can defeat her, the Horde's offensive will falter and we can seize the chance to capture the port. Beware, $N, for Zorna is a fierce fighter. It may take several people to defeat her, or if you have access to a repaired shredder, you might try using it to your advantage.",
+  "p": "Have you slain Captain Zorna?",
+  "c": "Well done, $N! Without their leader, the Horde is weak and disorganized. I will order our men forward."
+ },
+ {
+  "id": 12315,
+  "t": "Crush Captain Brightwater!",
+  "o": "Slay Captain Brightwater and report to General Khazgar at Venture Bay.",
+  "d": "With every advance, our men are met by fresh Alliance reinforcements. It's almost as though their commander anticipates my every move!$B$BThe time has come for good Captain Brightwater to meet his end. He commands his troops from aboard an Alliance destroyer at the far end of the bay.$B$BThis will be no easy fight, $N. Take along a couple of trusted friends, or if you have a key to one of those repaired shredders, use it to disembowel Brightwater! Either way, he must fall!",
+  "p": "Have you eliminated the enemy captain?",
+  "c": "You are a true soldier of the Horde, $N. Your bravery will inspire my men to victory!"
+ },
+ {
+  "id": 12316,
+  "t": "Keep Them at Bay!",
+  "o": "Defeat 10 Horde units or players in Venture Bay and return to Lieutenant Stuart.",
+  "d": "We cannot permit the Horde to control Venture Bay. The port is essential to our operations in Grizzly Hills and beyond.$B$BCaptain Stoutmantle has taken the rest of the Westfall Brigade east in search of a passage through the mountains, so we'll have no reinforcements.$B$BGo into the field, $N, and kill the Conquest Hold berserkers the Horde has sent against us. Cut them down until none remain standing. The Alliance must have this port!",
+  "p": "What have you to report?",
+  "c": "Your bravery has inspired the men of the Westfall Brigade. Even now they fight with greater ferocity. The port will soon be ours."
+ },
+ {
+  "id": 12317,
+  "t": "Keep Them at Bay",
+  "o": "Defeat 10 Alliance units or players in Venture Bay and return to Centurion Kaggrum.",
+  "d": "This wretched Westfall Brigade is proving a tougher opponent than we'd thought. Though few in number, they fight well and bravely, but we cannot afford to wait them out.$B$BConqueror Krenna's orders were to capture the port quickly. You must break the stalemate, $N. Find the enemy's marines and slaughter them until the resistance ceases. Only then will we be able to claim ownership of the port.$B$BGo quickly. We don't want to keep Conqueror Krenna waiting.",
+  "p": "Have you done as ordered?",
+  "c": "The port will soon fall to us. You have done well this day, $N."
+ },
+ {
+  "id": 12318,
+  "t": "Save Brewfest!",
+  "o": "Speak with the Brewfest Spy in the Grim Guzzler of Blackrock Depths.$B",
+  "d": "$n, our spies have discovered a fiendish plot!  The Dark Iron dwarves want our beloved Brewfest destroyed!$B$BCoren Direbrew, head of a renegade family of brewers, has marshaled the dwarves of Blackrock Depths.  Their vile mole machines attack us constantly.$B$BOur spy is in the Grim Guzzler, a tavern in the bowels of Blackrock Depths.  He'll know more of Direbrew's plot.$B$BFind our spy.  Save Brewfest!",
+  "p": "",
+  "c": "You're from the Brewfest camp? Glory day! Brewfest may yet be saved.$B$B$N, Coren Direbrew must be stopped! We cannot let him sabotage our sacred holiday. Our brews must flow!"
+ },
+ {
+  "id": 12319,
+  "t": "Mystery of the Tome",
+  "o": "Take the Flesh-bound Tome to High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight.",
+  "d": "What can it be, $N? That was certainly no ordinary curse that the blasted lich put on you!$B$B<Durkon flips through the grisly pages of the tome.>$B$BI don't even know if I'm looking at it the right way. We must find out what information is held within this tome!$B$B<Durkon hands the book back to you.>$B$BThe High Commander will know what to do. Take the flesh-bound tome to him and tell him exactly what happened here.",
+  "p": "The necrolord is no more?",
+  "c": "<Halford's eyes widen.>$B$BThe fates smile down upon us on this day, $N. I know just the person to see about this tome."
+ },
+ {
+  "id": 12320,
+  "t": "Understanding the Language of Death",
+  "o": "Take the Flesh-bound Tome to Inquisitor Hallard at the Wintergarde Keep prison.",
+  "d": "Take the book and follow the path leading up to the barracks. Once inside the barracks take the staircase down to the prison. At the prison you will find Inquisitor Hallard and our mayor, Godfrey. I believe Godfrey might be the missing piece of this puzzle and Hallard the man to put it all together.$B$BGo now!",
+  "p": "You come from high command, my $g son:girl;?",
+  "c": "Perhaps, with proper motivation, Godfrey will tell us what he knows about the tome.$B$B<Hallard turns to Mayor Godfrey.>$B$BIsn't that right, mayor?"
+ },
+ {
+  "id": 12321,
+  "t": "A Righteous Sermon",
+  "o": "Wait for Inquisitor Hallard to finish his Righteous Sermon and return to High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight with the information you uncover.",
+  "d": "Godfrey Goodard, once a righteous man and mayor of Wintergarde, is now an agent of the Scourge. His transformation from man to undying ghoul has taken place slowly, over time. He hears the call of the Lich King now and lives only to serve his master.$B$BBut as with all Scourge, Godfrey knows the language of death and with proper motivation, will tell us what we need to know about the tome.$B$BOnce you hear what you need to hear, return to the High Commander at the front lines. I'll clean up here as needed.",
+  "p": "",
+  "c": "We should have known about the damned mausoleum. This is preposterous! Duke August Foehammer and Ambo Cash will be dispatched to the front lines in preparation for our next assault.$B$BOnce you have cleared the mines I will send you to Foehammer so that we may begin our attack against the Scourge of Naxxramas!$B$BThe information you have garnered thus far will be sent to Lord Fordragon at the Wrathgate upon the wings of our most able gryphon!"
+ },
+ {
+  "id": 12323,
+  "t": "Smoke 'Em Out",
+  "o": "Use the Smoke Bomb to drive 20 Venture Company Stragglers from their buildings and then report to Sergeant Downey.",
+  "d": "There are still pockets of cowardly Venture Company men holed up in some of the buildings at the center of Venture Bay. I need every man I can spare out there fighting against the Horde, but we can't allow those Venture Company stragglers to camp out in those buildings, either.$B$BMaybe we can \"convince\" them to make for their ship. Take this smoke bomb and use it to smoke out the stragglers from their places in the bunkhouse, sawmill, or stables. Don't get too close, though; they probably bite.",
+  "p": "Have you smoked out the last of the Venture Company guys yet?",
+  "c": "Well done, soldier! Now the rest of the men can focus their efforts on the Horde."
+ },
+ {
+  "id": 12324,
+  "t": "Smoke 'Em Out",
+  "o": "Use the Smoke Bomb to drive 20 Venture Company Stragglers from their buildings and then report to Stone Guard Ragetotem.",
+  "d": "Not only is this port infested with sniveling Alliance cowards, but to make matters worse, there are still Venture Company employees holed up in some of the buildings. They're not worth the time it takes to kill and I can't spare the warriors anyway.$B$BMaybe we can \"convince\" them to make for their ship. Take this smoke bomb and use it to smoke out the stragglers from their places in the bunkhouse, sawmill, or stables. Don't get too close, though; there's no telling what diseases they're carrying.",
+  "p": "Have you smoked out the last of the Venture Company vermin yet?",
+  "c": "The general will be pleased that you've dealt with the Venture Company problem. Now, the men can focus on beating back the Alliance."
+ },
+ {
+  "id": 12325,
+  "t": "Into Hostile Territory",
+  "o": "Speak with Gryphon Commander Urik to secure a ride to Thorson's Post. Report to Duke August Foehammer when you arrive at Thorson's Post in Dragonblight.$B",
+  "d": "You have done much to advance our efforts against the Scourge, $N. In fact, the morale of all those who have come into contact with you soars! Such is your influence over the soldiers and citizenry of Wintergarde, ally.$B$BAnd because of you we are now prepared to go on the offensive! You are to report to Duke August Foehammer, across the Carrion Fields at Thorson's Post, east of here. Gryphon Commander Urik at the gryphon station has prepared a special gryphon to drop you behind enemy lines. Go now!",
+  "p": "",
+  "c": "Ah, the distinguished hero arrives. Welcome to ground zero, $N. Allow me to bring you up to speed!$B$BThel'zan's most powerful forces have made their way into the Wintergarde Mausoleum. They plumb its depths in search of corpses and souls to send against Wintergarde while Naxxramas rains down terrible Scourge plague machines, set to hold us at bay!$B$BWe must strike now and hope that Lord Fordragon is able to hold out at the Wrathgate for just a little longer.\n"
+ },
+ {
+  "id": 12326,
+  "t": "Steamtank Surprise",
+  "o": "Use an Alliance Steam Tank to destroy 6 Plague Wagons and deliver the 7th Legion Elites to Wintergarde Mausoleum. Speak with Ambo Cash inside the Wintergarde Mausoleum in Dragonblight should you succeed.",
+  "d": "This is a seek and destroy mission. You'll be driving a tank into the Carrion Fields to dismantle Scourge plague wagons. With the tank comes a crew of three 7th Legion soldiers. All must survive if this mission is to succeed!$B$BYou'll need to get in close to a plague wagon to unleash your engineer. Let them do their deed and move on to the next one. When the field is clear of plague wagons, head to the mausoleum in front of the ruined keep and drop off the rest of your crew. Meet with Ambo Cash inside.",
+  "p": "Name's Cash. Ambo Cash. And the pleasure is all yours.",
+  "c": "Why I'm not wearing any pants isn't important. Let's just say I took some Scourge shrapnel in the wrong place and leave it at that, ok?$B$BSo you wiped out those plague wagons up in the fields and got my soldiers here in one piece. Impressive. You're one of the first to make it this far, friend. Too bad you gotta go right back out into the Carrion Fields. Yep, we've had a bit of a setback.\n"
+ },
+ {
+  "id": 12327,
+  "t": "Out of Body Experience",
+  "o": "Drink the Gossamer Potion near Ruuna's Crystal Ball and witness the Vision from the Past.",
+  "d": "Ah, you seek a vision of the past.  You're a wise $r.$B$BEvery time someone drops by for a reading, they seem to always ask about the future.  When you get to be my age, you learn that scrying the past, more often than not, is more useful.$B$BDrink this potion and peer into my crystal ball.  Let us see what knowledge we can obtain.",
+  "p": "Yes, $N?",
+  "c": "Did you learn anything from your vision?  You mentioned Solstice Village during your trance -- which marks the second time someone has spoken the place's name today."
+ },
+ {
+  "id": 12328,
+  "t": "Ruuna's Request",
+  "o": "Ruuna the Blind wants you to obtain 4 handfuls of Gossamer Dust.",
+  "d": "I will not charge you gold for my services, for I can foresee that your actions are necessary and much hinges on what you learn today.$B$BI will, however, ask you to collect a reagent for me.  Obtain gossamer dust from the fern feeder moths northeast of here.  Do this and I will prepare a potion that will take you to the time and place where the events took place that you need to witness.",
+  "p": "Did you obtain the dust, $N?",
+  "c": "Good.  These will do just fine.$B$BI will have the potion ready for you in no time at all."
+ }
+]

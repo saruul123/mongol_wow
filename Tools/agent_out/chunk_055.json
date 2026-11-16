@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11719,
+  "t": "A Suitable Test Subject",
+  "o": "Bloodmage Laurith at the Bloodspore Plains in the Borean Tundra has asked that you use the Pollinated Bloodspore Flower and allow her to observe the results.",
+  "d": "<Laurith looks you over as if to size you up.>$B$BSo we've got this pollinated bloodspore flower and nobody to test its effects on. Say, would you perhaps be interested in rubbing this on your skin and letting me observe? What's the worst that could happen anyway?$B$BDon't you worry, $N! Just take this sample and rub it all over your face. ",
+  "p": "",
+  "c": "Primal Mighthorn will be delighted! This is better than even I expected!$B$BPerhaps it's time that I told you the truth."
+ },
+ {
+  "id": 11720,
+  "t": "The Invasion of Gammoth",
+  "o": "Speak to Primal Mighthorn at the Bloodspore Plains in the Borean Tundra.$B",
+  "d": "Hellscream assigned Mighthorn and I with the daunting task of magnataur extermination on the southern front of Warsong Hold. With us came an entire platoon of seasoned Horde soldiers. Our initial foray into the nearby magnataur dens proved quite unsuccessful as our entire squad was wiped out by the lair defenders. We're the only ones left...$B$BWe aren't scientists or researchers. We're soldiers of the Horde, just like you. Soldiers on a mission that cannot fail...$B$BSpeak to Primal Mighthorn now.",
+  "p": "",
+  "c": "The bloodspore that you collected might just be enough to give us an edge against the magnataurs of Gammoth - with your help, of course."
+ },
+ {
+  "id": 11721,
+  "t": "Gammothra the Tormentor",
+  "o": "Slay Gammothra and return the Head of Gammothra to Primal Mighthorn at the Bloodspore Plains in the Borean Tundra.",
+  "d": "Magnataur live in prides, much like lions: one or two dominant males and several females along with their offspring. In the case of Gammoth, the magnataur den west of here, Gammothra is the leader. It is Gammothra that controls this magnataur population and therefore it is Gammothra that must be slain to prevent any type of magnataur uprising.$B$BTake this pouch of crushed bloodspore flower to Gammoth. Use the powder from the pouch to weaken Gammothra and then slay him! Return his head to me as proof.",
+  "p": "The powder can be used to weaken all magnataur. It is why the rat men of the area guard it so closely.",
+  "c": "A job well done, $N! Would you honor Laurith and I by taking the head of the beast and presenting it to Hellscream? He will be extremely pleased."
+ },
+ {
+  "id": 11722,
+  "t": "Trophies of Gammoth",
+  "o": "Take the Head of Gammothra to Garrosh Hellscream in Warsong Hold.",
+  "d": "We cannot take all of the credit for this Horde victory, $N. It was you who risked your life to test the bloodspore and it was you who ultimately put an end to Gammothra.$B$BHonor us by returning to Warsong Hold and presenting the head of Gammothra to Lord Hellscream.",
+  "p": "Back so soon?",
+  "c": "<Hellscream picks up the head of Gammothra with one arm and spits in its face.>$B$BThey will learn, $N... They will all learn. The Horde is not to be trifled with..."
+ },
+ {
+  "id": 11723,
+  "t": "Deploy the Shake-n-Quake!",
+  "o": "Abner Fizzletorque at Fizzcrank Airstrip wants you to use the Shake-n-Quake 5000 to collapse the Nerubian tunnels and defeat Lord Kryxix.",
+  "d": "Behold, the machine that will save us from the Nerubian threat!$B$B<Abner beams with pride as he presents the finished bot.>$B$BTake this remote control with you, and go out to the southernmost of the Nerubian sinkholes in the Geyser Fields. Use the remote to activate the Shake-n-Quake 5000. It will do the rest on its own.$B$BDon't be surprised if the quake it creates attracts the attention of a Nerubian leader. In fact, it would be a great opportunity to finish off the Nerubian offensive.",
+  "p": "Well, have you deployed the Shake-n-Quake 5000 yet?",
+  "c": "<Abner listens eagerly as you report your success and the success of the Shake-n-Quake 5000.>$B$BFizzcrank will be delighted to hear the news! And who knows, perhaps we'll make a mechanic of you yet!"
+ },
+ {
+  "id": 11724,
+  "t": "Massive Moth Omelet?",
+  "o": "Take the Massive Glowing Egg to Bloodmage Laurith at the Bloodspore Plains in the Borean Tundra.",
+  "d": "This egg was obviously important to somebody, as the corpse nearby can attest. As you look the egg over you notice that it has already been tagged for shipment to the Bloodspore Plains, care of Bloodmage Laurith. That's just east of here!$B$BCollect the egg and take it to the expectant Bloodmage.",
+  "p": "Greetings!",
+  "c": "Alkor is no more, eh? A pity... As for the egg, we have no real use for it anymore. We've got much bigger problems to deal with now."
+ },
+ {
+  "id": 11725,
+  "t": "Finding Pilot Tailspin",
+  "o": "Locate Iggy \"Tailspin\" Cogtoggle in the Geyser Fields.",
+  "d": "I should've flown the mission myself. It's not that I don't trust Tailspin. Far from it. Heck, he was the best wingman I ever flew with.$B$BNo, it's just that it's my responsibility to lead a mission of such import.$B$BI sent Tailspin out with our fastest recon squadron to gather information about the Nerubian infestation in the middle of the Geyser Fields.$B$BThe last report we received placed his squadron in the pools to the far south and just west of the Nerubian sinkholes.$B$BFind Tailspin, $N.",
+  "p": "",
+  "c": "Thank goodness. It was terrible.$B$BThere was a bright flash on the ground, and then, the next thing I know, the squadron's going down! I'm hurt pretty badly, so I haven't had a chance to comb the site for other survivors, but something tells me I don't think there will be many.$B$B<Iggy grimaces in pain.>$B$BWill you help me complete my mission?"
+ },
+ {
+  "id": 11726,
+  "t": "A Little Bit of Spice",
+  "o": "Iggy \"Tailspin\" Cogtoggle in the Scalding Pools wants you to gather 4 Gorloc Spice Pouches.",
+  "d": "The wolves have been pawing through the wreckage ever since the crash and I'm afraid they consumed the microfilm from our mission in the process.$B$BI have a plan to recover that microfilm, but I need your help to make it work.$B$BTo the south and east, in the Flood Plains, live creatures called gorlocs. They prepare their foods with noxious spices, which would sicken any other creature. If you can gather enough of the spice pouches from gorloc steam belchers or gorloc waddlers, I can make the wolf bait.",
+  "p": "Do you have those spice pouches?",
+  "c": "<Iggy holds his nose as he empties the spice pouches and addresses you in a nasal voice.>$B$BNow that we have what we need, I'll combine it with my emergency rations to create a bait for the wolves. "
+ },
+ {
+  "id": 11727,
+  "t": "A Time for Heroes",
+  "o": "Report to Sergeant Hammerhill at Valiance Keep.",
+  "d": "It's good to have you among us, $N.  We've all heard of your past deeds.$B$BAs you know, King Wrynn is moving great armies into Northrend to meet those of Arthas.  But armies are nothing without true heroes to inspire and lead them.$B$BI want you to be that hero for my men.  Fight alongside them against the Scourge that lays siege to our stronghold.$B$BReport to Sergeant Hammerhill outside the inner hold.  Valiance Keep cannot fall.  The future of our campaign depends on it.",
+  "p": "",
+  "c": "By Magni's beard!  Looks like the heavy artillery's arriving."
+ },
+ {
+  "id": 11728,
+  "t": "Lupus Pupus",
+  "o": "Iggy \"Tailspin\" Cogtoggle in the Scalding Pools wants you to bring him 8 pieces of Microfilm.",
+  "d": "Whatever you do, don't eat this bait yourself. Just set it down in the vicinity of an oil-soaked wolf. If they're desperate enough to eat the microfilm, they'll come running when they smell the bait.$B$BSimply wait for nature to take its course and then all you need to do is search the, uh... byproduct for the film.$B$BI'd offer you my special lupus pupus scupus for the job, but I left it back at the airstrip. I'm afraid you'll have to conduct the... err... search the old-fashioned way.",
+  "p": "Have you recovered the microfilm?",
+  "c": "<Iggy holds his nose as he accepts the microfilm from you.>$B$BYuck, well, we've complied with section 8.2, paragraph B of the emergency protocol here and recovered the film. Nothing in the protocol says I'm responsible for cleaning it, though."
+ },
+ {
+  "id": 11729,
+  "t": "The Ultrasonic Screwdriver",
+  "o": "Deliver the Ultrasonic Screwdriver to Crafty Wobblesprocket at Fizzcrank Airstrip.",
+  "d": "The unit you just dismantled had this inside of its mechanical innards.$B$BIt looks pretty complicated... certainly someone back at the airstrip would want to take a look at it. Maybe Crafty Wobblesprocket?",
+  "p": "Hey!",
+  "c": "My screwdriver... you found my screwdriver! I'd been wondering where that thing got lost.$B$BHmm, you found it inside one of their robots, you say? That gives me an idea...."
+ },
+ {
+  "id": 11730,
+  "t": "Master and Servant",
+  "o": "Use the Ultrasonic Screwdriver to reprogram 15 robots and then return to Crafty Wobblesprocket at Fizzcrank Airstrip.$B$BMake sure to loot the dead robot before you reprogram it.",
+  "d": "The Ultrasonic Screwdriver is the ultimate tool. It can do anything to mechanical stuff!$B$BHead back into the pools and dismantle a number of Mechazod's robots. Then all you have to do is use the screwdriver on their remains, and I'm betting that they'll turn to our side, for a short time anyway.$B$BI'm pretty sure it won't work on the mechagnomes, so don't even bother with them.$B$BOh, and if you want to take anything from the robot's insides, you'll want to do so before using the screwdriver!",
+  "p": "How many robots have you managed to reprogram?",
+  "c": "Woo hoo! And you brought back the screwdriver intact, too!$B$BReprogramming those robots is going to turn out to be a huge advantage in our favor in the fight against Gearmaster Mechazod. I think you've earned a little something for that."
+ },
+ {
+  "id": 11731,
+  "t": "Torch Tossing",
+  "o": "Win the torch tossing game, then speak with the Master Fire Eater.",
+  "d": "So you want to be a fire juggler?  Do you have what it takes?  The dexterity?  The reflexes?  ...the courage?  If you think so, then let's give you a little practice!$B$BTake these torches and run near the bonfire.  You'll see  braziers with markers flashing above them.  Toss a torch at a marked brazier.  Be quick! Do it before the mark fades if you want credit for the toss!$B$BHit enough marked braziers before the time limit, then come back here... for your next lession.",
+  "p": "Quick! There's no time to waste!",
+  "c": "Quick! There's no time to waste!"
+ },
+ {
+  "id": 11732,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Arathi Highlands bonfire!"
+ },
+ {
+  "id": 11733,
+  "t": "Traversing the Rift",
+  "o": "Surristrasz wants you to travel to Coldarra. Once there, you are to speak with Archmage Berinand.",
+  "d": "I've been mindful of your efforts, mortal. Do not feign surprise. Surely you've felt my eye upon you.$b$bThe time has come to peel back a layer of darkness from your mind. There are stark truths that you have grown ready to accept.$b$bBefore hearing the tale, you shall be shown firsthand what we face.$b$bPut your affairs in order, $c....",
+  "p": "",
+  "c": "Welcome to Coldarra, $c.$b$bUnder the Transitus Shield we lie hidden just a stone's throw from the Nexus, fortress of the great aspect Malygos and his blue dragonflight.$b$bDo make yourself comfortable."
+ },
+ {
+  "id": 11734,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Ashenvale bonfire!"
+ },
+ {
+  "id": 11735,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Azuremyst Isle bonfire!"
+ },
+ {
+  "id": 11736,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Blade's Edge Mountains bonfire!"
+ },
+ {
+  "id": 11737,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Blasted Lands bonfire!"
+ },
+ {
+  "id": 11738,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Bloodmyst Isle bonfire!"
+ },
+ {
+  "id": 11739,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Burning Steppes bonfire!"
+ },
+ {
+  "id": 11740,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Darkshore bonfire!"
+ },
+ {
+  "id": 11741,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Desolace bonfire!"
+ },
+ {
+  "id": 11742,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Dun Morogh bonfire!"
+ },
+ {
+  "id": 11743,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Duskwood bonfire!"
+ },
+ {
+  "id": 11744,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Dustwallow Marsh bonfire!"
+ },
+ {
+  "id": 11745,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Elywnn Forest bonfire!"
+ },
+ {
+  "id": 11746,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Feralas bonfire!"
+ },
+ {
+  "id": 11747,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Hellfire Peninsula bonfire!"
+ },
+ {
+  "id": 11748,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Hillsbrad Foothills Bonfire!"
+ },
+ {
+  "id": 11749,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Loch Modan bonfire!"
+ },
+ {
+  "id": 11750,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Nagrand bonfire!"
+ },
+ {
+  "id": 11751,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Redridge Mountains bonfire!"
+ },
+ {
+  "id": 11752,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Shadowmoon Valley bonfire!"
+ },
+ {
+  "id": 11753,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Teldrassil bonfire!"
+ },
+ {
+  "id": 11754,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Terokkar Forest bonfire!"
+ },
+ {
+  "id": 11755,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Hinterlands bonfire!"
+ },
+ {
+  "id": 11756,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Western Plaguelands bonfire!"
+ },
+ {
+  "id": 11757,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Wetlands bonfire!"
+ },
+ {
+  "id": 11758,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Zangarmarsh bonfire!"
+ },
+ {
+  "id": 11759,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Netherstorm bonfire!"
+ },
+ {
+  "id": 11760,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Silithus bonfire!"
+ },
+ {
+  "id": 11761,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Stranglethorn Vale bonfire!"
+ },
+ {
+  "id": 11762,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Tanaris bonfire!"
+ },
+ {
+  "id": 11763,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Alliance's Winterspring bonfire!"
+ },
+ {
+  "id": 11764,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Arathi Highlands bonfire!"
+ },
+ {
+  "id": 11765,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Ashenvale bonfire!"
+ },
+ {
+  "id": 11766,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Badlands bonfire!"
+ },
+ {
+  "id": 11767,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Blade's Edge Mountains bonfire!"
+ },
+ {
+  "id": 11768,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Burning Steppes bonfire!"
+ },
+ {
+  "id": 11769,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Desolace bonfire!"
+ },
+ {
+  "id": 11770,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Durotar bonfire!"
+ },
+ {
+  "id": 11771,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Dustwallow Marsh bonfire!"
+ },
+ {
+  "id": 11772,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Eversong Woods bonfire!"
+ },
+ {
+  "id": 11773,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Feralas bonfire!"
+ },
+ {
+  "id": 11774,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Ghostlands bonfire!"
+ },
+ {
+  "id": 11775,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Hellfire Peninsula bonfire!"
+ },
+ {
+  "id": 11776,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Hillsbrad Foothills Bonfire!"
+ },
+ {
+  "id": 11777,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Mulgore bonfire!"
+ },
+ {
+  "id": 11778,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Nagrand bonfire!"
+ },
+ {
+  "id": 11779,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Shadowmoon Valley bonfire!"
+ },
+ {
+  "id": 11780,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Stonetalon Mountains bonfire!"
+ },
+ {
+  "id": 11781,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Swamp of Sorrows bonfire!"
+ },
+ {
+  "id": 11782,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Terokkar Forest bonfire!"
+ },
+ {
+  "id": 11783,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Barrens bonfire!"
+ },
+ {
+  "id": 11784,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Hinterlands bonfire!"
+ },
+ {
+  "id": 11785,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Thousand Needles bonfire!"
+ },
+ {
+  "id": 11786,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Tirisfal Glades bonfire!"
+ },
+ {
+  "id": 11787,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Zangarmarsh bonfire!"
+ },
+ {
+  "id": 11788,
+  "t": "Lefty Loosey, Righty Tighty",
+  "o": "Dismantle Twonky, ED-210, Max Blasto, and The Grinder, and then report back to Jinky Wingnut at Fizzcrank Airstrip.",
+  "d": "Okay, I think we're ready for the penultimate assault... before you can bring down Mechazod, you're going to have to dismantle his lieutenants first!$B$BYou'll find Twonky, ED-210, Max Blasto, and The Grinder at the West Point, North Point, Mid Point and South Point stations, respectively.$B$BTo get them to show up, just turn the valves at the stations to mess up whatever they're trying to do out there. You can't miss the places, they all have spinning lights.",
+  "p": "Are Gearmaster Mechazod's lieutenants dealt with?",
+  "c": "Wow, you survived!$B$BI guess all that's left to do now is to deal with Gearmaster Mechazod."
+ },
+ {
+  "id": 11789,
+  "t": "A Soldier in Need",
+  "o": "Medic Hawthorn, outside of Valiance Keep, wants you to go inside the Stormbreaker's hold and retrieve Hawthorn's Anti-Venom from a crate of First Aid Supplies.",
+  "d": "You there!  Please, I need your help.  This soldier will succumb to the cryptfiends' venom unless we act immediately.$B$BI've managed to slow down the poison, but without a suitable supply of antidote I cannot counteract it.$B$BI was promised a new shipment of anti-venom in the Stormbreaker's most recent trip from the south.  Go inside its hold and search for a chest of first aid supplies.$B$BHurry, $c!  We can't afford to lose any more men unnecessarily.",
+  "p": "The anti-venom... do you have it?",
+  "c": "I thank you, $N.  This man's recovery will be slow, but we won't lose him.$B$BWhat do you say?  You found cultists inside the Stormbreaker?  You'd best notify someone... and bring some evidence."
+ },
+ {
+  "id": 11790,
+  "t": "Cultists Among Us",
+  "o": "Speak to Captain \"Lefty\" Lugsail above the Stormbreaker in Valiance Keep.",
+  "d": "This altar bears all the markings of the Cult of the Damned.  It appears fanatics from the mainland have made it into Northrend.  It might be prudent to notify the captain of the ship.$B$BPerhaps he is to be found above deck.",
+  "p": "",
+  "c": "Cultists? Below deck? I ought to have my whole crew flogged!$B$BListen... why don't we have Admiral Cantlebree take care of this... situation?"
+ },
+ {
+  "id": 11791,
+  "t": "Notify Arlos",
+  "o": "Speak to General Arlos inside the Inner Hold at Valiance Keep.",
+  "d": "We must notify General Arlos at once.  I've known the captain for a long time and, believe me, he is one of the more careful ones.$B$BWho knows how many cultists have been smuggled into our settlements in Northrend in other ships?  This could be disastrous.",
+  "p": "",
+  "c": "Thank you for your concern, $N.  We were made aware of the situation not too long ago.$B$BCounselor Talbot assures me that this was an isolated incident and not a cause for military concern.$B$BOur civilian authorities will make sure everyone involved is properly prosecuted."
+ },
+ {
+  "id": 11792,
+  "t": "Enemies of the Light",
+  "o": "Harbinger Vurenn wants you to fight the Cultist Necrolytes near Farshire to the north of Valiance Keep and retrieve the Cultist Communique from them.",
+  "d": "Not so fast there.  I don't know about you, $c, but I was hardly convinced by the general's words.  They rung unsure... as if they were not his own.$B$BSomething's amiss here.  All of our efforts to collaborate have been blocked and delayed.  It is time we took a more independent approach.$B$BIf we're to learn more about the cultists inside the keep... perhaps we should investigate those outside.$B$BIntelligence reports a small group of them aiding the Scourge north of here.  See if they carry any clues.",
+  "p": "You're back, $N.",
+  "c": "Be discreet, $N.  We cannot look at this evidence in front of prying eyes."
+ },
+ {
+  "id": 11793,
+  "t": "Further Investigation",
+  "o": "Bring the Cultist Communique to Vindicator Yaala inside the inn in Valiance Keep.",
+  "d": "I'm afraid this is a matter I must delegate to one of my operatives... someone who can work in secret.  Keep the evidence with you and take it to Vindicator Yaala inside the inn.$B$BTell her I sent you and speak of this matter to no one else.  We do not know who might be working for the cult.",
+  "p": "Harbinger Vurenn sent you?",
+  "c": "Speak quickly, $c.  What information do you have on the cult?"
+ },
+ {
+  "id": 11794,
+  "t": "The Hunt is On",
+  "o": "Vindicator Yaala wants you to use the Oculus of the Exorcist in three different locations in Valiance Keep to uncover and defeat Cult of the Damned members.",
+  "d": "I've made it my business to learn as much as possible about the vile death cult, including their secret language.$B$BVurenn was right.  The cultists mention disguised operatives in various locations in Valiance Keep: the lower docks, the jail inside the inner hold and in the inn's kitchen.$B$BTake this oculus.  Use it at those three locations - anyone that has recently used the cult's necromancy will be enshrouded by a dark aura.  Take care of the cultists before something nefarious happens.",
+  "p": "Have you accomplished the task I asked of you, $N?",
+  "c": "You've done well, $N.  However, I can't shake the feeling that this is not the last we've seen of these death cultists.$B$BDarkness has a way of hiding even in plain sight."
+ },
+ {
+  "id": 11795,
+  "t": "Emergency Protocol: Section 8.2, Paragraph C",
+  "o": "Recover 6 Fizzcrank Pilot Insignia from the bodies of Fizzcrank Recon Pilots and return them to Iggy \"Tailspin\" Cogtoggle in the Scalding Pools.",
+  "d": "Injured or not, as squadron commander, I'm responsible for locating and returning the insignia of all fallen pilots under my command. In all the years I've flown with Fizzcrank, we've never failed to return the signet of a pilot.$B$BMy injuries make it dangerous for me to stray far from the safety of the wreckage, but perhaps you would be willing to help me recover the insignia? In the meantime, I'll make preparations to carry out my final duty as squadron commander.",
+  "p": "Did you get those insignia?",
+  "c": "Thank you once again, $N. With your help, I may yet be able to complete this mission, disastrous as it's been, and return to Fizzcrank to make my report and properly honor the dead."
+ },
+ {
+  "id": 11796,
+  "t": "Emergency Protocol: Section 8.2, Paragraph D",
+  "o": "Iggy \"Tailspin\" Cogtoggle wants you to scuttle the Eastern Wreck, a Southern Wreck, and a Northwestern Wreck.",
+  "d": "There's only one more thing left to do before I can finally return to the airstrip and make my report. Section 8.2, paragraph D of the emergency protocol requires me to scuttle as much of the wreckage as possible, in order to prevent our technology from falling into enemy hands.$B$BI'll give you my torch if you agree to help me complete this last duty. I don't want to think about what the Horde's goblin allies will do if these machines fall into their hands.",
+  "p": "Have you scuttled the wreckage yet?",
+  "c": "Once again, you have my thanks, $N. Without you, I would not have been able to recover anything useful from this disaster."
+ },
+ {
+  "id": 11797,
+  "t": "The Siege",
+  "o": "Sergeant Hammerhill wants you to kill 6 Crypt Crawlers in the Sands of Nasam outside of Valiance Keep.",
+  "d": "Well, well, well.  It's good to see Arlos bring out the big guns.$B$BDon't get me wrong - our lads are doing the best they can, but someone of your renown fighting alongside them could really turn the tides for us.  I'm not sure how much longer we can hold out against these undead Nerubians.$B$BWhat do you say you get out there and kill me some creepers?  Show these boys how it's done.",
+  "p": "You're back. Hopefully you've put a dent in the enemy's numbers.",
+  "c": "Nice job, $N.  Show the lads how it's done.  The only good creeper's a dead creeper!"
+ },
+ {
+  "id": 11798,
+  "t": "The Gearmaster",
+  "o": "Research the Gearmaster's Manual and return Mechazod's Head to Fizzcrank Fullthrottle.",
+  "d": "Gearmaster Mechazod is insane! He says that he offers us immortality by removing this so-called 'Curse of the Flesh', but what he's really making are robotic slaves!$B$B$N, we're pretty certain that he's still at the pumping station out in the middle of the pools to the east.$B$BThe last we saw of him, he was in the command hut up top. Go up there and research his stuff.$B$BYou must confront Mechazod if gnomes everywhere,... no, everyone everywhere, are to stay alive!",
+  "p": "Jinky told me to expect you.  Is it done?",
+  "c": "<The old gnome breathes a heavy sigh of relief.>$B$BIt is done then... you have saved us! If you hadn't stopped him here, then who knows how far his madness would have spread?$B$BWith the threats from the blue dragons and the Nexus War, not to mention the Lich King, the last thing we need is a mad creation of the Titans running loose!$B$BThank you, $N!"
+ },
+ {
+  "id": 11799,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Netherstorm bonfire!"
+ },
+ {
+  "id": 11800,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Silithus bonfire!"
+ },
+ {
+  "id": 11801,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Stranglethorn Vale bonfire!"
+ },
+ {
+  "id": 11802,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Tanaris bonfire!"
+ },
+ {
+  "id": 11803,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Winterspring bonfire!"
+ },
+ {
+  "id": 11804,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Arathi Highlands flame!"
+ },
+ {
+  "id": 11805,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Ashenvale flame!"
+ },
+ {
+  "id": 11806,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Azuremyst Isle flame!"
+ },
+ {
+  "id": 11807,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "Honor the Blade's Edge Mountains flame! ",
+  "c": "Honor the Blade's Edge Mountains flame!"
+ },
+ {
+  "id": 11808,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Blasted Lands flame!"
+ },
+ {
+  "id": 11809,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Bloodmyst Isle flame!"
+ },
+ {
+  "id": 11810,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Burning Steppes flame!"
+ },
+ {
+  "id": 11811,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Darkshore flame!"
+ },
+ {
+  "id": 11812,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Desolace flame!"
+ },
+ {
+  "id": 11813,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Dun Morogh flame!"
+ },
+ {
+  "id": 11814,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Duskwood flame!"
+ },
+ {
+  "id": 11815,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Dustwallow Marsh flame!"
+ },
+ {
+  "id": 11816,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Elwynn Forest flame!"
+ },
+ {
+  "id": 11817,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Feralas flame!"
+ },
+ {
+  "id": 11818,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Hellfire Peninsula flame!"
+ },
+ {
+  "id": 11819,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Hillsbrad Foothills flame!"
+ },
+ {
+  "id": 11820,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Loch Modan flame!"
+ },
+ {
+  "id": 11821,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Nagrand flame!"
+ },
+ {
+  "id": 11822,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Redridge Mountains flame!"
+ },
+ {
+  "id": 11823,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Shadowmoon Valley flame!"
+ },
+ {
+  "id": 11824,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Teldrassil flame!"
+ },
+ {
+  "id": 11825,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Terokkar flame!"
+ },
+ {
+  "id": 11826,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Hinterlands flame!"
+ },
+ {
+  "id": 11827,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Western Plaguelands flame!"
+ },
+ {
+  "id": 11828,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Wetlands flame!"
+ },
+ {
+  "id": 11829,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Zangarmarsh flame!"
+ },
+ {
+  "id": 11830,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Netherstorm flame!"
+ },
+ {
+  "id": 11831,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Silithus flame!"
+ },
+ {
+  "id": 11832,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Cape of Stranglethorn flame!"
+ },
+ {
+  "id": 11833,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Tanaris flame!"
+ },
+ {
+  "id": 11834,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Winterspring flame!"
+ },
+ {
+  "id": 11835,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Netherstorm flame!"
+ },
+ {
+  "id": 11836,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Silithus flame!"
+ },
+ {
+  "id": 11837,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Cape of Stranglethorn flame!"
+ },
+ {
+  "id": 11838,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Tanaris flame!"
+ }
+]

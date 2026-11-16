@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10862,
+  "t": "Surrender to the Horde",
+  "o": "Rokag wants you to seek out Rilak the Redeemed in the Lower City section of Shattrath City and demand that he and his people surrender to the Horde.",
+  "d": "The cowardly arakkoa attack us daily.  They ambush our hunters and sometimes even raid inside our walls.  We kill them when we can, but their magic is strong and they often escape our warbands.  $B$BI have learned that some arakkoa claim to be friendly with the Horde.  They live in Shattrath City to the northwest.  Rilak the Redeemed is their leader.  Search for him in the Lower City, and when you find him, demand his surrender.",
+  "p": "",
+  "c": "Your people are angry but there is little I can do. Some of us have been touched by the power of the naaru and we are forever changed. Those of us who remain in the wild are as we have always been."
+ },
+ {
+  "id": 10863,
+  "t": "Secrets of the Arakkoa",
+  "o": "Lady Dena Kennedy wants you to seek out Rilak the Redeemed in the Lower City section of Shattrath City and find out what secrets he will share of the Arakkoa.",
+  "d": "Out here on the frontier we have to deal with the arakkoa every day.  They strike at us when they please, raiding our supply lines and killing our scouts.  $B$BYet we know very little about these enigmatic creatures.  I have received news that northwest of here in Shattrath City there are arakkoa who are not hostile.  They might be willing to share the secrets of their race.  $B$BRilak the Redeemed is their leader.  He resides in the northern part of the Lower City.",
+  "p": "",
+  "c": "You are wise to find me. There is much that I can show you."
+ },
+ {
+  "id": 10864,
+  "t": "A Burden of Souls",
+  "o": "Kill 20 Shattered Hand orcs, then return to Apothecary Antonivich in Thrallmar.",
+  "d": "I have a device, the Demoniac Scryer, that can analyze fel magic.  I would have you use the Scryer, but first... you must appease it.  The Scryer, you see, has trapped within it a creature of vast intelligence and its needs are, shall we say, quite eccentric.$B$BTo appease the Scryer, you must kill orcs.  Specifically, they must be Shattered Hand orcs -- the Scryer demands their souls.$B$BReturn to me when the souls are reaped.  You will find the orcs north, and south, and surrounding... Hellfire Citadel.",
+  "p": "The Demonaic Scryer is not yet appeased, $N. Return to me after you have reaped the souls of Shattered Hand orcs.",
+  "c": "Well done, $N. Your soul is burdened with many deaths... and the Demonaic Scryer will now perform its duties for you.$B$BLet us hope you are ready for the coming trial..."
+ },
+ {
+  "id": 10865,
+  "t": "Inform Leoroxx!",
+  "o": "Speak with Leoroxx about what the Razaani ethereal are up to.  He can be found at Mok'Nathal Village in the Blade's Edge Mountains.",
+  "d": "Quickly, you must inform Leoroxx of what is transpiring up at Razaan's Landing!$B$BThose orbs were comprised of souls, some of them Mok'Nathal!",
+  "p": "",
+  "c": "What you say, is it even possible? What am I saying? Of course it is, if the spiritcallers say so.$B$BRemember before when I said that we might need your further assistance? It would seem that I can tell the future."
+ },
+ {
+  "id": 10866,
+  "t": "Zuluhed the Whacked",
+  "o": "Kill Zuluhed the Whacked and recover Zuluhed's Key. Use Zuluhed's Key on Zuluhed's Chains to free Karynaku.",
+  "d": "He hides in my thoughts, mortal. He waits for me to break... for me to bend to his will.$B$BAnd this will be his undoing. I will call for him. I will tell him that I will do as he asks. When he appears, kill him and take the key!$B$BKnow this: Zuluhed is an ancient orc with unknown powers. He has surely been empowered further by Illidan. You risk your life for me in doing as I ask. Are you certain you wish to make such a sacrifice?",
+  "p": "<Karynaku groans.>",
+  "c": "I am free! You have saved us, $N!"
+ },
+ {
+  "id": 10867,
+  "t": "There Can Be Only One Response",
+  "o": "Collect the Collection of Souls.",
+  "d": "There can be only one response to this... this, DEFILEMENT of the souls of our ancestors!$B$B$N, if you would aid us to restore the souls of our honored dead to their rightful place, go back to Razaan's Landing.$B$BGo back up there and kill the razaani until their leader, Nexus-Prince Razaan shows his cowardly face.  Kill him and get those souls back, and then give them over to Spiritcaller Dohgar!",
+  "p": "Have you done it? Are the souls of our ancestors safely recovered from the evil of the ethereals?",
+  "c": "Good that the ethereal filth and their leader are dead. I wish a thousand plagues upon their brethren!$B$BYou are to be rewarded for you actions on behalf of all of the Mok'Nathal, $N! You are truly one of our heroes.$B$BLet us now release the souls of our ancestors to the cleansing fire."
+ },
+ {
+  "id": 10868,
+  "t": "Arakkoa War Path",
+  "o": "Advisor Faila asks that you kill 14 Shienor Talonites and 6 Shienor Sorcerers and then return to her in Stonebreaker Hold.",
+  "d": "The arakkoa have attacked us again, this time striking in the night and then using their dark magic to escape before we could charge out to meet them in numbers.  They use their summoning circles to rescue their warriors from certain death but they cannot run from us if we attack their homes.  Veil Reskk and Veil Shienor lie to the north and northeast.  $B$BFind these arakkoa nests and kill as many as you can.",
+  "p": "How many arakkoa have slain $N?  Did they run from you?  Did they run and hide when you stormed into their camp?  ",
+  "c": "Well done $c. The arakkoa have learned to fear the might of the Horde."
+ },
+ {
+  "id": 10869,
+  "t": "Thin the Flock",
+  "o": "Lieutenant Gravelhammer asks that you kill 14 Shienor Talonites and 6 Shienor Sorcerers and then return to him in Allerian Stronghold.",
+  "d": "The arakkoa have attacked us again, this time striking in the night and then using their dark magic to escape before we could marshal our soldiers.  $B$BVeil Reskk and Veil Shienor lie to the north and northwest.  Find these arakkoa nests and kill as many as you can.  They may not fear us, but at least we can thin their numbers.",
+  "p": "How many arakkoa have you slain $N? ",
+  "c": "Well done $c. The arakkoa have learned to fear the might of the Alliance."
+ },
+ {
+  "id": 10870,
+  "t": "Ally of the Netherwing",
+  "o": "Let Karynaku return you to Mordenai in the Netherwing Fields.",
+  "d": "Allow me to return you to Mordenai. I am certain that he wishes to see you once more.",
+  "p": "",
+  "c": "You have proven yourself as an ally of the Netherwing. My mother is free and my brothers and sisters are saved! $B$BPerhaps someday, we will call for you again. When that day comes, know that you will be welcomed with open arms - a brother to the Netherwing Dragonflight."
+ },
+ {
+  "id": 10871,
+  "t": "Ally of the Netherwing",
+  "o": "Let Karynaku return you to Mordenai in the Netherwing Fields.",
+  "d": "Allow me to return you to Mordenai. I am certain that he wishes to see you once more.",
+  "p": "",
+  "c": "You have proven yourself as an ally of the Netherwing. My mother is free and my brothers and sisters are saved!$B$BPerhaps someday, we will call for you again. When that day comes, know that you will be welcomed with open arms - a $g brother:sister; to the Netherwing Dragonflight."
+ },
+ {
+  "id": 10872,
+  "t": "Zuluhed the Whacked",
+  "o": "Kill Zuluhed the Whacked and recover Zuluhed's Key. Use Zuluhed's Key on Zuluhed's Chains to free Karynaku.",
+  "d": "He hides in my thoughts, mortal. He waits for me to break... for me to bend to his will.$B$BAnd this will be his undoing. I will call for him. I will tell him that I will do as he asks. When he appears, kill him and take the key!$B$BKnow this: Zuluhed is an ancient orc with unknown powers. He has surely been empowered further by Illidan. You risk your life for me in doing as I ask. Are you certain you wish to make such a sacrifice?",
+  "p": "",
+  "c": "I am free! You have saved us, $N!"
+ },
+ {
+  "id": 10873,
+  "t": "Taken in the Night",
+  "o": "Scout Navrin wants you to travel to the Netherweb Ridge and free 6 Webbed Sha'tar Warriors and then return to him at Sha'tari Base Camp.",
+  "d": "Our small outpost is under constant attack. Several nights ago, we were raided by the spiders of Netherweb Ridge, on the southeastern edge of the Bone Wastes. They poisoned many of our people, wrapped them in webs and carried them away. Some of our warriors took up arms and with little preparation pursued the spiders.$B$BWe have not seen the captives or our hunting parties since. We hope that some may still be alive, perhaps imprisoned by the spiders.  Our numbers are few. Will you search for our people?$B",
+  "p": "Did you find our missing people?",
+  "c": "You saved so many.  I didn't think we would ever see them again.  We cannot thank you enough, $N.  "
+ },
+ {
+  "id": 10874,
+  "t": "Veil Shalas: Signal Fires",
+  "o": "Kirrik the Awakened at the Refugee Caravan wants you to extinguish the four signal fires of Veil Shalas.",
+  "d": "Terokk's perch, Skettis, looms above the Bone Wastes to the east. At the base of Skettis lies Veil Shalas, the most formidable of Terokk's colonies. It is through the stronghold of Veil Shalas that Terokk's forward sages wage war against the Light.$b$bThe evil-doers of Shalas communicate with their master using a complex system of magical signal fires. Travel to the east, $r, and extinguish the fires. Once Veil Shalas is silenced, we can begin to plot the fall of Skettis.$b$bBut I get ahead of myself.",
+  "p": "Veil Shalas must be silenced!",
+  "c": "We witnessed the cursed smoke rise from here. You are most brave, $c."
+ },
+ {
+  "id": 10875,
+  "t": "Report to Nazgrel",
+  "o": "Speak with Nazgrel at Thrallmar in Hellfire Peninsula.",
+  "d": "$n, during your foray with the Demoniac Scryer, I sent word of your exploits against the fel orcs.  Nazgrel, our illustrious leader in Thrallmar, wishes to speak with you.  I believe he has a bloody mission in mind...",
+  "p": "",
+  "c": "It is good to hear of all your moves against the fel orcs, $N.  The apothecaries have spent much time and resources studying the cause of their corruption, and although such information is invaluable... my orc blood burns to strike a severe blow against these betrayers!$b$bListen close, and I will explain my task..."
+ },
+ {
+  "id": 10876,
+  "t": "The Foot of the Citadel",
+  "o": "Kill Force Commander Gorax, place the Challenge From the Horde upon his corpse, kill The Hand of Kargath, and then bring the Head of the Hand of Kargath to Nazgrel in Thrallmar.",
+  "d": "Force Commander Gorax is training Shattered Hand captains at the base of Hellfire Citadel, honing them to a bloody razor's edge.  You must kill him, $N, for his loss would be a mighty blow to the fel orcs.$B$BHowever, that is not all you must do.$B$BTake this banner.  Place it atop Gorax's corpse.  Gorax's commander, the Hand of Kargath, must answer your challenge if he has even a drop of true orc blood within him!$B$BHis head, the head of the hand of Kargath, is what I seek.",
+  "p": "Have you faced the Hand of Kargath, $N? ",
+  "c": "You have done a great deed, $N. The fel orcs are a shame to all true orcs. If we have one fear, it is the fear of succumbing to demonic corruption once again. So you see, our war against the fel orcs is more than merely a battle with fierce foes -- it is also a battle within ourselves.$B$BAnd with strength, strength you have shown time again, it is a battle we will win."
+ },
+ {
+  "id": 10877,
+  "t": "The Dread Relic",
+  "o": "Oakun wants you to travel east to the Derelict Caravan to recover the Dread Relic.  Return to Oakun when the task is complete.",
+  "d": "Long ago a caravan went to Auchindoun with a mission to take a Dread Relic from the ancient tombs beneath the necropolis. They fled, but the relic was their undoing.  The relic is evil and it summons evil when touched.   Their caravan was destroyed somewhere to the east. $B$BThis dark artifact is the key to a terrible plan to defeat Teribus the Cursed, a creature that flies over the Bone Wastes.  Help me if you wish, but your life and even your soul will be at risk.",
+  "p": "Do you have the Dread Relic?  We must have it.",
+  "c": "It is incredible that you succeeded.  The Dread Relic is far more powerful than I feared. Only a mighty hero could have survived the long journey back carrying such blasphemous evil."
+ },
+ {
+  "id": 10878,
+  "t": "Before Darkness Falls",
+  "o": "Mekeda at the Refugee Caravan wants you to kill 8 Cabal Skirmishers, 4 Cabal Spell-Weavers and 2 Cabal Initiates.",
+  "d": "After our caravan fell prey to an attack by Shadow Council cabal cultists, scouts were sent to Shattrath to call for help.  The guards think we're safe for now, but they underestimate these madmen.$B$BI, for one, am not looking forward to having my throat slit by some cabal initiate in the middle of the night.  Do us all a favor and take the fight to them, before they come to us.$B$BYou will find our attackers south of here, at Auchindoun's northern entrance.",
+  "p": "Have you done what I asked of you, $N? I fear for our lives.",
+  "c": "I can breathe a sigh of relief for now, $N.  The Shadow Council will be held off for the time being.$b$bThey are murderers and cowards and your display of courage will keep them at bay."
+ },
+ {
+  "id": 10879,
+  "t": "The Skettis Offensive",
+  "o": "Hold off the attackers and speak with Rilak the Redeemed.",
+  "d": "Skettis has waged war on us! Have you gathered enough to help with Shattrath's defense?$b$bHold off the attackers!",
+  "p": "This is no time for idle chatter, $N. We're under attack! Hold off the invaders!",
+  "c": "I applaud your prowess in combat, $c. You have proven yourself to be a true defender of the Light. May A'dal's blessing shine upon your darkest hours.$B$BBut look far into the horizon. Dark skies loom above Skettis. Terokk is undoubtedly plotting his next move. Shattrath is safe for now. But only tomorrow knows what terror will descend upon us."
+ },
+ {
+  "id": 10880,
+  "t": "Cabal Orders",
+  "o": "Bring the Cabal Orders to Mekeda at the Refugee Caravan in the Bone Wastes.",
+  "d": "This message bears a dark seal and though the language seems somewhat familiar, it appears to be encoded.$B$BPerhaps someone at the Refugee Caravan will know something about it.",
+  "p": "You wish to show me something, $N?",
+  "c": "Ah, yes... this was written in a basic form of the shadow cypher.  My knowledge of it is not perfect but it should suffice to translate this.$B$BYou learn much about unsavory subjects when you live among outcasts and refugees in the Lower City."
+ },
+ {
+  "id": 10881,
+  "t": "The Shadow Tomb",
+  "o": "Go into the Shadow Tomb, west of the Refugee Caravan and retrieve the Drape of Arunen, the Gavel of K'alen and the Scroll of Atalor.  Return to Mekeda at the Refugee Caravan after you've completed this task.",
+  "d": "Many believe it was the Shadow Council that caused the explosion that tore Auchindoun apart.  It is rumored they awoke a great evil inside.$B$BIf that is true, then that evil must have turned against them.  According to these orders, part of the Shadow Council is fleeing Auchindoun.  They are using the Shadow Tomb to store powerful artifacts from Auchindoun.$B$BThree of these are sacred, for they belonged to the powerful patriarchs Arunen, K'alen and Atalor.  I must ask you to retrieve them.",
+  "p": "Have you retrieved the relics, $N? We cannot allow the Shadow Council to use their power for dark purposes.",
+  "c": "The Light might have forgotten me, but I have not forgotten the Light. These relics were once very sacred to my people.$B$BAllowing the Shadow Council to use their power for evil is... unthinkable!"
+ },
+ {
+  "id": 10882,
+  "t": "Harbinger of Doom",
+  "o": "You have been tasked to go to Tempest Keep's Arcatraz satellite and slay Harbinger Skyriss.  Return to A'dal at the Terrace of Light in Shattrath City after you have done so.",
+  "d": "<A discordant note can be detected in A'dal's 'voice'.>$B$BPrince Kael'thas has chosen his warden poorly, and now the entities that we kept locked up within the Arcatraz are breaking free.$B$BOne in particular, a servant of the Old Gods known as Harbinger Skyriss, seeks to usher in his masters' vision of conquering all of the worlds in the universe.$B$B$N, you must not allow him to escape.  Return to Tempest Keep, enter the Arcatraz, and slay Harbinger Skyriss before it is too late!",
+  "p": "<A'dal focuses his attention upon you, his gaze almost unbearable.>$B$BAndorrian, perhaps you do not understand the magnitude of your mission? There is no time to waste... gather yourself a group of compatriots and enter the Arcatraz.$B$BPut an end to Harbinger Skyriss.",
+  "c": "Once again you have proven your mettle. Had Harbinger Skyriss broken free, countless thousands would have perished in the ensuing conflict, just as happened with another servant of the Old Gods, Skeram, on your world of Azeroth.$B$B$N, what I have to offer in return may seem a pittance in comparison, but know that it comes with the everlasting gratitude of the Sha'tar."
+ },
+ {
+  "id": 10883,
+  "t": "The Tempest Key",
+  "o": "Speak with A'dal in Shattrath City.$B",
+  "d": "You have proven yourself capable of great feats, $N. Your discovery of the Cipher of Damnation and Kael'Thas' involvement is most important to our cause. Should Kael use the cipher, what little is left of this world may collapse.$B$BA'dal is convinced that Kael must be stopped and now seeks adventurers willing to undergo trials. Those that prove their strength will be granted favor by the naaru.$B$B<Khadgar nods.>$B$BA'dal awaits...$B",
+  "p": "",
+  "c": "Tempest Keep is a naaru creation, mortal. Access to the vessel has always been within our power to grant. A return to Tempest Keep, though, had been deemed unnecessary. A point of pride for a mortal race, perhaps, but naaru invest little in such things.$B$BWe go now because we must. Kael'thas cannot be allowed to utter the words of damnation.$B$BWhile the way is open, only a fool would enter unproven. Do not underestimate the purpose of the trials, mortal."
+ },
+ {
+  "id": 10884,
+  "t": "Trial of the Naaru: Mercy",
+  "o": "A'dal in Shattrath City wants you to recover the Unused Axe of the Executioner from the Shattered Halls of Hellfire Citadel.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "Four trials you must pass before you are deemed worthy by the naaru.$B$BWithin the Shattered Halls of Hellfire Citadel are three of your people. They are held there by the merciless one, Kargath Bladefist. He seeks to execute them as a sign of his virility and power. You must save these prisoners before such an atrocity can come to pass. As proof of deed, bring me the unused axe of the executioner. It must not have a drop of blood on its blade!$B",
+  "p": "<A'dal greets you.>",
+  "c": "Well done, $N. You have passed the trial of mercy."
+ },
+ {
+  "id": 10885,
+  "t": "Trial of the Naaru: Strength",
+  "o": "A'dal in Shattrath City wants you to recover Kalithresh's Trident and Murmur's Essence.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "Four trials you must pass before you are deemed worthy by the naaru.$B$BThe trial of strength is divided in two. You must destroy the leader of the Coilfang Steamvaults, Warlord Kalithresh, and bring me his trident. Slay the extra-planar being known as Murmur, in the Shadow Labyrinth of Auchindoun, and bring me his essence.$B$BDo this and you will have passed the trial of strength.",
+  "p": "<A'dal greets you.>",
+  "c": "Well done, $N. You have passed the trial of strength."
+ },
+ {
+  "id": 10886,
+  "t": "Trial of the Naaru: Tenacity",
+  "o": "A'dal in Shattrath City wants you to rescue Millhouse Manastorm from the Arcatraz of Tempest Keep.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "Four trials you must pass before you are deemed worthy by the naaru.$B$BIn our travels we have encountered many dangerous beings. Some of these beings we incarcerated and placed in what is now known as the Arcatraz of Tempest Keep.$B$BThere is one prisoner, however, that is a victim of circumstance. A stowaway who was in the wrong naaru vessel at the wrong time.$B$BVenture to the Arcatraz and rescue the gnome, Millhouse Manastorm. Ensure his survival.",
+  "p": "<A'dal greets you.>",
+  "c": "Well done, $N. You have passed the trial of tenacity."
+ },
+ {
+  "id": 10887,
+  "t": "Escaping the Tomb",
+  "o": "Help Akuno find his way to the Refugee Caravan.  Speak to Mekeda after you've completed this quest.",
+  "d": "I appreciate your help, $N.  I was certain I was going to be killed.$B$BLet's get out of here with a hurry.  It won't be long before more cultists come after us.",
+  "p": "Yes, $N?",
+  "c": "You rescued Akuno, a dear friend of mine. For this I am in your debt, $N."
+ },
+ {
+  "id": 10888,
+  "t": "Trial of the Naaru: Magtheridon",
+  "o": "A'dal in Shattrath City wants you to slay Magtheridon.",
+  "d": "Four trials you must pass before you are deemed worthy by the naaru.$B$BOnly one obstacle remains, mortal. Gather an army and travel to the lair of Magtheridon, deep inside Hellfire Citadel. Battle your way to the heart of the chamber and destroy the foul corrupter!",
+  "p": "<A'dal greets you.>",
+  "c": "You have proven yourself as a being of great power. The naaru grant you access to Tempest Keep."
+ },
+ {
+  "id": 10889,
+  "t": "Return to Shattrath",
+  "o": "Travel to Shattrath City and speak with Rilak the Redeemed in the Lower City.",
+  "d": "Your actions, while brave, will surely rouse a vindictive response from Terokk.$b$bHurry to Shattrath. Send word to Rilak!",
+  "p": "",
+  "c": "The guardians of Skettis grow restless from their perch. Shattrath is in trouble. We will surely feel the brunt of Terokk's revenge.$B$BMuster a defense party quickly! Speak with Defender Grashna and let him know you are ready to bear arms against our attackers!"
+ },
+ {
+  "id": 10891,
+  "t": "Imperial Plate Armor",
+  "o": "Speak with Derotain Mudsipper at Gadgetzan in Tanaris.$B",
+  "d": "There's a dwarf in Gadgetzan by the name of Derotain Mudsipper who'll teach you how to make imperial plate armor. All you gotta do is get to the Tanaris desert and find him. Interested?",
+  "p": "",
+  "c": "Of course I'll teach you how to make imperial plate armor! It might cost you a bit of gold... in the form of thorium bars!"
+ },
+ {
+  "id": 10892,
+  "t": "Imperial Plate Armor",
+  "o": "Speak with Derotain Mudsipper at Gadgetzan in Tanaris.$B",
+  "d": "There's a dwarf in Gadgetzan by the name of Derotain Mudsipper who'll teach you how to make imperial plate armor. All you gotta do is get to the Tanaris desert and find him. Interested?",
+  "p": "",
+  "c": "Of course I'll teach you how to make imperial plate armor! It might cost you a bit of gold... in the form of thorium bars!"
+ },
+ {
+  "id": 10893,
+  "t": "Longtail is the Lynchpin",
+  "o": "Slay Draaca Longtail, the leader of the wyrmcultists in the Wyrmskull Tunnel.",
+  "d": "With the Blackwing wyrmcultists massing in the tunnel, we're hard pressed to deal with the situation.  Quite frankly, they have the numbers.$B$BAnd while we've been able to take care of any of their people that get too close, the fact remains that if they attack in earnest, we're going to be overrun.$B$BThe situation calls for someone to get through to the other end of the tunnel, and take out their leader, Draaca Longtail.  Up for some fun?",
+  "p": "Is she dead?$B$B$N, if we're to have a fighting chance here, we need you to sow confusion into their ranks by killing Draaca Longtail!",
+  "c": "With Draaca out of the picture, we should be able to take advantage of the situation.  They'll be in-fighting over who should be in charge, and that will relieve some of the pressure.$B$BThat is, unless the overseer mentioned in that note you gave me comes to take her place.$B$BLet's see if you can do something to make sure that never happens!"
+ },
+ {
+  "id": 10894,
+  "t": "Wyrmskull Watcher",
+  "o": "Deliver the Meeting Note to Watcher Moonshade at the entrance of the Wyrmskull Tunnel in the Blade's Edge Mountains.",
+  "d": "Hmm, I'm not certain what we should do.  I'm not much of a military planner.$B$BWatcher Moonshade will know what to do.  He's heading up our defensive efforts at the Wyrmskull Tunnel to the west at the end of Wyrmskull Bridge.  We have a force out there just in case the cultists try anything funny.$B$BPlease, take the note to him with all due haste.",
+  "p": "How can I help you?  You bring news from Evergrove?",
+  "c": "It's as I thought, and that's not good!$B$BI've got an idea for how to help you, but first, I was wondering if you might help us out first?$B$BYou scratch my back, I'll scratch yours."
+ },
+ {
+  "id": 10895,
+  "t": "Zeth'Gor Must Burn!",
+  "o": "Use the smoke beacon at each of Zeth'Gor's towers, and then return to Wing Commander Dabir'ee at Expedition Point.",
+  "d": "It's time to strike Zeth'Gor from the air!  Our gryphon riders are ready for a sortie, $n.  But they need someone on the ground to direct their fire.  Are you ready for a covert mission?$B$BTake these smoke beacons into Zeth'Gor, the Bleeding Hollow stronghold to the west.  They have four guard towers: one near their northern wall, one near their southern wall, one near their forge and another nestled in their foothills.  Place a beacon underneath each of the towers and we'll fly in and bomb them!",
+  "p": "Time is crucial, $N. We need those guard towers burned!",
+  "c": "I could see the smoke and flames from here!  Good job, $N!  You received more than a few words of praise from our gryphon riders -- what you just did took a lot of guts..."
+ },
+ {
+  "id": 10896,
+  "t": "The Infested Protectors",
+  "o": "Lakotae wants you to kill 25 Wood Mites and then return to him at the Refugee Caravan.  The mites can be found living inside the bodies of Rotting Forest-Ragers and Infested Root-Walkers.  ",
+  "d": "The trees of this land are ravaged by the power that was unleashed from Auchindoun.  The foul magic that was unleashed blasted the land into the wastes you see all around.  The trees that survived are now infested with wretched wood mites that crawl under their bark and gnaw at their flesh.  $B$BRotting forest-rages and infested root-walkers are breeding grounds for the mites.  They are found along the edge of the wood to the east.  Destroy these creatures and then kill the mites that flee their husks.",
+  "p": "Have you destroyed the worst of the infestations?",
+  "c": "You have done much to help Terokkar Forest, $N. With the worst of the mite colonies destroyed we may yet be able to reclaim this wasted land."
+ },
+ {
+  "id": 10897,
+  "t": "Master of Potions",
+  "o": "Lauranna Thar'well wants you to go to the Botanica in Tempest Keep and retrieve the Botanist's Field Guide from High Botanist Freywinn.  In addition she also wants you to bring her 5 Super Healing Potions, 5 Super Mana Potions and 5 Major Dreamless Sleep Potions.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "As you know, plants have properties that allow alchemists to re-energize and reinvigorate others through potions.$B$BMy familiarity with the plants of Outland allows me to teach alchemists how to make the most out of them.  If you're interested in expanding your knowledge of potions, I have but one task to ask of you.$B$BHigh Botanist Freywinn in Tempest Keep is rumored to have written a comprehensive botany guide.  Bring it to me along with samples of your work and I'll teach you the knowledge you seek.",
+  "p": "Are you sure about this, $N? Specializing in potions will prevent you from pursuing other specializations.",
+  "c": "Excellent! It looks like you're eager to learn, so let's get to it. I will teach you how to make the most out of the plants you use in your alchemical potions.$B$BYou will find that you can make herbs go a really long way if you know what you're doing. Sometimes you will be able to make two potion with materials you initially judged necessary for just one."
+ },
+ {
+  "id": 10898,
+  "t": "Skywing",
+  "o": "Escort Skywing and report to Rilak the Redeemed in Shattrath City.",
+  "d": "Skywing flutters around you.$b$bYou get the feeling he wants you to follow him.",
+  "p": "What brings you here?",
+  "c": "Alas, poor Skywing was under the dreaded curse of Luanga the Imprisoner!$B$BSkywing traveled to Veil Shalas to attempt to sway others in seeing the way of the Light. They didn't take lightly to his actions, especially sitting on the doorstep of Skettis.$B$BLuanga was one of Terokk's most feared agents. You have done well by freeing Skywing! I thank you."
+ },
+ {
+  "id": 10899,
+  "t": "Master of Transmutation",
+  "o": "Zarevhi at the Stormspire in Netherstorm wants you to bring him 4 Primal Mights.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "Any alchemist will tell you that matter is malleable, any substance can be transformed into another - but nothing is really created or destroyed.$B$BA true master of transmutation can learn to overcome this limitation - and I can teach you how to obtain this mastery!$B$BAs a prospective transmuter you're undoubtedly familiar with primal might - the combination of the material representation of all primal forces.  Show me proof of your transmuting prowess and I will share my knowledge with you.",
+  "p": "Are you sure you want to become a master transmuter? If you specialize in this field you will find it impossible to specialize in potions or elixirs.",
+  "c": "Excellent work, $N! These transmutations are perfect in every way!$B$BI will now teach you the manner in which the alchemical transmutation process can conjure matter out of thin air! Make good use of your knowledge, master transmuter.$B$BNow, if you'll excuse me, I have to go see a buyer interested in primal might."
+ },
+ {
+  "id": 10900,
+  "t": "The Mark of Vashj",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Burn it down, $R. Burn it all down! They deserve nothing! Do you hear me! NOTHING! They must pay for what they have done. For what they continue to do.$B$BI would kill Vashj myself if I could break free of these damned bindings.$B$BOr maybe you seek to do the work of Neptulon? Her death serves both of us, soft-skin. Will you assist me in forming the sacred cudgel."
+ },
+ {
+  "id": 10901,
+  "t": "The Cudgel of Kar'desh",
+  "o": "Skar'this the Heretic in the heroic Slave Pens of Coilfang Reservoir wants you to bring him the Earthen Signet and the Blazing Signet.",
+  "d": "Bring me the elemental signets that the cudgel requires!$B$BThe earthen signet is held by Gruul the Dragonkiller. Gruul can be found inside his lair in the Blade's Edge Mountains.$B$BThe second signet is the blazing heart of a creature known as Nightbane. This mythical beast is said to reside in the hallowed halls of the prophet, Medivh.$B$BMake haste!$B",
+  "p": "With the cudgel reformed, I shall break free of my bonds and return to Serpentshrine to exact vengeance on Vashj and her minions!",
+  "c": "At last!$B$BI have not forgotten our agreement, mortal. You too will now be able to enter the lair of Lady Vashj. Now leave me! I have much to plan."
+ },
+ {
+  "id": 10902,
+  "t": "Master of Elixirs",
+  "o": "Go to the Black Morass in the Caverns of Time and obtain 10 Essences of Infinity from Rift Lords and Rift Keepers.  Bring these along with  5 Elixirs of Major Defense, 5 Elixirs of Mastery and 5 Elixirs of Major Agility to Lorokeem in Shattrath's Lower City.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "I've devoted my life to perfecting my elixirs.  Despite my success, I haven't been able to create an elixir of eternal life.$B$BI think I know the reagent I'm missing.  I've heard of a place called the Caverns of Time in Azeroth where intruders known as rift lords and rift keepers phase in and out of the timeline.$B$BThis intrusive time-shifting creates tears in time itself, twisting it infinitely into crystallized essences.  Bring these to me along with samples of your work and I'll teach you all I know.",
+  "p": "The essences! Do you have them?",
+  "c": "You are very good with elixirs, if these are any indication. You will make a fine student.$B$BThese essences will provide me enough materials to formulate my recipe. I will be known among all alchemists for this discovery!$B$BNow, if you're willing to learn, I am willing to teach."
+ },
+ {
+  "id": 10903,
+  "t": "Return to Honor Hold",
+  "o": "Speak with Assistant Klatu, at Honor Hold's inn.",
+  "d": "$n, while you were on your mission in Zeth'Gor, I received news of my commanding officer, Colonel Jules.  He was stricken with a demonic corruption while fighting near the Gor'gaz Outpost, and his situation has grown very bad.$B$BYou have made such great gains for us against the fel orcs.  Your strength in battle is without question... is your spirit just as strong?$B$BPlease, return to Honor Hold and speak with Klatu, in an upper room at the Honor Hold inn.",
+  "p": "",
+  "c": "Yes, it is true.  Colonel Jules' situation has grown much worse these past days.  Anchorite Barada is busy praying for him... let us hope he may be cured."
+ },
+ {
+  "id": 10904,
+  "t": "Harvesting the Fel Ammunition",
+  "o": "Collect 5 Fel Cannonballs.",
+  "d": "We must shut down the Burning Legion's access to Death's Door, but first you're going to destroy their two warp-gates!$B$BThe problem is, we can't even scratch one of those things, so you're going to need to use their own weapons against them.$B$BThe death's might, death's watch, deathforge over-smiths and deathforge technicians carry the ammunition for the fel cannons.$B$BNormally it wouldn't affect any of them, but if you bring the cannonballs to me, I will imbue them with Nature's unbridled wrath!",
+  "p": "Do you have the cannonballs yet?",
+  "c": "Those things stink more than I thought they would!$B$BQuickly, hand them over to me and I will imbue them with Nature's force such that they will prove extremely deadly to their fel masters and their unnatural creations."
+ },
+ {
+  "id": 10905,
+  "t": "Master of Potions",
+  "o": "Speak to Lauranna Thar'well at Cenarion Refuge in Zangarmarsh.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "My knowledge of alchemy is vast.  It is, however, general in nature.  If you wish to specialize, you will have to find others who have narrower fields of study.$B$BIf you wish to specialize in potion creation, I would recommend that you seek the help of Lauranna Thar'well of the Cenarion Expedition.$B$BHer knowledge of plants will allow you to make the most of your raw materials.  Look for her in Zangarmarsh and tell her I sent you to her.",
+  "p": "",
+  "c": "You want me to help you with your study of potions? Very well, $N. Let's see what we can do."
+ },
+ {
+  "id": 10906,
+  "t": "Master of Elixirs",
+  "o": "Speak to Lorokeem in Shattrath's Lower City.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "My knowledge of alchemy is vast.  It is, however, general in nature.  If you wish to specialize, you will have to find others who have narrower fields of study.$B$BIf you wish to specialize in elixir creation, I would recommend that you seek the help of the arakkoa known as Lorokeem.$B$BHis knowledge of elixirs is unmatched, yet he  squanders his skill pursuing an elixir of eternal life.  Find him and see what he can teach you.",
+  "p": "",
+  "c": "You want to learn from me? Hmmm, yes. Perhaps you'll be a suitable student."
+ },
+ {
+  "id": 10907,
+  "t": "Master of Transmutation",
+  "o": "Speak to Zarevhi at the Stormspire in Netherstorm.$B$B*WARNING!* You can only select one alchemy specialization.",
+  "d": "My knowledge of alchemy is vast.  It is, however, general in nature.  If you wish to specialize, you will have to find others who have narrower fields of study.$B$BIf you wish to specialize in transmutation, I would recommend that you seek the help of the ethereal known as Zarevhi.  He resides in the Stormspire in Netherstorm.$B$BHis mastery of transmutation is... well, outlandish!  See what you can learn from him, but beware - ethereals drive a hard bargain.",
+  "p": "",
+  "c": "You want me to help you with your study of transmutations? Very well, $N. Let's see what we can do."
+ },
+ {
+  "id": 10908,
+  "t": "Speak with Rilak the Redeemed",
+  "o": "Kirrik the Awakened wants you to speak with Rilak the Redeemed in the Lower City section of Shattrath City.",
+  "d": "You look surprised to be talking to me. I do not blame you. My people, the arakkoa, deserve to be feared.$b$bSpeak with Rilak the Redeemed in Shattrath City if you wish to know more. He can be found in the northern part of the Lower City, with the other outcasts of Skettis.$b$bAnd, $n, we will speak again.",
+  "p": "",
+  "c": "So we meet, $N. You must forgive the lack of formalities for time is of the essence."
+ },
+ {
+  "id": 10909,
+  "t": "Fel Spirits",
+  "o": "Klatu in Honor Hold wants you to use the Anchorite Relic at Gor'gaz Outpost southwest of Honor Hold, slay Shattered Hand Berserkers near the relic, and then slay 10 released Fel Spirits to avenge Colonel Jules.",
+  "d": "Colonel Jules was cursed in a battle near the Gor'gaz Outpost, a haunt for Shattered Hand fel orcs.  My master, Barada, works feverishly to cure the poor human, but he needs help.  The Colonel's tormented spirit seeks peace, and his path to peace is, I fear, a path of vengeance.$B$BTake this anchorite relic to Gor'gaz Outpost.  Place it upon the ground near Shattered Hand orcs and defeat them.  This will release their fel spirits -- you must slay those fel spirits for Jules' own spirit's recovery.",
+  "p": "The fel spirits of the Shattered Hand orcs are a blight to poor Jules' soul.  Tell me, $N... has he been appeased?",
+  "c": "The Shattered Hand orcs are foul and beyond hope, but my heart is saddened that the road to salvation for Colonel Jules holds such bloodshed."
+ },
+ {
+  "id": 10910,
+  "t": "Death's Door",
+  "o": "Use the Druid Signal at Death's Door to call down and speak with an Evergrove Druid.",
+  "d": "Now there is an even greater threat from the Burning Legion.  To the south is a portal known as Death's Door, which opens upon the horrific world where the Legion breeds its deadly hounds.$B$BTo get there, exit Evergrove by heading east up the ramp.  Follow the path south, through the Bladed Gulch, Razaan's Landing, Razor Ridge and the Scalewing Shelf.  Then, take the ramp down into the Vekhaar Stand and enter Death's Door through the tunnel, south of Mok'Nathal.$B$BOnce there, use this druid signal.",
+  "p": "",
+  "c": "It is a relief that Wildlord Antelarion has sent you to us. The problem is much worse than first we feared!"
+ },
+ {
+  "id": 10911,
+  "t": "Fire At Will!",
+  "o": "Use the Naturalized Ammunition to take control of the Death's Door Fel Cannons.  Use the cannons to destroy both the South Warp-Gate and the North Warp-Gate.",
+  "d": "Now that the ammunition can affect the Burning Legion, it's time for you to use it.$B$BThere are two warp-gates, which are used for teleportation and enhancement of the void terrors.  One is in the south and the other in the north, and each is within range of a fel cannon.$B$BUse the naturalized ammunition to take control of each fel cannon and destroy the warp-gates.$B$BAttack the gate with artillery to begin, and be prepared to kill its defenders to keep the cannon alive if necessary.",
+  "p": "Have you destroyed both of the warp-gates yet?",
+  "c": "Your prowess is staggering!$B$BVery well, with the warp-gates out of the picture, there's only one thing left to do."
+ },
+ {
+  "id": 10912,
+  "t": "The Hound-Master",
+  "o": "Slay Baelmon the Hound-Master.",
+  "d": "Baelmon the Hound-Master must die!  He maintains the ritual that keeps the portal functioning.$B$BThe Death's Door portal is located at the north end of the canyon.  When you find it, you will find Baelmon.$B$BYou're going to need help on this one, so take this wand.  When you battle the Hound-Master, use it and a couple of my friends will come to your aid.$B$BAfter you have defeated Baelmon, return to Wildlord Antelarion.$B$BAnd, $N, thank you for all that you've gone through for us here.",
+  "p": "It is over then? Has the danger at Death's Door been averted?",
+  "c": "You are truly an amazing $R! If I thought that we were indebted to you before, then now there is simply no way in which we could ever repay you.$B$BBut we'll give it a try. Thank you, $Ghero:heroine; of Evergrove!"
+ },
+ {
+  "id": 10913,
+  "t": "An Improper Burial",
+  "o": "Commander Ra'vaj at the Sha'tari Outpost in the Bone Wastes of Terokkar Forest wants you to burn 8 Slain Auchenai Warriors and 8 Slain Sha'tar Vindicators.",
+  "d": "Is there nothing that can be done to stem the tide of corruption? My soldiers have been battling the Auchenai for days now with no end in sight. Each casualty, whether Auchenai or Sha'tar, is snatched from the battlefield - their souls lifted and taken to parts unknown.$B$BI will not have it! A proper burial is out of the question but those fiends will not have their souls! Take this torch and travel to the field of battle, directly east of here. Burn every corpse you see! We will not fuel their rituals.",
+  "p": "It's a terrible thing to ask, I know...",
+  "c": "<Commander Ra'vaj holds his head in his hands.>$B$BIt's not enough... It's just not enough."
+ },
+ {
+  "id": 10914,
+  "t": "A Hero Is Needed",
+  "o": "Commander Ra'vaj at the Sha'tari Outpost in the Bone Wastes of Terokkar Forest wants you to slay 12 Auchenai Initiates and 5 Auchenai Doomsayers.",
+  "d": "It is not enough. A hero is needed. Our forces are overwhelmed as the Auchenai continue to grow in number.$B$B<Commander Ra'vaj looks at you.>$B$BWill you be the hero? Return to the field of battle and strike at their soldiers. Keep them occupied so that my scouts can get behind their lines and see what they are creating.",
+  "p": "Take no prisoners!",
+  "c": "You've done it, $N! Because of you, we have made a new discovery..."
+ },
+ {
+  "id": 10915,
+  "t": "The Fallen Exarch",
+  "o": "Commander Ra'vaj at the Sha'tari Outpost in the Bone Wastes of Terokkar Forest wants you to destroy the contents of the Auchenai Coffin.",
+  "d": "They are feeding the souls they steal to a coffin that they have dragged out from the Auchenai Crypts. My scouts believe the contents of the coffin to contain the first exarch of the crypts. They seek to resurrect the ancient one!$B$BYou must battle your way to the western side of Auchindoun and disturb the contents of that coffin before they feed it enough souls. Should you lose your way, follow the walking souls.$B$BDestroy whatever is inside that coffin!",
+  "p": "You must destroy the ancient evil before it has regained its powers.",
+  "c": "Victory is ours! This defeat will set the Auchenai back several weeks."
+ },
+ {
+  "id": 10916,
+  "t": "Digging for Prayer Beads",
+  "o": "Recover the Draenei Prayer Beads and bring them to Assistant Klatu in Honor Hold.",
+  "d": "Anchorite Barada plans to exorcise the corruption from Colonel Jules, and will require an assistant for the task.  Such an assistant must be prepared...$B$BI am ashamed to admit that my prayer beads were lost in Honor Hold's courtyard.  I believe the dog Fei Fei stole them and buried them, but I do not know where.  If you speak with his master, Warrant Officer Tracy Proudwell, perhaps she will know where Fei Fei hides his stolen treasures.",
+  "p": "Have you found the prayer beads, $n?  Their powers are crucial to many holy rites... including the rite of exorcism.",
+  "c": "You found the prayer beads!  Well done, $N.  You are a wonder, indeed -- you slay the horrors of Hellfire Peninsula one moment and find lost treasures the next.  Your people truly inspire!$B$BIt is good that you recovered these beads... for they will be invaluable in the exorcism ritual to come."
+ },
+ {
+  "id": 10917,
+  "t": "The Outcast's Plight",
+  "o": "Bring 30 Arakkoa Feathers to Vekax in Shattrath's Lower City.",
+  "d": "As an outcast, I am marked by death by arakkoa loyal to the city of Skettis.  I cannot leave these walls for fear of my life, but that doesn't mean I cannot strike at them in retaliation.$B$BI have a small cache of treasure that I'm willing to part with, should you help me strike back at my would-be assassins.  Bring me feathers from the denizens of the various Veils of Terokkar as proof of their demise.",
+  "p": "Do you bring the feathers I asked for, $N?",
+  "c": "<Vekax squawks in glee as you present him with proof of his enemies' demise.>$B$BYes, that will show Skettis that we Outcasts will not take their punishment lying down.  Here is the reward I promised you.  I can arrange for more, should you provide me with additional feathers."
+ },
+ {
+  "id": 10918,
+  "t": "More Feathers",
+  "o": "",
+  "d": "",
+  "p": "Skettis's lapdogs still keeps a close watch over us, outcasts.  The moment any of us sets foot outside Shattrath we'll be as good as dead.$B$BBring me more feathers as proof of your victory over them.",
+  "c": "<Vekax squawks in glee as you present him with proof of his enemies' demise.>$B$BYes, that will show Skettis that we Outcasts will not take their punishment lying down.  Here is the reward I promised you.  I can arrange for more, should you provide me with additional feathers.$B$B<This quest can be repeated up to Honored reputation.>"
+ },
+ {
+  "id": 10919,
+  "t": "Fei Fei's Treat",
+  "o": "",
+  "d": "",
+  "p": "Fei Fei looks at you expectantly...",
+  "c": "<Fei Fei barks happily and grabs the doggy treat. He looks left and right... deciding where he should hide this new treasure...>"
+ },
+ {
+  "id": 10920,
+  "t": "For the Fallen",
+  "o": "Vindicator Haylen wants you to slay 20 Dreadfang Widows and then return to him just west of Netherweb Ridge.",
+  "d": "When the dreadfang widows attacked our outpost we heard the voice of the naaru calling us to battle.  We pursued the creatures into the night.  Some of our people we found dead in the dark, others we could hear struggling against their captors. $B$BBy morning we had come to this place and we fought a fierce battle but we were beaten.  Dreadfang poison will soon take my companions and I cannot last long.  Before I die I must know that the dreadfang widows were beaten.",
+  "p": "I can feel the poison flowing through my veins. The naaru call to me, I can see the light. Are the dreadfang widows defeated?",
+  "c": "I heard the sounds of your battle from here, $c. The sounds of your victory filled my heart with hope. If you can win against such terrible odds, perhaps I can find the strength to drag my companions from this terrible place."
+ },
+ {
+  "id": 10921,
+  "t": "Terokkarantula",
+  "o": "Vindicator Haylen wants you to kill the Terokkarantula and then return to him west of Netherweb Ridge.",
+  "d": "You have slain many of the dreadfang widows but they will continue to spawn and soon they will strike at us again.  Deep within Netherweb Ridge is the lair of the Terokkarantula, the brood-mother of these gruesome creatures.  If we are to be safe, she must die.  ",
+  "p": "Has Terokkarantula been slain?",
+  "c": "The dreadfangs are beaten. You have killed many and even their foul mother has fallen before you. I am too poisoned to fight my way to freedom.$B$BPlease, take some of my equipment. It will lighten my load and give you the tools you need to make the journey back to Sha'tar Outpost."
+ },
+ {
+  "id": 10922,
+  "t": "Digging Through Bones",
+  "o": "Escort Letoll and his crew and protect them while they make their dig. Return to Dwarfowitz at the Sha'tari Outpost if you succeed.$B",
+  "d": "Oy! You look like you can take care of yerself, $r. Me and the crew here are looking for a bodyguard to watch over us while we hit a dig site to the north. The pay is pretty good and all you gotta do is make sure no nasty creatures kill me or any of my employees.$B$BIf you successfully make it back without any casualties, Dwarfowitz over there will pay ya.",
+  "p": "You get paid when the job is done, $Gsonny:missy;.",
+  "c": "A bone wurm! Fantastic! This may actually be the first time in recorded history that Letoll has actually made a discovery."
+ },
+ {
+  "id": 10923,
+  "t": "Evil Draws Near",
+  "o": "Oakun wants you to take the Dread Relic to the Writhing Mound.  Once there, kill Auchenai Death-Speakers and Auchenai Doomsayers to collect 20 Doom Skulls.  Then find the Writhing Mound Summoning Circle and use the Dread Relic to summon and destroy Teribus the Cursed.  Return to Oakun when the deed is done.",
+  "d": "Now you must use the Dread Relic in a foul necromantic ritual if you wish to challenge Teribus the Cursed.  To the northeast, beyond Auchindoun, is the Writhing Mound, a place where necromancers gather.  $B$BThe auchenai death-speakers and doomsayers carry doom skulls that are laced with powerful necro-enchantments.  If you collect enough skulls you can use their power along with the power of the Dread Relic to command Teribus to face you.",
+  "p": "Has Teribus the Cursed been purged from the skies of Terokkar?",
+  "c": "A great evil has been cleansed from Terokkar. The Sha'tar are in your debt."
+ },
+ {
+  "id": 10924,
+  "t": "Bloody Imp-ossible!",
+  "o": "Bring 8 vials of Warp Chaser Blood to Sab'aoth at Cosmowrench.",
+  "d": "The blood of the warp chasers in this area is a powerful and rare reagent. It's one of my biggest sellers.$B$BNormally, I take my imp, Zeppit, out to help me gather it. Warp chaser blood is simply too caustic to be handled safely by you or I, but it doesn't bother Zeppit.$B$BThings are getting busier here at the shop, so if I send Zeppit with you, will you help gather the blood? Zeppit's attention tends to wander, so you'll need to be close to the chaser when it dies for Zeppit to do his work.",
+  "p": "Did Zeppit cooperate enough for you to get all the blood I'll need?",
+  "c": "This should prove a large enough supply for my needs.$B$BI hope the imp didn't give you too much trouble. He has a bit of a nasty mouth on him."
+ },
+ {
+  "id": 10926,
+  "t": "Return to Sha'tari Base Camp",
+  "o": "Vindicator Haylen wants you to return to the Sha'tari Base Camp in the Bone Wastes and speak with Scout Navrin.",
+  "d": "We will not make it back on our own.  The dreadfang poison is too strong. You must return to Sha'tari Base Camp for us.  Scout Navrin will send a rescue party out to find us.",
+  "p": "",
+  "c": "It is good to know that some of our warriors fought well against the dreadfang widows. We will send a rescue party immediately."
+ },
+ {
+  "id": 10927,
+  "t": "Killing the Crawlers",
+  "o": "Slay 6 Cavern Crawlers.",
+  "d": "Commander Skyshadow wants this tunnel cleared out so we can expedite trade with the Harborage. I must not leave my post here so I am leaving the task in your hands. Clear the tunnel and report to Commander Skyshadow at once!$B",
+  "p": "I swore I told Sentinel Moonwhisper to give direct orders. Are you not obeying them?",
+  "c": "Good work, $c. That tunnel is our lifeline to the swamp."
+ },
+ {
+  "id": 10928,
+  "t": "Killing the Crawlers",
+  "o": "Slay 6 Cavern Crawlers.",
+  "d": "Tor'chunk Twoclaws wants this tunnel cleared out so we can expedite trade with Swamp Rat. I must not leave my post here so I am leaving the task in your hands. Clear the tunnel and report to Tor'chunk Twoclaws at once!$B",
+  "p": "I swore I told Grunt Grahk to give direct orders. Are you not obeying them?",
+  "c": "Good work, $c. That tunnel is our lifeline to the swamp."
+ },
+ {
+  "id": 10929,
+  "t": "Fumping",
+  "o": "Dwarfowitz at the Sha'tari Base Camp in the Bone Wastes wants you to bring him 8 Mature Bone Sifter Carcasses.",
+  "d": "How would you like to do a little more work for the Explorers' League? These bone worms have us all quite intrigued.$B$BI've got a drum right here that you can use out in the Bone Wastes. Just bang on the damned thing and see what you get. If it's a worm, kill it and bring back the carcass for us to study. We'll need a good lot of carcasses to get a valid testing sample.",
+  "p": "We think the one that popped up at the dig was actually a baby worm!",
+  "c": "Sand gnomes? Yea, sure... The desert can do strange things to a person.$B$BI think we're about to make a breakthrough here with these worms!"
+ },
+ {
+  "id": 10930,
+  "t": "The Big Bone Worm",
+  "o": "Dwarfowitz at the Sha'tari Base Camp in the Bone Wastes wants you to recover Enormous Bone Worm Organs.$B$BHe wants his Fumper back too.$B",
+  "d": "I was right! These carcasses you brought me belong to the baby bone worms. Do you know what that means? It means that somewhere out there is a big one! I think we can get it to come out if we can provide the right kind of food. Let's see... something big! Yes!$B$BI remember seeing clefthooves east of here on the other side of the Bone Wastes. Get out there and kill a clefthoof. Once it's dead, use the drums. Hopefully the big one will come up to feed. If you manage to kill it, bring me its organs!",
+  "p": "Take a friend with you!",
+  "c": "Amazing! Look at this stuff! The thing-a-ma-whatever has some sort of dust inside its whatcha-ma-bobber. Bah! I won't bore you with all this scientific jargon. I did manage to pull a few teeth from the little ones to make these incredibly sharp knives. Want one?"
+ },
+ {
+  "id": 10931,
+  "t": "Return to the Exodar",
+  "o": "Speak with Caedmos at the Exodar.",
+  "d": "Your master Caedmos of the Exodar has requested to see you.  It concerns your training, but I don't really know anything beyond that.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10932,
+  "t": "Return to the Exodar",
+  "o": "Speak with Caedmos at the Exodar.",
+  "d": "Your master Caedmos of the Exodar has requested to see you.  It concerns your training, but I don't really know anything beyond that.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10933,
+  "t": "Return to Silvermoon",
+  "o": "Speak with Aldrae in Silvermoon City.",
+  "d": "Your master Aldrae in Silvermoon City has requested to see you.  It concerns your training, but I don't really know anything beyond that.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10934,
+  "t": "Return to Silvermoon",
+  "o": "Speak with Aldrae in Silvermoon City.",
+  "d": "Your master Aldrae in Silvermoon City has requested to see you.  It concerns your training, but I don't really know anything beyond that.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10935,
+  "t": "The Exorcism of Colonel Jules",
+  "o": "Speak with Anchorite Barada.  Use the prayer beads to help with the ritual, and then speak with Colonel Jules when he is saved.  Finally, return to Assistant Klatu.",
+  "d": "$n, it is time to save Colonel Jules.  His condition has worsened and Barada fears that, if we do not cleanse him of his corruption,  he will be lost to us.$B$BTake the prayer beads you found and speak with Anchorite Barada to begin the ritual.  Let no disruptions stop the ritual... and if all goes well, Colonel Jules will be saved.  Speak with Jules when he is saved, then return to me.",
+  "p": "Go to Anchorite Barada, $n.  He must succeed with his ritual if the colonel is to be saved.",
+  "c": "You have done it, $N.  You have saved Colonel Jules' soul and cast the darkness within him back to where it came.  A great, noble deed this is!  A hero's day!"
+ },
+ {
+  "id": 10936,
+  "t": "Trollbane is Looking for You",
+  "o": "Assistant Klatu has informed you that Force Commander Danath Trollbane has been seeking you.  Speak to him in the barracks at Honor Hold in Hellfire Peninsula.",
+  "d": "While we were busy, a messenger was waiting out in the hall.  I suppose he grew tired, or perhaps he simply ran away at the sight of Jules floating around the room.$B$BEither way, Force Commander Danath is looking for you.  I suggest that you seek an audience with him inside the barracks as quickly as possible!",
+  "p": "",
+  "c": "It's about time!  I heard all about what you've been up to with that draenei priest. You totally freaked my messenger out!$B$BNow that you're done with that, I have a little mission planned for you to Hellfire Citadel."
+ },
+ {
+  "id": 10937,
+  "t": "Drill the Drillmaster",
+  "o": "Force Commander Danath Trollbane has ordered you to kill Drillmaster Zurok with all due haste.  Return to the force commander at Honor Hold in the Hellfire Peninsula once the drillmaster is dead.",
+  "d": "I'm receiving reports that the Shattered Hand fel orcs, out in front of Hellfire Citadel, are organizing for what looks like an all-out assault.  No doubt, they're not happy about your successes against all of the clans.$B$BGet to the base of the citadel, where the Path of Glory ends.  You'll find the fel orcs busy with their preparations, but you're going to catch them with their pants down.$B$BEliminate the one that's in charge of that force.  Kill Drillmaster Zurok!",
+  "p": "Is the drillmaster dead? Hmm, maybe my scouts are wrong?",
+  "c": "I wasn't going to believe it until I heard it from you, personally.  Already our scouts are trickling in with information that the Shattered Hand are in disarray without their precious drillmaster to tell them what to do.$B$BYou've traveled a long road, $N.  I trust that you will accept this armor along with my thanks.  Wear it proudly, you've earned it!"
+ },
+ {
+  "id": 10938,
+  "t": "Darkmoon Blessings Deck",
+  "o": "Return the Blessings Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Blessings cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Blessings! Congratulations!",
+  "c": "So you have put together a deck of Blessings. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 10939,
+  "t": "Darkmoon Storms Deck",
+  "o": "Return the Storms Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Storms cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Storms! Congratulations!",
+  "c": "So you have put together a deck of Storms. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 10940,
+  "t": "Darkmoon Furies Deck",
+  "o": "Return the Furies Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Furies cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Furies! Congratulations!",
+  "c": "So you have put together a deck of Furies. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 10941,
+  "t": "Darkmoon Lunacy Deck",
+  "o": "Return the Lunacy Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Lunacy cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Lunacy! Congratulations!",
+  "c": "So you have put together a deck of Lunacy. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 10942,
+  "t": "Children's Week",
+  "o": "Use the Blood Elf Orphan Whistle to call for the ward that you will be looking after during Children's Week.",
+  "d": "One special little girl is going to be very happy to have you as a friend, even if it is for a short while.$B$BTake this whistle.  With it, you will be able to call for the child that you have agreed to sponsor.  It will only last for a limited time - not much longer than Children's Week itself, in fact.$B$BPlease, $N, call upon your orphan.  I know that she will be more than excited to meet you and have the opportunity to venture out of the city!",
+  "p": "",
+  "c": "Hmph, you're my sponsor?  I'm Salandria!  I've been here ever since I was a little baby.  My parents were taken by the war, so I have to live here at the orphanage.$b$bIt's not that bad, but I always wanted to go places -- I haven't ever stepped foot outside of the city.  I've already made a list of all the cool places that I want to go, and the awesome things that I want to do.$b$bI'm ready to go when you are!"
+ },
+ {
+  "id": 10943,
+  "t": "Children's Week",
+  "o": "Use the Draenei Orphan Whistle to call for the ward that you will be looking after during Children's Week.",
+  "d": "One special little girl is going to be very happy to have you as a friend, even if it is for a short while.$B$BTake this whistle.  With it, you will be able to call for the child that you have agreed to sponsor.  It will only last for a limited time - not much longer than Children's Week itself, in fact.$B$BPlease, $N, call upon your orphan.  I know that she will be more than excited to meet you and have the opportunity to venture out of the city!",
+  "p": "",
+  "c": "You must be the adventurer who's going to be my big brother for Children's Week!  I'm Dornaa, pleased to meet you.$b$b<She looks sad for a moment.>$b$bMother and father were killed in the war, and I've lived in the orphanage all my life.  It's nice, actually, but I've always wanted to go places and see things.$b$bI've already made a list of places we could visit, if that's okay?  I just know that we're going to have a great time together!$b$bI'm ready to go when you are!"
+ },
+ {
+  "id": 10944,
+  "t": "The Secret Compromised",
+  "o": "Travel to the Warden's Cage in Shadowmoon Valley and speak to Akama.",
+  "d": "Thanks again, $N.  I recognize your name.  Akama has entrusted you with his plans and so I will trust you as well.$B$BThe naga discovered I was working against Illidan and tried to get me to speak by torturing me.  I did not tell them a thing - Akama himself taught me to master pain through meditation.$B$BIllidan asked the naga to bring me to him.  He would have seen right through my flesh and into my soul's deepest secrets.$B$BAkama must be warned.  Our plans are in jeopardy!",
+  "p": "",
+  "c": "I thank you, $N.  Olum is one of my dearest friends and most trusted followers.  His contributions have been of vital importance to our plans."
+ },
+ {
+  "id": 10945,
+  "t": "Hch'uu and the Mushroom People",
+  "o": "Take your orphan, Salandria, to Sporeggar in Zangarmarsh.  Make sure to call for her if she is not present when you arrive.  Then, speak with Hch'uu.",
+  "d": "I had a friend named Hch'uu.  She told me that she ended up in the orphanage because she had to run away from an evil fungal giant and got lost.$B$BWe had great fun until her people came and took her away last year.  I think she said she was going to live at a place called Sporeggar.$B$BI'd like to go to see her and have a look at her mushroom village.  The orphan matron told me that it is on the west side of Zangarmarsh, between the Sporewind and Marshlight lakes.$B$BCan we go?  Can we go?  Please?!",
+  "p": "",
+  "c": "Thank you for this chance to once again see Salandria.  I have missed her so much this past year, but we are still good friends.$b$bWe agreed that when we grow up, we're both going to be brave adventurers, just like you!"
+ },
+ {
+  "id": 10946,
+  "t": "Ruse of the Ashtongue",
+  "o": "Travel into Tempest Keep and slay Al'ar while wearing the Ashtongue Cowl.  Return to Akama in Shadowmoon Valley once you've completed this task.",
+  "d": "Olum's sacrifice was tremendous.  I would never have asked him to give up his life myself.  But it is done.$B$BIf we're to lure Illidan back into a false sense of security, we need to do his bidding - at least for now.$B$BI command a vast army of Ashtongue, but - aside from the Deathsworn - none can be trusted.$B$BYou are to perform the deed that Illidan demands.  Take this cowl; it is magical in nature.  You will appear to be one of my men to any who see you slaying Kael's phoenix, Al'ar.",
+  "p": "Is the deed done, $N?  Illidan is not a patient master!",
+  "c": "You've done well, $N. This will bring us a step closer to shifting Illidan's focus away from us and from...$B$B<Akama looks in Maiev Shadowsong's direction.>$B$BMore work remains to be done, $N."
+ },
+ {
+  "id": 10947,
+  "t": "An Artifact From the Past",
+  "o": "Go to the Caverns of Time in Tanaris and gain access to the Battle of Mount Hyjal.  Once inside, defeat Rage Winterchill and bring the Time-Phased Phylactery to Akama in Shadowmoon Valley.",
+  "d": "Illidan's attention is now on Kael'thas, thanks to you.  The time has come to make our move.$B$BI've had a vision of an artifact that will aid us in our final struggle - the phylactery of a lich known as Winterchill.  Unfortunately its power was lost forever after his defeat in the Battle of Mount Hyjal.$B$BThere might be a way to retrieve this artifact, however.  Legend speaks of a place in Azeroth guarded by bronze dragons...  a place where past and present meet.  It is there you will find what we seek.",
+  "p": "Have you retrieved the phylactery yet, $N?",
+  "c": "My vision... it all becomes clear now.  The powers this artifact has over a soul.... to contain it... to siphon it into itself... I will use those powers to reclaim what belongs to me!  The time has arrived for us to take the fight to Illidan!"
+ },
+ {
+  "id": 10948,
+  "t": "The Hostage Soul",
+  "o": "Travel to Shattrath City to tell A'dal about Akama's request.",
+  "d": "You might wonder why I go to such lengths to hide my intentions.  Why not throw my lot in openly with the naaru?$B$BMy very essence - my soul - is held prisoner inside the Black Temple.  Illidan could destroy me any moment... until now!  This phylactery will allow me to regain control of my soul.$B$BThe time has come, $N.  I'll lead Maiev and my Deathsworn to Illidan's doorstep.$B$BSpeak to A'dal and and tell him of our plan.  If we strike together we'll break through Illidan's defenses.",
+  "p": "",
+  "c": "<A'dal's light surrounds you as he welcomes you back.  You have a feeling he knows what you're about to ask of him.>"
+ },
+ {
+  "id": 10949,
+  "t": "Entry Into the Black Temple",
+  "o": "Travel to the entrance to the Black Temple in Shadowmoon Valley and speak to Xi'ri.",
+  "d": "<A'dal shows you an image of a naaru outside of the Black Temple, fighting alongside draenei vindicators and blood elf magisters.  You immediately understand that this is the distraction Akama is waiting for.>",
+  "p": "",
+  "c": "<Xi'ri appears to acknowledge your presence.  He seems to be focused on the battle in the surrounding area.>"
+ },
+ {
+  "id": 10950,
+  "t": "Auchindoun and the Ring of Observance",
+  "o": "Take your orphan, Dornaa, to the Meeting Stone at the Ring of Observance in the middle of Auchindoun.  Auchindoun, in turn, is in the middle of Terokkar Forest's Bone Wastes.  Make sure to call for her if she is not present when you arrive.",
+  "d": "One of the priests that comes to visit told a story about a place nearby.  It's called Auchindoun, and it's supposed to be very important to the draenei.$B$BHe said it used to be the place where the bodies of the draenei were taken when they died.  But some time ago, something bad blew it up.$B$BI'd like to see its Ring of Observance.  The orphan matron told me that it is in the middle of the Bone Wastes, on the south side of the Terokkar Forest.$B$BPlease, $G Mr. : Miss; $N, can we go?",
+  "p": "",
+  "c": "Oh, it's just wonderful!  I mean, it looks pretty old... and yeah, someone sure did blow it up.  But just look at it!$b$bOoh, and did you look up at the sky?$b$bNeato!"
+ },
+ {
+  "id": 10951,
+  "t": "A Trip to the Dark Portal",
+  "o": "Take your orphan, Salandria, up the steps of the Stair of Destiny to stand before the Dark Portal in Hellfire Peninsula.  Make sure to call for her if she is not present when you arrive.",
+  "d": "How can we look at all of these interesting places and not see the Dark Portal?!$B$BThe grown-ups are always trying to tell us scary stories about it and how it's so dangerous, with lots of demons, and stuff.$B$B<Salandria rolls her eyes.>$B$BBut you're here, so it can't be too bad, right?$B$BI want to see for myself.  You remember where it is on the east edge of Hellfire Peninsula?",
+  "p": "",
+  "c": "The stories don't even come close to how cool this place is.  It's amazing!$b$bIs it true that a powerful wizard named Medivh created it?$b$bI wonder what's on the other side?  You've been there, right?  Hmm, we should definitely go someplace on the other side of the Dark Portal!"
+ },
+ {
+  "id": 10952,
+  "t": "A Trip to the Dark Portal",
+  "o": "Take your orphan, Dornaa, up the steps of the Stair of Destiny to stand before the Dark Portal in Hellfire Peninsula.  Make sure to call for her if she is not present when you arrive.",
+  "d": "There's one place that if we don't go anywhere else, we have to go to: the Dark Portal!$B$BThe orphan matrons are always trying to scare us with stories about how dangerous it is, with lots of demons, and people like you coming through it.$B$B<Dornaa rolls her eyes.>$B$BBut you're here, and nice, so it can't be too bad, right?$B$BI want to see it for myself.  You remember where it is on the eastern edge of Hellfire Peninsula?",
+  "p": "",
+  "c": "The orphan matron's stories don't even come close to how cool this place is.  It's amazing!  She said that it was created by a powerful wizard named Medivh.$b$bWhat's on the other side of it?  You've been there, right?  We should most definitely go someplace on the other side of the Dark Portal!"
+ },
+ {
+  "id": 10953,
+  "t": "Visit the Throne of the Elements",
+  "o": "Take your orphan, Salandria, to the Throne of the Elements in Nagrand.  Make sure to call for her if she is not present when you arrive.  Then, speak with Elementalist Sharvak.",
+  "d": "Have you heard of the Throne of the Elements?  It's supposed to be this place in Nagrand where there are these powerful elementals.$B$BOne day soon, I'm going to be a powerful mage, or maybe a warlock.  I'm gonna have to learn about some of the elemental forces!$B$BDo you think maybe that we could go there?$B$B<Salandria looks at you slyly.>$B$BYa know, it would be educational to go there.  It's supposedly just north of Garadar, on the other side of Skysong Lake.",
+  "p": "",
+  "c": "You bring a child here?  Foolhardy, but I promise that she will come to no harm, at least as long as she doesn't get too close to Incineratus.$b$bHmm, unfortunate that she's a blood elf.  Were she capable of a deep connection to the world, we could teach her some things so that she might aid us to heal its wounds.  But, perhaps her exposure to the elements here will give her some insight into their workings.$b$bGo in peace and see to it that you take good care of her."
+ },
+ {
+  "id": 10954,
+  "t": "Jheel is at Aeris Landing!",
+  "o": "Take your orphan, Dornaa, to Aeris Landing in Nagrand.  Make sure to call for her if she is not present when you arrive.  Then, speak with Jheel.",
+  "d": "I miss my brother, Jheel.  He's a couple of years older than me, so they let him start an apprenticeship with the ethereal in Nagrand.$B$BIt sure would be nice to go visit him.  He loves geology and stuff, so I bet he's having a great time.$B$BThe orphan matron told me that he's training at a place called Aeris Landing in Nagrand.  It's supposed to be along the road, far to the west of Telaar, and northwest of the great mountain, Oshu'gun.",
+  "p": "",
+  "c": "Oh, I've missed Dornaa so much.  Thank you for bringing her to visit.  It gets lonely here with only the ethereal around.  And they're so serious all the time with this Oshu'gun business.$b$bBut I get to go back and visit the orphanage after I pass my gemcutting exams.  I almost passed them last week, but I'm sure that I'll do better on the test tomorrow!"
+ },
+ {
+  "id": 10955,
+  "t": "Morthis Whisperwing",
+  "o": "Seek out Morthis Whisperwing at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Before all of the druidic orders coalesced into the Cenarion Circle, the Druids of the Talon were responsible for teaching promising young druids the mysteries of flight. With the dissolution of the order, former members teach the skill sparingly.$B$BEven now, Morthis Whisperwing continues his search for a suitable apprentice. Few druids have truly mastered all the forms available to them, but you show the promise Morthis requires of his students. Seek him out at the Cenarion Refuge in Zangarmarsh.",
+  "p": "",
+  "c": "Have you brought the Ingredients for the draught? <Morthis considers you somewhat skeptically.>$B$BI have long searched for an apprentice to pass my knowledge to. Though the Druids of the Talon are no longer a formal group, I shall remain one to the last of my days.$B$BI accept you as my apprentice from this moment forward. For my part, I will teach you the secrets of the stormcrow. For your part, you must be prepared to do all I ask. Do you understand?"
+ },
+ {
+  "id": 10956,
+  "t": "The Seat of the Naaru",
+  "o": "Take your orphan, Dornaa, to stand before O'ros at the bottom of the Seat of the Naaru inside of the Exodar, which is on Azuremyst Isle.  Make sure to call for her if she is not present when you arrive.$B$BRemember that you can use your map inside the city.",
+  "d": "Do you know anything about the naaru?  They're these angelic beings that have been helping the draenei for a really long time.  I've seen a bunch around Shattrath.$B$BThey say that one naaru, O'ros, was with the Exodar when it traveled to your homeworld.  I should like to see for myself.$B$BCan you take me there?  I bet we could get there fast by using one of the portals inside the Terrace of Light at Shattrath City!  When we get there, if you get lost, we could always just look at your map.",
+  "p": "",
+  "c": "<You feel, more than hear, the musical voice of O'ros chiming in your mind.>$b$bThank you for bringing this child to me, $N.  She is very special indeed, and will grow up one day to be an important figure amongst the draenei.  This is in no small part due to the kindness that you have shown her, and the impression that you have made."
+ },
+ {
+  "id": 10957,
+  "t": "Redemption of the Ashtongue",
+  "o": "Help Akama wrest control back of his soul by defeating the Shade of Akama inside the Black Temple.  Return to Seer Kanai when you've completed this task.",
+  "d": "When Illidan obtained the Broken's allegiance, Akama was our wisest.  He knew that openly opposing the Betrayer would lead to the extinction of our race.$B$BInstead he has plotted and schemed for this very moment under utmost secrecy.  Failure would be catastrophic... not just for Akama, not just for the Broken, but for all of Outland.  No one this close to Illidan has ever been able to deliver such a terrible blow to him.$B$BHelp Akama free his soul and he will grant you access to Illidan's sanctum.",
+  "p": "Yes, $N?",
+  "c": "It is done, $N.  The time to strike at Illidan has come."
+ },
+ {
+  "id": 10958,
+  "t": "Seek Out the Ashtongue",
+  "o": "Find Akama's Deathsworn inside the Black Temple.",
+  "d": "<As you look up at Xi'ri, your mind becomes focused and your will determined.  Your work here is not done; you must go inside the Black Temple and find Akama's followers.>$B$B<Much depends on Akama's success.>",
+  "p": "",
+  "c": "We've been expecting you, $N.  Akama is in great need of your help."
+ },
+ {
+  "id": 10959,
+  "t": "The Fall of the Betrayer",
+  "o": "Seer Kanai wants you to defeat Illidan inside the Black Temple.",
+  "d": "With Illidan's lieutenants defeated, Akama will be able to force open the doors to Illidan's sanctum.  Be ready to bring your force inside as soon as Akama does.$B$BWe still do not know what has become of Maiev, but we must make our move without her.$B$BI hope your force is up to the task.  Illidan will not be pleased to see Akama.",
+  "p": "Yes, $N?",
+  "c": "It is as it was foretold, $N.  One by one, Illidan's lieutenants have fallen... and now the Betrayer himself has met his demise!$B$BKnow this, $N: every decision Akama made and every moment of his life since Illidan arrived, Akama planned for this moment.  Illidan is finally dead and our people... are free!"
+ },
+ {
+  "id": 10960,
+  "t": "When I Grow Up...",
+  "o": "Take your orphan, Salandria, to the paladin trainers in Silvermoon City's Farstriders' Square.  Make sure to call for her if she is not present when you arrive.  Then, speak with Lady Liadrin, the Blood Knight Matriarch.$B$BRemember that you can use your map inside the city, and speak to the guards to find the paladin trainers.",
+  "d": "When you were my age did you know that you wanted to be a $c when you grew up?$B$BI'm not sure what I want to be.  Maybe a mage or a warlock, like I said before?  Or maybe a paladin Blood Knight?  Yeah, definitely a Blood Knight!$B$BThey say that the true ones are trained in Silvermoon City on your world.  Could you take me there?  The stories that I've heard say that the paladin trainers reside in the Farstriders' Square in that city.$B$BPlease take me there.  Please!",
+  "p": "",
+  "c": "There are so few that are gifted enough to be able to channel such power from M'uru.  To see this in a child is truly amazing!$b$bIt was wise of you to bring her before me.$b$bYou say that she's an orphan in Shattrath City?  I shall see to it that a petition is submitted to the orphan matron there so that she might be remanded to our custody for proper training.  She belongs with us, here.$b$bSee to it that you keep her safe until then."
+ },
+ {
+  "id": 10961,
+  "t": "The Ward of Wakening",
+  "o": "Bring 10 Bogblossoms, 10 Ancient Lichen, and 10 Dreaming Glory to Morthis Whisperwing at the Cenarion Refuge.",
+  "d": "Long ago, the relics used to teach the ways of the stormcrow were entrusted to an ancient druid.$B$BYour training requires these relics, so we must wake their guardian from his slumber.$B$BI will prepare a potion you can use to ease the process. The mixture requires common herbs, as well as bogblossom, which usually grows atop the tallest mushrooms in the marsh. Fly up there and pursue them but take care, as they're quite fragile and may explode violently if mishandled.",
+  "p": "Have you brought the ingredients for the draught? Take care not to get pollen on me, please. I sneeze uncontrollably in its presence.$B$B<Morthis sniffs at the indignity represented by a sneeze.>",
+  "c": "Have you brought the Ingredients for the draught? Take care not to get pollen on me, please. I sneeze uncontrollably in its presence.$B$B<Morthis sniffs at the indignity represented by a sneeze.>$B$B<Morthis accepts the herbs from you, inspecting them. Producing a vial, he begins mixing the potion.>$B$BThis will only take a moment, $N. Then, you must travel to Moonglade. "
+ },
+ {
+  "id": 10962,
+  "t": "Time to Visit the Caverns",
+  "o": "Take your orphan, Dornaa, to stand before Zaladormu, the dragon on the dais in the middle of the Caverns of Time.  Make sure to call for her if she is not present when you arrive.$B$BThen, purchase a Toy Dragon for her from the Keepers of Time Quartermaster, Alurmi, near the bottom of the entrance tunnel.",
+  "d": "In the orphanage, the old priest that comes by told us stories about the Caverns of Time.  He said that it sits in the middle of time, and is really important for keeping things straight.$B$BI don't know what that means, but he said that there were dragons there that were helping to save the world!  I want to see a dragon!$B$BDo you think that we could go there?  He said that the entrance was on the eastern edge of a great desert named Tanaris.$B$BMaybe you could buy me a souvenir while we're there?",
+  "p": "You think it's true what they say about the Caverns of Time?",
+  "c": "Neato! A dragon of my very own! One day I hope that I'm lucky enough to have a dragon as a friend.$B$B<Dornaa bounces up and down with joy, fiercely hugging her new toy.>$B$BThis has been the best trip ever! I hope it never ends."
+ },
+ {
+  "id": 10963,
+  "t": "Time to Visit the Caverns",
+  "o": "Take your orphan, Salandria, to stand before Zaladormu, the dragon on the dais in the middle of the Caverns of Time.  Make sure to call for her if she is not present when you arrive.$B$BThen, purchase a Toy Dragon for her from the Keepers of Time Quartermaster, Alurmi, near the bottom of the entrance tunnel.",
+  "d": "In the orphanage, the old stinky priest that comes by told us stories about the Caverns of Time.  He said that it sits in the middle of time, and is really important for keeping things straight.$B$BI don't know what that means, but he said that there were dragons there that were helping to save the world!  I want to see a dragon!$B$BI think we should go there.  He said that the entrance was on the eastern edge of a great desert named Tanaris.$B$BYou could buy me a souvenir while we're there!",
+  "p": "If what they say about the Caverns of Time is true, then it must be a place of great power.",
+  "c": "Awesome! A dragon of my very own! Someday I plan to own a real one.$B$B<Salandria slyly eyes her new toy, the gears within her mind turning.>$B$BThis has been the best trip ever! I hope it never ends."
+ },
+ {
+  "id": 10964,
+  "t": "Waking the Sleeper",
+  "o": "Use the Ward of Waking to help Clintar Dreamwalker emerge from the Emerald Dream. When he is conscious, speak to him.",
+  "d": "Take the ward with you and travel to Moonglade, to the Stormrage Barrow Dens. Within the southernmost of the Stormrage Barrow Dens, watched over by the dreamwardens, you will find Clintar Dreamwalker.$B$BAdminister the potion and watch over him while he wakes. He'll be extremely vulnerable as his spirit reunites with his body and he certainly won't recognize you. Declare yourself to him as soon as he comes around, $N. He will need your help to gather the relics for the ceremony.",
+  "p": "<You prepare to administer the potion to the sleeping $C.>",
+  "c": "<The druid emerges from his sleep, groggy and haggard looking. His gaze darts around the room in search on unseen pursuers.>$B$BMorthis?$B$BNo, you're not Morthis... Who are you, $R, and why have you disturbed my rest?$B$B<Despite the hostility of the question, the Druid looks almost relieved to have been awakened.>"
+ },
+ {
+  "id": 10965,
+  "t": "No Mere Dream",
+  "o": "Protect Clintar Dreamwalker's Spirit while it gathers the relics of Aviana, then speak to Dreamwarden Lurosa.",
+  "d": "<Clintar listens as you relay Morthis' instructions, nodding, but clearly fearful.>$B$BI cannot extricate myself fully from the Emerald Dream to help you, but a fragment of my spirit will guide you in your search for the relics. Guard it well, $r, for it is a fragile thing.$B$BThe Emerald Dream itself has become an alien, dangerous place. Its grasp on me is strong, and I will not be whole until the Emerald Dream returns to normalcy. What you see around you is but an echo of the reality inside the dream!",
+  "p": "Be quick, $r. If these creatures escape the barrow, Clintar Dreamwalker will not be the only one in danger.",
+  "c": "You are fortunate that Clintar was strong enough to maintain the split in his essence for so long, $N. Few druids can manage that kind of feat while under attack in Emerald Dream. Guard the relics well!"
+ },
+ {
+  "id": 10966,
+  "t": "Back to the Orphanage",
+  "o": "Return your ward to the Shattrath City orphanage by handing in the Draenei Orphan Whistle to Orphan Matron Mercy in the Lower City.",
+  "d": "Darn it all!  I guess it's time to go back to the orphanage at Shattrath City.$B$BI've had such a great time.  You're the best person in all of the worlds, $N!  You're my big $g brother : sister; now!$B$B<Dornaa's eyes begin to well up with tears.>$B$BI'm going to miss you so much!  When I grow up, I'm going to be just like you!!!",
+  "p": "It is good to see you again, $C. I trust that you and young Dornaa had a wonderful time together?",
+  "c": "It is good for the soul to know that there are heroes such as yourself that are willing to give of their time so selflessly.$B$BI can tell already that your time together with Dornaa has made a huge impression. It's good for the children to have a chance to get out and see the world.$B$BHere, she told me that she wanted you to take care of one of her favorite pets, just like you took care of her. Something to remember her by.$B$BDon't be a stranger."
+ },
+ {
+  "id": 10967,
+  "t": "Back to the Orphanage",
+  "o": "Return your ward to the Shattrath City orphanage by handing in the Blood Elf Orphan Whistle to Orphan Matron Mercy in the Lower City.",
+  "d": "Darn it all!  I guess it's time to go back to the orphanage at Shattrath City.$B$BI've had such a great time.  You're the best person in all of the worlds, $N!  You're my big $g brother : sister; now!$B$B<Salandria's eyes begin to well up with tears.>$B$BI'm going to miss you so much!!!",
+  "p": "It is good to see you again, $C. I trust that you and young Salandria had a wonderful time together?",
+  "c": "It is good for the soul to know that there are heroes such as yourself that are willing to give of their time so selflessly.$B$BI can tell already that your time together with Salandria has made a huge impression. It's good for the children to have a chance to get out and see the world.$B$BHere, she told me that she wanted you to take care of one of her favorite pets, just like you took care of her. Something to remember her by.$B$BDon't be a stranger."
+ },
+ {
+  "id": 10968,
+  "t": "Call on the Farseer",
+  "o": "Take your orphan, Dornaa, to visit Farseer Nobundo at the Crystal Hall inside of the Exodar, which is on Azuremyst Isle.  Make sure to call for her if she is not present when you arrive.$B$BRemember that you can use your map inside the city.",
+  "d": "I am sensing something very special about this child indeed.$B$BYou should take her to visit Farseer Nobundo, here in the Exodar.  I believe that he has been expecting the two of you.$B$BLook for Nobundo upon the highest terrace in the Crystal Hall.",
+  "p": "",
+  "c": "I had hoped, but despaired she was only a figment of my imagination.  The child is amazing!$b$bIt's unheard of in this day and age that one of the draenei should exhibit such ability with the elements without any training.  She must have inherited this power from an ancient ancestor.$b$bI will send a missive to the orphan matron in Shattrath City requesting that the child be allowed to come stay with us.$b$bPlease, keep her safe until then."
+ },
+ {
+  "id": 10969,
+  "t": "Seek Out Ameer",
+  "o": "Seek out Commander Ameer at the Protectorate Watch Post.",
+  "d": "It would seem that an outside force has taken an interest in the business practices of the Consortium. Five Consortium dealers have gone missing in the past two days. We have reason to believe the Ethereum are involved. If you are interested in assisting, seek out Commander Ameer at the Protectorate Watch Post.$B$BYou will find the Protectorate Watch Post directly east of here on the next island. $B",
+  "p": "",
+  "c": "Aye, it is true, but the Consortium are not the only group claiming losses."
+ },
+ {
+  "id": 10970,
+  "t": "A Mission of Mercy",
+  "o": "Recover the Salvaged Ethereum Prison Key for Commander Ameer at the Protectorate Watch Post in Netherstorm.",
+  "d": "We salvaged this prison orb on our last scouting mission into Ethereum territory. We'd have never found it had it not been for the distress signal that it was faintly emitting.$B$BWe think one of our own might be locked up in there but we have no way of opening the orb up without harming whatever is inside.$B$BWhat we know about the Ethereum is that any of their members could - at any given time - be carrying a key to unlock an orb. Retrieve one and return so that we may uncover the mysteries of this orb.",
+  "p": "Any luck?",
+  "c": "Stand back, $N. This could very well be an Ethereum trap."
+ },
+ {
+  "id": 10971,
+  "t": "Ethereum Secrets",
+  "o": "Commander Ameer at the Protectorate Watch Post in Netherstorm wants you to bring him an Ethereum Prisoner I.D. Tag.",
+  "d": "<Ameer holds up a tag.>$B$BI found this prisoner I.D. tag with the remains of the fallen vanguard. I can only assume that all of their prisoners are tagged in the same manner.$B$BI'm going to start cataloguing the tags in hopes of making sense of their penal system. If in your adventures you find more Ethereum prison keys, you can use them to open the Ethereum prisons at the Ethereum Staging Grounds - directly south of here. Bring me back any and all I.D. tags that you find.",
+  "p": "Have you recovered any I.D tags?",
+  "c": "It seems to be more than just an identifier. There is some sort of code written on these tags. I'm on the verge of breaking it wide open. Perhaps if I had a few more pieces."
+ },
+ {
+  "id": 10972,
+  "t": "Ethereum Prisoner I.D. Catalogue",
+  "o": "",
+  "d": "I am in need of more I.D tags, $N. What I've discovered thus far is that this is not just a way to catalogue prisoners but it also documents locations!$B$BOnce this code is broken we'll be able to pinpoint exactly where all of our allies are held and free them with minimal hostile action received.",
+  "p": "I am in need of more I.D. tags, $N. What I've discovered thus far is that this is not just a way to catalogue prisoners but it also documents locations!$B$BOnce this code is broken we'll be able to pinpoint exactly where all of our allies are held and free them with minimal hostile action received.",
+  "c": "We are close to the truth, $N."
+ },
+ {
+  "id": 10973,
+  "t": "A Thousand Worlds",
+  "o": "Commander Ameer at the Protectorate Watch Post in Netherstorm wants you to bring him 5 Ethereum Prison Keys.",
+  "d": "I have cracked the code! Each tag is broken up into several segments. The front side of the tag is always the same and states: \"A Thousand Worlds...\" I am unsure as to the meaning of this phrase but it sounds insidious.$B$BOn the back side of the tag are the vital statistics. The first set of runes indicates location and the second indicates prisoner type. Furthermore, it would seem that the keys can be combined to form a special key that accesses another prison type. Now I just need more keys...",
+  "p": "I know it's asking a lot but think of the lives that could be saved!",
+  "c": "<Ameer deftly combines the keys and begins to read the markings on the newly formed key tablet.>$B$B\"A thousand worlds shattered, a thousand worlds more to overcome... Such is the will of the Nexus-King.\"$B$B<Ameer turns the tablet over and begins to read from the back-side.>$B$BStasis chambers of Bash'ir?"
+ },
+ {
+  "id": 10974,
+  "t": "Stasis Chambers of Bash'ir",
+  "o": "Use the Ethereum Key Tablet - Alpha to open Stasis Chamber Alpha at Bash'ir's Landing in Blade's Edge Mountains.$B$BReturn Evidence from Alpha to the Image of Commander Ameer at Bash'ir's Landing.",
+  "d": "The Ethereum have a settlement on the northernmost shelf of Blade's Edge Mountains known as Bash'ir's Landing. According to the key tablet, much larger versions of the prisons are kept at Bash'ir's. It should also be noted that the Ethereum refer to those prisons as stasis chambers.$B$BThe key tablet grants access to a very specific stasis chamber at the landing known as Stasis Chamber Alpha. Take the key and investigate.$B$BMy image will be awaiting your return at Bash'ir's Landing. Speak to me there.",
+  "p": "You made it! Any luck?",
+  "c": "<The image of Commander Ameer rummages through the evidence.>$B$BIt is worse than I thought... These chambers hold ferocious beasts and creatures from many, many different worlds. They hope to one day command the beasts to do their bidding. We must destroy them all!"
+ },
+ {
+  "id": 10975,
+  "t": "Purging the Chambers of Bash'ir",
+  "o": "",
+  "d": "",
+  "p": "We're at an impasse here, $n. The data you've collected has given us enough information to save our allies being held at the smaller prisons of Netherstorm but we must press forward and eradicate the larger Ethereum threats here at Bash'ir's Landing.$b$bJoin the battle against the Ethereum! Bring Ethereum prison keys to me and I shall forge Ethereum stasis chamber keys for you to use on the stasis chambers of Bash'ir.",
+  "c": "There is always more work that must be done, $N. Now seek out a stasis chamber and destroy whatever evil lurks within!"
+ },
+ {
+  "id": 10976,
+  "t": "The Mark of the Nexus-King",
+  "o": "The Image of Commander Ameer at Bash'ir's Landing in the Blade's Edge Mountains wants you to bring him a Mark of the Nexus-King.",
+  "d": "What I must now know is what the Ethereum have held inside the Mana-Tombs of Auchindoun.$B$BIn your battles against the beasts of the stasis chambers of Bash'ir you may run across an item known as the Mark of the Nexus-King. Should you find such an item, return it to me immediately! It is the final piece in crafting a key that will allow access to the stasis chamber inside the Mana-Tombs.",
+  "p": "This will be your most daunting task, $N.",
+  "c": "At last!$B$B<Commander Ameer reads from the Mark of the Nexus-King.>$B$BTwo final prisons? I shudder to think what horrors lie in wait..."
+ },
+ {
+  "id": 10977,
+  "t": "Stasis Chambers of the Mana-Tombs",
+  "o": "The Image of Commander Ameer at Bash'ir's Landing in the Blade's Edge Mountains wants you to use the Mana-Tombs Stasis Chamber Key on the Stasis Chamber inside the Mana-Tombs of Auchindoun.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The Mark of the Nexus-King that you recovered has allowed me to forge a new key for the stasis chambers found inside the Mana-Tombs.$B$BAccording to the glyphs on the mark, two exist: one near the front and one near Nexus-Prince Shaffar. This key that I am about to give you will open the stasis chamber near the front.$B$BI want you to go to the Mana-Tombs of Auchindoun and open the Mana-Tombs Stasis Chamber.",
+  "p": "I would understand if you chose not to continue, $N.",
+  "c": "Word has gotten back of your heroics, $N. Haramad and I both agree that what you've done deserves a great reward.$b$bThough... Nevermind, you've done enough. I cannot in good conscience ask anything more from you."
+ },
+ {
+  "id": 10978,
+  "t": "Return to Morthis Whisperwing",
+  "o": "Bring the Relics of Aviana to Morthis Whisperwing at Cenarion Refuge in Zangarmarsh.",
+  "d": "Now that the relics have been recovered, you must leave this place with all haste. Clintar risked his safety and that of the dreamwardens to help you, $N, but now he must fully devote his attention to fighting the force that has invaded the Emerald Dream.$B$BTake the relics back to Morthis Whisperwing, along with word of what you've seen here. He may be able to help us identify just what Clintar is struggling against.",
+  "p": "Did Clintar help you recover the relics?",
+  "c": "<Morthis accepts the relics from you as you describe your experiences in the barrow dens.>$B$BThis is most troubling news, $N. There have been any number of strange disturbances in the Emerald Dream, but I can't remember any mention of outside forces tampering with it. Are you certain that's what Clintar believes?"
+ },
+ {
+  "id": 10979,
+  "t": "To the Evergrove",
+  "o": "Speak with Arthorn Windsong at the Evergrove in Blade's Edge Mountains.",
+  "d": "Are you certain you saw a raven in the barrow den?$B$BThis is a troubling development. There's little we can do to help Clintar and the dreamwardens directly, but if we can learn more about what's threatening the Emerald Dream, we may be able to stop it.$B$BWe've been learning about the resurgence in an ancient arakkoa cult in Blade's Edge -- one that venerates a raven god. Go to the Evergrove and find Arthorn Windsong. There may be a connection between what's happening there and in the Emerald Dream!",
+  "p": "",
+  "c": "<Arthorn listens as you explain that Morthis Whisperwing sent you to investigate a connection between the cult of the raven god and strange happenings in Moonglade. Though shocked at the news, she seems more disappointed at the message's nature.>$B$BOh my...$B$BI've been helping Timeon with his research on the raven cult, but we never imagined its patron had any reach beyond Blade's Edge!"
+ },
+ {
+  "id": 10980,
+  "t": "The Book of the Raven",
+  "o": "Use an Aether Ray Eye with your Seer's Stone to reveal the raven cult ghosts. Search the Vortex Pinnacle for the spirit of Sai'kkal the Elder and question him about the book of the raven, then return to Arthorn Windsong.",
+  "d": "From what you've told me, Morthis's suspicions seem plausible, but we need confirmation.$B$BIn his research, Timeon has uncovered clues that a \"book of the raven\" served as an ancient scripture to the cult.$B$BThe arakkoa spirits will not reveal themselves to your eyes. Take this stone with you to the high peaks in the western part of Blade's Edge, to the south of Raven's Wood, obtain an aether ray eye, and combine them to augment your sight. Search for the ghost Timeon identified as Sai'kkal the Elder.",
+  "p": "<Arthorn looks at you hopefully.>$B$BWere you able to track down any information about the book?",
+  "c": "Isn't it amazing that even among arakkoa, the cultists were considered heretics? That the traditional priests hated them enough to destroy their holy text is incredible! We must get our hands on that book, $N.$B$BIt's the key to unraveling the mystery of the raven god and preventing him from taking over the Emerald Dream.$B$BPerhaps Morthis will finally agree to take me as a student if we succeed!"
+ },
+ {
+  "id": 10981,
+  "t": "Nexus-Prince Shaffar's Personal Chamber",
+  "o": "",
+  "d": "",
+  "p": "Only the most steadfast and battle-hardened of adventurers will take me up on this offer, $n. Should you wish to face the horrors of the second stasis chamber in the Mana-Tombs, I am able to synthesize a key. Bring me a mark of the Nexus-King and I will make it so.",
+  "c": "As promised, here is the key to Shaffar's personal stasis chamber."
+ },
+ {
+  "id": 10982,
+  "t": "The Eye of Haramad",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You have done much for the Protectorate and the Consortium, $N. It is only fitting, then, that the first of our new keys goes to you. With this key you will be able to open Shaffar's personal stasis chamber at any time without having expended the key itself.$b$b<Ameer nods.>$b$bIt is permanent and will be with you forever."
+ },
+ {
+  "id": 10983,
+  "t": "Mog'dorg the Wizened",
+  "o": "Visit Mog'dorg the Wizened atop one of the towers just outside the Circle of Blood in the Blade's Edge Mountains.",
+  "d": "Mog'dorg wise!  Him send Grok to city, look for help.  Bloodmaul clan need help.$B$BMog'dorg say, send powerful little ones to him at Blade's Edge Mountains.  Him stand on tower at Circle of Blood.  Mog'dorg wise!",
+  "p": "",
+  "c": "Grok said that I am wise?  I don't know about that.$B$BPerhaps it is because I am the only one in my clan that is truly trying to save us from annihilation by the Bladespire clan, and Gruul and his sons, who are backing them.$B$BI hope that you have come to deliver us from certain doom, $c."
+ }
+]

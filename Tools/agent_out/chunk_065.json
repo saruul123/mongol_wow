@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12947,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12948,
+  "t": "The Champion of Anguish",
+  "o": "Get in the arena at the Amphitheater of Anguish and defeat Vladof the Butcher! Return to Wodin the Troll-Servant to redeem your reward.",
+  "d": "This is the end, my friend! Your last opponent is going to be your greatest challenge. He's a vrykul champion from the steppes of Icecrown and he's out for blood! Defeat him and you'll be crowned the champion of the Amphitheater of Anguish! This fight is going to make us both rich!$B$BLet me know when you're ready and we'll start.",
+  "p": "",
+  "c": "You did it, $N! That was the most exciting fight yet! What are you going to do with your winnings? Me? I'm going to Dalaran and blowing it all in the Underbelly. Lot of hot action going on down there!"
+ },
+ {
+  "id": 12949,
+  "t": "Get the Key",
+  "o": "Vaelen the Flayed at Ufrang's Hall has asked you to retrieve the Key to Vaelen's Chains.",
+  "d": "$C, the key to my shackles is hanging around the neck of Instructor Hroegar outside.$B$BPerhaps you could retrieve it by separating his head from his shoulders?",
+  "p": "Do you have it?",
+  "c": "Thank you, $r. Just hand me the key, I'll take care of it myself."
+ },
+ {
+  "id": 12950,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12951,
+  "t": "Let the Baron Know",
+  "o": "Speak with Baron Sliver at The Shadow Vault.",
+  "d": "The most important thing that you can do right now is to return to The Shadow Vault and let Baron Sliver know that I've failed.$B$BYou see, I wasn't the only one captured by these vrykul devils. My entire contingent of death knights was also taken.$B$BI should have seen the trap before it was sprung, but there's no use crying over spilled milk now is there?$B$BGo on before you get captured, too! I'll see you back at the vault.",
+  "p": "",
+  "c": "What?! We can ill-afford to lose one death knight, let alone an entire contingent!!!"
+ },
+ {
+  "id": 12952,
+  "t": "Gem Perfection",
+  "o": "Return two Huge Citrines, two Dark Jade and two Shadow Crystals to Carter Tiffens in Vengeance Landing.",
+  "d": "My skills are going to waste in this wretched place.   I spent many years learning to cut gems into their perfect form and have nothing to work on!   You look like the type who may be able to find me some gems and if you do I can teach you the skill of gem perfection.   This will allow you to sometimes cut a perfect gem with increased bonuses when cutting a uncommon quality gem from Northrend.",
+  "p": "These will do. I shall teach you the skills of gem perfection.",
+  "c": "These will have to do. I can teach you the art of gemcutting perfection, and give you proof of my skills as well."
+ },
+ {
+  "id": 12953,
+  "t": "Valkyrion Must Burn",
+  "o": "Use the Valkyrion Harpoon Guns to burn 6 Dry Haystacks.",
+  "d": "The crate is filled with incendiary harpoons.  You recall seeing harpoon guns and dry stacks of hay outside.$B$BPerhaps Iva will appreciate the extra effort and reward you appropriately.",
+  "p": "Yes?",
+  "c": "Now that is what I call dedication!  Those traitors might have a new master now, but they'll never forget their sisters' parting gift."
+ },
+ {
+  "id": 12954,
+  "t": "The Amphitheater of Anguish: Yggdras!",
+  "o": "Get in the arena at the Amphitheater of Anguish and defeat Yggdras! Return to Wodin the Troll-Servant to redeem your reward.",
+  "d": "I was wondering when you'd show up, $N! Having a past champion of the Ring of Blood here will be a huge draw! We're gonna be rich, buddy! RICH!$B$BAnyway, this dump is Zul'Drak. All the ice trolls seem to use it as a toilet. I dunno, the whole place is off its rocker if you ask me! Who cares, though, right? We're here to make some gold!$B$BYou know the drill, $N. When you're ready let me know and we'll get this show on the road!$B",
+  "p": "No payout until the fight's over, $gman:woman;.",
+  "c": "Hey! I know you. Your victory at the Ring of Blood was talked about for months! Too bad you forfeited the championship when you failed to show up to defend your title! Easy come, easy go, eh? At least you're still alive."
+ },
+ {
+  "id": 12955,
+  "t": "Eliminate the Competition",
+  "o": "The Leaper at The Shadow Vault wants you to duel and defeat Sigrid Iceborn, Efrem the Faithful, Onu'zun and Tinky Wickwhistle.",
+  "d": "Mrrfrmrfrrmrrr...$B$B<The Leaper clears his throat.>$B$BSorry about that. It can sometimes be hard to understand what I'm saying. You know how it is.$B$BI wanted to make sure that if you find yourself at the Savage Ledge, over the mountains to the west, that you make sure to eliminate the competition there.$B$BSpecifically, I'd like you to challenge to duels and humiliate Sigrid Iceborn, Efrem the Faithful, Onu'zun, and Tinky Wickwhistle in front of the vrykul.",
+  "p": "Why are you here?$B$BGo and humiliate them!",
+  "c": "That was important, $N. By driving them off, you're keeping them from interfering with whatever we need you to do over there."
+ },
+ {
+  "id": 12956,
+  "t": "A Spark of Hope",
+  "o": "You are to bring the Refined Gleaming Ore to Thorim in the Temple of Storms.",
+  "d": "Clearly, this is more than an ordinary hunk of metal.$b$bUnlike any ore you're familiar with, it is hard but not brittle, far lighter than it looks, and glows even when cool.$b$bLooking closer, you can make out one of Thorim's runes shining beneath the surface....",
+  "p": "What have you there, little one?",
+  "c": "You notice Thorim's stern countenance brighten with recognition as you present the ore."
+ },
+ {
+  "id": 12957,
+  "t": "Slaves of the Stormforged",
+  "o": "Bouldercrag the Rockshaper at Bouldercrag's Refuge wants you to free 6 Captive Mechagnomes and kill 3 Stormforged Taskmasters.",
+  "d": "To the southwest, on the western side of the Snowdrift Plains, the iron dwarves have dug a mine into the hillside. There, they use captive mechagnomes, servants of Keeper Mimir, to mine ore.$B$BI don't know where these mechagnomes came from, nor what they would do with their freedom, but perhaps we can win their help.$B$BGo to the Frozen Mine, $N, and set these creatures free from their bondage. Ask if they would fight alongside us against iron dwarf tyranny.",
+  "p": "Have you freed the slaves of the stormforged?",
+  "c": "I had hoped that more of the captives would choose to join us, but I do not blame them. Willing allies are few and far between, and we are thankful that you have lent your blade to our cause."
+ },
+ {
+  "id": 12958,
+  "t": "Shipment: Blood Jade Amulet ",
+  "o": "Combine a Vrykul Amulet, a Dark Jade and a Bloodstone to make a Blood Jade Amulet and bring it to Timothy Jones in Dalaran.$B$BYou can find a Vrykul Amulet on any Northrend Vrykul.",
+  "d": "A wealthy shipping concern has requested a collection of Blood Jade Amulets to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.$B",
+  "p": "Do you have a Blood Jade Amulet for my Undermine shipment?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised. Come back tomorrow and I am sure I will have another item I need from you!"
+ },
+ {
+  "id": 12959,
+  "t": "Shipment: Glowing Ivory Figurine",
+  "o": "Combine Northern Ivory, a Chalcedony and a Shadow Crystal to create a Glowing Ivory Figurine and bring it to Timothy Jones in Dalaran.$B$BYou can find a Northern Ivory on any Shoveltusk or Mammoth in Northrend.",
+  "d": "A wealthy shipping concern has requested a collection of Glowing Ivory Figurines to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.$B",
+  "p": "Do you have a Glowing Ivory Figurine for my Undermine shipment?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised. Come back tomorrow and I am sure I will have another item I need from you!"
+ },
+ {
+  "id": 12960,
+  "t": "Shipment: Wicked Sun Brooch",
+  "o": "Combine an Iron Dwarf Brooch, a Huge Citrine and a Sun Crystal to create a Wicked Sun Brooch and bring it to Timothy Jones in Dalaran.$B$BYou can find an Iron Dwarf Brooch on any Northrend Iron Dwarf.",
+  "d": "A wealthy shipping concern has requested a collection of Wicked Sun Brooches to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.$B",
+  "p": "Do you have a Wicked Sun Brooch for my Undermine shipment?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised. Come back tomorrow and I am sure I will have another item I need from you!"
+ },
+ {
+  "id": 12961,
+  "t": "Shipment: Intricate Bone Figurine",
+  "o": "Combine a Proto Dragon Bone, a Sun Crystal and a Dark Jade to craft an Intricate Bone Figurine and bring it to Timothy Jones in Dalaran.$B$BYou can find a Proto Dragon Bone on any Northrend Proto Dragon.",
+  "d": "A wealthy shipping concern has requested a collection of Intricate Bone Figurines to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.$B",
+  "p": "Do you have an Intricate Bone Figurine for my Undermine shipment?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised.  Come back tomorrow and I am sure I will have another item I need from you!"
+ },
+ {
+  "id": 12962,
+  "t": "Shipment: Bright Armor Relic",
+  "o": "Combine an Elemental Armor Scrap, a Bloodstone and a Huge Citrine to craft a Bright Armor Relic and bring it to Timothy Jones in Dalaran.$B$BYou can find an Elemental Armor Scrap on any Northrend Revenant.",
+  "d": "A wealthy shipping concern has requested a collection of Bright Armor Relics to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.$B",
+  "p": "Do you have a Bright Armor Relic for my Undermine shipment?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised. Come back tomorrow and I am sure I will have another item I need from you!"
+ },
+ {
+  "id": 12964,
+  "t": "The Dark Ore",
+  "o": "Bring 5 Ore Samples to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "At the Frozen Mine in the western part of the Snowdrift Plains, the stormforged iron dwarves have constructed a mine manned by slaves.$B$BIt's well behind the lines, so we haven't been able to find out much about what's going on there, but my scouts have reported seeing them remove cartloads of dark, sickly looking ore.",
+  "p": "What have you discovered about the ore?",
+  "c": "<Bouldercrag reaches out to take the ore, but then recoils.>$B$BThat ore... I can't touch it. It seethes with unnatural energy. No creature of stone can handle it. What do they mean to do with this?"
+ },
+ {
+  "id": 12965,
+  "t": "The Gifts of Loken",
+  "o": "Destroy Loken's Fury, Loken's Power, and Loken's Favor, and return to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "The one who commands the stormforged iron dwarves is called Runeseer Valduran. Although I have never seen them, it is said that his master, Keeper Loken, who took over Ulduar, has given Valduran powerful titan artifacts.$B$BIt could explain the strength and ferocity my men see in the stormforged warriors.$B$BValduran's base, Nidavelir, lies to the southwest, across the Snowdrift Plains. Go there, $N, and neutralize his power. Destroy these gifts of Loken's and help us to sap the strength of his followers.",
+  "p": "Is it true? Does Valduran possess powerful relics of the titans? Did you destroy them?",
+  "c": "<Bouldercrag nods grimly.>$B$BYou've weakened the stormforged considerably, but they'll keep fighting. Their casualties matter nothing to them, while our defenders continue to fall. Even if it costs them a hundred or a thousand iron corpses, they'll keep fighting until we've been pounded to gravel."
+ },
+ {
+  "id": 12966,
+  "t": "You Can't Miss Him",
+  "o": "King Jokkum in Dun Niffelem wants you to find Njormeld at Fjorn's Anvil.",
+  "d": "<Jokkum listens patiently to your request, then ponders it carefully before responding.>$b$bSo it is you we have to thank for Fjorn's demise?$b$bWhile it's true that you have aided us in our time of need, there is still much that must be done to repair our relations with Thorim.$b$bFor now, I shall allow Njormeld to reforge the armor we gifted to the Stormlord so many ages ago. Consider it payment for your assistance against Fjorn.$b$bNjormeld was sent to recover Fjorn's anvil. You should find him there.",
+  "p": "",
+  "c": "Reforging Thorim's armor? It can be done.$b$bFirst though, there's the matter of the anvil..."
+ },
+ {
+  "id": 12968,
+  "t": "Yulda's Folly",
+  "o": "Iva the Vengeful at Brunnhildar Village wants you to slay Yulda the Stormspeaker in Valkyrion.",
+  "d": "The witch that started it all, Yulda the Stormspeaker came to our very village.  She dared to insult our noble traditions and spouted the Lich King's venomous promises of power.$B$BShe ought to have left with a sword through her, but her magic was strong and she managed to escape.$B$BSeek her in Valkyrion inside the largest dwelling and show her that we are not to be trifled with.",
+  "p": "Did you find Yulda?",
+  "c": "Yulda had it coming.  No one gets away with insulting the Hyldsmeet.  Not even one of our own."
+ },
+ {
+  "id": 12969,
+  "t": "Is That Your Goblin?",
+  "o": "Challenge Agnetta Tyrsdottar in order to save Zeev Fizzlespark.  Return to Lok'lira the Crone in Brunnhildar Village after you've succeeded.",
+  "d": "I trust that's the green little one you've been looking for.  If I were you I'd step in before that Hyldnir splits him in half.$B$BYou've arrived in the middle of the Hyldsmeet, so all challenges must be accepted by participants.  There's nothing to stop you from taking your green friend's place.",
+  "p": "You're back.",
+  "c": "Well done, young one.  It looks like our deal has been satisfied on both our ends."
+ },
+ {
+  "id": 12970,
+  "t": "The Hyldsmeet",
+  "o": "Listen to Lok'lira the Crone's proposal.",
+  "d": "Whether you've noticed or not, by defeating your first Hyldnir in hand-to-hand combat, you've entered the Hyldsmeet -- the great competition of Hyldnir against Hyldnir to determine who will rule by Thorim's side.$B$BThe Hyldsmeet is the reason why I was imprisoned, for I sought to partake in the competition but was far too old and frail to be a match for the Hyldnir.$B$BIf you're willing to listen, I've a proposal for you.",
+  "p": "Keep it down, the others might start getting suspicious.",
+  "c": "It's settled then.  You will compete in the Hyldsmeet and with my help you'll restore great Thorim to his rightful place."
+ },
+ {
+  "id": 12971,
+  "t": "Taking on All Challengers",
+  "o": "Lok'lira the Crone in Brunnhildar Village wants you to defeat 6 Victorious Challengers.",
+  "d": "Let's get you started.  The good news is that by defeating Agnetta, you've earned yourself a spot in the next round of matches.$B$BThe bad news is that all your opponents will also have defeated someone in the first round.  Do not expect pushovers.",
+  "p": "Yes, $N?",
+  "c": "You've done it, $N.  You've bested some of the fiercest fighters the Hyldnir race has to offer."
+ },
+ {
+  "id": 12972,
+  "t": "You'll Need a Bear",
+  "o": "Speak to Brijana outside Brunnhildar Village.",
+  "d": "You've succeeded in the first rounds of the Hyldsmeet.  To advance further, you're going to need a warbear of your own.$B$BUnfortunately, the Hyldnir don't give them out to just anyone.  You'll have to emerge victorious from true battle, not just gladiatorial combat.$B$BThe Hyldnir of Brunnhildar are currently involved in a feud against the Sons of Hodir, Thorim's former allies.  Speak to Brijana just outside the village and see how you can help them and prove yourself in the process.",
+  "p": "",
+  "c": "Think we'll give you your own bear just like that?  You'll have to prove yourself before you get anything from us.$B$BDo not think too highly of yourself just because you bested a few challengers in the Hyldsmeet."
+ },
+ {
+  "id": 12973,
+  "t": "The Brothers Bronzebeard",
+  "o": "Accompany Brann Bronzebeard and his flying machine to Frosthold.",
+  "d": "That does it! We finally have the keystone... It's beautiful! I've been around the world more than once, but this thing's got me all jittery with excitement again. I suppose now's not the time to stop and admire though, we need to get the heck out of here.$B$BHop on my flying machine and help keep us covered from those iron dwarves on the way out!",
+  "p": "My pardons, $glad:lass;! I got all caught up in tha moment and I neglected ye entirely.",
+  "c": "King Stormheart sends his most sincere thanks for reuniting him with his brothers. It seems he's off to settle a score now - perhaps you'll meet with him again on Arthas's doorstep."
+ },
+ {
+  "id": 12974,
+  "t": "The Champion's Call!",
+  "o": "Seek out Gurgthock at the Amphitheater of Anguish in Zul'Drak.",
+  "d": "Pfft, what happens down here ain't fightin'. It's a couple of guys dancin' around a flag.$B$BYou lookin' for some real action, buddy? 'Cause if you are I got the hottest ticket in town.$B$BEver heard of Gurgthock and Wodin? Goblin and troll who ran the Ring of Blood back in Outland? Well they're here in Northrend and they've started up a whole new fight club over in Zul'Drak. If you're interested go to Zul'Drak, east of Crystalsong. They're at the big arena in the center. Tell 'em Shifty sent ya!",
+  "p": "",
+  "c": "Shifty sent you, eh?"
+ },
+ {
+  "id": 12975,
+  "t": "In Memoriam",
+  "o": "King Jokkum in Dun Niffelem wants you to collect 8 Horn Fragments from Thunderfall.",
+  "d": "Surely Thorim has told you of the tragedy that divides us.$b$bIt was in Thunderfall, northeast of here, that these events unfolded. The frozen fossils there are a reminder of that dark day, as are the spirits that haunt that place.$b$bIf my people are to forgive Thorim, something must take the place of those images. A memorial must be constructed to bring our hearts peace.$b$bGo there, $r. Collect the fragments of Hodir's Horn that was shattered that day.",
+  "p": "Have you found the pieces of Hodir's Horn?",
+  "c": "Another good deed you have done on Thorim's behalf, $c.$b$bThis will help to soften the hearts of my people towards him."
+ },
+ {
+  "id": 12976,
+  "t": "A Monument to the Fallen",
+  "o": "King Jokkum wants you to bring Hodir's Horn Fragments to Njormeld in Dun Niffelem.",
+  "d": "Bring these fragments to Njormeld. He will use the pieces of that sacred relic in the construction of a mighty monument.$b$bMay it soothe the pains and heal the scars my people have borne these many years.$b$bMay its presence help to bring about a new age that sees us once again in glorious battle at Thorim's side.$b$bGo now, $c. Njormeld awaits you.",
+  "p": "You have brought the fragments of Hodir's Horn, $r?",
+  "c": "<Njormeld's eyes become noticeably moist as he pours the contents of the bag onto the anvil.>$b$bThe Horn of Hodir....$b$bThis was a sacred gift to our people from Hodir himself, $r. It is a relic of great importance to us.$b$bWhen you next return to our stronghold you shall see the fruits of your labor.$b$bFarewell."
+ },
+ {
+  "id": 12977,
+  "t": "Blowing Hodir's Horn",
+  "o": "You are to defeat 5 Niffelem Forefathers and 5 Restless Frostborn at Thunderfall. You are then to blow Hodir's Horn over their corpses, then return to Hodir's Horn in Dun Niffelem.",
+  "d": "You have done a great service to the giants of Dun Niffelem. Without your aid, this monument would not exist.$b$bAs you silently ponder its significance, feelings begin to flood your heart. The feelings fill your mind with thoughts and images... as well as a sense of urgency.$b$bThe sensations fade and leave you with a knowledge of what you must do. The restless spirits at Thunderfall must be put to rest.$b$bAs you set off, you find that your hands have been filled with an ethereal horn.",
+  "p": "Strong gusts of wind swirl around the horn, causing its sound to echo throughout the surrounding mountains.$B$BTo any unknowing passersby, it might seem to be blowing itself....",
+  "c": "You are filled with a sense of peace and contentment knowing that the once tormented souls of Thunderfall are now resting peacefully."
+ },
+ {
+  "id": 12978,
+  "t": "Facing the Storm",
+  "o": "Bruor Ironbane at Bouldercrag's Refuge wants you to kill 10 Nidavelir Stormforged. You may kill Stormforged Champions, Stormforged Magi, or Stormforged War Golems.",
+  "d": "Like Bouldercrag, I once served the keepers as a craftsman in Ulduar, but with Loken's betrayal, I turned my hammer toward our new foes.$B$BWhen we could spare the men, I led raids on Nidavelir to relieve the pressure on our defenders, but our lines are near collapse.$B$BYou've proven yourself a capable combatant and a staunch ally. Perhaps you'd be willing to take up our banner and take the fight to Nidavelir, the iron dwarf stronghold to the southwest, across the Snowdrift Plains.",
+  "p": "Have you taken the hammer to the irons at Nidavelir?",
+  "c": "There may be hope for victory, $N. We have never been able to sustain an attack on the stormforged, but with your efforts, Valduran may yet fall!"
+ },
+ {
+  "id": 12979,
+  "t": "Armor of Darkness",
+  "o": "Bring 4 Dark Armor Samples to Bruor Ironbane at Bouldercrag's Refuge.",
+  "d": "This armor plate is thick and oversized compared to the rest of the golem's defenses. A quick examination of the golem's corpse reveals that this heavier plate seems to have been bolted on as an afterthought or a crude upgrade.$B$BWhy would the iron dwarves have added this redundant and mismatched armor to their war golems?$B$BPerhaps Bruor Ironbane would know if he had the chance to examine several of these plates from stormforged war golems.",
+  "p": "What is it you have there?",
+  "c": "Careful, now. Keep that plate as far away from me as you can. Even being in its presence is enough to inflict pain.$B$BBut you're right, $N, these are gigantic armor plates for a war golem of normal size. What would the stormforged be doing with them? There's only one way to find out."
+ },
+ {
+  "id": 12980,
+  "t": "The Armor's Secrets",
+  "o": "Take the Dark Armor Plate to Mimir's Workshop and ask Attendant Tock to examine it. When you're finished, return to Bruor Ironbane at Bouldercrag's Refuge.",
+  "d": "The presence of that armor plate is disorienting, but we need to find out all we can from it. It could be part of one of Valduran's schemes.$B$BHe's dedicated an extraordinary amount of effort to mining, refining, smithing, and testing this metal.$B$BTo the east, along the northern mountain face, is a building called Mimir's Workshop. It hasn't been used in quite some time, but if we're lucky, some of its attendants are still functional. Take your armor plate there and learn what you can from it.",
+  "p": "What did you learn?",
+  "c": "<Bruor listens as you describe what you learned in the workshop.>$B$BSo Valduran's master has given him this sinister metal to construct a giant weapon? That must be what he intends to use for the final strike against us! We need to stop him before he's able to complete it and unleash this weapon."
+ },
+ {
+  "id": 12981,
+  "t": "Hot and Cold",
+  "o": "You are to go to Frostfield Lake, kill the Brittle Revenants there and use the Essence of Ice on the Smoldering Scraps at Fjorn's Anvil. You are then to collect 6 of the Frozen Iron scraps and return to Fjorn's Anvil in Dun Niffelem.",
+  "d": "As you stare at the anvil you relive your recent accomplishments, particularly those which brought this artifact to rest here.$b$bIt suddenly occurs to you that more remains to be done. To the east, smoldering scraps clutter the landscape - shrapnel from the battle fought there.$b$bIf they could be cooled and gathered somehow, the frost giants would have an abundant supply of metal and the region would be cleared of these remnants of war.",
+  "p": "A luminous blue glow surrounds the anvil.",
+  "c": "You feel a sense of accomplishment as you realize that your efforts continue to strengthen the renewed bonds between Thorim and the Sons of Hodir."
+ },
+ {
+  "id": 12982,
+  "t": "Ebon Blade Prisoners",
+  "o": "Vaelen the Flayed at The Shadow Vault wants you to free 8 Ebon Blade Prisoners. They can be found in the cages throughout the greater Jotunheim region.",
+  "d": "Now that I'm back, I'm certain that the baron will want me to recover my men. I can see that we're barely hanging on here. The Lich King's forces are about to break through and we won't be able to hold without my captured death knights.$B$BCan you assist me once more, $N?$B$BGo back to Jotunheim and let them out of those cages. Break the damn locks, I don't care what you have to do. The vrykul likely have the keys.$B$BJust get my men free!",
+  "p": "Certainly there are more of my death knights to be loosed from their cages?!",
+  "c": "Thank you, $c. With the death knights that you freed, we'll be able to hold the line... for now."
+ },
+ {
+  "id": 12983,
+  "t": "The Last of Her Kind",
+  "o": "Astrid Bjornrittar in Brunnhildar Village wants you to rescue an Icemaw Matriarch in the Hibernal Cavern.",
+  "d": "For as long as I can remember, we've obtained our best bears from the Hibernal Cave to the east.$B$BThose times might finally be gone.  The cave has been overrun by ravenous jormungar and the wild bears are all but extinct.$B$BIf you were to find a surviving matriarch, however, I would guarantee you that she would fight better than any of these bears born in captivity.$B$BTake this harness to the Hibernal Cave and rescue a surviving matriarch.  Good luck finding one.",
+  "p": "Did you find a matriarch?",
+  "c": "I'm impressed.  I never thought I would see an icemaw matriarch again.  Especially not one this size."
+ },
+ {
+  "id": 12984,
+  "t": "Valduran the Stormborn",
+  "o": "Use Bouldercrag's War Horn when you have found Valduran the Stormborn. Defeat Valduran the Stormborn and return to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "We have no choice, $N. What you learned in Mimir's Workshop means that we must act before Valduran can complete and unleash his new weapon.$B$BEven now, the refuge's defenders fight to buy us time to deal with Valduran the Stormborn.$B$BYou must go to Nidavelir, across the Snowdrift Plains to the southwest, and then find and face Valduran. But you will not be alone. Bring this war horn with you and sound it as you prepare to face the leader of our enemies. Bruor and I will aid you in this battle.",
+  "p": "Valduran must be dealt with before the refuge falls.",
+  "c": "At last, Valduran is dead, and the stormforged are weakened, but if his boasting is true, we must continue fighting the stormforged in his absence. This weapon they're building could be the end of us."
+ },
+ {
+  "id": 12985,
+  "t": "Forging a Head",
+  "o": "Njormeld in Dun Niffelem needs you to use the Diamond Tipped Pick on the Dead Iron Giants at Frostfield Lake and return to him when you have collected 8 Stormforged Eyes.",
+  "d": "Greetings, $r.$b$bI have a task that King Jokkum felt you would be suited for, assuming you still strive to gain favor with our people.$b$bI have developed plans for another artifact, one that will grant Hodir's blessing of protection to our stronghold. I have nearly all that I require for its construction. All that remains to collect are the very eyes of our fallen enemies.$b$bTake this tool, and gather the eyes from the iron giant corpses that litter our fields.",
+  "p": "Have you collected the final components I seek, $r?",
+  "c": "It is nearly done.$b$bWith this artifact in place, Dun Niffelem shall be warned of impending dangers before they are upon us."
+ },
+ {
+  "id": 12986,
+  "t": "Fate of the Titans",
+  "o": "Creteus in the Foot Steppes has requested that you travel to the Temple of Invention, the Temple of Winter, the Temple of Life, and the Temple of Order and utilize the databank to examine each area.",
+  "d": "Norgannon's Core is not at this location. I am not sure why you seek it, $r, and I am equally unsure if you truly know the purpose of that which you seek.$B$BI would like you to aid me before I consider extending my assistance.  I have recently encountered knowledge of the watcher, Thorim. His seat of power is contested, and his fate remains to be seen. This troubles me, for I do not know of the other watchers. Utilize this databank to examine their temples to the northeast and return the knowledge to me.",
+  "p": "Have you returned with the knowledge that I seek, $r?",
+  "c": "The news you bear forth is grave indeed. I do not know the fate of the remaining watchers, but their absence spells dark times for all of the lands of Azeroth.$b$bI shall examine the knowledge contained in the databank that you have returned and attempt to fully assess the situation. I believe I am in possession of knowledge that you deem more pertinent at this moment however, so I shall allow you to partake in said wisdom first."
+ },
+ {
+  "id": 12987,
+  "t": "Mounting Hodir's Helm",
+  "o": "Njormeld wants you to fly to the tip of the northern ice spike in Dun Niffelem and use the Tablets of Pronouncement.",
+  "d": "The helm is forged.$b$bYour efforts have not gone unnoticed, small one. Though there remains much to do, we sons of Hodir are grateful for your accomplishments.$b$bIn return, I offer you the opportunity to present Hodir's helm to our king and our brethren.$b$bFly to the sparkling tip of the small ice spike in front of me and read to our people from this tablet.$b$bEnjoy the privilege, $c. Never before has an outsider been given such an honor!",
+  "p": "Have you mounted Hodirs Helm, $r?",
+  "c": "<Njormeld gazes up at Hodir's Helm, visibly moved.>$b$bThat will do, little $r.$b$bThat will do...."
+ },
+ {
+  "id": 12988,
+  "t": "Destroy the Forges!",
+  "o": "Destroy the North Lightning Forge, the Central Lightning Forge, and the South Lightning Forge with Bouldercrag's Bombs, then return to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "In my folly, I'd thought Valduran's project at Narvir's Cradle, a large construction area to the south, no more than a grotesque monument to \"Keeper\" Loken's cruelty.$B$BNow we know the truth, that it was meant to be used as a weapon against us and our allies. We must not allow this iron colossus to reach completion, $N, for it will mean the end of the refuge.$B$BGo to Narvir's Cradle, find the lightning forges the stormforged artisans use, and sabotage them.",
+  "p": "Were you able to hamper them by sabotaging the forges?",
+  "c": "Excellent work! Oh, it won't stop the iron dwarves, but it'll take them valuable time to rebuild those forges. I daresay we've gained the advantage."
+ },
+ {
+  "id": 12989,
+  "t": "The Slithering Darkness",
+  "o": "Astrid Bjornrittar wants you to slay 8 Ravenous Jormungar in the Hibernal Cavern east of Brunnhildar Village.",
+  "d": "The vile jormungar have taken over most of the Hibernal Cavern.  They are despicable beings... children of Loken, Thorim's scumsucker of a brother.$B$BAs Thorim's servants we owe it to ourselves to kill these scum where we find them.  You'll find the cavern just east of here, outside the village.",
+  "p": "You've returned!",
+  "c": "The jormungar are vile creatures.  You did well in destroying them."
+ },
+ {
+  "id": 12990,
+  "t": "The Wormhole",
+  "o": "Bring Jon LeCraft the materials he seeks to avoid a swift death, and to get a cool new spell.",
+  "d": "Bring me materials and I'll teach you how to use your Wormhole Generator.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12991,
+  "t": "Hit Them Where it Hurts",
+  "o": "Kill 10 Stormforged Artificers and return to Bruor Ironbane at Bouldercrag's Refuge.",
+  "d": "Bouldercrag's got a good plan to stymie the efforts of the iron dwarves at Narvir's Cradle, and I've got an idea of my own. Work on the iron colossus will come to a halt without any artisans.$B$BNarvir's Cradle is on the south side of the hill sheltering Bouldercrag's Refuge. Go there and slay any stormforged artificers in your path. They may be no different from what we once were, but they build a weapon that threatens us all.",
+  "p": "Have you decimated the iron colossus' workforce?",
+  "c": "There were days when I could never ask someone to do what you did, but my experience with the iron dwarves has extinguished those feelings. We have bought time against the enemy's advance."
+ },
+ {
+  "id": 12992,
+  "t": "Crush Dem Vrykuls!",
+  "o": "Vile at The Shadow Vault wants you to slay any 15 vrykul in the greater Jotunheim region.",
+  "d": "Dem vrykuls at the Jotunheim needs to be crushed!$B$B$N crush dems good!",
+  "p": "Dems vrykuls not killed!",
+  "c": "$N is my bestest little $r!"
+ },
+ {
+  "id": 12993,
+  "t": "A Colossal Threat",
+  "o": "Retrieve the Colossus Attack Specs and Colossus Defense Specs and bring them to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "You've done an excellent job of delaying the work on the iron colossus, but I fear we've only made the stormforged more determined to complete the weapon.$B$BEven now, they're bringing in new laborers and the overseers push them to the limit. We may not be able to keep them from bringing the colossus online, after all. Return to Narvir's Cradle, to the south and find the documents detailing the colossus' offensive and defensive abilities. They should be near the tents and forges on the bottom level.",
+  "p": "Did you find the documents we're looking for?",
+  "c": "<Bouldercrag begins to look over the documents, his eyes wide.>$B$BI had no idea the irons were capable of this! Our men will have no chance against this behemoth if it's completed. Fortunately, it looks like they're still lacking a key part."
+ },
+ {
+  "id": 12994,
+  "t": "Spy Hunter",
+  "o": "You must defeat 3 Stormforged Spies in the Valley of Ancient Winters.$b$bUsing the Ethereal Worg's Fang at the Corpse of the Fallen Worg will summon an Ethereal Frostworg, which will expose hidden enemies. You are to return to the Frostworg Denmother in Dun Niffelem when the valley has been cleansed of spies.",
+  "d": "The rapport you've developed with the inhabitants of Dun Niffelem has yielded some unexpected discoveries.$b$bFor example, you somehow find yourself able to understand the denmother's guttural growls and sharp quips - at least you think you do.$b$bIt would seem that she senses danger outside the stronghold and wants you to do something about it.$b$bWith her forepaw, she removes the chain from around her neck and lets it drop at your feet. As you pick it up you notice an aged fang attached to it....",
+  "p": "The frostworg denmother looks at you curiously.",
+  "c": "As you slide the chain back around the denmother's neck she licks your face approvingly."
+ },
+ {
+  "id": 12995,
+  "t": "Leave Our Mark",
+  "o": "Baron Sliver at The Shadow Vault wishes you to plant 15 Ebon Blade Banners near the corpses of vrykul found within the greater Jotunheim region.",
+  "d": "We must attack the vrykul of Jotunheim on many levels. Brute force, of course, is good, but I prefer a more cerebral approach.$B$BI want you to demoralize them.$B$BMy men here have forged a number of banners for you. I would like for you to take and plant them near the corpses of fallen vrykul.$B$BLet the banners serve as a constant reminder to them that they face a more immediate threat than the wrath of the Lich King.",
+  "p": "Oh now, $N, I don't think you're quite done yet.",
+  "c": "Well done, $N. Let them see the desecrated corpses of their fallen comrades and think twice about striking at us!$B$BIf you come back tomorrow, I will make certain to have more banners prepared for you."
+ },
+ {
+  "id": 12996,
+  "t": "The Warm-Up ",
+  "o": "Astrid Bjornrittar in Brunnhildar Village wants you to use the Reins of the Warbear Matriarch to defeat Kirgaraak.",
+  "d": "You've been very fortunate, sister.  This is a matriarch the likes of which hasn't been seen in years.$B$BA good bear won't do you much good without the skill to ride it.$B$BI'm going to have you practice some moves on Kirgaraak.  He's the largest yeti we've ever managed to capture so be careful.  Don't be afraid to walk away if he gives you a beating... there's a reason why we keep him chained.",
+  "p": "How did it go with the yeti?",
+  "c": "Not bad.  I was hoping Kirgaraak would snap your neck so I could keep your bear.$B$BJust joking, sister.  Well... half-joking.  That's a really nice bear you've got."
+ },
+ {
+  "id": 12997,
+  "t": "Into the Pit",
+  "o": "Astrid Bjornrittar, in Brunnhildar Village, wants you to use the Reins of the Warbear Matriarch inside the Pit of the Fang and defeat 6 Hyldsmeet Warbears.",
+  "d": "Besting a tethered opponent is one thing.  Fighting other bear riders on equal footing is another.$B$BHead into the Pit of the Fang and use what you've learned to defeat your opponents.  Good luck, sister.$B$BGlory awaits, should you succeed.",
+  "p": "Hail, $Gbrother:sister;.",
+  "c": "You really did it!  You made it out with your health.  Wish we could say the same for your bear.$B$BIt's going to take a while for her to recover.  Fortunately you won't need her for a while."
+ },
+ {
+  "id": 12998,
+  "t": "The Heart of the Storm",
+  "o": "Bouldercrag the Rockshaper at Bouldercrag's Refuge wants you to travel to Uldis and try to prevent Overseer Narvir from obtaining the Heart of the Storm.",
+  "d": "According to the documents you captured at Narvir's Cradle, the iron colossus is complete except for one key component -- the Heart of the Storm.$B$BWithout it, the iron colossus' weapons would be much weaker than the design predicts. If we can deny Overseer Narvir the heart, we could defeat the colossus!$B$BNotes on the documents you found say that the heart is in Uldis, a titan facility far to the south. Its entrance is on the south side of a tall mountain overlooking the Bor's Breath River.",
+  "p": "Tell me that the heart didn't fall into enemy hands.",
+  "c": "With the heart in the hands of Narvir, the colossus will achieve its full power! We'll have no choice but to fight it."
+ },
+ {
+  "id": 12999,
+  "t": "The Bone Witch",
+  "o": "Speak with The Bone Witch within the cave at Njorndar Village.",
+  "d": "You remember Lady Nightswood, don't you? She certainly remembers you. She's the forlorn and very angry banshee that you 'saved' when you also broke Vile and myself out from under the Lich King's dominion.$B$BThe lady has gone into Jotunheim and possessed their bone witch. She intends to wreak havoc upon the vrykul from within.$B$BShe has asked that you seek her out. You'll find her in the cave on the south side of Njorndar Village to the southwest within Jotunheim.",
+  "p": "",
+  "c": "$N, you came.$b$bAlready I have heard of your activities on the Savage Ledge. This is good. I am glad that you seem willing to help with undermining the vrykul here at Jotunheim.$b$b$b$bYou and I are going to have a great deal of fun with them!"
+ },
+ {
+  "id": 13000,
+  "t": "Emergency Measures",
+  "o": "Bloodguard Lorga wants you to go to the Gimorak's Den to the east and obtain 6 Worg Furs.",
+  "d": "The cold in these mountains is brutal.  We have a day or two before we burn up all the wood from the wreckage.$B$BWe spotted worgs inside a cave directly east of here.  I need you to find the cave and obtain some furs.  It might not sound like much, but it might be the difference between freezing to death and living another day.$B$BWorgs don't hunt alone, so I'm giving you a flare.  It should buy you some time if you find yourself outnumbered.",
+  "p": "Did you bring the furs?",
+  "c": "These furs are rather... large. I'd hate to see the worgs you had to face off with.$b$bWe're all very thankful. The temperature is starting to drop already."
+ },
+ {
+  "id": 13001,
+  "t": "Raising Hodir's Spear",
+  "o": "Lorekeeper Randvir in Dun Niffelem wants you to collect 3 Everfrost Shards from the depths of Hibernal Cavern and 3 Stoic Mammoth Hides from the Stoic Mammoths in the Valley of Ancient Winters.",
+  "d": "The time has come, little $c. The stars have foretold of this day.$b$bI have received a vision from mighty Hodir himself, revealing the secret to the creation of a great artifact.$b$bWe must obey! Were we to fail in receiving this gift, doom would surely follow.$b$bI call upon you to assist me in this sacred undertaking.$b$bGo across the valley, deep into the Hibernal Cavern and gather everfrost shards from the icy crater there, then collect hides from the mammoths outside the cavern.",
+  "p": "Have you gathered the materials for the spear, $r?",
+  "c": "Stand back, $r, and behold the fulfilling of a prophecy!"
+ },
+ {
+  "id": 13002,
+  "t": "Gem Perfection",
+  "o": "Return two Huge Citrines, two Dark Jade and two Shadow Crystals to Geba'li in Warsong Hold.",
+  "d": "Welcome to de cold, mon.  Dis place may not be so good for keepin' me bones warm, but I have learned how to cut me de perfect gem.  All I be needin' is some gems to do me work on.$B$BBring me some gems and I be teachin' you the skill of gem perfection.  Dis will allow you to sometimes cut a perfect gem with increased bonuses when cuttin' an uncommon quality gem from Northrend.",
+  "p": "Dis is what I been lookin' for.  Now I be learnin' you Gem Perfection.",
+  "c": "Dey be perfect mon'.  Here is the art of gemcutting perfection for ya."
+ },
+ {
+  "id": 13003,
+  "t": "Thrusting Hodir's Spear",
+  "o": "You are to use Hodir's Spear to challenge a Wild Wyrm in the Valley of Ancient Winters. Once in its grip, you are to fight to the death.",
+  "d": "Hodir's Spear is an icon of great prowess in battle.$b$bIts mere presence instills a deep hunger for glory in all who enter Dun Niffelem. In fact, simply being near it has compelled you to test your own abilities.$b$bScanning the horizon, your vision locks on a wild wyrm as it flies nearby.$b$bIt is decided. Of you and he, only one shall see the next sunrise....",
+  "p": "",
+  "c": "It is done.$b$bYou have stared certain death in the face and emerged victorious.$b$bBy single-handedly defeating such a mighty beast, you have brought great honor to Dun Niffelem!"
+ },
+ {
+  "id": 13004,
+  "t": "Gem Perfection",
+  "o": "Return two Huge Citrines, two Dark Jade and two Shadow Crystals to Alestros in Valiance Keep.",
+  "d": "There's a war going on and we each must do our part!  Mine is cutting gems and not only can I cut normal gems but I have the skill to cut perfect gems as well.   If you can bring me several uncut gems to contribute to the cause, I can teach you gem perfection as well.   This will allow you to sometimes cut a perfect gem with increased bonuses when cutting a uncommon quality gem from Northrend.",
+  "p": "Your donation is much appreciated.  Let me teach you of gem perfection.",
+  "c": "Thank you.  I shall teach you of gemcutting perfection and in addition give you a perfect gem that I have cut."
+ },
+ {
+  "id": 13005,
+  "t": "The Earthen Oath",
+  "o": "Thorim, at the Terrace of the Makers, wants you to use the Horn of the Peaks and call on the Earthen to defeat 20 Iron Dwarves and 7 Iron Sentinels.",
+  "d": "For years I neglected my duties, giving into defeat and self-pity.$B$BNot the brave earthen, however.  Their oath to protect these grounds with their lives has gone unbroken.$B$BEven now, they fight the corruption of iron with selflessness, waiting for the moment in which the tides turn.$B$BThat moment has arrived.  We must rally what remains of the earthen defenders and lead them into a glorious victory.  Sound the Horn of the Peaks to call them to your side and take back the Terrace of the Makers.",
+  "p": "Hail, $N! What news do you bring?",
+  "c": "It's a good start.  But my brother's forces will not take long to regroup.  We must make our victory a decisive one."
+ },
+ {
+  "id": 13006,
+  "t": "Polishing the Helm",
+  "o": "You are to enter Hibernal Cavern west of Dun Niffelem and collect 5 units of Viscous Oil from the Viscous Oils there.$b$bYou are then to return to Dun Niffelem and apply the oil to Hodir's Helm.",
+  "d": "As you draw near the helm, you notice that the frigid environment is already taking its toll on the artifact's surface. What is now just a thin layer of ice will surely grow to envelop it entirely.$b$bNot about to let your hard efforts go to waste, you resolve to scour the region in search of a solution.$b$bJust as you set off, the eyes of the helm flash and an image of the nearby Hibernal Cavern enters your mind.",
+  "p": "Frost is thickening on the helm as you watch, and icicles are beginning to form around its edges...",
+  "c": "As you coat the helm with a thin layer of oil, the frost falls away and the surface gleams."
+ },
+ {
+  "id": 13007,
+  "t": "The Iron Colossus",
+  "o": "Use a Tamed Jormungar to defeat the Iron Colossus and return to Bouldercrag the Rockshaper at Bouldercrag's Refuge.",
+  "d": "We have failed to prevent the completion of the iron colossus, $N, which means we have no choice but to face it in battle.$B$BBruor has devised a plan to exploit the colossus' only weakness.$B$BNo matter how tough the colossus' armor is, it is still vulnerable to a jormungar's acid. Take control of one using the orbs along the northern edge of the Snowdrift Plains, then use it to fight the Iron Colossus on the Snowdrift Plains. If you need help controlling the creature, speak to one of the nearby handlers.",
+  "p": "Have you defeated the iron colossus and spared the refuge from destruction?",
+  "c": "We've done it, we've really done it! The refuge is spared and the stormforged are defeated! We must warn Brann before Loken gets it in his mind to try to rebuild his forces. The only way to secure the victory you have won today is to go into Ulduar and defeat Loken for all time!"
+ },
+ {
+  "id": 13008,
+  "t": "Scourge Tactics",
+  "o": "Crusade Commander Entari at the Argent Vanguard in Icecrown has asked that you free 8 Webbed Crusaders.",
+  "d": "We had the element of surprise on our side! We blew a hole in the side of the mountain and charged into Scourgeholme. Scourge opposition was fierce and it wasn't long until we were overwhelmed. We fell back to the valley and began raining artillery down on the Scourge that followed. This held them back for awhile until... Those monsters began using crusaders as living shields. We had to stop shelling for fear of killing our own soldiers.$B$BFree our crusaders trapped on the field outside the base, $c!",
+  "p": "Have you freed the webbed crusaders?",
+  "c": "There are still many Argent Crusade soldiers out on that field and in Scourgeholme, $N. While your help is appreciated, there is still much left to be done."
+ },
+ {
+  "id": 13009,
+  "t": "A New Beginning",
+  "o": "Njormeld wants you to take the Reforged Armor to Thorim at the Temple of Storms.",
+  "d": "It remains uncertain whether or not our people can ever rekindle the affection we once held for Thorim.$b$bMay this armor, if nothing else, remind him of the days when we stood together in honor, invincible.",
+  "p": "How have your efforts fared, $c?",
+  "c": "<As you present Thorim with the reforged suit of armor, he is visibly stricken by its splendor.>$b$bYou have done well, $r, but there remains much to be done."
+ },
+ {
+  "id": 13010,
+  "t": "Krolmir, Hammer of Storms",
+  "o": "Thorim wants you to talk to King Jokkum in Dun Niffelem and discover what he knows of Krolmir.",
+  "d": "One task remains before I can reclaim my home at the Terrace of the Makers.$b$bKrolmir must be found.$b$bOn that fateful day, I threw it to the earth with all the power and rage I possessed. A mighty explosion followed.$b$bI've thought it lost for these many years, but now I must be certain.$b$bReturn to King Jokkum and discover what, if anything, he knows of my hammer's fate.",
+  "p": "Back again, little $r?",
+  "c": "Words cannot express my gratitude, $c.$b$bYou have served me honorably. Please accept this token of my gratitude."
+ },
+ {
+  "id": 13011,
+  "t": "Jormuttar is Soo Fat...",
+  "o": "King Jokkum in Dun Niffelem wants you to slay Jormuttar in Hibernal Cavern.",
+  "d": "I have an opportunity that will help you to gain approval with my people, provided you prevail.$b$bThe jormungar are a nuisance best dealt with quickly. If given any quarter, they breed like hares and spread like fire.$b$bThey have appeared southwest of here, in the Hibernal Cavern. If their spawnmother is not slain soon, they will gain a foothold in our region.$b$bShe cannot refuse food. Take this knife and get the flank of a bear corpse from their cave. Place it near her crater and kill her as she feeds.",
+  "p": "Have you slain Jormuttar?",
+  "c": "So it is done.$b$bWe have heard the screams of Jormuttar as they echoed from across the valley.$b$bYou have done our people a service this day, little $r."
+ },
+ {
+  "id": 13012,
+  "t": "Sardis the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13013,
+  "t": "Beldak the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13014,
+  "t": "Morthie the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13015,
+  "t": "Fargal the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13016,
+  "t": "Northal the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13017,
+  "t": "Jarten the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13018,
+  "t": "Sandrene the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13019,
+  "t": "Thoim the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13020,
+  "t": "Stonebeard the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13024,
+  "t": "Wanikaya the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13025,
+  "t": "Lunaro the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13026,
+  "t": "Bluewolf the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The stuff of life is doomed to die and return to the earth, but the stuff of spirit lives eternal. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 13027,
+  "t": "Tauros the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13028,
+  "t": "Graymane the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13029,
+  "t": "Pamuya the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13030,
+  "t": "Whurain the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13031,
+  "t": "Skywarden the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13032,
+  "t": "Muraco the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13033,
+  "t": "Arp the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 13034,
+  "t": "The Witness and the Hero",
+  "o": "Xarantaur, at Camp Tunka'lo, wants you to read the First History Scroll, the Second History Scroll, and the Third History Scroll.",
+  "d": "When I began my travels in Northrend, I visited the Borean Tundra and met the taunka for the first time. There, Wind Tamer Barah told me the tale of Stormhoof and his battle against the North Wind, their people's ancient enemy.$B$BI set out for the Storm Peaks to learn more of this hero, but strangely, the people of Tunka'lo seem to know nothing of him.$B$BPerhaps the camp's own records will give us greater insight. Find and read the history scrolls kept throughout the camp, then tell me what you learned.",
+  "p": "What have you learned from the records of Camp Tunka'lo?",
+  "c": "How peculiar... that doesn't sound like the story Wind Tamer Barah told me."
+ },
+ {
+  "id": 13035,
+  "t": "Loken's Lackeys",
+  "o": "Thorim wants you to slay Eisenfaust inside the Hall of the Shaper and Halefnir the Windborn and Duronn the Runeforged in the Terrace of the Makers.",
+  "d": "The attack on the Terrace of the Makers was not a half-hearted move on my brother's behalf.  He sent a legion of iron dwarves and some of his most powerful lieutenants.$B$BUse the Horn of the Peaks to call the earthen to your side and defeat Loken's servants.$B$BYou'll find the giant, Eisenfaust, inside the Hall of the Shaper to the north.  You'll find the others deeper inside the Terrace of the Makers, beyond the stairs to the northwest.",
+  "p": "It's good to see you again, $N.",
+  "c": "One by one, my brother's servants have fallen.  Loken's insurrection will soon come to an end."
+ },
+ {
+  "id": 13036,
+  "t": "Honor Above All Else",
+  "o": "Report to Crusade Commander Entari at the Argent Vanguard in Icecrown.",
+  "d": "Long has been the path to our salvation, young $c. We have fought across continents, worlds even, to reach this point. Now we face our greatest challenge: the destruction of the Lich King and his Scourge.$B$BAlas, we fight this battle divided. The Horde and Alliance are in the throes of war and will lend us no support. We must remain unyielding in our cause! For what choice have we to do otherwise?$B$BDo you join the cause? Lend us your strength, $c! My commander, Entari, awaits you at his post.",
+  "p": "",
+  "c": "Where both the Alliance and the Horde failed, the Argent Crusade succeeded. The success, however, was short lived. Our breach into Icecrown was quickly - and with force - rebuffed.$B$BThe Lich King's retaliatory strike was immediate and brutal. Now we are on the defensive."
+ },
+ {
+  "id": 13037,
+  "t": "Memories of Stormhoof",
+  "o": "Speak with Chieftain Swiftspear in Frostfloe Deep, then return to Xarantaur at Camp Tunka'lo.",
+  "d": "When the bronze dragonflight gifted me with immortality and set me on the path of the witness, Nozdormu entrusted me with the Lorehammer.$B$BThe hammer's reaction to your findings means that time has gone awry here and it is our duty to restore the true timeline.$B$BWe must find it. To the northwest is Frostfloe Deep, ancient burial cave of the warriors of Tunka'lo. Seek out the spirit of Chieftain Swiftspear, Stormhoof's brother. Ask him what he remembers of his brother's battle against the North Wind.",
+  "p": "",
+  "c": "Even the chieftain is beginning to lose his memories? The past is being rewritten before our eyes and if we do not find out who is behind this, the entire legacy of Stormhoof could be lost forever."
+ },
+ {
+  "id": 13038,
+  "t": "Distortions in Time",
+  "o": "Use the Chieftain's Totem to close 4 Frostfloe Rifts, then bring the totem to Xarantaur at Camp Tunka'lo.",
+  "d": "This, the tomb of Tunka'lo's warriors, is supposed to be a serene place, free from the terror of the elements.$B$BFrostfloe Deep has been invaded by a strange force, one that disturbs the spirits of the fallen and blurs my memories of my own life.$B$BIt's as though our deeds and memories are being erased from history.$B$BIn life, this totem was a symbol of my authority. It is the last true link I have to this world. Take it, use it to restore calm to the tomb, and then return it to Camp Tunka'lo.",
+  "p": "What is it you have brought from the tomb?",
+  "c": "The chieftain's spirit told you to bring this to me?$b$b<Xarantaur examines the totem.>$b$bAh, I see what he intended. By telling you to use this totem to close the rifts in the deep, he has given us a clue as to what's happening to the timeline. A wise chieftain, this Swiftspear, watching over his people even in death."
+ },
+ {
+  "id": 13039,
+  "t": "Defending The Vanguard",
+  "o": "Crusader Lord Dalfors at the Argent Vanguard in Icecrown has asked that you kill 15 Forgotten Depths Nerubians.",
+  "d": "We can't keep this pace up, $g lad:lass;. Once the breach was blown, the floodgates opened up. The Scourge have been pourin' through ever since with no end in sight!$B$BWe need every able bodied man and woman to help keep the tide of evil at bay. Get out there and do yer share, friend. Kill as many of those monsters as ye can!",
+  "p": "Don't give up, $N!",
+  "c": "How many of them could there possibly be? We've killed enough to fill ten graveyards and still they come. The situation looks grim, friend."
+ },
+ {
+  "id": 13040,
+  "t": "Curing The Incurable",
+  "o": "Father Gustav at the Argent Vanguard in Icecrown has asked that you bring him 10 Forgotten Depths Venom Sacs.",
+  "d": "The number of injured soldiers rises with each passing day. They are being stricken by some type of toxin that we have never before seen. Whatever it is that these Nerubians hold within their venom glands is lethal and incurable! So far we've only been able to slow down the poison flowing through the victim's bodies. We must devise a cure!$B$BVenture northwest to the valley outside of the Vanguard and slay the Forgotten Depths Nerubians. Recover their venom glands and bring them to me.",
+  "p": "Have you recovered the venom glands, $r?",
+  "c": "Thank you, $N. I will begin the tests on these samples immediately. It is my hope that a cure will be found soon."
+ },
+ {
+  "id": 13041,
+  "t": "Finish the Shipment",
+  "o": "Bring a Chalcedony to Timothy Jones in Dalaran.",
+  "d": "I'm glad you showed up!   A shipment of Glowing Ivory Figurines needs to go out to Undermine right now, and I am still short a Chalcedony to complete an eye for the last one.$B$BBring me one and a Dalaran Jeweler's token will be yours.",
+  "p": "Do you have the Chalcedony yet?",
+  "c": "Here is your Dalaran Jewelcrafter's Token as promised. I have new shipments going out all the time, check by from time to time to see what I need."
+ },
+ {
+  "id": 13042,
+  "t": "Deep in the Bowels of The Underhalls",
+  "o": "The Bone Witch in Njorndar Village has asked you to beat information out of Apprentice Osterkilgr concerning what Dr. Terrible is truly up to.$B$BYou are then to slay the apprentice.",
+  "d": "Deep in the bowels of The Underhalls to the northeast, a mad scientist known as Dr. Terrible is up to something befitting his name.$B$BThe doctor has been given dispensation by the Lich King to perform experiments upon the vargul -- the vrykul who fall in battle and are found unworthy, and then turned into Scourge.$B$BWe must put an end to his work, but my auguries have been unable to find him. He does, however, have an assistant.$B$BBeat the information out of his apprentice, and then dispose of the body.",
+  "p": "You have not finished what I asked of you.$B$BPlease leave and do not return until you have done so or I will be very cross.",
+  "c": "Very interesting. It sounds to me that you handled that perfectly. I'm surprised that the doctor was using a vargul as an assistant given what he was working on."
+ },
+ {
+  "id": 13043,
+  "t": "The Sum is Greater than the Parts",
+  "o": "Mount and take control of Nergeld. Defend it from the denizens of the Hall of Horrors until Dr. Terrible shows himself.$B$BUse Nergeld to slay the doctor, and then return to The Bone Witch in Njorndar Village.",
+  "d": "Opening the tome, you notice all manner of disgusting illustrations concerning the construction of what the doctor refers to as \"the ultimate weapon\"!$B$BClearly the prototype, Nergeld, is the massive flesh giant standing still at the end of the nearby Hall of Horrors.$B$BIf an army of those things were to be constructed, then it would mean doom. The only way to ensure that doesn't happen is to slay Dr. Terrible!$B$BPerhaps if you were to take control of the construct, the doctor would reveal himself?",
+  "p": "You recovered the doctor's tome, but you didn't finish him off using the flesh giant?$B$BGet back in there and kill him before it's too late!",
+  "c": "You discovered and put an end to the doctor's machinations.$B$B<The banshee-controlled witch smiles and places a large hand gently upon your shoulder.>$B$BThat's a fine poke in the eye for the Lich King, but I think we can do better."
+ },
+ {
+  "id": 13044,
+  "t": "If There Are Survivors...",
+  "o": "Speak with Penumbrius at the Argent Vanguard in Icecrown.",
+  "d": "Across the Valley of Echoes, west of here, and through the Breach, is the first Scourge encampment in Icecrown known as Scourgeholme. We fought a good fight at Scourgeholme and killed many Scourge, but in the end we were forced to retreat. Many soldiers were left behind - their fate unknown.$B$BIf there are survivors, we must attempt a rescue. Directly down this southeastern path is Penumbrius, ally of the bronze dragonflight and caretaker of the proto-brood. Seek him out and ask for his assistance.",
+  "p": "",
+  "c": "<Penumbrius nods.>$B$BMy kin will help. Together we will battle the Lich King and his undead legions.\n"
+ },
+ {
+  "id": 13045,
+  "t": "Into The Wild Green Yonder",
+  "o": "Rescue 3 Captured Argent Crusaders from Scourgeholme and drop them off at the Vanguard Infirmary at the center of the Argent Vanguard. Report to Highlord Tirion Fordring should you succeed.",
+  "d": "We will do all that we can to assist you, $N. The proto-brood have volunteered to fly you across the Breach and into Scourgeholme. Rescue any captured Argent Crusaders that you find. Return them immediately to the Vanguard Infirmary, located at the center of this base.$B$BChoose one of the Argent Skytalons in the pen behind me and go!$B$BScourgeholme is located northwest, across the Valley of Echoes, through the great Breach.",
+  "p": "With each minute that passes their chance of survival decreases.",
+  "c": "Arthas... He strikes recklessly - without care or caution. We have caught him off guard.$B$B<Highlord Tirion Fordring pauses, lost in thought for a moment.>$B$BWe will bolster our defenses and weather the storm.$B$BHow good are you with a cannon, $N?"
+ },
+ {
+  "id": 13046,
+  "t": "Feeding Arngrim",
+  "o": "You are to feed Arngrim 5 Disembodied Jormungar, then return to Arngrim's frozen image in Dun Niffelem.$b$bYou must go to the Valley of Ancient Winters and use Arngrim's Tooth on the Roaming Jormungar there. Once they have become disembodied, you must fight them until they are weakened.",
+  "d": "Arngrim's hunger was legendary.$b$bEven in death, his expression is one of famished yearning. You find that just looking at him is making your stomach growl.$b$bIt is said that throughout his life he was never truly sated, and that there was absolutely nothing he wouldn't eat. You wonder to yourself if there might be a way to feed the old king.$b$bNo sooner does the thought enter your mind than one of the massive frozen teeth falls from Arngrim's head, bounces off of his beard and lands in your hand.",
+  "p": "",
+  "c": "As you anchor the tooth in Arngrim's jaw, you get the impression that your efforts may have taken the edge off of the old king's hunger pangs... for now."
+ },
+ {
+  "id": 13047,
+  "t": "The Reckoning",
+  "o": "Meet Thorim near the Temple of Wisdom.  Report the outcome of the fight to King Jokkum in Dun Niffelem.",
+  "d": "Loken killed my wife, turned my followers and me against each other.  He took away everything I had, but today... that changes.$B$BToday we reclaim our sacred grounds.  Today... Loken dies.$B$BMeet me on the bridge near the Temple of Wisdom, just southwest of Ulduar.  I will finish this one way or the other.$B$BI need you there as a witness.  You will not aid me -- this is personal.$B$BAfter it's done, send word to Jokkum, King of the Frost Giants.  He's a good friend and will know what to do.",
+  "p": "Ach, $N!  It's good to see you, little one.",
+  "c": "No... it cannot be...$B$BNo one can defeat Thorim in single combat.  Not a giant, nor a beast... no one!  Especially not that coward of a brother of his.$B$BOn my forefathers' names, this I swear...$B$BLoken will pay for this!"
+ },
+ {
+  "id": 13048,
+  "t": "Where Time Went Wrong",
+  "o": "Use the Lorehammer on Taunka Relics to attune it to the time of Stormhoof. Once it has been attuned to 6 relics from the time of Stormhoof, return to Xarantaur at Camp Tunka'lo.",
+  "d": "The Lorehammer can help us correct the damage to the timeline, but only if we can discover where the history was originally corrupted.$B$BFrom Chieftain Swiftspear and your findings at Frostfloe Deep, we know that the change happened around the time of Stormhoof's death.$B$BNow, you must go to the Howling Hollow, north of the camp, and inspect the gravesites the North Wind's minions have already destroyed. The Lorehammer will react to artifacts from Stormhoof's era and attune itself to the proper time.",
+  "p": "Have you attuned the Lorehammer to the time period of Stormhoof?",
+  "c": "<Xarantaur accepts the Lorehammer from you.>$b$bAt last, we've pinpointed the time of Stormhoof in history. With this knowledge, we can restore the timeline."
+ },
+ {
+  "id": 13049,
+  "t": "The Hero's Arms",
+  "o": "Recover Stormhoof's Spear and Stormhoof's Mail and return them to Xarantaur at Camp Tunka'lo.",
+  "d": "Not all of the camp's records have yet been corrupted. My staff has helped me to find those records which reflect the true timeline.$B$BThey agree that Stormhoof was given a burial of honor among the village elders on the bottom level of the Howling Hollow, to the north.$B$BMost of the graves there have already been destroyed, their contents taken as trophies by the North Wind's subjects. Go to the hollow and see if you can recover Stormhoof's spear and armor from the scions of storm who have claimed them.",
+  "p": "Have you found Stormhoof's weapon and armor?",
+  "c": "We are fortunate that you have recovered these intact, $N. With them, I can use the Lorehammer to send you back in time, to where the North Wind started to corrupt the true timeline. It's the only way we can restore the true history of this place."
+ },
+ {
+  "id": 13050,
+  "t": "Veranus",
+  "o": "Thorim, at the Temple of Storms, wants you to obtain 5 Small Proto-Drake Eggs from the peaks near Brunnhildar Village.",
+  "d": "If I'm to launch an attack against my brother's army, I'm going to need some way to get around.$B$BI released my riding drake back into the wild years ago.  Veranus was magnificent.  The leader of her own brood -- to whom she has now returned.$B$BFinding her will be hard, but perhaps there's a way.  She keeps her old empty nest out of pure pride.  She's a broodmother in name only, for she is beyond the age of breeding.$B$BBring me small eggs from the other nests near Brunnhildar.  I think I've an idea.",
+  "p": "Did you obtain the eggs, $N?",
+  "c": "Yes... these will do.  Let us hope my plan works, $N.$B$BVeranus is a great drake.  I'd hate to have to settle for a lesser one."
+ },
+ {
+  "id": 13051,
+  "t": "Territorial Trespass",
+  "o": "Place the Stolen Proto-Dragon Eggs on top of the Broodmother's Nest and return to Thorim at the Temple of Storms.",
+  "d": "Veranus is proud like no other beast I've known.  She still keeps her old nest and makes sure none of the younger proto-drakes takes it over.$B$BTake the eggs you've collected and place them on her nest.  You'll find it atop a small peak, directly southeast of here.$B$BI should be able to get control of her before she kills you in a fit of rage.  Hopefully.",
+  "p": "",
+  "c": "It's good to have my old friend back.  It appears that my luck is finally starting to change... and it's all thanks to you, little friend."
+ },
+ {
+  "id": 13052,
+  "t": "Aerial Surveillance",
+  "o": "Professor Calvert wants you to take the flight to Lakeside Landing and speak with Pilot Vic there.",
+  "d": "You did a good job helping Wes with getting that flying machine back up and running.$B$BIf you'd like to help us further, there is an unusual weather pattern coming in from the northwest.  I have a pilot ready to work for me, but I'm afraid he needs a copilot.$B$BIf you think you're up to it, you can take the flight to Lakeside Landing.  Tell Vic I sent you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13053,
+  "t": "Looking for Survivors",
+  "o": "Help Zak Wobblesprocket complete the Test Flight.",
+  "d": "Gretchen Fizzlespark wants to use my flying machine to look for survivors from her expedition.  Apparently she thinks they're being held prisoner in the village to the north.$B$BThe only problem is I don't have a co-pilot.  If you're willing to take it on, I'd be more than happy to teach you a move or two.$B$BWhat do you say, $N?  Deal?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13054,
+  "t": "The Missing Tracker",
+  "o": "Look for Tracker Val'zij inside Gimorak's Den, southeast of the Grom'arsh Crash Site.",
+  "d": "I can't in good conscience send you to the worg cave without warning you that the previous person we sent there hasn't returned.$B$BWe're prepared for the worst, but perhaps there's a chance that he's alive.  We'd appreciate it if you helped him return -- Tracker Val'zij is one of the only hunters we have.",
+  "p": "",
+  "c": "This hurts bad, mon. Don't know if I'm gonna make it."
+ },
+ {
+  "id": 13055,
+  "t": "Cave Medicine",
+  "o": "Tracker Val'zij, at Gimorak's Den, wants you to obtain 1 Jormungar Toxin Gland and 8 Cave Mushrooms.",
+  "d": "It's good to see a friendly face.  Might be the last one I see.$B$BOne of those jormungar stung me with some sort of toxin before I managed to get away.  I can feel my whole body getting numb, mon.$B$BI'm going to need a toxin gland to make an antidote.  I will also need some of the cave mushrooms that grow here... they'll slow the toxin down.$B$BHurry, please.  I don't have much time.  ",
+  "p": "You back, mon?",
+  "c": "I thank you, mon. I might live another day now."
+ },
+ {
+  "id": 13056,
+  "t": "There's Always Time for Revenge",
+  "o": "Tracker Val'zij wants you to slay Gimorak inside Gimorak's Den.",
+  "d": "I should manage for now, $N.  There is one favor I'd like to ask, though.$B$BI would never had fallen to one of these worms, but my wind serpent, Heesha, was killed by the meanest worg I've seen in some time.$B$BDon't worry about me now, I'll feel better when that worg is breathing no more.  You should find him deeper in the cave.",
+  "p": "",
+  "c": "I'm already feeling much better, mon. Not sure if it's the antidote or the news of that filthy worg getting what he deserved."
+ },
+ {
+  "id": 13057,
+  "t": "The Terrace of the Makers",
+  "o": "Find Thorim at the southeastern edge of the Terrace of the Makers, just northwest of Dun Niffelem.",
+  "d": "It is time, $N.  I am prepared to face Loken now.$B$BLet us make our way to the Terrace of the Makers and face my brother's forces.  The fool will regret ever crossing me.",
+  "p": "",
+  "c": "We're here, $N.  My brother's forces will learn the meaning of defeat today."
+ },
+ {
+  "id": 13058,
+  "t": "Changing the Wind's Course",
+  "o": "Use the Lorehammer to travel back in time and face the North Wind as Stormhoof. When Stormhoof falls and drops the Horn of Elemental Fury, use it to finish off the North Wind, and then return to Xarantaur at Camp Tunka'lo.",
+  "d": "At last, we have all that we need to right the wrongs of the North Wind and its followers. You have attuned the Lorehammer to Stormhoof's time and his persona.$B$BTake the hammer again, head to the Temple of Life in the plains to the northwest. Use the hammer to assume the role of Stormhoof. Face the North Wind as Stormhoof, but realize that for the timeline to be restored, Stormhoof must die as the North Wind weakens.$B$BThen, you must find and use the Horn of Elemental Fury to destroy the North Wind.",
+  "p": "Have you done it? Is the true timeline restored?",
+  "c": "What you have done today will ensure that Stormhoof and his story will never be forgotten. As well, you have written yourself into the pages of Azeroth's history. I will remember and record your accomplishments for all eternity."
+ },
+ {
+  "id": 13059,
+  "t": "Revenge for the Vargul",
+  "o": "Bethod Feigr in The Underhalls wants you to throw down his sword to challenge Thane Illskar and then kill him in The Circle of Suffering.",
+  "d": "I've been praying to The Lady of the Sword for one to come and strike down my enemy. Thane Illskar must pay for what he did to me!$B$BI was the champion of Thane Ufrang the Mighty. During my fight for ascendance in Valhalas, Illskar sabotaged me with dark magic, causing me to lose and be reduced to this.$B$BThe thane and his champions can be found below in The Circle of Suffering. Challenge him on my behalf. Defeat him.$B$BMake him know the suffering that I know!",
+  "p": "I sense that you haven't yet defeated Thane Illska. Does something stay your hand?",
+  "c": "Thank you, $c... thank you!$B$BYou've given me the satisfaction of knowing that the coward who made me into this will rot for all eternity as surely as I will.$B$BNow leave before I lose control of myself and cut you down."
+ },
+ {
+  "id": 13060,
+  "t": "When All Else Fails",
+  "o": "Speak to Ricket to make use of Ricket's D16 Propelled Delivery Device to enter further into Storm Peaks.",
+  "d": "So...  so I don't think we're going to be getting a good foothold in those mountains.$B$BTrust me, I'm not one to give up easily... but between freezing engines, nasty vrykul women, territorial dragon want-to-bes and the half a dozen other nasties settled in the area, this just ain't happening.$B$BDon't let that dissuade you though! Just because we can't get a foothold doesn't mean we won't get you there... one-way trips are pretty simple when you get down to it.$B$B<Ricket nods at some nearby rockets.>",
+  "p": "",
+  "c": "<Olut winces.>$b$bThat looked painful. It was a pretty grand entrance though.$b$bAre you here to help us find a path into Icecrown? As you can see, our first foray in that direction didn't end too admirably. I'm thinking we might be better off breaching the place from another side."
+ },
+ {
+  "id": 13061,
+  "t": "Prepare for Glory",
+  "o": "Speak to Lok'lira the Crone in Brunnhildar Village.",
+  "d": "This is it then.  I'll take care of your bear now, you won't be needing her.  The great Drakkensryd will be your next challenge.$B$BSay goodbye to your friends and leave your affairs in order, for you will return victorious... or you won't return at all.",
+  "p": "",
+  "c": "You've really made it this far.  Never would I have thought you'd progress so quickly among the hyldnir."
+ },
+ {
+  "id": 13062,
+  "t": "Lok'lira's Parting Gift",
+  "o": "Speak to Gretta the Arbiter in Brunnhildar Village.",
+  "d": "You've been a great ally, $N.  Now comes your true test.  You will need skill, courage and a little luck.$B$B<Lok'lira attaches a thin strand of hair to yours.>$B$BYou cannot fail now sister.  Speak to Gretta the Arbiter.  She'll see you on your way.",
+  "p": "",
+  "c": "Are you ready to ride, sister?  There is no coming back."
+ },
+ {
+  "id": 13063,
+  "t": "Deemed Worthy",
+  "o": "Brijana wants you to go to Brunnhildar Village and speak with Astrid Bjornrittar.",
+  "d": "You have succeeded where many have failed, sister. Whether it be by strength and courage or mere luck remains to be seen.$b$bGo back to the village and seek out Astrid Bjornrittar. Tell her of your accomplishments. But be warned. She is not easily impressed.",
+  "p": "",
+  "c": "So, sister, you think that completing a few simple chores makes you a heroine?$b$bYou shall learn...."
+ },
+ {
+  "id": 13064,
+  "t": "Sibling Rivalry",
+  "o": "Thorim wants you to listen to his story.",
+  "d": "Sif? Is it truly you?$b$bNo? A $r? But for a moment....$b$bEnough of this! The visions of my Sif have tormented me for far too long. It is time for me to avenge her, and to bring honor to her memory.$b$bMy brother must pay!",
+  "p": "Hear my words, $r.",
+  "c": "You now know a bit of the history of this land... my land.$b$bI call upon you to assist me in setting these wrongs to right."
+ },
+ {
+  "id": 13068,
+  "t": "A Tale of Valor",
+  "o": "Highlord Tirion Fordring at Crusaders' Pinnacle has requested that you locate the hero, Crusader Bridenbrad at the Silent Vigil, in northeast Icecrown.  His fire pit will likely be the most obvious indication of his location from the air.",
+  "d": "Perhaps you've heard the praises for our missing hero?$B$BCrusader Bridenbrad was in the Broken Front aiding the attack against the Scourge when the undead army came down upon them. The many men of that allied force scattered, but Bridenbrad alone returned and dragged more than a dozen men to safety, one by one through the carnage.$B$B$C, he has not returned since. He was spotted heading to the far northeast, towards the Silent Vigil. Bring him back to me that I might honor him for his valor.",
+  "p": "",
+  "c": "Back! Careful! The plague has gripped me and I'll not see it spread to you nor anyone else."
+ },
+ {
+  "id": 13069,
+  "t": "Shoot 'Em Up",
+  "o": "The Leaper at The Shadow Vault wants you to use a Jotunheim Rapid-Fire Harpoon to shoot down 15 Jotunheim Proto-Drakes and their riders.",
+  "d": "Jotunheim has aerial defenses, both in terms of proto-drake riders and harpoon guns. They've concentrated these on their northern and western facings where they are most vulnerable.$B$BLet's use their defenses against them!$B$B<The Leaper pierces you with his single eye and cackles maniacally.>$B$BTake control of a harpoon gun on the platforms that overhang the cliffs on either side of Valhalas to the southwest. Take out the proto-drakes and their riders. Shoot 'em up!",
+  "p": "Tsk, tsk... you haven't shot down your fair share of proto-drakes today!",
+  "c": "You are a true champion for the cause, $N!$B$BWon't you please come speak to me again tomorrow? I'm certain that there will be more of those nasty proto-drakes to shoot down."
+ },
+ {
+  "id": 13070,
+  "t": "A Cold Front Approaches",
+  "o": "Report to Siegemaster Fezzik at the Argent Vanguard in Icecrown.",
+  "d": "The chill of death stirs in the west, threatening to freeze our hearts and souls to this wasteland and bind us to its dark master. We will stand and we will fight!$B$BThe preparations have begun. Report to Siegemaster Fezzik at the front gate for your assignment.",
+  "p": "",
+  "c": "We must be quick or face being overtaken by the Scourge! There's really no time for instructions, $r. You're just going to have to jump in and hope for the best."
+ },
+ {
+  "id": 13071,
+  "t": "Vile Like Fire!",
+  "o": "Vile at The Shadow Vault wants you to steal a Njorndar Proto-Drake and use it to set fire to 8 vrykul buildings in the greater Jotunheim region.$B$BBalargarde Fortress, due to its nature, cannot be set ablaze.",
+  "d": "Vile like fire! Vile like proto-drakes!$B$B<The abomination claps its hands excitedly.>$B$BLittle $N go to Jotunheim and steal a pretty proto-drake in Njorndar Village. Make proto-drake make pretty fires on Jotunheim buildings!",
+  "p": "What? Vile not see lots of fire!!!$B$B$N, go back and make more fire!",
+  "c": "Yay, yay! $N is best proto-drake stealer.$B$BYou come back tomorrow and we make more fire!!!"
+ },
+ {
+  "id": 13072,
+  "t": "A Hero Remains",
+  "o": "Bring news of Crusader Bridenbrad's fate to Highlord Tirion Fordring at Crusaders' Pinnacle.",
+  "d": "I know why you've come... they've sent you to bring me back, but that cannot happen. I carry the plague of undeath, $c, and I'll not share my fate with those near me. No, I shall stay here.$B$BMy only regret lies in what I may become when death grips me. I do not fear death itself, but I loathe to consider serving the traitor, Arthas.$B$BLeave me... and see to it that no one else comes looking. You would do me a great disservice if you were to expose anyone to the plague that I carry.",
+  "p": "",
+  "c": "Bridenbrad has contracted the plague? I cannot imagine a worse fate for one who has devoted his life to the ways of light, nor can I fathom leaving him to die without lifting a finger to help.$B$BNo, undeath shall not be his fate. We shall find a way to aid this hero."
+ },
+ {
+  "id": 13074,
+  "t": "Hope Within the Emerald Nightmare",
+  "o": "Keeper Remulos at Moonglade has instructed you to enter the emerald dream and recover 3 Emerald Acorns.$B$BLeave the vicinity of the Shrine of Remulos to return to Azeroth.",
+  "d": "What we need exists only in the emerald dream... acorns that are infused with a powerful restorative magic. Many places in this sacred glade are closely tied with the dream, and my shrine is among them.$B$BI will send you into the dream to recover some of these acorns. Be prepared though $c, for this method of entering the dream is dangerous, and it is very likely you will be beset by nightmares.$B$BRecover a few acorns quickly, and then depart from my shrine or pinch yourself to return to our world.",
+  "p": "It is good to see that you are safe. Have you recovered the acorns?",
+  "c": "Excellent work, young one."
+ },
+ {
+  "id": 13075,
+  "t": "The Boon of Remulos",
+  "o": "Return to Crusader Bridenbrad at the Silent Vigil in Icecrown with the Emerald Acorn.",
+  "d": "I shall open a portal to take you back to the druid that brought you here. You and your crusader have my well wishes. I hope that this acorn is able to purify your crusader and save him from the wretched fate of the plague.$B$BFarewell, $r.",
+  "p": "Well met, $c. I knew that you would return, despite my warnings, but I'm pleased that you heeded my desire to not risk anyone else.$B$BWhy have you come back to me?",
+  "c": "Tirion sent you to Remulos? I'm... I'm flattered. One does not call favors in with beings of such power idly, no matter how noble or altruistic they might be. You too are kind to have gone to such lengths on my behalf. You have my thanks.$B$BPlant the seed - I am ready."
+ }
+]

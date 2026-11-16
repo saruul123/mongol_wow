@@ -1,0 +1,98 @@
+[
+ {
+  "id": 25425,
+  "t": "Warn King Wrynn",
+  "o": "Speak with King Varian Wrynn in Stormwind Keep.",
+  "d": "You have successfully defended Stormwind from the threat posed by this Twilight's Hammer cult,$N,and without harming our own citizens. Our enemy will not rest for long. Indeed,Cho'Gall must already be busy planning his next move.$B$BYou must take word to King Varian Wrynn. Go directly to him in the throne room of Stormwind Keep. Tell the king that our enemies have shown themselves and we must be prepared for their return.",
+  "p": "",
+  "c": "<The king's face takes on a look of concern, and then anger as you describe the Twilight's Hammer plot to destroy Stormwind.>$B$BHow dare they strike Stormwind? How dare they try to manipulate the people of this city against us and the Alliance! If not for your valor this day, $N, our city would not have discovered this Twilight's Hammer scheme. You are a true hero of Stormwind and the Alliance."
+ },
+ {
+  "id": 25444,
+  "t": "Da Perfect Spies",
+  "o": "Capture 5 Sen'jin Frogs and attune them to Vanira's sight at her Sentry Totem.",
+  "d": "Now,it would be foolish to go in blind 'ere,so I be creatin' some tiny spies to gather information for Vol'jin. He got to know what's goin' on over on de islands.$B$BI could use da help,if you be feelin' up to it. I tell ya how it's done. First,ya gotta catch de frogs. Dey like to stay in de shade of da palm trees around Sen'jin.$B$BOnce ya have de frogs,bring 'em over here to my sentry totem an' attune dem to me sight.",
+  "p": "Ya helpin' with da frogs or not?",
+  "c": "These be enough for me purposes. Now comes de hard part."
+ },
+ {
+  "id": 25445,
+  "t": "Zalazane's Fall",
+  "o": "Help Vol'jin take back the Echo Isles and kill Zalazane.",
+  "d": "De time for battle is now!  We'd be headin' ova to da islands soon,so you'd betta be ready.$B$BZalazane doesn't have much time left.",
+  "p": "",
+  "c": "$N, you'd be a mighty warrior and a fierce commrade to da Darkspear trolls.  De Echo Isles are OURS now and we couldn'ta done it wit'out ya.$B$BTake dis cloak. Wear it wit pride.  You'd be a member of da tribe now!$B$BIn no time, da trolls will have a home again and we have you to thank for dat."
+ },
+ {
+  "id": 25446,
+  "t": "Frogs Away!",
+  "o": "While riding a bat,use the Sack o' Frogs to place 12 attuned frogs on the markers in the Echo Isles.",
+  "d": "Wit de frogs ready to go,I be needin' ya to help me send 'em out to the isles.$B$BOn de eastern side of Sen'jin Village,ya can find Handler Marnlek. He be handlin' all the bats for Vol'jin's scouts and he can loan ya a bat to get ya out to de isles.$B$BTake dis sack' o frogs with ya. I been askin' de spirits for guidance. Dey've sent smoke to show ya where I need de eyes most. While ridin' de bat,reach into de sack and toss de frogs toward de white smoke.",
+  "p": "",
+  "c": "I'm already beginnin' to see what de frogs are seein'. Ya done it perfectly, $N. Now Vol'jin and I will see what Zalazane be plannin'."
+ },
+ {
+  "id": 25461,
+  "t": "Trollin' For Volunteers",
+  "o": "Use Vol'jin's War Drums to recruit 5 Troll Citizens in Razor Hill.$B$BYou can speak to Handler Marnlek for a bat ride to Razor Hill.",
+  "d": "Vol'jin has given me his war drums and put  me in charge of trainin' da new recruits here. Only problem is we be short on new recruits.$B$BSupposin' I loaned ya dis drum,would ya use it to sound de call to war on Vol'jin's behalf in Razor Hill? If ya could even inspire just a few trolls to join da cause,it would make a difference. Once ya've convinced dem to volunteer,bring dem back to me for trainin'. Go over an' talk to Handler Marnlek to de south. He can lend you a bat for de ride to Razor Hill.",
+  "p": "",
+  "c": "Ya found some good ones. I be trainin' them hard and we won't stop until we've driven Zalazane from our islands."
+ },
+ {
+  "id": 25470,
+  "t": "Lady Of Da Tigers",
+  "o": "While imbued with the Spirit of the Tiger,lure the Tiger Matriarch out of hiding and use your new abilities to best it in combat.",
+  "d": "Remember de frogs ya made into me eyes and ears? Well,dey've found somethin' interestin'.$B$BOn an island to de southeast,dey've spied a tiger even de other cats seem to fear. Dis tiger,I've never seen anythin' like it.$B$BIt hunts wit' da instincts of a cat,but de mind of a person. It could be a powerful spirit and a strong ally.$B$BI'll be callin' down the spirit o' the tiger upon ya. Use its gifts to locate this cat and challenge it. See if ya can win its aid in our battle for the isles.",
+  "p": "",
+  "c": "Vanira's frogs be tellin' de truth, den? Dis tiger be a druid and an ally? We couldn't be hopin' for a better outcome. Dis be a good omen for de coming battle."
+ },
+ {
+  "id": 25480,
+  "t": "Dance Of De Spirits",
+  "o": "Talk to Witch Doctor Hez'tok near the circle of ritual dancers outside Sen'jin Village when you're ready to consult the omens.",
+  "d": "De time has come to start thinkin' about when to make our move. Champion Uru'zin tells me his men be ready. You and Vanira done good work gatherin' information on de enemy and findin' us new allies.$B$BNow,we read de omens. We find out when to launch de attack.$B$BFind Witch Doctor Hez'tok near the circle of ritual dancers. He be startin' de ritual as soon as ya be ready.",
+  "p": "",
+  "c": "I will take de spirits' advice to heart. Wit' dem behind us and de power of de ancient loas of de Darkspear Tribe, we be ready to reclaim what's ours!"
+ },
+ {
+  "id": 25495,
+  "t": "Preparin' For Battle",
+  "o": "Speak to Handler Marnlek for a flight to the staging area. Meet Vol'jin on the island east of the war camp.",
+  "d": "Vol'jin be gatherin' his gear and readyin' de warriors. He ask me to tell ya to meet with him an' Vanira on de island to de east.$B$BFrom dere,he and de warriors will launch de attack on Zalazane. May de ancestors go wit' you,$N. Without ya,dis campaign would only be a shadow of what it become. Speak to Handler Marnlek,just to de south,an' he give you a bat to fly out to de stagin' area.",
+  "p": "",
+  "c": "At last, everythin' be ready. Now, we show Zalazane what happen to dose who defy de Darkspears!"
+ },
+ {
+  "id": 25500,
+  "t": "Words for Delivery",
+  "o": "Give the speech to Captain Tread Sparknozzle at Steelgrill Depot.",
+  "d": "Here we go. This is the speech, $N!$b$bIt has everything to be a great battle starter: It's inspirational, has eloquent language and speaks directly to gnomes. Never has a finer speech been written!$b$bTurn this in to Captain Tread Sparknozzle and see if there's anything else he needs of you.",
+  "p": "",
+  "c": "This is the speech from Toby? Fantastic!$bRecruit, you've done all we could possibly ask for and the Gnomeregan Army thanks you!$bWe've got a strike team heading to Gnomeregan now and that wouldn't have been possible without your assistance. For all of your help, we'd like you to join the Gnomeregan Reserves!$bIt doesn't pay very well, but you do get this snazzy helmet. Hang on to that, you might need it someday!"
+ },
+ {
+  "id": 26012,
+  "t": "Trouble at Wyrmrest",
+  "o": "Speak with Krasus at Wyrmrest Temple in Dragonblight.",
+  "d": "My old friend Krasus sends word of dire happenings at Wyrmrest, in Dragonblight. His missive was brief, but it seems that there has been some sort of attack on the Ruby Sanctum beneath the Temple.$B$BPressing business here in Dalaran keeps me from attending to the matter personally, but I have heard word of your exploits in the Lich King's Citadel and you are doubtless up to the task -- perhaps you could assist Krasus in my stead?",
+  "p": "",
+  "c": "Thank you for heeding Rhonin's call, brave adventurer.$B$BLet me share with you what we know regarding recent events, and any assistance you might offer would be greatly appreciated."
+ },
+ {
+  "id": 26013,
+  "t": "Assault on the Sanctum",
+  "o": "Investigate the Ruby Sanctum beneath Wyrmrest Temple.",
+  "d": "$R, something terrible has transpired within the Ruby Sanctum beneath the Temple.$B$BThe entry to the Sanctum is in ruins, and its guardians violently slain. We sent scouts to investigate, but they have not returned. I cannot help but fear the worst.$B$BEnter the Ruby Sanctum and discover what has befallen the home of my flight. Once we have more information, we can plan our next steps accordingly.",
+  "p": "",
+  "c": "Thank you again, $c, for rescuing me from Baltharus's clutches!$B$BThere is still much work to be done, however...."
+ },
+ {
+  "id": 26034,
+  "t": "The Twilight Destroyer",
+  "o": "Defeat Halion and repel the invasion of the Ruby Sanctum.",
+  "d": "This was no reckless attack, but rather a carefully orchestrated strike against the heart of the Red Dragonflight.$B$BZarithrian, on the bluff over there, is overseeing the assault, but the true leader of this force is a brash and powerful Twilight dragon named Halion. Not since Dargonax has a full-grown spawn of Sinestra's twisted experiments been seen.$B$BSlay him, $N, and then when the invasion has been fully repelled, report to Krasus regarding all you have seen here.",
+  "p": "",
+  "c": "<Krasus listens intently as you relate your battle with Halion, and then his eyes go wide at the mention of Deathwing.>$B$BWe owe you a debt of gratitude, mortal, for driving the invaders from the Sanctum. But this news of the Destroyer is troubling beyond words. I have much to discuss with the other members of the Accord.$B$BTake these as a token of my thanks, as you gird yourselves for the coming storm."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 4022,
+  "t": "A Taste of Flame",
+  "o": "Show Cyrus Therepentous the Black Dragonflight Molt you received from Kalaran Windblade.$B",
+  "d": "The flight is aware of your work in the Searing Gorge.$B$BShow it to me, $r. The molt, imbecile.",
+  "p": "<Cyrus's eyes form two blazing spheres.>",
+  "c": "<Cyrus examines the molt.>$B$BYou have proven that you are not entirely useless, mortal."
+ },
+ {
+  "id": 4023,
+  "t": "A Taste of Flame",
+  "o": "Show Cyrus Therepentous proof of your worth.$B$BYou have a feeling that Cyrus already knows that you are unworthy.",
+  "d": "You seek out the Flight? Present to me proof of your worth, mortal.",
+  "p": "<Cyrus's eyes form two blazing spheres.>",
+  "c": "<Cyrus examines the molt.>$B$BYou have proven that you are not entirely useless, mortal."
+ },
+ {
+  "id": 4024,
+  "t": "A Taste of Flame",
+  "o": "Travel to Blackrock Depths and slay Bael'Gar.$B$BYou only know that the giant resides inside Blackrock Depths. Remember to use the Altered Black Dragonflight Molt on Bael'Gar's remains to capture the Fiery Essence.$B$BReturn the Encased Fiery Essence to Cyrus Therepentous.$B",
+  "d": "I wish to taste the searing flames of the mountain of fire. To let the molten fires of Blackrock cascade across my being. That essence, that searing heat, it is what I crave.$B$BBael'Gar resides in the Depths of Blackrock: A being of pure flame, born of the fires of Ragnaros. Slay Bael'Gar and from his smoldering remains bring for me a piece of his inner fire.$B$BUse the molt on his remains to safely extract the inner flame.$B$BSucceed and be rewarded.",
+  "p": "Has the giant been felled?",
+  "c": "<Cyrus snatches the fiery essence from your hands.>$B$BYES!$B$BTake your prize and be gone. Leave my sight at once!"
+ },
+ {
+  "id": 4041,
+  "t": "The Videre Elixir",
+  "o": "",
+  "d": "",
+  "p": "Bring me an Evoroot, and sure, I can make ya that Videre Elixir.$B$BI know all kinds of things about herbs and alchemy... Why, let me tell you the story about the time I transmuted gold from the cheese I was going to eat for lunch... hey... Where are you going?",
+  "c": "So, you pulled a fast one on ol' Miblon, eh?"
+ },
+ {
+  "id": 4061,
+  "t": "The Rise of the Machines",
+  "o": "Venture to the Burning Steppes and recover 10 Fractured Elemental Shards for Hierophant Theodora Mulvadania.$B$BYou recall Theodora mentioning the golems and elementals of that region as being a source for these shards.",
+  "d": "The machines made themselves known to us during our initial forays into the Searing Gorge. Upon further investigation we discovered that they were being imported from Burning Steppes, possibly Blackrock Depths. That is what we need you for, $N.$B$BYour first task is to venture to the Burning Steppes and recover elemental shards from the rock automatons and lesser rock creations of the region. Once you have collected a sufficient amount, return to me and I shall determine their source of origin.$B",
+  "p": "Do not take this task lightly, $N!",
+  "c": "<Theodora lays the fragments out before her.>$b$b<Theodora carefully examines the fragments with an enormous monocle.>$b$bInteresting. Etched into the structural foundation of each of these fragments are... initials."
+ },
+ {
+  "id": 4062,
+  "t": "The Rise of the Machines",
+  "o": "Take the Elemental Shard Sample to Lotwil Veriatus.$B$BYou recall Theodora saying that Lotwil was stationed in a camp to the east.$B",
+  "d": "G.L.A.$B$BThose are the 'initials' imprinted on the elemental shards. Below the initials are a rank marking of some sort. The machinations you destroyed in the Burning Steppes were of 'Rank IV.' I assume that this is a lowly rank.$B$BTake this shard sample to Lotwil Veriatus in the camp to the east. He is a scholar of some renown in the field of elemental sciences. He may be able to assist us in our search.",
+  "p": "What have you got there, $R?",
+  "c": "<Lotwil's face turns white.>$b$bI... I know these markings."
+ },
+ {
+  "id": 4063,
+  "t": "The Rise of the Machines",
+  "o": "Find and slay Golem Lord Argelmach. Return his head to Lotwil. You will also need to collect 10 Intact Elemental Cores from the Ragereaver Golems and Warbringer Constructs protecting Argelmach. You know this because you are psychic. ",
+  "d": "This can't be Argelmach! Argelmach was killed ten years ago. How can I be sure? I was the one who killed him.$B$BHe was a despicable dwarf, hell-bent on twisting my life's work to meet his diabolical needs. It seems that the wicked always find a way to escape justice.$B$BIf this is Argelmach's handiwork then he must be destroyed. I will need samplings of his latest creations. With the proper samples, I may be able to stop this uprising. The creations guard Argelmach in Blackrock Depths.",
+  "p": "Was it him? Was he really alive?",
+  "c": "What is this?!? This head is not flesh. This is some sort of dark iron creation: A shadow of Argelmach - ANOTHER machine! I suspect that your destruction of Argelmach will be short lived as another shall rise to take 'its' place soon."
+ },
+ {
+  "id": 4081,
+  "t": "KILL ON SIGHT: Dark Iron Dwarves",
+  "o": "Venture to Blackrock Depths and destroy the vile aggressors!$B$BWarlord Goretooth wants you to kill 15 Anvilrage Guardsmen, 10 Anvilrage Wardens and 5 Anvilrage Footmen. Return to him once your task is complete.$B",
+  "d": "By order of Warlord Goretooth, commander of the Kargath Expeditionary Force:$B$BAny and all of General Angerforge's forces within Blackrock Depths must be annihilated.$B$BAngerforge's men are ruthless killers, responsible for the mass murder of the 109th division of the Kargath Expeditionary Force. Heroes are warned to exercise extreme caution when confronting these brutes.$B$BAny person who destroys the first line of General Angerforge's forces in Blackrock Depths shall receive a tribute.",
+  "p": "What is it, $r? Can't you see I have a platoon to command?$B$B",
+  "c": "This first strike should put a crease in Angerforge's pants. Now, move along soldier. I have work to complete, battles to plan, enemies to crush!$B$BCheck the wanted signs for more work."
+ },
+ {
+  "id": 4082,
+  "t": "KILL ON SIGHT: High Ranking Dark Iron Officials",
+  "o": "Venture to Blackrock Depths and destroy the vile aggressors!$B$BWarlord Goretooth wants you to kill 10 Anvilrage Medics, 10 Anvilrage Soldiers and 10 Anvilrage Officers. Return to him once your task is complete.",
+  "d": "By order of Warlord Goretooth, commander of the Kargath Expeditionary Force:$B$BHead of the K.E.F. reconnaissance division, Grandmaster Lexlort, has returned with news of the whereabouts of high ranking Dark Iron officials. Through locked gate, near the heart of the city, they train their forces to snuff out our men. Travel to Blackrock Depths and destroy them!$B$BCompletion of this mission will result in a tribute.$B",
+  "p": "You again? I have to hand it to you, $N, you are tenacious.",
+  "c": "Angerforge is undoubtedly... angry. Return to me when you receive a third tribute and we shall proceed with Operation: Death to Angerforge. I cannot go into any detail of what this entails, but rest assured, it involves somebody dying."
+ },
+ {
+  "id": 4083,
+  "t": "The Spectral Chalice",
+  "o": "",
+  "d": "",
+  "p": "The spectral chalice floats in the air, slowing rising and falling... as if to the beat of a dying heart.",
+  "c": "The gems make no sound as they fall into depths of the chalice..."
+ },
+ {
+  "id": 4084,
+  "t": "Silver Heart",
+  "o": "Collect 11 Silvery Claws and 1 Irontree Heart for Eridan Bluewind in Felwood.",
+  "d": "I do not know the one you speak of, $N.$B$BBut worry not; if your friend was on a journey to find me, I do know what it was he desired.$B$BIn the heart of Un'Goro Crater dwells evil of the purest form. This evil takes the shape of an elemental called Blazerunner... protected by an aura that none can dispel...$B$BNone... except those with enough power to do so. I can teach you of this power, $N.$B$BFirst, do as I ask. Collect 11 Silvery Claws and 1 Irontree Heart from the creatures in Felwood, then return.",
+  "p": "I can tell you more of the power of which you required to defeat Blazerunner, but first, you need to gather the things I require.",
+  "c": "Very well, $N. I can see you are serious about helping your friend."
+ },
+ {
+  "id": 4101,
+  "t": "Cleansing Felwood",
+  "o": "Bring 15 Blood Amber to Arathandris Silversky in Felwood.",
+  "d": "Plants give life to Felwood, yet even they suffer the taint of corruption.  I know ways to cleanse them, but I cannot give out such knowledge to those I don't know or trust.  Prove to me that you will truly aid the cause of the Cenarion Circle!$B$BTo the north lie the Irontree Caverns.  The Warpwood elementals present there are now beyond hope of cleansing.  I ask you to bring me their sap - blood amber it is called - so I may study it in the hopes of saving other forms of life here.",
+  "p": "I know Felwood suffers, $N - I suffer along with it!  I must remain steadfast in my conviction; were the knowledge I possess to fall into the wrong hands, it would spell disaster for all of Felwood.$B$BBring to me the blood amber drawn from the slain Warpwood elementals, and I will trust you enough to help me enact a means to fight the corruption.",
+  "c": "This blood amber will be used to find a means of defeating the corruption present in Felwood. You've proven to me that you're willing to do whatever it takes for the Cenarion Circle. I trust you now, friend.$B$BIt might seem odd that killing the elementals proved yourself to me, but the end of saving countless sentient beings must justify the means we take. You and I can now focus on the preservation of life through the salves I can make.$B$B$N, the time has come to cleanse Felwood."
+ },
+ {
+  "id": 4102,
+  "t": "Cleansing Felwood",
+  "o": "Bring 15 Blood Amber to Maybess Riverbreeze in Felwood.",
+  "d": "Plants give life to Felwood, yet even they suffer the taint of corruption.  I know ways to cleanse them, but I cannot give out such knowledge to those I don't know or trust.  Prove to me that you will truly aid the cause of the Cenarion Circle!$B$BTo the north lie the Irontree Caverns.  The Warpwood elementals present there are now beyond hope of cleansing.  I ask you to bring me their sap - blood amber it is called - so I may study it in the hopes of saving other forms of life here.",
+  "p": "I know Felwood suffers, $N - I suffer along with it!  I must remain steadfast in my conviction; were the knowledge I possess to fall into the wrong hands, it would spell disaster for all of Felwood.$B$BBring to me the blood amber drawn from the slain Warpwood elementals, and I will trust you enough to help me enact a means to fight the corruption.",
+  "c": "This blood amber will be used to find a means of defeating the corruption present in Felwood.  You've proven to me that you're willing to do whatever it takes for the Cenarion Circle.  I trust you now, friend.$B$BIt might seem odd that killing the elementals proved yourself to me, but the end of saving countless sentient beings must justify the means we take.  You and I can now focus on the preservation of life through the salves I can make.$B$B$N, the time has come to cleanse Felwood."
+ },
+ {
+  "id": 4103,
+  "t": "Salve via Hunting",
+  "o": "",
+  "d": "",
+  "p": "Possessing a Cenarion Beacon allows one to see a corrupted soul shard on those tainted beasts that are put down for the greater good. I grind shards into a usable reagent that goes into making Cenarion plant salve. We will use that salve to turn corrupted plants into healthy ones again.$b$bIn exchange for these shards, I will give you some Cenarion plant salves I have already prepared.",
+  "c": "Very well then, here are your Cenarion plant salves. Scour Felwood for corrupted plants, $N! Wherever they are, use the salve I have given you to purify them."
+ },
+ {
+  "id": 4104,
+  "t": "Salve via Mining",
+  "o": "",
+  "d": "",
+  "p": "If you possess a Cenarion beacon while mining in Felwood, you will be able to see tainted vitriol that corrupts a vein of raw metal. I know how to purify that vitriol and turn it into a reagent that goes into making Cenarion plant salve. You will then use that salve on plants you find in the wild that need saving.$b$bIf you have collected any tainted vitriol, I'll give you some Cenarion plant salve I have already prepared.",
+  "c": "Very well then, here's some Cenarion plant salve. If you find more vitriol when you mine in Felwood, remember to hold on to it for me! The more of it you find, the more salve I will be able to make."
+ },
+ {
+  "id": 4105,
+  "t": "Salve via Gathering",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon allows a seasoned herbalist to spot insidious fel creep - a malfeasant product of Felwood's corruption. My work here has taught me the knowledge of purifying fel creep into a cleansing reagent... used in what we now refer to as Cenarion plant salve.$b$bWhen you gather herbs in Felwood, you should encounter the fel creep so long as you have the beacon. In exchange for what you bring to me, I will give you pre-made Cenarion plant salve.",
+  "c": "Excellent work $N - every bit of this, once we purify it, will help us take back Felwood. Here, take some doses of Cenarion plant salve and head into the forest. The reclaiming of the land from the corruption waits for no $r!"
+ },
+ {
+  "id": 4106,
+  "t": "Salve via Skinning",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon will allow a well-trained skinner to spot patches of tainted skin from bounty gathered in Felwood. I convert these seemingly useless patches into a thick paste that serves as a quickening agent for Cenarion plant salve. When you skin your kills here in Felwood, be sure to have a beacon on you!$b$bWhen you collect tainted patches, bring them to me and I will give you some Cenarion plant salves that I have already made.",
+  "c": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, $N!"
+ },
+ {
+  "id": 4107,
+  "t": "Salve via Disenchanting",
+  "o": "",
+  "d": "",
+  "p": "The power of a disenchanted magical item is felt by the essence it creates. I've devised a way to turn raw essence used by enchanters into a suitable reagent for creating Cenarion plant salve. You don't need a Cenarion beacon for this; any suitably disenchanted item that yields lesser nether essences will work.$b$bI just need a single lesser nether essence; in exchange, I will give you Cenarion plant salves. The essence is extremely potent - a little definitely goes a long way!",
+  "c": "Here are some Cenarion plant salves - I only need one lesser nether essence for this, $N. Essence is by far the most potent item I can make use of to turn swords into plowshares, as it were. If you need more salve, then find me here!"
+ },
+ {
+  "id": 4108,
+  "t": "Salve via Hunting",
+  "o": "",
+  "d": "",
+  "p": "Possessing a Cenarion Beacon allows one to see a corrupted soul shard on those tainted beasts that are put down for the greater good. I grind shards into a usable reagent that goes into making Cenarion plant salve. We will use that salve to turn corrupted plants into healthy ones again.$b$bIn exchange for these shards, I will give you some Cenarion plant salves I have already prepared.",
+  "c": "Very well then, here are your Cenarion plant salves. Scour Felwood for corrupted plants, $N! Wherever they are, use the salve I have given you to purify them."
+ },
+ {
+  "id": 4109,
+  "t": "Salve via Mining",
+  "o": "",
+  "d": "",
+  "p": "If you possess a Cenarion beacon while mining in Felwood, you will be able to see tainted vitriol that corrupts a vein of raw metal. I know how to purify that vitriol and turn it into a reagent that goes into making Cenarion plant salve. You will then use that salve on plants you find in the wild that need saving.$b$bIf you have collected any tainted vitriol, I'll give you some Cenarion plant salve I have already prepared.",
+  "c": "Very well then, here's some Cenarion plant salve. If you find more vitriol when you mine in Felwood, remember to hold on to it for me! The more of it you find, the more salve I will be able to make."
+ },
+ {
+  "id": 4110,
+  "t": "Salve via Gathering",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon allows a seasoned herbalist to spot insidious fel creep - a malfeasant product of Felwood's corruption. My work here has taught me the knowledge of purifying fel creep into a cleansing reagent... used in what we now refer to as Cenarion plant salve.$b$bWhen you gather herbs in Felwood, you should encounter the fel creep so long as you have the beacon. In exchange for what you bring to me, I will give you pre-made Cenarion plant salve.",
+  "c": "Excellent work $N - every bit of this, once we purify it, will help us take back Felwood. Here, take some doses of Cenarion plant salve and head into the forest. The reclaiming of the land from the corruption waits for no $r!"
+ },
+ {
+  "id": 4111,
+  "t": "Salve via Skinning",
+  "o": "",
+  "d": "",
+  "p": "A Cenarion beacon will allow a well-trained skinner to spot patches of tainted skin from bounty gathered in Felwood. I convert these seemingly useless patches into a thick paste that serves as a quickening agent for Cenarion plant salve. When you skin your kills here in Felwood, be sure to have a beacon on you!$b$bWhen you collect tainted patches, bring them to me and I will give you some Cenarion plant salves that I have already made.",
+  "c": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, $N!"
+ },
+ {
+  "id": 4112,
+  "t": "Salve via Disenchanting",
+  "o": "",
+  "d": "",
+  "p": "The power of a disenchanted magical item is felt by the essence it creates. I've devised a way to turn raw essence used by enchanters into a suitable reagent for creating Cenarion plant salve. You don't need a Cenarion beacon for this; any suitably disenchanted item that yields lesser nether essences will work.$b$bI just need a single lesser nether essence; in exchange, I will give you Cenarion plant salves. The essence is extremely potent - a little definitely goes a long way!",
+  "c": "Here are some Cenarion plant salves - I only need one lesser nether essence for this, $N. Essence is by far the most potent item I can make use of to turn swords into plowshares, as it were. If you need more salve, then find me here!"
+ },
+ {
+  "id": 4113,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant.  A pungent, unhealthy odor emanates from the plant.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4114,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4115,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4116,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4117,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4118,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4119,
+  "t": "Corrupted Night Dragon",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4120,
+  "t": "The Strength of Corruption",
+  "o": "Talo Thornhoof at Camp Mojache in Feralas wants you to kill 12 Angerclaw Grizzlies and 12 Felpaw Ravagers in Felwood.",
+  "d": "Being a hunter, I strive to emulate the strengths I see in my opponents. It is possible to turn the battle in your favor by simply knowing your enemy well, $N.$B$BIn a place called Felwood, north of Ashenvale, the creatures have been tainted by a substance called fel. The bears and wolves have been driven mad by it, but I believe that they have also grown even stronger as well.$B$BGo, $N. Travel to Felwood and face these beasts. Learn for yourself if they are truly as strong as I believe.",
+  "p": "Everything touched by the fel emanates a strange green glow... I sense it is evil, but at the same time, very powerful.",
+  "c": "It sounds from your descriptions as if the creatures show a mindless ferocity...$b$bStay alert, $N. It would be in your best interest to learn more of the corruption. Always know your enemy."
+ },
+ {
+  "id": 4121,
+  "t": "Precarious Predicament",
+  "o": "Escort your prisoner, Grark Lorkrub, through Burning Steppes and through Blackrock Mountain to the Searing Gorge.$B$BYou recall Lexlort mentioning that he would have his men waiting on the other side to take Grark into custody.$B$BYou will also be required to hand over your Thorium Shackles to Lexlort.",
+  "d": "Do you truly believe that you will make it to your rendezvous point with me in custody? You actually expected to break into a heavily fortified Blackrock fortress to capture a prized asset of theirs without alerting anyone or anything to your presence?$B$BYou will be destroyed!$B",
+  "p": "I will take this traitorous filth, $N.",
+  "c": "Your heroics will not go unrecognized, $N. You have earned this tribute. The Warlord will speak with you now in regards to the final mission."
+ },
+ {
+  "id": 4122,
+  "t": "Grark Lorkrub",
+  "o": "Travel to the Burning Steppes and find Grark Lorkrub. You recall Lexlort mentioning that he was last seen in a massive Blackrock fortress.$B$BWhen you find Grark Lorkrub, use the Thorium Shackles to bind him and then lead him back through Blackrock Mountain to the Searing Gorge. Lexlort will have his men waiting on the other side to take Grark into custody.$B",
+  "d": "I tracked him across the Searing Gorge, through the mountain, and into the Burning Steppes. That traitor was caught red-handed giving the Blackrock orcs vital information about our day to day operations. I'm speaking of Grark Lorkrub.$B$BHe now sits in the Burning Steppes, safely under their protection - or so he thinks.$B$BTake these shackles, $N. Find Grark, place the shackles on him and lead him through Blackrock Mountain. Do this and a tribute is yours.$B",
+  "p": "",
+  "c": "Can you not see the power we gain by joining the legion of Blackrock? "
+ },
+ {
+  "id": 4123,
+  "t": "The Heart of the Mountain",
+  "o": "Bring the Heart of the Mountain to Maxwort Uberglint in the Burning Steppes.",
+  "d": "For years I have sought a certain gem.  It is called the Heart of the Mountain and it's the size of your fist!  The Dark Iron dwarves have it locked in their vault and, try as I may, they won't let me purchase it.$B$BSo I must resort to force.$B$BFight your way to the Lower Vault of Blackrock Depths, breach its secret safe and gain the Heart.  To do that, you must defeat Watchman Doomgrip, and he won't appear until you've opened every relic coffer in the vault!$B$BGood luck.",
+  "p": "Do you have the Heart of the Mountain?  To me, its value is without limit.",
+  "c": "You have the heart!  Amazing!  It is even more beautiful than I imagined!$B$BPlease, $N, take this as payment!"
+ },
+ {
+  "id": 4124,
+  "t": "The Missing Courier",
+  "o": "Speak with Ginro Hearthkindle in Feathermoon Stronghold.",
+  "d": "An associate of mine, Ginro Hearthkindle, is looking for assistance concerning the location of a courier and the parcels he was carrying.  It has been a week or so since the courier went missing; our own searches have proved fruitless, and we're at an impasse.  Unfortunately, I have had to declare the courier as missing in action.$B$BIf you have the time and resources to spare, please speak with Ginro.  He should be here in the Stronghold - perhaps in his quarters.",
+  "p": "",
+  "c": "Latro sent you to me, I presume.  While I think it is a lost cause at this point, I'll take whatever assistance you can offer.  I must admit... I'll be glad once I can put my mind to rest on this matter.  Every day I set out into the wilds of Feralas looking for signs of Raschal, and every night I have come back with nothing to show for my work save gnoll teeth and disappointment."
+ },
+ {
+  "id": 4125,
+  "t": "The Missing Courier",
+  "o": "Locate the courier's boat somewhere along the coast of Feralas.",
+  "d": "It's been about a week since Raschal, the courier, set out for Thalanaar.  He knows Feralas well; he's been with us since General Feathermoon led the expeditionary forces here.  I know his plan was to take a row boat down the coast and try and traverse across southern Feralas to avoid the Horde camp.$B$BI couldn't find his boat, but maybe you can.  Maybe it is hidden, or maybe it was sunk.  Regardless, it might hold a clue as to where he is.  If you uncover something, please let me know.",
+  "p": "",
+  "c": "You have found what appears to be a wrecked row boat.  Through the slightly muddy water you see gaping holes riddling the port side; the boat is nearly shredded down to its simple wooden frame.  Whatever broke this boat most likely tried to snap it in two.  A small crest of the Feathermoon Stronghold is painted on the starboard side.$B$BIn the mud at the base of the boat, a glint of something metallic catches your eye..."
+ },
+ {
+  "id": 4126,
+  "t": "Hurley Blackbreath",
+  "o": "Bring the Lost Thunderbrew Recipe to Ragnar Thunderbrew in Kharanos.",
+  "d": "The Dark Iron dwarves, led by the villain Hurley Blackbreath, stole one of the Thunderbrew's best recipes, Thunderbrew Lager.  The villains!  They don't deserve such a fine brew!$B$B$N, I have a tough task for you.  Go to the Blackrock Depths in the Burning Steppes, destroy any kegs of Thunderbrew Lager you find, and bring back our recipe for Thunderbrew Lager!$B$BPlease, get that recipe back, even if you have to turn Blackrock Depths upside down to do it!",
+  "p": "Do you have the recipe, $N? I can't stand the idea of those Dark Iron dwarves drinking my family's drink!",
+  "c": "You found it! Well done! And I hope you gave those Dark Irons, and Hurley Blackbreath, a good thumping!$b$bThe Thunderbrews are at your service, $N. You are a hero of heroes!"
+ },
+ {
+  "id": 4127,
+  "t": "Boat Wreckage",
+  "o": "Return to Feathermoon Stronghold and show Ginro Hearthkindle the Discarded Knife you have found.",
+  "d": "Running your hand along the mud, your fingers graze the handle of a knife.  It looks well cared for, and it might be safe to assume that whoever was on the boat might have lost it.  Perhaps the large chunk of the missing boat might have something to do with the loss.$B$BYou grab the knife, remembering that Ginro Hearthkindle in the Feathermoon Stronghold instructed you to return to him with any found clues.  You get the feeling, however, that you are not quite alone in the water...",
+  "p": "Ah, welcome back $N.  I hope that you were able to uncover some clue as to Raschal's ultimate fate, as tragic as that may be.",
+  "c": "Interesting... I believe that this is Raschal's knife.  You say you found it at the bottom of the water, along with his boat?  Well, just the knife's discovery might not be enough to connect this to Raschal's disappearance; we do, however, have an unconventional option available to us to try and learn more.$B$BHave you ever heard of psychometry?"
+ },
+ {
+  "id": 4128,
+  "t": "Ragnar Thunderbrew",
+  "o": "Speak with Ragnar Thunderbrew.",
+  "d": "Ho, $n.  I heard that Ragnar Thunderbrew is steaming mad about someone stealing his ale.  He's looking for stalwart adventurers, and willing to pay plenty.$B$BTalk to Ragnar if you're interested.  He's at the Thunderbrew Distillery in Kharanos, in Dun Morogh.",
+  "p": "",
+  "c": "You're right I'm mad!  I've been robbed!  Robbed of one of our family recipes!  How dare they!  As if I didn't have enough cause to hate the Dark Iron dwarves!  Now, oh... now they're in for it!"
+ },
+ {
+  "id": 4129,
+  "t": "The Knife Revealed",
+  "o": "Take the Discarded Knife to Quintis Jonespyre in Feathermoon Stronghold.",
+  "d": "The Stronghold's resident druid, Quintis Jonespyre, has some... unusual skills.  One of them involves psychometry - the ability to reveal an item's history by touch.  Don't ask me how he does it; I chalk it up to magic I do not and choose not to understand.  I do know, however, two things: one, I've seen it work and two, the bum owes me.$B$BTake the knife up to Quint in his little tree-house here, and tell him for me that his Kalimdor Hold 'Em debt will be paid if he works his mojo on that knife.",
+  "p": "Ginro sent you, eh?$B$BMy psychometric readings are fairly draining on the psyche... but so are my losses at Kalimdor Hold 'Em.  They call me \"King of the Bad Beats\" here in the Stronghold.  Unlucky at cards... lucky at mastering the secrets of nature, I guess.$B$BAnyway, of course I'll do it.  This may be just the breakthrough we need to uncover Raschal's fate.  If you would hand me the knife, we can get started.",
+  "c": "Thank you, $N.$B$BWhile psychometry isn't an exact art by any stretch of the imagination, I've used it in times past to give insight into situations that others have chalked up to lost causes.  I think using it on the knife you've uncovered will give us a glimpse into what happened to Raschal.$B$BIt will only take a moment to do, but it isn't what I'd call a caster-friendly task.  Bear with me on this."
+ },
+ {
+  "id": 4130,
+  "t": "Psychometric Reading",
+  "o": "Speak with Ginro Hearthkindle in Feathermoon Stronghold.",
+  "d": "I'm a little wobbly still, sorry.  Anyway, I received some useful visions.$B$BRaschal takes two large leather backpacks from his boat and goes inland; he returns to the boat, however.  I see gnoll scalps... he ran into some gnolls - Woodpaw I think they're called.  He's very worried - almost terrified - about something.  So much so, that he is not paying attention to water elementals forming behind him.  The images... stop there.$B$BI need to rest, sorry $N.  Tell Gin what I've seen.  He needs to know.",
+  "p": "",
+  "c": "Thanks for passing along Quint's visions to me, $N.  I'll try to remember to be a little easier on him the next time we play cards.$B$BRaschal can hold his own in a fight, and gnolls aren't anything that would get him worried - nay, terrified.  Still, maybe you and yours can act on this new information and make the breakthrough we desperately need."
+ },
+ {
+  "id": 4131,
+  "t": "The Woodpaw Gnolls",
+  "o": "Search the Woodpaw Gnoll camps of southern Feralas for evidence of the courier's belongings or the courier himself.",
+  "d": "Our \"friends\" the Woodpaw might have gotten Raschal in the end, but something tells me that's not what occurred.  Still, they're the best place to start looking.$B$BI wish I had clearer insight as to what to do, but all I have right now is 'Search the Woodpaw camps - go.'  I do know that gnolls will keep items they scavenge and fight over them; maybe they ran across the backpacks Quint mentioned.  I hadn't risked a head-on fight in past searches, but with Quint's vision on this I say rip into them.",
+  "p": "",
+  "c": "Tacked up on a nearby tree are two large leather backpacks.  Each bears a small insignia of the Feathermoon Stronghold on the front of the pack..."
+ },
+ {
+  "id": 4132,
+  "t": "Operation: Death to Angerforge",
+  "o": "Travel to Blackrock Depths and slay General Angerforge! Return to Warlord Goretooth when the task is complete.",
+  "d": "You have done an exemplary job, $N. It is now time to send you on your last mission.$B$BGeneral Angerforge, the Dark Iron responsible for coordinating the attacks on the 109th division of the K.E.F. and the mass slaughter of our forces must be brought to justice.$B$BThis will undoubtedly be your most grueling mission, but should you succeed, you will be richly rewarded.$B",
+  "p": "Has the Butcher of Blackrock been disposed of?",
+  "c": "Finally! The villain been brought to justice! You are a remarkable individual, $N. Wear this medallion as a symbol of your stalwart dedication to the Horde and the K.E.F."
+ },
+ {
+  "id": 4133,
+  "t": "Vivian Lagrave",
+  "o": "Speak with Shadowmaster Vivian Lagrave in Kargath.",
+  "d": "Shadowmaster Vivian Lagrave is in need of your services.  She is in the Badlands, in the orcish outpost of Kargath, pursuing rumors of a certain brew made by the Dark Iron dwarves of Blackrock Depths.$B$BSpeak with Vivian.  She awaits you.",
+  "p": "",
+  "c": "Thank you for coming, $N. This place is not without a stark charm, but is lacks the amenities of the Apothecarium.$b$bEnough with the pleasantries. To business, yes?"
+ },
+ {
+  "id": 4134,
+  "t": "Lost Thunderbrew Recipe",
+  "o": "Bring the Lost Thunderbrew Recipe to Vivian Lagrave in Kargath.",
+  "d": "It is rumored that the Dark Iron Hurley Blackbreath has stolen a recipe for ale.  This ale, Thunderbrew Lager, is said to infuse its imbiber with great strength and courage.  We wish to study the drink.  Perhaps, we will find other applications for its virtues... applications more in line with Forsaken objectives.$B$BDelve into Blackrock Depths, find Hurley, take from him the recipe for Thunderbrew lager and bring it to me.$B$BAnd to find him, you may have to entice him by threatening his precious ale.",
+  "p": "Do you have the recipe for the Thunderbrew Lager, $N?",
+  "c": "Very good. I will send this recipe to the Apothecarium to be studied, and in time we will unlock its secrets. One day, the dwarves of the Alliance may find the virtues of this drink used against them!$b$bI find that terribly amusing. Perhaps death has an affect on one's sense of humor... do you think?"
+ },
+ {
+  "id": 4135,
+  "t": "The Writhing Deep",
+  "o": "Now that Raschal's last known whereabouts have been discovered, continue your search for him or his remains in the Writhing Deep.  According to the note, it is located to the south of the Woodpaw gnoll camps.",
+  "d": "Inside the backpacks are two items: the first is a parcel of goods that was bound for Thalanaar, and the second is a note hastily penned to an unknown reader.$B$BThe note tells of discovering insidious bug-like creatures south of the gnoll camps in a place called the Writhing Deep.  The author felt the need to investigate it personally, as though it was a serious threat to all of Feralas.  The note is signed, \"Raschal of Feathermoon\".$B$BIt would seem that you have located where Raschal ultimately went.",
+  "p": "",
+  "c": "You have discovered a large pod of an alien nature.  The texture of the pod appears mucous, though hardened protrusions stick out from random parts of it.  The pod itself has the height and width to easily encompass a humanoid inside of it... and from the faint humanoid shape visible through the skin of the pod, you surmise that this is what it indeed encapsulates."
+ },
+ {
+  "id": 4136,
+  "t": "Ribbly Screwspigot",
+  "o": "Bring Ribbly's Head to Yuka Screwspigot in the Burning Steppes.",
+  "d": "My brother Ribbly has always been a drain to his family, taking our money and wasting it on one scheme after another.$B$BWell, his last scheme must have been his worst, because Baron Revilgaz of Booty Bay just put a price on poor Ribbly's head.  I can't tell you how happy this makes the Screwspigots!  Our little Ribbly's finally worth something!$B$BBut now he's hiding out, deep in Blackrock Depths.  Please, find him and bring him to me!$B$BOr, if he won't come, then that's ok... just bring me his head.",
+  "p": "Do you have Ribbly?  Or, at least a part of him?",
+  "c": "Aha! You found him! And... it appears that my little brother didn't want to come quiety. It's a pity. I would have liked to see the look on his face when I told him our plans to turn him in to Revilgaz.$b$bThank you, $N. You've made my family very happy. And Ribbly's never looked as peaceful as he does now."
+ },
+ {
+  "id": 4141,
+  "t": "Muigin and Larion",
+  "o": "Collect 15 Bloodpetals and return to Muigin.",
+  "d": "See Larion over there? It's HIS fault we're here!$B$BI told him we were going the wrong way, but would he listen? And would you believe that he's the one that won't speak to me? Well, until he changes his mind, let's have a bit of fun with him.$B$BHave you noticed the strange plant-like creatures around here? They're nothing but trouble, really, but I think if trained properly, I could get them to obey commands.$B$BFirst thing though, I'll need some samples to study. Do you think you could collect some?",
+  "p": "Larion's got something coming, that's for sure!",
+  "c": "I hope they didn't give you too much trouble, $N. I try to steer clear of them -- they're wild!$B$BI tried jumping over one... I was attacked! Plants just shouldn't be acting that way!"
+ },
+ {
+  "id": 4142,
+  "t": "A Visit to Gregan",
+  "o": "Take a Bloodpetal to Gregan Brewspewer in Feralas.",
+  "d": "I'm not quite sure what to make of this, $N. The plants... they seem to have some minimal intelligence.$B$BI'm no expert, though. But, I do know someone that is!$B$BHead to northern Feralas, and look for a buddy of mine named Gregan Brewspewer. He's an expert on this sort of thing.$B$BI'm sure Gregan can help us out here. You'll find him out in the wilderness; he's not the type to live in a big city.",
+  "p": "I live out here in the forest... Peaceful.$B$BWell, at least I thought it would be. I get more visitors out here than I ever did when I lived in Ironforge!",
+  "c": "Bloodpetal, eh? Hmmm... Well, you better explain the plan, and then I'll tell you whether or not I can help you."
+ },
+ {
+  "id": 4143,
+  "t": "Haze of Evil",
+  "o": "Collect 5 samples of Atal'ai Haze, then return to Muigin in Un'Goro Crater.",
+  "d": "To tell you the truth, $N, I've never seen any plants like this in my travels. Perhaps I should take a trip to this crater...$B$BAt any rate, I think I know just the thing Muigin's looking for -- Atal'ai haze. It's horrid stuff, hard to collect, but it's just what he needs to control the little monsters.$B$BYou'll need to visit the temple of Atal'Hakkar in the Swamp of Sorrows. The Atal'ai Haze can be collected from the deep lurkers, murk worms, or oozes found there. Good luck, $N!",
+  "p": "Larion's still not speaking to me! He sure knows how to hold a grudge.",
+  "c": "I admit, I'm a bit hesitant to touch that stuff, $N! But if Gregan says it'll work, then I'm willing to give it a try!"
+ },
+ {
+  "id": 4144,
+  "t": "Bloodpetal Sprouts",
+  "o": "",
+  "d": "",
+  "p": "Here's the plan, $n: Go out and collect some bloodpetal sprouts -- you know, the plants that haven't fully sprouted yet, and bring them here. Then I'll see what the Atal'ai haze can do.$B$BYou may think I'm vengeful... Actually, you'd be right about that! $B$BTruth is, I know the way out of here, but until Larion will admit that I'm right, I'm staying right here!$B$BSo off with you, find those bloodpetal sprouts and let's have some fun!",
+  "c": "Here goes nothing, $N! This will get Larion's attention!"
+ },
+ {
+  "id": 4146,
+  "t": "Zapper Fuel",
+  "o": "Deliver the Unloaded Zapper and 5 samples of Atal'ai Haze to Larion in Marshal's Refuge.",
+  "d": "You're in luck, $n! I've been working on some of my own experiments while Marvon's been gone, and one of them is a short range bug zapper. With just a few adjustments, it should be great for ridding yourself of those Bloodpetal pests.$B$BI can let you have one of my zapper prototypes, but you'll still need to collect the fuel. You can get the necessary Atal'ai haze that the zapper needs in the temple of Atal'Hakkar. The deep lurkers, murk worms, or oozes are the ones you'll need to get it from.",
+  "p": "This is exhausting, $N. Those things just won't leave me alone!",
+  "c": "So, Marvon wasn't around? Well, show me what you got, anyway."
+ },
+ {
+  "id": 4147,
+  "t": "Marvon's Workshop",
+  "o": "Travel to Marvon Rivetseeker's workshop in Ratchet.",
+  "d": "I managed to spy on what Muigin was doing, and he's actually growing the darn things over there!$B$BI think the only solution here is to... no, not go talk to him... What are you thinking? The solution is to fight back!$B$BWe'll need the help of my friend, Marvon, who has a workshop in Ratchet.  I'm sure he'll be able to create some sort of gadget that will help us.",
+  "p": "",
+  "c": "Marvon's been gone quite a long time now, $N. He went off to Tanaris to study some of the ancient troll ruins.$b$bNow, what was it that you said you needed?"
+ },
+ {
+  "id": 4148,
+  "t": "Bloodpetal Zapper",
+  "o": "",
+  "d": "",
+  "p": "For the zapper to work, it needs a sample of the target creature. Head out into the crater and collect a Bloodpetal sprout. Then I can calibrate it to work on Muigin's little friends...$b$bIf he weren't so stubborn, we could be on our way home, already... But until then, I'll just have to show him that his little prank doesn't bother me at all!",
+  "c": "Looks like this is going to work perfectly, $N. Now remember, if you see any of those pests around, don't hesitate to use that zapper!"
+ },
+ {
+  "id": 4161,
+  "t": "Recipe of the Kaldorei",
+  "o": "Collect 7 Small Spider Legs for Zarrin in Dolanaar.",
+  "d": "Long ago, the night elves were called the kaldorei, a name that means \"children of the stars.\" Learning of the past is an important step in your path as a $c, $N, so listen well to what I have to tell you.$B$BThe kaldorei have always taken much pride in their harmonious relationship with nature. This means that we only take from nature what is necessary, and that we return in kind. This balance has afforded us much, $N.$B$BGo out and collect seven small spider legs -- no more than that, and return to me.",
+  "p": "Remember the balance, $N. I wish you to develop an understanding and a strong empathy for the living forests.",
+  "c": "Always remember what I have shown you today, $N. You are part of the balance that the night elves strive to keep intact, even during troublesome times."
+ },
+ {
+  "id": 4181,
+  "t": "Goblin Engineering",
+  "o": "If you wish to learn more about Goblin Engineering, take the Manual of Engineering Disciplines to Nixx Sprocketspring in Gadgetzan.",
+  "d": "Expert engineering yields two distinct disciplines: gnome and goblin.  I only bother to mention goblin engineering because I'm a fair trainer.  They like to make things that blow up, and they rarely care what is in the way - even themselves.$B$B$N, read this manual.  If you want to learn how to blow yourself up, then take it to Nixx Sprocketspring in Gadgetzan.   Remember - membership is permanent and prevents joining the other discipline, so make sure this is what you want before finishing his task.",
+  "p": "I can smell fresh recruits much like I can an excellent blasting powder - from a mile away. Have you come seeking to learn about the mastery of the explosion?",
+  "c": "Well $N, you were wise to seek my tutelage! Any schlep can become an expert at the basics of engineering - the gnomes and their irradiated home of Gnomeregan are proof of that. It takes a strong mind and a steady hand (emphasis on STEADY) though to master the discipline of Goblin Engineering.$B$BKeep your ears perked $N, and you might learn something."
+ },
+ {
+  "id": 4182,
+  "t": "Dragonkin Menace",
+  "o": "Slay 15 Black Broodlings, 10 Black Dragonspawn, 4 Black Wyrmkin and 1 Black Drake.",
+  "d": "Life in the Burning Steppes is rife with conflict.$B$BJust look at this place! We know very little of what happened to these buildings, but we do know that at one time, before the great explosion, this was all part of the Redridge mountain range.$B$BEnough lamenting! We have a problem, $N. You may have noticed the dragonkin below this ridge. We need assistance in pushing them back. Kill as many as you can and return to me. Succeed and perhaps we can talk of other things.$B",
+  "p": "How goes the dragon hunt?",
+  "c": "Superb slaying, $N. Now that we know you can handle yourself around dragonkin, we can talk of more pressing matters."
+ },
+ {
+  "id": 4183,
+  "t": "The True Masters",
+  "o": "Travel to Lakeshire in Redridge Mountains and deliver Helendis Riverhorn's Letter to Magistrate Solomon. ",
+  "d": "We had always assumed that the Blackrock orcs were a product of their savage upbringing. What we have found here, in their homeland, tells us another story.$B$BIndeed, it is bloodlust and thirst for conflict that empowers them, but the black dragonflight are the beings whom control the orcs of Blackrock. We suspect that it is the black dragonflight that fuels them with rage and hostility.$B$BTake this letter to Magistrate Solomon. He will know what must be done.$B$B<Helendis hands you a sealed letter.>",
+  "p": "Greetings, $N. Have we met before? You look vaguely familiar.",
+  "c": "<Magistrate Solomon opens the sealed letter from Helendis and begins reading.>"
+ },
+ {
+  "id": 4184,
+  "t": "The True Masters",
+  "o": "Travel to Stormwind and deliver Solomon's Plea to King Varian Wrynn.$B$BKing Varian Wrynn resides in Stormwind Keep.",
+  "d": "This is grim news, $N. To discover that our mortal enemies are merely pawns of a much greater threat is disheartening. There is no possible way that Lakeshire could survive an attack from both the Blackrock orcs and the black dragonflight. Should Lakeshire fall to this menace, Darkshire would fall next, and then what? Goldshire? Stormwind itself?$B$BYou must take this information to King Varian Wrynn in Stormwind at once! If this does not merit the aid of Stormwind, nothing will and all is lost.$B",
+  "p": "What brings you to Stormwind Keep?",
+  "c": "Dragons? Impossible!"
+ },
+ {
+  "id": 4185,
+  "t": "The True Masters",
+  "o": "Speak with Highlord Bolvar Fordragon after speaking with Lady Katrana Prestor.",
+  "d": "Solomon paints a dreary picture. Still, we cannot afford to send our thinly spread troops to the aid of Lakeshire on speculation. I will need proof of these claims before I can act.$B$BSpeak with Lady Prestor, $N. She is a learned woman and knows much of dragons and dragonkin. She may be able to shed some light on this situation.$B",
+  "p": "<Bolvar watches you intently.>",
+  "c": "<Bolvar cups his chin as if in deep thought.>$B$BWhile I respect Lady Prestor's stance, I believe that there is a solution to this dilemma that may put all of our concerns to rest. "
+ },
+ {
+  "id": 4186,
+  "t": "The True Masters",
+  "o": "Take Wrynn's Decree to Magistrate Solomon in Lakeshire.$B",
+  "d": "I am going to empower you as an acting deputy of Stormwind, $N.$B$BReturn to Magistrate Solomon in Lakeshire and deliver this decree.",
+  "p": "Any news from Bolvar?",
+  "c": "It could have been worse, I suppose...$B$B<Magistrate Solomon looks you over.>$B$BIt appears as if the fate of Lakeshire rests squarely on your shoulders.$B$B<You notice Magistrate Solomon blinking rapidly. He appears to be crying.>"
+ },
+ {
+  "id": 4201,
+  "t": "The Love Potion",
+  "o": "Bring 4 Gromsblood, 10 Giant Silver Veins and Nagmara's Filled Vial to Mistress Nagmara in Blackrock Depths.",
+  "d": "Oh, the pains of love!  My dear Private Rocknot is immune to my charms.  I am spurned!  It's maddening!$B$BYou must help me!  We succubi know much of love, and I can make a potion to beat down the iron walls around Rocknot's heart.  To make it, I need these items: the herb gromsblood, giant silver veins from the cliff giants of Azshara, and water from the Golakka Springs Crater in Un'Goro.  You can place the water in this vial.$B$BPlease, $N, help a poor soul in her quest for happiness!",
+  "p": "Do you have the ingredients?  The hole in my heart threatens to consume me!",
+  "c": "Oh, you've done it!  I can now make my potion and use it on Rocknot.  Finally, he will fall victim to my charms!$B$BThank you, $N.  You are a champion of love!"
+ },
+ {
+  "id": 4221,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4222,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4223,
+  "t": "The True Masters",
+  "o": "Speak with Marshal Maxwell in the Burning Steppes.",
+  "d": "<Magistrate Solomon sighs.>$B$BYou must return to the Burning Steppes, $N. As a deputy of Stormwind, you will be required to report to Marshal Maxwell. Good luck.",
+  "p": "",
+  "c": "<Marshal Maxwell laughs.>"
+ },
+ {
+  "id": 4224,
+  "t": "The True Masters",
+  "o": "Speak with Ragged John.",
+  "d": "What? You thought you were the first? How many soldiers must we lose before Stormwind acts?$B$BWe had accumulated enormous amounts of intelligence pertaining to the Blackrock menace before we lost our commanding officer, Marshal Windsor. With Marshal Windsor went all of our precious information.$B$BWhat we need is that documentation. Speak with Ragged John, $N. He was with Windsor when they were attacked by a Blackrock raiding party.  He was last seen in a cave to the north.",
+  "p": "Have you spoken with John yet?",
+  "c": "I could have warned you, but what fun is that?"
+ },
+ {
+  "id": 4241,
+  "t": "Marshal Windsor",
+  "o": "Travel to Blackrock Mountain in the northwest and enter Blackrock Depths. Find out what became of Marshal Windsor.$B$BYou recall Ragged John talking about Windsor being dragged off to a prison.",
+  "d": "So that good for nothing coward says that Windsor is alive, eh?$B$BSuit up, deputy, you are going in to find him. If Windsor is alive, you are to bring him back. If he's dead, I want proof.$B$B<Maxwell laughs.>$B$BI bet you are getting tired of hearing that, aren't you?",
+  "p": "",
+  "c": "Where is he! I'll murder him!"
+ },
+ {
+  "id": 4242,
+  "t": "Abandoned Hope",
+  "o": "Give Marshal Maxwell at Morgan's Vigil in the Burning Steppes the bad news.",
+  "d": "Bolvar is a fool. I was gathering his precious 'proof' so that I could shove it down his throat.$B$BHe is a blind buffoon. Proof stands two feet away from him and he does not see.$B$BAs for my data, it's lost. Gone. Unrecoverable.$B$BShould I ever find Ironfoe and make it out of this labyrinth, my first stop will be Stormwind, to place my hammer in between that reptile's eyes.$B$BLeave me, $N.",
+  "p": "",
+  "c": "He's gone mad, apparently.$B$B<Maxwell lowers his head in mourning.>$B$BIt is unfortunate that a once proud and noble warrior would be turned into a blithering head case. I GUESS we've reached a dead end...$B$BI must reward you for your efforts thus far, $N."
+ },
+ {
+  "id": 4243,
+  "t": "Chasing A-Me 01",
+  "o": "Find A-Me 01 in Un'Goro Crater.",
+  "d": "Unfortunately, something's happened to one of my greatest inventions. You've seen mechanical squirrels, yes? Well, to get closer to the apes of Un'Goro Crater, I created a mechanical ape to blend in with their kind--I call her A-Me 01.$B$BShe has scrying gems for eyes so I could see everything she saw. She made it to Fungal Rock--the apes' lair--just east of here, and that's when I lost contact. The last thing I saw was one of their alpha males rushing up to say hello to her!$B$BCan you help me find her?",
+  "p": "",
+  "c": "As you look A-Me 01 over, you see two huge dents tarnishing what Karna obviously feels is a well-crafted piece of engineering. One dent decorates A-Me 01's shoulder, the other is on her head.$B$BNo power seems to be running through her components as you investigate further."
+ },
+ {
+  "id": 4244,
+  "t": "Chasing A-Me 01",
+  "o": "Find a Mithril Casing and return to A-Me 01 in Un'Goro Crater.",
+  "d": "A little further investigation shows a panel that slides open. Clearly written above some wiring is the statement, \"Replace Mithril Casing And Turn Power Off Then On.\"$B$BTaking a moment to replace the panel, you wonder if it'll be that simple to fix A-Me 01 and get her back to Karna Remtravel near Marshall's Refuge.$B$BOnly trying it will tell.",
+  "p": "The panel in which the mithril casing goes is still closed shut. The rest of A-Me 01 remains inert.",
+  "c": "You remove the panel from A-Me 01's back yet again and carefully remove the old mithril casing that seems to have burnt out. The new one slides into place easily. The only thing left to do, assuming the mithril casing was the problem, is to flip the switch to the \"Off\" position, and then back to the \"On\" position."
+ },
+ {
+  "id": 4245,
+  "t": "Chasing A-Me 01",
+  "o": "Escort A-Me 01 back to Karna Remtravel in Un'Goro Crater.",
+  "d": "Checking to see if you're prepared to lead A-Me 01 back to Karna Remtravel, you flip the switch to the \"Off\" position. Glancing around once again to make sure none of the gorillas are coming, you prepare to see what happens when you flip the switch back to the \"On\" position.$B$BThis is your last chance... are you sure this is what you want to do?",
+  "p": "Have you been able to help A-Me? That mithril casing you mentioned being destroyed was a good guess at what was wrong. I'm sure if you replace that, she'll reactivate and be able to come home.",
+  "c": "Oh, you've done it! Wonderful! Thank you, $N.$b$bOh, my poor, A-Me. Look at all those dents. We'll get her up and running perfectly with just a little work.$b$bThank you again, $N. I really appreciate it."
+ },
+ {
+  "id": 4261,
+  "t": "Ancient Spirit",
+  "o": "Escort Arei to safety, then speak with Kayneth Stillwind in Forest Song, in eastern Ashenvale.",
+  "d": "Felwood was once a peaceful and serene land... Until the legion took hold. The infernals, destruction, chaos...$B$BThe skull of Gul'dan ensured that none were spared here. All fell to the corruption.$B$BEven now, as a spirit, I still find myself trapped, bearing the suffering of this land. Help me find my way home. Please, $N, tell me you will lead an ancient spirit away from here, where I may finally rest.$B$BOnce I am free, seek out Kayneth Stillwind, a druid that resides in Forest Song, to the east.",
+  "p": "",
+  "c": "Yes, $N. Felwood has been through much hardship. Thank you for what you have done.$B$BOne day, we may be able to reclaim Felwood from the corruption; every kind deed helps."
+ },
+ {
+  "id": 4262,
+  "t": "Overmaster Pyron",
+  "o": "Slay Overmaster Pyron.$B$BYou recall Jalinda talking about Pyron guarding the quarry. Perhaps you should search there?",
+  "d": "The last five of my mages that went snooping around in Blackrock Mountain came back extra crispy with a permanent orange gnomefro - or worse.$B$B<Jalinda picks up some ashes from the ground and releases them into the air.>$B$BOne nasty bugger in particular, Overmaster Pyron, seems to be causing quite a bit of trouble. We need that elemental terminated so that our expedition crew can make its way into Blackrock Depths!$B$BHe guards the entrance at the Blackrock Quarry.",
+  "p": "<Jalinda appears to be staring at your head.>",
+  "c": "Incendius? Oh dear..."
+ },
+ {
+  "id": 4263,
+  "t": "Incendius!",
+  "o": "Find Lord Incendius in Blackrock Depths and destroy him!",
+  "d": "Are you sure Pyron said 'Incendius' when he died?$B$B<Jalinda swallows hard.>$B$BLord Incendius is purported to be a minion of Ragnaros! Oh dear, oh dear... whatever will we do?$B$BDo you think you can handle another mission? I don't have anybody else to send, $N!$B$BWe will never get a team in if Incendius continues to raise Pyron from the ashes.$B$BYou'll have to find and destroy Lord Incendius!$B",
+  "p": "Is the fiend dead??",
+  "c": "Oh dear! Are you sure Incendius said 'Ragnaros?'$b$b<Jalinda hands you something and pats you on the wrist as she fades deep into thought.>"
+ },
+ {
+  "id": 4264,
+  "t": "A Crumpled Up Note",
+  "o": "You may have just stumbled on to something that Marshal Windsor would be interested in seeing. There may be hope, after all.",
+  "d": "The note has stains covering its surface. The text is barely legible, but you make out the following:$B$B...sweet irony...$B$B...the fall of the broken Alliance...$B$B...if it were not for General Angerforge's diligence, we may have never discovered the pattern to the encryption...$B$B...Argelmach is almost done with the decryption of Windsor's notes.$B$BOur lord will rise from the depths and crush any that remain...$B$B-Emperor Dagran Thaurissan.$B",
+  "p": "<Marshal Windsor eyes the note in your hand.>$B$BWhat do you have there, $N?",
+  "c": "<Marshal Windsor takes the note and begins reading.>"
+ },
+ {
+  "id": 4265,
+  "t": "Freed from the Hive",
+  "o": "Free Raschal from the Zukk'ash hive.$B$BReturn to Ginro Hearthkindle in Feathermoon Stronghold and let him know that Raschal is alive and well.",
+  "d": "The pod splits opens some when you touch it, revealing a night elven male who is surprisingly still alive.  He seems to be in good health, though deeply stunned.  As you help him down from the pod, he stirs to life.$B$B\"Thank Elune - you've saved me, friend!  I... I'm Raschal, and I awoke paralyzed inside this pod after these bugs overwhelmed me.  Were you sent by the Stronghold?\"$B$BIt would seem that you've found the missing courier!",
+  "p": "You have something to report, $n?",
+  "c": "Welcome home, $N.  Raschal checked in just a little while ago and told me what happened.$B$BI... no, the entire Stronghold can't even begin to thank you for your great deed; Raschal would have been dead without your timely aid, and your assistance came to us without even so much as the whisper of a mercenary's fee.  You bear the mark of a true hero.  Know that you will always have a friend in Ginro Hearthkindle."
+ },
+ {
+  "id": 4266,
+  "t": "A Hero's Welcome",
+  "o": "Speak with Shandris Feathermoon in Feathermoon Stronghold.",
+  "d": "$N, General Shandris Feathermoon would like to speak with you personally.  No doubt she wants to thank you for your service to the Stronghold, but I do know that she also wants to talk to you about the insect creatures that you and Raschal faced in southern Feralas.  The reports of those Zukk'ash insects are... frightening, to say the least.$B$BGeneral Feathermoon is waiting for you in the main compound.",
+  "p": "",
+  "c": "$N, I give you my warmest thanks for the aid you've given us.  Your bravery in the face of overwhelming odds has warranted a reward worth a thousand times greater.  Nevertheless, I hope you accept this on behalf of the entire Stronghold.$B$BNow, if I may... I'd like to ask for your aid one more time.  In light of the discovery of the Zukk'ash hive here in Feralas, I think you're the best choice for this mission."
+ },
+ {
+  "id": 4267,
+  "t": "Rise of the Silithid",
+  "o": "Bring Raschal's Report to Gracina Spiritmight in Darnassus.",
+  "d": "I am entrusting you with a copy of the report Raschal made on the infestation of southeastern Feralas.  While the main report is being filed in Darnassus, I want you to give this copy to an associate of the Protectorate.  Her name is Gracina Spiritmight; she is a priestess who dwells in the Temple of the Moon in Darnassus.  She has broad knowledge on these kinds of creatures, and her receiving this report would benefit us all.$B$BYou're dismissed - good luck, $N; may Elune watch over us all.",
+  "p": "Welcome to this blessed temple, friend.  Your arrival here from Feathermoon Stronghold has been foretold to me.  Do you have the report Shandris Feathermoon asked you to bring?",
+  "c": "We night elves know of the terror outlined in this report.  Shandris was wise to send this, and you, to me.$B$BThese creatures will consume Feralas rapidly; they are nothing short of one of the greatest menaces we all will ever face.  The insects you and the courier encountered are known as the silithid.  They are mere tools of one of the greatest threats that both the Horde and Alliance will ever face.$B$BI pray we will have the resolve to defeat them before they destroy us."
+ },
+ {
+  "id": 4281,
+  "t": "Thalanaar Delivery",
+  "o": "Bring the Undelivered Parcel to Falfindel Waywarder in Thalanaar.",
+  "d": "This parcel of goods you found in the Woodpaw gnoll camps was supposed to be delivered to the small way-station of Thalanaar in southeastern Feralas.  Regardless of the missing courier's fate, the task of delivering the parcel remains unfinished.$B$BExamining the parcel in detail reveals a hand written name of \"Falfindel Waywarder\" on the outside of the packaging.  Perhaps this is the parcel's ultimate recipient.",
+  "p": "Welcome to Thalanaar, $C. Do you need assistance of some sort?",
+  "c": "Elune be praised, the delivery from Feathermoon Stronghold has finally arrived!$b$bYour presence here indicates to me that perhaps some ill fate may have befallen Raschal, our usual courier. I hope that everything works out. I know that recently, the Woodpaw have become highly agitated from some source to their south. Maybe he fell to the wilds there; I would be careful, friend.$b$bRegardless, thank you again. Here is payment for this parcel's delivery."
+ },
+ {
+  "id": 4282,
+  "t": "A Shred of Hope",
+  "o": "Return Marshal Windsor's Lost Information.$B$BMarshal Windsor believes that the information is being held by Golem Lord Argelmach and General Angerforge.",
+  "d": "<Marshal Windsor shakes the note excitedly.>$B$BDo you realize what this means, $N?$B$BPerhaps all is not lost! From what I can ascertain, the information is being held by two Dark Iron dwarves: General Angerforge and the golem lord, Argelmach. I have a feeling that they won't just hand over the information if we ask nicely.$B$BI hope you are ready to battle.$B$BVenture forth and find these two villains! Destroy them and return my lost information.",
+  "p": "Soon this grand subterfuge will be over.",
+  "c": "<Marshal Windsor snatches the two tablets from your hands.>$B$BWe need to get out of here!"
+ },
+ {
+  "id": 4283,
+  "t": "FIFTY! YEP!",
+  "o": "Collect 50 Blackrock Medallions.",
+  "d": "I'm going to let you in on a little secret, soldier. Come a little closer.$B$BI'M THE ONLY SANE ONE HERE!$B$BLook at these people! Would you believe that they're all insane!? Well they are! NUTS! CRAZY!$B$B<Oralius lowers his voice.>$B$BLet's just keep that between me, you, and my pal Captain Winky.$B$B<Oralius grabs at the air and squeezes.>$B$BAnyhooooo... I'm collecting badges to go along with my ogre ear collection. Orc is the flavor of the day. Fifty. GO!$B$B<Oralius blows into a horn.>$B$BSHIP IT!",
+  "p": "<Oralius is talking into a rather large, severed ogre ear.>$B$BBurning Steppes to control, come in control.",
+  "c": "You've done it! Your reward is: RUB MY BELLY! GO ON! RUB IT!"
+ },
+ {
+  "id": 4285,
+  "t": "The Northern Pylon",
+  "o": "Discover the location of the Northern Crystal Pylon in Un'Goro Crater.",
+  "d": "What could they be for? I can't get the thought out of my head!$B$BIt's driving me crazy --  that the rumors I have heard about the crystal pylons are all true. Call me gullible, but I'll usually believe anything people tell me.$B$BAnyway, I have heard that there is one of the crystal pylons fairly close. Somewhere in the north... Please locate it, $N. I just know they exist.",
+  "p": "Have you visited the pylon, $N?",
+  "c": "I know the stories are true, $N."
+ },
+ {
+  "id": 4286,
+  "t": "The Good Stuff",
+  "o": "Collect 20 Dark Iron Fanny Packs.",
+  "d": "Captain Winky tells me that the Dark Irons in the Depths got all the good stuff. Ain't that right, Winky?$B$B<Oralius does his best impersonation of a pirate.>$B$BARRR MATEY! IT BE RIGHT!$B$BSee what I'm saying? You need to get in there and bring me back some samples of the good stuff.$B$BGet in there and shake your moneymaker!$B",
+  "p": "I can't be bothered right now, $N. Me and Winky got a meeting to attend.",
+  "c": "<Oralius starts rummaging through the mountainous pile of fanny packs.>$B$BOH WONDERFUL!$B$B<Oralius sticks his large nose into the pile and takes a whiff.>$B$BDELICIOUS! Look at all these goodies!$B$BTake one for yourself, $N. There's plenty to go around."
+ },
+ {
+  "id": 4287,
+  "t": "The Eastern Pylon",
+  "o": "Discover the location of the Eastern Crystal Pylon in Un'Goro Crater.",
+  "d": "During my stay here, I have heard strange rumors about mysterious pylons existing out in the wilderness of the crater, $N. I guess that they are quite large, with crystals lining their interiors.$B$BAlthough I've never seen one, I can't help but think that the rumors are true -- and that the pylons have something to do with all the crystals we found$B$BSo why don't you help me put my curiosity to rest? Supposedly, there is one in the eastern area of the crater. Do you think you can find it?",
+  "p": "Have you visited the pylon, $N?",
+  "c": "Un'Goro is such a strange place, $N. When you enter the crater, it's as if you are in a completely different world..."
+ },
+ {
+  "id": 4288,
+  "t": "The Western Pylon",
+  "o": "Discover the location of the Western Crystal Pylon.",
+  "d": "My experiments so far have not yielded any positive results, $N. I can't help but hope that you can find a solution by searching for one of the pylons that I have heard exist.$B$BPerhaps if we combine certain colors at them... but I get ahead of myself. Let's find them first!$B$B$N, search the western area of the crater; a pylon is said to be somewhere in that area.",
+  "p": "Have you visited the pylon, $N?",
+  "c": "There are many hidden areas of the crater along the sides. Try exploring the winding paths if you can't think of anywhere else to look, $N."
+ },
+ {
+  "id": 4292,
+  "t": "The Bait for Lar'korwi",
+  "o": "Using the contents of Torwa's Pouch, summon Lar'korwi and defeat him. Then bring Lar'korwi's Head to Torwa Pathfinder near the entrance to Un'Goro Crater.",
+  "d": "This will be the most difficult part because there is some complexity to the plan. To the north of here, you will find a small trail into the mountains. It was here I saw Lar'korwi last. You will know you are in the right area because of all the bones from massive creatures that once wandered nearby. Take the meat you recovered and place it there. Then, rub this mixture I created on the meat. If both lures mingled together do not bring Lar'korwi to you, then I know nothing else that will.",
+  "p": "Do not let fear overpower you, $N. Fear is the great betrayer... you must remain strong!$B$BTake the meat, place it in the small valley, and then use the gland on it. Only then will death come for you.",
+  "c": "The Earth Mother be praised! You've done it! Fair play to you, $N. You have proven to be a great hunter in your own right. Your spirit is strong. Your bravery unmatched. And your strength has been fortified. I bow down to your skills.$B$BOnly the greatest of my ancestors could have accomplished something so incredible. Congratulations."
+ },
+ {
+  "id": 4293,
+  "t": "A Sample of Slime...",
+  "o": "Gather Felwood Slime Samples from any of the slimes in Felwood. Then, using the Testing Equipment next to Chemist Fuely in Undercity, see which of your samples are the most corrupt. Bring 5 of the Corrupted Felwood Samples you find to Chemist Fuely.",
+  "d": "Felwood is a forest far north of the Barrens, even farther than Ashenvale. There, slimes are found all around pools of water blessed by the touch of Fel. The Scourge decimated the area with attacks of Infernals and other demonic magics--the slimes supposedly crept up through the earth during these attacks.$B$BGather samples of Felwood slimes and we will use the testing equipment next to me to create a control group for our tests against other samples you gather.",
+  "p": "I will need at least five corrupted samples for our control group, $N. Continue to gather Felwood slime samples until you're able to give me that which we'll need. The Lady Sylvanas decrees it...",
+  "c": "Ah, excellent. These samples will do nicely. I thank you for your help.$B$BOnce we've gathered all the samples of slimes, we'll be able to determine more. I am beginning to suspect that Lady Sylvanas' hunch was not only correct, but more insightful than even she could have predicted. These samples are very interesting. Just seeing how they've reacted with my compounds... hmm, yes, we'll definitely need to investigate further."
+ },
+ {
+  "id": 4294,
+  "t": "... and a Batch of Ooze",
+  "o": "Gather Un'Goro Slime Samples from any of the slimes in Un'Goro Crater. Then, using the Testing Equipment next to Chemist Fuely in Undercity, see which of your samples are the most pure. Bring 5 of the Pure Un'Goro Samples you find to Chemist Fuely.",
+  "d": "Have you heard of the Un'Goro Crater, $N? It is near the Tanaris desert, and it is a magnificent place: lush, vibrant, full of creatures and plant life.$B$BIt is there you must go. Word has reached me that the place seems completely untainted by outside hands. Explorers are just now discovering its secrets.$B$BI would like to test the slimes or oozes there. If it is true--that they are uncorrupt--then I would like to see how such creatures have evolved.",
+  "p": "Yes, $N? How goes your search?",
+  "c": "Truly amazing, $N. This Un'Goro Crater is holding many more secrets than I expected. I wonder what else we will discover as we test further.$B$BSimply amazing... look at the purity of these samples. Hmm, I wonder what it could mean. They seem to be elemental in nature, but... something more. They remind me of... of the Old Gods. We've found traces of them throughout Azeroth, and now I wonder if these creatures aren't related to them somehow.$B$BWe shall have to test further."
+ },
+ {
+  "id": 4295,
+  "t": "Rocknot's Ale",
+  "o": "",
+  "d": "",
+  "p": "Oh, ale!  I would kill for some Dark Iron ale!!  Quick, I'm getting sober!  I know this because sobriety blurs my vision... and it's making you look like the $r I slew last week!",
+  "c": "What's this?  Ah!  It smells like Dark Iron Ale!  Drink has blurred my sight, but I can tell that you, $gsir:my lady;, are a real friend!"
+ },
+ {
+  "id": 4296,
+  "t": "Tablet of the Seven",
+  "o": "Collect the Tablet Transcript.",
+  "d": "I came to the Burning Steppes, following the legends of the Seven.  They were dwarves of great knowledge and power, and if you have knowledge and power, then wealth is sure to follow.$B$BThat's what I want.  Wealth!$B$BIf we can learn more of the Seven, then maybe we can get rich together.  The ruins of Thaurissan is rumored to keep the Tablet of the Seven, which holds knowledge of the ancient dwarves.  Find this tablet, copy its text and bring it to me.  Let's discover its secrets together!",
+  "p": "Do you have the writings of the Seven, $N?  Have you learned the secrets from their tablet?",
+  "c": "Ah, you found the tablet!  And your transcription is superb!  Are you sure you're a $c and not a scribe?$B$BHere you are, $N.  Here is the payment I promised."
+ },
+ {
+  "id": 4297,
+  "t": "Food for Baby",
+  "o": "Bring 5 Silvermane Stalker Flanks to Agnar Beastamer in Hinterlands.",
+  "d": "Sprite darters are omnivores--that means they eat both meat and vegetation. If your egg here's gonna hatch, we best be prepared. Some good eats for these little guys are flanks of meat, raw and juicy, believe it or not. I was never able to find out why, but it has somethin' to do with Elune's plan for the elves... maybe they were to be protectors or somethin', I don't know.$B$BI'll take care of the egg for now, why don't you get me some good Silvermane stalker flanks for 'em to eat when he's hatched.",
+  "p": "Find that meat yet, $N? Your little egg here's just about ready to hatch. If he don't have a good enough first meal, then he might not make it past his first week, and I'd hate for that to happen.$B$BCan't much lie to ya, $N. I'm jealous of you gettin' this egg to begin with. Don't make me regret helpin' ya out like this.",
+  "c": "These'll do nicely, and if I'm not mistaken, your little egg's just about ready to hatch. How does it feel? You know, you about to be a $gfather:mother;? Haha, didn't think ya'd have to deal with such responsibility, now did ya?"
+ },
+ {
+  "id": 4298,
+  "t": "Becoming a Parent",
+  "o": "Speak to Agnar Beastamer in the Hinterlands.",
+  "d": "Whoa, it was a lot more ready than I thought...",
+  "p": "",
+  "c": "Here, take the egg... better you have it so it bonds to you and looks to you to be its $gdadda:momma;.$B$BCongrats, $N. You're a parent... kinda."
+ },
+ {
+  "id": 4299,
+  "t": "<NYI> <TXT>The Tomb of the Seven",
+  "o": "Place the PX83-Enigmatron in the Tomb of the Seven,then return to Maxwort Uberglint.",
+  "d": "Find the Tomb of the Seven,and place this PX83-Enigmatron there.  ",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 4300,
+  "t": "Bone-Bladed Weapons",
+  "o": "Bring 8 White Ravasaur Claws to Jes'rimon in Orgrimmar.",
+  "d": "Hmm, maybe there be somethin' you can do for the Hand now that me think 'bout it. Yes, Jes'rimon could use your help for sure.$B$BIn Un'Goro Crater there be raptors with deadly claws. Some of those raptors sometimes have white claws instead of ones black like death. The Hand have... clients... that like weapons crafted from these claws. Bring me many of those white claws, and me pay you good coin. Do it fast enough, and maybe me help you in other ways.",
+  "p": "Me clients are not so patient, $N. Have you gotten any of the claws yet?",
+  "c": "Ah, these do nicely. Thank you, $N. An' you be here long before they needed... that be good.$b$bMaybe we have a weapon fashioned for you from the claws. What do you say?"
+ },
+ {
+  "id": 4301,
+  "t": "The Mighty U'cha",
+  "o": "Bring U'cha's Pelt to Torwa Pathfinder at the entrance of Un'Goro Crater.",
+  "d": "While you have been exploring Un'Goro, I have seen other things that a mighty hunter such as yourself would relish in. One such sight was a huge ape among the other gorillas to the north. You have been to that cave before, but this time, I wonder if you'll survive the encounter if you accept my task.$B$BI call him U'cha, and he is one of the Earth Mother's greatest sons, of that you can be sure. Defeat U'cha and bring me his pelt. Do this, and I will defend your right to call yourself a great hunter.",
+  "p": "U'cha... the beast was magnificent. Huge and red, with teeth the size of daggers. His arms as thick as tree trunks, and as fast as any mountain lion I have ever laid eyes upon. You should consider yourself lucky to find such a test of bravery--my people would go generations without seeing such a creature.",
+  "c": "Well done, $N. I am pleased. You have done a great thing here today.$B$BU'cha was one of the greatest apes I had ever seen. The fact that you have bested his strength speaks well of your own strength... and courage.$B$BIt is only fitting that I give you this as a sign of respect. You have earned it."
+ },
+ {
+  "id": 4321,
+  "t": "Making Sense of It",
+  "o": "Speak with J.D. Collie in a moment.",
+  "d": "The information you have given me about the pylons is very interesting...$B$BGive me a moment to do some calculations, $N. Speak to me again in a moment and I should be able to give you the answer we have been looking for.",
+  "p": "",
+  "c": "Alright, $N. This is fascinating... I can only hope that my diagrams are correct! I compiled everything into this manual, which you can have.$B$BI believe I can answer any questions you have about the crystals now, $N."
+ },
+ {
+  "id": 4322,
+  "t": "Jail Break!",
+  "o": "Help Marshal Windsor get his gear back and free his friends. Return to Marshal Maxwell if you succeed.",
+  "d": "We need to get out of here, $N. Help me get my gear back from the supply area and free my friends. If we make it out of here, you are to proceed to Morgan's Vigil and speak with Marshal Maxwell. He will give you further instruction.",
+  "p": "You look exhausted, $n. Perhaps you should have a seat by the fire and relax.",
+  "c": "Amazing, $N. Simply amazing. Windsor stormed through here not five minutes ago. He makes some grand claims but purports that they are supported by his evidence. He is on his way to Stormwind now to confront Bolvar and ... Lady Prestor."
+ },
+ {
+  "id": 4323,
+  "t": "<NYI> <TXT> Get those Hyenas!!!",
+  "o": "Bring 7 Spotted Hyena Pelts to TESTTAUREN at Freewind Post.",
+  "d": "I want some Hyena Pelts,and only the best will do!  Get me spotted Hyena pelts and I'll give you phat lewtz,yo.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 4324,
+  "t": "Yuka Screwspigot",
+  "o": "Speak with Yuka Screwspigot in the Burning Steppes.",
+  "d": "Although my little brother Ribbly has been worthless his whole life, I think, finally, he has some value!  But... we might need your help to capitalize on Ribbly's newfound worth.$B$BMy sister Yuka has been looking for him for weeks, and tracked him to the Burning Steppes.  She sent word to me, asking for some hired hands.$B$BSo, what do you say?  Want to help?  If so, then speak with my sister.  You'll find her holed up in Flame Crest, a cave northwest of Dreadmaul Rock.",
+  "p": "",
+  "c": "Yes, I'm looking for my brother.  We must find him and retrieve him, bless his heart.$B$BBut if we can't bring all of him... then his head will suffice."
+ },
+ {
+  "id": 4341,
+  "t": "Kharan Mighthammer",
+  "o": "Travel to Blackrock Depths and find Kharan Mighthammer.$B$BThe King mentioned that Kharan was being held prisoner there - perhaps you should try looking for a prison.",
+  "d": "You have been to the smoldering ruins of Thaurissan? Did you happen to run into a pitiful lout named Kharan Mighthammer? The dwarf that was supposedly watching over my baby girl!$B$B<The King sobs.>$B$BAnd now she's gone, $N!$B$BI have had my men turn the Steppes upside down. The only clue they have as to the whereabouts of my daughter is that she may be inside the Depths. For all I know, she could be dead!$B$BKharan is supposedly being held prisoner there... find him! I want answers!",
+  "p": "",
+  "c": "Please, let me explain."
+ },
+ {
+  "id": 4342,
+  "t": "Kharan's Tale",
+  "o": "Listen as Kharan Mighthammer tells his story.",
+  "d": "Please, hear me out before passing judgement!$B",
+  "p": "Allow me to finish telling my story.",
+  "c": "As you can see, there was nothing I could have done."
+ },
+ {
+  "id": 4343,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4361,
+  "t": "The Bearer of Bad News",
+  "o": "Return to Ironforge and deliver the bad news to King Magni Bronzebeard.",
+  "d": "You must take this information back to King Magni, $N. He will know what to do!$B",
+  "p": "",
+  "c": "<King Magni slams his fist down in anger.>"
+ },
+ {
+  "id": 4362,
+  "t": "The Fate of the Kingdom",
+  "o": "Return to Blackrock Depths and rescue Princess Moira Bronzebeard from the evil clutches of Emperor Dagran Thaurissan.$B",
+  "d": "It would seem as if my old adversary, Dagran Thaurissan, has me and the kingdom of Ironforge at his mercy.$B$BYou may be my last hope, $N. You must rescue my dear daughter, Moira!$B$BThere is only one way to make sure that the spell Thaurissan has cast on Moira is broken: Kill him.$B$BAnd $N, do not harm her! Remember, she is being controlled by Thaurissan! The things she may do or say are a result of Thaurissan's evil spell!",
+  "p": "",
+  "c": "<Princess Bronzebeard weeps over the loss of Emperor Dagran Thaurissan.>$B$BWhy???"
+ },
+ {
+  "id": 4363,
+  "t": "The Princess's Surprise",
+  "o": "Return to Ironforge and speak with King Magni Bronzebeard.",
+  "d": "Thaurissan was a great and honorable dwarf. You ruined my life and the life of my unborn child!$B$B<You think that Princess Bronzebeard may still be suffering from the residual effect of the Emperor's spell.>$B$BReturn to Ironforge and tell my father that the heir to the Kingdom of Ironforge will be a Dark Iron dwarf.$B$BWhether he approves or not, it shall be.",
+  "p": "",
+  "c": "<King Magni Bronzebeard is visibly upset.>$B$BIt seems that even in death, Thaurissan has won.$B$BYou are dismissed, $N. Before you leave, you may choose your reward from the royal vault.$B$B<King Bronzebeard slumps into his throne to mull over this bizarre change of events.>"
+ },
+ {
+  "id": 4381,
+  "t": "Crystal Restore",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine green power crystals with yellow power crystals.$B$BAccording to J.D.'s manual, this combination can be used to heal yourself or your allies.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4382,
+  "t": "Crystal Force",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine green power crystals with blue power crystals.$B$BAccording to J.D.'s manual, this combination can be used to increase your spirit.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4383,
+  "t": "Crystal Ward",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine green power crystals with red power crystals.$B$BAccording to J.D.'s manual, this combination can be used to strengthen the protection you have against physical damage.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4384,
+  "t": "Crystal Yield",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine red power crystals with blue power crystals.$B$BAccording to J.D.'s manual, this combination can be used to weaken an enemy's defenses.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4385,
+  "t": "Crystal Charge",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine red power crystals with yellow power crystals.$B$BAccording to J.D.'s manual, this combination can be used to create a large explosion that can inflict damage on your enemies.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4386,
+  "t": "Crystal Spire",
+  "o": "",
+  "d": "",
+  "p": "The Pylon table allows you to combine blue power crystals with yellow power crystals.$B$BAccording to J.D.'s manual, this combination can be used to create a shield that does damage to enemies.",
+  "c": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.$B$BThe resulting combination is now yours."
+ },
+ {
+  "id": 4401,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4403,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4421,
+  "t": "The Corruption of the Jadefire",
+  "o": "Kill 11 Jadefire Felsworns, 9 Jadefire Shadowstalkers, 9 Jadefire Rogues, and Xavathras. Return to Eridan Bluewind in Felwood when the task has been completed.",
+  "d": "Not many seek adventure here... Felwood's corruption is widespread and indiscriminate.$B$BAs part of the Emerald Circle, I seek to heal this land, but there are some that wish it to fester.$B$BThe ones I speak of are the Jadefire satyrs that dwell to the northwest of here, at the Ruins of Constellas. Led by a particularly cruel satyr named Xavathras, they continue to spread the disease to any creatures they encounter.$B$BWe must defend this land that was once ours. Defeat Xavathras and destroy his minions.",
+  "p": "The corruption here drives the creatures into madness...",
+  "c": "Ridding Felwood of Xavathras is only the first step in a long process. It will take much work to repair the damage that has been done here.$B$BI sense that there is something much larger than just the satyrs at work here, but we will only know the truth with time..."
+ },
+ {
+  "id": 4441,
+  "t": "Felbound Ancients",
+  "o": "Travel to Darnassus and use Eridan's Vial to collect a Vial of Blessed Water from the Temple of the Moon. Return to Eridan with the filled vial.",
+  "d": "The flute you found was carved from an ancient protector, the treant allies that have faithfully protected the night elves.$B$BThe satyrs have been able to corrupt anything they come in contact with, which includes the ancients that made Felwood their home. By the use of the fel, the spirit of the ancient has been bound and tortured, never completely released. The felbind you found is no doubt related.$B$BWe must try to purify the flute, $N. Bring me blessed water from the Temple of the Moon in Darnassus.",
+  "p": "The water will hopefully release the spirit of the ancient, and allow it to be at peace.",
+  "c": "Thank you, $N. Now, we must pray that we can undo the damage that has been done..."
+ },
+ {
+  "id": 4442,
+  "t": "Purified!",
+  "o": "Speak to Eridan again in a moment.",
+  "d": "Using the water of Elune, I will attempt to purify the flute. We must end this suffering...$B$BMay Elune guide my hands and heart.$B$BSpeak with me again in a moment.",
+  "p": "",
+  "c": "With the blessed water, I was able to break the link between the flute and the ancient spirit. I do believe though, that if you were to use this flute in a sacred spot, you may be able to summon the ancient spirits.$B$BPerhaps you might try the ruins in the southern part of Irontree Woods. Many corrupted treants inhabited this area at one time, and it is possible that they may still reside there, even in spirit form."
+ },
+ {
+  "id": 4443,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4444,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant.  The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4445,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4446,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ }
+]

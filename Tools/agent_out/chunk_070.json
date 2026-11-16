@@ -1,0 +1,962 @@
+[
+ {
+  "id": 13709,
+  "t": "Valiant Of Thunder Bluff",
+  "o": "Speak with Runok Wildmane again if you wish to become a valiant of Thunder Bluff.",
+  "d": "Welcome, champion. As grand champion of the Thunder Bluff delegation, I would be honored to welcome you into our ranks, if you are willing.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Thunder Bluff, your gruntling will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "I am honored that you have chosen to join our delegation. I know you will make us proud, $N."
+ },
+ {
+  "id": 13710,
+  "t": "Valiant Of Undercity",
+  "o": "Speak with Deathstalker Visceri again if you wish to become a valiant of the Undercity.",
+  "d": "Welcome, champion. The Forsaken delegation could always use more $cs like you. Would you join us?$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of the Undecity, your gruntling will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "You have chosen wisely, $N. Both of us will benefit from this arrangement."
+ },
+ {
+  "id": 13711,
+  "t": "Valiant Of Silvermoon",
+  "o": "Speak with Eressea Dawnsinger again if you wish to become a valiant of Silvermoon.",
+  "d": "So, you have become a champion? Then, you have proven yourself a worthy combatant and I would proudly welcome you into Silvermoon's delegation.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Silvermoon, your gruntling will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "It will be an honor training and competing with you, $N."
+ },
+ {
+  "id": 13713,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Lana Stouthammer at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You are nearly ready to compete on behalf of Ironforge in the grand melee. To prove yourself worthy to enter the lists on behalf of our city, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level on behalf of Ironforge, riding in the grand melee with your weapon at the ready and our mighty pennant at your back."
+ },
+ {
+  "id": 13714,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Lana Stouthammer at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13715,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Ambrose Boltspark at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13716,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Colosos at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13717,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Jaelyne Evensong at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13718,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Marshal Jacob Alerius at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13719,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Zul'tore at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13720,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Runok Wildmane at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13721,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Deathstalker Visceri at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13722,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Eressea Dawnsinger at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13723,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Ambrose Boltspark at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You are nearly ready to compete on behalf of Gnomeregan in the grand melee. To prove yourself worthy to enter the lists on behalf of our city, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.$B",
+  "p": "",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level on behalf of Gnomeregan, riding in the grand melee with your weapon at the ready and our mighty pennant at your back."
+ },
+ {
+  "id": 13724,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Colosos at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You are nearly ready to compete on behalf of the Exodar in the grand melee. To prove yourself worthy to enter the lists on behalf of our city, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.$B",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level on behalf of the Exodar, riding in the grand melee with your weapon at the ready and our mighty pennant at your back."
+ },
+ {
+  "id": 13725,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Jaelyne Evensong at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You are nearly ready to compete on behalf of Darnassus in the grand melee. To prove yourself worthy to enter the lists on behalf of our city, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level on behalf of Darnassus, riding in the grand melee with your weapon at the ready and our mighty pennant at your back."
+ },
+ {
+  "id": 13726,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Mokra the Skullcrusher at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "You are nearly ready to compete in the grand melee. To prove yourself worthy of this honor, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level, riding in the grand melee and crushing the competition under the banner of Orgrimmar."
+ },
+ {
+  "id": 13727,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Zul'tore at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "You are nearly ready to compete in the grand melee. To prove yourself worthy of this honor, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level, riding in the grand melee and crushing the competition under the banner of the Darkspears."
+ },
+ {
+  "id": 13728,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Runok Wildmane at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "You are nearly ready to compete in the grand melee. To prove yourself worthy of this honor, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level, riding in the grand melee and crushing the competition under the banner of the Thunder Bluff."
+ },
+ {
+  "id": 13729,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Deathstalker Visceri at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "You are nearly ready to compete in the grand melee. To prove yourself worthy of this honor, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level, riding in the grand melee and crushing the competition under the banner of the Undercity."
+ },
+ {
+  "id": 13731,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Eressea Dawnsinger at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "You are nearly ready to compete in the grand melee. To prove yourself worthy of this honor, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "Have you overcome the Argent champion?",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level, riding in the grand melee and crushing the competition under the banner of Silvermoon."
+ },
+ {
+  "id": 13732,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Congratulations, $N. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Alliance city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13733,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Congratulations, $N. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Alliance city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13734,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Congratulations, $N. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Alliance city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13735,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Congratulations, $N. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Alliance city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13736,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of Orgrimmar!$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Horde city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13737,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of the Darkspear!$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Horde city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13738,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of the Thunder Bluff!$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Horde city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13739,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of the Forsaken!$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Horde city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13740,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of Silvermoon!$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Horde city's delegation and in time, a champion for that city as well.$b$bAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13741,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Lana Stouthammer at the Argent Tournament Grounds.",
+  "d": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This is a fine blade and I have no doubt that it will serve me well in the tournament. You have my thanks, $N."
+ },
+ {
+  "id": 13742,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Lana Stouthammer at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "<The grand champion accepts the Blade of Drak'Mar from you.>$b$bA fine weapon, and perfectly balanced. It will serve me well in the next match."
+ },
+ {
+  "id": 13743,
+  "t": "The Edge Of Winter",
+  "o": "Lana Stouthammer at the Argent Tournament Grounds wants you to bring her Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade I seek?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13744,
+  "t": "A Valiant's Field Training",
+  "o": "Rollo Sureshot at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "",
+  "c": "Welcome back from your exercises, $N. Even while we practice for the competition, it's good to remind ourselves that the Scourge is still out there."
+ },
+ {
+  "id": 13745,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Clara Tumblebrew at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. The people of Ironforge are looking forward to hearing of our success. To that end, they've been honing their skills against the valiants representing the other Alliance capitals.$B$BI suggest you do the same. The valiants practice in the ring just outside our tent. Equip your lance, go to the stables outside the pavilion and mount the stabled Ironforge ram, then challenge other Alliance valiants.$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make Ironforge proud, $N."
+ },
+ {
+  "id": 13746,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Ambrose Boltspark at the Argent Tournament Grounds.",
+  "d": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This is a fine blade and I have no doubt that it will serve me well in the tournament. You have my thanks, $N."
+ },
+ {
+  "id": 13747,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Ambrose Boltspark at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "<Ambrose accepts the Blade of Drak'Mar from you.>$b$bA fine weapon, and perfectly balanced. It will serve me well in the next match."
+ },
+ {
+  "id": 13748,
+  "t": "The Edge Of Winter",
+  "o": "Ambrose Boltspark at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "That's the last time I ever spar with a death knight.$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.$B",
+  "p": "Did you win the blade I seek?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13749,
+  "t": "A Valiant's Field Training",
+  "o": "Tickin Gearspanner at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "Welcome back from your exercises, $N. I'm confident that you will make us proud when the competition starts."
+ },
+ {
+  "id": 13750,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Flickin Gearspanner at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. We know everyone's looking forward to seeing us in the competition. To that end, we've been honing our skills against the valiants representing the other Alliance capitals.$B$BI suggest you do the same.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled turbostrider, and challenge the valiants. They wait in the Alliance Valiants' Ring just outside our tent.$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make us proud, $N."
+ },
+ {
+  "id": 13752,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Colosos at the Argent Tournament Grounds.",
+  "d": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This is a fine blade and I have no doubt that it will serve me well in the tournament. You have my thanks, $N."
+ },
+ {
+  "id": 13753,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Colosos at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "<The grand champion accepts the Blade of Drak'Mar from you.>$b$bA fine weapon, and perfectly balanced. It will serve me well in the next match."
+ },
+ {
+  "id": 13754,
+  "t": "The Edge Of Winter",
+  "o": "Colosos at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "That's the last time I ever spar with a death knight.$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade I seek?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13755,
+  "t": "A Valiant's Field Training",
+  "o": "Saandos at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "",
+  "c": "Welcome back from your exercises, $N. Even while we practice for the competition, it's good to remind ourselves that the Scourge is still out there."
+ },
+ {
+  "id": 13756,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Ranii at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. The people of the Exodar are looking forward to seeing us win the melee. To that end, they've been honing their skills against the valiants representing the other Alliance capitals.$B$BI suggest you do the same.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Azuremyst elekk, and challenge the valiants. They wait in the Alliance Valiants' Ring just outside our tent.",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make us proud, $N."
+ },
+ {
+  "id": 13757,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Jaelyne Evensong at the Argent Tournament Grounds.",
+  "d": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This is a fine blade and I have no doubt that it will serve me well in the tournament. You have my thanks, $N."
+ },
+ {
+  "id": 13758,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Jaelyne Evensong at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "<Jaelyne accepts the Blade of Drak'Mar from you.>$b$bA fine weapon, and perfectly balanced. It will serve me well in the next match."
+ },
+ {
+  "id": 13759,
+  "t": "The Edge Of Winter",
+  "o": "Jaelyne Evensong at the Argent Tournament Grounds wants you to bring her Winter's Edge.",
+  "d": "That's the last time I ever spar with a death knight.$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade I seek?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13760,
+  "t": "A Valiant's Field Training",
+  "o": "Illestria Bladesinger at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "Welcome back from your exercises, $N. Even while we practice for the competition, it's good to remind ourselves that the Scourge is still out there."
+ },
+ {
+  "id": 13761,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Airae Starseeker at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. The people of Darnassus are looking forward to seeing us win the melee. To that end, they've been honing their skills against the valiants representing the other Alliance capitals.$B$BI suggest you do the same.$B$BThe Alliance Valiants' Ring is just outside our tent. Go to the stables on the outside the pavilion, equip your lance, mount the stabled Darnassian mistsaber, and challenge the valiants.",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make Darnassus proud, $N."
+ },
+ {
+  "id": 13762,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Mokra the Skullcrusher at the Argent Tournament Grounds.",
+  "d": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This blade should be enough to best anything those Alliance entrants can come up with."
+ },
+ {
+  "id": 13763,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Mokra the Skullcrusher at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "This is a fine weapon that will help me crush the competition. Thank you, $N."
+ },
+ {
+  "id": 13764,
+  "t": "The Edge Of Winter",
+  "o": "Mokra the Skullcrusher at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13765,
+  "t": "A Valiant's Field Training",
+  "o": "Akinos at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "A good day of training will never hurt anyone. It's good to see you keeping up.",
+  "c": "A good day of training will never hurt anyone. It's good to see you keeping up."
+ },
+ {
+  "id": 13767,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Morah Worgsister at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.$B$BIt will help prepare you for the rigors of tournament combat.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Orgrimmar wolf, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.$B$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Training against the other valiants will sharpen your claws and hone your battle insticts. When the competition begins, you will be ready."
+ },
+ {
+  "id": 13768,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Zul'tore at the Argent Tournament Grounds.",
+  "d": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This blade should be enough to best anything those Alliance entrants can come up with."
+ },
+ {
+  "id": 13769,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Zul'tore at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "This is a fine weapon that will help me crush the competition. Thank you, $N."
+ },
+ {
+  "id": 13770,
+  "t": "The Edge Of Winter",
+  "o": "Zul'tore at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13771,
+  "t": "A Valiant's Field Training",
+  "o": "Shadow Hunter Mezil-kree at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "A good day of training will never hurt anyone. It's good to see you keeping up.",
+  "c": "A good day of training will never hurt anyone. It's good to see you keeping up."
+ },
+ {
+  "id": 13772,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Gahju at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.$B$BIt will help prepare you for the rigors of tournament combat.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Darkspear raptor, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.$B$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Training against other valiants will quickly teach you what you need to know to best them. Keep it up and you'll have no trouble defeating them in competition."
+ },
+ {
+  "id": 13773,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Runok Wildmane at the Argent Tournament Grounds.",
+  "d": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This blade should be enough to best anything those Alliance entrants can come up with."
+ },
+ {
+  "id": 13774,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Runok Wildmane at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "This is a fine weapon that will help me crush the competition. Thank you, $N."
+ },
+ {
+  "id": 13775,
+  "t": "The Edge Of Winter",
+  "o": "Runok Wildmane at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13776,
+  "t": "A Valiant's Field Training",
+  "o": "Dern Ragetotem at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "A good day of training will never hurt anyone. It's good to see you keeping up.",
+  "c": "A good day of training will never hurt anyone. It's good to see you keeping up."
+ },
+ {
+  "id": 13777,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Anka Clawhoof at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.$B$BIt will help prepare you for the rigors of tournament combat.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Mulgore kodo, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Training against the other valiants will sharpen your claws and hone your battle insticts. When the competition begins, you will be ready."
+ },
+ {
+  "id": 13778,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Deathstalker Visceri at the Argent Tournament Grounds.",
+  "d": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This blade should be enough to best anything those Alliance entrants can come up with."
+ },
+ {
+  "id": 13779,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Deathsalker Visceri at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "This is a fine weapon that will help me crush the competition. Thank you, $N."
+ },
+ {
+  "id": 13780,
+  "t": "The Edge Of Winter",
+  "o": "Deathstalker Visceri at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.$B",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13781,
+  "t": "A Valiant's Field Training",
+  "o": "Sarah Chalke at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "A good day of training will never hurt anyone. It's good to see you keeping up.",
+  "c": "A good day of training will never hurt anyone. It's good to see you keeping up."
+ },
+ {
+  "id": 13782,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Handler Dretch at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.$B$BIt will help prepare you for the rigors of tournament combat. $B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Forsaken warhorse, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Training against the other valiants will sharpen your claws and hone your battle insticts. When the competition begins, you will be ready."
+ },
+ {
+  "id": 13783,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Eressea Dawnsinger at the Argent Tournament Grounds.",
+  "d": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This blade should be enough to best anything those Alliance entrants can come up with."
+ },
+ {
+  "id": 13784,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Eressea Dawnsinger at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "This is a fine weapon that will help me crush the competition. Thank you, $N."
+ },
+ {
+  "id": 13785,
+  "t": "The Edge Of Winter",
+  "o": "Eressea Dawnsinger at the Argent Tournament Grounds wants you to bring her Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13786,
+  "t": "A Valiant's Field Training",
+  "o": "Kethiel Sunlance at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "A good day of training will never hurt anyone. It's good to see you keeping up.",
+  "c": "A good day of training will never hurt anyone. It's good to see you keeping up."
+ },
+ {
+  "id": 13787,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Aneera Thuron at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.$B$BIt will help prepare you for the rigors of tournament combat.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Silvermoon hawkstrider, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.$B$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Training against the other valiants will sharpen your claws and hone your battle insticts. When the competition begins, you will be ready."
+ },
+ {
+  "id": 13788,
+  "t": "Threat From Above",
+  "o": "Crok Scourgebane at the Argent Tournament wants you to defeat Chillmaw and 3 Cultist Bombardiers.",
+  "d": "The Argent Crusade has doubled the guard since your exposure of the Cult of the Damned's infiltrator. They know the cultists won't stop until they've destroyed this area and thwarted the tournament.$B$BThe Argent Crusade's scouts have reported sighting a frost wyrm named Chillmaw leading a cult raiding party.$B$BYou must intercept and destroy them before they attack. The scouts reporting seeing Chillmaw to the southwest, flying over the area between the Ironwall Rampart and Aldur'thar.",
+  "p": "Have you defeated the Cult of the Damned raiding party?",
+  "c": "$N, you have spared the tournament from a devastating attack. The Argent Crusade and all who gather here are in our debt and we'll make certain they remember it. For all their bluster about providing protection, the peacekeepers and skytalons spend more time breaking up drunken brawls than keeping us safe from the Scourge.$b$bIt's no matter. We always protect our own."
+ },
+ {
+  "id": 13789,
+  "t": "Taking Battle To The Enemy",
+  "o": "Cellian Daybreak at the Argent Tournament Grounds wants you to kill 15 members of the Cult of the Damned. You may kill Cult of the Damned members in any part of Icecrown.",
+  "d": "The coliseum is perched in the most dangerous part of the world, $N. The territory we've taken from the Scourge has been paid for in blood and misery, yet the enemy continues to strike back with a seemingly limitless army. To make matters worse, this undead army is supported and assisted by mortal sympathizers, the Cult of the Damned.$B$BGo forth into Icecrown and slay any cultists you encounter. ",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "You are a true champion, $N, both inside the ring and on the field. We must all be vigilant against the Scourge and you are a great example to our brethren and your own people."
+ },
+ {
+  "id": 13790,
+  "t": "Among the Champions",
+  "o": "Bring 4 Marks of the Champion to Luuri at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.$B",
+  "d": "As a champion, you have mastered the art of mounted combat, besting challengers of all levels. When the tournament begins, those you have defeated will have redoubled their efforts and will seek to avenge their losses to you.$B$BIt would be wise to continue practicing your skills against the combatants waiting in the Ring of Champions. Equip your lance, go to the stables on the southern side of the grounds. then mount up on any mount you're permitted to use, and face the champions.",
+  "p": "Have you finished training with the other champions?",
+  "c": "Well done. Training against the other champions is one of the best ways to prepare yourself for tournament competition. I know you'll make the Alliance proud, $N."
+ },
+ {
+  "id": 13791,
+  "t": "Taking Battle To The Enemy",
+  "o": "Zor'be the Bloodletter at the Argent Tournament Grounds wants you to kill 15 members of the Cult of the Damned. You may kill cultists in any part of Icecrown.",
+  "d": "While we all play at mock combat, it will do us good to remember that the real enemy surrounds us. The Argent Crusade wants to use competition to find the best fighters, but we can tell that by who returns from battle. Let's show the paladins that we are willing to take battle to the Cult of the Damned, even while making preparations for the tournament.$B$BGo forth into Icecrown and slay any of the cultists you encounter. They have a strong presence around Aldur'thar and Deathspeaker's Watch.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "You have done well in demonstrating our commitment to fighting the Scourge, no matter where we are or what we are doing."
+ },
+ {
+  "id": 13793,
+  "t": "Among the Champions",
+  "o": "Bring 4 Marks of the Champion to Illyrie Nightfall at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "As a champion, you have mastered the art of mounted combat, overcoming challengers of all levels. You must make certain that you can defeat anyone you face when the tournament begins.$B$BYou should continue honing your own skills and learning more about the weaknesses of your opponents. Champions representing all cities practice in the Ring of Champions near the stables. Go to the stables, equip your lance, and pick any mount you're permitted to ride, then face the champions.",
+  "p": "Have you finished training with the other champions?",
+  "c": "You handle your mount well, $N. In time, your competitors will learn to fear you."
+ },
+ {
+  "id": 13794,
+  "t": "Eadric the Pure",
+  "o": "Speak with Eadric the Pure at the Argent Tournament Grounds.",
+  "d": "I have asked my brothers of the Argent Crusade to work closely with those who rise to the rank of champion. Eadric the Pure, our brotherhood's grand champion, helps oversee training exercises for champions from all cities and helps them make their final preparations for tournament competition.$B$BPlease go and introduce yourself to him. I know he'll be eager to meet you and work with you on your way to competing against Azeroth's greatest champions.",
+  "p": "",
+  "c": "It's good to finally meet you, champion. The highlord has asked me to help coordinate the efforts of all champions to train together and bolster the defenses of the tournament grounds."
+ },
+ {
+  "id": 13795,
+  "t": "The Scourgebane",
+  "o": "Speak with Crok Scourgebane at the Argent Tournament Grounds.",
+  "d": "The leader of the Knights of the Ebon Blade delegation has asked to speak you, $c. Crok Scourgebane is as fearsome a combatant as they come and I have no doubt he'll have much to ask of you.$B$BThe Knights of the Ebon Blade have made camp on the north side of the tournament grounds, west of the tent housing the Alliance delegations.",
+  "p": "",
+  "c": "So you have become a champion, $N. I had no doubt that it would happen. We knights have been trained in the heat of battle, not in front of wooden dummies. Let's show the paladins and their guests what battle has made us."
+ },
+ {
+  "id": 13809,
+  "t": "Threat From Above",
+  "o": "Eadric the Pure at the Argent Tournament wants you to defeat Chillmaw and 3 Cultist Bombardiers.",
+  "d": "Highlord Tirion Fordring has doubled the guard since your exposure of the Cult of the Damned's infiltrator. He doesn't believe that they will stop just because their Black Knight has been defeated.$B$BOur skytalon scouts have reported sighting a frost wyrm named Chillmaw leading a cult raiding party. If we don't intercept them, the tournament will come under attack. The scouts reporting seeing Chillmaw to the southwest, flying over the area between the Ironwall Rampart and Aldur'thar.",
+  "p": "Have you defeated the Cult of the Damned raiding party?",
+  "c": "$N, you and your allies have spared the tournament from a devastating attack. Though our skytalon riders are brave, they have their hands full keeping the peace on the tournament grounds and would be hard-pressed to defend the skies against the cult's attack. You have the thanks of the Argent Crusade and all who have gathered here to compete."
+ },
+ {
+  "id": 13810,
+  "t": "Taking Battle To The Enemy",
+  "o": "Cellian Daybreak at the Argent Tournament Grounds wants you to kill 15 members of the Cult of the Damned. You may kill cultists in any part of Icecrown.",
+  "d": "The coliseum is perched in the most dangerous part of the world, $N. The territory we've taken from the Scourge has been paid for in blood and misery, yet the enemy continues to strike back with a seemingly limitless army. To make matters worse, this undead army is supported and assisted by mortal sympathizers, the Cult of the Damned.$B$BGo forth into Icecrown and slay any cultists you encounter.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "You are a true champion, $N, both inside the ring and on the field. We must all be vigilant against the Scourge and you are a great example to our brethren and your own people."
+ },
+ {
+  "id": 13811,
+  "t": "Among the Champions",
+  "o": "Bring 4 Marks of the Champion to Luuri at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "As a champion, you have mastered the art of mounted combat, besting challengers of all levels. When the tournament begins, those you have defeated will have redoubled their efforts and will seek to avenge their losses.$B$BIt would be wise to continue honing your own skills and learning from your opponents. Champions representing all cities practice in the Ring of Champions. Equip your lance, mount up on any mount you're entitled to use at the stables, and face the champions.",
+  "p": "Have you finished training with the other champions?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make the Horde proud, $N."
+ },
+ {
+  "id": 13812,
+  "t": "Threat From Above",
+  "o": "Crok Scourgebane at the Argent Tournament wants you to defeat Chillmaw and 3 Cultist Bombardiers.",
+  "d": "The Argent Crusade has doubled the guard since your exposure of the Cult of the Damned's infiltrator. They know the cultists won't stop until they've destroyed this area and thwarted the tournament.$B$BThe Argent Crusade's scouts have reported sighting a frost wyrm named Chillmaw leading a cult raiding party.$B$BYou must intercept and destroy them before they attack. The scouts reporting seeing Chillmaw to the southwest, flying over the area between the Ironwall Rampart and Aldur'thar.",
+  "p": "Have you defeated the Cult of the Damned raiding party?",
+  "c": "$N, you have spared the tournament from a devastating attack. The Argent Crusade and all who gather here are in our debt and we'll make certain they remember it. For all their bluster about providing protection, the peacekeepers and skytalons spend more time breaking up drunken brawls than keeping us safe from the Scourge.$b$bIt's no matter. We always protect our own."
+ },
+ {
+  "id": 13813,
+  "t": "Taking Battle To The Enemy",
+  "o": "Zor'be the Bloodletter at the Argent Tournament Grounds wants you to kill 15 members of the Cult of the Damned. You may kill cultists in any part of Icecrown.",
+  "d": "While we all play at mock combat, it will do us good to remember that the real enemy surrounds us. The Argent Crusade wants to use competition to find the best fighters, but we can tell that by who returns from battle. Let's show the paladins that we are willing to take battle to the Cult of the Damned, even while making preparations for the tournament.$B$BGo forth into Icecrown and slay any of the cultists you encounter. They have a strong presence around Aldur'thar and Deathspeaker's Watch.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "You have done well in demonstrating our commitment to fighting the Scourge, no matter where we are or what we are doing."
+ },
+ {
+  "id": 13814,
+  "t": "Among the Champions",
+  "o": "Bring 4 Marks of the Champion to Illyrie Nightfall at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Sunreaver Pavilion.",
+  "d": "As a champion, you have mastered the art of mounted combat, overcoming challengers of all levels. You must make certain that you can defeat anyone you face when the tournament begins.$B$BYou should continue honing your own skills and learning more about the weaknesses of your opponents. Champions representing all cities practice in the Ring of Champions near the stables. Go to the stables, equip your lance, pick any mount you can ride, then face the champions in practice bouts.",
+  "p": "Have you finished training with the other champions?",
+  "c": "You handle your mount well, $N. In time, your competitors will learn to fear you."
+ },
+ {
+  "id": 13816,
+  "t": "Heroic: The Celestial Planetarium",
+  "o": "Prospector Loren at the Archivum in Ulduar wants you to locate the entrance to the Celestial Planetarium.",
+  "d": "Listen, $glad:lass;!  Azeroth's fate is at stake here.$B$BOur only chance is to get to the Celestial Planetarium in time to find this Algalon and stop him from beaming back any messages to his Titan masters.$B$BLocate the Celestial Planetarium and come back with any information you get.  We might still have some time to prepare for Algalon's arrival.",
+  "p": "",
+  "c": "It's locked?  Figures!$b$bI'll let Brann know... maybe he can uncover something in the Archivum."
+ },
+ {
+  "id": 13817,
+  "t": "Heroic: Archivum Data Disc",
+  "o": "Bring the Archivum Data Disc to the Archivum Console in Ulduar.",
+  "d": "This platinum disc is surprisingly symmetrical and devoid of any scratches or imperfections.  Engraved along its edge, bold runes spell out the word \"ARCHIVUM.\"$B$BThere must be a device inside Ulduar capable of reading the disc.",
+  "p": "The console whirrs with energy as the round receptacle opens.",
+  "c": "The platinum disc fits perfectly inside the console. It begins to spin as its contents are scanned by white beams of light."
+ },
+ {
+  "id": 13818,
+  "t": "Heroic: Algalon",
+  "o": "Bring the Sigils of the Watchers to the Archivum Console in Ulduar.",
+  "d": "You really did it, $N.  Take the sigils to the Archivum Console and see if you can gain access to the Celestial Planetarium.$B$BYou best hurry, $g lad:lass;.  Time is of the essence.",
+  "p": "The console's bright lights scan the glass surface repeatedly, as if awaiting some form of input.",
+  "c": "Stand by for verification.$b$bAccess to the Celestial Planetarium granted. Please retrieve your key."
+ },
+ {
+  "id": 13819,
+  "t": "Heroic: All Is Well That Ends Well",
+  "o": "Take the Reply-Code Alpha to Rhonin in Dalaran.",
+  "d": "We'd best hurry now, $N.  We're going to have to transmit the reply-code from Dalaran.$B$BTake it to Rhonin, I will meet you there.",
+  "p": "You're ready, $N?",
+  "c": "You're here.  Let us hope this works.  For all our sakes."
+ },
+ {
+  "id": 13820,
+  "t": "The Blastbolt Brothers",
+  "o": "Speak with Bezzle Blastbolt at the Argent Tournament Grounds.",
+  "d": "The highlord has tasked me with getting that coliseum completed as soon as possible. We've put our own masons to work on the project, but we found out very quickly that we were going to need help procuring materials. I've hired a couple of goblins, Bezzle Blastbolt and his brother, Bozzle.$B$BThey're supervising construction at the southeastern end of the tournament grounds. Speak with Bezzle and see if he and his brother could use any more help getting the building materials we need.",
+  "p": "",
+  "c": "So the justicar sent you to see us? Good, good...$b$bWe could always use more help with the, uh, \"requisition\" of materials."
+ },
+ {
+  "id": 13821,
+  "t": "Heroic: Freya's Sigil",
+  "o": "Prospector Loren at the Archivum in Ulduar wants you to obtain Freya's Sigil.$B$BFor more information on obtaining Freya's Sigil consult the Archivum Console.",
+  "d": "Freya's Sigil is going to be one of the tougher ones, I reckon.$B$BAccording to the Archivum, the essence of the Sigil is tied to her three elder servants, Brightleaf, Ironbranch and Stonebark.  Should any of the elders be harmed, the Sigil's integrity will be compromised.$B$BSparing the elders, however, means that Freya will be more powerful when you face her.$B$BWhat can I say, $N.  We're stuck between a rock and hard place.",
+  "p": "Freya's sigil, $n? Do ye have it?",
+  "c": "Excellent job, $N. We're one step closer to saving Azeroth!"
+ },
+ {
+  "id": 13822,
+  "t": "Heroic: Hodir's Sigil",
+  "o": "Prospector Loren at the Archivum in Ulduar wants you to obtain Hodir's Sigil.$B$BFor more information on obtaining Hodir's Sigil, consult the Archivum Console.",
+  "d": "Hodir's Sigil won't be easy to obtain.  Not only are ye going to have to defeat Hodir himself, but yer going to have to do it before he destroys the chest that contains it!$B$BCheck the Archivum console if you need more information.  That thing contains more knowledge than all of the world's libraries put together!",
+  "p": "Did ye obtain the sigil, $n?",
+  "c": "Ye did it! I don't know how, but ye did!"
+ },
+ {
+  "id": 13823,
+  "t": "Heroic: Thorim's Sigil",
+  "o": "Prospector Loren at the Archivum in Ulduar wants you to obtain Thorim's Sigil.$B$BFor more information on obtaining Thorim's Sigil consult the Archivum Console.",
+  "d": "Thorim's not himself, $N.  He's come under a dark influence.$B$BAn evil presence under the guise of an illusion pretends to be his lost wife, Sif.$B$BYe can't let him be overcome by this impostor's spell.  If he does, the location of his sigil might forever be lost!$B$BYer going to have to beat some sense into him and yer going to have to do it quick.$B$BAs always, the Archivum Console will give ye all the gory details... even the ones ye don't like.",
+  "p": "Well, $n? Do ye have it?",
+  "c": "Ye never cease to impress, $N.$b$bYe and me are having a pint together after all this is done, ye hear me?"
+ },
+ {
+  "id": 13824,
+  "t": "Heroic: Mimiron's Sigil",
+  "o": "Prospector Loren at the Ulduar Archivum wants you to obtain Mimiron's Sigil.$B$BFor more information on obtaining Mimiron's Sigil consult the Archivum Console.",
+  "d": "Mimiron's a clever one.  His entire abode is rigged with some sort of self-destruction mechanism.$B$BUnfortunately yer gonna have to race against it if ye want to get his sigil.  Check the Archivum Console for more details if ye need them.",
+  "p": "Were you able to obtain the sigil, $n?",
+  "c": "I've got to hand it to you, $N. Our odds might not be the best, but I feel a lot better with you lending a hand."
+ },
+ {
+  "id": 13828,
+  "t": "Mastery Of Melee",
+  "o": "Equip your lance, then mount the Stabled Quel'dorei Steed outside the pavilion. Speak to Jeran Lockwood and use Thrust 5 times on a Melee Target, then return to Arcanist Taelis at the Argent Tournament Grounds.",
+  "d": "The heart of tournament competition is mounted melee combat. Take this lance and mount the stabled Quel'dorei steed just outside the pavilion.$B$BOnce you're mounted, seek out Jeran Lockwood. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Jeran will instruct you on how to use your defenses to keep you safe while attacking a melee target at close range.",
+  "p": "Did you speak to Jeran Lockwood and practice close range mounted melee?",
+  "c": "Keep the words of the master in mind as you practice with the training dummies."
+ },
+ {
+  "id": 13829,
+  "t": "Mastery Of Melee",
+  "o": "Equip your lance, then mount the Stabled Sunreaver Hawkstrider outside the pavilion. Speak to Jeran Lockwood and use Thrust 5 times on a Melee Target, then return to Magister Edien Sunhollow at the Argent Tournament Grounds.",
+  "d": "The heart of tournament competition is mounted melee combat. Take this lance and mount the stabled Sunreaver hawkstrider just outside the pavilion.$B$BOnce you're mounted, seek out Jeran Lockwood. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Jeran will instruct you on how to use your defenses to keep you safe while attacking a melee target at close range.",
+  "p": "Did you speak to Jeran Lockwood and practice close range mounted melee?",
+  "c": "Keep the words of the master in mind as you practice with the training dummies."
+ },
+ {
+  "id": 13830,
+  "t": "The Ghostfish",
+  "o": "Marcia Chase in Dalaran City wants you to discover the mystery of the Phantom Ghostfish.",
+  "d": "Any Northrend angler worth $ghis:her; salt knows about the pygmy suckerfish.  It's not edible, but sometimes useful to alchemists.$b$bThere is, however, a stealthy fish that hides among the suckerfish in the River's Heart of Sholazar Basin.  The phantom ghostfish.  When out of water, they become increasingly translucent until they fade away completely.  Some hypothesize they return to Sholazar, and others are more... superstitious.$b$bI want you to catch this fish and discover its secret by any means!",
+  "p": "Is the ghostfish haunting your best efforts?$b$b<Marcia looks particularly proud of herself for her pun.>",
+  "c": "So eating it makes you invisible... what a strange defense this clever fish has developed.$b$bI'd like to digest this for a bit. Pun not intended, $N. Really. Why don't you come see me tomorrow?"
+ },
+ {
+  "id": 13832,
+  "t": "Jewel Of The Sewers",
+  "o": "Marcia Chase in Dalaran City wants you to bring her a piece of Corroded Jewelry.",
+  "d": "Hard to believe that most people fish in the Dalaran Sewers for giant rats and mutated fish.  Especially when those waters are filled with priceless jewelry - discarded by broken hearted fools, thieves, and careless drunks.$b$bThe trick is to let your hook drag the bottom and don't pull up too hard when you get something.  Try it out, $N.  I'd be willing to trade whatever you find for a few trinkets of my own.",
+  "p": "Any luck?",
+  "c": "Well now, that looks like it could be valuable. Difficult to know until it's cleaned up and appraised, but I'm still willing to make the trade if you are."
+ },
+ {
+  "id": 13833,
+  "t": "Blood Is Thicker",
+  "o": "Marcia Chase in Dalaran City wants you to bring her 5 Bloodtooth Frenzies.",
+  "d": "The bloodtooth is a feisty little fish used in a recipe to cure infected wounds.  We could use some of them, if you're up to it.$b$bAs the name suggests, they've a hunger for blood.  The only way I know how to catch the little devils is by creating a blood pool and fishing in it.$b$bGet yourself covered in blood - just slaughter a beast in the Borean Tundra - and then jump in the water.  It'll wash right off and create the perfect fishing spot.",
+  "p": "Any luck with the bloodtooth?  Don't forget what I told you about making blood pools.",
+  "c": "You are a brave one, $N.  I hope you didn't lose any extremities making your fishing spot.  If you've still got the fishing bug, come back tomorrow and we'll talk some more."
+ },
+ {
+  "id": 13834,
+  "t": "Dangerously Delicious",
+  "o": "Marcia Chase in Dalaran City wants you to bring her 10 Terrorfish.",
+  "d": "The best fishing is often the most dangerous.  Wintergrasp boasts a bountiful catch for the brazen.$b$bIn fact, it's the only place to catch the fabled Terrorfish - a fish both lethal and delicious.  Bring me some, and we'll have something to discuss.",
+  "p": "Be on your guard when you're after the Terrorfish.",
+  "c": "My, my, my! You've caught yourself some Terrorfish. Why, that reminds me of the time...$b$b<Marcia regales you with stories of adventure and fishing for as long as you're willing to listen.>"
+ },
+ {
+  "id": 13835,
+  "t": "Mastery Of The Shield-Breaker",
+  "o": "Equip your lance and mount the Stabled Quel'dorei Steed outside the pavilion. Speak to Valis Windchaser and use Shield-Breaker on 2 vulnerable Ranged Targets, then return to Scout Shalyndria at the Argent Tournament Grounds.",
+  "d": "You'll need to learn how to break through an opponent's defenses to succeed in mounted combat. Take this lance and mount the stabled Quel'dorei steed just outside the pavilion.$B$BOnce you're mounted, seek out Valis Windchaser. He'll be on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Valis will teach you the basics of using a ranged shield breaker attack to make a ranged target vulnerable.",
+  "p": "Have you practiced using your shield-breaker?",
+  "c": "Commit Valis's lesson to memory, $N. It will mean the difference between winning and losing your mounted combat matches."
+ },
+ {
+  "id": 13836,
+  "t": "Disarmed!",
+  "o": "Olisarra the Kind in Dalaran City wants you to return the Severed Arm to her.",
+  "d": "I've received word of an unfortunate accident at the Dalaran prison; a guard had his arm severed and thrown into the water by a particularly vicious inmate.$b$bOur first aid clinic promises they can reattach the arm if we bring it back.$b$bYou fish long enough in the water outside the prison, and I'd bet my favorite fishing pole that arm will surface.  Find that arm, and bring it to Olisarra the Kind here in Dalaran.  She'll know what to do.",
+  "p": "Hi there.  Do you have something for me?",
+  "c": "Oh, hello there $N.  Marcia said you'd be coming by with that poor man's missing arm.$b$bShe also gave me this bag to give you as a reward.  It smells horrible, and I'm anxious to make the trade if you don't mind."
+ },
+ {
+  "id": 13837,
+  "t": "Mastery Of The Charge",
+  "o": "Equip your lance and mount the Stabled Quel'dorei Steed outside the pavilion. Speak to Rugan Steelbelly and Charge 2 vulnerable Charge Targets, then return to Avareth Swiftstrike at the Argent Tournament Grounds.",
+  "d": "Your strongest attack in mounted combat is undoubtedly the charge. Take this lance and mount the stabled Quel'dorei steed just outside the pavilion.$B$BOnce you're mounted, speak with Rugan Steelbelly. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Rugan will tell you how to use this powerful ability and teach you some basic strategies.",
+  "p": "Have you mastered the use of the charge?",
+  "c": "With a teacher like Rugan, you'll be an expert at mounted combat in no time."
+ },
+ {
+  "id": 13838,
+  "t": "Mastery Of The Shield-Breaker",
+  "o": "Equip your lance and mount the Stabled Sunreaver Hawkstrider. Speak to Valis Windchaser and use Shield-Breaker on 2 vulnerable Ranged Targets, then return to Galathia Brightdawn at the Argent Tournament Grounds.",
+  "d": "You'll need to learn how to break through an opponent's defenses to succeed in mounted combat. Take this lance and mount the stabled Sunreaver hawkstrider just outside the pavilion.$B$BOnce you're mounted, seek out Valis Windchaser. He'll be on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Valis will teach you the basics of using a ranged shield breaker attack to make a ranged target vulnerable.",
+  "p": "Have you practiced using your shield-breaker?",
+  "c": "Commit Valis's lesson to memory, $N. It will mean the difference between winning and losing your mounted combat matches."
+ },
+ {
+  "id": 13839,
+  "t": "Mastery Of The Charge",
+  "o": "Equip your lance and mount the Stabled Sunreaver Hawkstrider outside the pavilion. Speak to Rugan Steelbelly and Charge 2 vulnerable Charge Targets, then return to Amariel Sunsworn at the Argent Tournament Grounds.",
+  "d": "Your strongest attack in mounted combat is undoubtedly the charge. Take this lance and mount the stabled Sunreaver hawkstrider just outside the pavilion.$B$BOnce you're mounted, speak with Rugan Steelbelly. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Rugan will tell you how to use this powerful ability and teach you some basic strategies.",
+  "p": "",
+  "c": "With experience and practice, you will become deadly with the charge."
+ },
+ {
+  "id": 13840,
+  "t": "REUSE",
+  "o": "Find some Special Chicken Feed and return to your befriended chicken. When you find it,/cheer at it before trying to give it the Special Chicken Feed.",
+  "d": "\"Cluck... cluck... cluck... BACAW!$B$BCluck... cluck... cluck.\"$B$BThe chicken looks up at you and then starts to scratch its claws into the ground. You think it is spelling out a word,but you are not sure what it is. Could it be... S-A-L-D-E-A-N? Before you can ask,the chicken turns away and goes about its business.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13843,
+  "t": "The Scrapbot Construction Kit",
+  "o": "Interact with the Prototype Console in The Inventor's Library.",
+  "d": "Searching the databanks of the prototype console reveals schematics for a scrapbot construction kit. With your engineering expertise, you could learn this schematic and produce scrapbot construction kits of your own.",
+  "p": "",
+  "c": "You take note of the information displayed in the schematic and the materials required to construct the scrapbot kit."
+ },
+ {
+  "id": 13845,
+  "t": "Sealed Vial of Poison",
+  "o": "Bring the Seal Vial of Poison to Alchemist Cinesra in the Dalaran Sewers.",
+  "d": "This vial of poison looks particularly dangerous.  Perhaps someone in Dalaran might be interested in it.",
+  "p": "Is that what I think it is, $c?",
+  "c": "You are brave to have carried this.  If even one drop were to touch your skin, you'd have died an agonizing death.$b$bAllow me to pay you for it... I can always use venom of exceptional potency."
+ },
+ {
+  "id": 13846,
+  "t": "Contributin' To The Cause",
+  "o": "Speak with Squire Artie to contribute 10 gold to the Argent Crusade's cause.",
+  "d": "The bestest of the champions come to the chapel to hear the argent confessor speak every day.$B$BYou should see how much she inspires them, $N. Not only do they fight for the Argent Crusade, but they put a lot of money into the collection basket when I take it around.$B$BMaybe you'd like to contribute too?",
+  "p": "Do you want to contribute?",
+  "c": "Thank you. I just know the crusade will put it to good use!"
+ },
+ {
+  "id": 13847,
+  "t": "At The Enemy's Gates",
+  "o": "Captain Joseph Holley at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders what they already knew -- that our warriors are more than just parade ground decorations."
+ },
+ {
+  "id": 13851,
+  "t": "At The Enemy's Gates",
+  "o": "Clara Tumblebrew at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders that we are worthy allies."
+ },
+ {
+  "id": 13852,
+  "t": "At The Enemy's Gates",
+  "o": "Flickin Gearspanner at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the that we are a match for the Argent Crusade's own."
+ },
+ {
+  "id": 13854,
+  "t": "At The Enemy's Gates",
+  "o": "Ranii at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders what they already knew -- that our warriors are more than just parade ground decorations."
+ },
+ {
+  "id": 13855,
+  "t": "At The Enemy's Gates",
+  "o": "Airae Starseeker at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders that they can rely on us in the battle against the Lich King."
+ },
+ {
+  "id": 13856,
+  "t": "At The Enemy's Gates",
+  "o": "Morah Worgsister at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, and 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders what they already knew -- that our warriors are the best in Azeroth."
+ },
+ {
+  "id": 13857,
+  "t": "At The Enemy's Gates",
+  "o": "Gahju at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders that we are fearless in the face of the Lich King's minions."
+ },
+ {
+  "id": 13858,
+  "t": "At The Enemy's Gates",
+  "o": "Anka Clawhoof at the Argent Tournament Grounds wants you to kill 15 Boneguard Footmen, 10 Boneguard Scouts, 3 Boneguard Lieutenants.",
+  "d": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.$B$BIn the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.$B$BDo not fear the masses of boneguard footmen, $N, for they can easily be trampled under your horse's hooves.",
+  "p": "Have served alongside the crusaders in the Court of Bones?",
+  "c": "Your bravery on the field has shown the crusaders that we are steadfast allies in the battle against the Lich King."
+ }
+]

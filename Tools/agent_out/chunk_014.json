@@ -1,0 +1,962 @@
+[
+ {
+  "id": 2772,
+  "t": "The World At Your Feet",
+  "o": "Bring two Heavy Mithril Boots and one Ornate Mithril Pants to Trenton Lighthammer.$B",
+  "d": "At last year's All-Valley Blacksmithing Championship, all those who watched saw my leg get swept from under me by a cowardly dog from the Venture Co. Foundry. What they didn't know, however, was the reason I was able to continue and ultimately win the tournament: That's right, ornate mithril boots!$B$BI will need to learn how to craft ornate mithril pants for this year's tournament, however, as a Venture Co. shredder is an entrant! Teach me the way of the pants and learn the way of the boot!",
+  "p": "Have you completed the crafting of the items, $N?",
+  "c": "The world will be at your feet, $N! Let them all come at your legs, for you are now unsweepable!"
+ },
+ {
+  "id": 2773,
+  "t": "The Mithril Kid",
+  "o": "Bring two Heavy Mithril Breastplates and one Ornate Mithril Gloves to Trenton Lighthammer.",
+  "d": "Around these parts I am known as the Mithril Kid. I supply ornate mithril to adventurers from around the world.$B$B<Trenton whispers.>$B$BLittle do they know that I do not know the technique to fashion ornate mithril gloves. Shhhh! This will be our little secret.$B$BTeach me the technique to create ornate mithril gloves, $N, and in exchange, I will show you the resultant of the culmination of my training under Galvan: the ornate mithril breastplate.",
+  "p": "Have you completed the crafting of the items, $N?",
+  "c": "Thank you for all that you have taught me, $N. The master and commander of the ornate mithril set will soon be in your possession.$B$BBehold!"
+ },
+ {
+  "id": 2782,
+  "t": "Rin'ji's Secret",
+  "o": "Oran Snakewrithe, a well known scholar on matters concerning the Witherbark trolls, may be able to decipher the tablet. She is known to reside within the Magic Quarter of the Undercity.",
+  "d": "The tablet is covered with Witherbark troll markings. Rin'ji's secret truly is a mystery... $B$BIt's possible that you might have something quite valuable on your hands here. On the other hand, quite the opposite is also possible. A Witherbark troll in distress would probably do anything to find his way out of trouble...",
+  "p": "Well, now, what is this?",
+  "c": "This tablet... Quite unusual... Where did you find this, $N?"
+ },
+ {
+  "id": 2783,
+  "t": "Petty Squabbles",
+  "o": "Speak with the Fallen Hero of the Horde at the border of the Blasted Lands and the swamp.",
+  "d": "We fight the wrong enemy, $N.$B$BThe true power in these lands continues to grow in strength and number while we squabble over scorched earth with orcs.$B$BDo we continue to fight a war in these lands against the Horde, only to be routed one day by the armies of the Burning Legion? It is futile.$B$BPut your differences aside, $N, speak with the fallen hero of the Horde. He knows the truth behind the Blasted Lands.",
+  "p": "",
+  "c": "The Alliance wishes to assist?$B$BI thought to never see this day again. A day in which the Alliance fights side by side with the Horde against a common enemy.$B$BIt shall be... we will unite."
+ },
+ {
+  "id": 2784,
+  "t": "Fall From Grace",
+  "o": "Listen to the Fallen Hero of the Horde tell his story.",
+  "d": "Hear my story, $r.",
+  "p": "Listen to what I have to say.",
+  "c": "As a spirit, I am powerless, $N. Assist me. Allow me to regain my honor."
+ },
+ {
+  "id": 2801,
+  "t": "A Tale of Sorrow",
+  "o": "Listen to the Fallen Hero of the Horde tell his story.",
+  "d": "Before we may continue, you must hear my story.",
+  "p": "Listen to what I have to say, $N.",
+  "c": "The time to act is now, $N."
+ },
+ {
+  "id": 2821,
+  "t": "The Mark of Quality",
+  "o": "Bring 10 Thick Yeti Hides to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "My philosophy on leatherworking is that the work must be the best quality possible - no compromises.  Anyone who says that quality doesn't matter is trying to sell you ocean-front property in Dun Morogh!$B$BIn my latest pursuit of high-quality materials, I have run across thick yeti hides.  The Yeti are native to Feralas, with many found in Feral Scar Vale.  I want some, and I'll give you a choice of one of my leather goods for a stack of ten.  If that sounds fair to you, then we're in business.",
+  "p": "A stack of ten thick yeti hides will net you a choice of one of my crafted items.  Because I care about quality, I am able to ensure you'll get a good item!$B$BIf you can't seem to find yetis, I know where some might be.  Try looking just inland of the Forgotten Coast, around Feral Scar Vale.",
+  "c": "Did you stop and examine the texture of these hides?  Properly treated, these hides could very well be stronger than iron.  Not many people know about these hides, and that in combination with the vast treating solutions I know will allow me to potentially make items with a true mark of quality... thanks to you, of course!$B$BAnd now, please choose from what I am able to offer you for your service!"
+ },
+ {
+  "id": 2822,
+  "t": "The Mark of Quality",
+  "o": "Bring 10 Thick Yeti Hides to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "I take pride in my leather work, and I feel it shows; quality should never be compromised.  Anyone who says that quality doesn't matter would also have you believe that the earth does not keep secrets!$B$BIn my latest pursuit of high-quality materials, I have discovered thick yeti hides.  Yetis are native to Feralas, often found west of here in Feral Scar Vale.  I'll give you a choice of one of my leather goods for a stack of ten.  If that is agreeable to you, then we are set!",
+  "p": "Were you able to get a stack of ten thick yeti hides? My leather goods are second to none, and I'll share a sampling with you should you have the hides.$b$bIf you can't seem to find yetis, I know where some might be. Try looking west of here, just inland of the Forgotten Coast around the Feral Scar Vale.",
+  "c": "Ah, excellent! These hides, when given a special treatment, are as resilient as iron I tell you! It will take many tries in order to get the right mix down for the tanning, but I am confident they will bring my mark of quality to the next level.$b$bAs for you, $N... your assistance has proven invaluable to me. Please take your choice from these items I have crafted."
+ },
+ {
+  "id": 2841,
+  "t": "Rig Wars",
+  "o": "Retrieve the Rig Blueprints and Thermaplugg's Safe Combination from Gnomeregan and bring them to Nogg in Orgrimmar.$B",
+  "d": "Gnome technology - two years ago its most common use was as a punch line. Times certainly have changed. Now they've got a new rig built that's better than all our shredder models combined. I need the blueprints, $N!$B$BUnfortunately, the plans are locked away in a safe near Mekgineer Thermaplugg. To make matters worse, the combination to the safe is only known by Mekgineer Thermaplugg.$B$BDo whatever you have to do to get that combination, $N. Then crack open that safe and bring back those blueprints!$B",
+  "p": "I don't see any blueprints. Did you hide them somewhere on your body or are you just standing around here to irritate me?$b$b",
+  "c": "I knew you could do it, $N! Sovik on the other hand, he had his doubts.$B$B<Nogg clears his throat.>$B$BNow that we have the blueprints in our possession, it is only a matter of time before we figure out all of the gnomish innovations that went into the creation of the rig and make them goblin innovations for our new shredder models."
+ },
+ {
+  "id": 2842,
+  "t": "Chief Engineer Scooty",
+  "o": "Speak with Scooty in Booty Bay.",
+  "d": "As soon as we got word from Kernobee about the new gnomish rig, Scooty and I began work on the Transpolyporter 6000: The fastest and most reliable way to Gnomeregan.$B$BIt's finally ready for passengers to board, $N. If you want to give it a try, go to Booty Bay and talk with Scooty at the wind rider roost. To get to Booty Bay, take the boat from Ratchet.$B$BOf course, you could always try and make the run to Gnomeregan through the dwarf infested mountains of Dun Morogh!",
+  "p": "",
+  "c": "She's a beauty, isn't she? Pinnacle of goblin transport technology -- only exploded a dozen or so times.$b$bDon't worry, $N, I've got her all fixed up. She won't blow up on you - and if she does, it'll be quick and painless."
+ },
+ {
+  "id": 2843,
+  "t": "Gnomer-gooooone!",
+  "o": "Wait for Scooty to calibrate the Goblin Transponder.",
+  "d": "As long as you have the transponder in your possession, all you need to do is step on the pad and you'll be teleported to Gnomeregan.$B$BYou may experience some unusual side effects, but none of those should be permanent... anymore.$B$BI almost forgot the most important part - getting back. When you're ready to come back, just step on the transpolyporter pad in Gnomeregan!$B$BNow to calibrate the transponder to your size and weight.$B",
+  "p": "It's ready!",
+  "c": "All done! When you're ready, just step on the pad."
+ },
+ {
+  "id": 2844,
+  "t": "The Giant Guardian",
+  "o": "Locate the lost night elf girl.",
+  "d": "I am no good, $N. I was 'spose to be watchin' over my little friend, Shay, and somehow, she got away from me. I'm not all that sure what happened, really, but last time I saw her, we was walkin' through the ruins just north of here.$B$BEverythin' was goin' fine, but then I turned around, and... she was gone.$B$BNow I jus can't quite figure out what I should do here. Got any ideas, $N? I'm awful worried.$B$BHey, how 'bout you go look fer Shay? Yer legs can travel much faster 'n mine.",
+  "p": "",
+  "c": "Oh, I am so glad you found me! I must admit, I am a bit lost... But isn't this a beautiful place?"
+ },
+ {
+  "id": 2845,
+  "t": "Wandering Shay",
+  "o": "Pick up Shay's Bell from the chest.$B$BEscort Shay Leafrunner to Rockbiter's camp.",
+  "d": "Do you think you could help me find my way back to my friend, Rockbiter? He was supposed to be watching me... But I do have a tendency to wander off now and then. There are just so many things to see, and I get so distracted.$B$BThere is one thing that will always work to get my attention, though.$B$BInside this chest, you'll find a bell that is very precious to me. I just love the sound of it. You have my word, if I wander off, all you have to do is ring it and I'll come running back.",
+  "p": "I was gettin' worried 'bout ya! Thank you so much for bringin' Shay home, $N.",
+  "c": "What? You say dis bell will work when Shay runs off? Well, how 'bout that!$B$BSince you did so much fer me, here ya go, $N. "
+ },
+ {
+  "id": 2846,
+  "t": "Tiara of the Deep",
+  "o": "Bring the Tiara of the Deep to Tabetha in Dustwallow Marsh.",
+  "d": "Long ago I possessed a beautiful piece of jewelry, the Tiara of the Deep.  And not only was it pretty--it held great power for those with the knowledge to use it.$B$BSo when word of the tiara reached the Hydromancer Velratha, she had to have it.  She sent agents to my home and they stole it while I was away.  The thieves!$B$BI want my tiara back!  Go to Zul'Farrak, the troll city in Tanaris, find Velratha and wrench the tiara from her.  Return it to me and you'll earn my favor.",
+  "p": "Do you have the tiara, $N?  Has Velratha learned the price of crossing me?",
+  "c": "Wonderful!  You found it!  And what's just as important--Velratha no longer has it!  Thank you, $N.  I am forever in your debt!$B$BAnd if I sounded a little... mean before, pay it no mind.  You'll find me a much nicer person to those who haven't stolen from me."
+ },
+ {
+  "id": 2847,
+  "t": "Wild Leather Armor",
+  "o": "Bring 10 Thick Leather to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "$n, you're becoming quite skilled as a leatherworker!  I know some patterns you might be interested in... Wild Leather armor!  Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there.  The armor made using it is second to none for people of your skill, guaranteed.$B$BI'll teach this to you, but you'll be working for me for a while.  The first cost is simply ten pieces of thick leather.  After this, we'll talk specifics.",
+  "p": "Like I said, you'll be working for me while you learn about Wild Leather armor. Because wildvines are both potent and chaotic, it yields a random but strong benefit to the already strong armor you will be making. This knowledge, however, was not easy for me to come by.$B$BThe initial cost to begin this process is ten pieces of thick leather.$B$BOnce that is done, we'll get to the work you need to do in order to obtain the patterns.",
+  "c": "Well $N, I'm glad to have you on board. You've made a smart decision as a leatherworker; those who wear leather armor will be clamoring to you once you learn how to make any of the Wild Leather armor pieces.$B$BLet's get to work - where do you want to start?"
+ },
+ {
+  "id": 2848,
+  "t": "Wild Leather Shoulders",
+  "o": "Bring 6 Thick Armor Kits and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "Wild Leather shoulders support the wearer's frame extremely well, offering top notch protection of the upper arms and the shoulders themselves.  As with all Wild Leather armor, a potent but random benefit is applied to the item as the wildvine is stitched in.$B$BFor this pattern, I will require six thick armor kits and a wildvine.  That shouldn't be too tall of an order for you to fill.",
+  "p": "Do you have the six thick armor kits and the wildvine I require?$B$BDon't think of making armor kits as monotonous work; the steady fashioning method you develop as you ply your trade on these kits helps develop your skills for the intricate work needed to make Wild Leather armor.$B$BSee - there's a real reason behind what you're making for me...",
+  "c": "These armor kits are of solid quality, $N. If there is one thing I demand in not only my work, but the work of those in my employ, it is quality.$B$BYou've done well to earn this pattern; I hope it brings you the rewards it has brought me."
+ },
+ {
+  "id": 2849,
+  "t": "Wild Leather Vest",
+  "o": "Bring 2 Turtle Scale Breastplates, 2 Turtle Scale Gloves, and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "Wild Leather vests are the staple of any Wild Leather armor set.  The frame of the vest blends with the wildvine to produce a product that offers maximum protection of the torso while allowing for the potent magic to work its way through the garment.$B$BFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine.  It's a tall order, but one you should have little difficulty in filling for me.",
+  "p": "Do you have the two Turtle Scale breastplates and gloves I ordered? Also, don't forget the wildvine!$B$BEven with the earliest patterns, we learn that the fundamentals of shape translate well into more difficult garments. Though different items, the shape of the Turtle Scale breastplates prepares you for the detailing needed to make a Wild Leather vest.$B$BAnd the gloves... well, they're just for my own benefit. Remember, you're working for me!",
+  "c": "These are some very nice pieces here, $N. The craftsmanship and care put in to making these alone would fetch several silver more than the average piece made.$B$BYou've filled my order, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!"
+ },
+ {
+  "id": 2850,
+  "t": "Wild Leather Helmet",
+  "o": "Bring 2 Nightscape Tunics, 2 Nightscape Headbands, and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort.  As with all Wild Leather armor, the integrated wildvine yields a powerful but random enhancement to the frame of the helm.  Leather wearers will definitely want this piece!$B$BFor this pattern, I will need two Nightscape tunics, two Nightscape headbands, and a wildvine.  Complete this order and the pattern will be yours!",
+  "p": "I need those tunics and headbands made, and I also need that piece of wildvine before I will share with you the knowledge of Wild Leather helmets.$B$BHead gear is highly coveted amongst adventurers, whether it be a disarmingly simple headband or a full-covering helmet. The fundamentals of creating valued head gear remain constant, no matter what the cosmetic appearance of the gear is.",
+  "c": "This Nightscape equipment you have supplied fills the order perfectly, $N. I expect no less from a leatherworker of your caliber.$B$BYou have definitely earned this pattern. I give it to you freely, and hope you will profit from it accordingly."
+ },
+ {
+  "id": 2851,
+  "t": "Wild Leather Boots",
+  "o": "Bring 2 Nightscape Pants, 2 Nightscape Boots, and 2 Wildvines to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "You've learned quite a bit now, $n; still, there is more for you to learn.  Next are Wild Leather boots, the cornerstone of any set.$B$BThese boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring.  The soft soles are a blessing to those seeking quiet movement in footwear.$B$BFor this pattern, I need an order of two Nightscape pants and two Nightscape boots filled.  I also will require two wildvines... not just one.  When you have all this, let me know.",
+  "p": "The order on the pants, boots, and wildvines needs to be filled before you get the pattern, $N. Are you finished?$B$BFrom the earliest pair of boots we learn how to make, we start to understand that a quality boot needs to ride a razor's edge between comfort and function. With both, we are able to create items that allow the wearer to ignore fatigue that would cripple those wearing lower quality goods.",
+  "c": "Once again, you've filled a complex order with the skill of a seasoned professional. You have earned this pattern, as well as my thanks."
+ },
+ {
+  "id": 2852,
+  "t": "Wild Leather Leggings",
+  "o": "Bring 2 Turtle Scale Helms, 2 Turtle Scale Bracers, and 2 Wildvines to Pratt McGrubben in Feathermoon Stronghold.",
+  "d": "With the basics down, you are ready to master more complex fare, $n.  Wild Leather leggings are some of the sturdiest and powerful leather gear around.  The waist, thighs, calves, and the vitals - all are given tremendous protection.  Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.$B$BFor this pattern, I need an order of two Turtle Scale helms, two Turtle Scale bracers, and two wildvines filled.",
+  "p": "Do you have the Turtle Scale bracers and helms ready? Don't forget the two wildvines I need!$B$BBy now, you're starting to realize the potential power that lies in Wild Leather armor. An armor that has no boundaries in application is nearly invaluable to a leatherworker. The limits are only in the quantities of resources to make the items - not the quality of the finished products!",
+  "c": "Again, you've filled an order without flaw. Perhaps some day I will come to YOU seeking knowledge, eh $N?$B$BHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!"
+ },
+ {
+  "id": 2853,
+  "t": "Master of the Wild Leather",
+  "o": "Give Pratt's Letter to Telonis, the master leatherworker of Darnassus.",
+  "d": "Well $n, you are the definition of diligence.  There is one pattern left for Wild Leather armor; you've mastered the others.  I won't require you to toil needlessly for the pattern.  You've earned it outright, and then some... but I cannot give it to you myself.  My teacher, the one who brought me into the craft, is the one who must reward you.$B$BTake this letter to Telonis; he teaches leatherworking in Darnassus.  Show him the letter, and let him acknowledge you as an equal, as I do.",
+  "p": "Greetings, $R... from your countenance I can tell you are a leatherworker as am I. Have you come to draw from my skills, or perhaps you have other business with me?",
+  "c": "Ah yes, Pratt sent you. Though he is a human, he reminds me of us night elves sometimes. His dedication and his talents with leather are impressive. For him to compliment you so in this letter, it is a sign of respect I acknowledge.$B$BI am aware that he has taught you the art of Wild Leather. Allow me to finish your training with this pattern. Make good use of it; few in the world know the secrets of Wild Leather cloaks."
+ },
+ {
+  "id": 2854,
+  "t": "Wild Leather Armor",
+  "o": "Bring 10 Thick Leather to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "$n, your skill as a leatherworker precedes you.  I possess leatherworking lore you would be wise to acquire... Wild Leather armor!  Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there.  Armor made using it is second to none for a crafter of your skill, guaranteed.$B$BI'll teach you, but you'll be working for me for a while.  The first cost is simply ten pieces of thick leather.  After this, we'll talk specifics.",
+  "p": "We must be clear; you shall be apprenticed to me while you learn the art of Wild Leather armor. Because wildvines are both potent and chaotic, it yields a random but strong benefit to the already strong armor you will be making. This knowledge, however, was not easy for me to acquire.$b$bThe initial cost to begin this process is ten pieces of thick leather.$b$bOnce that is done, we'll get to the work you need to do in order to obtain the patterns.",
+  "c": "Well $N, I'm glad to have you on board as my apprentice. You've made a wise decision as a leatherworker; those who make use of leather armor will be clamoring to you once you learn how to master the art of Wild Leather.$b$bLet's get to work - where do you want to start?"
+ },
+ {
+  "id": 2855,
+  "t": "Wild Leather Shoulders",
+  "o": "Bring 6 Thick Armor Kits and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "Wild Leather shoulders support a wearer's frame extremely well, offering superior protection of the upper arms as well as the shoulders.  As with all Wild Leather armor, a random yet very potent enhancement is imbued within the item as the wildvine is stitched in.$B$BFor this pattern, I will require six thick armor kits and a wildvine.  That shouldn't be too tall of an order for you to fill.",
+  "p": "Do you have the six thick armor kits and the wildvine I require?$b$bThink of making armor kits as a lesson in steady and reliable crafting; the consistent fashioning method you develop as you ply your trade on these kits helps develop your skills for the intricate work needed to make Wild Leather armors.$b$bEvery lesson has a purpose, $N. It is important to embrace each one accordingly.",
+  "c": "These armor kits are of solid quality, $N. If there is one thing I demand in not only my work, but in the work of those I give tutelage to, it is quality.$b$bYou've done well to earn this pattern; I hope it brings you the rewards it has brought me."
+ },
+ {
+  "id": 2856,
+  "t": "Wild Leather Vest",
+  "o": "Bring 2 Turtle Scale Breastplates, 2 Turtle Scale Gloves, and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "Wild Leather vests are the staple of any Wild Leather armor set.  The frame of the vest and the wildvine weave within it produces a product that offers maximum protection of the torso while allowing for potent magic to work its way through the garment.$B$BFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine.  This is not an easy lesson, but it is one you certainly have the skill to complete.",
+  "p": "Do you have the two Turtle Scale breastplates and gloves? Also, don't forget the wildvine!$b$bEven with the earliest patterns, we learn that the fundamentals of shape translate well into more difficult garments. Though different items, the shape of the Turtle Scale breastplates prepares you for the detailing needed to make a Wild Leather vest.$b$bAs you progress through your lessons, the skills I teach will become as art.",
+  "c": "These are some very nice pieces here, $N. The craftsmanship and care put in to making these show you have chosen to dedicate yourself fully to these tasks.$b$bYou've met my requests, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!"
+ },
+ {
+  "id": 2857,
+  "t": "Wild Leather Helmet",
+  "o": "Bring 2 Nightscape Tunics, 2 Nightscape Headbands, and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort.  As with all Wild Leather armor, the integrated wildvine yields a powerful but random magic imbuement to the helm's frame.  Leather wearers will definitely want this piece!$B$BFor this pattern, I will need two Nightscape tunics, 2 Nightscape headbands, and a wildvine.  Complete this lesson and the pattern will be yours!",
+  "p": "I need those tunics and headbands made, and I also need that piece of wildvine before I will share with you the knowledge of Wild Leather helmets.$b$bHead gear is highly coveted amongst adventurers, whether it be a disarmingly simple headband or a full-covering helmet. The fundamentals of creating valued head gear remain constant, no matter what the cosmetic appearance of the gear is.",
+  "c": "This Nightscape equipment you have supplied perfectly meets the requirements I have given to you, $N. I expect no less from a leatherworker of your caliber.$b$bYou have earned the honor of crafting Wild Leather helmets. I give this pattern to you freely, and hope you will profit from it accordingly."
+ },
+ {
+  "id": 2858,
+  "t": "Wild Leather Boots",
+  "o": "Bring 2 Nightscape Pants, 2 Nightscape Boots, and 2 Wildvines to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "Your knowledge of Wild Leather armor grows, $n; still, there is more for you to learn.$B$BWild Leather boots are the cornerstone of any set.  Such boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring.  The soft soles are a blessing to those seeking quiet movement in footwear.$B$BFor this pattern, I need two Nightscape pants and two Nightscape boots crafted.  I also will require two wildvines... not just one.  When you have these items, we will proceed.",
+  "p": "The pants, boots, and wildvines need to be delivered to me before you learn the pattern, $N. Have you done as I asked?$b$bFrom the earliest pair of boots we learn how to make, we start to understand that a quality boot needs to ride a razor's edge between comfort and function. With both, we are able to create items that allow the wearer to ignore fatigue that would cripple those wearing lower quality goods.",
+  "c": "Once again, you have produced items with the skill of a seasoned professional. You have earned this pattern, as well as my congratulations."
+ },
+ {
+  "id": 2859,
+  "t": "Wild Leather Leggings",
+  "o": "Bring 2 Turtle Scale Helms, 2 Turtle Scale Bracers, and 2 Wildvines to Jangdor Swiftstrider in Camp Mojache.",
+  "d": "You are ready to master more complex lessons, $n.  Wild Leather leggings are some of the sturdiest and powerful leather gear around.  The waist, thighs, calves, and the vitals - all are given tremendous protection.  Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.$B$BFor you to gain this pattern, I need two Turtle Scale helms, two Turtle Scale bracers, and two wildvines.",
+  "p": "Do you have the Turtle Scale bracers and helms ready? Don't forget the two wildvines I require.$b$bBy now, you're starting to realize the potential power that lies in Wild Leather armor. An armor that has no boundaries in application is nearly invaluable to a leatherworker. The limits are only in the quantities of resources to make the items - not the quality of the finished products!",
+  "c": "Again, you've completed my task without flaw. Perhaps some day I will come to YOU seeking knowledge, eh $N?$b$bHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!"
+ },
+ {
+  "id": 2860,
+  "t": "Master of the Wild Leather",
+  "o": "Give Jangdor's Letter to Una, the master leatherworker of Thunder Bluff.",
+  "d": "$n, you have learned all I am able to teach you.  There is, however, one remaining pattern for Wild Leather armor.  I will not require you to toil needlessly for this; you've earned it outright, and then some.  This pattern, however, is one that I cannot freely share with you.$B$BMy teacher, the one who brought me into the craft, is the one who must reward you.  Take this note to Una; she teaches leatherworking in Thunder Bluff.  Show her the letter, and let her acknowledge you as an equal, as I do.",
+  "p": "Greetings, $r... from your countenance I can tell you are a leatherworker as am I. Have you come to draw from my skills, or perhaps you have other business with me?",
+  "c": "Ah yes, Jangdor sent you. I am pleased to see that one of my finest students now has a student of his own.$b$bHis dedication and his talents with leather are impressive. For him to compliment you so in this letter, it is a sign of respect I acknowledge.$b$bI am aware that he has taught you the art of Wild Leather. Allow me to finish your training with this pattern. Make good use of it; few in the world know the secrets of Wild Leather cloaks."
+ },
+ {
+  "id": 2861,
+  "t": "Tabetha's Task",
+  "o": "Speak with Tabetha in Dustwallow Marsh.",
+  "d": "Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak.  If you speak with Tabetha she can tell you more.$B$BAnd bring some friends with you, $N.  If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.$B$BYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",
+  "p": "",
+  "c": "That's right. I do have a bone to pick with a troll. A few bones. All her bones!$b$bWant to help me?"
+ },
+ {
+  "id": 2862,
+  "t": "War on the Woodpaw",
+  "o": "Bring 10 Woodpaw Gnoll Manes to Hadoken Swiftstrider in Camp Mojache.",
+  "d": "The gnolls... they are more than a nuisance.  They are a constant threat to the existence of this very camp!  It is irrelevant whether they are indigenous to Feralas or not; if we do not strengthen our resolve against them, we will find ourselves driven out of the entire region.$B$BThe gnoll attacks against the camp have become more fevered as of late.  We need your aid in thinning their numbers; bring to me ten of their manes, and I will reward you handsomely for your effort.$B$BGo!",
+  "p": "We drive them back, and yet they still attack! Someone or something must be driving them into a frenzy... oh, you have returned, eh $N? Do you have the manes I require for the bounty to be met?",
+  "c": "This is proof of a good start, $N. Your skills as a soldier are to be commended.$B$BYou are not the only one I ask that task of. Many before you have fought them, and in times past our efforts have kept them at bay. Recently though, their attempts to push northward into our area of influence have increased dramatically. Their attacks have also become more savage... almost as if they were desperate.$B$BI have a plan though, $N, that might settle things once and for all against them..."
+ },
+ {
+  "id": 2863,
+  "t": "Alpha Strike",
+  "o": "Kill 5 Woodpaw Alphas and return to Hadoken Swiftstrider within one hour.",
+  "d": "The plan is for various leaders of the gnolls - Alphas as they call themselves - to be taken down within rapid succession.  If we're able to execute this sort of swift and precise devastation against them, it would cause chaos in their ranks.  Perhaps it would also drive a message through their thick flea-bitten heads that we can and will destroy them!$B$BI want you to be the messenger of my will; eliminate five of their Alphas within one hour for this to work $N, or we'll remain at this impasse!",
+  "p": "Time is running out, $N! If you're not here to report that you've taken out the Alphas, then you're wasting time!",
+  "c": "You've done as I have asked, and for that I salute you. Take this small reward as compensation for your efforts, $N.$B$BWith their numbers thinned and their leaders slain, the gnolls will think twice about storming the camp. This doesn't conclude the issue at hand, however...$B$BThere must be some reason why the gnolls have been whipped into such a frenzied state. Before they have a chance to regroup though, I want to find out what is causing it."
+ },
+ {
+  "id": 2866,
+  "t": "The Ruins of Solarsal",
+  "o": "Explore the Ruins of Solarsal and investigate the presence of the naga there.",
+  "d": "To our south are the Ruins of Solarsal; this is an area that far pre-dates modern times.  We explored the ruins initially and found nothing of note; as such, we left it in peace.$B$BVery recently, the Hatecrest naga have occupied these ruins in alarming numbers.  At first, we considered it as the precursor for an attack.  Though that threat is still possible, we believe there might be something else going on.$B$BGo there, explore the ruins, and look for anything that stands out to you. Good luck, $n.",
+  "p": "",
+  "c": "Examining the gazebo reveals some interesting and unusual things in contrast to the surrounding ruins.$B$BFirst, the gazebo is clearly a more recent construction than the other objects in the ruins.  Second, the gazebo has a small series of glyphs engraved into the sides of it; the glyphs repeat in their pattern, but it otherwise is unknown in origin and meaning.  Third, the stone of the gazebo itself is warm to the touch.$B$BThis certainly quantifies as \"standing out\" in the search of the ruins!"
+ },
+ {
+  "id": 2867,
+  "t": "Return to Feathermoon Stronghold",
+  "o": "Return to Shandris Feathermoon in the Feathermoon Stronghold and report your findings.",
+  "d": "With the discovery of the strange gazebo in the heart of the Ruins of Solarsal, the time has come to return to Feathermoon Stronghold and report to General Shandris Feathermoon what has been discovered here.",
+  "p": "",
+  "c": "Welcome back, $N.  Your report on this gazebo is most... disturbing.  It would seem that even if the naga there were not planning on an attack, their continued presence bodes ill for our push into Feralas.  At any rate, here is compensation for your investigation.$B$BIt would seem that Feathermoon Stronghold is in dire need of additional assistance concerning the Hatecrest naga.  I'd like to offer you the task, if you are so inclined.  There is much to do."
+ },
+ {
+  "id": 2868,
+  "t": "<TXT> The Shriveled Heart",
+  "o": "",
+  "d": "Turn this badboy into some troll tomb in the Sunken Temple,and get something cool!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 2869,
+  "t": "Against the Hatecrest",
+  "o": "Bring 10 Hatecrest Naga Scales to Latronicus Moonspear in Feathermoon Stronghold.",
+  "d": "The best course of action at this point is to assume that, regardless of what the naga are up to, they will eventually move to secure the island for their own.  We need to take aggressive steps to counter that threat before it is too late.$B$BBring me ten Hatecrest Scales that are in good condition; it should be obvious to you how to acquire them.  You'll cut your teeth on the naga for the first time, and we'll have a weakened naga presence on Sardor Isle - both are prospects that play to our advantage.",
+  "p": "$N, if you're here to verify the task given to you, then excellent - it is ten Hatecrest scales I seek.  If you are here for chit-chat, then I am currently unavailable for such trivialities.$B$BKnow this - we night elves are not warmongers.  Our race is dedicated to the preservation of peace and harmony.  This does not mean, however, that we will not proactively protect our own interests.  This is my duty to General Feathermoon, and to the stronghold.",
+  "c": "Yes, yes, these scales are more than satisfactory.  Actually, I think I will send these down to Pratt for him to take a look at.  Maybe he can craft something useful out of them.$B$BAs for you, I have another mission I want to send you on.  But first, here is your bounty for the scales.  Your continued service to the General and Feathermoon Stronghold at large is a blessing in the face of adversity."
+ },
+ {
+  "id": 2870,
+  "t": "Against Lord Shalzaru",
+  "o": "Eliminate Lord Shalzaru, and then bring the Mysterious Relic he uncovered to Latronicus Moonspear in Feathermoon Stronghold.",
+  "d": "$n, new scouting reports have given us a good idea on the naga chain of command.  Royalty is present amongst their rank and file, and they're the ones calling all the shots.$B$BSpecifically, we've identified one of the crueler royals as Lord Shalzaru.  Scouts report that he himself has uncovered an odd relic during a recent naga excavation in a cave south of the main ruins, across the water on the Isle of Dread.$B$BPut a stop to it by putting a stop to him, and bring me his relic so we can study it.",
+  "p": "Bringing down Lord Shalzaru would certainly set their plans back weeks, if not months.  On top of that, the relic he uncovered is of definite interest to us.$B$BHave you performed the mission given to you, $N?",
+  "c": "Well played, $N! Lord Shalzaru's demise will throw the naga into disarray for some time, if not permanently.  The threat they pose is now under more of our control than it has ever been, and we have you to thank for it.$B$BHere is more bounty money from the stronghold treasury - you've earned every copper.  You and yours are welcome in Feathermoon Stronghold anytime, my friend.$B$BOne more thing before you depart, $N... if you could..."
+ },
+ {
+  "id": 2871,
+  "t": "Delivering the Relic",
+  "o": "Deliver the Mysterious Relic to Vestia Moonspear in Feathermoon Stronghold.",
+  "d": "If you would be so kind as to deliver the relic to my wife Vestia, I would appreciate it.  She's not only a fine priestess for our community, but she is one of the most well-versed scholars you'll find anywhere.  I couldn't make heads or tails of this device even if there was a wager involved.  My wife though, if anyone can figure out what this thing is, she could... and we need to know!$B$BShe's just around the bend, no doubt studying.  Thanks, $n.",
+  "p": "Yes, may I assist you?$B$BHold on, you're the $C that has been helping General Feathermoon and Latro out with the naga threat, yes?  I'm Vestia, Latro's - erm, rather, Latronicus' wife.  It is a pleasure to meet you!$B$BI'm sorry, you're here on business, of course.  Do you have something for me - from him, perchance?",
+  "c": "Interesting... this came from the Ruins of Solarsal, you say?  Well, Latro's right that I need to look at this.  At first glance, it seems non-indigenous to the ruins.  Then again, this isn't of naga design... not something as alien as this.$B$BIt is going to take some time to research this item.  Once my research on it is done, maybe I will make use of your talents, should you be around.$B$BHere, take one of these extra items we have; I hope you'll find some use for it!"
+ },
+ {
+  "id": 2872,
+  "t": "Stoley's Debt",
+  "o": "Speak with Stoley in Steamwheedle Port.",
+  "d": "My old buddy Stoley owes me a very special bottle of rum.  He tends the bar at Steamwheedle Port in Tanaris, Kalimdor,  and he promised me that the rum there is stronger than anything we can find in Booty Bay.  He's so confident that he says if I try that rum and don't agree with him, then he'll double the money he owes me!$B$BWell, I think he's not as confident as he was when last we spoke, and now he's afraid to give me that rum.  But I don't back down from wagers, so why don't you talk to him for me...",
+  "p": "",
+  "c": "Ah, so you've been speaking with MacKinley, have you?$B$BIt's not what he thinks!  I'm not afraid to give him some Steamwheedle Bilge Rum...$B$BI just don't have any rum to give him!"
+ },
+ {
+  "id": 2873,
+  "t": "Stoley's Shipment",
+  "o": "Bring Stoley's Shipment to Stoley in Steamwheedle Port.",
+  "d": "I owe \"Sea Wolf\" MacKinley in Booty Bay some rum, to settle a bet, but I'm all out of rum!  Captain Cuergo stole my last shipment, and he has it stowed in that walled pirate town to the south.$B$BIf you can find my shipment of rum and return it to me, then I can prove to MacKinley that Kalimdor's booze beats the dirt out of Booty Bay!",
+  "p": "Did you find my shipment of rum, $N?",
+  "c": "Great, thanks for the shipment!  Now MacKinley and I can finally settle our wager."
+ },
+ {
+  "id": 2876,
+  "t": "Ship Schedules",
+  "o": "Report the Ship Schedules to an authority in Steamwheedle Port.",
+  "d": "This scroll contains the schedules of shipments between Steamwheedle Port and Booty Bay. Both past and future shipments are included, along with ship names, with large 'X's next to some ships' journeys, and annotations like \"GREAT LOOT\" and \"HARD FIGHT\" next to others.$B$BSomeone at Steamwheedle Port would want to see this document.",
+  "p": "You look out of breath.  You have something to tell me?",
+  "c": "Oh my, this looks to be a list of ship departures and arrivals, with accurate dates and times and everything!  If the captain of a pirate ship got his hands on this, he could have himself a field day!$B$BYou say you got this from a pirate?  Well that's disturbing news...$B$BThank you, $N.  I'm glad you took it from him, and I'm glad that pirate's eating dirt right now!"
+ },
+ {
+  "id": 2877,
+  "t": "Skulk Rock Clean-up",
+  "o": "Kill 10 Green Sludges and 10 Jade Oozes, and then report back to Fraggar Thundermantle in Aerie Peak.",
+  "d": "We Wildhammers remember the past, more than our brothers in Ironforge.  If you want to make friends here, then you get your hands dirty for us!$B$BThe Horde abandoned their positions in the Hinterlands around Skulk Rock; it's now overrun with nasty sludges and oozes.  We've got plans on that area, but first we need a clean-up crew to make a hole for us.$B$BThat's where you come in, Sunshine!  Head down there and take out ten green sludges and ten jade oozes, then report back to me here.  Move out!",
+  "p": "Make no effort to negotiate the mission at hand, $r!  If the gods had wanted those oozes killed, they would have miracled it done by now, wouldn't they?!",
+  "c": "Well look at you, helping out the Wildhammers!  You're a $c of action, and action is what we respect around here.$B$BYour little clean-up mission is a lot more important than you might think it is.  With folks thinning out the oozes and sludges, we'll be able to extend our sphere of influence in no time. Here - have a little something in addition to just making new friends here in Aerie Peak!"
+ },
+ {
+  "id": 2878,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 2879,
+  "t": "The Stave of Equinex",
+  "o": "Energize Troyas' Stave and find the Equinex Monolith.",
+  "d": "This stave might be the Stave of Equinex! The Stave of Equinex is actually a key, used to unlock the Equinex Monolith in the Ruins of Ravenwind, on the mainland west of the Dream Bough.$B$BFind the four flames that still burn in those ruins: Samha, Imbel, Byltan, and Lahassa. Retrieve their essence and then while standing by the Equinex Monolith, use the essences to energize the stave. If this is truly is the Stave of Equinex, you will be able to unlock the Monolith and gather a sacred artifact from it.",
+  "p": "The Equinex Monolith stands silently among the ruins. What could it be holding?",
+  "c": "Holding the energized stave is almost impossible. Its power rumbles through your body.$B$BYou reach out to the cold surface of the Equinex Monolith...$B$BA small door opens, allowing you to reach in and take the artifact inside.$B$BBeams of light fill the area around the Equinex Monolith."
+ },
+ {
+  "id": 2880,
+  "t": "Troll Necklace Bounty",
+  "o": "Bring 5 Troll Tribal Necklaces to Fraggar Thundermantle in Aerie Peak.",
+  "d": "Get this straight, $r - we are NOT part of the Alliance!  The Wildhammers are independent, relying on deeds and actions to prove one's worth, rather than the blather of those who use jibber-jabber to bolster their do-nothing attitudes!$B$BIf you're looking for friends here, then prove your worth to us first!  The foul trolls that choke the hillsides of the Hinterlands sometimes carry tribal necklaces.  Bring five of them to me, and we'll mark it down as a step in the right direction for you.",
+  "p": "I want five of those tribal necklaces the trolls carry on them.  If you need it spelled out further, then killing one of them stands you a good chance of getting one!$B$BProve your worth to the Wildhammers!",
+  "c": "Now that's what I am talking about!  See - these necklaces prove that you're willing to get your hands dirty.  We Wildhammers value that in those we associate with.$B$BYou keep this up, and you'll be in our good graces yet."
+ },
+ {
+  "id": 2881,
+  "t": "Troll Necklace Bounty",
+  "o": "",
+  "d": "",
+  "p": "I want five of those tribal necklaces the trolls carry on them. If you need it spelled out further, then killing one of them stands you a good chance of getting one!$B$BProve your worth to the Wildhammers!",
+  "c": "Now that's what I am talking about! See - these necklaces prove that you're willing to get your hands dirty. We Wildhammers value that in those we associate with.$B$BYou keep this up, and you'll be in our good graces yet."
+ },
+ {
+  "id": 2882,
+  "t": "Cuergo's Gold",
+  "o": "Find Cuergo's gold!",
+  "d": "This map shows a stretch of beach with a southern face.  Below the map are words, elegantly written...$B$B$BSouth of Wheedle$BSouth of home$BFind a mast and flag and bones$BDig you there, if you be bold$BDig and claim Cuergo's gold!$BA key you'll need and a key you'll see$BThe men you face take blood as fee.",
+  "p": "This chest is locked!",
+  "c": "Captain Cuergo's hidden treasure awaits!"
+ },
+ {
+  "id": 2902,
+  "t": "Woodpaw Investigation",
+  "o": "Find the gnoll battle plans somewhere in the gnoll camps to the south of Camp Mojache.",
+  "d": "Gnolls aren't the sharpest tools in the shed, but they will no doubt have some sort of documented strategy on their recent activity.  If we were to find those plans, then we'd have a clearer idea of what is making them so worked up.$B$BI want you to head back to the Woodpaw and find anything that might resemble their battle plans.  They have to have something; their attacks have been too coordinated to be done without them.  Find them, and return to me when you have them.",
+  "p": "",
+  "c": "Examining the map reveals it to be the battle plans that Hadoken Swiftstrider wants. Numerous arrows that perhaps represent troop movements are drawn on the map, though most seem to be headed toward the south rather than to the north where Camp Mojache lies.$B$BAnother section of the map has a picture of what you think is a large insect of some kind, with various tick marks under it. From the looks of the gnolls, it perhaps represents their losses against the unknown bugs..."
+ },
+ {
+  "id": 2903,
+  "t": "The Battle Plans",
+  "o": "Bring the Woodpaw Battle Plans to Hadoken Swiftstrider in Camp Mojache.",
+  "d": "With the battle plans of the gnolls discovered, all that now remains is to bring the plans back to Hadoken Swiftstrider in Camp Mojache.  Perhaps he or someone there can make further sense of what the gnolls are up to.",
+  "p": "Welcome back $N - were you able to find some tangible evidence as to the plans of the gnolls?",
+  "c": "Ah, this is exactly what we needed. While I am not so skilled at ciphering what most of the scrawling on this map is, I've seen enough battle plans in my day to understand what is happening with the gnolls. It looks like they are currently fighting a two front war. One is with us... but it seems that their main energy has been against a foe to their south.$B$BThere's more at hand here than meets the eye. Perhaps it is time to figure out who this other foe they face really is."
+ },
+ {
+  "id": 2904,
+  "t": "A Fine Mess",
+  "o": "Escort Kernobee to the Clockwerk Run exit and then report to Scooty in Booty Bay.",
+  "d": "<Kernobee groans.> Wha.. What happened?$B$BThe last thing I remember is being captured by a group of dark iron dwarves, beaten to within an inch of my life and then thrown in here with these filthy troggs.$B$BGet me out of here, $N!$B$BHere's the plan: Lead me to the exit; if we make it out alive, you go to Booty Bay and let Scooty know that I went to Ratchet to warn Tinkerwiz of the dark iron's involvement in the making of that super rig.$B$BLet's get going!",
+  "p": "Eh? Kernobee is alive??",
+  "c": "I suppose you should be rewarded for bringing Kernobee back to us in one piece, $N. If you go back to Gnomeregan, these might give you the edge you'll need in defeating that good-for-nothing backstabber, Mekgineer Thermaplugg."
+ },
+ {
+  "id": 2922,
+  "t": "Save Techbot's Brain!",
+  "o": "Bring Techbot's Memory Core to Tinkmaster Overspark in Ironforge.",
+  "d": "When our beloved city Gnomeregan fell, a rogue spark must have jolted my poor creation, Techbot.  It once aided me and my associates with its countless gizmos and limitless store of information, but its positronic brain has polarized.  Now it's negatronic... and Techbot's behaviors are reversed.  It roams Gnomeregan in a frenzy!$B$BBut perhaps it can be salvaged.  Perhaps, if you can retrieve Techbot's memory core and bring it to me, I can discover the cause of the polarization and fix my poor Techbot.$B$B",
+  "p": "Did you find Techbot?  Did you retrieve its memory core??",
+  "c": "Oh, this is wonderful!  Thank you, $N!  I'll get to work immediately!!$B$BPoor, poor Techbot... Don't feel bad.  We'll get you fixed.$B$BNow, where did I put that plug for my hydro-jack swivel spanner..."
+ },
+ {
+  "id": 2923,
+  "t": "Tinkmaster Overspark",
+  "o": "Speak with Tinkmaster Overspark in Ironforge.",
+  "d": "Tinkmaster Overspark is very upset with the fate of his mechanical creation, Techbot.  I remember Techbot as a kind and helpful tool for the gnomes, but Overspark tells me it's malfunctioned.$B$BVery sad.  But with luck perhaps he can be fixed!$B$BSpeak with Tinkmaster Overspark, in Tinker Town in Ironforge.  He would welcome your help.",
+  "p": "",
+  "c": "Yes it's true. Techbot has gone $c! Please, can you help me?"
+ },
+ {
+  "id": 2924,
+  "t": "Essential Artificials",
+  "o": "Bring 12 Essential Artificials to Klockmort Spannerspan in Ironforge.",
+  "d": "A nigh-universal mechanical component--the essential artificial--was of great use to the tinkers and smiths of Gnomeregan.  But during the frantic exodus from our city, no one remembered to take any of these devices with them!  And I need a large supply of them for work I will soon undertake.$B$BPlease, go into Gnomeregan and get me some essential artificials.  You'll find them in the deeper areas of our city, held in containers called artificial extrapolators.$B$BThank you, $N, and please hurry!",
+  "p": "Do you have the essential artificials?",
+  "c": "You got them!  Now I can begin my new experiments!$B$BI can't thank you enough, $N!  Your bravery has advanced gnomish research by a leap and a bound!"
+ },
+ {
+  "id": 2925,
+  "t": "Klockmort's Essentials",
+  "o": "Speak with Klockmort Spannerspan in Ironforge.",
+  "d": "A gnome friend, Klockmort Spannerspan, sent word to me from Ironforge.  He tells me he needs help on a dangerous, but essential, mission into Gnomeregan, the once great gnome city now contaminated and filled with mad gnomes and their devices.$B$BI must stay here, but my heart aches to help my friend.  If you can go in my stead, then I would be much indebted to you.$B$BYou may find Klockmort in Tinkertown, in Ironforge.",
+  "p": "",
+  "c": "I do!  I do need help with a mission into Gnomeregan.  And you're just the $c to do it!"
+ },
+ {
+  "id": 2926,
+  "t": "Gnogaine",
+  "o": "Use the Empty Leaden Collection Phial on Irradiated Invaders or Irradiated Pillagers to collect radioactive fallout. Once it is full, take it back to Ozzie Togglevolt in Kharanos.",
+  "d": "Since the accident, all Gnoarn thinks about or talks about is cleansing Gnomeregan of the trogg infestation and finding a cure for the sickness that plagues it, $N.$B$BLuckily, Razzle and I are close to some kind of cure - either that or the recipe for a really powerful rum. We won't know until we test! Naturally, in order to test our theory, we're going to need a few things; namely, fallout from the irradiated troggs in Gnomeregan. Fill up this phial with the green glow and bring it back!",
+  "p": "Can't you see we're trying to cure an entire species of gnomes here??! We need more of the green glow!",
+  "c": "Excellent work! The time has come to test the new formula. If this works, not only should that captured leper gnome be cured, but I should have a full head of hair! Stand back!"
+ },
+ {
+  "id": 2927,
+  "t": "The Day After",
+  "o": "Speak with Ozzie Togglevolt at Kharanos in Dun Morogh.",
+  "d": "You don't think I was always bald, do you? No $g sir:ma'am;! It was the radiation leak in Gnomeregan that caused this tragic hair loss. Before that day, I had the only gnomefro in all of Azeroth.$B$B<Gnoarn shakes his fist in the air.>$B$BDamn those damned dirty troggs - damn them all!!$B$BPerhaps it's not too late, $N. We may still be able to save it - the city I mean! Speak to Ozzie Togglevolt in Kharanos. He and his partner Razzle are working on a solution.",
+  "p": "",
+  "c": "I thought the loss of that outstanding head of hair would have been the end of him for sure, but he survived!$B$BI was standing right next to him when he was hit by the radiation bolt. Those delightful brown locks of hair hit the floor in clumps! Clusters! The horror of it all was only compounded when Gnoarn completely freaked out! Oh yes, freaked out I say! Gnoarn touched his bald head in disbelief, the look in his eyes screamed revenge, $N! Then he turned his anger towards the troggs!$B$B<Ozzie cringes.>"
+ },
+ {
+  "id": 2928,
+  "t": "Gyrodrillmatic Excavationators",
+  "o": "Bring twenty-four Robo-mechanical Guts to Shoni in Stormwind.",
+  "d": "It's terrible, $N. We are not going to have enough parts to get our fleet of gyrodrillmatic excavationators to Dun Morogh.$B$BWhat we need are spare parts, $N. What better place to get the spare parts for our vehicles than Gnomeregan? I hear that bots and mechs roam around that place like cattle on an open range.$B$BWhat I need you to do is go to Gnomeregan and tear apart those robots. Bring me back their robot guts. Two dozen should be sufficient.$B",
+  "p": "If this were a race, you would have lost by now.",
+  "c": "This will do nicely, $N. One gyrodrillmatic excavationator fixed; 398 left to go."
+ },
+ {
+  "id": 2929,
+  "t": "The Grand Betrayal",
+  "o": "Venture to Gnomeregan and kill Mekgineer Thermaplugg. Return to High Tinker Mekkatorque when the task is complete.",
+  "d": "I trusted Thermaplugg, $r. Never did I expect that he would betray me and the entire gnomish people. And for what? Power? Wealth? All things that he would have had in time. Now we have been displaced from our home and that madman is in charge. The king of nothing....$B$BWe will retake Gnomeregan, $N. We will not stop until the city is back in our control. If you wish to join in our fight, a simple task I ask of you: Kill the betrayer. Destroy Mekgineer Thermaplugg.",
+  "p": "Is the task complete? Did he beg for lenience? For mercy??",
+  "c": "I like to think that the last thing that went through his head as he collapsed to the ground was your foot, $R. With Thermaplugg dead, our plans to retake Gnomeregan are one step closer to becoming a reality."
+ },
+ {
+  "id": 2930,
+  "t": "Data Rescue",
+  "o": "Bring a Prismatic Punch Card to Master Mechanic Castpipe in Ironforge.",
+  "d": "When we fled Gnomeregan, we left so much data behind!  Vitally important data!$B$BI need the data on a prismatic punch card, from a Matrix Punchograph 3005-D high security terminal, deep in Gnomeregan.  You must access the terminal, but to do that you first need clearance... and to get that you must access lower security terminals-- models -A, -B and -C.  And to do THAT you need security punch cards, starting with white... and we left all the punch cards in the city.$B$BIt's a catastrophe!  Can you help?",
+  "p": "Do you have the prismatic punch card??",
+  "c": "You did it!  You found the prismatic punch card and recovered the lost data!  Vitally, critically, immeasurably important data that we could not live another moment without!$B$BYour service to the gnomes will be long remembered, $N."
+ },
+ {
+  "id": 2931,
+  "t": "Castpipe's Task",
+  "o": "Speak with Master Mechanic Castpipe in Ironforge.",
+  "d": "Master Mechanic Castpipe in Ironforge has need of adventurers!  He's organizing bands to reenter Gnomeregan on a data retrieval mission of top security and importance.$B$BCastpipe might not be a member of the Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences like I am, but he's still a smart gnome so if he thinks it's important, then by my calculations there's an eighty-four percent probability that it really is important!$B$BThose are good odds!",
+  "p": "",
+  "c": "I'm organizing data extraction missions into Gnomeregan.  If you're here for that, then listen up!"
+ },
+ {
+  "id": 2934,
+  "t": "Undamaged Venom Sac",
+  "o": "Bring an Undamaged Venom Sac to Apothecary Lydon in Tarren Mill.",
+  "d": "I must have a fresh sample of the venom you brought me.  The spiders from which it was gathered must dwell in the Hinterlands -- hunt them until you find an undamaged venom sac and bring it to me.  You will find many spiders near the troll city of Shadra'Alor.$B$BDo not tarry, $N, for the venom sac must be fresh when you deliver it.",
+  "p": "Do you have the undamaged venom sac, $N?  I yearn to run experiments with its fresh venom, and have ordered a collection of small, terribly cute animals on which to test it!",
+  "c": "Oh, splendid! The venom is quite fresh and I'm sure very deadly. Thank you!"
+ },
+ {
+  "id": 2935,
+  "t": "Consult Master Gadrin",
+  "o": "Speak with Master Gadrin in Sen'jin Village.",
+  "d": "The venom from the broodguards wasn't as potent as the venom you brought originally.  It must have come from a different spider.$B$BI want a fresh sample of that venom.  To find out where it came from, you must consult with a troll who knows the Witherbark well--Master Gadrin in Sen'jin Village.  Travel to Durotar and speak with Gadrin.  With luck, he'll know where the Witherbarks get their venom.",
+  "p": "",
+  "c": "Ah, so you want fresh venom from the spider of the witherbarks, yes? Well, sit down... you're not going to like what I have to tell you."
+ },
+ {
+  "id": 2936,
+  "t": "The Spider God",
+  "o": "Read from the Tablet of Theka to learn the name of the Witherbark spider god, then return to Master Gadrin.",
+  "d": "The Witherbarks worship a spider god, and from her they collect their most potent venom.  So if you want the venom, then you must summon their god!$B$BTo do that, you must know her true name, and that name is on a tablet buried in Tanaris, in the troll city of Zul'Farrak, in a tomb guarded by Theka the Martyr.$B$BDefeat Theka and find and read his tablet to discover the spider god's name.  When you know it, return to me.",
+  "p": "Do you know the spider god's name?",
+  "c": "Ah, Elortha no Shadra... speak this name only in whispers, for its utterance carries much weight in the realms of the spirit.$b$bI will put it to parchment and create for you a spell of summoning..."
+ },
+ {
+  "id": 2937,
+  "t": "Summoning Shadra",
+  "o": "Defeat Shadra at the altar of Shadra'Alor, then bring her venom to Apothecary Lydon in Tarren Mill.",
+  "d": "Take his parchment, and read it at the altar of Shadra'Alor, deep within the witherbark realm in the Hinterlands.  This will summon Shadra the spider god.",
+  "p": "Did you get the venom?",
+  "c": "Sweet, you got it!"
+ },
+ {
+  "id": 2938,
+  "t": "Venom to the Undercity",
+  "o": "Bring Faranell's Parcel to Master Apothecary Faranell in the Undercity.",
+  "d": "The venom you gathered from the Witherbark's spider god is quite a find!  I've been able to kill nearly two dozen rabbits with just a drop of the stuff.  Granted, some of those rabbits were very young and small enough to fit in the palm of one's hand so I'm certain their resistance to toxins was low, but it can't be denied that this poison is powerful!$B$BI'd like a sample sent to my superior, Apothecary Faranell in the Apothecarium of the Undercity.  I am positive he would want to test this himself.",
+  "p": "Word was sent of your coming, $N. You have a parcel for me?",
+  "c": "Ah, very good. Lydon mentioned the poison in this parcel is the most potent he has come in contact with, and is busy working on new applications with it.$b$bWith luck, we will find many.$b$bThank you, $N. Your service to the Royal Apothecary Society is undeniable."
+ },
+ {
+  "id": 2939,
+  "t": "In Search of Knowledge",
+  "o": "Talk to Daryn Lightwind in Rut'theran Village.",
+  "d": "While the ruins of Feralas can be quite dangerous, they have much to tell of what has happened here.$B$BSearching through the rubble to the south a few days ago, I discovered what appears to be a normal stave. However, I just can't shake the feeling that there is something more to it. Angelas and I have been poring over our books here, but we can't find a thing about it.$B$BI have a colleague in Darnassus that may be able to tell us what this is, $N. Why don't you go talk to her and see if she can help us?",
+  "p": "",
+  "c": "Oh, so Troyas Moonbreeze sent you?$b$b<mutters>...always bothering me with his wild notions that he found something important...$b$bLook, $N, I'll be blunt. Troyas always thinks he has found something important in those ruins. The truth is, anything that was truly valuable was probably hoarded away long ago by the ogres or the harpies that now reside there.$b$bYou're welcome to take a look around, but I don't know if you'll find any books here that will help you."
+ },
+ {
+  "id": 2940,
+  "t": "Feralas: A History",
+  "o": "Ask Daryn Lightwind if you may borrow her book.",
+  "d": "This book looks as if no one has opened it for quite a long time. Its covers are quite worn, and its pages yellowed, but after examining it, you notice that it might be just what Troyas is looking for.$B$BYou pick it up, but realize you should probably ask before borrowing it.",
+  "p": "",
+  "c": "So, you'd like to borrow Feralas: A History?$b$bLet me think...$b$bI will allow you to borrow this book, $N, but only if you do something for me first."
+ },
+ {
+  "id": 2941,
+  "t": "The Borrower",
+  "o": "Take the letter to Curgle Cranklehop in Tanaris.",
+  "d": "I have studied many subjects in my time, and my latest fascination is with the snapjaw that occupy the beach in the Hinterlands. There's one in particular I'd like to see, a giant snapjaw named Gammerita. I'd like to go myself, but my research keeps me here. I think a picture of her would be the next best thing.$B$BTake this letter to Curgle Cranklehop in Tanaris. She has created an invention for me that can capture a picture. She called it a \"snapshot,\" I think...",
+  "p": "A letter -- for me?",
+  "c": "Are you another one of Daryn's interns? She's quite a knowledgeable historian, $N. You should be grateful to be studying under her leadership.$b$bNow, let me get the Super Snapper FX. You're gonna love it!"
+ },
+ {
+  "id": 2942,
+  "t": "The Morrow Stone",
+  "o": "Return the Sparkling Stone and the Stave of Equinex to Troyas Moonbreeze in Feathermoon Stronghold. ",
+  "d": "The moment the artifact is removed from the Monolith, you feel the energy in the Stave of Equinex begin to fade.",
+  "p": "I am glad you have returned, $N. I am eager to hear of your findings.",
+  "c": "I have been reading since you left, $N. This stone you have found is called the Morrow Stone. While I am not entirely sure what its purpose is yet, you can be sure that it is something of great significance to be hidden away inside the Equinex Monolith the way it was.$B$BI will continue my studies, and I hope I will be able to count on you in the future, $N. Thank you for all your help."
+ },
+ {
+  "id": 2943,
+  "t": "Return to Troyas",
+  "o": "Deliver the book to Troyas Moonbreeze in Feathermoon Stronghold.",
+  "d": "Here it is, $N. Please, take care of my book.$B$BNow, hurry along. I'm sure Troyas is eager for your return.",
+  "p": "Hello, $N. Have you been to Darnassus?",
+  "c": "You have brought a book along. Excellent!"
+ },
+ {
+  "id": 2944,
+  "t": "The Super Snapper FX",
+  "o": "Use the Super Snapper FX to take a snapshot of Gammerita, then return to Daryn Lightwind in Rut'theran Village.",
+  "d": "Have the first look at my new invention, $N. All you need to do is target whatever it is you'd like to take a picture of, and push the button.$B$BWhat was that creature from the Hinterlands that you mentioned? Gammerita? Well, good luck finding her. I'm sure Daryn will be quite pleased with the snapshot you return to her.$B$BIn any case, here's the Super Snapper. Have fun!",
+  "p": "So, you have finally returned, $N. And you've brought the contraption that Curgle built for me -- perfect.",
+  "c": "Well! Curgle's invention lived up to its expectations.$B$BDon't get too excited, but do know that I am pleased with your work, $N.$B$BNow, where did I leave that book..."
+ },
+ {
+  "id": 2946,
+  "t": "Seeing What Happens",
+  "o": "Bring the miniature platinum discs to the gates of Uldum in Tanaris and look for clues as to the connection between the two.",
+  "d": "We want you to take the miniature discs you found to the sealed gates of Uldum.  We... we aren't sure what will happen when you do this.$B$BThis sounds risky, sure, we acknowledge that.  It might, however, do nothing.  You might need to use the discs on something.  Perhaps the doors unlock when you have the discs in your possession.  Be open to try anything, and be ready for anything to happen.$B$BWhen you've found out what happens, return to Ironforge.  We'll have a lot to analyze when you're done!",
+  "p": "This familiar looking pedestal sticks out of the hot sand. Perhaps there is something to its presence here...",
+  "c": "As you touch the pedestal, the miniature discs from Uldaman hum and glow in your backpack. A familiar feeling tingle washes over your hands, as the image of another Stone Watcher springs to life in front of the gates of Uldum.$b$b\"Salutations. I am a guardian of entry. The discs that have been used for access are missing the correct entry discs, the Plates of Uldum. Please incorporate these plates with the disc structure and repeat your access sequencing. Thank you.\""
+ },
+ {
+  "id": 2947,
+  "t": "Return of the Ring",
+  "o": "You may either keep the ring, or you may find the person responsible for the imprint and engravings on the inside of the band.",
+  "d": "Opening the box produced by the Sparklematic 5200 reveals what you had suspected - a shiny ring!  Wearing the ring, you feel magic power surge through you body.$B$BInside the band is a small but nonetheless discernable imprint of the seal of Ironforge.  Next to that, three small initials are engraved: \"TdK\".  This may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter.  Keep the ring... or return it to this person.  Decisions, decisions...",
+  "p": "Hey, easy there partner - I'm a very important businessman!  I am sure that the courier is just simply late with the delivery of the rent... wait... you're not my landlord.$B$BWell, of course you aren't - silly me!  You've come to me seeking the finest jeweler in all of Ironforge, one who does NOT make CURSED items!  Yes!$B$BUm... what do you need?",
+  "c": "A ring, you say?  Let's see... yep, I made that ring by golly.$B$BBefore Gnomeregan went up, I had a small shop there.  Perhaps it's one I left behind when I ran for the hills; it's a simple design, and I made several like it.  Maybe it's from someone who didn't make it out.$B$BDark Iron dwarves had this?  Well, that puts a new layer of conspiracy on the nine different layers already floating about.  Maybe the authorities would like to know; it's wasted on the likes of me.$B$BNow, back to the ring..."
+ },
+ {
+  "id": 2948,
+  "t": "Gnome Improvement",
+  "o": "Bring the Brilliant Gold Ring, a Silver Bar, a Moss Agate, and 30 silver coins to Talvash del Kissel in Ironforge.",
+  "d": "Listen $n, that ring is yours, sure... but I can make you a better one!  That design, like I said, is really simple.  I am a lot more skilled now, and for the mere fee of thirty silver coins I'll spruce it up for you!  Well, a little more than thirty, actually...$B$BI'm in a tight spot right now; all my material stock is all dried up.  If you bring me a bar of silver and a moss agate, I'll add a silver and agate lattice to the ring that will give it a little more pizzazz!$B$BTrust me!",
+  "p": "Do you have the materials I need?  I wouldn't ask you for them if I wasn't down on my luck...",
+  "c": "Ah, exactly what I needed!  Someday, when I find myself out of this hole that I am unjustly in, I will make for you, for EVERYONE the finest trinkets in all of Azeroth!  Until then, thanks for being a sport about the reagents.  I'd normally charge ten times what I have charged you for a ring of this quality...$B$BSpeaking of rings, here's your new one!"
+ },
+ {
+  "id": 2949,
+  "t": "Return of the Ring",
+  "o": "You may either keep the ring, or you may find the person responsible for the imprint and engravings on the inside of the band.",
+  "d": "Opening the box produced by the Sparklematic 5200 reveals a shiny ring!  Donning the ring, you feel magic power surge through your body.$B$BInside the band is a small but nonetheless discernable imprint of the seal of Orgrimmar.  Engraved letters are next to it, but only the first three stand out even after cleaning: \"NOG...\"$B$BThis may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter.  Keep the ring... or find \"NOG\" - decisions, decisions...",
+  "p": "You'd think that we would find a way on our own to outdo those filthy little gnomes.  I would even wager that they stole that rig from us to begin with!  Bah, those greasy, grimy... erm, yes?  You need something?",
+  "c": "A ring from Gnomeregan?  Let's see... not mine, but interesting.$B$BThe Gnomeregan thing - couldn't have happened to a nicer bunch of numbskulls.  For years they're a joke, and now almost overnight they're making better rigs than us?$B$BDark Iron dwarves had the ring?  That's even more interesting!  You know, maybe the gnomes stole their crazy golem plans and modified them.  Those Dark Irons, they'd definitely want some major payback.  It's certainly worth investigating.$B$BYou know, about that ring..."
+ },
+ {
+  "id": 2950,
+  "t": "Nogg's Ring Redo",
+  "o": "Bring the Brilliant Gold Ring, a Silver Bar, a Moss Agate, and 30 silver coins to Nogg in Orgrimmar.",
+  "d": "No, no, no - I'm not all of the sudden saying that the ring is mine.  I normally don't do this, but your information about the Dark Irons was very useful.  I'll improve your ring for you, better than whomever made this simple little thing could have ever done.  Probably some gnome...$B$BIf you bring me a bar of silver, a moss agate, and thirty silver coins for my trouble, I'll add a silver and agate lattice to the ring that will strengthen the magic inside of it.  Interested?",
+  "p": "Do you have the materials I need?  I can't improve on this design without everything I asked for.",
+  "c": "Here's your ring, better than before.  Thanks again for the information about those Dark Iron dwarves.  This seems like a reasonable lead as to how those gnomes suddenly were struck with goblin-like inspiration."
+ },
+ {
+  "id": 2951,
+  "t": "The Sparklematic 5200!",
+  "o": "Insert a Grime-Encrusted Item into the Sparklematic 5200, and be sure to have three silver coins to start the machine.",
+  "d": "This contraption stands out amongst the gnomes holding out against the madness outside the room.  A small plaque on the device reads \"The Sparklematic 5200\", followed by some text:$B$B\"Grime and residue ruining your sparklies?  The Sparklematic 5200 puts the shine back in shine-tastic!  Insert the item you wish to clean and deposit three silver coins in the coin slot.  Give the Sparklematic 5200 a moment for operation, and voila!  Your valuables will emerge clean and shiny!\"",
+  "p": "It would seem that the device needs some sort of grime-encrusted object to clean and three silver coins to get the contraption working. So long as both are present, the Sparklematic 5200 should work...",
+  "c": "You insert the grime-encrusted item and three silver coins into the Sparklematic 5200. The machine surges to life in a frenzied attempt to purge the grime from the unknown item. Loud, violent churning sounds beat from the heart of the machine. The metal frame of the beast creaks and groans as it lurches from side to side..."
+ },
+ {
+  "id": 2952,
+  "t": "The Sparklematic 5200!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "As quickly as it started, the Sparklematic 5200 comes to an abrupt halt. A simple \"ding\" is heard from the machine, and the mouth of the machine spirals upward. Inside the Sparklematic 5200 is a small box wrapped in a little bow. The machine would appear to wrap an object up after eliminating its grime-encrusted status. Even if the machine didn't work, at least the item is now wrapped in a pretty box.$B$BWell, there is one way to find out if it cleaned the item or not..."
+ },
+ {
+  "id": 2953,
+  "t": "More Sparklematic Action",
+  "o": "",
+  "d": "",
+  "p": "The Sparklematic 5200 is empty, awaiting a grime-encrusted object to clean and three silver coins to start!",
+  "c": "The Sparklematic 5200 comes to life, lurching to and fro. Inside, the helpless grime that has encrusted the object placed within it is being pulverized by the machine's gnomish cleaning agent.$B$BThe Sparklematic 5200 comes to a halt, heralded by a familiar \"ding!\" The item receptacle of the machine spirals open, revealing a neatly wrapped box."
+ },
+ {
+  "id": 2954,
+  "t": "The Stone Watcher",
+  "o": "Learn the purpose of the Stone Watcher of Norgannon, and then interact with the Uldum Pedestal in the Tanaris desert.",
+  "d": "\"Salutations - I am a guardian of entry.  Unless you have the Plates of Uldum already integrated with your disc set, I will not allow for entry into the Uldum compound.\"$B$BThe appearance of the Stone Watcher of Norgannon must be the reaction that was hoped for in sending you out to the Tanaris desert with the platinum discs.  As instructed, you will need to find out what the story behind the Stone Watcher is before continuing on.",
+  "p": "The purpose of the stone watcher must be learned before continuing on...",
+  "c": "The stone watcher's voice resonates with power and authority:$b$b\"Your discs will be returned to you once you access the pedestal. When you have obtained the Plates of Uldum and incorporated them into your existing disc set, you may then enter the complex.\""
+ },
+ {
+  "id": 2962,
+  "t": "The Only Cure is More Green Glow",
+  "o": "Travel to Gnomeregan and bring back High Potency Radioactive Fallout. Be warned, the fallout is unstable and will collapse rather quickly.$B$BOzzie will also require your Heavy Leaden Collection Phial when the task is complete.$B",
+  "d": "Not only was your sample insufficient in quantity, it was also impure.$B$BWhat we require is more green glow. The troggs are obviously not irradiated sufficiently to fulfill our needs. You will have to go into Gnomeregan and bring back some radioactive fallout, straight from the tap. I am speaking of the irradiated slimes, lurkers and horrors. Be warned, the containment of this type of fallout is difficult. You may need to make several attempts with the phial until a suitable sampling is recovered.",
+  "p": "Hrm, you're not glowing. That's a good sign.",
+  "c": "<Ozzie examines you.> Impressive, you still have all of your limbs. Now it's time to see what this stuff can do!"
+ },
+ {
+  "id": 2963,
+  "t": "Portents of Uldum",
+  "o": "Speak with Historian Karnik in the Hall of Explorers within Ironforge.",
+  "d": "Greetings once again, $n!  Your discovery inside Uldaman has set the Explorers' League abuzz with excitement.  The League has been working to unlock the secrets of the miniature platinum discs you found.  Your fortuitous arrival here in the Hall allows me to share with you that we are quite possibly on to something!$B$BHistorian Karnik has uncovered some important clues as to the true origins of the Valley of the Watchers in the Tanaris desert.  He would like to speak with you as soon as possible!",
+  "p": "",
+  "c": "I am glad you're maintaining your interest in exploration, $N!  With your natural talent and moxie, we could crack open secrets that we never thought were possible!$B$BThe Discs of Norgannon in Uldaman were a repository of vast information; you were only permitted to access the top layers, as it were, of the information stored there.  The Creators were rumored to have more repositories located throughout Azeroth.  This now brings us to Uldum..."
+ },
+ {
+  "id": 2964,
+  "t": "A Future Task",
+  "o": "Speak with High Explorer Magellas in Ironforge.",
+  "d": "Well $n... we seem to be at a temporary dead end here.  We know what we need - the Plates of Uldum - but we have no idea where they might be.  We'll need to do quite a bit of research on this to come up with a solid plan of attack.  I have a couple ideas where to start looking; I have high hopes that soon, we'll be asking you to head out and recover them.$B$BThe High Explorer needs to be informed on this, $n; no doubt, he also wants to thank you personally for once again aiding the League.",
+  "p": "",
+  "c": "We're all in agreement then - the best plan of attack is putting this on hold until we can narrow down the areas where these plates might lie hidden.  You've brought us this far $N, and I hope you will be the one to head back in to the field to unlock Uldum for us all!$B$BAllow me to give you this honorarium in the meantime; this should cover any expenses you've encountered in assisting us, and a little something extra.  Be sure to check back with us soon... Uldum beckons!"
+ },
+ {
+  "id": 2965,
+  "t": "Portents of Uldum",
+  "o": "Speak with Nara Wildmane on the Elder Rise in Thunder Bluff.",
+  "d": "Ah, $n, it is fortuitous that you have come to me again.  Your revelations at the Uldaman dig site have certainly given us sages much discuss.  I was doing just that with one of the druids, Nara Wildmane, when it dawned on me that her past adventuring experiences may have some great importance as to the next step we need to take.$B$BI would like for you to speak with her concerning her travels to the Valley of the Watchers in the Tanaris desert.  She waits for you on the Elder Rise.",
+  "p": "",
+  "c": "There is a place deep in the Tanaris desert called the Valley of the Watchers.  The discs that you recovered... their translated glyphs make mention of a place called Uldum.  Most think this place to be a myth.$B$BI know this to be false; Uldum exists.  I've been there.  Well... outside, at any rate.$B$BThe crux is this, $N: we think there is a connection between the discs and Uldum, and we want you to go there."
+ },
+ {
+  "id": 2966,
+  "t": "Seeing What Happens",
+  "o": "Bring the miniature platinum discs to the gates of Uldum in Tanaris and look for clues as to the connection between the two.",
+  "d": "Sage Truthseeker and I would like you to take the miniature discs you found to the sealed gates of Uldum.  We... we aren't sure what will happen when you do this.$B$BThis sounds risky, sure, we acknowledge that.  It might, however, do nothing.  You might need to use the discs on something.  Perhaps the doors unlock when you have the discs in your possession.  Be open to try anything, and be ready for anything to happen.$B$BLearn what you can, then return to me. We will have much to discuss.",
+  "p": "This familiar looking pedestal sticks out of the hot sand.  Perhaps there is something to its presence here...",
+  "c": "As you touch the pedestal, the miniature discs from Uldaman hum and glow in your backpack.  A familiar feeling tingle washes over your hands, as the image of another Stone Watcher springs to life in front of the gates of Uldum.$B$B\"Salutations.  I am a guardian of entry.  The discs that have been used for access are missing the correct entry discs, the Plates of Uldum.  Please incorporate these plates with the disc structure and repeat your access sequencing.  Thank you.\""
+ },
+ {
+  "id": 2967,
+  "t": "Return to Thunder Bluff",
+  "o": "Speak with Nara Wildmane in Thunder Bluff.",
+  "d": "You access the pedestal again; the platinum discs suddenly appear once more in your backpack.$B$BWith the knowledge of the stone watcher learned and the discs returned to your possession, the time has come to return to Thunder Bluff and inform the Nara Wildmane of your discovery.",
+  "p": "Welcome back $N.  Were you able to use the discs to your advantage, or was it for naught?",
+  "c": "You were missing some discs?  Interestingly enough, it seems that the discs of Norgannon are only parts of the complete set - like keys on a key ring, if you will.$B$BIf we can find the Plates of Uldum, then we could actually access the Uldum complex itself.  I don't know whether to be excited by that prospect, or be terrified.$B$BWe may need to risk everything to ensure that those secrets the earth keeps which would destroy us all remain just that - secrets."
+ },
+ {
+  "id": 2968,
+  "t": "A Future Task",
+  "o": "Speak with Sage Truthseeker in Thunder Bluff.",
+  "d": "Well $n... we seem to be at an unfortunate impasse.  We know what we need - the Plates of Uldum - but we have no idea where they might be.  We will research this, and then devise a solid plan of attack.  I have a couple ideas where to start looking; I have high hopes that soon, we'll be asking you to rejoin our efforts to discover the truth.$B$BSage Truthseeker needs to be informed on this, $n; no doubt, he also wants to thank you personally for once again heeding the call.",
+  "p": "",
+  "c": "We're all in agreement then - the best course of action is to wait until we can narrow down the areas where these plates might lie hidden. You've brought us this far $N, and I hope you will be the one to head back in to the field to confront the secrets of Uldum.$B$BAllow me to give you this honorarium in the meantime; this should cover any expenses you've encountered in assisting us, and a little something extra. Be sure to check back with us soon... Uldum beckons us all, young one."
+ },
+ {
+  "id": 2969,
+  "t": "Freedom for All Creatures",
+  "o": "Using the Bamboo Cage Key, free the Sprite Darters from the pen in the Grimtotem camp. At least 6 Sprite Darters and Kindal Moonweaver must survive.$B$BYou have 6 minutes before Kindal decides it is time to retreat and you fail the quest.",
+  "d": "The filthy Grimtotem clan are capturing faerie dragons, $N. Jer'kai and I have no idea what they plan on doing with them, but they're obviously up to no good.$B$BWe're not powerful enough to fight our way into the camp and free the captured dragons, but perhaps with your help...$B$BIf you're willing, and you have some strong friends, release the creatures from their cage with this key and make sure they escape with their lives. I'll be by your side the entire time. Jer'kai will remain here.",
+  "p": "",
+  "c": "Thank Elune, $N! You are a great blessing to us and to the darters you saved. Jer'kai and I would never have been able to help the dragons ourselves--your intervention in the Grimtotem's affairs will be remembered.$B$BSpeak to Jer'kai now... I have to prepare for our retribution. Just because the faerie dragons are free, it doesn't mean they will remain so. Jer'kai and I will now go on the offensive."
+ },
+ {
+  "id": 2970,
+  "t": "Doling Justice",
+  "o": "Kill 12 Grimtotem Naturalists, 10 Grimtotem Raiders, and 6 Grimtotem Shamans before returning to Jer'kai Moonweaver in Feralas.",
+  "d": "As she's already told you, Kindal and I will now take the fight to the Grimtotem. Together, we should still be able to pick off some of the tauren without much threat to ourselves, but we'd love some help if you're willing and able.$B$BYou've seen the camp below us, but there are more to the east. Using your own tactics, deal as much damage to the tauren as you can. We can all meet back here after they've felt the sting of Kindal's arrows and your own weapons.",
+  "p": "Kindal needs time to prepare, but our kills already number in the dozens. The Grimtotem clan is more than aware of our presence in the area, and they seek us out like vipers.$B$BThey'll do everything in their power to take our heads from our bodies. You should be alert... they'll be coming for you too now that you've interfered.",
+  "c": "Kindal was right about you, $N--you do have a knack for this. You are a more seasoned adventurer than the both of us, and for that we thank you.$B$BThe Grimtotem clan is much more hostile than most tauren... I wonder if their own kind frowns upon their actions. I wouldn't be surprised. As you are probably aware, many races on Azeroth have ties to less kindly counterparts.$B$BBut that is a discussion for another day."
+ },
+ {
+  "id": 2971,
+  "t": "<UNUSED>",
+  "o": "[PH] Log Description",
+  "d": "[PH] Description",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 2972,
+  "t": "Doling Justice",
+  "o": "Take Jer'kai's Signet Ring to High Priestess Tyrande Whisperwind in Darnassus.",
+  "d": "Out here in the wilderness, Kindal and I have meager means to reward your help, but we don't want you to feel unappreciated. Take my signet ring. If you ever find yourself in the boughs of Teldrassil, go to the Temple of the Moon in the heart of Darnassus. There you will find my High Priestess Tyrande Whisperwind. The ring will let her know that we are well and give credit to your story.$B$BWe both thank you, $N.",
+  "p": "Hello, child. It pleases us to have more powerful adventurers here in the temple. If you have the time, will you share a tale or two with the younger adventurers? I know many of them would benefit from your wisdom.$B$BI'm sorry, look how rude of me. You've come to the Temple seeking our aid, and I impose on you. Please, forgive me. Tell me what the servants of the Light can do for you.",
+  "c": "That's an amazing story, $N. It pleases us that you've not only helped dragonkind, but also one of our own priestess. Jer'kai was right to send you to me. I will make sure she has her ring returned to her--I have scouts heading the direction of Feralas soon. This will be one more thing for them to investigate while on their mission.$B$BThank you again, and please, make yourself at home while you're here."
+ },
+ {
+  "id": 2973,
+  "t": "A New Cloak's Sheen",
+  "o": "Bring 10 Iridescent Sprite Darter Wings to Krueg Skullsplitter in Camp Mojache.",
+  "d": "Well met, $c. I've traveled with my companions down to the Feralas on a mission for our Orgrimmar masters.$B$BMy life-mate Korrin finds great pleasure in new clothing, so I aim to make her a new cloak adorned with the gossamer wings of faerie dragons. Would you be able to help me? Sprite darters with gorgeous wings I want are west of Camp Mojache.",
+  "p": "The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.$b$bWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",
+  "c": "Wonderful, $c! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.$b$bI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.$b$bThank you again, $c."
+ },
+ {
+  "id": 2974,
+  "t": "A Grim Discovery",
+  "o": "Bring 20 Grimtotem Horns to Krueg Skullsplitter in Camp Mojache.",
+  "d": "What!? You came across tauren in the area? You're joking! What did they look like!?$B$BThe Grimtotem clan! You found some of them? Belgrom, one of our masters, has an interest in their kind... he's even put a bounty on them.$B$BYou have to go back, $c. Go back and bring me their horns... piles of them if you can. The Grimtotem are not to be trifled with or underestimated. Go back and slay them; let the rivers in Feralas run red with their dark blood.",
+  "p": "Take my words seriously, $C, the Grimtotem clan is evil. If you've found their whereabouts, then it's up to you to return and strike the first blow against their clan... before they can come into our own lands and raze our own villages, or pilfer our lands.",
+  "c": "These are good horns, $c. Well done. I'll take these from you and be sure to tell Belgrom as soon as we return to Orgrimmar. You've helped me twice now, and for that, you have my mark. Perhaps in the future I can help you! Good luck to you."
+ },
+ {
+  "id": 2975,
+  "t": "The Ogres of Feralas",
+  "o": "Rok Orhan in Camp Mojache wants you to kill 10 Gordunni Ogres, 10 Gordunni Ogre-Magi, and 5 Gordunni Brutes.",
+  "d": "The effects of the Gordunni Ogre tribe can hardly go unnoticed in this area. Look around, $N; their very presence scars this land. We must push them back before they expand even further into Feralas.$B$BFollow the river north, and you will find their outpost. Decrease their numbers, $N. We must show them that their kind is not wanted here.",
+  "p": "Move swiftly, $N. Or is the task I requested too difficult?",
+  "c": "Excellent, $N. In time, the land will heal. We must not give up."
+ },
+ {
+  "id": 2976,
+  "t": "A Grim Discovery",
+  "o": "Bring the Crate of Grimtotem Horns to Belgrom Rockmaul in Orgrimmar.",
+  "d": "What?!$B$BAh, so I did mention a bounty, didn't I? Well, that'll teach me to open my mouth, won't it?$B$BYou did the work, so I suppose it is only right you reap the greatest reward from it. Take the horns, I'll have them put in a crate for you. Find Belgrom Rockmaul in the Valley of Honor, he'll want to know what you saw and he'll reward you for your hard work.$B$BBe well, $c, and thank you again for everything you've done.",
+  "p": "Be quick, $C, I have much to complete today.",
+  "c": "The Grimtotem!? This is interesting. You say you came across them while hunting in Feralas? Truly?$b$bMy peers will want to hear your news, $c. Tell me more and I'll count out your coin while you do so.$b$bAnd before you go, know that I give you thanks for the information you've passed on to me this day."
+ },
+ {
+  "id": 2977,
+  "t": "Return to Ironforge",
+  "o": "Speak with Historian Karnik in Ironforge.",
+  "d": "You access the pedestal again; the platinum discs suddenly appear once more in your backpack.$B$BWith the knowledge of the stone watcher learned and the discs returned to your possession, the time has come to return to Ironforge and inform the Explorers' League of your discovery.",
+  "p": "Welcome back $N.  Were you able to use the discs to your advantage, or did it end up being a wild goose chase?",
+  "c": "You were missing some discs?  Interestingly enough, it seems that the discs of Norgannon are only parts of the complete set - like keys on a key ring, if you will.$B$BIf we can find the Plates of Uldum, then we could actually access the Uldum complex itself!  Imagine actually exploring the place where the Creators worked without having to bring a huge shovel!$B$BNot that there's anything wrong with shovels... or digging..."
+ },
+ {
+  "id": 2978,
+  "t": "The Gordunni Scroll",
+  "o": "Bring the Gordunni Scroll to Rok Orhan in Camp Mojache.",
+  "d": "Picking up the soiled scroll, you notice that it seems to be depicting some sort of meeting or ceremony. Rok Orhan would be interested in this scroll, and what it might mean to the Gordunni.",
+  "p": "What is this?",
+  "c": "This scroll... You found this in the Gordunni Outpost?"
+ },
+ {
+  "id": 2979,
+  "t": "Dark Ceremony",
+  "o": "Rok Orhan in Camp Mojache wants you to find a Gordunni Orb.",
+  "d": "These seem to be plans for some sort of dark ceremony, $N. From what I can make out, this ritual is conducted by the Gordunni mage-lords.$B$BFind one of these mage-lords, and from him, gather an orb.$B$BThe orb of a mage contains great power, and will help us discover more about this ceremony and the magic that the Gordunni wield.",
+  "p": "We must discover more about why the Gordunni are here, $N.",
+  "c": "This orb will provide us with more information about the Gordunni... which we will then use in planning their downfall, $N."
+ },
+ {
+  "id": 2980,
+  "t": "The Ogres of Feralas",
+  "o": "Rok Orhan in Camp Mojache wants you to kill 10 Gordunni Shaman, 10 Gordunni Warlocks, and 5 Gordunni Maulers.",
+  "d": "Now that you have proven that you are a true fighter, I trust that you possess the courage to continue with the task at hand.$B$BTravel to the High Wilderness, southwest of here. There lie some abandoned and destroyed structures, on land that once belonged to the night elves. Look for these ruins, and when you see the withered trees and desecrated terrain, you will find the Gordunni. Push them back.$B$BThese ogres are much stronger than the ones you faced previously, $N. Be aware.",
+  "p": "Have you found the ruins, $N?",
+  "c": "You have proven yourself to be a trustworthy and dependable ally, $N."
+ },
+ {
+  "id": 2981,
+  "t": "A Threat in Feralas",
+  "o": "Belgrom Rockmaul wants you to speak with Rok Orhan in Camp Mojache.",
+  "d": "Feralas is an ideal location for an accomplished $c to prove $Ghimself:herself;. A tribe of ogres called the Gordunni are the dominant military force there, and their numbers are growing. They must be stopped before they threaten our presence in Feralas.$B$BA warrior I know of named Rok Orhan resides at Camp Mojache in Feralas; go to her. She will tell you more of the situation when you arrive.",
+  "p": "",
+  "c": "So, Belgrom sent you. You are just in time, $R.$B$BLet me explain the situation, and then you can decide if you are up to the challenge... But if Belgrom sent you, I am sure your courage is unquestionable."
+ },
+ {
+  "id": 2982,
+  "t": "The High Wilderness",
+  "o": "Angelas Moonbreeze wants you to kill 8 Gordunni Warlocks, 8 Gordunni Shaman, and 8 Gordunni Brutes.",
+  "d": "Although it is dangerous, Troyas and I have been investigating the ruins that cover the forests of Feralas.$B$BLately, though, Troyas has been going on his own to the High Wilderness, and I really worry about him. The Gordunni Ogres have taken over that area, and they don't take kindly to anyone that enters their territory.$B$BI was hoping you might be willing to travel to the ruins to the southeast and clear out some of the ogres. Make it a little safer for my Troyas, and I will be extremely grateful.",
+  "p": "Be watchful around the Gordunni, $N. Their magic seems to wreak havoc on the very land they stand on.",
+  "c": "I am very grateful you were able to do this for me.$B$BNow, please, don't mention a word to Troyas about this..."
+ },
+ {
+  "id": 2983,
+  "t": "Call of Fire",
+  "o": "Find Kranal Fiss in the Barrens.",
+  "d": "It's been some time since you were tested last, $N. You've been patient thus far in your studies, but it's time for you to learn about greater powers... it's time you learn real power. The element of fire is yours if you're prepared to pay for it.$B$BSeek out Kranal Fiss in the Barrens. He lives in a small dwelling north of the Crossroads, but be mindful, if you've reached the blasted night elf lands, you've gone way too far.",
+  "p": "",
+  "c": "Hmmm, Swart sent you to me, did he?$B$BWell then, Swart could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.$B$BI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, $N. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand."
+ },
+ {
+  "id": 2984,
+  "t": "Call of Fire",
+  "o": "Find Kranal Fiss in the Barrens.",
+  "d": "Long has it been since you were last tested, $N. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about destruction... and chaos. The element of fire is yours for the understanding, if you're prepared to pay for it.$B$BSeek out Kranal Fiss in the Barrens. He lives in a small dwelling north of the Crossroads, but be mindful, if you've reached the night elf lands, you've gone too far.",
+  "p": "",
+  "c": "Hmmm, Narm sent you to me, did he?$b$bWell then, Narm could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.$b$bI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, $N. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand."
+ },
+ {
+  "id": 2985,
+  "t": "Call of Water",
+  "o": "Find Islen Waterseer in the Barrens.",
+  "d": "You look ready for your next test, $N. You've been patient in your studies, but the time has come for you to learn more. The time has come for you to learn about the purity of water.$B$BSeek out Islen Waterseer in the Barrens. She is along the eastern coast, south of the Southfury River and Ratchet. You will find her there at her fishing hut. Good luck to you, $N.",
+  "p": "",
+  "c": "The wind approaches you quickly from the horizon; the earth is steady beneath your feet; and your spirit is already warmed by fire--I would say it is time for you to learn about the purity of water.$B$BYour path has led you this far, and your spirit will give you the strength to carry on even further. But the first step is yours to take."
+ },
+ {
+  "id": 2986,
+  "t": "Call of Water",
+  "o": "Find Islen Waterseer in the Barrens.",
+  "d": "Long has it been since you were last tested, $N. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about the purity of water.$B$BSeek out Islen Waterseer in the Barrens. She is along the eastern coast, south of the Southfury River and Ratchet. You will find her there at her fishing hut. Good luck to you, $N.",
+  "p": "",
+  "c": "The wind approaches you quickly from the horizon; the earth is steady beneath your feet; and your spirit is already warmed by fire--I would say it is time for you to learn about the purity of water.$B$BYour path has led you this far, and your spirit will give you the strength to carry on even further. But the first step is yours to take."
+ },
+ {
+  "id": 2987,
+  "t": "Gordunni Cobalt",
+  "o": "Orwin Gizzmick in Camp Mojache wants 12 samples of Gordunni Cobalt.",
+  "d": "I just arrived here in Feralas, and I've heard that the Gordunni Ogres that inhabit the wilds here have some interesting minerals. Who knows what they are up to, but they sure are protective of that stuff! They don't leave it just lying around; no, they bury it to protect folks like me from getting their hands on it.$B$BIf you'd be willing, I'll give you my shovel. Go to the Gordunni Outpost north of here and dig me up some Gordunni cobalt. Look for the blue glow, then start digging!",
+  "p": "Get on up there and start digging!$b$bI've got places to go and people to see -- time is money!",
+  "c": "Perfect! I will take these along as I continue my travels, $N. I'm sure I can find someone that will pay a pretty penny for this cobalt.$b$bHere, take this for your trouble."
+ },
+ {
+  "id": 2988,
+  "t": "Witherbark Cages",
+  "o": "Check the cages at the two Witherbark villages, then return to Gryphon  Master Talonaxe.",
+  "d": "The son of our mightiest gryphon is gone! Swiftwing's heir, Sharpbeak, was lost while hunting with his parents a few days ago, and we believe it was the trolls who took him.$B$BYou must aid us!  Search the cages in the two Witherbark troll villages to see if Sharpbeak is there.",
+  "p": "Have you searched the cages, $N? We must find Sharpbeak!",
+  "c": "Sharpbeak wasn't at the villages?  Hm... this is grim news.  That gryphon is destined to lead the next generation of gryphons.  If he is lost then the strength and spirit of our fleet will suffer immensely."
+ },
+ {
+  "id": 2989,
+  "t": "The Altar of Zul",
+  "o": "Check the top of the Altar of Zul, then return to Gryphon Master Talonaxe.",
+  "d": "Sharpbeak was not with the Witherbark trolls.  Perhaps the Vilebranch trolls took him.  Go to the Altar of Zul on the western edge of Vilebranch territory and search for the gryphon child. ",
+  "p": "Hurry, $N!  If the Vilebranch trolls have Sharpbeak, then who knows what they might be doing with him!",
+  "c": "Sharpbeak wasn't there?  That is bad news, but it is good news too...$B$BIt is good that he was not at the Altar of Zul for the Vilebranch trolls are known for performing sacrifices.$B$BI thank you for all of your aid, but I'm afraid I have an even greater task ahead."
+ },
+ {
+  "id": 2990,
+  "t": "Thadius Grimshade",
+  "o": "Bring Sharpbeak's Feather to Thadius Grimshade in the Blasted Lands.",
+  "d": "Take this feather to Thadius Grimshade, the diviner.  He left Aerie Peak years ago to pursue darker knowledge, but in his heart he is still a Wildhammer!$B$BAnd perhaps his talents can help us find Sharpbeak.$B$BThis feather was taken from the nest where the gryphon child sleeps.  If you give it to Thadius then, with luck, he can use his divining magics to find Sharpbeak.$B$BGood luck, $N.  You will find Thadius in the Blasted Lands, in the mage tower of Nethergarde Keep.",
+  "p": "$N, you come bearing a gift?",
+  "c": "Ah, yes.  This feather belongs to a fine gryphon.  One destined for great things... if he can survive into adulthood undamaged.$B$BYou wish to find him?  Then listen close, brave $c..."
+ },
+ {
+  "id": 2991,
+  "t": "Nekrum's Medallion",
+  "o": "Bring Nekrum's Medallion to Thadius Grimshade in the Blasted Lands.",
+  "d": "I'll find out where your gryphon is, but first you have to do something for me.  There's a troll in Zul'Farrak, Nekrum Gutchewer, who possesses a medallion I would very much like to study.  Bring me that Medallion and I'll use my powers to find Sharpbeak.$B$BZul'Farrak is across the ocean to the west, in the desert of Tanaris.",
+  "p": "Do you have Nekrum's Medallion, $N?  There are powers hidden within it that I am eager to discover.",
+  "c": "Ah, the medallion of Nekrum.  It is rumored to have given the troll an unnatural long life, but at a cost.  I hope to discover a way to reap the medallion's power while avoiding its... unpleasant side effects.$B$BYou have done me a service, $N.  I shall now uphold my end of our bargain."
+ },
+ {
+  "id": 2992,
+  "t": "The Divination",
+  "o": "Wait until Grimshade performs the ritual of divination.",
+  "d": "Give me room while I perform a ritual of divination.  I will find the connection between the feather you brought me and its owner, and follow that connection to Sharpbeak himself.$B$BThat is... I will if all goes according to plan.  If it does not, then... you better close your eyes.",
+  "p": "",
+  "c": "The ritual was a success.  I have seen Sharpbeak and can tell you how to find him."
+ },
+ {
+  "id": 2993,
+  "t": "Return to the Hinterlands",
+  "o": "Speak with Gryphon Master Talonaxe.",
+  "d": "Sharpbeak is held in a cage, high on a cliff at the top of Jintha'Alor in the Hinterlands.  The key to this cage is possessed by the high priestess of the Vilebranch trolls, Vile Priestess Hexx.$B$BThere.  I have done my part.  I bid you fortune on your quest, $N.",
+  "p": "",
+  "c": "You've spoken with Grimshade?  What did he say?$B$B...What?  The Vilebranch trolls have Sharpbeak?  That's unbearable!  We must organize a force to get him back!"
+ },
+ {
+  "id": 2994,
+  "t": "Saving Sharpbeak",
+  "o": "Fight to the top of Jintha'Alor, kill Vile Priestess Hexx for the key to Sharpbeak's cage, and save Sharpbeak.",
+  "d": "We must save Sharpbeak!$B$BFight your way to the top of Jintha'Alor in the heart of Vilebranch territory, gain the key to Sharpbeak's cage from the vile Priestess Hexx, and then find and save Sharpbeak!",
+  "p": "Save Sharpbeak!",
+  "c": "Swiftwind and Keenclaw returned with their child moments ago, and are fussing over him like new parents.  Seeing them together again is enough to give even this old dwarf mist in the eyes...$B$BWe cannot repay you enough for what you have done, $N.  The gryphons of Aerie peak, and their riders, will sing your name for a long, long time."
+ },
+ {
+  "id": 2995,
+  "t": "Lines of Communication",
+  "o": "Oran Snakewrithe in Undercity wants you to travel to the Hinterlands and burn the Highvale Records, Highvale Report, and Highvale Notes.",
+  "d": "The Quel'Danil Lodge is a center of communication for the high elves of the Hinterlands. Their ambassadors are working to establish relationships with other races, with whom they share their knowledge of the Witherbark trolls that inhabit the area in the southern Hinterlands. All of the documents regarding the communications are kept at the lodge.$B$BWe don't need the Highvale building alliances with others, $N.$B$BDestroy the Highvale documents.  We need to burn their lines of communication... literally.",
+  "p": "Keeping the Highvale elves isolated is the key. Have you found the lodge?",
+  "c": "Perfect, $N. While the Highvale work to recover their lost information, we will be able to seal off the lines even further..."
+ },
+ {
+  "id": 2996,
+  "t": "Seeking Strahad",
+  "o": "Speak to Strahad Farsan in Ratchet.",
+  "d": "I have taught you skills in the past, but the time has come for another to teach you. He is in Ratchet, and his name is Strahad. He is human, but do not let that fool you into thinking he is weak. He is powerful even though he may be small. He can teach you about more powerful summonings--I feel you are ready. Go to him now. He is in Ratchet... above the port town next to his tower.",
+  "p": "",
+  "c": "A busy day in Ratchet, isn't it? How I enjoy watching the toil of a port city. So much mystery, so much adventure... so much ignorance.$B$BIs that hatred I see in your eyes, $N? Good, we will put that to good use."
+ },
+ {
+  "id": 2997,
+  "t": "Tome of Divinity",
+  "o": "Speak to Tiza Battleforge in Ironforge.",
+  "d": "Hello, $N. I know you're busy helping out the people of Dun Morogh, but when you have the time, you should make your way up to Ironforge to speak to one of our most respected ilk: Tiza Battleforge. She's the one the younger paladins go to when it's time they learn more about the Light and what's expected of ya.$B$BYou can find her upstairs in the Hall of Mysteries. If you've never been there, it's in the Mystic Ward. Good luck to ya, $N.",
+  "p": "",
+  "c": "Well met, $N. I hope the Light shows you the true path and keeps you safe from evil."
+ },
+ {
+  "id": 2998,
+  "t": "Tome of Divinity",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "Greetings, $Gbrother:sister;. Duthorian Rall, one of our most influential paladins, was speaking about you recently. I overheard him talking about how it was time you be put to the test some... along with some very complimentary things about how well you've performed thus far.$B$BIf I were you, I'd head to Stormwind and speak to him when you have time. I'm sure he's in the Cathedral of Light--that's where he spends most of his time.",
+  "p": "",
+  "c": "It is beautiful here in Stormwind, is it not?$B$BYour timing actually couldn't have been better, $N."
+ },
+ {
+  "id": 2999,
+  "t": "Tome of Divinity",
+  "o": "Speak to Tiza Battleforge in Ironforge",
+  "d": "Hello, $N. I know you're busy helping out the people of Dun Morogh, but when you have the time, you should go upstairs and speak to one of our most respected ilk: Tiza Battleforge. She's the one the younger paladins go to when it's time they learn more about the Light and what's expected of ya.",
+  "p": "",
+  "c": "Well met, $N. I hope the Light shows you the true path and keeps you safe from evil."
+ },
+ {
+  "id": 3000,
+  "t": "Tome of Divinity",
+  "o": "Speak to Tiza Battleforge in Ironforge.",
+  "d": "Hello, $N. I know you're busy helping out the people of Azeroth, but when you have the time, you should return to Ironforge and speak to one of the most respected paladins of your home: Tiza Battleforge. She's the one the younger dwarven paladins go to when it is time they learn more about the Light and what's expected of all of us.$B$BYou can find her upstairs in the Hall of Mysteries which is located in the Mystic Ward.",
+  "p": "",
+  "c": "I greet you, and bid you welcome, $N."
+ },
+ {
+  "id": 3001,
+  "t": "Seeking Strahad",
+  "o": "Find Strahad Farsan in Ratchet.",
+  "d": "I have taught you skills in the past, but the time has come for another to teach you. He is in Ratchet, and his name is Strahad. He is human, but do not let that fool you into thinking he is weak, nor is he your enemy... at least for now. He is powerful and should be respected. He can teach you about greater summonings, summonings I feel you are prepared for. Go to him now.$B$BYou can find him in Ratchet... above the port town next to the tower there.",
+  "p": "",
+  "c": "A busy day in Ratchet, isn't it? How I enjoy watching the toil of a port city. So much mystery, so much adventure... so much ignorance.$B$BIs that hatred I see in your eyes, $N? Good, we will put that to good use."
+ },
+ {
+  "id": 3002,
+  "t": "The Gordunni Orb",
+  "o": "Bring the Gordunni Orb to Uthel'nay in the Darkbriar Lodge in Orgrimmar.",
+  "d": "Although I know my enemy well, I am a warrior, $N. I cannot begin to tell you what this orb is capable of.$B$BI know of a mage in Orgrimmar that will be able to tell us more about the orb. Take it to him. ",
+  "p": "What have you brought me, $R?",
+  "c": "Fascinating, $N...$b$bThis orb is very powerful, but also very dangerous."
+ }
+]
