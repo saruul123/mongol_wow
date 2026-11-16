@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11598,
+  "t": "Taking Back Mightstone Quarry",
+  "o": "Overlord Razgor at Warsong Hold wants you to kill 15 Nerub'ar Nerubians.",
+  "d": "While Warsong is protected by 10 feet of steel and stone on all sides, this quarry is soft and primed for attacks by the Nerubians.$B$B<Razgor points west.>$B$BBeyond this quarry stand thousands of Scourge, awaiting orders to attack. Should the Nerubians take down our inner defenses, we will be overrun by the undead legions of Arthas.$B$BWe can't let that happen - which is why you're going on the offensive and slaughtering the Nerubians in the quarry.$B$BBlood and thunder, soldier! Take 'em both with you.",
+  "p": "We didn't build on the Nerubian tunnel system, those monsters tunneled to us!",
+  "c": "You've slowed them down, but more are sure to join the fight. Were you able to locate any of their egg sacs while in the quarry?"
+ },
+ {
+  "id": 11599,
+  "t": "Thassarian, My Brother",
+  "o": "Look for William Allerton inside the Farshire mine.",
+  "d": "I recently received word from William Allerton, a family friend, that my brother enlisted here in Valiance Keep on the same day he did.  Thing is... my brother's been dead for years.$B$BI sold everything I owned to come looking for Thassarian, only to be stonewalled by the local bureaucracy.  I've even been threatened with arrest if I keep snooping around.$B$BI need someone in the good graces of the higher-ups... someone like you.  If you can help me, I heard that William's stationed at the Farshire mine.",
+  "p": "",
+  "c": "The corpse matches the description that Leryssa gave you of William Allerton.  Oddly enough, there are no bite or claw marks on him."
+ },
+ {
+  "id": 11600,
+  "t": "The Late William Allerton",
+  "o": "Bring the Enlistment Card to Leryssa at Valiance Keep in Borean Tundra.",
+  "d": "William's neck has been cut by a sharp object.$B$BFurther inspection reveals a single clue to bring to Leryssa - an enlistment card bearing the name of William Allerton.",
+  "p": "You spoke to William, $N?",
+  "c": "Do you think William's death was a random killing by the Scourge?  Things sure seem fishy.$B$BSomething's up.  We must find Thassarian."
+ },
+ {
+  "id": 11601,
+  "t": "Lost and Found",
+  "o": "Speak to James Deacon at the inn in Valiance Keep.",
+  "d": "Poor Mr. Allerton might yet help us find my brother.$B$B<Leryssa unveils a voluminous book, not unlike an army recruitment ledger.>$B$BI borrowed it, ok?  Let's see, does that enlistment card have a date?$B$BWilliam saw Thassarian at the enlistment line.  Their entries must be near each other... here it is!$B$BHe was assigned to... Unit S?  All the other military units are named after Alliance towns.$B$BWho's in the unit?  Where are they deployed?  We need rumors.  See if the innkeeper's heard anything.",
+  "p": "",
+  "c": "Can't say I can help you friend.  But I might know someone who can."
+ },
+ {
+  "id": 11602,
+  "t": "Cutting Off the Source",
+  "o": "Overlord Razgor at Warsong Hold wants you to destroy 10 Nerub'ar Egg Sacs.",
+  "d": "Aerial reconnaissance of the quarry reports that the Nerubians are storing their eggs on the scaffolding surrounding the base. Smart beasts these are... They're keeping the eggs high and dry, away from the epicenter of conflict.$B$BYou're going to have to go back out there and track down their eggs. Find 'em, smash 'em, and trash 'em.$B$BEach egg destroyed means twenty less Nerubians feeding on our corpses.$B",
+  "p": "You need to destroy those egg sacs!",
+  "c": "They just keep on coming, despite our best efforts. Something's gotta give, $N."
+ },
+ {
+  "id": 11603,
+  "t": "In Wine, Truth",
+  "o": "Salvage a bottle of Kul Tiras Wine from the underwater shipwreck northeast of Valiance Keep and bring it to Old Man Colburn in the Valiance Keep inn.",
+  "d": "The military was all that old man Colburn had.  After he retired, he still clung to it like a lifeline.$B$BHe knows the name of every general, unit, brigade, detachment... you name it.  He's the man you need.$B$BProblem is, his mind is scarred.  He won't talk to anyone unless he gets his Kul Tiras wine.  Takes him back to the times he was a marine.$B$BI haven't received a shipment in months.  The last merchant ship out of Kul Tiras sunk northeast of here.  See if you can salvage a bottle to bring Colburn.",
+  "p": "<The old man looks up at you with a blank look on his face.>",
+  "c": "Mmmmm... not too bitter... not too dry... it's just like the old days, with the lads at the barracks."
+ },
+ {
+  "id": 11604,
+  "t": "A Deserter",
+  "o": "Find the prison inside Inner Hold in Valiance Keep and speak to the deserter.",
+  "d": "Unit S... Unit S.... hmmmpph.... don't make any sense... it oughta be named after a town...$B$BDarkshire was sent to Dragonblight.  The Goldshire boys were sent to the Fjord.   Where did I hear...$B$BOh, yes... the deserter!  There's a turn-tail in the barracks prison.  Got thrown in not too long ago.  Kept saying that \"S\" stood for suicide.$B$BLook for the deserter.  He might have some information for you.",
+  "p": "",
+  "c": "Whad'ya want?  I have enough problems as it is!"
+ },
+ {
+  "id": 11605,
+  "t": "The Honored Ancestors",
+  "o": "Elder Atkanok outside Coldrock Quarry wants you to identify the statues of Elder Kesuk, Elder Sagani, and Elder Takret.",
+  "d": "<A distant voice echoes in your head as you regard the stone statue.>$B$BDo not be startled, stranger. I am Elder Atkanok, an ancient ancestor of the tuskarr people, a skilled craftsman in my own time and the guardian of this quarry for centuries.$B$BThe quarry has been overrun, leaving many statues unfinished while the ancestors' spirits wander the world. Will you aid me in righting this wrong?$B$BFirst, I must know the names of these wandering ancestors. Look for the markers near their statues.",
+  "p": "<The distant voice returns.>$b$bHave you recovered the names of the wandering elders?",
+  "c": "<Elder Atkanok's voice greets you as you approach his statue.>$B$BWell done, $N. With the names of the wandering elders, we can continue the ceremonies disrupted during the attack. However, before the elders' spirits can be led to their stones, we must calm the spirits of the murdered craftsmen and shaman. Otherwise, the ancestor spirits may never hear the ceremony's call."
+ },
+ {
+  "id": 11606,
+  "t": "Patience is a Virtue that We Don't Need",
+  "o": "Quartermaster Holgoth at Warsong Hold wants you to recover 15 crates of Warsong Munitions.",
+  "d": "We can kill all the Nerubians that we see and destroy all the eggs that we find, but those things won't stop coming until we blow their tunnels and passageways up. Of course, we can't do that without some heavy grade munitions. Unfortunately, most of our stockpile is being used up by the goblins and blacksmiths for our siege tanks and weaponry.$B$BWe do happen to have a pretty good supply of the stuff out in Mightstone Quarry - underneath all the Nerubian crap. You'll just have to go out and get it for me.",
+  "p": "We're running out of time here, $c.",
+  "c": "If my calculations are correct - and they're often not - you're gonna need about 10-20 seaforium depth charges.$b$bOh yea, you'll be planting these mothers into their sinkholes."
+ },
+ {
+  "id": 11607,
+  "t": "The Lost Spirits",
+  "o": "Elder Atkanok, on the outskirts of Coldrock Quarry, wants you to free the spirits of 3 Kaskala Craftsmen and 3 Kaskala Shaman.",
+  "d": "In the attack on the quarry, the shaman and craftsmen working here were slain. The violence threw the spirit world into utter chaos and we'll be unable to guide the ancestors home unless we find a way to soothe the spirits of the murdered.$B$BThe aggressors themselves pay no heed to the spirits, but their companions, the beryl hounds, sense the spirits and hold them in thrall.$B$BKill the beryl hounds, and using the raw energy left behind, break the imprisonment of the spirits of the innocent.",
+  "p": "How fare the spirits of the innocent?",
+  "c": "I can sense the upheaval in the spirit world beginning to calm. You have done well, $N. The spirits of the ancestors are fortunate to have your help in this time of need."
+ },
+ {
+  "id": 11608,
+  "t": "Bury Those Cockroaches!",
+  "o": "Quartermaster Holgoth at Warsong Hold wants you to use the Seaforium Depth Charge Bundle to destroy the Nerub'ar sinkholes to the south, east, west and north of Warsong Hold.",
+  "d": "North, south, east and west. Those are the locations that you should be concerned about. Surrounding this fortress, within Mightstone Quarry, are four perfectly situated Nerub'ar sinkholes.$B$B<Holgoth hands you a bundle.>$B$BBe very careful with that package, $N. Mishandle it and you'll be dog meat.$B$BInside the bundle are seaforium depth charges. Get to each of those Nerub'ar sinkholes and plant a depth charge at their center point. If all goes well, the tunnels will collapse.$B$BGet a move on!",
+  "p": "Well?",
+  "c": "That'll stop 'em - at least I think it'll stop 'em. Either way, you've done your part. That's all an $r can ask for, no?"
+ },
+ {
+  "id": 11609,
+  "t": "Picking Up the Pieces",
+  "o": "Bring 6 Tuskarr Ritual Objects to Elder Atkanok, who stands outside Coldrock Quarry.",
+  "d": "With the spirits of the murdered craftsmen and shaman at rest, the way is clear for us to complete the ceremonies interrupted by the attack. You must perform a role traditionally reserved for a tuskarr shaman, and you must possess all the necessary ritual items.$B$BThere is no time to craft new ones, so you will need to scour the quarry for those left by the victims of the attack. Handle these objects with care, $N, for some are centuries old. You may need to wrest them from the hands of the invaders.",
+  "p": "Have you recovered a full set of ritual items?",
+  "c": "<You hold the objects before the statue of Elder Atkanok.>$B$BThose will suffice, although they are in a sad state. Some of them have survived centuries of use, only to be battered and stolen by barbarians."
+ },
+ {
+  "id": 11610,
+  "t": "Leading the Ancestors Home",
+  "o": "Elder Atkanok wants you to guide the spirits of Elder Kesuk, Elder Sagani, and Elder Takret to their stone monuments.",
+  "d": "With your help, the ancestor spirits can now be guided to their rightful homes, the statues lovingly prepared by Kaskala's craftsmen and shaman.$B$BThe ceremonies for these ancestors were interrupted during the attack on the quarry, and you will need to complete them. Take with you the objects that you recovered from the quarry, stand in front of the statues with the name markers, and recite this chant.$B$B<Words in a strange language flood your head, but you have no difficulty recalling them.>",
+  "p": "Have you completed the ceremonies for the ancestors?",
+  "c": "The ancestors have found their statues, and they have you to thank, $N. The craftsmen of Kaskala will return to the quarry and ensure that the line of ancestors continues unbroken. For our part, the ancestors will continue to observe you with interest, as it seems your path is just beginning."
+ },
+ {
+  "id": 11611,
+  "t": "Taken by the Scourge",
+  "o": "Foreman Mortuus at Warsong Hold wants you to free 5 Warsong Peons.",
+  "d": "<Mortuus sighs.>$B$BPeons... We may as well post up a sign offering the Nerub'ar a free meal.$B$BSee, the problem with a peon is that: (1) they're dumber than dirt; and (2) they're weaker than a leper gnome. Of course they're the first to be taken by the Scourge!$B$BThis puts me in a bit of a predicament, you see. Without peons, manual labor comes to a halt. No peons, no construction.$B$BFind and release my peons, $r. If they're alive, you'll find 'em spun up in webbing throughout Mightstone Quarry.$B",
+  "p": "",
+  "c": "Most of them made it back. The ones smart enough to know that we're inside the gigantic metal and stone building, anyway...$B$BRegardless, a job well done. I hear you sprung more than a couple peons loose.$B$BOh yes, you're the talk of the... um... fortress."
+ },
+ {
+  "id": 11612,
+  "t": "Reclaiming the Quarry",
+  "o": "Etaruk, camped near the entrance to the Coldrock Quarry, wants you to kill 12 Beryl Treasure Hunters.",
+  "d": "You're a welcome sight, $c. My name is Etaruk, and I used to be a craftsman here at the Coldrock Quarry.$B$BMy companions and I were preparing a new set of statues for their last set of rites when we saw those mysterious blue platforms come flying over the plateau.$B$BWhen they landed, the mages they carried swarmed the quarry, murdering my fellows and plundering the quarry. If we don't stop them, they'll destroy our statues and make off with our artifacts. Will you help me defeat the invaders?",
+  "p": "Have you started ridding the quarry of our enemies?",
+  "c": "Now that these strange mages know that the people of Kaskala and their allies will not give up the quarry so easily, we must maintain our efforts and defeat them completely.$B$BMy brothers in Kaskala have also come under attack and will not be able to support us, but with your help, $N, we can overcome these pillagers."
+ },
+ {
+  "id": 11613,
+  "t": "Karuk's Oath",
+  "o": "Karuk wants you to slay 6 Skadir Raiders and 5 Skadir Longboatsmen.",
+  "d": "They call themselves the Kvaldir.  My people have legends about them; we call them the tuk-hariq - walkers of the fog.$B$BMy village was destroyed by these giant mist-men.  Everyone I knew was slain, including my father Ariut.$B$BBy tuskarr law I must seek retribution against those who shed my kin's blood.$B$BI am but a fisherman and I've not yet passed the test of manhood... I cannot stand toe-to-toe with the vile Kvaldir.$B$BIf you were to carry out my blood duty for me, I will be in great debt to you.",
+  "p": "Did you succeed, $r? The Kvaldir are cruel warriors. Do not expect any quarter from them.",
+  "c": "You've done my people a great favor, $N.  I must ask one more thing of you, however."
+ },
+ {
+  "id": 11614,
+  "t": "Untold Truths",
+  "o": "Find Shadowstalker Luther in Mightstone Quarry.",
+  "d": "We are here by order of Varimathras! The mission of the Shadowstalkers is a simple one: spy. Well, spy with a little assassination on the side.$B$BOne of my best field agents has gone missing. I haven't heard from him in days, which has left me fearing the worst. No, not death! Death would be ideal. I fear he may have gone rogue... turned traitor even.$B$BHis last known location was northern Mightstone Quarry. He was gathering intelligence on the Nerubians. Find him.$B$BHe better be dead...",
+  "p": "",
+  "c": "It doesn't get much deader than this... Strangely, the Nerubians did not devour the corpse.$b$bAfter careful examination you see that Luther's death was self inflicted - deadly poison. Smart. Nerubians won't come near this toxic corpse.$b$bYou notice that Luther is holding a journal."
+ },
+ {
+  "id": 11615,
+  "t": "Nerub'ar Secrets",
+  "o": "Take Luther's Journal to Shadowstalker Barthus at Warsong Hold.",
+  "d": "You skim through the pages of the book, looking for anything of importance. On the last page you discover what appears to be frantic scribbling:$B$BNecrolords. At least a dozen by my count.$B$BFarms to west being used as some sort of horrible spawning glade for Scourge.$B$BRow upon row of victims.$B$BI think they're on to me. Made a dash for the hold. I won't be captured alive.$B$BDreadvenom hemotoxin. If they decide to bite into me, they'll be in for a surprise.$B$BTake this information back to Barthus.",
+  "p": "Is he dead?",
+  "c": "<Barthus flips to the last page of the journal and begins reading.>$b$bThis is very bad news. Hellscream must be notified at once."
+ },
+ {
+  "id": 11616,
+  "t": "Message to Hellscream",
+  "o": "Take Barthus's Note to Garrosh Hellscream at Warsong Hold.",
+  "d": "<Barthus tears out the last page and rolls it up.>$B$BTake this to Hellscream at once! In the meantime, I'm going to send a team to scout out the farms.$B$BBe sure to tell Hellscream that we're going to need reinforcements. ",
+  "p": "What is the meaning of this interruption? Do not burden me with nonsense!",
+  "c": "<Hellscream reads the journal entry.>$b$bIs that all?"
+ },
+ {
+  "id": 11617,
+  "t": "Hampering Their Escape",
+  "o": "Etaruk, outside the Coldrock Quarry, wants you to destroy the North Platform, the East Platform, and the West Platform.",
+  "d": "I'm sure you've seen those blue and white platforms hovering over the quarry. They're the transportation the mage hunters used to land their forces here, and now they're loading them up with our artifacts and fragments of our statues.$B$BWe must stop them before they leave the quarry.$B$BThe small creatures digging in the quarry carry explosives. Take them and use them to destroy the three floating platforms. The leader keeps watch from a fourth, grounded platform, but we'll deal with him afterward.",
+  "p": "Have you succeeded in destroying the mage hunters' flying platforms?",
+  "c": "The mage hunters won't find it as easy to plunder our quarry and steal our artifacts as they'd imagined. With your help, we'll win back the quarry and set things right again."
+ },
+ {
+  "id": 11618,
+  "t": "Reinforcements Incoming...",
+  "o": "Seek out Shadowstalker Ickoris at the Warsong Farms Outpost west of Warsong Hold.",
+  "d": "<Hellscream shakes his head.>$B$BYou may not have noticed that we're trying to win a war here, $r. I need all available soldiers at the primary points of conflict. This means that we don't have any real soldiers to spare for these minor incursions.$B$B<Hellscream pauses to think.>$B$BIf Barthus wants reinforcements at the farm...$B$B<Hellscream claps his hands together.>$B$B...he shall have them! Report to Barthus's assassins at the farms, west of here. Let them know that reinforcements have arrived.",
+  "p": "",
+  "c": "This is it? Hellscream sent a single $r $g boy:girl;?$B$BIf I still had a jaw it would be on the floor right now."
+ },
+ {
+  "id": 11619,
+  "t": "Gamel the Cruel",
+  "o": "Karuk wants you to defeat Gamel the Cruel at Riplash Strand.",
+  "d": "My own father was slain by the leader of this raiding party, Gamel the Cruel.  He has made his abode inside a cave on the beach.$B$BYou've dealt with his men already.  Finish what you've started, $N.  Avenge my father and I will share with you what little I still have.",
+  "p": "Did you defeat Gamel, $r?",
+  "c": "You did it, $N!  The spirits of the slain tuskarr can now rest in peace - their deaths have been avenged!"
+ },
+ {
+  "id": 11620,
+  "t": "A Father's Words",
+  "o": "Look for Veehja at the Shrine of Scales on Riplash Strand.",
+  "d": "There is someone who might shed light on this mystery, $r.  It is rumored that the Kvaldir have kept a naga priestess alive at the temple on the west side of the shore.$B$BShe will no doubt have great reason to resent her uninvited Kvaldir guests.  Perhaps my father is expecting her to cooperate with you in some way.",
+  "p": "",
+  "c": "Hsssssssssssss!  Have you come to mock me, $r?"
+ },
+ {
+  "id": 11621,
+  "t": "The Tablet of Leviroth",
+  "o": "Return to Karuk with the information you found on the tablet.",
+  "d": "You scour through the tablet's etchings, looking for any text you can understand.  You finally find the following fragment:$B$B\"The sons of the fog will claim a thousand souls for the one who dwells in darkest waters.  His emissary will then awake.\"$B$BKaruk might be interested in this information.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11622,
+  "t": "Secrets of Riplash",
+  "o": "Find Veehja at the ruins of Riplash in Borean Tundra.",
+  "d": "There is someone who might shed light on this mystery, $r.  It is rumored that the kvaldir have kept a handful of naga priestesses alive inside the temple.$B$BThe high priestess, Veehja, will no doubt have great reason to resent her uninvited kvaldir guests.  Perhaps she can tell you more about what the writing on the tablet means.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11623,
+  "t": "A Visit to the Curator",
+  "o": "Etaruk, on the outskirts of the Coldrock Quarry, wants you to kill Curator Insivius.",
+  "d": "The leader of the mage hunter forces is a fearsome creature called Curator Insivius. My people have hunted the beasts of the seas and land for countless generations, but I've never seen anything like this curator before.$B$BHe's landed one of those flying disks on the upper rim of the quarry and oversees the operation from there. $N, I can only believe the ancestors themselves sent you to my rescue and I hope you will help me drive the mage hunters from this quarry once and for all.",
+  "p": "Have you done away with the curator?",
+  "c": "The curator and his men must've thought the quarry an easy target for their looting, but you've shown them otherwise, $N. I am deeply grateful for your help and I'm certain the ancestors will continue to watch over you."
+ },
+ {
+  "id": 11624,
+  "t": "The Sky Will Know",
+  "o": "Speak with Imperean at the Ruins of Eldra'nath.",
+  "d": "I must find out what happened to my master, Farseer Grimwalker!$B$BEarlier, he was observing the magnataur at nearby Magmoth. But one of his grunts just returned, saying that the group had been crushed, and that the farseer was dragged into the depths of the place.$B$BBefore I send you on a suicide mission, I wish to consult with the spirits to learn more.$B$BThere is an air elemental known as Imperean in the ruins of Eldra'nath to the west. She is wise and may give you the information we seek.",
+  "p": "",
+  "c": "You are foolish to come here, little $r.$B$BWhat is it that you seek?"
+ },
+ {
+  "id": 11625,
+  "t": "The Trident of Naz'jan",
+  "o": "Veehja in Riplash wants you to go to the far northeastern end of the Riplash Ruins.  Once there slay Ragnar Drakkarlund and obtain the Trident of Naz'jan from him.",
+  "d": "Five hundred years ago, Azshara imprisoned a being named Leviroth in the waters below.  Now these barbarians seek to undo our queen's work!$B$BThey took over our city and began to sacrifice my brethren to awaken him!  When they ran out of naga, they began to take tuskarr.  Their spirits will know no peace!$B$BI will help you, for it will go a long way towards quelling my vengeance.  Their captain, Ragnar, dwells deep inside northeastern Riplash.  He has in his possession a golden trident.  Bring it to me!",
+  "p": "Do you have the trident?",
+  "c": "Yesssssss!  We will slay the Kvaldir's beast!  I will show these brutes to never cross a priestess of the scale!"
+ },
+ {
+  "id": 11626,
+  "t": "The Emissary",
+  "o": "Find Leviroth in the waters below the iceberg floating among the northern edge of Riplash Ruins.  Use the Trident of Naz'jan to slay him and return to Karuk to the north of Riplash Strand.",
+  "d": "Raj Naz'jan was the emperor of Riplash when Leviroth was imprisoned.  Azshara herself blessed his trident so it would slay the beast should it ever escape.$B$BNow you wield it, $r.  As much as it disgusts me, I will have my revenge on these barbaric giant-men.$B$BTake the trident to the depths beneath Riplash.  You will find Leviroth below an iceberg closest to northern Riplash.$B$BDrive the trident into his flesh and slay him!  Return to whomever sent you when you're done; I wish to see no more of you.",
+  "p": "",
+  "c": "My people's spirits can rest in peace.  You've helped me honor my father... perhaps I will one day be as strong as you are."
+ },
+ {
+  "id": 11627,
+  "t": "Boiling Point",
+  "o": "Imperean wants you to beat Simmer and Churn into submission.  Return to her at the Ruins of Eldra'nath when they have submitted.",
+  "d": "Ah, it is information that you crave: the whereabouts and condition of your 'farseer'. He did not see so far as to avoid the trouble which befell him.$B$BNevertheless, I will give you the means to acquire the knowledge. But first, you will do some things for me.$B$BNo doubt you have seen the war between fire and water to the south. Simmer keeps boiling Churn's pool, and the two have been battling for ages.$B$BGo to the Charred Rise and Blistering Pool, and convince each of them to stop their bickering.",
+  "p": "",
+  "c": "I am pleased, though no doubt they will still continue to quarrel a bit longer.$B$BHowever, there is something else that you will need to accomplish before you can return to your spirit talker."
+ },
+ {
+  "id": 11628,
+  "t": "Shrouds of the Scourge",
+  "o": "Chieftain Wintergale at Taunka'le Village wants you to bring him 5 Scourged Mammoth Pelts.",
+  "d": "To the northeast looms the Temple City of En'kilah, the Scourge's seat in Borean Tundra. From behind its walls, the Scourge commander has sent his Nerubians to surround us.$B$BRemaining on the defensive would doom my people, but my advisors differ in their strategies. Durm would charge in blindly, while Sage Aeire favors stealth.$B$BThe Temple City has blighted the nearby lands and the native creatures. Aeire believes the pelts of the scourged mammoths can serve as a cloak that may hide an infiltrator.",
+  "p": "Have you brought the mammoth pelts?",
+  "c": "As much as I dislike bringing such disease-ridden things into the village, they may give us an advantage over our foes.$b$b<The chieftain gestures to Sage Aeire and waves dismissively at the pelts.>$b$bWhile she is preparing the pelts, there is one other element we need to create the cloak."
+ },
+ {
+  "id": 11629,
+  "t": "Return to the Spirit Talker",
+  "o": "Deliver Imperean's Primal to Spirit Talker Snarlfang at Bor'gorok Outpost.",
+  "d": "You have done what was asked, and now I give you that which you desire.$B$BDeliver this primal to the spirit talker back at your Bor'gorok Outpost. If she is wise, she will know a ritual to gain you the information which you seek.",
+  "p": "$N, you have returned. What did you learn?$B$BWhat is that sound?",
+  "c": "Imperean gave you a primal essence of herself? I can hear its howling winds!$B$BI know a ritual we can make use of it in. We must hurry before her primal rips itself apart!"
+ },
+ {
+  "id": 11630,
+  "t": "The Bad Earth",
+  "o": "Bring 8 clods of Scourged Earth to Chieftain Wintergale at Taunka'le Village.",
+  "d": "By curing the hides with the blighted earth outside the Temple City, Sage Aeire believes she can create a cloak which will cause most of the Scourge minions to ignore your presence. You should blend right in, she says.$B$BShe'd best be correct. It's our only chance to gather information and plan our counterattack.$B$BYou should be able to find the earth she needs poking in the areas to the south and west of the fortress. Bring it to me when you've finished gathering it.",
+  "p": "Do you have the earth Sage Aeire needs to complete the cloak?",
+  "c": "<Chieftain Wintergale gingerly accepts the clods of soil you gathered.>$b$bWe should get these into Sage Aeire's hands as soon as possible.$b$b<The chieftain grunts, pretending not to be disturbed by the tainted dirt.>$b$bWe can never know when the Scourge commander will launch the final assault on the village."
+ },
+ {
+  "id": 11631,
+  "t": "Vision of Air",
+  "o": "Use Imperean's Primal to perform a ritual at Snarlfang's Totem at Bor'gorok Outpost to gain information concerning Farseer Grimwalker.$B$BAfterward, speak with Spirit Talker Snarlfang.",
+  "d": "Here, $N, I've attuned the primal to you.$B$BOpen your soul to it in the presence of my totem of air and concentrate upon the fate of Farseer Grimwalker.$B$BThe spirit of the wind touches all; with any luck you will be granted a vision.",
+  "p": "When you feel that you have seen enough, return the primal to me.",
+  "c": "They've shackled his spirit. $N, we have to put an end to his torture!$B$BYou must descend into the bowels of Magmoth and find a way to free him!"
+ },
+ {
+  "id": 11632,
+  "t": "What the Cold Wind Brings...",
+  "o": "Take Ith'rix's Hardened Carapace to High Overlord Saurfang at Warsong Hold.",
+  "d": "You hold the carapace fragment of Ith'rix the Harvester and realize that this is only the beginning. Even now you sense that victory is fleeting. Surely the Lich King has a thousand more beasts like Ith'rix, waiting to be unleashed upon the Horde.$B$BTake your trophy and present it to High Overlord Saurfang, inside Warsong Hold. He should be notified of your victory over a powerful Scourge agent.",
+  "p": "What have you got there?",
+  "c": "<Saurfang grins.>$B$BIt looks familiar... The Might of Kalimdor trampled a thousand bugs like this one in the desert of Silithus.$B$BThis is a different place - a different environment - but the result will be the same.$B$B<Saurfang looks you over.>$B$BYou will bring pride and honor to the Horde in Northrend, $N.$B$B<Saurfang nods.>"
+ },
+ {
+  "id": 11633,
+  "t": "Blending In",
+  "o": "Chieftain Wintergale at Taunka'le Village wants you to wear the Imbued Scourge Shroud in the Temple City of En'kilah and scout the Spire of Blood, the Spire of Pain, and the Spire of Decay.",
+  "d": "Sage Aeire has finished the shroud. Take it with you and travel to the Temple City of En'kilah. Don the cloak within the city's bounds to hide yourself from most of the Scourge there. This will be our best opportunity to gather information about the enemy's fortifications and leaders.$B$BWhile wearing the cloak, scout the three large spires on the grounds of the city. While the shroud will shield you from most of the Scourge, the En'kilah abominations will be able to find you if you get too close.",
+  "p": "Have you finished scouting the temples in the Scourge's fortress?",
+  "c": "<Chieftain Wintergale listens as your describe your observations.>$b$bThe information you've gathered will help us to plan our assault on the Temple City. We'll need to find a way to defeat the officers you identified and get into that necropolis."
+ },
+ {
+  "id": 11634,
+  "t": "Wind Master To'bor",
+  "o": "Report to Wind Master To'bor at Warsong Hold.",
+  "d": "You're a tough mother, $N. I think your talents are better suited elsewhere - like the root of the whole damn problem!$B$B<Razgor points to the west.>$B$BA thousand Scourge, at least four full sized floating death machines and who knows what else.$B$BBut you're gonna find out and then you're gonna handle it... That's right, you're gonna beat the hell out of the Scourge army that's currently beating down our door.$B$BGet to the top of Warsong Hold and report to Wind Master To'bor. He'll be expecting you.",
+  "p": "",
+  "c": "Ay, mon. I been expectin' you.$B$B<To'bor points west.>$B$BTake a peek. Across dat tundra be death, mon... death."
+ },
+ {
+  "id": 11635,
+  "t": "Farseer Grimwalker's Spirit",
+  "o": "Speak with Farseer Grimwalker's Spirit inside of Magmoth.",
+  "d": "You must go to Magmoth to the east.$B$BYou must descend into the depths of their caverns.$B$BYou must speak with Farseer Grimwalker's spirit!",
+  "p": "",
+  "c": "Thank you for the reprieve, $c. If only my true freedom were so easy to attain."
+ },
+ {
+  "id": 11636,
+  "t": "Magic Carpet Ride",
+  "o": "Talk to Yanni at Warsong Hold to arrange safe travel to the coast. Speak to Gorge the Corpsegrinder once you arrive at Garrosh's Landing.",
+  "d": "Tanks, mon. I be talkin' bout siege machines! We got heavy tanks stationed at Garrosh's Landing on da west coast. We gonna get you to da tank and you gonna use da tank to lay down some Horde justice on da Scourge!$B$BDa only tricky part be getting' you der. No way we be sendin' you on our wind riders. Too risky.$B$BYou see dat pixie o'er der? Dat blondie elf? Yanni be his name, mon. He can get you to da coast, safely. Once der, talk to Gorge da Corpsegrinder!",
+  "p": "",
+  "c": "NO MERCY FOR THE DEAD!$B$BNone of 'em had the guts to stay behind to defend our glorious tanks after Hellscream deemed the coast 'condemned.' It's mostly quiet here, seein' as how the Scourge are formin' up ranks to assault Warsong Hold. Sometimes I get a stray zombie or ghoul, but they don't last very long.$B$B<Gorge strokes his axe.>$B$B'Course, there's the mist...$B$B<Gorge shudders.>\n"
+ },
+ {
+  "id": 11637,
+  "t": "Kaganishu",
+  "o": "Retrieve Kaganishu's Fetish and use it upon Farseer Grimwalker's Remains.$B$BYou will need to give the fetish to Farseer Grimwalker's Spirit inside of Magmoth.",
+  "d": "After my small force of grunts were killed, I was dragged down here and ritually murdered. The snobold who did this is known as Kaganishu.$B$BThough you have vanquished his shaman helpers, my spirit is still tethered to this place. After he slew me, he created a fetish from my body, which anchors me here. Kaganishu is using it to learn all that I know of shamanism.$B$BYou must retrieve the fetish from him and use it upon my spirit. Kaganishu is nearby in the caves.$B$BOnly then will I truly be free.",
+  "p": "Hurry, $c, use the fetish upon me before it is too late.",
+  "c": "I am freed. Thank you, $N.$b$bAnd now, I have one final request of you."
+ },
+ {
+  "id": 11638,
+  "t": "Return My Remains",
+  "o": "Deliver Farseer Grimwalker's Remains, which are resting below his spirit, to Spirit Talker Snarlfang at Bor'gorok Outpost.",
+  "d": "$N, now that my spirit has been freed would you do me the honor of returning my remains to Spirit Talker Snarlfang? They lay upon the ground beneath me.$B$BI sense that the spirit talker is still at Bor'gorok Outpost to the west where last I saw her.",
+  "p": "You return sooner than I expected. What did you learn?",
+  "c": "Thank you for freeing his spirit from Kaganishu and returning with his remains. We have little to reward you with, but you may take whatever catches your eye.$b$bAnd now, I will return him to the living where he belongs."
+ },
+ {
+  "id": 11639,
+  "t": "Revenge Upon Magmoth",
+  "o": "Kill 10 Magmoth Shaman, 5 Magmoth Foragers, 3 Magmoth Crushers, and 3 Mates of Magmothregar. Then, return to Ortrosh at Bor'gorok Outpost.",
+  "d": "The overlord refuses to allow the shaman to heal my wounds. He says that it will be a good lesson for me and give me time to reflect upon my failure.$B$BBut you could get revenge for me and the others who fell at Magmoth!$B$BI know that the spirit talker wants you to go in there to save the farseer.$B$BIt's just to the east. Go, $c... go slay the magnataur and their snobold servants. Regain the outpost's honor!",
+  "p": "Lok'tar, $c. You could not possibly have slain everything at Magmoth in such a short time!",
+  "c": "The dead are honored by your actions, $N.$b$b<The wounded orc nods and exhales slowly.>$b$bPerhaps now I can find my way back to being the warrior I once was."
+ },
+ {
+  "id": 11640,
+  "t": "Words of Power",
+  "o": "Bring High Priest Naferset's Scroll, High Priest Talet-Kha's Scroll, and High Priest Andorath's Scroll to Chieftain Wintergale at Taunka'le Village.",
+  "d": "Within the spires you described dwell the main lieutenants of the Scourge leader, the high priests. Not only do they command the Scourge forces, but they hold the key to the necropolis above, and their master.$B$BAn endless stream of Scourge minions will overrun us if we can't find and defeat their leader. I cannot leave my people defenseless, however much Durm might want to bring the fight to the enemy. It falls to you, $N, to slay the high priests and take the scrolls they hold.",
+  "p": "We must get into that necropolis if we're to break through the Scourge and clear a path for the villagers.",
+  "c": "<Chieftain Wintergale reads the words written on the scrolls.>$b$b'Shabtir bakh sokhen.'$b$bWords of the ancient, harsh language used by the Nerubians, and apt ones at that.$b$b'The servant bows to the master's authority.' These are the words that will gain you entry into the necropolis."
+ },
+ {
+  "id": 11641,
+  "t": "A Courageous Strike",
+  "o": "Slay 15 En'kilah Ghouls and 5 En'kilah Necromancers and report back to Durm Icehide at Taunka'le Village.",
+  "d": "From the beginning, I've counseled that Chieftain Wintergale should assemble our mighty warriors and attack our enemy at their base. My advice has fallen on deaf ears and he has proven that he'd rather tip-toe around according to Sage Aeire's plans.$B$BI'll wait no longer. If Chieftain Wintergale is too cowardly to send our warriors into battle, perhaps you'd be willing to show him that a direct attack can succeed. Storm the Temple City of En'kilah and slay all in your path, $N.",
+  "p": "Don't bother me unless you've come to report a successful mission.",
+  "c": "You have proven your fearlessness and demonstrated your prowess in combat. I believe you would make a fine taunka warrior. I only wish the chieftain had the same understanding.$b$bWe are fortunate to count you as an ally in our struggle to evacuate the village before it is overrun by the Scourge."
+ },
+ {
+  "id": 11642,
+  "t": "Tank Ain't Gonna Fix Itself",
+  "o": "Speak with Mobu at Garrosh's Landing.",
+  "d": "We need to get these tanks back up and runnin'! They ain't gonna fix themselves. Mobu's gonna be the one to handle that stuff. Talk to him and see what he needs. Maybe you can shut him up before he finally drives me into a berserker frenzy and I cleave his little gnome-sized frame in two!$B$BI hate gnomes...",
+  "p": "",
+  "c": "You're the new tank driver, buddy? Fine by me! We just need to get these things up and running again. Yea, you try to go out into the Plains of Nasam without a tank and you're as good as dead."
+ },
+ {
+  "id": 11643,
+  "t": "Mobu's Pneumatic Tank Transjigamarig",
+  "o": "Mobu at the Coast of Echoes in the Borean Tundra wants you to recover his Pneumatic Tank Transjigamarig.$B",
+  "d": "These wrenches are useless, buddy. I need my pneumatic tank transjigamarig to get these things up and running! Unfortunately, I left it at my old digs, on the other side of this landing. It's the beat down hut next to the stables. You're gonna have to go and get it for me, because I sure as hellfire am not going to go anywhere near the mist.$B$BOh yea, buddy, watch out for the mist. The mist is what tore up these shores.$B",
+  "p": "Did you find the P.T.T.?",
+  "c": "Great work, buddy! Now where'd I put those spare parts..."
+ },
+ {
+  "id": 11644,
+  "t": "Super Strong Metal Plates!",
+  "o": "Mobu at the Coast of Echoes in the Borean Tundra wants you to collect 10 Super Strong Metal Plates.",
+  "d": "I need metal to patch these tanks up! Super strong metal plates can be found scattered about all across Garrosh's Landing and at the bottom of the bay.$B$BJust be careful when you're out there searching for plates. The mist is... um... AGGRESSIVE! The mist is what took out the landing and the adjoining tuskarr town. Poor little tuskarr...",
+  "p": "Remember, the mist is bad!",
+  "c": "Great work, buddy! Now where'd I put that pneumatic tank transjigamarig.\n"
+ },
+ {
+  "id": 11645,
+  "t": "Dirty, Stinkin' Snobolds!",
+  "o": "Retrieve 10 boxes of Crafty's Stuff and return them to Crafty Wobblesprocket at Fizzcrank Airstrip.",
+  "d": "Those dirty, stinkin' snobolds... they stole all of my supplies!$B$BWhat's a snobold you ask? It's like a kobold, 'cept they serve the magnataur; kinda take care of them. I know, weird!$B$BAnywho, wanna help me out? I know the little creeps stole off with all of my stuff. Stupid me thinkin' that it'd be nice and safe, packed up on the north side of the airstrip.$B$BWhy don'tcha do me a favor and head north to their stupid Magmoth. There's a cash reward if you bring all my stuff back quick!",
+  "p": "Ya got all of my supplies, $c? I just can't do ANYTHING without all of my stuff!",
+  "c": "Oh, $N, you're just the best!$b$bHere's your coin as promised."
+ },
+ {
+  "id": 11646,
+  "t": "The Borean Inquisition",
+  "o": "Donathan ordered you to offer your assistance to Librarian Normantis in the mage tower on Amber Ledge.",
+  "d": "Listen closely, $n, for there is not a moment to spare.$b$bYour prisoner is being prepared for interrogation here in our tower. In the event that he is less than forthcoming, your assistance may be required.$b$bMake your way up to where he is being detained and tell Librarian Normantis that I've sent you to assist him.",
+  "p": "",
+  "c": "It was wise of Donathan to send you, $c.$b$bAs it turns out, I am in need of someone outside the Kirin Tor."
+ },
+ {
+  "id": 11647,
+  "t": "Neutralizing the Cauldrons",
+  "o": "Sage Aeire at Taunka'le Village wants you to use her totem to neutralize the East Cauldron, the Central Cauldron, and the West Cauldron in the Temple City of En'kilah.",
+  "d": "The presence of plague cauldrons within the Temple City of En'kilah worries me greatly, $N. It's clear that Chieftain Wintergale trusts your judgment and your knowledge of our enemy. Would you help me deal with the cauldrons as you help the chieftain carry out his plans in the Temple City?$B$BI've prepared a totem which will attack and neutralize the contents of the cauldrons. All you must do is locate the cauldrons and use the totem near each. Each Scourge weapon we destroy brings us closer to victory.",
+  "p": "Have you used the totem on all the plague cauldrons?",
+  "c": "<Sage Aeire accepts the totem from you.>$b$bDid the totem work? Its preparation required ancient magics the sages haven't used in generations. Of all the knowledge passed down, only a fraction of it remains in use today."
+ },
+ {
+  "id": 11648,
+  "t": "The Art of Persuasion",
+  "o": "Librarian Normantis on Amber Ledge wants you to use the Neural Needler on the Imprisoned Beryl Sorcerer until he reveals the location of Lady Evanor.",
+  "d": "It is fortunate you're here, $r.$b$bYou see, the Kirin Tor code of conduct frowns upon our taking certain 'extreme' measures - even in desperate times such as these.$b$bYou, however, as an outsider, are not bound by such restrictions and could take any steps necessary in the retrieval of information.$b$bDo what you must. We need to know where Lady Evanor is being held at once!$b$bI'll just busy myself organizing these shelves here. Oh, and here, perhaps you'll find this old thing useful....",
+  "p": "Well? Do you know where Lady Evanor is being held?",
+  "c": "Excellent! It was crucial that we collect that intelligence.$b$bWell done, friend."
+ },
+ {
+  "id": 11649,
+  "t": "Motes of the Enraged",
+  "o": "Obtain 5 Tempest Motes and deliver them to Imperean at the Ruins of Eldra'nath.",
+  "d": "Now that their little squabble is dealt with, there is still the matter of helping you and your spirit talker.$B$BAs you can see, my vassals have been enraged by the ongoing war between fire and water. This will not change anytime soon, but it will serve to your advantage.$B$BIn order to assist you, what we need are their motes. Head further into the ruins and retrieve them from the tempests.",
+  "p": "Once you have the necessary motes, I will combine a portion of my essence with theirs. The result will get you what you need.",
+  "c": "I regret the loss of those tempests, but my word is my bond... even to a mortal such as yourself.$B$BNow, let us see if we can fashion something of use to you."
+ },
+ {
+  "id": 11650,
+  "t": "Just a Few More Things...",
+  "o": "Collect Crafty's Tools, an Overcharged Capacitor, and a Handful of Rocknar's Grit. Deliver them to Crafty Wobblesprocket at Fizzcrank Airstrip.",
+  "d": "As you may have noticed, we created the airstrip on the southern border of a magnataur den!$B$B<Crafty says something uncharitable about Fizzcrank under her breath.>$B$BThe old man has put me in charge of finding a... ahem... creative solution to this situation: if we don't deal with them soon, they'll come down here and tear us limb from limb!$B$BThat's where you come in. I want you to get me everything on this shopping list. Please.",
+  "p": "Why is it that I don't believe you've collected everything on my list?",
+  "c": "Alright, that's more like it! Now all we gots to do is put all this together.$B$BYeah, as if you're going to help me with that.$B$BHold your horses, this'll just take a second now that I've got my tools back!"
+ },
+ {
+  "id": 11651,
+  "t": "Tanks a lot...",
+  "o": "Speak to Gorge the Corpsegrinder at the Coast of Echoes.",
+  "d": "Thanks for all your help, buddy. You can let Gorge know the tanks are ready for action. Hopefully you can clean up this place once and for all!$B",
+  "p": "",
+  "c": "With the current state of our transports and shipping lanes, we haven't been able to get a damned siege engine to Warsong. These tanks are all that we have left from the original expedition. Now that they're operational, you're gonna use 'em to stomp the Scourge offensive at the Plains of Nasam."
+ },
+ {
+  "id": 11652,
+  "t": "The Plains of Nasam",
+  "o": "Use the Horde Siege Tank to destroy 100 Scourge Soldiers and rescue 3 Injured Warsong Soldiers on the Plains of Nasam. You must also discover the identity of the leader of the Scourge assault.$B$BReport to Garrosh Hellscream at Warsong Hold should you succeed.",
+  "d": "Once you're ready, jump into one of the tanks and drive it out to the Plains of Nasam, southeast of here.$B$BUse the tank's weapon arsenal to take down the Scourge army. If you get in a jam, the \"Meatpounder\" will tear 'em up and the land mines will finish 'em off! If you find any of our soldiers, grab 'em! One last thing, fuel tanks can be found all over the field.$B$BTry to get close enough to that structure in the center and see what's going on.$B$BIf you do all of this and live, go to Hellscream!",
+  "p": "Well? What happened?",
+  "c": "Kel'Thuzad? So it's true - Naxxramas returns...$B$BPerhaps I underestimated you, $N. You've done the Horde a great service. The Warchief would be proud!$B$B<Garrosh pauses to think.>$B$BIf Kel'Thuzad is controlling these Scourge, there's no telling what else the Lich King has in store for us... I'll need time to think through this new information, $N. You are dismissed."
+ },
+ {
+  "id": 11653,
+  "t": "Hah... You're Not So Big Now!",
+  "o": "Test out Crafty's Ultra-Advanced Proto-Typical Shortening Blaster on 5 Magmoth Crushers or Mates of Magmothregar. After you have done so, return to her at Fizzcrank Airstrip.",
+  "d": "That'll do her, chief! So, here's what I want ya to do....$B$BTake my blaster and head north to Magmoth. If we're gonna have a chance at all against those monsters, we need to cut them down to size... so to speak.$B$BIn order to gauge its effectiveness, I need you to slay the magnataur while the blaster's effects are still on it. Any of the crushers or mates will do, but don't bother with the offspring... they're too small to worry about.",
+  "p": "You sure that you tested the blaster on enough of those monstrous beasts?",
+  "c": "Whadya mean it didn't work?!$b$bBut... but...$b$b<Crafty begins to sob.>$b$bOkay, we can deal with this. I'm a big girl. Time to think outside the box!"
+ },
+ {
+  "id": 11654,
+  "t": "The Spire of Blood",
+  "o": "Search the Spire of Blood for more information about the Vial of Fresh Blood.",
+  "d": "As you inspect the captured blood vial, you realize its contents are still warm. The victim must have just been bled and may still be alive.$B$BWhat use would the Scourge have for blood? They've never shown an interest in live prisoners in the past. Perhaps if you can locate the source of the blood, you'll be able to discover what the Scourge is planning.",
+  "p": "How... how did you find me?",
+  "c": "<The taunka snow tracker appears weak and barely responds to you.>$b$bI haven't... long. Maybe... maybe you can stop them... before..."
+ },
+ {
+  "id": 11655,
+  "t": "Into the Mist",
+  "o": "Waltor of Pal'ea at the Coast of Echoes in the Borean Tundra wants you to kill Kvaldir and recover 8 Tuskarr Relics.",
+  "d": "Across the mist to the north you will find Garrosh's Landing. To the south are the ruins of my old home, Pal'ea. Both have been ransacked by an ancient force known as the Kvaldir.$B$BThese fearsome savages slew all of my people without mercy and drove your people inland.$B$BAll that remains of the tuskarr of Pal'ea are our personal effects, taken as relics by the Kvaldir. While we are not a vengeful race, justice must be served. The tuskarr relics must be returned to me. Enter the mist and find them...",
+  "p": "By blood and honor you must serve... Return the tuskarr relics.",
+  "c": "<Sadness overcomes Waltor.>$B$BRuin... That is all they leave in their wake. They must be taught a lesson."
+ },
+ {
+  "id": 11656,
+  "t": "Burn in Effigy",
+  "o": "Waltor of Pal'ea at the Coast of Echoes in the Borean Tundra wants you to use the Tuskarr Torch to burn the Kvaldir ships at Pal'ea and Garrosh's Landing. You must destroy the following ships: The Serpent's Maw, The Kur Drakkar, Bor's Hammer and Bor's Anvil.$B",
+  "d": "Tuskarr magic is similar to what your people call shamanism. While we serve the elements differently than you, the power that we are able to call forth is formidable.$B$B<Waltor waves a torch-like baton in front of you.>$B$BWith this tuskarr torch I want you to return to the mist and strike at the Kvaldir vessels. You will find three of their vessels docked behind the mist at Garrosh's Landing, north of here, and one docked off the shores of Pal'ea, to the south. Burn their ships in effigy! For all to see!",
+  "p": "Is it done? Are the ships ablaze?",
+  "c": "A show of resistance to the Kvaldir savages might be what is needed to save my people at the other encampments. Perhaps the Kvaldir will rethink their actions should they believe that retribution will come."
+ },
+ {
+  "id": 11657,
+  "t": "Torch Catching",
+  "o": "Catch 4 torches in a row, then speak with the Master Fire Eater.",
+  "d": "Now that you can throw a torch, let's see if you can catch one!$B$BTake this stack of unlit torches.  Go to the bonfire and throw a torch high into the air.  Catch it before it hits the ground... then throw it back up!  Catch four in a row, then come back to me.$B$BCareful! They're dangerous if they hit the ground!  And don't miss any catches!  If you do then you'll have to go back to the bonfire and start over.  Good luck!",
+  "p": "",
+  "c": "Torch catching is a lot of fun, don't you think? But have care! You don't want to get singed!"
+ },
+ {
+  "id": 11658,
+  "t": "Plan B",
+  "o": "Collect 10 Warsong Outfits and a Warsong Banner. Bring them back to Crafty Wobblesprocket at Fizzcrank Airstrip.",
+  "d": "Okay, don't panic! The blaster might not've worked, but we still have options.$B$B<Crafty snaps her fingers.>$B$BWe're going to divert attention away from the airstrip! To make this work, we'll need a few things first.$B$B<Wobblesprocket looks you up and down appraisingly.>$B$BSteeljaw's caravan, just to the west, stupidly took a shortcut through a taunka graveyard and was destroyed by their risen spirits.$B$BHead over there and get some outfits off of the dead orcs. Pick up one of their banners, too!",
+  "p": "We'll need lots of their clothes if this is going to work. I'm no seamstress... we'll just have to find something to fit you!$B$BAnd then I'll just add a touch of my engineer genius, and poof, you'll look the part you need to play.",
+  "c": "Nice, but those clothes reek!$B$BPersonally, you'd never catch me dead in such rags. But we're going to have to sort through them and find some that fit your, um... figure."
+ },
+ {
+  "id": 11659,
+  "t": "Shatter the Orbs!",
+  "o": "Destroy 5 Blood Globes and report to Snow Tracker Junek at Taunka'le Village.",
+  "d": "They're... bleeding the prisoners... putting the blood... in those globes.$B$B<Grumm's eyes close momentarily and he leans his head back.>$B$BThe blood... taken up to necropolis... to feed blood prince...$B$B<Grumm gasps for breath.>$B$BP-promise... you'll... destroy blood... globes... bring word... to Junek.$B$B<The snow tracker collapses into unconsciousness.>",
+  "p": "",
+  "c": "I feared they might've captured Grumm, but I never thought they'd do such horrific things to him. I've never seen a warrior survive a losing battle with the Scourge.$b$bThank you for bringing word of his fate, $N. He was a mighty warrior and we will remember him as such."
+ },
+ {
+  "id": 11660,
+  "t": "Horn of the Ancient Mariner",
+  "o": "Waltor of Pal'ea at the Coast of Echoes in the Borean Tundra wants you to bring him the Horn of the Ancient Mariner.",
+  "d": "A Kvaldir lieutenant known as Orabus directed the initial incursion against my people at Pal'ea, He oversaw the destruction of both villages and then disappeared into the mist.$B$BIn those early days there was talk of a horn that Orabus gifted to the Kvaldir mistweavers. This horn could be used to summon him should the need arise.$B$BWe need to get that horn from the Kvaldir mistweavers and call forth Orabus. If he is destroyed, these savages might retreat.$B$BSeek out mistweavers at Pal'ea, to the south.",
+  "p": "Find the Horn of the Ancient Mariner!",
+  "c": "You must call for Orabus using the Horn of the Ancient Mariner."
+ },
+ {
+  "id": 11661,
+  "t": "Orabus the Helmsman",
+  "o": "Waltor of Pal'ea at the Coast of Echoes in the Borean Tundra wants you to use the Horn of the Ancient Mariner to summon Orabus the Helmsman. Once summoned, slay Orabus the Helmsman.",
+  "d": "Take the horn and travel west to the Warsong Jetty. Make your way to the end of the jetty and blow into the horn. The sound should rouse Orabus.$B$BSlay the foul beast and return to me!",
+  "p": "Orabus must be destroyed!",
+  "c": "It seems that the loss of their lieutenant has only stirred the nest. They are more angry and aggressive than before!$B$B<Waltor sighs.>$B$BYou've done what you can here, friend. At the very least you deserve some form of compensation for thinning their numbers.\n"
+ },
+ {
+  "id": 11662,
+  "t": "Seek Out Karuk!",
+  "o": "Seek out Karuk at Riplash Strand.",
+  "d": "A fellow survivor of Pal'ea known as Karuk has made his way to the main base of the Kvaldir in the Borean Tundra - far to the south where the snow was once bountiful. Karuk hides along the bluffs overlooking Riplash Strand.$B$BSeek out Karuk and let him know what you did for my people here at the Coast of Echoes.$B$BThe safest route to Karuk is through your fortress. From Warsong Hold, take the road south and follow it around until you reach Riplash Strand.",
+  "p": "",
+  "c": "Waltor was wise in sending you to me, $r. The gods smile down upon those that mete justice. You will be he that doles out punishment to the wicked!"
+ },
+ {
+  "id": 11663,
+  "t": "Sharing Intelligence",
+  "o": "Normantis has asked you to report to Librarian Donathan on Amber Ledge.",
+  "d": "Thank you, $c! The information you've extracted is of vital importance to the Kirin Tor.$b$bReturn at once to Donathan as we make plans for the rescue of Lady Evanor.",
+  "p": "",
+  "c": "Forgive me, $N. I know that was unpleasant work.$b$bWere it not for the desperation of our circumstance I'd never have asked you to assist us in such a manner.$b$bSo... what have you discovered?"
+ },
+ {
+  "id": 11664,
+  "t": "Escaping the Mist",
+  "o": "Follow Mootoo the Younger out of the mist. Speak to Elder Mootoo should you successfully save Mootoo the Younger.",
+  "d": "I can hear the mist creatures outside. Their yells are driving me mad, but I dare not try to escape. And where would I even go? How long would it be until they caught up with me and executed me like the others?$B$BI wonder, how far has the mist crept, stranger? Has it overtaken this whole continent?$B$BWould you be willing to help me try and escape the mist? I think I can lead us back toward my father. I still sense his life spirit. He is close.",
+  "p": "",
+  "c": "It is whispered in the winds, friend. Your name is known to the elements. You have done a great service to Mootoo on this day and you shall be rewarded."
+ },
+ {
+  "id": 11665,
+  "t": "Crocolisks in the City",
+  "o": "Bring a Baby Crocolisk to Old Man Barlo.  You can find him fishing northeast of Shattrath City by Silmyr Lake.",
+  "d": "Hello $glad:lass;.  I'm glad you've stopped by to talk to this old man--there's trouble back home.$b$bA traveling merchant recently sold a batch of baby crocolisks to some gullible children.  Crocolisks are wild beasts, and many have escaped and now lurk in city waterways.$b$bGrab your strongest fishing pole and drop a line in Stormwind or Orgrimmar and bring one of the little devils back to me.  I'm anxious to see one.",
+  "p": "Catch any crocs in the sewers yet?",
+  "c": "What a mean little creature!  I'm sure the Rokk will make something tasty with him.$b$bI'm just kidding, of course.$b$b<Old Man Barlo winks slyly.>"
+ },
+ {
+  "id": 11666,
+  "t": "Bait Bandits",
+  "o": "Bring a Blackfin Darter to Old Man Barlo.  You can find him fishing northeast of Shattrath City by Silmyr Lake.",
+  "d": "You probably know all about the golden darter--they're fairly common in the rivers of Terokkar Forest and a delicacy for priests.  But here's one you haven't heard of: the blackfin darter.$b$bThe fish is notoriously crafty and difficult to catch.  You have to pull your line at the last possible second, because they nibble at the bait before they take it.$b$bDrop your line in the rivers of Terokkar and bring me a blackfin darter.  Avoid the lakes, as the blackfin only thrive in moving water.",
+  "p": "How's the fishing today, $glad:lass;?",
+  "c": "Well look at that... you caught a big one!  This old man is eating in style tonight."
+ },
+ {
+  "id": 11667,
+  "t": "The One That Got Away",
+  "o": "Catch the World's Largest Mudfish and bring it to Old Man Barlo.  You can find him fishing northeast of Shattrath City by Silmyr Lake.",
+  "d": "Figluster's mudfish is a surprisingly quick bottom feeder found in the waters of Nagrand.  They grow their entire lives and are well known as fighters.$b$bYears ago, I caught what I'm certain was the world's biggest mudfish... until it snapped my line and escaped.$b$bA fisherman of your caliber doesn't need to be told what to do--your destiny awaits in the lakes of Nagrand.",
+  "p": "Tell me you caught him.  Please tell me you caught that son of a carp.",
+  "c": "There he is!  I'd know that scar anywhere.$b$bTo be completely honest, I thought he'd be... bigger.  Well, I suppose I'll let him go and try again another day."
+ },
+ {
+  "id": 11668,
+  "t": "Shrimpin' Ain't Easy",
+  "o": "Bring 10 Giant Freshwater Shrimp to Old Man Barlo.  You can find him fishing northeast of Shattrath City by Silmyr Lake.",
+  "d": "There's a lot of big fish in the Zangarmarsh lakes.  Ever wonder what they eat?$b$bShrimp.  Giant freshwater shrimp.  The Rokk tells me the dishes you can make with shrimp are nearly endless.$b$bBut shrimp are too small to catch with a fishing line.  So here's the trick: cut open the bloated barbed gill trout and you'll find a shrimp or two if you're lucky.",
+  "p": "What's the catch of the day, $glad:lass;?",
+  "c": "You are skilled with both the hook and knife.  Hand those sweet tidbits over, and I'll let you have a taste."
+ },
+ {
+  "id": 11669,
+  "t": "Felblood Fillet",
+  "o": "Bring a Monstrous Felblood Snapper to Old Man Barlo.  You can find him fishing northeast of Shattrath City by Silmyr Lake.",
+  "d": "This old man is going hunting soon.  I'm gonna take down a mammoth shark off the coast of Azshara.$b$bThe thing is, I need a toxin that'll stay on a spear tip while it's underwater.  To make that kind of stuff, I need the glands from a poisonous fish: the felblood snapper.$b$bSuch a vile fish only thrives in the waters of Hellfire Peninsula and Shadowmoon Valley.  Bring me back a whopper and I'll be a happy old man.",
+  "p": "The felblood is a marvel of evolution.  It can survive in any water and even lava, and fishermen are its only natural predator.$b$bAny luck with your prey?",
+  "c": "That is the biggest, ugliest fish I've seen.  I can't even imagine what you used for bait.$b$bJust set the beast on the ground, and I'll deal with it once I'm sure it's dead."
+ },
+ {
+  "id": 11670,
+  "t": "It Was The Orcs, Honest!",
+  "o": "While disguised as a Warsong orc, plant the Warsong Banner in the corpse of Magmothregar. Then, return with the disguise to Crafty Wobblesprocket at Fizzcrank Airstrip.",
+  "d": "With all of those outfits you, er, recovered, I fashioned a Warsong orc disguise. I had the genius idea of combining it with some old stuff that I had left hanging around from last Hallows' End, so it should be foolproof!$B$BHere, in this sack is the disguise and the banner you recovered. Head down into the bowels of Magmoth and slay the magnataur chieftain, Magmothregar.$B$BIf you're going to convince them to turn their attention on the Warsong orcs, you'll need to plant the banner while disguised.",
+  "p": "It's all over then? You've done the dirty deed and framed the orcs at Bor'gorok Outpost?",
+  "c": "Holey moley, you did it!$B$BAlright, now those pesky magnataur and their snobold flunkies should turn their attentions on the Horde.$B$BHow can I ever repay you, $N?"
+ },
+ {
+  "id": 11671,
+  "t": "A Race Against Time",
+  "o": "Donathan on Amber Ledge has tasked you with using the Beryl Shield Detonator to bring down the shield at Beryl Point. You are then to defeat Salrand and collect the key she holds.",
+  "d": "So it's true. They have her.$b$bIt's clear what must be done, $r. She WILL be saved.$b$bI must remain here and aid in the rescue preparations. I call upon you again; this time to collect the prison key. All we know of this Salrand figure is that she cannot be harmed so long as her shield is intact.$b$bWe've customized a special explosive that should strip her of this protection, allowing you to perform your duty. Return to me when you've collected the key.$b$bHurry, $n. Lady Evanor is suffering!",
+  "p": "Have you collected Salrand's key?",
+  "c": "Broken? $b$bLet me have a look...."
+ },
+ {
+  "id": 11672,
+  "t": "Enlistment Day",
+  "o": "Meet with General Arlos inside the barracks in Valiance Keep.",
+  "d": "You've come to enlist, right?  Normally you'd have to stand in line like the other recruits.  Normally you'd be out of luck because the recruitment ledger's gone missing and I can't process anyone until the new books get here.$B$BFortunately for you, $N, I've heard about you and what you did in Outland.  To be honest, you're a cut above these poor saps.  Lines aren't for you.$B$BGo to the barracks and speak to General Arlos.  He'll be more than happy to meet with someone of your caliber.",
+  "p": "",
+  "c": "We've been expecting your arrival, $N.  Welcome to Northrend."
+ },
+ {
+  "id": 11673,
+  "t": "Get Me Outa Here!",
+  "o": "Escort Bonker Togglevolt to safety and then report in with Fizzcrank Fullthrottle at Fizzcrank Airstrip.",
+  "d": "I knew they'd send someone for me sooner or later... turned out to be later, of course.$B$BI came in here to parlay with the snobolds, but their main shaman, Kaganishu, decided instead that I'd make a tasty snack for Magmothregar.$B$BWait... what?! They didn't send you?!$B$BDID THEY FORGET ABOUT ME?!$B$BOkay, you're here now and that's all that matters.$B$BAs soon as you break this chain we'll make our way back to the airstrip. Then you can tell Fizzcrank I'm safely back.$B$BIf he remembers me, that is.",
+  "p": "",
+  "c": "Huh? What?$b$bBonker who?$b$bI've no idea who you're talking about, but I'll take your word for it. If you rescued him or her from the pit of Magmoth then I suppose you deserve a reward.$b$bLet me see what I've got lying around in here...."
+ },
+ {
+  "id": 11674,
+  "t": "Sage Highmesa is Missing",
+  "o": "Find Sage Highmesa near the Dens of Dying.",
+  "d": "There are many new mysteries walking the lands now. One of our sages, Highmesa, has foolishly gone north with only one longrunner to investigate something strange near the Dens of Dying.$B$BWhat are the dens, you ask? They are a sacred place to the magnataur, where they go in their old age to die. She saw something fall from the sky near them a few days ago.$B$BIf you would be friend to the taunka, I would have you find and help her. She is not so stubborn that she will not accept your aid.",
+  "p": "",
+  "c": "The greatmother sent you. She must be disappointed in me.$b$bBut when I saw the great object fall from the sky, I could not wait for a full group of longrunners and snow trackers to accompany me. Knowledge waits for no one."
+ },
+ {
+  "id": 11675,
+  "t": "A Proper Death",
+  "o": "Destroy 10 Plagued Magnataur and then return to Sage Highmesa south of The Dens of Dying.",
+  "d": "The magnataur at the Dens of Dying have contracted a plague. We must find the cause, but first we must put them out of their misery.$B$B$R, you must go north onto the slopes in front of us and destroy as many of the poor creatures as you can.",
+  "p": "",
+  "c": "What else can we do but ease their suffering? In any case, they came here to die, so do not mourn them. At least you have given them some dignity.$b$bNow we must put an end to that which is causing the plague."
+ },
+ {
+  "id": 11676,
+  "t": "Merciful Freedom",
+  "o": "Shadowstalker Canarius at Warsong Farms Outpost wants you to free 5 Scourge Prisoners.",
+  "d": "The soldiers that they didn't kill are being held in cages scattered across this farmland. Through some thievery we've managed to find a few keys, but we're unable to get close enough to any prisoners without being attacked.$B$BWe need your \"talents\" in securing those keys and freeing the prisoners. Bash in the brains of the necrolords and aberrations and take their keys. Use those keys to free Scourge prisoners.",
+  "p": "Save those prisoners!",
+  "c": "Each prisoner saved is one less undead aberration that we have to deal with, $N. You've done a great service for the Horde."
+ },
+ {
+  "id": 11677,
+  "t": "Stop the Plague",
+  "o": "Sage Highmesa, standing just south of The Dens of Dying, has asked you to use Highmesa's Cleansing Seeds at a Den of Dying Plague Cauldron to neutralize it.",
+  "d": "I'm convinced that the plague is being caused by something in the caves up there.$B$B$C, I want you to take these seeds. I normally use them as a ward against the Scourge, though perhaps they can be used to disrupt whatever foulness is happening in the dens.$B$BFind the source of the plague and throw them into it.",
+  "p": "",
+  "c": "<The sage hangs her head and sighs in relief.>$b$bThis is a good start. If only that were our only problem."
+ },
+ {
+  "id": 11678,
+  "t": "Find Bristlehorn",
+  "o": "Find Longrunner Bristlehorn at Talramas.",
+  "d": "Bristlehorn should have returned by now.$B$BThe other reason why we came up here was to investigate that Scourge structure to the west, which fell from the sky. He's impetuous and has likely gotten himself into trouble.$B$B$N, go to that place and find him, please.",
+  "p": "",
+  "c": "I am... not... long for this... world, little $r."
+ },
+ {
+  "id": 11679,
+  "t": "Reforging the Key",
+  "o": "Donathan wants you to speak to Surristrasz on Amber Ledge.",
+  "d": "Delays, delays... the one thing we cannot afford right now!$b$bAs much as I hate to disturb Lord Surristrasz, he's our only hope of saving our beloved Evanor.$b$bBring him the key fragments and hope that his mood is favorable.$b$bHurry, $c, our assault team is waiting.",
+  "p": "You dare approach me, mortal?$b$bFor the sake of your unborn children, pray that your cause is worthwhile.",
+  "c": "The frivolous games you play here are of no consequence....$b$bYou and your Dalaran allies pick at loose threads while the fabric of this world's future is being shredded.$b$bStill, this may provide my drakes some needed amusement.$b$bShow me this key...."
+ },
+ {
+  "id": 11680,
+  "t": "Taking Wing",
+  "o": "Give Salrand's Key to Warmage Anzim when you are ready to free Evanor.",
+  "d": "The key is forged anew.$b$bNow heed my counsel, $r. Succeed in your endeavor or die trying, for if a single scale falls from one of my drakes I shall hold you personally accountable.$b$bNow, off with you.",
+  "p": "",
+  "c": "This is it, the key is ours!"
+ },
+ {
+  "id": 11681,
+  "t": "Rescuing Evanor",
+  "o": "Anzim on Amber Ledge wants you to fly with his war mages to free Lady Evanor at Beryl Point. You are then to report to her in the mage tower on Amber Ledge.",
+  "d": "At last, we attack!$b$bOnce we've cleared the platform I'll use the key.$b$bYou are to ensure that Lady Evanor remains safe after her release.$b$bHurry now, let us be off!",
+  "p": "",
+  "c": "Your heroic efforts shall not be forgotten, $c.$b$bPlease, accept this with my sincere gratitude."
+ },
+ {
+  "id": 11682,
+  "t": "Dragonspeak",
+  "o": "Lady Evanor has sent you to speak with Surristrasz on Amber Ledge.",
+  "d": "I am aware of your recent deeds here, $n, and again I thank you.$b$bAs for this local menace, we've learned all we need to know from them. They'll be dealt with in short order. On now to more important issues....$b$bAzeroth needs you. The region just west of here is the center of an urgent crisis.$b$bI'll leave the details to Lord Surristrasz. You must speak with him at once.$b$bGood luck, friend of Dalaran.",
+  "p": "",
+  "c": "So, $r, we speak again.$b$bWhen you've heard my words you may wish we had not."
+ },
+ {
+  "id": 11683,
+  "t": "Fallen Necropolis",
+  "o": "Destroy 20 Scourge of any type at Talramas and the Festering Pools. Then, return to Sage Highmesa just to the south of The Dens of the Dying.",
+  "d": "The fallen necropolis to the west can only be assumed to still be filled with Scourge.$B$BWhile you are at Talramas, $c, I would ask that you dispatch all of the Lich King's servants that you find within and in the surrounding pools where it fell.",
+  "p": "Surely you could not have dispatched so many Scourge in such a short time?",
+  "c": "Thank you, $N.$b$bThe Lich King and his Scourge are a blight upon Northrend. We must not stop until they are all truly dead, and his existence is put to an end!"
+ },
+ {
+  "id": 11684,
+  "t": "Scouting the Sinkholes",
+  "o": "Greatfather Mahan at Taunka'le Village wants you to use the Map of the Geyser Fields to mark the locations of the South Sinkhole, the Northwest Sinkhole, and the Northeast Sinkhole.",
+  "d": "Can you feel the tremors in the earth?$B$BThe Scourge's nerubians are on the move deep beneath the ground. They've emerged to the southwest in the Geyser Fields, and are harassing the patrols Chieftain Wintergale sent out.$B$B<The taunka elder offers you a worn map.>$B$BPerhaps a single person can succeed where the patrols have failed. Take this with you to the Geyser Fields and map out the locations of the Nerubian sinkholes.",
+  "p": "Have you marked the locations of the sinkholes?",
+  "c": "<Greatfather Mahan accepts the map, but makes no move to examine it..>$b$bWe'll be able to use your information later, once we're prepared to carry out the plan."
+ },
+ {
+  "id": 11685,
+  "t": "The Heart of the Elements",
+  "o": "Bring 5 Elemental Hearts to Wind Tamer Barah at Taunka'le Village.",
+  "d": "Now that we know the exact locations of the nerubian sinkholes, we can collapse them to halt the Scourge offensive and cripple their force. Wind Tamer Barah knows a way to harness elementals to destroy the tunnels the Nerubians are using, but she will require your help.$B$BSoutheast of the village, near the coast beyond the Frozen Reach, you'll find an area dominated by frozen earth elementals. The hearts of these elements are exactly what Wind Tamer Barah will need.",
+  "p": "Greatfather Mahan tells me you have agreed to help collapse the tunnels.",
+  "c": "These should be enough to form the core of a mighty elemental, but stone alone will not give my elemental life."
+ },
+ {
+  "id": 11686,
+  "t": "The Warsong Farms",
+  "o": "Shadowstalker Ickoris at Warsong Farms Outpost wants you to scout Warsong Granary, Torp's Farm, and Warsong Slaughterhouse.",
+  "d": "According to Luther's notes the Scourge is now using this place as a breeding ground for those monsters you see lumbering across the field.$B$B<Ickoris shudders.>$B$BThose monsters were once orcs... tauren...$B$BWe need more information before a plan can be devised. I want you to investigate three sites that are heavily trafficked by Scourge: the Warsong Granary, southwest of us, Torp's Farm, directly west of us, and the old Warsong Slaughterhouse, north of us.$B$BReturn to me once you've scouted 'em out.",
+  "p": "Have you searched the farms?",
+  "c": "This is far worse than what was noted in Luther's journal. They've got this place covered in Scourge and are infecting everything they touch.$b$b<Ickoris nods.>$b$bIt gets worse - if you can imagine such a thing..."
+ },
+ {
+  "id": 11687,
+  "t": "The Doctor and the Lich-Lord",
+  "o": "Destroy Doctor Razorgrin and Lich-Lord Chillwinter. Then, return to Sage Highmesa just to the south of The Dens of Dying.",
+  "d": "There are two... that must... be killed.$B$BThe doctor and... the lich-lord... are above. Find them... destroy them... before....$B$B...it is too... late....",
+  "p": "$N, you return!",
+  "c": "Bristlehorn is dead?!$b$bI should never have let him go there by himself."
+ },
+ {
+  "id": 11688,
+  "t": "Damned Filthy Swine",
+  "o": "Farmer Torp at Warsong Farms Outpost wants you to kill 10 Unliving Swine.",
+  "d": "Just look at 'em! My beautiful kodos are helpless to defend themselves against those filthy swine! I need you to buy me some time, $r. I think I can cure the kodo of the sickness, but you need to keep the unliving swine off 'em, else there'll be nothin' left to cure!$B$BGet out there and send those swine to their graves - permanently!",
+  "p": "I need more time! Keep those swine off my kodos!",
+  "c": "I think I've got it, $r!"
+ },
+ {
+  "id": 11689,
+  "t": "Return with the Bad News",
+  "o": "Speak with Greatmother Taiga at Taunka'le Village.",
+  "d": "The greatmother will need to know, $N.$B$BWill you please return to Taunka'le? Tell her that I will be following shortly.",
+  "p": "",
+  "c": "What word do you bring from Highmesa?$b$b<You explain what you know and give the greatmother the bad news concerning Longrunner Bristlehorn.>$b$bMy... my grandson!$b$b<The greatmother fights to keep control of her emotions.>$b$bHe died an honorable death like a true taunka!$b$bYou were the last to be with him, $N, so he shall always be a part of you. I give you my thanks for completing his last wishes."
+ },
+ {
+  "id": 11690,
+  "t": "Bring 'Em Back Alive",
+  "o": "Farmer Torp at Warsong Farms Outpost wants you to rescue 8 Infected Kodo Beasts.",
+  "d": "Take this riding snaffle, $N. You'll notice that I've placed a tiny medicine dispenser in the mouthpiece. That thing will cure the infection as soon as a kodo bites down. Once you've cured the sick out of 'em, you'll need to ride 'em home. They'll be weak so you'll need to gently direct 'em here.$B$BBring my babies back, $N!$B$BOne last thing, you've got ten minutes! That's how long the antidote will remain effective inside that snaffle.",
+  "p": "Get them out of those Scourge infested fields!",
+  "c": "You're a true hero, $N. My kodos would have died out there without you. You have my thanks and the thanks of all the soldiers and journeymen that will use these kodos to strengthen our presence in Northrend!"
+ },
+ {
+  "id": 11692,
+  "t": "Check in With Bixie",
+  "o": "Mordle Cogspinner has asked you to find Bixie Wrenchshanker to the south of The Dens of Dying.",
+  "d": "You're a proven $g hero : heroine;. I have another problem!$B$BMy boss, Tinky, went east with Bixie Wrenchshanker and I CAN'T get the outgoing on this thing to work! Tinky's the only one that can fix it and we really need it working one-hundred percent.$B$BYou think you could find them? Bixie said something about following some old magnataur to a place called The Dens of Dying.$B$BI'm guessing that's where you'll find them.$B$BYou can catch a ride out there by talking with Kara Thricestar at the runway.",
+  "p": "",
+  "c": "What do you need, $c?"
+ },
+ {
+  "id": 11693,
+  "t": "Oh Great... Plagued Magnataur!",
+  "o": "Kill 10 Plagued Magnataur and then return to Bixie Wrenchshanker to the south of The Dens of Dying.",
+  "d": "Tinky and I came out here stalking some old magnataur. Apparently those caves up there are where they go to die.$B$BOf course, we had no idea that they were going to get plagued when they went in there. We can't have plagued things just roaming about; it's not healthy.$B$BSay, why don't you put down a number of those things while I figure out what our next step should be?",
+  "p": "",
+  "c": "Nice work, but I'd grab a shower the next chance you get.$B$BNow, let's really deal with the problem out here."
+ },
+ {
+  "id": 11694,
+  "t": "There's Something Going On In Those Caves",
+  "o": "Bixie Wrenchshanker, skulking just to the south of The Dens of Dying, has asked you to use Bixie's Inhibiting Powder at a Den of Dying Plague Cauldron to neutralize it.",
+  "d": "So, while you were out taking care of those plagued beasts, I took a peek inside the caves up there.$B$BThere are cultists in there plaguing them!$B$BThey have some sort of noxious concoction brewing in a cauldron. I have a powder that I normally use as an anti-poison, and I mixed it up with some other stuff. I think it'll neutralize their brew!$B$BTake it up to one of those caves and see if it works.",
+  "p": "",
+  "c": "I knew you had it in you. Now there's something else that I need to ask you to take care of."
+ },
+ {
+  "id": 11695,
+  "t": "The Horn of Elemental Fury",
+  "o": "Reclaim the Lower Horn Half and Upper Horn Half from Chieftain Burblegoggle and Chieftain Gurgleboggle and bring them to Wind Tamer Barah at Taunka'le Village.",
+  "d": "I can fashion the likeness of an elemental from these pieces of inanimate stone, but breathing life into it is different. For that, we'll need help and a bit of luck.$B$BLegend tells of an ancient artifact called the Horn of Elemental Fury, sought after by a great hero. I'll lend you a scroll with a copy of the tale. I don't know if the legend is true, but it's our best bet. If the legend is right, the parts of the horn may be in the Flood Plains surrounding the village to the north and southwest.",
+  "p": "Were you able to find the horn? Was the legend true?",
+  "c": "<Barah accepts the pieces of the horn from you and begins trying to fit them together.>$b$bStormhoof would be proud of you, $N. Perhaps when we've dealt with the Scourge, I will take the horn with me on a pilgrimage to Stormhoof's tomb."
+ },
+ {
+  "id": 11696,
+  "t": "Ahune is Here!",
+  "o": "Find Luma Skymother in the Slave Pens.",
+  "d": "$n, your presence is a blessing.  Ahune lies within these caverns, gathering strength for his assault.  Earthen Ring forces were sent ahead, but they alone cannot defeat him.$B$BExplore, $n.  Find our Earthen Ring Shamans and speak with their leader, Luma Skymother.  Perhaps, with your added strength, we can beat Ahune before it's too late.",
+  "p": "",
+  "c": "The cold of Ahune spreads through these caverns, $N; a seed of the frigid death that awaits us if he gains his full strength. I thank the Earthmother for sending you."
+ },
+ {
+  "id": 11697,
+  "t": "Rats, Tinky Went into the Necropolis!",
+  "o": "Find Tinky Wickwhistle inside Talramas.",
+  "d": "I told Tinky not to go off on her own, but she just HAD to check out that crashed necropolis to the west.$B$BI'm 100% certain that those cultists came from inside that thing, which means I'm now 100% certain that Tinky's in trouble!$B$BShe's the airstrip's number one engineer. Without her we're doomed!$B$BI'd find her myself, but one of those things got in a swipe on my leg before I could vanish again. $N, if anyone can get her out, it's you!",
+  "p": "",
+  "c": "Hey there! Who are you?$B$BBixie sent you? Excellent, let's get me out of here!"
+ },
+ {
+  "id": 11698,
+  "t": "Might As Well Wipe Out the Scourge",
+  "o": "Destroy 20 Scourge of any type at Talramas and the Festering Pools. Then, return to Bixie Wrenchshanker just to the south of The Dens of the Dying.",
+  "d": "If the cultists up in those caves survived the crash, then that fallen necropolis to the west can only be assumed to still be filled with Scourge. There're probably lots of them out in front of it in the pools, too!$B$BWhile you're at Talramas, $c, do you think you could dispatch all of the Lich King's flunkies that you find there?",
+  "p": "",
+  "c": "Thanks, $N.$B$BThe Lich King and his Scourge are really scary, but we can't stop until they are all lying still in new graves!"
+ },
+ {
+  "id": 11699,
+  "t": "I'm Stuck in this Damned Cage... But Not For Long!",
+  "o": "Collect an Engine-Core Crystal, a Magical Gyroscope, and a Piloting Scourgestone. Deliver them to Tinky Wickwhistle at Talramas.",
+  "d": "The cultists magicked me into this cage and there's no door to it. Little did they know that I'm the chief transmatter engineer for the airstrip!$B$BWith your help, and a little elbow-grease, I won't be in here for long.$B$BI'm going to need an engine-core crystal from one of the ghouls in here, a magical gyroscope from their doctor, and a piloting scourgestone from the lich-lord up top.$B$BWith all of that stuff, I should be able to make a port device to get back to Fizzcrank's and escape the gnome way!",
+  "p": "You got all of that stuff?",
+  "c": "Outstanding! Now just a little modification here, and a tweak there...."
+ },
+ {
+  "id": 11700,
+  "t": "Let Bixie Know",
+  "o": "Speak with Bixie Wrenchshanker just south of The Dens of Dying.",
+  "d": "My evil twin's out there somewhere now.$B$BI'm pretty sure that she's not back at the airstrip. In fact, wherever she ended up, it's colder there than here. But I could only 'feel' her for a moment.$B$BOh well, I'll reconfigure this thing and port myself back to the airstrip soon enough. In the meantime, do you think you could go east and let Bixie know that I'll meet her back there?$B$BThanks, $N!",
+  "p": "",
+  "c": "Tinky's got an evil twin?!$B$BWell, if she says she's okay, and that she'll be able to get herself back to the airstrip soon, that's good enough for me."
+ },
+ {
+  "id": 11701,
+  "t": "Back to the Airstrip",
+  "o": "Speak with Fizzcrank Fullthrottle at Fizzcrank Airstrip in Borean Tundra.",
+  "d": "Okay, I think I'm going to start making my way back to the airstrip, too. Of course, I'm moving a little slower with this leg injury.$B$BSay, do you think you could get there ahead of me and pass on the good news to Ol' Fizzcrank? I bet anything that there'll be a reward in it for you.$B$BThanks, $N!",
+  "p": "",
+  "c": "That's quite a tale, $N. With all of the problems out here, it's a wonder that the airstrip hasn't been wiped out already.$B$BBut, thanks to you, there's one less adversary to worry about.$B$BI put aside some special things for just such an occasion as this. Why don't you take your pick?"
+ },
+ {
+  "id": 11702,
+  "t": "King Mrgl-Mrgl",
+  "o": "Speak with King Mrgl-Mrgl at Winterfin Retreat.",
+  "d": "Dis is gonna sound weird, $c, but dere be a murloc askin' for our help!$B$BHe goes by da name of King Mrgl-Mrgl, leader of da Winterfin murlocs. Him and his people been run outa dere village and wantin' you to come save dem.$B$BYou find him by headin' west and go down da cliffs. He hangin' out on da south side of da Winterfin Retreat.",
+  "p": "",
+  "c": "Finally, help! And by the looks of you, Horde.$B$BThat's alright... your people are very skilled in the art of combat. We're going to need a lot of that."
+ },
+ {
+  "id": 11703,
+  "t": "Get to Getry",
+  "o": "Find Shadowstalker Getry at Warsong Farms.",
+  "d": "The Scourge agent that's overseeing the abduction and transformation of Horde soldiers into undead monsters is using the northwest farm as a spawning glade. Shadowstalker Getry has been staking out that monster for the past week and has gathered some vital information that might allow us to end this menace.$B$BGet to Getry and see if you can help him put a stop to this Scourge assembly line. You'll find Getry at the abandoned tower on the northwest border of these farms.",
+  "p": "",
+  "c": "<Getry looks you over.>$B$BThis is all Ickoris could send?"
+ },
+ {
+  "id": 11704,
+  "t": "King Mrgl-Mrgl",
+  "o": "Speak with King Mrgl-Mrgl at Winterfin Retreat.",
+  "d": "This is the weirdest thing, $c, but there's a murloc asking for our help!$B$BHe goes by the name of King Mrgl-Mrgl, leader of the Winterfin murlocs. It would seem that he and his people have been run out of their village and they want someone to come save them.$B$BThat someone is you!$B$BYou'll find Winterfin Retreat, and the king, by heading west down the road until you come to the cliffs. Head down to the water line near the Blistering Pool.",
+  "p": "",
+  "c": "Finally, help! And by the looks of you, Alliance.$B$BThat's good... your people are very skilled in the art of combat. We're going to need a lot of that."
+ },
+ {
+  "id": 11705,
+  "t": "Foolish Endeavors",
+  "o": "Help Getry defeat Varidus the Flenser at Warsong Farms.$B$BReport to Garrosh Hellscream should you succeed.$B",
+  "d": "This is madness. How do they expect us to take on a Scourge necrolord and an unknown number of his minions?$B$B<Getry sighs.>$B$BIf Ickoris sent you he must think that you are capable of great feats. Perhaps you will call down a miracle today, eh?$B$BWhen you're ready we will descend and face Varidus.$B$BIf we make it out of this mess in one piece, report back to Hellscream in Warsong Hold.",
+  "p": "<Hellscream raises an eyebrow at you.>$B$BWhat's this I hear about a Scourge necrolord?",
+  "c": "And you returned victorious, just as I thought! I told Saurfang you'd be fine.$B$B<Hellscream grunts knowingly.>$B$BPerhaps this will show that old dog that he doesn't have all the answers, eh?"
+ },
+ {
+  "id": 11706,
+  "t": "The Collapse",
+  "o": "Wind Tamer Barah at Taunka'le Village wants you to collapse the Nerubian sinkholes using the Horn of Elemental Fury and defeat Lord Kryxix.",
+  "d": "I have created and bound Alluvius using the Horn of Elemental Fury. He will respond to the horn's call when you stand near the southernmost sinkhole in the Geyser Fields.$B$BThe quake Alluvius will unleash should collapse the Nerubian tunnels and put an end to their flanking attack. I wouldn't be surprised if the Nerubian commander showed himself after the quake. If the collapse of the tunnels doesn't break the back of their assault, the defeat of their leader surely will.",
+  "p": "Have you unleashed Alluvius and destroyed the Nerubian assault?",
+  "c": "Your efforts against the Nerubians have given us a reprieve from the overwhelming Scourge assault. Thanks to your accomplishments, we can strike at the the Scourge fortress to the northeast without fear of attack from the west.$B$BAs for the horn, I will safeguard it until next we need its power. Stormhoof gave his life to secure the horn and we cannot suffer its loss again."
+ },
+ {
+  "id": 11707,
+  "t": "Distress Call",
+  "o": "Speak with Fizzcrank Fullthrottle at Fizzcrank Airstrip.",
+  "d": "Oh good, you're $N, right?$B$BWe need your help up north at Fizzcrank Airstrip, like yesterday! The magnataur, and the Scourge... and the pumping station!$B$BIt's madness I tell you, madness!$B$BYou've got to head up there and talk to old man Fullthrottle a.s.a.p.!",
+  "p": "",
+  "c": "I see that Skyhopper finally got around to sending help. And none too soon I might add!$B$BWelcome, $g brother : sister;, we need your help badly!"
+ },
+ {
+  "id": 11708,
+  "t": "The Mechagnomes",
+  "o": "Listen to Fizzcrank Fullthrottle's tale and then find Jinky Wingnut at Fizzcrank Airstrip.",
+  "d": "Now that you're here, it's time for me to tell you the full story of what's going on.$B$BAfter you've heard my tale, go outside and find my second-in-command, Jinky Wingnut. She'll handle everything from here on out.",
+  "p": "Hello there.",
+  "c": "The old man sent you to me, huh? He tell you everything that's going on out here?$B$BGood... let's take care of business then!"
+ },
+ {
+  "id": 11709,
+  "t": "Nork Bloodfrenzy's Charge",
+  "o": "Speak to Warden Nork Bloodfrenzy at Warsong Hold in Borean Tundra.",
+  "d": "While you have done much to secure our foothold in these frozen wastes, other dangers still lurk in the shadows. I want you to assist Warden Nork Bloodfrenzy, stationed at the internment camp just outside and immediately southeast of Warsong Hold. Seek him out and offer your assistance for prisoner transport and exchange.$B$BYou are dismissed, $N. ",
+  "p": "",
+  "c": "<Nork scoffs.>$B$BPrisoners? These aren't prisoners. They're cowardly dogs! Just look at 'em. Did you know that without exception, every single one of these yellow-bellied \"soldiers\" came to our gates and surrendered their arms and armor?$B$BFrom what we've been able to gather, these men and women are discharged and sent back to their homes if captured by us.$B$B<Nork spits.>$B$BPathetic..."
+ },
+ {
+  "id": 11710,
+  "t": "What's the Matter with the Transmatter?",
+  "o": "Collect 15 Fizzcrank Spare Parts and deliver them to Mordle Cogspinner at Fizzcrank Airstrip.",
+  "d": "There're spare parts strewn all over to the east in the Scalding Pools, the Geyser Fields... heck, probably even up on the pumping station still, too. Bring back a whole bunch. Maybe then I'll be able to get outgoing teleport on this thing working, not to mention getting the incoming transmatter ports aligned.$B$BI'd hate to see another accident....",
+  "p": "It's going to take a lot of spare parts to keep this thing running.$B$BPlease tell me that you've returned with everything we need.",
+  "c": "That's great, $c! These parts look like they're in serviceable condition.$B$BNow if I could only figure out how to fix this blasted thing...."
+ },
+ {
+  "id": 11711,
+  "t": "Coward Delivery... Under 30 Minutes or it's Free",
+  "o": "Take the Alliance Deserter to the crossroads east of Warsong Hold and fire your Warsong Flare Gun to signal the Alliance.$B$BReport to Scout Tungok once you have successfully delivered the Alliance Deserter to their destination.",
+  "d": "We're seeing more deserters show up at our gates with each passing day. We simply do not have enough room to keep all of these maggots caged up. Especially not if we want to keep the pigs happy.$B$B<Nork snorts as he laughs.>$B$BI want you to escort one of these cowards to the crossroads east of here and fire this flare gun. One of their captains will show up when they see the flare and take the coward off your hands.$B$BReport to Scout Tungok on the east road once the delivery has been made.$B",
+  "p": "<Tungok grunts.>$B$BDid you take care of the deserter?",
+  "c": "Good job, $N. That's one less filthy, useless, Alliance scum-bag that we'll have to provide for...$B$BIf you're lookin' for more work, the tauren and blood elf nearby need some help.$B$B'Course we've got our own set of problems to deal with out here as well..."
+ },
+ {
+  "id": 11712,
+  "t": "Re-Cursive",
+  "o": "Jinky Wingnut at Fizzcrank Airstrip has asked you to use the Re-Cursive Transmatter Injection on 6 Fizzcrank Mechagnomes.",
+  "d": "If you listened to the old man, then you know that we have gnomes out there that were changed. Gearmaster Mechazod infected them with something that reversed the \"Curse of the Flesh\", and now they're robots!$B$BWe think we have a way to re-curse them back to normal. We want you to take this re-cursive transmatter injection and use it on the corpses of any mechagnomes you come across.$B$BWe're hoping that this stuff will cure them and allow us to lock onto them to port 'em out of there.$B$BWhaddya say, $N?",
+  "p": "How many mechagnomes did you manage to re-curse, $c? ",
+  "c": "You did it... it worked!$B$BI can't believe you were able to save so many. We're fortunate to have you around here!"
+ },
+ {
+  "id": 11713,
+  "t": "Scouting the Sinkholes",
+  "o": "Abner Fizzletorque at Fizzcrank Airstrip wants you to use the Map of the Geyser Fields to mark the locations of the South Sinkhole, the Northwest Sinkhole, and the Northeast Sinkhole.",
+  "d": "Fizzcrank sent out an aerial surveillance team to map the Nerubian sinkholes in the southern part of the Geyser Fields, but they haven't yet returned. I can't afford to wait any longer for their information, so I'm going to need someone to check out the sinkholes on foot.$B$BI understand the dangers involved, and I'll compensate you accordingly. Take this map with you and record the vital information about each of the sinkholes you encounter out there.",
+  "p": "Have you marked the locations of the sinkholes?",
+  "c": "<Abner accepts the map from you, then examines it closely.>$B$BGreat! This is all the information we need to begin the operation. "
+ },
+ {
+  "id": 11714,
+  "t": "Vermin Extermination",
+  "o": "Scout Tungok at the Bloodspore Plains in the Borean Tundra wants you to kill 8 Bloodspore Harvesters, 5 Bloodspore Firestarters and 2 Bloodspore Roasters.",
+  "d": "Perhaps you'd be interested in helping me clean up these fields? They're littered with dirty little rat men! Kobolds, snobolds, whatever you wanna call 'em, they're all over the damned place. The stink alone is making my life hell!$B$BTake care of the vermin for me and I'll make it worth your while, $N.$B",
+  "p": "This job stinks...",
+  "c": "A job well done, $N! Thank you!"
+ },
+ {
+  "id": 11715,
+  "t": "Fueling the Project",
+  "o": "Abner Fizzletorque at Fizzcrank Airstrip wants you to collect 8 Barrels of Oil using the Portable Oil Collector.",
+  "d": "I plan to build a machine that will collapse the tunnels the Scourge is using to deploy their Nerubians, but with the main drilling rig out of order, we'll have to collect the fuel for the device some other way.$B$BOut in the Geyser Fields to the southeast, small pools of oil bubble up away from the main rig. If you can collect enough of the oil from those pools, I can make a crude fuel to power the machine.$B$BSimply deploy the collector near the rig, and it will pump and store the oil in its tank.",
+  "p": "Do you have that fuel?",
+  "c": "<Abner sets about draining the fuel tank of the collector.>$B$BDistilling this by hand is going to be messy, but I'll have it taken care of soon. In the meantime, we'll need one more material to complete the machine."
+ },
+ {
+  "id": 11716,
+  "t": "The Wondrous Bloodspore",
+  "o": "Bloodmage Laurith at the Bloodspore Plains in the Borean Tundra wants you to recover 10 Bloodspore Carpels.",
+  "d": "We are witnessing something amazing here, $r. A whole undiscovered ecology lives and breathes not more than a few paces from us! I surmise it is the bloodspore plant that sets this environment abuzz.$B$BI have collected some pollen from the nearby male species of bloodspore plant but still lack female receptors for pollination. Fetch me a bushel of the bloodspore carpels. You'll find them near the larger plants surrounding us.$B$BBe wary of their guardians! The kobolds won't give them up easily!",
+  "p": "The tests must continue!",
+  "c": "Lovely! Just lovely!$B$B<Laurith applies a sprinkling of pollen to one of the bloodspore carpels and then utters an incantation.>$B$BHrmph... I don't understand. Unless... Why of course!"
+ },
+ {
+  "id": 11717,
+  "t": "Pollen from the Source",
+  "o": "Bloodmage Laurith at the Bloodspore Plains in the Borean Tundra wants you to recover 5 Bloodspore Moth Pollen.$B",
+  "d": "It's obvious! The bloodspore moths are the entities responsible for pollination on these plains. It must be something that happens within the moth's internal system that acts as a catalyst for this pollen to work. It's all starting to make sense now, $N. That's why the kobolds don't kill the moths and instead go to great lengths to protect them! Those stupid little rats have it all figured out!$B$BWell we'll just have to get our own moth pollen! What do you say? Fetch me some in the name of science?",
+  "p": "The pollen is the key!",
+  "c": "A-ha!$B$B<Laurith sprinkles the moth pollen onto the bloodspore carpels.>$B$BLook at that!"
+ },
+ {
+  "id": 11718,
+  "t": "A Bot in Mammoth's Clothing",
+  "o": "Abner Fizzletorque at Fizzcrank Airstrip wants you to bring him 6 Thick Mammoth Hides.",
+  "d": "I've reconfigured the skeleton of an old bot to create an earthquake large enough to collapse the tunnels, but the machinery is delicate and sensitive to Northrend's biting cold.$B$BI've devised a means of insulating it using the thickest hides of the native mammoths. They roam the plains south of the airstrip and adjacent to the Geyser Fields. Bring back enough of the hides for me to finish the machine and then we'll be able to unleash it on the Nerubians!",
+  "p": "Bring those hides as quickly as possible! I won't be able to finish the machine without them!",
+  "c": "<Abner inspects the hides, coughing at all the dust rising from them.>$B$BDon't these animals even try to keep clean? Some of these are absolutely filthy. Well, I guess I'd better get started cleaning them. It's not like anyone's got spare time around here."
+ }
+]

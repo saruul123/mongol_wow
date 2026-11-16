@@ -1,0 +1,962 @@
+[
+ {
+  "id": 958,
+  "t": "Tools of the Highborne",
+  "o": "Retrieve 7 Highborne Relics for Thundris Windweaver in Auberdine.",
+  "d": "$C. A task I would ask of you.$b$bHave you seen the ruins of Ameth'Aran? If not, you will find them on the eastern side of the main road, some ways to the south. Once they were the home of many powerful Highborne, now they are a testament to the destruction their dabblings produced.$b$bI have been told by the Sentinels that the spirits of the Highborne persist, and that they wield their ancient magical implements. Those relics must be appropriated, so that we might destroy them.",
+  "p": "If only the tools of their undoing could have been destroyed in the cataclysm that destroyed our world... Nonetheless, we must do what we can to ensure that the horrors of our past are not repeated in the future.",
+  "c": "Though it is surely a figment of my imagination, I feel as though I can almost feel the taint of foul Highborne magic upon them. I will have these destroyed, so that their long dormant evil might never be released again."
+ },
+ {
+  "id": 961,
+  "t": "Onu is meditating",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The finding of Twilight's Hammer cultists is troubling.  I must meditate on their intentions...$B$BWhen you have more information, speak to me through a scrying bowl.  If you require a phial of scrying in order to create a bowl, then...here is another."
+ },
+ {
+  "id": 963,
+  "t": "For Love Eternal",
+  "o": "Free the spirit of Anaya Dawnrunner and bring her pendant back to Cerellean Whiteclaw in Auberdine.",
+  "d": "In the aftermath of the battles at the Well of Eternity, I heard that Ameth'Aran had been destroyed, its people dead, including my love, Anaya.$b$bI would never have thought, thousands of years later, that memories of Anaya would still haunt my dreams. Wandering the woods of Darkshore in a stupor, I found myself in the ruins of Ameth'Aran... where I saw the haunted spirit of my beloved.$b$bShe must be freed, but I lack the heart to do it. Her spirit must be destroyed.",
+  "p": "With a great sorrow in my heart, I followed the Shan'do Stormrage into hibernation, and took my sorrow to my dreams, sleeping for the passing of thousands of years.",
+  "c": "Thank you, $N. Perhaps it would have been better... if I had done it myself. But even after these thousands of years, I could not bear to raise my hand against my beloved.$b$bPlease, I would be alone with my grief..."
+ },
+ {
+  "id": 964,
+  "t": "Skeletal Fragments",
+  "o": "Bring 15 Skeletal Fragments to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+  "d": "The key to Scholomance is called a Skeleton Key.  It must be forged from the remains of a skeleton - several actually - and hardened by only the strongest of metals within a suitable mold.  A signet of power from a being who naturally can open the portal to Scholomance will make the key ultimately function.$B$BFirst thing's first though, $N.  We'll need skeletal fragments for the key's forging.  Skeletons inside Andorhal should yield what we need, but the ones outside the walls might work too.",
+  "p": "Kill many and kill often, $C - we'll need a decent supply of suitable skeletal fragments to make up the outer layer of the key. They don't call it a Skeleton Key for nothing, you know.",
+  "c": "This'll work, $N! My turn now - I will imbue these with a suitable temper that will allow them to survive the intense forging process they will eventually go through.$b$bThe next step will be to get an appropriate mold for the key. I know a goblin blacksmith in Tanaris that has in the past made molds for similarly macabre items. He works for whom goblins usually work for - the highest bidder."
+ },
+ {
+  "id": 965,
+  "t": "The Tower of Althalaxx",
+  "o": "Find Balthule Shadowstrike near the Tower of Althalaxx in Darkshore.",
+  "d": "Hail, young $r. I am Elissa Starbreeze, and it is my charge to protect Auberdine from harm.$b$bTo this end, I sent Balthule Shadowstrike to observe the strange happenings around the Tower of Althalaxx to the northeast.$b$bIt is past time that he should have returned. I worry that he has encountered some unforeseen danger in the forest. I would be most appreciative if you would find him and see that he is doing well.",
+  "p": "",
+  "c": "Elissa sent you? Then it is good tidings you bring. I have troubling news to report to her, and had no means with which to deliver it."
+ },
+ {
+  "id": 966,
+  "t": "The Tower of Althalaxx",
+  "o": "Collect 4 Worn Parchments for Balthule Shadowstrike near the Tower of Althalaxx.",
+  "d": "A group of warlocks has taken up residence around and inside the tower. I would have returned to Auberdine to report to Elissa earlier, but I was afraid that I might miss something while I was away.$b$bDelgren suspected such a company might be gathering at the tower, but did not know why.$b$bA few scraps of parchment that the warlocks carry have found their way to my hands, but I need more to complete the puzzle. I warn you not to venture into the tower, however, the warlocks there are much more powerful!",
+  "p": "Have you found any more of their scrolls? I should be able to piece together a larger picture of the cult if you can find them.",
+  "c": "Many thanks, $N. This should shed some light on this warlocks' gathering...$b$bHmm... the Cult of the Dark Strand... I have never heard of this group before. Having no knowledge of their history, it is all but impossible to say what their plans must be.$b$bThere is no more time to delay. Warning must be delivered to Delgren immediately."
+ },
+ {
+  "id": 967,
+  "t": "The Tower of Althalaxx",
+  "o": "Deliver Balthule's letter to Delgren the Purifier in Ashenvale Forest.",
+  "d": "My master, Delgren the Purifier, is a paladin who has graciously offered his assistance in defending our forests from the forces of the demons and undead. He has taught me much about the Holy Light and the art of battle.$b$bDelgren must know of the cult's operations immediately.$b$bYou will find him far south of here at Maestra's Post in Ashenvale Forest. Be swift, I fear the Dark Strand's threat grows with each passing hour.",
+  "p": "You have some business with me, $C?",
+  "c": "If you don't mind my saying, you seem a bit well-equipped for a messenger, hm? I suppose Balthule wanted to be certain that his letter reached my hands. Let's see what he has to say...$B$BThis is disturbing news. When undead or demonic forces are found, I help the Sentinels destroy them.$B$BAt first I was unaccustomed to the manners of the night elves, but I have grown to respect them greatly as allies."
+ },
+ {
+  "id": 968,
+  "t": "The Powers Below",
+  "o": "Bring the Book: The Powers Below to Gerrig Bonegrip in the Forlorn Cavern, Ironforge.",
+  "d": "Although terribly worn and scratched, the title of this book can still be read upon its cover:$B$BThe Powers Below$B$BInside the book is a listing of unpronounceable names with foreboding titles, methods of worship, and preferred sacrifices...many of which include living, humanoid creatures.$B$BOn the inside cover of the book are the words: \"Bonegrip's Runes and Dooms, The Forlorn Cavern, Ironforge.  Proprietor: Gerrig Bonegrip.\"$B$BIf Bonegrip sells books like this, perhaps he'll buy this one back.",
+  "p": "Hello, $Gsir:madam;.$B$BMay I interest you in one of my tomes?",
+  "c": "Ah, a copy of The Powers Below. An interesting text, this is. And some might find it useful...$B$BBut this one's in sad shape. And look here! There are notes in the margin of almost every page!$B$BHm...I know this copy. I sold it to Bolgar last year. Are you...a friend of his? Yes, I thought you were. You have that same fire behind your eyes!$B$BWell, by definition, a friend of Bolgar's is a friend of mine. And we take care of our own, yes?"
+ },
+ {
+  "id": 969,
+  "t": "Luck Be With You",
+  "o": "Collect 4 Frostmaul Shards for Witch Doctor Mau'ari in Everlook.",
+  "d": "Ah, I can tell just by lookin' at ya -- you be wantin' to make a lucky charm. Mau'ari always knows!$B$BTo da south. you'll find a canyon, an' giants made a' solid ice. The giants sometimes be carryin' dem, but ya can always gather da shards yerself from da canyon. These shards have a powerful reflective quality.$B$BBring back 4 frostmaul shards, and my lucky charm will be yours.",
+  "p": "Bring back da shards, and I be tellin' you more!",
+  "c": "Ahh, yes... I will make da charm for ya now. Just you wait!"
+ },
+ {
+  "id": 970,
+  "t": "The Tower of Althalaxx",
+  "o": "Collect a Glowing Soul Gem and return it to Delgren the Purifier at Maestra's Post.",
+  "d": "Balthule's letter is dire. This Cult of the Dark Strand is a thorn in my side that must be removed. I have been dealing with some of the Dark Strand scum northeast of here at Ordil'Aran. One of their number possesses a soul gem that I believe holds the secret to the cult's power.$b$bBring it to me, and I will be able to decipher the secrets held within.",
+  "p": "Have you acquired that soul gem?",
+  "c": "Hmm, some dark magic enchants this soulstone. Let's see what's trapped inside, shall we?"
+ },
+ {
+  "id": 971,
+  "t": "Knowledge in the Deeps",
+  "o": "Bring the Lorgalis Manuscript to Gerrig Bonegrip in the Forlorn Cavern in Ironforge.",
+  "d": "As you might know, I collect lore.  Old lore.  Powerful lore.  Lore that opens doorways, and lore that can awaken Those Who Sleep.$B$BThere are rumors of an old piece of lore, the Lorgalis Manuscript, at the bottom of Blackfathom Deeps in Ashenvale.  That place is the old dwelling of long-dead elves.  Elves who held great knowledge before their city fell to ruin.$B$BSearch Blackfathom Deeps for the manuscript.  Do this, and I will not forget it.  Not even after ... the end days.",
+  "p": "The journey to Ashenvale is long, and your task is not easy. But if you get me the manuscript, $N...then your reward will be great.",
+  "c": "You found the manuscript! What a joyous day this is! Copies will be made and distributed, and the ancient knowledge of Lorgalis will finally be known to my brothers and sisters!$B$BYour service to us is more than you know, $N. But I hope that this gift shows you the gratitude we extend to our allies."
+ },
+ {
+  "id": 972,
+  "t": "Water Sapta",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Take the water sapta and find the corrupted pool of water in Silverpine, $N. I have great faith in your abilities."
+ },
+ {
+  "id": 973,
+  "t": "The Tower of Althalaxx",
+  "o": "Bring Ilkrud Magthrull's Tome to Delgren the Purifier at Maestra's Post.",
+  "d": "Ilkrud Magthrull. Yes, I have knowledge of him. He is a powerful orc warlock that makes his residence at the Fire Scar Shrine,  a place of great evil in southwestern Ashenvale.$b$bHe had been little more than an annoyance until now, and I had not dealt with him, but it seems that his time has come.",
+  "p": "You look a bit shaken up, $n. Are you well?",
+  "c": "It was a grand thing you did today, $N. You should be quite proud of yourself for having faced down a warlock of such power.$b$bNow, let's see what we can learn from Ilkrud's writings."
+ },
+ {
+  "id": 974,
+  "t": "Finding the Source",
+  "o": "Krakle in Un'Goro Crater wants you to find the hottest area of Fire Plume Ridge.$B$BWhenever you find a hot spot, right click the thermometer to check the temperature. Keep looking until you find the hottest one.",
+  "d": "The hot springs here are a source of mystery to me. Where does the heat come from?$B$BLooking at how close the pools are to Fire Plume Ridge, I really wonder if the volcano might have something to do with it. I created a thermometer to take readings of the temperatures at the volcano, and I'd like to find the hottest part. It gives the measurements in degrees Kraklenheit!$B$BHere, take it, and take readings of the temperatures at the ridge whenever you see a hot spot!",
+  "p": "I'd go there myself, but... I'm a little scared of the fire elementals there!",
+  "c": "Yes, I definitely see the correlation here between the temperature of the volcano and the hot springs. I'll have to double-check my equations for accuracy, but it seems like the distance and the rate that the heat is transferred... Hmm..."
+ },
+ {
+  "id": 975,
+  "t": "Cache of Mau'ari",
+  "o": "Speak to Witch Doctor Mau'ari again in a moment to receive the lucky charm.",
+  "d": "Now, before I give ya dis charm, I better explain how ta use it.$B$BIf you carry da charm with ya, you'll find dat certain items will drop from creatures ya fight. If you don't have da charm with you, you won't find them. Understand?$B$BYou'll know these special items by the name -- they be called E'ko. If you find any of these items, just bring dem to ol' Mau'ari, and she help ya out.$B$BWait here while I fix your charm.",
+  "p": "",
+  "c": "Here it is, $N. Remember, ya have ta carry it with you. Why don't ya head back to Winterspring, an' see what ya be findin' there?"
+ },
+ {
+  "id": 976,
+  "t": "Supplies to Auberdine",
+  "o": "Speak with Delgren the Purifier at Maestra's Post after seeing Feero safely through Ashenvale Forest.",
+  "d": "Delgren has asked me to deliver messages and supplies to Sentinel Starbreeze in Auberdine, but I am loathe to leave on my own. Dangerous foes operate in the forest, and I do not wish to risk letting these supplies and information fall into the wrong hands.$b$bIf you and others could act as my guards, I could leave now. With your protection, I have no doubt that we can see these goods safely to Auberdine.",
+  "p": "The Sentinels have a great need for supplies to reinforce themselves in Darkshore.",
+  "c": "You have done well today, $c. The items we sent to aid Auberdine will be of immediate use in dealing with the dark threats that infest the forest.$B$BTake these with my heartfelt thanks."
+ },
+ {
+  "id": 977,
+  "t": "Are We There, Yeti?",
+  "o": "Collect 2 Pristine Yeti Horns for Umi Rumplesnicker in Everlook.",
+  "d": "Now that I have what I need to cover the mechanical moving parts, I only need one other thing. Well, actually two. Two horns!$B$BThe ice thistle patriarchs and matriarchs have the largest horns, so of course, those are the ones I want. That type of yeti inhabits a cave to the southeast. There are plenty of them there; you shouldn't have any problem finding them.$B$BRemember, I only want the best looking ones -- no beat up or broken horns, please!",
+  "p": "I've just about finished attaching the fur, $N. Please, hurry back with those horns!",
+  "c": "I can't wait to show my friends! Now, just wait a moment while I attach these...$b$bPerfect!"
+ },
+ {
+  "id": 978,
+  "t": "Moontouched Wildkin",
+  "o": "Collect 10 Moontouched Feathers from Winterspring, then return to Erelas Ambersky in Rut'theran Village.",
+  "d": "Wildkin feathers from the Hinterlands appear to contain traces of magical qualities. These powers... they don't seem to be wielded by the creatures, it's more like they are simply inherent to the species -- part of their very essence.$B$BDuring my studies, I heard that a large population of wildkin inhabit the snowy lands of Winterspring. Could these creatures have the same powers? Please help me find an answer, $N. Go to Winterspring and gather feathers that have dropped to the ground, then return to me.",
+  "p": "Where could these powers have originated from? I think we are on the right track to find the answer, $N.",
+  "c": "Now I can compare the feathers... Let's see..."
+ },
+ {
+  "id": 979,
+  "t": "Find Ranshalla",
+  "o": "Find Ranshalla in eastern Winterspring.",
+  "d": "Yes, yes, these feathers seem to hold the same magical enchantment that I noticed previously... While I am not certain what we might find, I urge you to continue searching for answers, $N.$B$BA colleague of mine recently traveled into Winterspring to observe the wildkin there, in their own habitat. Why don't you catch up with her and see what she has found?",
+  "p": "",
+  "c": "Hi! Erelas sent you? Great, I was just preparing to travel up to the caves now, and I wouldn't mind company."
+ },
+ {
+  "id": 980,
+  "t": "The New Springs",
+  "o": "Travel to Winterspring and speak with Donova Snowden.",
+  "d": "Now, I've heard about other hot springs in a place called Winterspring, far to the north of here. The strange thing is, there are no volcanoes anywhere near them. Interesting, I know.$B$BWell, if you want to find out more, you should head to Winterspring and speak to a friend of mine. Her name is Donova Snowden, and she is currently staying by the hot springs there.$B$BThanks again for helping me with my thermometer! See you later!",
+  "p": "",
+  "c": "Hi there, $N. Yes, what Krakle told you is true..."
+ },
+ {
+  "id": 981,
+  "t": "The Tower of Althalaxx",
+  "o": "Talk to Delgren the Purifier at Maestra's Post.",
+  "d": "For all the work that you have done, you deserve to be well rewarded. Return to Delgren and tell him that Athrikus Narassin lies stilled by your hand, and the Cult of the Dark Strand is beaten and scattered.",
+  "p": "",
+  "c": "I knew you would be up to the task, $N.$B$BI sense great deeds before you, and that you will right many of the wrongs that plague our lands. Bear my blessings, $N, as well as this gift."
+ },
+ {
+  "id": 982,
+  "t": "Deep Ocean, Vast Sea",
+  "o": "Recover the Silver Dawning's Lockbox and the Mist Veil's Lockbox for Gorbold Steelhand in Auberdine.  Both items should be found aboard the wreckage of the ships to the north of the village.",
+  "d": "Off the coast of Darkshore to our north are two wrecked ships - the Silver Dawning and the Mist Veil.  Some time ago, both ships ran afoul of the blasted murlocs as they sailed across the vast sea into Auberdine.  They now lie at the bottom of the ocean as trophies for those fiends.$B$BBoth captains didn't make it out that night, and their logs and other effects are still below in lockboxes.  I'd like for you to recover them for us; it would mean a lot to the crew members still around these parts.",
+  "p": "The captains of those ships were good night elves, and they deserve a better fate than they were given. Perhaps tending to their personal effects will be the best way to put their spirits to rest.",
+  "c": "You've done us here in Auberdine a great service, lad. We'll make sure that their effects are properly taken care of.$b$bAs for you, please have this. It is the least I can do for someone with the bravery to set things right."
+ },
+ {
+  "id": 983,
+  "t": "Buzzbox 827",
+  "o": "Collect 6 Crawler Legs and place them in Buzzbox 827.",
+  "d": "Hey! Help me with my latest invention, the buzzbox. You can talk to people far away!$B$BMaybe you've already seen them, they're boxes with levers on them. The only problem is they need constant maintenance.$B$BEach one suffers from a different problem, but I made a really smart decision. I placed each one near creatures that have the proper parts to fix that particular machine. Right now Buzzbox 827 is on the fritz. It's just south of Auberdine, real close. It takes 6 Crawler Legs to fix it. I'll pay ya...",
+  "p": "Buzzbox 827 sits with an eerie silence. A single flashing light indicates that it needs 6 Crawler Legs to be placed in its holding box.",
+  "c": "As you place the Crawler Legs inside the machine, you hear gears begin to grind. Judging from the banging sounds coming from the Buzzbox, you believe the Crawler Legs are being put in their proper place. Soon the machine begins to hum, and you hear a tiny voice calling out from within.$b$b\"Hello? Uhh... Hello! You fixed it! This is Wizbang by the way! Thanks a lot... Hey, you wouldn't want to fix another one, would ya?\""
+ },
+ {
+  "id": 984,
+  "t": "How Big a Threat?",
+  "o": "Find a corrupt furbolg camp in Darkshore and return to Terenthis in Auberdine.",
+  "d": "Some of my brethren were rescued from a corrupt furbolg in Teldrassil, and I've vowed to stop any more atrocities before more of our kind are injured... or worse.$B$BI have seen a couple hints of corruption in Darkshore already, but I have yet to find any widespread signs. I think it would be logical if the investigation continued with the furbolgs. Would you find one of their camps, and return to me if you see any signs of corruption?",
+  "p": "How goes your search, $N?",
+  "c": "This is terrible news indeed, $N.$B$BWith the furbolgs this close to Auberdine, we will have to prepare ourselves for the inevitable.$B$BThank you, $N."
+ },
+ {
+  "id": 985,
+  "t": "How Big a Threat?",
+  "o": "Kill 8 Blackwood Pathfinders and 5 Windtalkers and return to Terenthis in Auberdine.",
+  "d": "You've already proven adept at scouting our enemy, $N. Do you have what it takes to fight them as well?$B$BNot all adventurers prefer straightforward combat to the art of stealth and evasion.$B$BIf you think you're up for the task, then the furbolg camp south of Auberdine is currently the biggest threat to our people. You'll find some of the Blackwood tribe there. Kill 8 pathfinders and 5 windtalkers, and return to me here.",
+  "p": "Do not stay your hand from what must be done, child. I know how repulsive the idea of killing the creatures of the forest must be, but in this case it is necessary. No cure has been discovered for the corruption let loose upon the forest, and we must do what we can to halt its progress until one is found.",
+  "c": "Wash the blood from your garments, $N, and do not mourn what you had to do. Instead, give thanks. You have lessened the threat to our people here in Auberdine, even if Darkshore is still in jeopardy from the effects of fel moss."
+ },
+ {
+  "id": 986,
+  "t": "A Lost Master",
+  "o": "Find 5 Fine Moonstalker Pelts and return them to Terenthis in Auberdine.",
+  "d": "$N, your skills have already helped me in my endeavor. Could I impose on you again to help Grimclaw and his master Volcor? In addition, I can craft you a magical cloak that will allow you to walk unhindered by Darkshore's creatures while you look for him.$B$BTo create the cloak, I'll need five fine moonstalker pelts from a moonstalker sire or matriarch to have enough material. The cats can be found near Wildbend River to the south, or even farther south near Ashenvale.",
+  "p": "I can't in good conscience permit you to seek Volcor until I've crafted that cloak for you.",
+  "c": "These will do nicely, $N. I shall set to work on the cloak immediately.$B$BGive me a few moments, then return to me.$B$BOh, one more thing: after you've used the enchantment on the cloak you'll be limited in your interactions with others. If you can help it, do no more than speak to others. Much more than that could dispel the illusion."
+ },
+ {
+  "id": 988,
+  "t": "<UNUSED>",
+  "o": "Speak to Volcor.",
+  "d": "I noticed the cloak you are wearing,$N. If you'd be willing to sacrifice it,I can renew its magics,and use it to escape. The problem with that,though,is you'll be left here in the cave alone.$B$BAre you able to make it out of here on your own if we choose that course?$B$BI can assure you that Terenthis will reward you for aiding me,if that is your concern.$B$BThe choice is yours,but I could really use your help.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 989,
+  "t": "<UNUSED>",
+  "o": "Speak to Volcor.",
+  "d": "If we decide to fight our way out,the plan is simple: we'll make our way down to the road and kill any furbolgs that get in our way... or anything else that decides it wants to stop us.$B$BI wish there was another way,but sooner or later the furbolg threat would have to be dealt with. Better it be by our own hands,so we know the job is done.$B$BTake a moment to prepare any magic or weapons you have at your disposal,then speak to me again.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 990,
+  "t": "Trek to Ashenvale",
+  "o": "Find Raene Wolfrunner in Ashenvale.",
+  "d": "$N, my mistress, Raene Wolfrunner, awaits you in the city of Astranaar within Ashenvale. With your help, perhaps we can at least ease some of the corruption that's taken hold there.$B$BHead south from here and stay close to the road--you'll find your way there without issue if you follow those directions.",
+  "p": "",
+  "c": "Ah, a $c from Darkshore. Selarin has done well to send you here so quickly, $N. I wish your trip here wasn't under such dire stress. Perhaps with your help we can improve matters.$B$BI would start my visit by speaking to the other citizens of Astranaar. Some could surely use your aid."
+ },
+ {
+  "id": 991,
+  "t": "Raene's Cleansing",
+  "o": "Find Teronis in Ashenvale.",
+  "d": "$N, a longtime friend of mine is also aiding the Sentinels here in Ashenvale, but he has yet to return.$B$BHe had leads on finding an item that he thought could slow the furbolg attacks on our people--a rod created by a now-dead, evil wizard.$B$BBefore he left here, he mentioned seeking out a gem for the rod.$B$BHe mentioned the gem possibly being hidden at the shrine in Lake Falathim at the base of the mountain to the west. The gem was being held there before it was overrun.$B$BFind my friend, $N, please.",
+  "p": "",
+  "c": "Teronis' body lies broken atop the island. For some unknown reason, the murlocs have left it alone.$B$BThe deep slashes across his corpse obviously came from the weapons and claws of the murlocs."
+ },
+ {
+  "id": 993,
+  "t": "A Lost Master",
+  "o": "Find Volcor in Darkshore and give him the Enchanted Moonstalker Cloak.",
+  "d": "The cloak is complete, $N. The time has come to find Volcor. I can only hope we are in time.$B$BThe cloak's magic, once invoked, will not last long; perhaps five minutes. It will be up to you to know when to use it: I would suggest waiting until you find Grimclaw.$B$BIf what he has told me is true, you will find his master in a cave south of here. Grimclaw will be alongside the road waiting for you. Signal to him by waving when you see him, and he'll point the way towards his master.",
+  "p": "",
+  "c": "Wonderful! Terenthis found someone to help me.$b$bAnd look. a moonstalker cloak...<cough> Oh... that hurts. Thank you, $N.$b$bThe furbolgs wounded me before I managed to evade them. Give me a moment, and I should be fine to talk some more."
+ },
+ {
+  "id": 994,
+  "t": "Escape Through Force",
+  "o": "Protect Volcor until you reach the road, then speak to Terenthis in Auberdine.",
+  "d": "All right, $N, force it is. Let's get out of here as soon as you're ready. We'll fight our way down to the road--Grimclaw should still be there. Once there, we can part ways.$B$BTerenthis will want to hear your version of the story immediately, so head to Auberdine after we make it out of here.",
+  "p": "",
+  "c": "$N! I'm pleased to see you've returned successfully. Your assistance to Volcor has given me faith that we can overcome the challenges facing us here in Darkshore and beyond."
+ },
+ {
+  "id": 995,
+  "t": "Escape Through Stealth",
+  "o": "Escape the Furbolg cave and meet Terenthis in Auberdine.",
+  "d": "All right then... if you're sure, we'll sneak out of here. Let us leave when you're ready.$B$BRemember, after you've escaped, meet Terenthis back in Auberdine. I'll head there on my own since I'll probably be moving faster than you.",
+  "p": "Yes, $n?",
+  "c": "$N! I'm pleased to see you've returned successfully. Your assistance to Volcor has given me faith that we can overcome the challenges facing us here in Darkshore and beyond."
+ },
+ {
+  "id": 996,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 997,
+  "t": "Denalan's Earth",
+  "o": "Bring the package of Rare Earth to Denalan at Lake Al'Ameth.",
+  "d": "Are you heading to the south?  To Lake Al'Ameth?  If so, then I have a task I might ask of you...$B$BMy colleague Denalan has a camp along the eastern end of the lake, where he is studying and experimenting on the plant life of Teldrassil.  He requested a package of rare earths from Darnassus and it was late, only recently arriving here in Dolanaar.$B$BCan you take the package to him?",
+  "p": "You have something for me?",
+  "c": "Ah, it's here! I have waited for this rare earth for quite some time. I hope it's still fresh...$b$bThank you for bringing it to me, $N. You are a $R who is generous with $Ghis:her; time."
+ },
+ {
+  "id": 998,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 1000,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Hamuul Runetotem on the Elder Rise of Thunder Bluff about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid Hamuul Runetotem on the Elder's Rise of Thunder Bluff for more information!",
+  "p": "",
+  "c": "Greetings, $c.$b$bI am pleased to see the likes of you taking an interest in the well being of nature; tales of your mighty deeds precede you, and you are welcomed here. Seeing you before me instills the feeling of confidence that the Cenarion Circle will get the proper aid it needs.$b$bOur connection with the Cenarion Circle in Moonglade transcends racial and political divides. Remember this as you work on behalf of the Circle, and you will do well."
+ },
+ {
+  "id": 1001,
+  "t": "Buzzbox 411",
+  "o": "Collect 3 Thresher Eyes from Darkshore Threshers in the deep sea near Buzzbox 411.",
+  "d": "A tiny voice crackles from deep within the machine.$B$B\"Wizbang here! The next Buzzbox is north of Auberdine, on the beach$B$BSo, that Buzzbox is number 411 and it needs 3 Thresher Eyes for its repairs. They're just off the coast! The darkshore threshers... *Hic*... Sorry about that...$B$BJust like last time, when you give the Buzzbox the goods, it'll spit out your reward. *Hic*... What? No, I'm fine!\"",
+  "p": "The machine's hatch is open and it seems to wait expectantly for 3 Thresher Eyes to be placed inside.",
+  "c": "The Buzzbox hums to life soon after you place the Thresher Eyes inside. There is a moment of static before you hear a familiar tiny voice call out.$B$B\"Crawler wine is the best...\" *hic*$B$B\"What? Oh, you fixed it already? Wow, you're a fasht one. Sho, would ya like to fix another?\"$B$BYou believe you hear a liquid being poured into a cup, followed by loud gulping sounds."
+ },
+ {
+  "id": 1002,
+  "t": "Buzzbox 323",
+  "o": "Collect 6 Moonstalker Fangs and place them in Buzzbox 323.",
+  "d": "The Buzzbox gives a burst of static as you hear Wizbang begin to speak.$B$B\"The next Buzzbox is number 323. Ish north of Auberdine but... where's the ale? Wha? Oh, ish on the road sho ya shouldn't have trouble finding it near the bridge.\"$B$BWizbang mumbles something incoherent before you hear a loud gulping sound.$B$B\"Thish one needs Moonstalker Fangs... 6 of 'em.\"",
+  "p": "Though you have yet to place the 6 Moonstalker Fangs inside, you believe you hear the sounds of static and incoherent gnome ramblings coming from within. Could someone else have fixed the machine already?",
+  "c": "The Buzzbox suddenly leaps into action, and you can hear the distinct sounds of teeth being ground to dust coming from within.$b$b\"Sho, ya made it! Thatsh exshellent newsh... Sho... Why doncha move along? Oh! Unless you want another job!\""
+ },
+ {
+  "id": 1003,
+  "t": "Buzzbox 525",
+  "o": "Collect 4 Grizzled Scalps from Grizzled Thistle Bears to the south of Auberdine and place them in Buzzbox 525.",
+  "d": "Over the boiling noises and dripping sounds coming from the machine, you hear Wizbang's wavering voice call out.$B$B\"Nexsht onesh far south down the road. Shouldn't be hard to find... jusht off to the shide... near a fensh. I think I hid it in shum bushesh... Bushessh. Hehehe... Yesh, Buzzbox 525 takes grizzled scalps from thoshe grizzled thistle bears. Boy thash a mouthful. Grizzshled... Hehehe...\"$B$BYou hear more gulping sounds as the machine cuts out. Then, suddenly, it bursts back to life.$B$B\"4!\"",
+  "p": "You hear singing coming from Buzzbox 525.$b$b\"Though crawler wine's shweet, and thresher ale fine, and moonstalker moonshine ish grand. There's nothing sho dear, as a thistle bear beer, and shoon I shall have shome on hand!\"$b$bThe hatch is open and awaits the 4 grizzled scalps as you hear the song repeated over and over.",
+  "c": "\"Sho yash gotsh the scalps in? That'sh sho great... Wha? Well, yesh I shuppose ya have realized that I can speaksh to ya without the materials in the machine. But I was telling the truth when I shaid they were broken!$b$bSee, in addition to being communimacation toolsh, the Buzzboxes also brew and distill fine liquor. Shorry for any deceptshion, but the nightelves do not apprecimerate my liquor trade in their townsh. I put shomething special in thish box to show my gratitude for yer effortsh. Enjoy!\""
+ },
+ {
+  "id": 1004,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Hamuul Runetotem on the Elder Rise of Thunder Bluff about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid Hamuul Runetotem on the Elder's Rise of Thunder Bluff for more information!",
+  "p": "",
+  "c": "Greetings, $c.$b$bI am pleased to see the likes of you taking an interest in the well being of nature; tales of your mighty deeds precede you, and you are welcomed here. Seeing you before me instills the feeling of confidence that the Cenarion Circle will get the proper aid it needs.$b$bOur connection with the Cenarion Circle in Moonglade transcends racial and political divides. Remember this as you work on behalf of the Circle, and you will do well."
+ },
+ {
+  "id": 1007,
+  "t": "The Ancient Statuette",
+  "o": "Bring the Ancient Statuette to Talen, in his camp near the Zoram Strand.",
+  "d": "I would charge you with a task, $N.$B$BI was on my small vessel, skimming over the submerged ruins of Zoram, when naga attacked me, surging from the water and tearing at me with their claws!  I fled, carrying what supplies I could to make this meager camp.$B$BBut when I reached the shore and ran... my prized possession was lost.$B$BPlease, $N, find the site of my ambush, along the coast to the north, and search for an ancient statuette.  It is the reason I have braved the dangers of the Zoram Strand.",
+  "p": "Have you found the statuette, $N?",
+  "c": "You found it! Thank you, $N!$B$BThe old city of Zoram holds many secrets, and this statuette may be the key to many of them."
+ },
+ {
+  "id": 1008,
+  "t": "The Zoram Strand",
+  "o": "Bring 20 Wrathtail Heads to Shindrell Swiftfire in Astranaar.",
+  "d": "There is evil lurking on our northwestern coast, known as the Zoram Strand.$B$BIt is the resting place of the doomed city of Zoram, destroyed during the Sundering and submerged beneath the seas.  It has been lost to the night elves for ages.  Lost, and nearly forgotten.$B$BNow, the naga have returned, and for what reason we do not know.  But reason matters little; we must slay these fiends and throw them back to the depths!$B$BReturn to me when your mission is complete.",
+  "p": "We cannot allow the naga to invade our coasts, $N.  It is vital that you go to the Zoram Strand and complete your mission.",
+  "c": "Very well done, $N.  Your actions in the Zoram Strand against the naga are commendable.$B$BI know your feat was not easily accomplished, for the strength and guile of the naga is well known to the night elves.  We know this, for we share a history with them.$B$BIt is a history I care not to repeat."
+ },
+ {
+  "id": 1009,
+  "t": "Ruuzel",
+  "o": "Bring the Ring of Zoram to Talen near the Zoram Strand.",
+  "d": "I fear the ancient statuette's secrets will remain forever hidden unless you find the key to its ancient lock.$B$BThat key is a ring, the Ring of Zoram.  It belonged to the rulers of this city before the waves of the Sundering drowned it.$B$BFor years the ring was lost, but the naga have recently found it.$B$BTheir leader, Ruuzel, dwells on an isle on the northern edge of Zoram.  Please, $N, retrieve the ring for me!",
+  "p": "It is said that the Ring of Zoram is the key to any lock within the city. Do you have it, $N?",
+  "c": "You found the ring! Thank you, $N. Please take this as payment, and know that your deeds today will remain forever in my memory."
+ },
+ {
+  "id": 1010,
+  "t": "Bathran's Hair",
+  "o": "Bring 5 Bathran's Hair to Orendil Broadleaf in Ashenvale.",
+  "d": "There is a plant that once grew in the old ruins of Bathran's Haunt to the north.  The plant was called Bathran's Hair and was known to cure ailments of the spirit.$B$BThere is a sick child in the village, and I believe it is more than just a physical illness.  Will you go to Bathran's Haunt and search it for Bathran's Hair?  I may need it to properly treat the child.$B$BBathran's Haunt lies north of Maestra's Post and just south of the border to Darkshore.",
+  "p": "Have you gathered the Bathran's Hair, $N?  The child's health grows weaker by the hour...",
+  "c": "Ah, you have the hair!  Now I will mix a cure for the child, and pray my concoction works.$B$BAnd... Forsaken are at Bathran's Haunt?  Very troubling to hear, that is.  Very troubling indeed..."
+ },
+ {
+  "id": 1011,
+  "t": "Forsaken Diseases",
+  "o": "Bring a Bottle of Disease to Kayneth Stillwind in Forest Song.",
+  "d": "The Forsaken, the undead arm of the Horde, have crept into Ashenvale, lurking at our ruins and our barrows.  We believe their goal is to spread disease amongst the lands of the night elves.  We must confirm this!$B$BThe Forsaken have a camp south of here, near the Dor'Danil Barrow Den, where they create poisons and diseases and place them in bottles.  Fight your way into that camp and steal a bottle of disease.  Return with such a bottle.  I will test it and find its purpose.",
+  "p": "Did you find the camp, $N? Do you have a bottle of disease?",
+  "c": "Very good, $N. Now... by testing the contents of this bottle, the goals of the Forsaken will be revealed!"
+ },
+ {
+  "id": 1012,
+  "t": "Insane Druids",
+  "o": "Kill the druids: Taneel Darkwood, Uthil Mooncall, Mavoris Cloudsbreak; then return to Kayneth Stillwind in Forest Song.",
+  "d": "When I struggled with the Forsaken's poisons, I had a vision.  I had a vision of the druids in the Dor'danil Barrow Den, poisoned... murdered by the undead!  They are now errant ghosts, severed from their bodies and driven mad.$B$BSo that the druids' spirits might some day find peace, you must enter the Dor'danil Barrow Den and destroy its once great leaders: Taneel Darkwood, Uthil Mooncall and Mavoris Cloudsbreak.$B$BDo this, then return to me.",
+  "p": "The anguish of the Dor'danil druids still haunt my dreams, $N. You must destroy their leaders!",
+  "c": "I felt the anguish of the Dor'danil Barrows lessen, and knew you had completed your task.$B$BIt was grim work you did, $N, for the spirits you destroyed were merely victims of the Forsaken's evil. But with their destruction, let us hope the other maddened spirits find peace."
+ },
+ {
+  "id": 1013,
+  "t": "The Book of Ur",
+  "o": "Bring the Book of Ur to Keeper Bel'dugur at the Apothecarium in the Undercity.",
+  "d": "$N, Shadowfang Keep holds a book, the Book of Ur, which would be much prized in my collection.  Ur was a great mage of Dalaran before the coming of the Scourge, his studies in other worlds are of much value to ... certain parties among the Forsaken.$B$BEnter Shadowfang Keep and find the book.  Bring it to me, and I will report your service to our Dark Lady...",
+  "p": "Did you find the book, $N?",
+  "c": "Very good. This book will add nicely to my collections of the workings of Ur. His knowledge was great, but his conscience held him from true power. And so when the Scourge came and his strength was tested, it failed.$B$BWe of the Forsaken cannot afford such weakness, if we are to survive..."
+ },
+ {
+  "id": 1014,
+  "t": "Arugal Must Die",
+  "o": "Kill Arugal and bring his head to Dalar Dawnweaver at the Sepulcher.",
+  "d": "Arugal still resides in Shadowfang Keep. We cannot claim Silverpine as a strategic stronghold for the Dark Lady until Arugal is slain.$b$bI shall see to it that his magic is eradicated, $n. But I leave it in your hands to see that Arugal meets the death he so deserves.$b$bTravel to Shadowfang Keep and put an end to Arugal's foul spells once and for all. Bring to me the vile wizard's head!",
+  "p": "With Arugal's death we stand to increase the Dark Lady's stronghold on Lordaeron.",
+  "c": "Silverpine Forest is finally free from the vice of that wretch Arugal. You have done the Dark Lady a great service, $N. Your tenacity shall be rewarded."
+ },
+ {
+  "id": 1015,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Fandral Staghelm at the Cenarion Enclave of Darnassus about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "p": "",
+  "c": "What makes you think I wish to be pestered by the likes of you, $c? Wait - let me stop the important duties I attend to on a daily basis so I can help you locate a doodad somewhere. By all means, the welfare of Darnassus - nay, all of Teldrassil - should come second to the acquisition of a bauble for your collection.$B$BThe fools in Moonglade waste my time with their call for assistance, and now I must endure this?"
+ },
+ {
+  "id": 1016,
+  "t": "Elemental Bracers",
+  "o": "Collect 5 Intact Elemental Bracers and use the Divining Scroll on them. Afterwards, bring the Divined Scroll to Sentinel Velene Starstrike at the Silverwind Refuge.",
+  "d": "Take this divining scroll--it can determine the creator of these elementals. But you will need something from them to use as a reagent to focus scroll's magic--their bracers should do nicely.$B$BA few intact bracers from the creatures should be enough. The other bracers will be useless for our purposes, but they may be worth something to a merchant if you wish to sell them. Once you have the intact bracers attempt to use the scroll. Return to me with the results and we shall proceed from there.",
+  "p": "Since you must destroy the bracers to kill the elementals, it will probably be difficult to find the specific ones that contain the information the divining scroll needs. You can trade bracers with others in order to obtain the ones you need, or perhaps you have the divined paper already?",
+  "c": "Well done, $N, this should give us the information we need to have the culprit discovered. How would you feel about taking out the mage who fills our pools with corrupt elementals? The corruption of Ashenvale and beyond makes my stomach turn on its own--to have a wizard actively attempting to destroy it further sickens me to no end. We shall make him pay."
+ },
+ {
+  "id": 1017,
+  "t": "Mage Summoner",
+  "o": "Slay Sarilus Foulborne and bring his head to Sentinel Velene Starstrike in Silverwind Refuge.",
+  "d": "There's only one undead mage in the Barrens capable of defiling this many water elementals. He's also the only one foolish enough to try. Sarilus Foulborne is probably sitting at the top of Dreadmist Peak, laughing at me.$B$B$n, you must go into enemy territory and destroy this miscreant. I have had enough of his idiocy and we must show him what happens to those who annoy the Sentinels.$B$BDestroy him and bring me his head. Be wary though, the Horde may be watching for you.",
+  "p": "Is it done? Is Sarilus Foulborne dead?",
+  "c": "Now I can see that repugnant smile wiped from his face forever. You have done very well, $N. Take this, the Light of Elune, drink of it when all seems lost and death is near. It may save you, Goddess willing."
+ },
+ {
+  "id": 1018,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Hamuul Runetotem on the Elder Rise of Thunder Bluff about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid Hamuul Runetotem on the Elder's Rise of Thunder Bluff for more information!",
+  "p": "",
+  "c": "Greetings, $c.$b$bI am pleased to see the likes of you taking an interest in the well being of nature; tales of your mighty deeds precede you, and you are welcomed here. Seeing you before me instills the feeling of confidence that the Cenarion Circle will get the proper aid it needs.$b$bOur connection with the Cenarion Circle in Moonglade transcends racial and political divides. Remember this as you work on behalf of the Circle, and you will do well."
+ },
+ {
+  "id": 1019,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Fandral Staghelm at the Cenarion Enclave of Darnassus about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "p": "",
+  "c": "What makes you think I wish to be pestered by the likes of you, $c? Wait - let me stop the important duties I attend to on a daily basis so I can help you locate a doodad somewhere. By all means, the welfare of Darnassus - nay, all of Teldrassil - should come second to the acquisition of a bauble for your collection.$b$bThe fools in Moonglade waste my time with their call for assistance, and now I must endure this?"
+ },
+ {
+  "id": 1020,
+  "t": "Orendil's Cure",
+  "o": "Bring Orendil's Cure to Pelturas Whitemoon in Astranaar.",
+  "d": "$N, I have created a cure that I believe will help the afflicted child.  Take it to Astranaar and give it to the child's parent, Pelturas Whitemoon.$B$BTo reach Astranaar, follow the road south, then east.",
+  "p": "I must apologize, for I have no time to speak.  My child, Relara, is deathly ill!",
+  "c": "This is from Orendil?$B$BHis skill with herbs and healing is great.  This cure gives me hope, when before I had little..."
+ },
+ {
+  "id": 1021,
+  "t": "Vile Satyr! Dryads in Danger!",
+  "o": "Find Anilia in Xavian in Ashenvale.",
+  "d": "Listen, I don't know who you are, but I need your help. My sisters went to take back the Branch of Cenarius from the satyr. They said they'd be back soon, but it's been two whole days!$B$B$n, you have to find them! They were looking for the ruins of a night elf temple in Xavian to the northwest. I don't know what to think. Look for Anilia, she was leading them on the search.",
+  "p": "",
+  "c": "Judging by the gaping wound in her side, Anilia is on the verge of death."
+ },
+ {
+  "id": 1022,
+  "t": "The Howling Vale",
+  "o": "Go to the Howling Vale and study the Tome of Mel'Thandris, then return to Sentinel Melyria Frostshadow at Forest Song.",
+  "d": "Though we have put many resources and much effort into driving the remaining demons from the Felwood to the north, our successes have been few. We have been able to keep much of the demonic presence from Ashenvale.$b$bTo the north, near the Felwood border, the ruined shrine of Mel'Thandris has been overtaken by mysterious wolf-men. Their chilling calls have led the area to be known as the Howling Vale. The Tome of Mel'Thandris kept at the shrine may shed some light on why these wolf-men have come.",
+  "p": "The tome of the shrine is a mysterious object. It is not a book in the traditional sense. The leaves of the tome were blessed by Mel'Thandris herself, and records events of import in its pages.$B$BIt is hard for me to explain. If you go to the shrine, you will understand.",
+  "c": "The Tome of Mel'Thandris works in strange ways. The events it records, the events it shows... No one truly understands why it does what it does.$B$BNonetheless, it is clear that what Priestess Starsong received--this Scythe of Elune--bears further investigation."
+ },
+ {
+  "id": 1023,
+  "t": "Raene's Cleansing",
+  "o": "Find the Glowing Gem and return to Raene Wolfrunner in Astranaar with Teronis' Journal.",
+  "d": "As you rummage through Teronis' belongings, you find a journal that is still in good condition.$B$BYou take the journal and leave Teronis' corpse as is.$B$BThe only thing left to do is find the gem Teronis was seeking. Raene mentioned it being in the area. Perhaps the murlocs have it...",
+  "p": "Ah, welcome back, $N.",
+  "c": "This is terrible, $N. Teronis is dead?!$B$BThe time for mourning will come, but for now we must focus our efforts. I shall send some of the Sentinels to recover Teronis' body as soon as possible.$B$BYou have Teronis' journal and the gem he was seeking. Do you think you're capable of completing his task? I would rest much better knowing his death was not in vain."
+ },
+ {
+  "id": 1024,
+  "t": "Raene's Cleansing",
+  "o": "Find Shael'dryn at the moonwell to the northeast.",
+  "d": "You'll have to do the research yourself, but from what notes Teronis has made, it sounds like your next course of action is to find the other pieces of the rod Dartol created. I would start by heading to the moonwell east of Iris Lake. When you're ready, follow the road and turn north when you reach a small sitting area on your left.$B$BA dryad there named Shael'dryn is better suited to guide you. Seek her out.$B$BKeep the gem with you--Shael'dryn will need it if she's to help you recreate the rod.",
+  "p": "Hello. How are you?",
+  "c": "Oh, Raene sent you? It must be serious indeed. What can I help you with?"
+ },
+ {
+  "id": 1025,
+  "t": "An Aggressive Defense",
+  "o": "Kill 1 Den Watcher, 2 Ursas, 10 Totemics, and 12 Warriors of the Foulweald tribe, and then return to Raene Wolfrunner in Astranaar.",
+  "d": "Before you travel to the moonwell I have another task that will aid the people of Ashenvale if you would like to test your skills.$B$BAlong the road heading east before the Falfarren River, furbolgs have been attacking travelers. Their tortured minds feeding upon fear, and their appetites satiated by the blood of innocents.$B$BAid the Sentinels in protecting the lands by showing those monsters the same mercy they have shown our kind.$B$BI believe their camps are south of the road... be careful.",
+  "p": "The furbolg were not always our enemy, $N. But times change, and it is no longer a time of peace here in these dark woods.",
+  "c": "You have done well, $N. Thank you."
+ },
+ {
+  "id": 1026,
+  "t": "Raene's Cleansing",
+  "o": "Find the Wooden Key and a piece of Dartol's Rod before returning to Shael'dryn at the moonwell.",
+  "d": "I wish your tidings were better.$B$BRaene is correct, I know about Dartol's creation and the treants in the area--at least I did once. They've become corrupted now, their nature twisted.$B$BIf your goal is to find the next piece of the rod, then you'll have to find the key to open the chest it's in.$B$BThe wooden key is on one of the treants northeast of here, near Felwood. Once you have it, look for a small glade west of the road near the Felwood border... the chest should be hidden around there.",
+  "p": "It upsets me so that the treants have become corrupt. I wish I could do more to help them.",
+  "c": "I'm pleased to see you're back, $N."
+ },
+ {
+  "id": 1027,
+  "t": "Raene's Cleansing",
+  "o": "Find the final piece of Dartol's Rod and return to Shael'dryn at the moonwell.",
+  "d": "The final piece of the rod was given to the druids of Dor'danil for safekeeping. I have no idea where they hid it. I'm sorry I can't help you more than that.$B$BAll I can tell you is to follow the road that leads towards the Barrens. The druids took shelter to the east of that road, but they won't be of much help to you: they were killed recently... it's something I don't like to think about much.$B$BWhen you find the final piece, bring it to me and I will help you reconstruct the rod.",
+  "p": "Did you find the final piece of the rod, $N?",
+  "c": "You found the final piece? Wonderful for you... and for Raene.$B$BI guess we'll have to see about repairing it, won't we?"
+ },
+ {
+  "id": 1028,
+  "t": "Raene's Cleansing",
+  "o": "Find the hidden shrine and re-enchant Dartol's Rod.",
+  "d": "Here is the completed rod, $N. Reconstructing it was simple... it's finding the shrine that has the power to recharge it that will be the hard part.$B$BWith some focus and effort it shouldn't be too hard for someone like you, who's already accomplished so much.$B$BHead southeast of here--there are very few paths, so be careful--and keep your eyes to the north. The shrine is hidden within the mountains that surround this glade.$B$BOnce there, place the rod within the shrine... the rest is magic. Hehe.",
+  "p": "You can sense a subtle yet powerful force within the shrine and surrounding trees.$B$BYou begin placing the rod within the shrine and a soft thrumming noise emits from around you as the shrine begins to glow...",
+  "c": "After the glow dies, you can see the re-enchanted rod within the shrine's basin."
+ },
+ {
+  "id": 1029,
+  "t": "Raene's Cleansing",
+  "o": "Return to Raene Wolfrunner in Astranaar.",
+  "d": "I suggest you find Raene and let her know the rod is finished. I'm sure she'll know what your next course should be.$B$BGood luck, $N.",
+  "p": "",
+  "c": "You've recreated the rod Teronis had set out to find? That's wonderful to hear.$B$BTeronis would be proud to see his quest is continuing even after his tragic passing."
+ },
+ {
+  "id": 1030,
+  "t": "Raene's Cleansing",
+  "o": "Find an uncorrupted furbolg, and using the power of Dartol's Rod of Transformation, speak to him.",
+  "d": "Alas, I'm not completely certain what he had in mind next.$B$BIf what he said was true about the rod's power, then it will allow you to take on another form altogether. Which form, I do not know.$B$BPerhaps he meant to use its powers to get closer to the tainted furbolgs, but even the uncorrupted creatures would slaughter him were he not careful. Transformed by the rod, Dartol would have to speak to a furbolg who was safe from the effects of Fel Moss.$B$BI would start your search southeast of Mystral Lake.",
+  "p": "",
+  "c": "Yes, yes... you are one of my kind, but still whole. Still clean.$B$BI am unsure how you have escaped the atrocities the night elves have visited upon our people, but I am glad to know that I am no longer alone.$B$BCorruption now runs through the veins of our kin, young one, corruption brought down upon us by the prideful night elves. They are the ones who did this to our people... They are the ones I blame for being cast out of my tribe.$B$BAt night I can still see the campfires burning in the darkness."
+ },
+ {
+  "id": 1031,
+  "t": "The Branch of Cenarius",
+  "o": "Kill Geltharis and return the Branch of Cenarius to Illiyana at Forest Song.",
+  "d": "Anilia puts her hands on your shoulders and draws you close. Gasping, she points towards the arch to the north, before her eyes close and her last wheezing breath leaves her body. \"He has taken it... Geltharis...\" You know in your heart that Anilia's dying wish is to see the Branch of Cenarius back in dryad hands.",
+  "p": "Have you found them? What did Anilia say? Where is she?",
+  "c": "Anilia died? No... that can't be! It was just yesterday that we were running and playing together in the woods.$B$BI guess those days are over..."
+ },
+ {
+  "id": 1032,
+  "t": "Satyr Slaying!",
+  "o": "Bring 16 Satyr Horns to Illiyana in Forest Song.",
+  "d": "I can't believe that Anilia is gone... We used to play together in the forests all the time. I almost feel... sad.$B$BI know something that might make me feel better. Please, slay the satyrs that took Anilia from me! Bring me their horns as proof of your actions and you will forever have my gratitude.$B$B",
+  "p": "Please, help me avenge Anilia's death.",
+  "c": "Thank you, kind $R. My sister's spirit is gladdened by your efforts."
+ },
+ {
+  "id": 1033,
+  "t": "Elune's Tear",
+  "o": "Bring Elune's Tear to Pelturas in Astranaar.",
+  "d": "I had hoped Orendil's cure would save Relara, but I fear it only slowed the disease running through my child.  We must find more powerful medicine!  Thankfully, Orendil spoke to me of further remedies to try should his first one fail.$B$BElune's Tear is a type of stone that rests in only one place: the isle on Iris Lake, east of Astranaar.  Orendil said the stone will wash away corruption... please, $N, bring me Elune's Tear and pray it will end my child's sickness!",
+  "p": "$N, did you find Iris Lake? Do you have the Tear?",
+  "c": "Oh, you found it! I will place the tear in a stew, and pray that it will cure her.$B$BThank you! Thank you, $N!"
+ },
+ {
+  "id": 1034,
+  "t": "The Ruins of Stardust",
+  "o": "Bring 5 Handfuls of Stardust to Pelturas in Astranaar.",
+  "d": "Elune's Tear washed clear some of my daughter's sickness.  Her nightmares are lessened and I thank the goddess for her blessing.  But ... fever still rages within her.$B$BOrendil told me of a frosted dust found among the Ruins of Stardust.  Perhaps it will abate Relara's fever.  Gather some of the dust, then please return to me.$B$BThe Ruins of Stardust lie to the south, $N.  May Elune speed your journey.",
+  "p": "Do you yet have the Stardust, $N?",
+  "c": "You gathered the dust! I will create a poultice from these -- it should bring down Relara's fever.$B$BThank you again, $N. Without your help, my child would surely perish."
+ },
+ {
+  "id": 1035,
+  "t": "Fallen Sky Lake",
+  "o": "Retrieve a Fallen Moonstone from the Shadethicket Oracle, then bring it to Pelturas in Astranaar.",
+  "d": "Relara's fever has passed, but she is still very weak.  I do not believe time alone will give her back the strength she has lost.  I believe it will take the power of a moonstone.$B$BWe used to gather moonstones at Fallen Sky Lake to the southeast... until the Shadethickets came.$B$BTheir leader, a Shadethicket Oracle, gathered up all the fallen moonstones and hoards them.  Now, you must retrieve a moonstone from the Oracle.$B$BAnd to do that, I fear that you must slay him.",
+  "p": "Did you face the Shadethicket Oracle, $N? If so, then please hand me the fallen moonstone. Relara has strength left for only a few more breaths!",
+  "c": "Oh, $N, you have saved my daughter! I know the power of the moonstone will give back my daughter her strength!$B$BI can never repay you fully for the aid you have given me, but... please, take this. Other than Relara, it is my most dear possession."
+ },
+ {
+  "id": 1036,
+  "t": "Avast Ye, Scallywag",
+  "o": "Speak with Fleet Master Firallon aboard the Crimson Vale off the coast of Stranglethorn Vale.",
+  "d": "$N... yeah, I've heard of you.  I've heard that you're no friend of Booty Bay - just like us Bloodsail Buccaneers.  Fleet Master Firallon is looking for hale and hearty $g men : women; just like you for a special mission.$B$BIf you're interested, head on out to the Crimson Veil and speak with him below decks.  She's anchored off the Wild Coast east of here, next to the Riptide and the Damsel's Luck.",
+  "p": "",
+  "c": "Avast ye, scallywag. I hears that ye be the type for a bit o' the skullduggery. Well, if yer no friend of Booty Bay, then ye might have a special place with the Bloodsail Buccaneers.$B$BArrrrr..."
+ },
+ {
+  "id": 1037,
+  "t": "Velinde Starsong",
+  "o": "Speak with Thyn'tel Bladeweaver at the Warrior's Terrace in Darnassus.",
+  "d": "Velinde Starsong was my predecessor here in Ashenvale Forest. At first it seemed she had the situation in Felwood under control, but little by little her efforts faltered. One day, she simply disappeared.$b$bI was sent here to continue her work. I'm afraid I know nothing of the priestess, however. Perhaps Thyn'tel Bladeweaver, one of the commanders of the Sentinels, knows further details of her disappearance that I was not a party to.$b$bSurely she will understand the import of such information.",
+  "p": "",
+  "c": "Velinde Starsong? That the priestess disappeared some time ago is almost certainly common knowledge. As to further details about the events that surrounded her departure... it would take good reason for me to divulge such information."
+ },
+ {
+  "id": 1038,
+  "t": "Velinde's Effects",
+  "o": "Search through Velinde's chest for her journal, then return it along with the key to Thyn'tel Bladeweaver in Darnassus.",
+  "d": "The Tome of Mel'Thandris showed you this? I suppose there would be little harm in allowing you to examine her belongings. This key will allow you to open the chest where we stored her things in the Sentinels' bunkhouse. She kept a journal of her duties, if there is anything to be learned, it will be from that.$b$bI should tell you, the Sentinels believe that she had her own reasons for leaving, and expect that she could return at any time. The priestess has done much in the past to earn our trust.",
+  "p": "What'd you find out?",
+  "c": "It seems that Velinde's disappearance is more troubling than it originally appeared. Even still, I cannot believe that she has come to a bad end. Perhaps it would be beneficial for us to make contact with her.$B$B$N, since you have shown a vested interest in this matter, I would like to enlist your aid."
+ },
+ {
+  "id": 1039,
+  "t": "The Barrens Port",
+  "o": "Speak with Wharfmaster Dizzywig at Ratchet in the Barrens.",
+  "d": "Ratchet is the only port in the Barrens. Most likely Velinde found a trading vessel in Ratchet to take her to Blackwater Cove in Azeroth. We've had limited dealings with the goblins that run the port, but the master of the dock should have information about the comings and goings of ship passengers.$b$bFollow the road southeast through Ashenvale and you will find yourself in the Barrens. Watch your step, $n, warriors of the Horde patrol the land. You will be safe at the port, though.",
+  "p": "",
+  "c": "$R, eh? Must admit, we don't get much of your type out here. Looking for someone, eh? Just give me a moment, I'm sure I have it written in one of my ledgers.$B$BLot of people travel through here, though, so just give me a moment."
+ },
+ {
+  "id": 1040,
+  "t": "Passage to Booty Bay",
+  "o": "Take a boat to Booty Bay and speak with Caravaneer Ruzzgot.",
+  "d": "Ah yes, finally found it. Should have told me she passed through here that long ago. Let's see.$b$bVelinde. Booked passage to Booty Bay on the Black Osprey. I don't have anything here saying otherwise, so I'd assume it arrived in port safely.$b$bNot much more help I can be to you, but she asked about overland travel over on that side of the world, and I mentioned Ruzzgot, a caravan driver based out of Booty Bay. Might be that this Velinde traveled with him.$b$bMove along, now. I haven't all day for you.",
+  "p": "",
+  "c": "Yes? Now, it doesn't look to me like you're the sort with goods that need shipping, so either you're looking for a job with my caravan--and there's no jobs to be had now--or you're probably talking to the wrong goblin.$B$BSo which one is it?"
+ },
+ {
+  "id": 1041,
+  "t": "The Caravan Road",
+  "o": "Speak with Clerk Daltry in Darkshire.",
+  "d": "Turns out I was wrong about you, and that isn't something that happens everyday.$b$bIt just so happens that I remember this Velinde you're looking for. Isn't every day that a night elf priestess that wants to travel with a dirty old--but great for your shipping needs!--caravan like my own.$b$bWe split up on the way north, she was headed for Darkshire. The clerk there keeps all sorts of records. Might know something useful.$b$bBe careful in the jungle, it is a deadly place even at the best of times.",
+  "p": "",
+  "c": "With all the strange happenings of the last few years, I keep as good records of strangers as I can. Never know when it might come in handy... though it's usually not pleasant business when it does. Not to suggest anything about this Velinde you're looking for."
+ },
+ {
+  "id": 1042,
+  "t": "The Carevin Family",
+  "o": "Speak with Jonathan Carevin in Darkshire.",
+  "d": "No, I don't have any records of a Velinde Starsong staying in Darkshire... though, if you don't mind me saying, I can hardly imagine a night elf priestess taking a room in the inn, if you get my meaning?$b$bThese wolf-men you mentioned though, that's something I've heard about. Just the other day, Calor came into town with a string of their heads. He works with the Carevin family. Hunters of demons, undead, and other monstrosities. Speak with Jonathan, he's the head of the household.",
+  "p": "",
+  "c": "Dark times these are. Ill news is whispered from every swaying branch, and evil can be found under every rock.$B$BAnd in such times an unknown stranger enters my home and asks of worgen... I'll ask no forgiveness for my suspicions, only answers.$B$BAnd answers, I will have."
+ },
+ {
+  "id": 1043,
+  "t": "The Scythe of Elune",
+  "o": "Look for signs of the Scythe of Elune then return to Jonathan Carevin in Darkshire.",
+  "d": "Your story rings true... I do not entirely understand your motives, but if your business here in Duskwood involves ridding the forest of worgen in any number, then I can forgo understanding for results.$b$bThere is a mine to the south that has been overrun with worgen... They appeared out of nowhere, but from what we know, that is where they first were found.$b$bGo about your business, but I would ask that if you find anything of import, you share it with me. We will accept any aid in our war against evil.",
+  "p": "The woods are perilous for the unprepared. Keep your weapons close at hand and your wits even closer, or your next journey into the haunted forest may be your last.",
+  "c": "It is an interesting story you tell, $N. Though the Carevin family's influence is not large enough that we might find the root of these troubles and finish them once and for all, we will do what we can to contain the worgens' numbers in Duskwood.$B$BAlready I have instructed Calor to make this his first priority."
+ },
+ {
+  "id": 1044,
+  "t": "Answered Questions",
+  "o": "Return to Thyn'tel Bladeweaver in Darnassus.",
+  "d": "We shall rein in the worgen problem, have no worry of that. This evil that your friend introduced to our woods will be contained, and I bear her no ill will for her actions. Strange events are afoot in these times, $n, and the darkness knows no respite.$b$bI will keep you no longer. I suspect that there are others that should hear of what you have found in the mines of Duskwood.",
+  "p": "",
+  "c": "So this is the fate of Velinde, is it? The high priestess will be disappointed to hear of this, they were good friends before her disappearance. Still, the Scythe of Elune was surely granted to her as a boon by our goddess, and it is unsettling to me that it has fallen out of her servants' hands.$B$BAnother matter for another time, however. I owe you my thanks in no small amount for what you have accomplished."
+ },
+ {
+  "id": 1045,
+  "t": "Raene's Cleansing",
+  "o": "Kill Ran Bloodtooth, 4 Bloodtooth Guards and collect Ran Bloodtooth's Skull. Return to Krolg near Lake Mystral should you succeed.",
+  "d": "The night elves are as old as time, but their arrogance destroys their very world. And now it destroys our lives too. But that can no longer be controlled...$B$BI blame the elves for much, but we are still responsible for our actions. Even beyond the corruption, we are capable of great evil.$B$BRan Bloodtooth is one such evil. Power hungry, lusting... the corruption has only made him stronger. My hatred for the elves burns, but I do not wish ill upon their children, so we must police our own.",
+  "p": "Have you slain Ran yet, my friend?$B$BEven the Night elves do not truly deserve his wrath. His hatred burns even brighter than my own, but his mind is no longer his own. He is a threat to all the natural creatures of this forest.",
+  "c": "You have done well, my friend.$B$BThe forest is still tainted, but at least we know we have done a small part to return it to its former glory. If you wish to return to me again, I would enjoy the company of my own kind.$B$BBe well. Perhaps our tribes will meet again under less violent times."
+ },
+ {
+  "id": 1046,
+  "t": "Raene's Cleansing",
+  "o": "Bring Ran Bloodtooth's Skull to Raene Wolfrunner in Astranaar.",
+  "d": "Return to your own tribe and let them know of your victory here.$B$BShow them your trophy, and bask in the glory...",
+  "p": "The Sentinels do what they can here in Ashenvale, but it's thanks to $rs like you that we have gained the ground we have.",
+  "c": "So, this is the skull of the fiercest furbolg threat in Ashenvale?$B$BI am more than pleased with your abilities, $N. The Sentinels cannot thank you enough. I hope we can rely on you again in the future to help our people.$B$BI shall put this skull and Dartol's Rod in a place of reverence for others to see.$B$BTeronis would be proud. Thank you again."
+ },
+ {
+  "id": 1047,
+  "t": "The New Frontier",
+  "o": "Speak with Arch Druid Fandral Staghelm at the Cenarion Enclave of Darnassus about the Cenarion Circle's call to explore the frontiers of Kalimdor.",
+  "d": "Attention, heroes!$B$BThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor!  A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.$B$BAll interested individuals should seek audience with the Cenarion Circle.  Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "p": "",
+  "c": "What makes you think I wish to be pestered by the likes of you, $c? Wait - let me stop the important duties I attend to on a daily basis so I can help you locate a doodad somewhere. By all means, the welfare of Darnassus - nay, all of Teldrassil - should come second to the acquisition of a bauble for your collection.$b$bThe fools in Moonglade waste my time with their call for assistance, and now I must endure this?"
+ },
+ {
+  "id": 1048,
+  "t": "Into The Scarlet Monastery",
+  "o": "Kill High Inquisitor Whitemane, Scarlet Commander Mograine, Herod, the Scarlet Champion and Houndmaster Loksey and then report back to Varimathras in the Undercity.",
+  "d": "Whilst the Dark Lady tends to the pressing issue of the Lich King's advance to the north, I am seeing to it that matters closer to home are being taken care of accordingly.$b$bNo doubt, the human pests who call themselves the Scarlet Crusade are proving to be the sharpest thorn in our side domestically. Tirisfal Glades is literally crawling with the little red ants.$b$bTravel to the Monastery, $c, and lay waste to High Inquisitor Whitemane and her top lieutenants.",
+  "p": "Perhaps I was not explicit in my orders, $c. I want High Inquisitor Whitemane killed once and for all. And while you're at it, take out her top brass as well.$B$BKill that zealot, Scarlet Commander Mograine. Lay waste to Herod, the Scarlet Champion. And slaughter Houndmaster Loksey and his filthy mutts too.$B$BNow begone!",
+  "c": "You have served the Dark Lady well, $c. 'Twas no small task I asked of you.$b$bYour loyalty to the Forsaken has been noted. And your tenacity in combat will be remembered."
+ },
+ {
+  "id": 1050,
+  "t": "Mythology of the Titans",
+  "o": "Retrieve Mythology of the Titans from the Monastery and bring it to Librarian Mae Paledust in Ironforge.",
+  "d": "The future is inevitable! We hurl ourselves towards it like falling raindrops to the Great Sea.$b$bBut perhaps, by studying the past, we can know what to expect and be better prepared for the unknown.$b$bBefore dire troubles fell upon Lordaeron, there was a bastion of knowledge tucked away in the Tirisfal Glades. It is rumored that a book called Mythology of the Titans was housed in the library of the old Monastery.$b$bBring it to me and perhaps together we can unlock the secrets of the past!",
+  "p": "The Monastery was a seminary for Paladins-in-training. Once a stronghold of the Light, it fell into the hands of the crazed zealots of the Scarlet Crusade.$b$bThe Crusade believed their goal a noble one: to purify the land of the undead plague. But insanity tainted their plight and now they stand enemies to all.$b$bBring Mythology of the Titans to me so I can study it and house it here in Ironforge.$b$bThe corrupt halls of the Monastery are no place for such a historical treasure.",
+  "c": "You have rescued the sacred text!$b$bYour journey was long and acquiring the book was undoubtedly no easy task. But  the dwarves of Ironforge stand to benefit from your success.$b$bThank you, $N, on behalf of the Explorers' League."
+ },
+ {
+  "id": 1052,
+  "t": "Down the Scarlet Path",
+  "o": "Take Brother Anton's Letter of Commendation to Raleigh the Devout in Southshore.",
+  "d": "We of the Scarlet Crusade lay claim to strongholds from Hearthglen to Tirisfal Glades. We are quite proud of our bastions of cleansing throughout Lordaeron.$b$bYou have proven yourself against the undead in Desolace. But the true threat of the plague lies in Lordaeron.$b$bTravel to the town of Southshore, in the Eastern Kingdoms. Seek out a crusader named Raleigh the Devout. Give him this letter of commendation bearing my seal and he will escort you to a place of honor in our Scarlet Monastery.",
+  "p": "Who goes there? What do you want from me?",
+  "c": "Brother Anton still spreads the word of the Scarlet Crusade? Oh my...."
+ },
+ {
+  "id": 1053,
+  "t": "In the Name of the Light",
+  "o": "Kill High Inquisitor Whitemane, Scarlet Commander Mograine,  Herod, the Scarlet Champion and Houndmaster Loksey and then report back to Raleigh the Devout in Southshore.",
+  "d": "I once served the Scarlet Crusade with honor, loyalty and pride. I believed their cause to be a noble one: to rid Azeroth of the undead.$b$bBut as I spent time at the Monastery in Tirisfal Glades I realized that their grasp on reality was slipping. They now think everyone is plagued who doesn't wear the tabard of the Crusade. Innocent men and women were tortured because they were supposedly plagued. $b$bThe Scarlet Crusade must be crushed in the name of the Light. You, $n, must destroy the deranged regime.",
+  "p": "The corruption in the Monastery will not end until the highest ranking officials have been removed.$b$bIn the name of the Light, slay High Inquisitor Whitemane, Scarlet Commander Mograine,  Herod, the Scarlet Champion and Houndmaster Loksey. Once they have fallen, perhaps the true cause can be rekindled. Until then, anyone who crosses the path of the Crusade lies in peril.$b$bVenture forth from Southshore and make it so!",
+  "c": "While disciples of the Light never revel in the loss of life, we must accept that on occasion, such sacrifices must happen for the greater good of the Kingdom and the planet.$B$BThrough your deeds in the Monastery you have spared many innocent lives, $N. I salute your tenacity."
+ },
+ {
+  "id": 1054,
+  "t": "Culling the Threat",
+  "o": "Bring Dal Bloodclaw's Skull to Raene Wolfrunner in Astranaar.",
+  "d": "Directly to the north of Astranaar are the Thistlefur furbolg. My scouts report that their numbers have grown greatly over the past few months. If they grow too great, they may find the courage to attack Astranaar directly.$B$BKill as many of their kind as you can, but bring me their chieftain's skull as proof that their efforts have been stifled... for now.$B$BI shall remain here in Astranaar and await word from you. Elune be with you.",
+  "p": "The furbolgs' corruption has caused Ashenvale to become a fraction of its former glory.",
+  "c": "Well done, $N.$B$BWe are under constant threat from the furbolg. Hopefully this will keep them at bay for a bit longer."
+ },
+ {
+  "id": 1055,
+  "t": "Raene's Cleansing",
+  "o": "Return to Shael'dryn at the moonwell.",
+  "d": "The rod, now complete, lies in your hands. Shael'dryn will want to hear of your success.",
+  "p": "",
+  "c": "You've done it, $N! Well done!"
+ },
+ {
+  "id": 1056,
+  "t": "Journey to Stonetalon Peak",
+  "o": "Travel to Keeper Albagorm on Stonetalon Peak.",
+  "d": "The forest spirits tell me you are brave and willing to travel.$b$bTo the south, not far from Mystral Lake, there lies a tunnel named The Talondeep Path. Through this tunnel you will come to an area known as Windshear Crag in the Stonetalon Mountains. Once there, journey to the southwest past Cragpool Lake and then north, up the steep slope until you reach Stonetalon Peak.$b$bThere awaits Keeper Albagorm. Heed his bidding, $r.$b$bThe journey will be perilous.",
+  "p": "",
+  "c": "Alas, you arrive. I see Faldreas has listened to the forest spirits..."
+ },
+ {
+  "id": 1057,
+  "t": "Reclaiming the Charred Vale",
+  "o": "Keeper Albagorm on Stonetalon Peak wants you to slay 7 Bloodfury Harpies, 7 Bloodfury Ambushers, 7 Bloodfury Slayers and 7 Bloodfury Roguefeathers.",
+  "d": "As a protector of the forest spirits you can undoubtedly guess why I am alarmed.$b$bYou have traveled through these mountains to reach this peak. Surely you have seen the travesty which has befallen the land. Greed has led to the destruction of these sacred hills.$b$bThe Charred Vale to the south was set afire by the greedy mechanized army of industrialists. Worse yet, the Bloodfuries that have encroached on the land refuse us passage in to begin regrowth.$b$bDrive the wretched harpies out, $n!",
+  "p": "There is much work to be done before the Charred Vale can be restored to the lush forest it once was.$B$BClear the area of those foul menaces, $N! Only then can we begin to reclaim what belongs to nature.",
+  "c": "Now that the Bloodfuries have suffered such a great loss, perhaps the true work of restoring the land can begin...."
+ },
+ {
+  "id": 1058,
+  "t": "Jin'Zil's Forest Magic",
+  "o": "Witch Doctor Jin'Zil at Malaka'jin wants 5 portions of Stonetalon Sap, 5 Twilight Whiskers, 30 Courser Eyes and a Fey Dragon Scale.",
+  "d": "So excited I am!$b$bThree little cages for three little elves! But what shall we do with our lovely tree-hugging friends? Why, let's give them a taste of... what do they call it... forest magic!$b$bI'll need a good mess of Stonetalon sap. From those horrid felines, bring me some twilight whiskers. This calls for plenty of courser eyes, of course -- can never have enough eyes. Oh, and lest we forget, a precious scale from a fey dragon.$b$bHurry to Stonetalon Peak, $n, so I can brew some forest magic!",
+  "p": "Look at our poor little elf friends. All caged up with no forest to frolic in!$b$bNow were you able to find me some sap? How about the whiskers from the twilight runners? Don't suppose you have that fey dragon scale on you?$b$bAnd eyes! I'll need so many eyes! You just can't mix up a fierce forest magic brew without a good helping of eyes!",
+  "c": "Oh how happy these little woodland nymphs shall be! We'll make them feel right at home with this special concoction!"
+ },
+ {
+  "id": 1059,
+  "t": "Reclaiming the Charred Vale",
+  "o": "Travel to Falfindel Waywarder on the border of Thousand Needles and Feralas.",
+  "d": "The Bloodfuries have been subdued. But they will regroup soon enough if action is not taken.$b$bFar south of the Barrens lies a land known as Thousand Needles. If you travel west in Thousand Needles until you reach the lush forest's edge of Feralas, you will find a druid named Falfindel Waywarder.$b$bThis great and wise druid is capable of calling forth great forest spirits which can aid in the reclamation of the Charred Vale.$b$bSend word of our need! Seek him out at once!",
+  "p": "",
+  "c": "Keeper Albagorm was wise to send you with such urgency.$B$BLet us see if we cannot call forth aid from the great forest to travel to the Charred Vale before it is too late."
+ },
+ {
+  "id": 1060,
+  "t": "Letter to Jin'Zil",
+  "o": "Deliver Darsok's letter to Jin'Zil within his cave in Malaka'Jin, in Stonetalon.",
+  "d": "You've done so well for me, $n. You're a regular lucky rabbit's foot and there's something I want you to see.$B$BThe harpies are not from around the Barrens. They come from a place called Stonetalon, far to the northwest of here. Though it is probably a dangerous place for you, I need this letter delivered to an old friend of mine who lives there, a witch doctor by the name of Jin'Zil.$B$BHe'll be happy to know that Serena Bloodfeather is dead, and I think you'll find Stonetalon an interesting place.",
+  "p": "You seem a shady character. You have something for me to see?",
+  "c": "Ahh, a letter from Darsok. I have not heard from him in many years.$b$bSo the last of the Bloodfeathers are dead, eh? That is good news, I can remember when my friend Rokhan went with that crazy mok'nathal to kill her older sister. Ah, to be young again, like you."
+ },
+ {
+  "id": 1062,
+  "t": "Goblin Invaders",
+  "o": "Kill 15 Venture Co. Loggers, then return to Seereth Stonebreak on the border of Stonetalon and the Barrens.",
+  "d": "The goblin-run Venture Company moved into the Stonetalon Mountains, chopping down trees and burning huge stretches of forest.  The spirits of this place are nearly blind with pain and rage.  We must stop the Venture Company!$B$BHead northwest, beyond the Greatwood Vale and into the Windshear Crag.  You will find the goblins and their servants at work--show them the Horde will not allow the exploitation of Stonetalon.  Show them in the language they best understand...$B$BViolence.",
+  "p": "The Greatwood Vale lies to the northwest, $N. Go. Strike fear into those who would pillage this land!",
+  "c": "Bravely done, $N.$b$bWe may ultimately need the wisdom of tauren elders to calm the spirits of Stonetalon, but...$b$bRidding the Venture Company of its personnel is a good first move against them."
+ },
+ {
+  "id": 1063,
+  "t": "The Elder Crone",
+  "o": "Speak with Magatha in Thunder Bluff.",
+  "d": "To truly tend the spirits of Stonetalon we must consult the tauren elders.$B$BI do not know many of their leaders' names, but I do know of one: Magatha.  I have heard that she is very old, and she knows much.  If anyone can marshal spiritual aid from the tauren, it is she.$B$BMagatha resides in the tauren capital of Thunder Bluff, on Elder Rise -- the city's northeastern bluff.  Speak with Magatha, and tell her of the peril of Stonetalon Mountains.",
+  "p": "",
+  "c": "I bid you greetings. You are here seeking council?"
+ },
+ {
+  "id": 1064,
+  "t": "Forsaken Aid",
+  "o": "Speak with Apothecary Zamah in the Pools of Vision in Thunder Bluff.",
+  "d": "The tauren have a bond with the land, and it pains me to hear of Stonetalon's plight.  But I fear that to heal the land, we must first remove the disease upon it.$B$BIs it not fortunate, then, that the Forsaken are allied with us?  They know much of disease.  I believe they can aid us, and by doing so they will strengthen the trust between our people.$B$BSpeak with Apothecary Zamah.  She is a scholar and an emissary of the Forsaken.  You will find her in the Pools of Vision below the Spirit Rise.",
+  "p": "",
+  "c": "Magatha sent word of your coming, $N. Although my heart beats no longer, I still feel sorrow for the spirits of Stonetalon.$b$bThe Forsaken are eager to offer what help we can."
+ },
+ {
+  "id": 1065,
+  "t": "Journey to Tarren Mill",
+  "o": "Bring Zamah's Note to Apothecary Lydon in Tarren Mill.",
+  "d": "To rid Stonetalon of the Venture Company, we must take extreme measures.  Extreme, but without bloodshed.$B$BA colleague of mine may have just the tool we need.  His name is Lydon; he dwells in the town of Tarren Mill in the Hillsbrad Foothills, in the distant land of Lordaeron.$B$BTo reach Hillsbrad, travel by zeppelin to our capital, the Undercity.  Then go north to Tirisfal Glades, southwest to Silverpine, and south to Hillsbrad.$B$BSeek Lydon and bring him this note.  It details our needs to him.",
+  "p": "Ah, are you here with my new test subjects?",
+  "c": "A note from Zamah? Her needs must be great to send word from so far. Let us see what she says...$b$bAh, splendid! I know exactly what to do!"
+ },
+ {
+  "id": 1066,
+  "t": "Blood of Innocents",
+  "o": "Bring 5 Vials of Innocent Blood to Apothecary Lydon in Tarren Mill.",
+  "d": "I will create a toxin to bleed the violence from the Venture Company, rendering them weak and docile.  That should fix the Horde's problem in Stonetalon, yes?$B$BBut to create the toxin, I will need the blood of innocents, a difficult ingredient to obtain.$B$BFortunately the Syndicate, a group of human brigands in this area, employ shadow mages... and those mages collect innocent blood for their own, unsavory purposes.$B$BYou can find the Syndicate shadow mages in Durnholde Keep to the southeast.",
+  "p": "Did you find the Syndicate Shadow Mages, and collect from them the blood?",
+  "c": "Very good!  I trust the Syndicate gave you little trouble?$B$BAs I mentioned, the blood of innocents is not an easy thing to obtain.  We are lucky the Syndicate shadow mages did the difficult work for us.$B$BNow hold a moment while I create my concoction..."
+ },
+ {
+  "id": 1067,
+  "t": "Return to Thunder Bluff",
+  "o": "Bring Lydon's Toxin to Apothecary Zamah in Thunder Bluff.",
+  "d": "Here is the toxin.  If you use it against the Venture Company it should produce favorable, perhaps even contagious, results.  I must say, it is quite exciting to see my work applied in the field!$B$BBut before using it, take it to Apothecary Zamah.  She must create a delivery method for the toxin to maximize its effect.",
+  "p": "You have returned, $N. Do you bring aid from Apothecary Lydon?",
+  "c": "A toxin from Apothecary Lydon? Very good. If I know Lydon, then this toxin will be quite effective against the Venture Company..."
+ },
+ {
+  "id": 1068,
+  "t": "Shredding Machines",
+  "o": "Kill the shredders XT:4 and XT:9, then return to Seereth Stonebreak at the border of the Stonetalon Mountains and the Barrens.",
+  "d": "There is a relation to the spiritual magic of shaman and the natural magic of druids.  This is why we shaman can hear the plea of the spirits of Stonetalon.  Many of their whisperings are lost to me, but one message, one vision, is clear...$B$BI saw a vision of two man-shaped machines in Windshear Crag, northwest of Greatwood Vale, felling trees with impossible speed.  These metal beasts must be stopped!$B$BIn my vision, the machines were marked with strange symbols:$B$BXT:4 and XT:9.",
+  "p": "The tree spirits wail at the loss of their brethren, $N. You must destroy the shredders XT:4 and XT:9, or I fear Stonetalon will never be healed.",
+  "c": "The destruction of the machines XT:4 and XT:9 have soothed many of the spirits of Stonetalon, $N. With their loss, let us hope the Venture Company will remove itself from these mountains.$b$bFor if they do not, then I fear the atrocities this place has suffered will pale to what lies ahead."
+ },
+ {
+  "id": 1070,
+  "t": "On Guard in Stonetalon",
+  "o": "Find Kaela Shadowspear overlooking the valley entering Windshear Crag in the Stonetalon Mountains.",
+  "d": "Hello, $N.$B$BYou seem to be full of wanderlust by the looks of you. Have you been to the Stonetalon Mountains? It is a land plagued by the Venture Co. and other enemies of the night elves.$B$BRecently, Sentinel Wolfrunner sent my friend Kaela Shadowspear there to investigate what's happening to the land, but I have yet to hear word back from her. I'm even more concerned because the Alliance sent a gnome mage along with her... a sign of trouble for sure.$B$BWould you find her and report back to me?",
+  "p": "",
+  "c": "Ah, you've come from Ashenvale at the behest of Thenysil -- how I miss her, my homeland and friends. She must be doing well with the Sentinels to be sequestering adventurers for other tasks. I'm proud of her.$B$BIt is a pleasure to meet you, $N."
+ },
+ {
+  "id": 1071,
+  "t": "A Gnome's Respite",
+  "o": "Kill 10 Venture Co. Loggers, and 10 Venture Co. Deforesters and return to Gaxim Rustfizzle in Stonetalon.",
+  "d": "You see, $N, I'm a member of the Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences, and it's my goal... nay, my DUTY! to show the night elves that a blend of magic, mixtures, and mechanisms can help save their forests.$B$BBut it's a hard fought war, and the goblins reproduce like rabbits it seems. I haven't even had time to build my newest inventions!$B$BI need some time to plan and organize. But to do that, I need your help keeping the goblins at bay in Windshear Crag to the east...",
+  "p": "How goes the battle on your end, $N?",
+  "c": "Thanks so much for your help, $N. You're actually back just in time.$B$BI think I've got the perfect plan. Explosives. No, that's not the plan, but it's part of the plan.$B$BSee, I've been using high explosives--don't worry, they're not as dangerous as everyone thinks--to scare the goblins back a bit. I can herd 'em pretty good with a few key detonations along the mountains' edges, but I've been low on supplies now for a few days."
+ },
+ {
+  "id": 1072,
+  "t": "An Old Colleague",
+  "o": "Speak to Lomac Gearstrip in Ironforge.",
+  "d": "The device I'm thinking about is my most advanced version to date. But we'll need a special potion if it's to work. I'm thinking we might as well get the good stuff since this mission could be your last.$B$BAnd for that, we're going to need some potent explosives: Nitromirglyceronium.$B$BThe only person who can make NG-5 is an old friend of mine: Lomac Gearstrip. Look for him in Tinker Town.$B$BYou talk him into making us some NG-5, I'll get to work on placement for my devices.",
+  "p": "",
+  "c": "Ahhh. Gaxim sent you, huh? How do I know you're not lying to me?! Hmm? Hmm?"
+ },
+ {
+  "id": 1073,
+  "t": "Ineptitude + Chemicals = Fun",
+  "o": "Bring 4 Minor Mana Potions and 2 Elixirs of Minor Fortitude to Lomac Gearstrip in Ironforge.",
+  "d": "Hahaha... you need Nitromirglyceronium to stop goblins from destroying a forest?!$B$BI don't care if you know Gaxim or not... I'll give you the stuff just to see you or them explode into itty bitty pieces.$B$BThere's a problem though: I'm all out.$B$BBut I'll tell you what, you bring me the correct potions, and I'll make some up for you right away.$B$BThe least you can do is prove you've got some skill as an alchemist before I just give you a sample of my greatest creation.",
+  "p": "I can't make any Nitromirglyceronium if I don't have the potions... they're vital to its creation.",
+  "c": "This'll do nicely.$B$BIf I didn't know better, stranger, I'd say you knew somethin' about alchemy. Good, good... the world's not all about swords and sorcery, you know?"
+ },
+ {
+  "id": 1074,
+  "t": "Ineptitude + Chemicals = Fun",
+  "o": "Bring the Nitromirglyceronium back to Gaxim Rustfizzle in Stonetalon.",
+  "d": "Here you go, stranger. Take heed with it though... it's volatile stuff.$B$BIf you're really a friend of Gaxim's, then tell him I say hello. If you're not, then have fun blowin' yerself up.",
+  "p": "Ah, goodie goodie, you're back.",
+  "c": "Your task has been done flawlessly, $N.$B$BNG-5 is the unequivocal component in the recipe to ignite the wagons of dynamite.$B$BWhat? Yes, dynamite... wagons of it. It's the perfect distraction, I tell you... just wait and see."
+ },
+ {
+  "id": 1075,
+  "t": "A Scroll from Mauren",
+  "o": "Find Collin Mauren in Stormwind.",
+  "d": "Okay, now for the remote detonation part of my plan... oh, I haven't explained that yet, have I?$B$BOkay, so the short of it is this: with a little magic, I can make it so the explosives go off while you're not around. I'm putting together a device that'll allow you to push just one button and have the NG-5 explode when you're ready.$B$BBut I need a spell from a friend in Stormwind--Collin Mauren is his name. You can find him in the mage quarter there. He's human, so he shouldn't be hard to miss.",
+  "p": "",
+  "c": "Now, this spell you need; one that will allow you detonate explosives from a distance... hmmm."
+ },
+ {
+  "id": 1076,
+  "t": "Devils in Westfall",
+  "o": "Bring Dust Devil Debris to Collin Mauren in Stormwind.",
+  "d": "Ah, I think I have it. A messaging spell... I believe that's the effect he's looking for.$B$BI'll have to create a scroll with the spell impressed upon it. To do that I'll need debris from a dust devil.$B$BWhile I gather the rest of the components, why don't you head to Westfall and find one of the foul creatures? They are dangerous, but I'm sure it's nothing you can't handle if you're willing to subject yourself to one of Gaxim's experiments.$B$BI'll be here when you return.",
+  "p": "Hello, $N. Have you found the component I need?",
+  "c": "Allow me just a few moments and I shall have your scroll ready for you."
+ },
+ {
+  "id": 1077,
+  "t": "Special Delivery for Gaxim",
+  "o": "Bring the Scroll of Messaging to Gaxim Rustfizzle in Stonetalon.",
+  "d": "Here you are, $N. This should do nicely.$B$BPlease give my regards to Gaxim when next you see him. I look forward to hearing about this adventure when it sees its completion.$B$BFare well.",
+  "p": "Haha! you're back! Do you have it? Do you have the spell?",
+  "c": "This is perfect, $N! Well done.$B$BThis spell, mixed with the NG-5, shall make the perfect remote explosive.$B$BWe'll be able to create the perfect distraction for you so you can sneak in and steal the Venture Co.'s letters and engineering plans.$B$BThat will surely slow down their deforestation acts."
+ },
+ {
+  "id": 1078,
+  "t": "Retrieval for Mauren",
+  "o": "Bring 8 Crystalized Scales to Collin Mauren in Stormwind.",
+  "d": "Travelers keep asking me about the Stonetalon Mountains. It seems to be a popular place for adventure--it doesn't matter if you're seeking wyvern, elementals, or you have business with the Venture Co.$B$BWithin the Charred Vale, deep in Stonetalon, there used to be a species of basilisks whose scales, when ground to dust, made a wonderful reagent for some spells I've created.$B$BIf those basilisks still live, I would love to have a few of their scales.$B$BTake your time, it is no rush, but I can pay well.",
+  "p": "Hello again, $N.$B$BHave you already returned from the Vale in Stonetalon with those scales?",
+  "c": "This is perfect, $N. Thank you greatly.$B$BPerhaps one day in the future I'll be able to help you as you have helped me."
+ },
+ {
+  "id": 1079,
+  "t": "Covert Ops - Alpha",
+  "o": "Retrieve the Venture Co.'s Engineering Plans from the lumber mill in Windshear Crag.",
+  "d": "This is it, $N. Pay close attention. The devices are done, and ready to be used.$B$BTake these pages--they'll explain more about the detonators and explosives, and where you should place them.$B$BRemember, the success of your mission doesn't depend on how much destruction you cause. Plan Alpha's success depends on you bringing back the Venture Co.'s engineering plans from inside the lumber mill south of Cragpool Lake.",
+  "p": "Did you get the plans, $N?",
+  "c": "Truly amazing! This is a huge blow to the Venture Co.$B$BWe'll be able to find weaknesses in their machines and also incorporate their designs into our own creations. This is a wonderful day, indeed."
+ },
+ {
+  "id": 1080,
+  "t": "Covert Ops - Beta",
+  "o": "Retrieve the Venture Co. Letters from Windshear Mine at the east end of Windshear Crag.",
+  "d": "Plan Beta's just like Plan Alpha, $N.$B$BWe cause a distraction and then steal their precious letters.$B$BThe key is to get their letters... remember that.$B$BThe pages I gave you already will tell you where to plant the explosives. Just get back here alive and with those letters....",
+  "p": "How'd it go, $N?",
+  "c": "Incredible, $N! Kaela and the Sentinels will be so happy. With your skill and my creations, we're unstoppable."
+ },
+ {
+  "id": 1081,
+  "t": "Reception from Tyrande",
+  "o": "Find Tyrande Whisperwind in Darnassus.",
+  "d": "$N, I am sure Tyrande Whisperwind herself would like to thank you for taking part in this mission.$B$BIt may not appear so on the surface, but what you've helped start could very well strengthen our foothold in the Stonetalon Mountains.$B$BIf you consider yourself our ally against these atrocities, go see Tyrande in the Temple of the Moon in Darnassus.",
+  "p": "",
+  "c": "Hello, $N. I have indeed heard your name before, and although you are still full of youth, I am pleased to see the path you have set for yourself.$B$BYou would do me a great honor if you would accept this as a gift of appreciation."
+ },
+ {
+  "id": 1082,
+  "t": "Update for Sentinel Thenysil",
+  "o": "Return to Sentinel Thenysil in Ashenvale.",
+  "d": "$N, you have done a great deed by lending a hand here.$B$BThe Sentinels of Ashenvale will reward you well if you informed them that Gaxim and I are alive. Tell them we are well on our way to stopping the Venture Co. and healing the lands.$B$BFind Tara Thenysil in Astranaar; she will be pleased to see you've returned with good news.",
+  "p": "",
+  "c": "Thank you, $N. You have done a service to the Sentinels.$B$BI'm glad to see Kaela... and even Gaxim, are doing well.$B$BYou've earned our appreciation."
+ },
+ {
+  "id": 1083,
+  "t": "Enraged Spirits",
+  "o": "Bring 8 Smoldering Embers from any of the fire elementals in the Charred Vale to Kaela Shadowspear in Stonetalon.",
+  "d": "I'm unsure what the Venture Co. did to the Vale, but it's obvious they were overpowered by the creatures there.$B$BThey set the forest aflame, and used their inventions of destruction to decimate as much of the Vale as possible.$B$BBut in their ignorance they also released something else: burning spirits, elementals of flame, stone and rage.$B$BThe land has no chance to see Elune's smile while these creatures roam free.$B$BBring me their smoldering embers to show you've reduced their numbers.",
+  "p": "The first time I saw the Charred Vale I almost wept, $N.",
+  "c": "The remains of our enemy... your strength serves us well, $N. Thank you."
+ },
+ {
+  "id": 1084,
+  "t": "Wounded Ancients",
+  "o": "Bring a piece of Corroded Shrapnel to Kaela Shadowspear in Stonetalon.",
+  "d": "It seems obvious to me that the protectors of the Vale--the treants--had something to do with the Venture Co. being driven back. Unfortunately, even those once great guardians have now become corrupt.$B$BGaxim thinks their corruption is somehow linked to the weapons the goblins used during their retreat.$B$BI told him I'd collect a sample from a wounded treant and allow him to study it in order to figure out if that's true.$B$BBring me some of the shrapnel so the gnome can tell me more...",
+  "p": "I have a feeling Gaxim will find a use for the shrapnel regardless of how the Venture Co. has used it in the past.",
+  "c": "Thank you, $N.$B$BThis should be more than sufficient for Gaxim to figure out how the treants were corrupted. I shall give this to him right away."
+ },
+ {
+  "id": 1085,
+  "t": "On Guard in Stonetalon",
+  "o": "Speak to Gaxim in Stonetalon Mountains.",
+  "d": "The situation here in Stonetalon is obviously grave for a night elf and gnome to be working together.$B$BThe Venture Co. has devastated these lands and I've spent most of my time putting an end to the destruction.$B$BDo not judge Gaxim prematurely; he understands the need for us to work together.$B$BIf you wish to aid us, then start by speaking to Gaxim.$B$BI'm sorry I cannot send you back to Tara with good news yet. Perhaps soon.",
+  "p": "",
+  "c": "Treacherous...treacherous and dangerous, that's what this land is.$B$BBut I'm here to show the night elves that it's a little safer with the help of good ole engineering and a dash of magic.$B$BSee, swearing off magic completely won't help the night elves -- they need it. The world needs it. And with engineering and alchemy to boot, you can't go wrong. The possibilities are endless."
+ },
+ {
+  "id": 1086,
+  "t": "The Flying Machine Airport",
+  "o": "Bring the Toxic Fogger to the Venture Co. sky port, then return to Apothecary Zamah.",
+  "d": "The toxin is ready.  All that remains is its delivery.  You, $N, must make that delivery.$B$BThe Venture Company must have a means of sending messages and light cargo between its headquarters and its operations in Stonetalon.  It is likely a small sky port -- not big enough for a zeppelin, but perhaps for a flying machine.  You must search the areas in Stonetalon under control of the Venture Company and find this sky port, if it exists.  If you find it, then place the toxin there.$B$BPlace it, and run.",
+  "p": "You must find the Venture Company airport if it exists, $N.",
+  "c": "You found the port? Well done, $N! I am sure the goblins were quite surprised from your delivery! Let us hope that toxin finds its way to their headquarters.$B$BYou have served your people well, and I advise you to ignore any guilt you might harbor for poisoning the Venture Company. They are deserving of far worse.$B$BAnd if there is one mote of wisdom the Forsaken might teach its allies, it is this:$B$BDo not shy from dark paths... if those paths lead to victory."
+ },
+ {
+  "id": 1087,
+  "t": "Cenarius' Legacy",
+  "o": "Kill 4 Sons of Cenarius, 4 Daughters of Cenarius and 4 Cenarion Botanists for Braelyn Firehand near Sun Rock Retreat.",
+  "d": "You cannot imagine the hatred I possess for this wretched land. The ilk of Cenarius and the kaldorei druids at the peak employ their pathetic powers to stifle the flow of magic, even so far south of their pathetic holdings... their beloved forests.$b$bWould that I could return to Jaedenar and exult in the flow of magic, but my master will not allow me to return until my work is done.$b$bI have no doubt you love the night elves and their allies as little as I. Aid me, and both our ends might be satisfied.",
+  "p": "Here, channeling magic is like drawing water from a well with a bucket full of holes.",
+  "c": "Already I can feel it... yes... power so sweet... the rushing flood. The kaldorei are foolish to spurn the gifts of this world, to reject the coursing of magic as it flows singing through your veins.$b$bWhat a pale mockery life is without its burning embrace!"
+ },
+ {
+  "id": 1088,
+  "t": "Ordanus",
+  "o": "Bring Ordanus' head to Braelyn Firehand near Sun Rock Retreat.",
+  "d": "They thought that they could halt the flow of magic. They were mistaken. They thought that they could hide Ordanus, but I will have his head!$b$bMagic grants me true sight. Yes... there he is. A crossroads... At the top of a great tree in Ashenvale Forest. A name... Raynewood. One of the eldest sons of the forest god. They spirited him away from the peak before I could find him, but his time runs short.$b$bBring it to me and I will share with you a mighty gift.",
+  "p": "When my master bade me to the peak of Stonetalon, I expected that all I would need was to lay waste to the night elves that crawled the sacred ruins of our ancient temple of Azshara, their touch despoiling its sanctity... but Ordanus had slipped my grasp.",
+  "c": "I knew Ordanus once, long ago. He had the arrogance of his kind, holding himself above even the Highborne.$b$bHis head does not rise so high now, does it, $N?$b$bI promised you a reward, and you shall have it. Attend to me."
+ },
+ {
+  "id": 1089,
+  "t": "The Den",
+  "o": "Travel to the Den on Stonetalon Peak. Using the Gatekeeper's Key, obtain the druids' hidden items. Use these items to open the Talon Den Hoard. ",
+  "d": "The druids built the Talon Den on Stonetalon Peak, where they keep many powerful items.$b$bThey devised a complex scheme to keep them from falling into the wrong hands.$b$bLuckily, I managed to... extract some details from one of them.$b$bHidden in a small lantern at the entrance of the Den, you will find the Gatekeeper's Key--with it you will be able to open caches around the Den. The items from these caches will allow you to open their hoard, located in one of the central areas.",
+  "p": "Three keyholes are carved into the stone.",
+  "c": "As the three keys are slid into their matching openings, in the middle of the glowing light a number of items appear."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 8658,
+  "t": "Striker's Leggings",
+  "o": "Bring the Skin of the Great Sandworm, 2 Idols of the Sun, 5 Silver Scarabs and 5 Bone Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8659,
+  "t": "Striker's Pauldrons",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of War, 5 Crystal Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8660,
+  "t": "Doomcaller's Footwraps",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Night, 5 Clay Scarabs and 5 Ivory Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8661,
+  "t": "Doomcaller's Robes",
+  "o": "Bring the the Husk of the Old God, 2 Idols of Night, 5 Stone Scarabs and 5 Crystal Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay their power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8662,
+  "t": "Doomcaller's Circlet",
+  "o": "Bring Vek'nilash's Circlet, 2 Idols of Death, 5 Silver Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8663,
+  "t": "Doomcaller's Trousers",
+  "o": "Bring the Skin of the Great Sandworm, 2 Idols of Rebirth, 5 Gold Scarabs and 5 Clay Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "Did you bring the components I require, $N?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8664,
+  "t": "Doomcaller's Mantle",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8665,
+  "t": "Genesis Boots",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Silver Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8666,
+  "t": "Genesis Vest",
+  "o": "Bring the the Husk of the Old God, 2 Idols of Rebirth, 5 Bronze Scarabs and 5 Ivory Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8667,
+  "t": "Genesis Helm",
+  "o": "Bring Vek'lor's Diadem, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8668,
+  "t": "Genesis Trousers",
+  "o": "Bring the Skin of the Great Sandworm, 2 Idols of War, 5 Stone Scarabs and 5 Crystal Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "Did you bring the components I require, $N?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8669,
+  "t": "Genesis Shoulderpads",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Strife, 5 Gold Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8670,
+  "t": "Runetotem the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8671,
+  "t": "Ragetotem the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8672,
+  "t": "Stonespire the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8673,
+  "t": "Bloodhoof the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8674,
+  "t": "Winterhoof the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8675,
+  "t": "Skychaser the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8676,
+  "t": "Wildmane the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8677,
+  "t": "Darkhorn the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8678,
+  "t": "Wheathoof the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8679,
+  "t": "Grimtotem the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8680,
+  "t": "Windtotem the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8681,
+  "t": "Thunderhorn the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8682,
+  "t": "Skyseer the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8683,
+  "t": "Dawnstrider the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8684,
+  "t": "Dreamseer the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c.  I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8685,
+  "t": "Mistwalker the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8686,
+  "t": "High Mountain the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your spirit burns with life, young $c. I accept the homage you pay, and offer in return this token..."
+ },
+ {
+  "id": 8687,
+  "t": "Target: Hive'Zora Tunnelers",
+  "o": "Slay 30 Hive'Zora Tunnelers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VII in order to complete this quest.$B",
+  "d": "Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora tunnelers.  Report back to Commander Mar'alith after completing your task.",
+  "p": "You have something to tell me, $c?",
+  "c": "Excellent work, $N.  Without their tunnelers, the silithid will have a hard time repairing any damage inflicted to their hive's structure.  I assume you'll want a new task."
+ },
+ {
+  "id": 8688,
+  "t": "Windrun the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8689,
+  "t": "Shroud of Infinite Wisdom",
+  "o": "Bring 1 Qiraji Martial Drape, 2 Jasper Idols, 5 Gold Scarabs and 5 Clay Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8690,
+  "t": "Cloak of the Gathering Storm",
+  "o": "Bring 1 Qiraji Regal Drape, 2 Obsidian Idols, 5 Clay Scarabs and 5 Gold Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8691,
+  "t": "Drape of Vaulted Secrets",
+  "o": "Bring 1 Qiraji Martial Drape, 2 Alabaster Idols, 5 Stone Scarabs and 5 Crystal Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8692,
+  "t": "Cloak of Unending Life",
+  "o": "Bring 1 Qiraji Regal Drape, 2 Vermillion Idols, 5 Silver Scarabs and 5 Bone Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8693,
+  "t": "Cloak of Veiled Shadows",
+  "o": "Bring 1 Qiraji Martial Drape, 2 Azure Idols, 5 Bronze Scarabs and 5 Ivory Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8694,
+  "t": "Shroud of Unspoken Names",
+  "o": "Bring 1 Qiraji Regal Drape, 2 Amber Idols, 5 Ivory Scarabs and 5 Bronze Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8695,
+  "t": "Cape of Eternal Justice",
+  "o": "Bring 1 Qiraji Regal Drape, 2 Obsidian Idols, 5 Gold Scarabs and 5 Clay Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cape, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8696,
+  "t": "Cloak of the Unseen Path",
+  "o": "Bring 1 Qiraji Regal Drape, 2 Lambent Idols, 5 Stone Scarabs and 5 Crystal Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8697,
+  "t": "Ring of Infinite Wisdom",
+  "o": "Bring 1 Qiraji Ceremonial Ring, 2 Obsidian Idols, 5 Silver Scarabs and 5 Bone Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8698,
+  "t": "Ring of the Gathering Storm",
+  "o": "Bring 1 Qiraji Magisterial Ring, 2 Vermillion Idols, 5 Silver Scarabs and 5 Bone Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8699,
+  "t": "Band of Vaulted Secrets",
+  "o": "Bring 1 Qiraji Magisterial Ring, 2 Azure Idols, 5 Gold Scarabs and 5 Clay Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8700,
+  "t": "Band of Unending Life",
+  "o": "Bring 1 Qiraji Magisterial Ring, 2 Alabaster Idols, 5 Bronze Scarabs and 5 Ivory Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $g fellow : sister; druid.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gems on the ring for you. You'll find the finished piece is much more... agreeable."
+ },
+ {
+  "id": 8701,
+  "t": "Band of Veiled Shadows",
+  "o": "Bring 1 Qiraji Ceremonial Ring, 2 Onyx Idols, 5 Stone Scarabs and 5 Crystal Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8702,
+  "t": "Ring of Unspoken Names",
+  "o": "Bring 1 Qiraji Ceremonial Ring, 2 Jasper Idols, 5 Stone Scarabs and 5 Crystal Scarabs to Windcaller Yessendra  in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8703,
+  "t": "Ring of Eternal Justice",
+  "o": "Bring 1 Qiraji Magisterial Ring, 2 Vermillion Idols, 5 Silver Scarabs and 5 Bone Scarabs to Windcaller Yessendra  in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8704,
+  "t": "Signet of the Unseen Path",
+  "o": "Bring 1 Qiraji Ceremonial Ring, 2 Amber Idols, 5 Gold Scarabs and 5 Clay Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8705,
+  "t": "Gavel of Infinite Wisdom",
+  "o": "Bring 1 Qiraji Ornate Hilt, 2  Lambent Idols, 5 Bronze Scarabs and 5 Ivory Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8706,
+  "t": "Hammer of the Gathering Storm",
+  "o": "Bring 1 Qiraji Spiked Hilt, 2  Amber Idols, 5 Ivory Scarabs and 5 Bronze Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8707,
+  "t": "Blade of Vaulted Secrets",
+  "o": "Bring 1 Qiraji Ornate Hilt, 2  Obsidian Idols, 5 Silver Scarabs and 5 Bone Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8708,
+  "t": "Mace of Unending Life",
+  "o": "Bring 1 Qiraji Ornate Hilt, 2  Jasper Idols, 5 Crystal Scarabs and 5 Stone Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, Bueno?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8709,
+  "t": "Dagger of Veiled Shadows",
+  "o": "Bring 1 Qiraji Spiked Hilt, 2  Vermillion Idols, 5 Gold Scarabs and 5 Clay Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8710,
+  "t": "Kris of Unspoken Names",
+  "o": "Bring 1 Qiraji Ornate Hilt, 2  Onyx Idols, 5 Gold Scarabs and 5 Clay Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8711,
+  "t": "Blade of Eternal Justice",
+  "o": "Bring 1 Qiraji Spiked Hilt, 2  Amber Idols, 5 Bronze Scarabs and 5 Ivory Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8712,
+  "t": "Scythe of the Unseen Path",
+  "o": "Bring 1 Qiraji Spiked Hilt, 2 Azure Idols, 5 Silver Scarabs and 5 Bone Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8713,
+  "t": "Starsong the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8714,
+  "t": "Moonstrike the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8715,
+  "t": "Bladeleaf the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8716,
+  "t": "Starglade the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8717,
+  "t": "Moonwarden the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8718,
+  "t": "Bladeswift the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8719,
+  "t": "Bladesing the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8720,
+  "t": "Skygleam the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8721,
+  "t": "Starweave the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8722,
+  "t": "Meadowrun the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8723,
+  "t": "Nightwind the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8724,
+  "t": "Morningdew the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8725,
+  "t": "Riversong the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8726,
+  "t": "Brightspear the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N. Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8727,
+  "t": "Farwhisper the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The heavens, in their countless stars, hold answers to earthly mysteries, $N.  Might, then, the wise, and the lucky, gaze up and find truth?"
+ },
+ {
+  "id": 8728,
+  "t": "The Good News and The Bad News",
+  "o": "Narain Soothfancy in Tanaris wants you to bring him 20 Arcanite Bars, 10 Elementium Ore, 10 Azerothian Diamonds, and 10 Blue Sapphires.",
+  "d": "Well that took a little longer than expected. Now let me see what this ledger says.$B$B<Narain silently reads the ledger, periodically mumbling under his breath.>$B$B The good news is that I am 99% certain that I am capable of creating an arcanite buoy that will function to your specifications. This is, of course, wholly dependant on the bad news.$B$BThe bad news is that I'm going to need a lot of arcanite, elementium ore, and rare gemstones.$B$BBring me what I need and I will craft the buoy.",
+  "p": "Arcanite buoys don't just make themselves, $N. And NO, you cannot borrow some money.",
+  "c": "A deal is a deal. I sure hope you know what you are getting yourself into, $N. This is an awful lot of trouble to go through to do some fishing."
+ },
+ {
+  "id": 8729,
+  "t": "The Wrath of Neptulon",
+  "o": "Use the Arcanite Buoy at the Swirling Maelstrom at the Bay of Storms in Azshara.",
+  "d": "Did I mention the bad news yet? Its name is Maws: 100 feet of death and destruction. I guess I may have forgotten that little tidbit.$B$BAccording to my superior psycho-psionic clairvoyance, you'll find that the best spot to cast this buoy is off the coast of Azshara, in the Bay of Storms.$B$BLook for a swirling maelstrom, most likely cluttered with wreckage.$B$BBy the by, I hope you have friends.$B$BNow if you somehow miraculously succeed, take the scepter shard to Anachronos.",
+  "p": "Time is running out, champion.",
+  "c": "Well done, $N. I will be able to reform the Scepter of the Shifting Sands soon."
+ },
+ {
+  "id": 8730,
+  "t": "Nefarius's Corruption",
+  "o": "Slay Nefarian and recover the Red Scepter Shard. Return the Red Scepter Shard to Anachronos at the Caverns of Time in Tanaris. You have 5 hours to complete this task.",
+  "d": "Champion, is it you? A thousand years it has been since I was entrusted the shard and it is at my darkest hour that one should rise to relieve me of it... But what would tragedy be without cruelty?$B$B<Vaelastrasz coughs weakly.>$B$BNe... Nefarius now holds the scepter shard.$B$BTime is of the essence. Nefarius plans to destroy the shard. You must hurry!",
+  "p": "Another of our heroes lost to the spawn of Deathwing. We will be cursed with this suffering forever...",
+  "c": "Vaelastrasz's soul is at ease, champion. The Aspects all watch your progress with great interest. Know that you have powerful allies.$B$BI was commanded to grant you something to aid you in this struggle. Use it well..."
+ },
+ {
+  "id": 8731,
+  "t": "Field Duty",
+  "o": "Report to Krug Skullsplit at the Orgrimmar Legion post in front of Hive'Regal.  Prepare your Unsigned Field Duty Papers, obtain Signed Field Duty Papers and bring them to Windcaller Kaldon in Cenarion Hold.$B$BNote: Healing or casting beneficial spells on a member of the Orgrimmar Legion will flag you for PvP.",
+  "d": "Greetings, $N.  Before I assign you to more involved tasks in the war, you'll need to do your share of field duty.  $B$BYou will find Captain Skullsplit's Orgrimmar Legion outside Hive'Regal.$B$BReport to him and come back to me with proof of your field service.  I shall have a more advanced assignment ready for you.$B$BOh, please do your best to stay away from the Ironforge Brigade.  Tensions are high among our Alliance and Horde volunteers.",
+  "p": "You've completed your field duty, $N?  Captain Skullsplit can be found outside of Hive'Regal.",
+  "c": "I can tell that Krug has little use for paperwork. He signed this in silithid blood!$B$BVery well, $N. I've prepared a set of tasks that should make good use of your skills as a $c.$B$BWith the continued efforts of you and people like you, our enemy will soon be crushed!"
+ },
+ {
+  "id": 8732,
+  "t": "Field Duty Papers",
+  "o": "",
+  "d": "",
+  "p": "I take it you want those papers signed, $Gboy:girl;?",
+  "c": "Yes, I suppose that little skirmish will pass as field duty nowadays. Take these back to Cenarion Hold, I'm sure they'll have a cushy job ready for you.$B$BOff you go!"
+ },
+ {
+  "id": 8733,
+  "t": "Eranikus, Tyrant of the Dream",
+  "o": "Travel to the continent of Teldrassil and find Malfurion's agent somewhere outside the walls of Darnassus.$B",
+  "d": "This is a journey of redemption, hero. Would it be that I was slain today, I would have died for a just and righteous cause. You must recover the green scepter shard. You must cleanse Eranikus of the taint placed upon him by the Old Gods.$B$BTravel to Darnassus. Just outside the city walls you will find one of my agents. This agent will set things in motion for us and inform Tyrande of our plans without alerting Staghelm.$B$B<Malfurion sighs.>$B$BA fall from grace a thousand years in the making...",
+  "p": "",
+  "c": "The wisp is silent except for a low humming sound. Oddly enough, it is able to communicate with you through thoughts."
+ },
+ {
+  "id": 8734,
+  "t": "Tyrande and Remulos",
+  "o": "Travel to the Moonglade and speak to Keeper Remulos. ",
+  "d": "Tyrande will be notifed, mortal. Shan'do Stormrage has prepared me for this contingency.$B$BNow you must venture to the Moonglade and speak with Remulos. He will have further instruction as to the summoning of Eranikus.$B$BWe all wish you great luck.",
+  "p": "",
+  "c": "It would be impossible to pull Eranikus from the Dream should he refuse. His intentions, however, require him to enter our world. He seeks to destroy the living manifestation of Malfurion. To do this successfully would mean an end to one of the most powerful allies of the Dream. The Nightmare would wholly consume all that would remain should Malfurion fall..."
+ },
+ {
+  "id": 8735,
+  "t": "The Nightmare's Corruption",
+  "o": "Travel to the four Emerald Dream portals in Azeroth and collect a Fragment of the Nightmare's Corruption from each. Return to Keeper Remulos in the Moonglade when you have completed this task.$B",
+  "d": "You must travel to the four dream portals of Azeroth. From each you must draw a fragment of the Nightmare's corruption. The dragonkin that inhabit these areas will hold such fragments. Return to me when you have gathered these fragments.",
+  "p": "<Remulos is lost deep in thought.>",
+  "c": "Are you prepared? Is the world prepared for what we are about to invoke? I do not know... I am bound by duty to Malfurion. Duty and honor..."
+ },
+ {
+  "id": 8736,
+  "t": "The Nightmare Manifests",
+  "o": "Defend Nighthaven from Eranikus. Do not let Keeper Remulos perish. Do not slay Eranikus. Defend yourself. Await Tyrande.$B",
+  "d": "We must use restraint against Eranikus. We are to redeem him not destroy him.$B$BTyrande is already en route to assist us in this task. We must weather the dragon's blows and save Nighthaven from certain destruction.$B$BBe on guard! You and your allies are our only hope.$B",
+  "p": "",
+  "c": "He is redeemed, $N. He now returns to the Dream to right what he alone has done wrong. Eranikus will be a powerful ally to Malfurion and my father.$b$bThese armaments are for you, $N; given to me by Ysera herself. You would do well to make use of them in your battles against the Qiraji."
+ },
+ {
+  "id": 8737,
+  "t": "Azure Templar",
+  "o": "Summon and slay an Azure Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing I in order to complete this quest.",
+  "d": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.$B$BFind a way to summon and destroy an Azure Templar and report to Bor Wildmane.",
+  "p": "Is your task done yet, $N?",
+  "c": "Good job, $N. Here's your next assignment."
+ },
+ {
+  "id": 8738,
+  "t": "Hive'Regal Scout Report",
+  "o": "Contact Cenarion Scout Landion inside Hive'Regal and return the Hive'Regal Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VII in order to complete this quest.",
+  "d": "We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Landion has been watching the silithid movements at Hive'Regal for several days now.  Find him and obtain a written report.  We need to be able to act on that information as soon as possible, $N.",
+  "p": "You'll find Scout Landion inside Hive'regal. Hurry, $N! Time is of the essence.",
+  "c": "Your efforts are greatly appreciated, $N. I'll read these scouting reports right away, feel free to go over your next assignment."
+ },
+ {
+  "id": 8739,
+  "t": "Hive'Ashi Scout Report",
+  "o": "Contact Cenarion Scout Jalia inside Hive'Ashi and return the Hive'Ashi Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VIII in order to complete this quest.",
+  "d": "We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Jalia has been watching the silithid movements at Hive'Ashi for several days now.  Find her and obtain a written report.  We need to be able to act on that information as soon as possible, $N.",
+  "p": "You'll find Scout Jalia inside Hive'Ashi.  Hurry, $N!  Time is of the essence.",
+  "c": "Your efforts are greatly appreciated, $N. I'll read these scouting reports right away, feel free to go over your next assignment."
+ },
+ {
+  "id": 8740,
+  "t": "Twilight Marauders",
+  "o": "Slay Twilight Marauder Morna and 2 Twilight Marauders.  Report to Windcaller Proudhorn when your task is finished.  You must also bring Tactical Task Briefing IX in order to complete this quest.",
+  "d": "Bands of mounted Twilight's Hammer cultists have been spotted riding outside the reach of our forces in Cenarion Hold, picking off our smaller patrols and caravans.$B$BFind and defeat the twilight marauders along with their leader, a terrible warrior by the name of Morna.  Report to Windcaller Proudhorn after completing the task.",
+  "p": "Is your task done yet, $N?",
+  "c": "Well done, $N. The twilight marauders were inflicting an unacceptable number of casualties on our patrols. Here's your next assignment."
+ },
+ {
+  "id": 8741,
+  "t": "The Champion Returns",
+  "o": "Take the Green Scepter Shard to Anachronos at the Caverns of Time in Tanaris.$B",
+  "d": "The keeper awaits your return, $N. Take the green scepter shard to Anachronos at the Caverns of Time.$B",
+  "p": "",
+  "c": "Your deeds will be known to all, champion. They will sing your praises from Orgrimmar to the far reaches of the South Seas. All will know of the champion of the Bronze Flight, $N."
+ },
+ {
+  "id": 8742,
+  "t": "The Might of Kalimdor",
+  "o": "",
+  "d": "",
+  "p": "A thousand years has passed and just as it was fated, one stands before me. One who shall lead their people to a new age.$B$BThe Old God trembles, $N. Oh yes, it fears your faith. Shatter the prophecy of C'Thun.$B$BIt knows you come, champion - and with you comes the might of Kalimdor. You have only to let me know when you are prepared and I shall grant you the Scepter of the Shifting Sands.",
+  "c": "A thousand years has passed and just as it was fated, one stands before me. One who shall lead their people to a new age.$B$BThe Old God trembles, $N. Oh yes, it fears your faith. Shatter the prophecy of C'Thun.$B$BIt knows you come, champion - and with you comes the might of Kalimdor. You have only to let me know when you are prepared and I shall grant you the Scepter of the Shifting Sands."
+ },
+ {
+  "id": 8743,
+  "t": "Bang a Gong!",
+  "o": "",
+  "d": "",
+  "p": "The Scarab Gong looms ominously before you. Steel yourself, $N; for once the Scarab Gong is rung, the gates of Ahn'Qiraj will be opened.$B$BFrom the slackened maw of the beast can only come chaos and destruction. Defend your people!",
+  "c": "From the ground near the gong springs a special crystal. Perhaps favor from the Brood."
+ },
+ {
+  "id": 8744,
+  "t": "A Carefully Wrapped Present",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The tag on this present reads:$b$bTo $N,$b$bMay your feast of Great-Winter be merry and bright!"
+ },
+ {
+  "id": 8745,
+  "t": "Treasure of the Timeless One",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Greetings, champion. I am Jonathan, keeper of the sacred gong and eternal watcher of the Bronze Flight.$B$BI have been empowered by the Timeless One himself to grant you an item of your choosing from his timeless treasure trove. May it aid you in your battles against C'Thun."
+ },
+ {
+  "id": 8746,
+  "t": "Metzen the Reindeer",
+  "o": "Find Metzen the Reindeer.  Use the notes provided to you for clues as to where he is being held.$B$BWhen you find Metzen, have the Pouch of Reindeer Dust in your possession so you can sprinkle some of the dust on him; this should free Metzen from his bonds of captivity.$B$BReturn the Pouch of Reindeer Dust to Kaymard Copperpinch in Orgrimmar once Metzen is freed.",
+  "d": "DISASTER has struck!  Metzen the Reindeer has been kidnapped!$B$BMetzen is one of Great-father Winter's eight reindeer - and property of Smokywood Pastures.  We've received not one but TWO ransom letters from groups claiming to have Metzen.  With the holiday season well under way, we're strapped to the coin box here!  Please - find Metzen and return him to us!$B$BCheck out the ransom letters for clues, and sprinkle this reindeer dust on him - it will free him from any of his bonds!$B$BPlease, hurry!",
+  "p": "$N!  Did you find him?  Were the notes in the satchel I gave you enough information to locate Metzen?  I hate to think of what those cruel thugs might do to him... but there's no way we can afford to pay such an exorbitant ransom!",
+  "c": "You did it!  Huzzah!$B$BMetzen flew back into Great-father Winter's stables - yes Metzen can really fly - just a little while ago!  The dust worked like a charm; I knew it would.  You've saved the Feast of Winter Veil as well as Smokywood Pastures from disaster.  Thank you, $N.$B$BListen... because of what you've done here, I want you to have this.  It's something VERY special; if you have a mount, I think you'll get a kick out of it.  Happy Winter Veil!"
+ },
+ {
+  "id": 8747,
+  "t": "The Path of the Protector",
+  "o": "",
+  "d": "",
+  "p": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the defender will offer superior protection against the forces of evil.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind.",
+  "c": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the defender will offer superior protection against the forces of evil.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind."
+ },
+ {
+  "id": 8748,
+  "t": "The Path of the Protector",
+  "o": "",
+  "d": "",
+  "p": "Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the protector!"
+ },
+ {
+  "id": 8749,
+  "t": "The Path of the Protector",
+  "o": "",
+  "d": "",
+  "p": "You honor my kind, $N. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.$b$bYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the protector!"
+ },
+ {
+  "id": 8750,
+  "t": "The Path of the Protector",
+  "o": "",
+  "d": "",
+  "p": "Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, $N. You shall be greatly rewarded for your stalwart watch over our world.$b$bHand me your signet ring so that I may strengthen its enchantment.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the protector!"
+ },
+ {
+  "id": 8751,
+  "t": "The Protector of Kalimdor",
+  "o": "",
+  "d": "",
+  "p": "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+  "c": "Rise, Protector of Kalimdor! Rise and be recognized!"
+ },
+ {
+  "id": 8752,
+  "t": "The Path of the Conqueror",
+  "o": "",
+  "d": "",
+  "p": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the conqueror will greatly enhance your physical attacks.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind.",
+  "c": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the conqueror will greatly enhance your physical attacks.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind."
+ },
+ {
+  "id": 8753,
+  "t": "The Path of the Conqueror",
+  "o": "",
+  "d": "",
+  "p": "Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the conqueror!"
+ },
+ {
+  "id": 8754,
+  "t": "The Path of the Conqueror",
+  "o": "",
+  "d": "",
+  "p": "You honor my kind, $N. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.$b$bYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the conqueror!"
+ },
+ {
+  "id": 8755,
+  "t": "The Path of the Conqueror",
+  "o": "",
+  "d": "",
+  "p": "Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, $N. You shall be greatly rewarded for your stalwart watch over our world.$b$bHand me your signet ring so that I may strengthen its enchantment.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the conqueror!"
+ },
+ {
+  "id": 8756,
+  "t": "The Qiraji Conqueror",
+  "o": "",
+  "d": "",
+  "p": "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+  "c": "Rise, Qiraji Conqueror! Rise and be recognized!"
+ },
+ {
+  "id": 8757,
+  "t": "The Path of the Invoker",
+  "o": "",
+  "d": "",
+  "p": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the invoker will greatly enhance your magical and natural abilities.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind.",
+  "c": "Impressive, little one. You have gone through much trouble to gain the favor of the Bronze Flight. Your dedication is noted.$b$bThe signet ring of the invoker will greatly enhance your magical and natural abilities.$b$bBe warned, once you have chosen your path, you will have no recourse should you change your mind."
+ },
+ {
+  "id": 8758,
+  "t": "The Path of the Invoker",
+  "o": "",
+  "d": "",
+  "p": "Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the invoker!"
+ },
+ {
+  "id": 8759,
+  "t": "The Path of the Invoker",
+  "o": "",
+  "d": "",
+  "p": "You honor my kind, $N. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.$b$bYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the invoker!"
+ },
+ {
+  "id": 8760,
+  "t": "The Path of the Invoker",
+  "o": "",
+  "d": "",
+  "p": "Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, $N. You shall be greatly rewarded for your stalwart watch over our world.$b$bHand me your signet ring so that I may strengthen its enchantment.",
+  "c": "Your rise amongst the rank of the Brood is most impressive, $N. May you never stray from the path of the invoker!"
+ },
+ {
+  "id": 8761,
+  "t": "The Grand Invoker",
+  "o": "",
+  "d": "",
+  "p": "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+  "c": "Rise, Grand Invoker! Rise and be recognized!"
+ },
+ {
+  "id": 8762,
+  "t": "Metzen the Reindeer",
+  "o": "Find Metzen the Reindeer.  Use the notes provided to you for clues as to where he is being held.$B$BWhen you find Metzen, have the Pouch of Reindeer Dust in your possession so you can sprinkle some of the dust on him; this should free Metzen from his bonds of captivity.$B$BReturn the Pouch of Reindeer Dust to Wulmort Jinglepocket in Ironforge once Metzen is freed.",
+  "d": "DISASTER has struck!  Metzen the Reindeer has been kidnapped!$B$BMetzen is one of Greatfather Winter's eight reindeer - and property of Smokywood Pastures.  We've received not one but TWO ransom letters from groups claiming to have Metzen.  With the holiday season well under way, we're strapped to the coin box here!  Please - find Metzen and return him to us!$B$BCheck out the ransom letters for clues, and sprinkle this reindeer dust on him - it will free him from any of his bonds!$B$BPlease, hurry!",
+  "p": "$N!  Were the notes in the satchel I gave you enough information to locate Metzen?  I hate to think of that those cruel thugs might do to him... but there's no way we can afford to pay such an exorbitant ransom!",
+  "c": "You did it!  Huzzah!$B$BMetzen flew back into Greatfather Winter's stables - yes Metzen can really fly - just a little while ago!  The dust worked like a charm; I knew it would.  You've saved the Feast of Winter Veil as well as Smokywood Pastures from disaster.  Thank you, $N.$B$BListen... because of what you've done here, I want you to have this.  It's something VERY special; if you have a mount, I think you'll get a kick out of it.  Happy Winter Veil!"
+ },
+ {
+  "id": 8763,
+  "t": "The Hero of the Day",
+  "o": "Bring 1 Deeprock Salt and 5 gold coins to any Holly Preserver machine, upon which you will receive 5 Preserved Holly.",
+  "d": "Listen... I'm not really supposed to be telling you this, but since you're the hero of the day and all...$B$BThere's fresh holly everywhere this time of the year, but it never lasts.  We've got a machine that preserves holly - it never goes bad!  We use it to spice up the holiday... and profits during the summer!$B$BI'll let you use the preserver, but only if you're a master cook.  You'll need some deeprock salt and two, three, oh let's say five gold.  It'll net you a nice batch that's yours to keep.",
+  "p": "",
+  "c": "The machine lets off a little rumble and a small amount of steam as it starts working. It is not too long thereafter until it stops, heralded by another small jet of steam erupting from it. A door hatch opens, revealing a batch of preserved holly!"
+ },
+ {
+  "id": 8764,
+  "t": "The Changing of Paths - Protector No More",
+  "o": "",
+  "d": "",
+  "p": "Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn'Qiraj.",
+  "c": "Be well, $N. If you change your mind, I shall be here to assist you."
+ },
+ {
+  "id": 8765,
+  "t": "The Changing of Paths - Invoker No More",
+  "o": "",
+  "d": "",
+  "p": "Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn'Qiraj.",
+  "c": "Be well, $N. If you change your mind, I shall be here to assist you."
+ },
+ {
+  "id": 8766,
+  "t": "The Changing of Paths - Conqueror No More",
+  "o": "",
+  "d": "",
+  "p": "Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn'Qiraj.",
+  "c": "Be well, $N. If you change your mind, I shall be here to assist you."
+ },
+ {
+  "id": 8767,
+  "t": "A Gently Shaken Gift",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "This present looks like it has been shaken a few times. The tag on it reads:$b$bTo a very special $r $c."
+ },
+ {
+  "id": 8768,
+  "t": "A Gaily Wrapped Present",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "This festively-wrapped present has your name on it.$b$bWait, did it just move?"
+ },
+ {
+  "id": 8769,
+  "t": "A Ticking Present",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Have a joyous Feast of Great-Winter from your friends at Smokeywood Pastures."
+ },
+ {
+  "id": 8770,
+  "t": "Target: Hive'Ashi Defenders",
+  "o": "Slay 30 Hive'Ashi Defenders and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing I in order to complete this quest.",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi defenders.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You have something to tell me, $C?",
+  "c": "Excellent work, $N. Your diligence is as noteworthy as always."
+ },
+ {
+  "id": 8771,
+  "t": "Target: Hive'Ashi Sandstalkers",
+  "o": "Slay 30 Hive'Ashi Sandstalkers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing II in order to complete this quest.",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi sandstalkers.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You have something to tell me, $C?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Ashi has been noted."
+ },
+ {
+  "id": 8772,
+  "t": "Target: Hive'Zora Waywatchers",
+  "o": "Slay 30 Hive'Zora Waywatchers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VI in order to complete this quest.$B",
+  "d": "Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora waywatchers.  Report back to Commander Mar'alith after completing your task.",
+  "p": "You have something to tell me, $C?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Zora has been noted."
+ },
+ {
+  "id": 8773,
+  "t": "Target: Hive'Zora Reavers",
+  "o": "Slay 30 Hive'Zora Reavers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing IV in order to complete this quest.",
+  "d": "Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora reavers.  Report back to Commander Mar'alith after completing your task.",
+  "p": "You have something to tell me, $C?",
+  "c": "I've heard good things about your part in the Hive'Zora attack. Keep up the good work and victory will soon be ours."
+ },
+ {
+  "id": 8774,
+  "t": "Target: Hive'Regal Ambushers",
+  "o": "Kill 30 Hive'Regal Ambushers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VIII in order to complete this quest.$B",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal ambushers.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You wish to tell me something, $N?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Regal has been noted."
+ },
+ {
+  "id": 8775,
+  "t": "Target: Hive'Regal Spitfires",
+  "o": "Kill 30 Hive'Regal Spitfires and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing IX in order to complete this quest.$B",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the airborne Hive'Regal spitfires.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You wish to tell me something, $N?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Regal has been noted."
+ },
+ {
+  "id": 8776,
+  "t": "Target: Hive'Regal Slavemakers",
+  "o": "Kill 30 Hive'Regal Slavemakers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing X in order to complete this quest.$B",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal slavemakers.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You wish to tell me something, $N?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Regal has been noted."
+ },
+ {
+  "id": 8777,
+  "t": "Target: Hive'Regal Burrowers",
+  "o": "Kill 30 Hive'Regal Burrowers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing XI in order to complete this quest.$B",
+  "d": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of Hive'Regal burrowers.$B$BReport back to Commander Mar'alith after your task is completed.",
+  "p": "You wish to tell me something, $N?",
+  "c": "Excellent work, $N. Your part in the attack on Hive'Regal has been noted."
+ }
+]

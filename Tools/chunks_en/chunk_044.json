@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10359,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 10360,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "A benevolent gift such as silk, might I add, would certainly increase your local standing in the community! If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 10361,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 10362,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 10363,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 10364,
+  "t": "Caedmos",
+  "o": "Speak with Caedmos in the Vault of Lights of the Exodar.",
+  "d": "You have come far in a short time, $n. Faster than I had expected or hoped. It is time that you continued your training under the tutelage of Caedmos.$b$bI have sent word to him at the Exodar to expect you. You'll find him in the Anchorites' Sanctum near the entrance of the Vault of Lights.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10365,
+  "t": "Shutting Down Manaforge Ara",
+  "o": "Travel to Manaforge Ara and obtain the Ara Access Crystal from Overseer Azarad.  Use it at the Manaforge Ara console to shut it down.$B$BPerforming quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "You've done much better than any of us anticipated.  Manaforge Ara is the last of Kael's working manaforges.  You'll find it northwest of here, though you're likely to have to do some circumnavigating to get to it.  We want you to shut it down.$B$BThe last access crystal is in the possession of Overseer Azarad.  This is Kael's very last source of energy as far as we know, so expect heavy opposition.  I'd bring a couple of friends along if I were you.$B$BHmm... Azarad.  What an odd name for a sin'dorei.",
+  "p": "Have you completed the task I asked of you, $N?",
+  "c": "The Burning Legion is in cahoots with Kael? Hah! Voren'thal is going to have a field day with this information.$B$BDo you think the thousands of pilgrims that have come from Azeroth want to be allied with the Burning Legion? I think not!"
+ },
+ {
+  "id": 10366,
+  "t": "Jol",
+  "o": "Speak with Jol in the Vindicators' Sanctum of the Exodar.",
+  "d": "The path of the Light and purity is not an easy one to walk, $n. Even I, at times, struggle with following its course.$b$bYou should seek out my master, Jol, at the Exodar. She trained me when I was beginning my journey, and I believe she will find in you a new star pupil.$b$bYou will find Jol in the Vault of Lights of the Exodar at the Vindicators' Sanctum, a room surrounded by a vibrant glow of light.",
+  "p": "",
+  "c": "$N, I have been expecting you.$B$BTullas has sung your praises and I am eager to continue your training on the path of Light. When you are ready to unlock greater understanding of your abilities and power, I will guide you."
+ },
+ {
+  "id": 10367,
+  "t": "A Traitor Among Us",
+  "o": "Naladu at the Ruins of Sha'naar wants you to obtain the Sha'naar Key from a nearby hut.",
+  "d": "Anywhere you see a tribe of enslaved Broken you will also find a traitor.  A despicable being who sold his brothers for promises of power.$B$BThere is a hut at the top of the stairs in the center of the ruins.  That's the turncoat's hut.$B$BHe's not there right now, so you will be able to sneak in if you're patient.  Inside you will find a coffer with a key inside of it.  That key unlocks the chains that keep the Dreghood elders prisoner.  Bring it to me.$B$BBeware, Arzeth the Merciless wanders nearby.",
+  "p": "Did you obtain the key, $N?",
+  "c": "I thank you, $N.  My people will soon be free thanks to you."
+ },
+ {
+  "id": 10368,
+  "t": "The Dreghood Elders",
+  "o": "Free Morod the Windstirrer, Akoru the Firecaller and Aylaan the Waterwaker at the Ruins of Sha'naar.  Return to Naladu after completing this task.",
+  "d": "The Dreghood spirit is broken because our elders are imprisoned.  Take this key and go downstairs to free them.$B$BThey are Morod the Windstirrer, Akoru the Firecaller and Aylaan the Waterwaker.  Once they are free, the spirits will return to the Dreghood tribe.",
+  "p": "Tell me, $N.  Have the Dreghood elders been released?",
+  "c": "I can feel it, $N!   The spirits are returning to us."
+ },
+ {
+  "id": 10369,
+  "t": "Arzeth's Demise",
+  "o": "Use the Staff of Dreghood Elders on Arzeth the Merciless and slay him after he's lost his powers.  Return to Naladu at the Ruins of Sha'naar after completing this task.",
+  "d": "Yes, the elemental spirits have returned to us!  We are not as strong as we once were, but a little magic can go a long way in the right hands.$B$BArzeth has great powers bestowed upon him by his dark lord.  Take this staff.  It was once a great symbol of our tribe.  Use it against Arzeth and his powers will be temporarily removed from him.  Defeat him then, so that my people may finally be free!",
+  "p": "Is it done, $N?  Is Arzeth dead?",
+  "c": "It is true, $N.  I was once Naladu the Keeper of Earth.$B$BIt was I who betrayed the other Dreghood elders in exchange for empty promises of power.  You can despise me now if you wish to.  What matters is that my tribe is free once again and that the spirits have returned to us.$B$BI will not be joining the rest of the tribe, but I can die in peace now.  May the spirit of earth find a new servant among my brothers."
+ },
+ {
+  "id": 10371,
+  "t": "Yorus Barleybrew",
+  "o": "Speak with Yorus Barleybrew at the Lakeshire Inn in Redridge Mountains.",
+  "d": "A dwarven warrior known as Yorus Barleybrew has issued a challenge to all skilled Alliance warriors.$B$BHe waits at the Lakeshire Inn, in a place known as the Redridge Mountains in the Eastern Kingdoms.  The journey will be long, but it'll be worth it for you to test yourself, $N.",
+  "p": "",
+  "c": "Hah! So you heard of my challenge, did you?$B$BWell sit down and listen. Have a drink, and savor it... because it might be your last."
+ },
+ {
+  "id": 10372,
+  "t": "A Discreet Inquiry",
+  "o": "Speak with Eralan in Tranquillien.",
+  "d": "Eralan, an associate of mine in Tranquillien, has made an inquiry about securing some help for an urgent job.$B$BNow, I don't know what she has in mind because I don't ask questions, but you've proven yourself more than capable. I want you to travel to Tranquillien in the Ghostlands and have a word with Eralan.$B$BShe may be a bit gruff, but she's trustworthy.",
+  "p": "",
+  "c": "I was beginning to wonder if Zelanis received that letter.$B$BGood. Let's get to work."
+ },
+ {
+  "id": 10373,
+  "t": "A Call to Arms: The Plaguelands!",
+  "o": "Seek out Commander Ashlam Valorfist.  His base camp is located at Chillwind Camp, north of the Alterac Mountains.",
+  "d": "Hear ye, hear ye!  All heroes are called upon to heed these words!$B$BA call to arms has been issued by the Kingdom of Stormwind!  All able bodied individuals are entreated to take up arms against the dark threat of the Scourge in the northern lands of the Eastern Kingdoms!  Rumors fly of new threats rising from the ruins of the Plaguelands!$B$BHeroes of the realm - seek out Commander Ashlam Valorfist who has set up his base camp in Chillwind Camp, north of the Alterac Mountains!",
+  "p": "",
+  "c": "Welcome to the Plaguelands, hero. This is one of the most dangerous frontiers in Azeroth, especially with the looming threat of the Scourge to our north and northeast. I am glad to hear that the clarion call of duty and service to the greater good did not fall on deaf ears with you!$B$BIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands."
+ },
+ {
+  "id": 10374,
+  "t": "A Call to Arms: The Plaguelands!",
+  "o": "Seek out High Executor Derrington.  His base camp is located at the Bulwark, east of Tirisfal Glade and the Undercity.",
+  "d": "Heroes of the realm, hear me - the Horde calls upon you for swift action!$B$BA call to arms has been issued for all able bodied individuals to take up arms against the Scourge!  Rumors fly of new threats rising from the ruins of the Eastern Kingdoms.  They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!$B$BHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glade!",
+  "p": "",
+  "c": "Welcome to the Plaguelands, hero. This is one of the most dangerous frontiers in Azeroth, with the looming threat of the Scourge to our east, and then even further still eastward from there. I am glad to hear that the call of duty and service to the Horde did not fall on deaf ears with you!$B$BIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands."
+ },
+ {
+  "id": 10375,
+  "t": "Obsidian Warbeads",
+  "o": "",
+  "d": "You've proven yourself to our people, $N.  Now is time for you to show us that you're willing to stand by us, even in the face of the strongest enemy.$B$BThe ogres of Outland are ",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10379,
+  "t": "Touch of Weakness",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Ah. good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded."
+ },
+ {
+  "id": 10380,
+  "t": "A Dark Pact",
+  "o": "Kaylaan at Tuluman's Landing in Netherstorm wants you to slay 6 Gan'arg Warp-Tinkers, 3 Daughters of Destiny and 3 Mo'arg Warp-Masters.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "We've been so blind, $N, that the alliance of two of our most dangerous enemies went completely unnoticed.$B$BI wouldn't be surprised if the Scryers had something to do with hiding this information from us, but we must now face the reality.  The Burning Legion and Kael'thas' Sunfury army serve under the same banner.$B$BThese demons are the only reason Kael'thas was ever able to utilize the technology in Tempest Keep.  Under Orelis's orders I must command you to destroy them.",
+  "p": "Have you succeeded in your task, $N?",
+  "c": "It is done then. We come here, hunt them down and slay them at the bidding of our masters. No quarter is given or expected.$B$BMakes you wonder sometimes."
+ },
+ {
+  "id": 10381,
+  "t": "Aldor No More",
+  "o": "Report back to Exarch Orelis at Area 52.$B$BPerforming quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "My mission here is finished.  I did what Orelis ordered me to - I've never failed to.$B$BNo more.  I foresee a great carnage - a crusade, they'll call it - following the news of this alliance between Kael'thas and the Burning Legion.$B$BFirst they give our holiest city away to our enemies and then they ask us to die fighting their enemies.  Go back to Orelis; tell him the naaru can fight their own fights from now on.",
+  "p": "",
+  "c": "The bad news you bring fills my heart with sorrow. Two of our deadliest foes join forces and one of the dearest sons of Shattrath has lost his way."
+ },
+ {
+  "id": 10382,
+  "t": "Go to the Front",
+  "o": "Take a gryphon to Honor Point and speak with Field Marshal Brock.",
+  "d": "Well, $N, I hope you're prepared for the next phase of our operation. The Legion never rests - and neither shall we! Take a gryphon and fly over to Honor Point - it's a small post near the Legion Front. $B$BSpeak with Field Marshal Brock. He'll have instructions for you when you arrive. Oh, and tell that pasty-faced shield-kisser I said 'hello'.  $B",
+  "p": "",
+  "c": "Well met, $c. I'm glad that crusty old dwarf finally saw fit to send us some help! "
+ },
+ {
+  "id": 10383,
+  "t": "This is a Breadcrumb!",
+  "o": "Speak with Jonathan LeCraft about the wabbits.",
+  "d": "Hello.  You should find out about those wabbits.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10384,
+  "t": "Ethereum Data",
+  "o": "The Image of Commander Ameer at the Ethereum Staging Grounds - Ethereum Transponder Zeta - wants you to recover the Ethereum Data Cell.",
+  "d": "Look around you, fleshling. Very close to this transponder should be an Ethereum data cell. Locate that data cell, open it, and retrieve the contents.$B$BBring it back to this transponder at once!",
+  "p": "Have you recovered the data cell?",
+  "c": "<You hold the data cell out so Ameer can read the plans.>$B$BNothing... Damn them! They're clever but not as clever as Ameer!$B$BWhat I'm about to ask you to do is quite dangerous. I'll understand if you don't want to continue, fleshling."
+ },
+ {
+  "id": 10385,
+  "t": "Potential for Brain Damage = High",
+  "o": "The Image of Commander Ameer at the Ethereum Staging Grounds - Ethereum Transponder Zeta - wants you to recover 15 pieces of Ethereum Relay Data.",
+  "d": "They're using relays to transfer information around the staging grounds.$B$BThere is only one way for you to see these relays and extract the information they hold. Unfortunately, doing so may cause you irreparable brain damage.$B$BIf you're still interested, you'll need to slay Ethereum here at the staging grounds and take their essences. Once you have an essence, drink it down. It will temporarily allow you to see an Ethereum relay - giving you enough time to destroy a relay and extract its information.",
+  "p": "Have you recovered the relay data?",
+  "c": "The Protectorate's reason for existence is now fully realized.$B$BThe Ethereum are not here to hunt Dimensius! They are here to become void!$B$BThey are manipulating the void energy at this manaforge to bond their own energy into a creature known as a nexus-stalker.$B$BThey are undoubtedly using a proto-accelerator to complete the transformation."
+ },
+ {
+  "id": 10386,
+  "t": "The Fel Reaver Slayer",
+  "o": "Speak with Overlord Hun Maimist.",
+  "d": "Overlord Hun Maimfist is always looking for volunteers for his suicide attacks against the Burning Legion.  You definitely have the courage for one of his \"missions.\"  $B$BSpeak with him if you've got the stomach for more carnage.  He is celebrating just over there by that fallen fel reaver.  He and his guards killed it just a few hours ago, we would all have died here but for his ferocity and skill in battle.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10387,
+  "t": "The Fel Reaver Slayer",
+  "o": "Speak with Overlord Hun Maimist.",
+  "d": "Overlord Hun Maimfist is always looking for volunteers for his suicide attacks against the Burning Legion.  You definitely have the courage for one of his \"missions.\"  $B$BSpeak with him if you've got the stomach for more carnage.  He is celebrating just over there by that fallen fel reaver.  He and his guards killed it just a few hours ago, we would all have died here but for his ferocity and skill in battle.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10388,
+  "t": "Return to Thrallmar",
+  "o": "Return to Thrallmar and speak with Nazgrel.$B",
+  "d": "Hope you enjoyed your flight, friend. A messenger arrived while you were away - seems Nazgrel's got a new use for you. You'd best head back to Thrallmar and check in with him. I have a feeling the Legion's just getting warmed up. $B",
+  "p": "",
+  "c": "Ah, $N, you've come just in time. Our scouts have discovered that the Legion positions on the ridge behind us are actually 'forge camps'. It's there that the demons are constructing their infernal fel reavers. If we move against them quickly we can disrupt their production!"
+ },
+ {
+  "id": 10389,
+  "t": "The Agony and the Darkness",
+  "o": "Magister Bloodhawk wants you to kill 10 Terrorfiends in the Pools of Aggonar.",
+  "d": "Greetings, $N. I've deciphered the Legion missive and uncovered the demons' strategic plans for this Peninsula. Apparently, there is a large group of hellish terrorfiends gathering near the Pools of Aggonar in the west. We cannot allow such a force to go unchallenged. You must go there and decimate their cursed numbers. ",
+  "p": "Well, $C - have the terrorfiends been defeated?",
+  "c": "Bravo, $N. I knew you would be victorious! The Legion's defeat draws ever nearer!"
+ },
+ {
+  "id": 10391,
+  "t": "Cannons of Rage",
+  "o": "Destroy 3 Fel Cannon MKIs in Forge Camp: Rage and return to Nazgrel in Thrallmar.",
+  "d": "There is a second production facility, Forge Camp: Rage, that lies to the immediate northeast of Thrallmar. The demons have positioned a number of their fel cannons along the ridge - and they're aimed straight at us! You must enter the camp and destroy these fel cannons. $B$B$N, you must be sure to detonate them all - or nothing will stop the Legion from raining fiery hell down upon our heads!  $B",
+  "p": "The Legion could start shelling us at any time, $N! You need to destroy those blasted cannons!",
+  "c": "I knew you had spirit, $N, but you've outdone yourself this time! We heard those wretched cannons exploding from here! That should teach the Legion not to underestimate the Sons of Durotar!"
+ },
+ {
+  "id": 10392,
+  "t": "Doorway to the Abyss",
+  "o": "Slay Arix'Amal to get the Burning Legion Gate Key.  Use the Burning Legion Gate Key on the Rune of Spite, then return to Nazgrel in Thrallmar.",
+  "d": "You are an honor to us, $N. But now we must strike before the Legion recovers! To the north of Thrallmar lies Invasion Point: Annihilator. It houses a warp-portal through which the Legion draws its reinforcements. $B$BYou must overload that portal - and blast it back to the abyss it came from. The portal's activation key will be held by the Point's commander - Warbringer Arix'Amal. Slay him. Take the key. Use it on the portal and do what must be done. May the warchief's blessings be with you.   ",
+  "p": "Hurry, $N. Every second that warp-portal stands open, another foul demon is brought into this world!",
+  "c": "Praise the ancients, you've done it, $N! The Legion has suffered a terrible defeat - and Thrallmar is safe once again. Ah, if I had but a hundred warriors with your heart and cunning, this broken land would be tamed already! I salute you. $B$B<Nazgrel salutes you crisply>"
+ },
+ {
+  "id": 10393,
+  "t": "Vile Plans",
+  "o": "Take the Burning Legion Missive to Magister Bloodhawk in Thrallmar. ",
+  "d": "The text on the note is written in some dark, indecipherable scrawl. The more you stare at them, the more the symbols seem to twist and burn before your eyes. There is only one in Thrallmar that can transcribe such vile script - the blood elf Magister Bloodhawk. $B$B",
+  "p": "I have little time to waste, $C. What is this you pester me with? ",
+  "c": "You were right to bring this to my attention. This could be a production order for additional fel reavers - or new attack plans! This will take some time to decipher. Leave me. I will summon you when I know more. $B$B<Magister Bloodhawk nods to you as you turn to leave> $B$BYou are a sharp one, $N. I shall be watching your progress with interest. "
+ },
+ {
+  "id": 10394,
+  "t": "Disruption - Forge Camp: Mageddon",
+  "o": "Kill 10 Gan'arg Servants and Razorsaw at Forge Camp Mageddon and return to Forward Commander Brock at Honor Point.",
+  "d": "Pay close attention, $N. We've been surveying the Legion camps that lie along the ridge ahead. We have reason to believe that these so-called 'Forge Camps' are where the demons are constructing those blasted Fel Reavers. $B$BYou can see the closest target, Forge Camp: Mageddon, to the west. Our intelligence suggests that it's still under construction. If you can slay the Gan'arg Servants and their master - Razorsaw - we can bring the Legion's Fel Reaver production to a grinding halt!   $B$B",
+  "p": "Don't tell me your getting cold feet, $C? If they finish construction on that Forge Camp, you'll have more to worry about than just those Fel Reavers! Get to it!",
+  "c": "Well, I must say, I am impressed, $N. I didn't think you had the mettle for this mission. Well done. Well done, indeed. \n"
+ },
+ {
+  "id": 10395,
+  "t": "The Dark Missive",
+  "o": "Take the Missive to Warp-Scryer Kryv in the main keep of Honor Hold.",
+  "d": "The text on the note is written in some dark, indecipherable scrawl. The more you stare at them, the more the symbols seem to twist and burn before your eyes. There is only one at Honor Hold who can decipher such archaic script - the draenei mystic, Kryv. $B$BTake the Burning Legion Missive to Warp-Scryer Kryv who resides within the War-Room at Honor Hold.$B",
+  "p": "What is it, $C? I sense you've found something that speaks of a coming doom.\n",
+  "c": "It is fortuitous that you intercepted this missive when you did, $N. Though it will take me some time to decipher, I can already sense the hatred and urgency woven into this scroll. I fear the Legion's true motives in this land will soon be made evident...$B$BGive me a moment to decipher this script. $B$B<Warp-Scryer Kryv begins to read the demonic missive>    \n"
+ },
+ {
+  "id": 10396,
+  "t": "Enemy of my Enemy...",
+  "o": "Destroy 3 Fel Cannon MKIs in Forge Camp: Rage and return to Field Marshal Brock at Honor Point.",
+  "d": "Now we focus on the second target - Forge Camp: Rage. It lies just west of Mageddon. Trouble is, the demons have a number of fel cannons aimed straight at the Horde's outpost of Thrallmar! Though I can scarcely believe it, we actually need the Horde to help us hold the line at the Dark Portal. We can't afford to let Thrallmar fall.  You've got to destroy these cannons before the Legion pulverizes our allies! ",
+  "p": "The Legion could start shelling the Horde at any time, $N! You need to destroy those blasted cannons! \n",
+  "c": "I have to hand it to you, $N, you're a fighter born! Those Horde yokels may never know how close they came to the end. It takes real character to step in harm's way on behalf of your enemies. That's the kind of honor and commitment that holds the Alliance together!  $B$B<Field Marshal Brock salutes you crisply.>\n"
+ },
+ {
+  "id": 10397,
+  "t": "Invasion Point: Annihilator",
+  "o": "Slay Arix'Amal.  Take the Burning Legion Gate Key.  Use the Burning Legion Gate Key on the Rune of Spite.",
+  "d": "Well, we've located the Legion's final base on the ridge - Invasion Point: Annihilator. It lies northwest of Forge Camp: Rage - and it houses a warp-portal through which the Legion has been drawing its reinforcements! $B$BYou've got to close that portal to prevent any more demons from coming through. The Point's overlord, Warbringer Arix'Amal, holds the portal's activation key. Take it from him and shut that blasted gateway down!  $B",
+  "p": "You close down that war-portal yet, $N? While you're here shuffling your feet, there are more demons entering Outland! \n",
+  "c": "Great job! That should drastically cut down on the number of demons trying to creep up our backsides. I can't thank you enough for your help out here, $N.  "
+ },
+ {
+  "id": 10398,
+  "t": "Return to Honor Hold",
+  "o": "PH:  Go to Honor Hold.",
+  "d": "PH: Go to Honor Hold.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10399,
+  "t": "The Heart of Darkness",
+  "o": "Kill 10 Terrorfiends in the Pools of Aggonar and return to Warp-Scryer Kryv in the main keep of Honor Hold.",
+  "d": "It is just as I feared. Arix'Amal - the demon you killed earlier, was working for a secret Legionlord - Arazzius the Cruel. It appears this new villain has amassed a force of hellish terrorfiends near the Pools of Aggonar. $B$BYou must journey there and slay the terrorfiends before they strike against us. But be wary, friend - the Pools of Aggonar lie within a tortured, poisonous valley. You can find the cursed pools to the northwest of here, beyond Hellfire Citadel. $B$BLight be with you, $N.  $B",
+  "p": "I sense a growing darkness within your heart, $C. Have you faced your fear? Or does it still await you at the Pools of Aggonar?  \n",
+  "c": "I foresaw this great victory, $N. The blessed naaru smile upon you this day. \n"
+ },
+ {
+  "id": 10400,
+  "t": "Overlord",
+  "o": "Slay Arazzius the Cruel in the Pools of Aggonar and return to Force Commander Danath Trollbane in the keep of Honor Hold.$B",
+  "d": "The honorable Warp-Scryer has told me of your perils, $N - and of the new foe you've discovered. If Kryv is to be believed, this 'Arazzius the Cruel' is as powerful and evil as any foe the Sons of Lothar have ever faced. $B$BWill you stand for us now, $N? Will you face this Legionlord and deliver the Light's justice upon him? If so, you will find him at the Pools of Aggonar. If not, his evil will most certainly find you. $B",
+  "p": "Tell me, $N, has the deed been done? Has the Legionlord been vanquished? \n",
+  "c": "Light be praised, I knew you'd do it! Arazzius and his minions are no more! Soon, we'll have the Legion running for home and this battered world will be safe once more. Then, when justice has been met, we can return home as well. $B$BThanks you, $N - the Alliance and the Sons of Lothar honor you this day! \n"
+ },
+ {
+  "id": 10401,
+  "t": "Mission: End All, Be All",
+  "o": "Nazgrel at Thrallmar in Hellfire Peninsula has asked that you slay Arazzius the Cruel.$B",
+  "d": "Do you know what would have happened if you had not intercepted this missive, $N?$B$B<Nazgrel nods.>$B$BThe entirety of the Legion army in Hellfire would have been knocking on our door. There is no way that we could have survived such an assault.$B$BThere is only one way to make sure that these orders never reach the Legion Front. You must travel to the Pools of Aggonar, west of here, and slay this Arazzius creature.$B$BDo this and I will see to it that the Warchief grants you a commendation.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10403,
+  "t": "Naladu",
+  "o": "Seek out Naladu inside the Ruins of Sha'naar.",
+  "d": "Perhaps not all hope is lost for the Dreghood.  I am one of four elders that guided this tribe before we were enslaved by the Illidari.  I thought the others were dead, but I've slowly learned that at least two others are alive - chained down and powerless just as I am.$B$BI've not yet been able to find Naladu and fear for the worst.  There are more huts in the ruins upstairs; perhaps you could look for him.  It would be a great boon for our tribe if all our elders were alive.",
+  "p": "",
+  "c": "You've come to help my tribe, $r?  How unusual.  There aren't many that care about the fate of the Broken in this land.  "
+ },
+ {
+  "id": 10404,
+  "t": "Against the Legion",
+  "o": "Exarch Orelis at Area 52 wants you to go to Forge Base: Oblivion and Forge Base: Gehenna and slay 12 Gan'arg Forgehands, 6 Mo'arg Forgelords and 6 Wrathbringers.$B$BPerforming quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "We've established that the Burning Legion has been providing Kael'thas with technological assistance, magnifying his threat many times over.$B$BBased on the Legion's numbers in the region, the largest impact we can make on our enemy's alliance is through a head-on attack on the forge bases to the north.$B$BGo to Forge Base: Oblivion and Forge Base: Gehenna and destroy our enemies.  May the Light guide your blade, $N.",
+  "p": "",
+  "c": "You've dealt a mighty blow to the enemies of the Light, $N. You have my thanks as well as that of the Aldor."
+ },
+ {
+  "id": 10405,
+  "t": "S-A-B-O-T-A-G-E",
+  "o": "The Image of Commander Ameer at the Ethereum Staging Grounds - Ethereum Transponder Zeta - wants you to recover 1 Prepared Ethereum Wrapping.",
+  "d": "We must destroy the machinery that is making these nexus-stalker aberrations possible. To strike at their proto-accelerator would be futile as it is an ethereal creation. We must instead destroy the manaforge energy tube that they are using as a conduit.$B$BI have all that I need to create a device to overload the conduit save for one item. I need a wrapping from an archon or overlord that might be transforming soon in order to calibrate the device.",
+  "p": "Have you recovered the wrapping?",
+  "c": "Excellent! Now to calibrate the device."
+ },
+ {
+  "id": 10406,
+  "t": "Delivering the Message",
+  "o": "The Image of Commander Ameer at the Ethereum Staging Grounds - Ethereum Transponder Zeta - wants you to escort the Protectorate Demolitionist to the Manaforge Ultris conduit and keep him protected while he works to sabotage the pipeline.",
+  "d": "I'm sending one of my demolitionists out to place the disruption device. Just make sure no harm comes to him as he's placing the disruptor.$B$BKeep him protected! He will not fight back if enemies attack him as he is only a holographic image but the image can be destroyed!$B$BReturn to me once the job is done.$B",
+  "p": "He must succeed!",
+  "c": "Thanks to you, their plans are in ruin! Now only one thing remains... Salhadaar."
+ },
+ {
+  "id": 10407,
+  "t": "Socrethar's Shadow",
+  "o": "Anchorite Karja at Area 52 wants you to obtain the First Half of Socrethar's Stone from Forgemaster Morug at Forge Base: Oblivion and the Second Half of Socrethar's Stone from Silroth at Forge Base: Gehenna.$B$BPerforming quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "The infamous eredar, Socrethar, leads the Burning Legion in Netherstorm.  Mentioning his name is enough to make most draenei shudder.  He gives orders from an island in the northwest that only his most trusted lieutenants can access.$B$BTo get there you will need to obtain a teleportation stone, which won't be an easy task.  The first half of the stone is in the possession of Forgemaster Morug at Forge Base: Oblivion.  The second half is held by Silroth at Forge Base: Gehenna.",
+  "p": "Have you obtained Socrethar's teleportation stone, $N?",
+  "c": "Your dedication to our cause is exemplary, $N. With Socrethar's teleportation stone in our possession only one thing remains to be done."
+ },
+ {
+  "id": 10408,
+  "t": "Nexus-King Salhadaar",
+  "o": "The Image of Commander Ameer at the Ethereum Staging Grounds - Ethereum Transponder Zeta - wants you to use the Protectorate Disruptor to bring down Salhadaar's force fields and then destroy Nexus-King Salhadaar.",
+  "d": "I have in my possession another disruptor, one capable of destroying the three conduits that surround Salhadaar. Once the conduits are destroyed, Salhadaar's protective force fields will be down. For this act, he will strike at you with a ferocity you have never before witnessed, $N.$B$BIf you are willing to rid the world of Salhadaar, I will give you the disruptor.",
+  "p": "Is... Is he really dead? Destroyed?",
+  "c": "It has been a thousand years, maybe more, since Salhadaar began his crusade to exterminate all that would stand in his way. I can hardly believe that this is the last we'll see of him... You have done all of us a great service, $N, and for that you will be rewarded."
+ },
+ {
+  "id": 10409,
+  "t": "Deathblow to the Legion",
+  "o": "High Priestess Ishanah wants you to go to the Legion Teleporter at the northwestern corner of Netherstorm and use it to teleport to Socrethar's Seat.  Once there, defeat Socrethar.$B$BPerforming quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "When facing eredar of great power, large armies are useless for the most part.  Their corruptive powers over mortal souls are such that only the strongest-willed can even stand face to face with them.$B$BTake this stone to the Invasion Point: Overlord, between Forge Base: Oblivion and Gehenna and bring your closest, strongest friends with you.  Orelis and Karja will meet you at Socrethar's Seat; I will send Adyen along with them.$B$BMay the Light prevail today, $N.  May Socrethar meet his end.",
+  "p": "Light be with you, $C.",
+  "c": "It is done, $N. Socrethar has been destroyed.$B$BI and the others will recover from our wounds, $N. The wrath of Socrethar's magic was far too much for young Kaylaan, however. Not even my strongest prayer could raise him.$B$BIt is an unbearable pity that one so young would fall in battle. However, in the end his will was strong enough to recover from the Legion's corruption and we may find solace in that."
+ },
+ {
+  "id": 10410,
+  "t": "Ishanah's Help",
+  "o": "Take Socrethar's Teleportation Stone to High Priestess Ishanah at the Shrine of Unending Light on the Aldor Rise in Shattrath City.$B$BPerforming quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "The time has come to face Socrethar, $N.  Confronting an eredar leader isn't something that's taken lightly among us.  A single mistake is likely to cost us our lives if we're ill-prepared.$B$BTake Socrethar's teleportation stone to High Priestess Ishanah at the Shrine of Unending Light in Shattrath City.  She will determine how we need to handle the situation.",
+  "p": "What troubles you, child?",
+  "c": "Socrethar... I remember that name.  He was once a renowned warrior of the Light and pride was his only flaw."
+ },
+ {
+  "id": 10411,
+  "t": "Electro-Shock Goodness!",
+  "o": "Researcher Navuud at the Protectorate Watch Post in Netherstorm has asked that you destroy 30 Void Waste Globules and 30 Seeping Sludge Globules.$B",
+  "d": "Around the ruined manaforge you will find the run-off of Dimensius's handy work. Seeping sludge occupies the pools that surround Ultris. Directly below those pools, where the Ethereum Staging Grounds now stand, you will find even more run-off in the form of void waste.$B$BThe best method of disposal is to use electro-shock to break slimes down to globules. Use this elixir to augment your attacks with electricity. The resultant discharge will break the slimes up into their raw form. Destroy the globules!",
+  "p": "Both the sludge and waste are extremely toxic. They will form into a congealed void horror if left unchecked!",
+  "c": "I hope it's not too late. Did you notice any abnormally large slimes at or near the area where the void wastes drain into?"
+ },
+ {
+  "id": 10412,
+  "t": "Firewing Signets",
+  "o": "Magistrix Fyalenn in Shattrath City wants you to bring her 10 Firewing Signets.$B$BPerforming quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "It is no secret that Kael'thas Sunstrider perceives us as a great threat.  Let's face it - not many sin'dorei, fresh from Silvermoon, are willing to join the sort of company that Kael keeps.$B$BIt's also no secret that this is not just a war of words.  Scryers and the armies that serve Kael'thas attack each other on sight.  The only way to prove you're with us, $N, is to do your share of fighting.$B$BKael's lower ranking followers wear Firewing signets to indicate their rank.  Bring them to me.",
+  "p": "Go on, $N.  Speak.",
+  "c": "Well done, $N.  You might prove to be a useful ally after all."
+ },
+ {
+  "id": 10413,
+  "t": "The Horrors of Pollution",
+  "o": "Take the Vial of Void Horror Ooze to Researcher Navuud at the Protectorate Watch Post in Netherstorm.",
+  "d": "You carefully fill a vial with the fallen void horror's ooze.$B$BResearcher Navuud at the Protectorate Watch Post would be quite interested in such a find! Take it to him at once!",
+  "p": "Hrm, you look a bit dirty... What have you gotten yourself into?",
+  "c": "WHAT!? You faced off against a void horror? And lived?! Incredible!$B$BThis sample is worth its weight in gold. A find like this deserves a reward."
+ },
+ {
+  "id": 10414,
+  "t": "Single Firewing Signet",
+  "o": "",
+  "d": "",
+  "p": "Even the smallest contribution to our cause is noted, $N.  Our enemies are many, but we shall prevail!",
+  "c": "Yes... Kael's numbers continue to dwindle as our numbers continue to grow.$B$B<This quest can be repeated up to Honored reputation.>"
+ },
+ {
+  "id": 10415,
+  "t": "More Firewing Signets",
+  "o": "",
+  "d": "",
+  "p": "What have you done for us lately, $N?  The war against Kael'thas is not going to fight itself, you know?",
+  "c": "Excellent!  All who oppose us will be crushed!$B$B<This quest can be repeated up to Honored reputation.>"
+ },
+ {
+  "id": 10416,
+  "t": "Synthesis of Power",
+  "o": "Voren'thal the Seer in Shattrath City wants you to obtain an Arcane Tome.$B$BPerforming quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "Arcane tomes are not ordinary books that happen to deal with arcane matters.  There is intrinsic power in them - a power I've learned to synthesize into a single arcane rune.$B$BShould you find an arcane tome in your travels I will give you one such rune.  Only the most powerful wielders of magic carry the books I need.  In Outland this usually means Kael's blood elves - but you'd be surprised by where such tomes often turn up.",
+  "p": "Have you obtained an arcane tome yet, $N?",
+  "c": "As promised, $N. The entirety of the book's raw power, condensed into a single rune."
+ },
+ {
+  "id": 10417,
+  "t": "Run a Diagnostic!",
+  "o": "Retrieve the Diagnostic Results and return them to Mehrdad at Midrealm Post.",
+  "d": "Wherever the Consortium establishes a presence, we bring our eco-dome technology. The fields allow us to work in a controlled and life-sustaining atmosphere since we often find ourselves in hostile environments.$B$BNetherstorm's volatile conditions and creatures have begun to destroy the equipment that sustains our domes, especially the generator east of here. I've started a diagnostic there in hopes of understanding what can be done to combat the damage. Would you collect the results and bring them to me?",
+  "p": "Did you get the diagnostic results?",
+  "c": "This is worrisome. The damage is much more severe than I believed. I can send to the Stormspire for some tools to begin repairs, but that's useless unless we've isolated what's damaging the equipment in the first place."
+ },
+ {
+  "id": 10418,
+  "t": "Deal With the Saboteurs",
+  "o": "Mehrdad at Midrealm Post wants you to kill 8 Barbscale Crocolisks.",
+  "d": "In searching the area for clues about the damage to our equipment, I've seen pieces of the shield generators at the bottom of the small lake to the north. I'm not sure why the crocolisks have taken an interest in the equipment, but we have to put a stop to this problem.$B$BThe Consortium is quite clear on this matter. If it comes down to a choice between the equipment and crocolisks, the animals will have to go. I'll make it worth your while to deal with them.",
+  "p": "Have you put the creatures out of their misery? Don't get me wrong, I'm really an animal lover, but not when the animals are biting the hand that feeds and shelters them.",
+  "c": "The area's looking clearer already. The domes are quite useful, but the major drawback is the rampant growth they encourage in some places, accelerating the growth and proliferation of native species."
+ },
+ {
+  "id": 10419,
+  "t": "Arcane Tomes",
+  "o": "",
+  "d": "",
+  "p": "Have you obtained any more arcane tomes, $N?",
+  "c": "The power contained in this tome is tremendous. Yet it is easily condensed into a single rune by one with a clear mind."
+ },
+ {
+  "id": 10420,
+  "t": "A Cleansing Light",
+  "o": "Bring a Fel Armament to Ishanah in Shattrath City.$B$BCompleting quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "This temple is one of the holiest places in all of Outland.  The power of the Light here is so strong, that even items with the strongest fel taint can be cleansed of a worldly item.$B$BShould you run into any fel armaments in your confrontations with demonic enemies, bring them to me and I will demonstrate the cleansing power of the Light.",
+  "p": "Have you obtained any fel armaments yet, $N?",
+  "c": "Watch as foul materials disintegrate. Watch as metal turns to dust.$B$BThe Light cleanses all and only the purest residue remains."
+ },
+ {
+  "id": 10421,
+  "t": "Fel Armaments",
+  "o": "",
+  "d": "",
+  "p": "Have you run into any fel armaments lately?  Let the Light do its work, $N.  Do not allow these foul objects to remain in this world.",
+  "c": "The fel materials are removed from this world.  Only the Light's residue remains."
+ },
+ {
+  "id": 10422,
+  "t": "Captain Tyralius",
+  "o": "Flesh Handler Viridius at the Protectorate Watch Post in Netherstorm has asked that you find and free Captain Tyralius.$B",
+  "d": "Captain Tyralius took a platoon of soldiers south towards the Ethereum Staging Grounds 10 days ago. We haven't heard from him or his crew since.$B$BChances are good that they were ambushed and killed but I'm getting a curious reading from my instruments.$B$BI think it's a distress signal but these things have been wrong before. If Tyralius is still alive, they're keeping him in one of their prisons. You'll have to locate the prison and open it with a key, probably found on the warden.",
+  "p": "Did you find Tyralius?",
+  "c": "Thank you, $N. Tyralius suffered massive injuries but we think he's going to make it.$B$BHe mentioned fields of prisons, much like the one you rescued him from. Prisons full of creatures from all across the universe!$B$BWe'll be in touch should a need arise to crack those open. The Consortium has already expressed some interest in sending some teams out and is working on some technology to break through the Ethereum's locks."
+ },
+ {
+  "id": 10423,
+  "t": "To the Stormspire",
+  "o": "Speak with Ghabar at the Stormspire in Netherstorm.",
+  "d": "Master Engineer Ghabar will want to know about the results of the diagnostics. If anything, they caution us to keep a close eye on the workings of our dome generators. As the fields become more and more unstable, their effects will become harder to control. It could spell disaster for our expedition and anything else housed within the domes.$B$BYou'll find Ghabar at the Stormspire. Just follow the road north from this eco-dome and across the bridge. It'll lead you to the elevator at the base of the spire.",
+  "p": "",
+  "c": "<You introduce yourself and report the results of Mehrdad's diagnostics at EcoDome Midrealm.>$B$BMehrdad is little more than a technician, but he possesses a keen eye for detail. If his observations are correct, then we'll need to take diagnostics at the rest of our dome generators as soon as possible."
+ },
+ {
+  "id": 10424,
+  "t": "Diagnosis: Critical",
+  "o": "Use the Diagnostic Device while standing near the Eco-Dome Sutheron Generator and bring the Diagnostic Results back to Ghabar at the Stormspire.",
+  "d": "If Mehrdad's results are correct -- and I have no reason to believe they're faulty -- then the rest of the domes could be in trouble.$B$BI do think Mehrdad has failed to identify the underlying cause of the failures. From time to time, creatures damage the generators, but never this severely.$B$BTo be on the safe side, I'd like for you to run a set of diagnostics at the Stormspire's main dome generator, located in Eco-Dome Sutheron at the very eastern edge of the dome.",
+  "p": "Did you get those diagnostics?",
+  "c": "These results match Mehrdad's exactly, but why? The only possible explanation I can think of is that some of the dome generation equipment has failed or gone missing. That would cause the domes to weaken significantly and fall out of balance as the diagnostics indicate."
+ },
+ {
+  "id": 10425,
+  "t": "Escape from the Staging Grounds",
+  "o": "Escort the Captured Protectorate Vanguard back to Protectorate Watch Post in Netherstorm.",
+  "d": "Thank K'aresh! He would have torn me apart!$B$BI'm a Protectorate soldier, fleshling. My platoon was sent on a recon mission about 10 days ago. As we were moving across the upper ledges of this island, a group of Ethereum jumped us. At least I think it was Ethereum. They had the same energy color but their wrappings looked void.$B$BOnly Tyralius was spared. I think they put him in a prison cell.$B$BI've got to get back to the Protectorate Watch Post! Can you escort me back?$B",
+  "p": "Yes?",
+  "c": "<Commander Ameer appears pleased.>$B$BWell done, fleshling! This soldier might be the key to taking down the Ethereum's entire operation."
+ },
+ {
+  "id": 10426,
+  "t": "Flora of the Eco-Domes",
+  "o": "Use the Energy Field Modulator on Farahlon Lashers. Observe the results and report back to Aurine Moonblaze at the Stormspire when you have conducted 10 tests.",
+  "d": "Just look around you, $c! Isn't it amazing? Of course, this incredible resurgence of life is a byproduct of the ethereal domes, but imagine what it could do in the hands of the expedition.$B$BI'm preparing to negotiate with the ethereals for access to their technology, but I'd like to get a better idea of its effects on plant-based life.$B$BI've built a device to concentrate the dome's energies on the lashers in this area. Would you be so kind as to test it for me and share the results?",
+  "p": "Did you try focusing the dome's energy?",
+  "c": "Oh my! Focusing the dome's energy seems to continue accelerating growth to the point where it breeds extreme aggression. If we do get the ability to use this technology, we have to be sure to calibrate it correctly."
+ },
+ {
+  "id": 10427,
+  "t": "Creatures of the Eco-Domes",
+  "o": "Tag 12 Talbuks for Aurine Moonblaze at the Stormspire. You may tag either Talbuk Sires or Talbuk Does using the Talbuk Tagger.",
+  "d": "Your work with the lashers turned up some astounding information, but I wonder if it holds true for animals as well.$B$BGathering information on the talbuks that live underneath this dome is going to be trickier than studying the lashers, I'm afraid.$B$BUsing this tagging device, you can put a weakened talbuk to sleep and apply a tag that I'll use to track the animal as it matures. The tagging mechanism won't work unless the talbuk has expended most of its energy.",
+  "p": "Were you able to tag enough of the talbuk?",
+  "c": "Excellent work. I'll keep a close eye on the ones you tagged and see if they mature as quickly as the other lifeforms in the dome.$B$BWith the proper control, we could use this technology to regrow the ruined areas of Outland and Azeroth."
+ },
+ {
+  "id": 10428,
+  "t": "The Missing Fisherman",
+  "o": "Find Cowlen at the southeast docks of Silvermyst Isle off the coast of Azuremyst.",
+  "d": "In the fevered dreams of our injured guest, she spoke of a fisherman, Cowlen, who was in some distress at Silvermyst Isle, to the southwest, off the coast of Azuremyst.$b$bWith all that has been happening, no one has had the opportunity to look into it, but I do feel a bit of worry. Perhaps there's something you can do, $n?",
+  "p": "",
+  "c": "My family... What have I done... What could I have done?$b$bWhy must I be punished so?"
+ },
+ {
+  "id": 10429,
+  "t": "When Nature Goes Too Far",
+  "o": "Aurine Moonblaze at the Stormspire wants you to bring her a Hulking Hydra Heart.",
+  "d": "The dome technology possesses such power! Certainly, there are bounds beyond which we dare not go, $N.$B$BCreatures allowed to grow too large or too fast could be just as bad as a barren landscape.$B$BI have heard rumors of just such a creature in the pool to the east. I've heard the ethereal merchants conspiring to catch the overgrown hydra for sport, but I have another purpose in mind for the giant. Bring me the creature's heart so I may study it.",
+  "p": "Did you get the sample from the monstrous hydra?",
+  "c": "Even for a creature of that size, this heart is far too large. It struggled to keep up with the creature's gigantic body. I have little doubt it would've died before reaching half its normal lifespan.$B$BEven with such risks, I'm determined to convince the Consortium to share their technology. There's too much promise here to give up now."
+ },
+ {
+  "id": 10430,
+  "t": "Testing the Prototype",
+  "o": "Bring the Repair Apparatus to Tashar at Eco-Dome Farfield in Netherstorm.",
+  "d": "I've been working on a portable generator repair kit for use in some of the harsher climates that the Consortium operates in. Granted, it wasn't designed for Netherstorm, but we shouldn't have any problems with it.$B$BI had already scheduled a test with one of my best techs up at Eco-Dome Farfield beyond the Netherstone to the northeast. Take this prototype to Tashar. He'll know what to do with it. If it works, we can use it to reinforce the shield generators at the larger domes.",
+  "p": "It looks like you've got the prototype. Did Ghabar send you?",
+  "c": "This looks a little peculiar. Ghabar definitely didn't have Netherstorm in mind when he designed it.$B$BDon't look so surprised, $N. Netherstorm is tame compared to some of the environments I've worked in. Nevertheless, a failing dome is always a concern."
+ },
+ {
+  "id": 10431,
+  "t": "Outside Assistance",
+  "o": "Go to Tuluman's Landing, north of Area 52, and speak to Kaylaan.$B$BPerforming quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "The Sunfury briefings support the theory that Kael'thas has been receiving outside help in constructing and running these manaforges.  Who this is remains a bit of a mystery, though we're likely to find out in Manaforge Ara.$B$BI've sent a group of my men to scout the surrounding area.  Go to Tuluman's Landing, north of here, and speak to Kaylaan.  See what he's discovered at Manaforge Ara.  Find out who is assisting the Sunfury army and take care of them. ",
+  "p": "",
+  "c": "You're all the help Orelis is sending? He must think very highly of you.$B$BLet's get this over with."
+ },
+ {
+  "id": 10432,
+  "t": "Damning Evidence",
+  "o": "Obtain 8 Orders from Kael'thas from demons at Manaforge Ara and bring them to Spymaster Thalodien in Area 52.$B$BPerforming quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "As you may have noticed, there are servants of the Burning Legion all over Manaforge Ara.  Kael'thas has entered an alliance with the Burning Legion.  He must've caught wind of Illidan's descent into insanity and switched paymasters accordingly.$B$BIf the Scryers get definite proof of this, it will give them a considerable political advantage.  I know for a fact that the Legion forces at this manaforge have orders that bear Kael's seal.$B$BGet these orders and bring them to Thalodien.",
+  "p": "Well?  What did Theledorn have to say?",
+  "c": "This is big, $N. Very big!$B$BVoren'thal is going to want to hear about this as soon as possible."
+ },
+ {
+  "id": 10433,
+  "t": "Keeping Up Appearances",
+  "o": "Bring 10 Ripfang Lynx Pelts to Shauly Pore at Midrealm Post.",
+  "d": "The ethereals are clever and very observant, so it's no accident that I'm here posing as a simple furrier. In fact, I've been sent from Area 52 to appraise the technology the ethereals use to generate their eco-domes.$B$BI'd like to enlist your help, $c. We've been asked to use non-goblin agents whenever possible.$B$BWhat I want you to do is bring me a number of ripfang lynx pelts in the guise of a hunter. You can find the lynxes all over Eco-Dome Midrealm.",
+  "p": "Have any pelts to sell me?",
+  "c": "These are magnificent, utterly magnificent! I'll pay you top coin for these! How much to retain your services?"
+ },
+ {
+  "id": 10434,
+  "t": "The Dynamic Duo",
+  "o": "Speak with Audi the Needle at the Stormspire in Netherstorm.",
+  "d": "Excellent job.$B$B<Shauly winks at you.>$B$BI think they're buying it. Now, when I send you up to speak with my associates at the Stormspire, there won't be any suspicion at all.$B$BYou'll want to look for Action Jaxon and Audi the Needle up there. They'll tell you everything you need to know. Tell 'em Shauly sent you.",
+  "p": "",
+  "c": "<You introduce yourself and tell Audi that Shauly sent you.>$B$BAh, yes, we've been expecting someone to help us, err move some, uh, merchandise."
+ },
+ {
+  "id": 10435,
+  "t": "Retrieving the Goods",
+  "o": "Audi the Needle at the Stormspire wants you to bring her 10 Dome Generator Segments.",
+  "d": "<Audi looks around and then lowers her voice.>$B$BI'm sure Shauly told you a bit about our work here. When Jaxon and I are out in the field 'hunting,' we've been collecting pieces of the ethereal eco-dome generators and hiding them in the nests of our prey, the raptors in Eco-Dome Farfield.$B$BIt's a remote area to the northeast of the Stormspire, close to the Netherstone. I don't anticipate you'll run into many ethereals there, but would you be willing to help us collect the dome generator pieces?",
+  "p": "Did you collect everything?",
+  "c": "Excellent work! The most difficult part of the project is done. Now, all we need is a way to get these back to Area 52 and attract the interest of the Cenarion Expedition as well. There should be enough here for our own needs and to earn a little profit on the side."
+ },
+ {
+  "id": 10436,
+  "t": "All Clear!",
+  "o": "Tashar, stationed at Eco-Dome Farfield, wants you to kill 12 Scythetooth Raptors.",
+  "d": "Before we can begin the test, we have to make certain the area is clear of anything that might interfere. In our case, that means these overgrown lizards.$B$B<Tashar gestures toward the scythetooth raptors.>$B$BThere's no telling what might happen if one those decides to take a nice bite out of the generator while it's charging. I've seen a lot of strange things in all my years as a technician, including more than a few abominations that had their beginnings as humble animals.",
+  "p": "Have you cleared the test area?",
+  "c": "Well done. It looks like everything is in order. We're ready to begin."
+ },
+ {
+  "id": 10437,
+  "t": "Recipe for Destruction",
+  "o": "Professor Dabiri at the Protectorate Watch Post in Netherstorm wants you to recover 8 Fragments of Dimensius.",
+  "d": "Atop Manaforge Ultris lies the tear in the nether that the void lord, Dimensius, came through. That tear provides Dimensius with a link to the void, rendering him immune to physical harm. If we can get a lock on the conduit that Dimensius is using to keep himself phased out of this plane of existence, we can destroy it and then destroy Dimensius.$B$BTo do this, we're going to first need you to collect fragments of Dimensius from the void creatures that he sends out to do his dirty work.",
+  "p": "Have you collected enough fragments?",
+  "c": "Excellent. With these fragments, we can calibrate a bomb that will destroy the void conduit atop Ultris. With the void conduit destroyed, Dimensius's connection with the void will be severed and he will be left defenseless!"
+ },
+ {
+  "id": 10438,
+  "t": "On Nethery Wings",
+  "o": "Professor Dabiri at the Protectorate Watch Post in Netherstorm wants you to use your Phase Disruptor when you get in range of the Void Conduit that rests atop Ultris. Drop as many charges of the Phase Disruptor as you can to ensure total annihilation. The Phase Disruptor charges will automatically home in on the Void Conduit so long as you are close enough to use it.$B$BReturn to Professor Dabiri should you succeed!$B",
+  "d": "Here it is, $N. Take this phase disruptor and mount up! The Protecotrate nether drake will fly you close enough to Ultris so that you can drop the disruptor on top of the void conduit.$B$BDrop as many disruptor charges as possible to ensure complete annihilation!$B$BWhen you are ready, speak with the nether drake and he'll take you up.$B$BIf you miss the mark you will have to get more bombs from me before you can go up again.",
+  "p": "Did you hit the mark?",
+  "c": "The time to strike has come! With the tear gone, Dimensius is vulnerable to physical and magical attacks!"
+ },
+ {
+  "id": 10439,
+  "t": "Dimensius the All-Devouring",
+  "o": "Professor Dabiri at the Protectorate Watch Post in Netherstorm wants you to speak with Captain Saeed and then follow his army to Manaforge Ultris and kill Dimensius the All-Devouring!",
+  "d": "Your brave actions have forced Ameer to react! He has deployed Captain Saeed and the Avengers!$B$BNow all that is left to do is destroy Dimensius.$B$BWhen you are ready, I will call for Saeed. If he is not currently fighting another battle, he will be awaiting orders from you - directly east of here.$B$BLet him know when you are ready to fight and he will put his troops in motion!$B$BI wish you luck, fleshling! We have hunted Dimensius for a thousand years!",
+  "p": "What of the void lord?",
+  "c": "For a thousand years, all we have known is conflict. We have defended our people from the attacks of both void creature and ethereal alike.$B$BNow, one of our most hated enemies lies dead - finally.$B$BI give you the thanks of a hundred million ethereals, fleshling."
+ },
+ {
+  "id": 10440,
+  "t": "Success!",
+  "o": "Return to Ghabar at the Stormspire in Netherstorm.",
+  "d": "The test was a resounding success! We can certainly use this device to start repairing the domes.$B$BCarry word of the test results to the Stormspire and let Ghabar know that I've also found a pattern in the damage to the shield generators. Key pieces of generator units have gone missing from a number of sites. This is no accident, $N, no technological failure. We're being stolen from. ",
+  "p": "",
+  "c": "I'll have my techs get to work on those repairs right away.$B$BTashar's suspicion of sabotage worries me, though. I can't think of anyone who would be bold enough to steal our technology. Not anyone who knows what we're capable of, anyway. It may be time to lock down the Stormspire."
+ },
+ {
+  "id": 10441,
+  "t": "Peddling the Goods",
+  "o": "Speak with Aurine Moonblaze at the bottom of the Stormspire in Netherstorm.",
+  "d": "<Audi lowers her voice again.>$B$BNow that we have the goods, I'll be sending most of the parts on to Area 52. There's enough here for more than one generator, presenting us with a perfect business opportunity.$B$BI've seen the Cenarion Expdedition's representative trying to negotiate. I want you to let her know that we can provide what she seeks at a very reasonable price. There's no reason for her to continue dealing with those two-timing ethereals.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10442,
+  "t": "Helping the Cenarion Post",
+  "o": "Falconer Drenna Riverwind wants you to offer your services to Thiah Redmane at the Cenarion Post in Hellfire Peninsula.",
+  "d": "$C, there's some tauren by the name of Thiah Redmane that keeps pestering us for assistance.  She's with the Cenarion Expedition, and they've setup a little post just to the west on the south side of the the road leading to Zangarmarsh.$B$BIf you hit Thornfang Hill, you've gone too far.$B$BDo you think you might head over there and see what she needs?  I don't want to have to bother Ranger Captain Venn'ren with such trivialities.",
+  "p": "",
+  "c": "Oh, goodness, you must be the help I requested weeks ago from Falcon Watch.$B$BWell, you're here now and there's a lot to be done.  I have just the thing to start you out."
+ },
+ {
+  "id": 10443,
+  "t": "Helping the Cenarion Post",
+  "o": "Amaan the Wise would like for you to offer your services to Thiah Redmane at the Cenarion Post in Hellfire Peninsula.",
+  "d": "The Cenarion Circle has sent an expedition to Outland and, as I understand it, they are here to study what has happened and to help reverse any damage that they can.$B$BThey've setup a little post just to the west on the south side of the road leading to Zangarmarsh.$B$BIf you hit Thornfang Hill, you've gone too far.$B$BWould you please go and see how you might help them?  Speak with Thiah Redmane as she is the one that sent the request to us for assistance.",
+  "p": "",
+  "c": "Oh, goodness, you must be the help that I requested from the Temple of Telhamat.$B$BI'm glad that you're here; there's a lot to be done, and I have just the thing to start you out."
+ },
+ {
+  "id": 10444,
+  "t": "Report to the Allerian Post",
+  "o": "Jenai Starwhisper wants you to report to Lieutenant Meridian at the Allerian Post in Terokkar Forest.",
+  "d": "This calls for immediate action!$B$BWe have someone out in the field closer to Firewing Point that I want you to speak with.  He'll have a better idea of what our next step should be.$B$BReport to Lieutenant Meridian out at the Allerian Post and apprise him of the situation.  You'll find the post to the northeast on the southern bank of the river just south of Firewing Point.$B$BGodspeed, $N.",
+  "p": "",
+  "c": "Bomb parts. So my suspicions were true. That's not something that I wanted to be right about.$B$BOkay, you and I have some grim business ahead of us then."
+ },
+ {
+  "id": 10445,
+  "t": "The Vials of Eternity",
+  "o": "Soridormi at Caverns of Time wants you to retrieve Vashj's Vial Remnant from Lady Vashj at Coilfang Reservoir and Kael's Vial Remnant from Kael'thas Sunstrider at Tempest Keep.",
+  "d": "Seven vials were drawn from the Well of Eternity by Illidan.  He poured three into the lake on top of Mount Hyjal and a second Well of Eternity was created.  For years the rest were believed lost.$B$BWith the opening of the Dark Portal, we've come to know that he gave one each to his lieutenants Kael'thas and Vashj.  Retrieve what remains of them; we will need them as foci to open a gateway to any events tied to Mount Hyjal, recent or ancient.  The outcome of the Battle of Mount Hyjal must be preserved.",
+  "p": "I've asked the impossible of you, yet I expect you to succeed.  Much depends on it.",
+  "c": "I've asked the impossible of you, yet I expect you to succeed. Much depends on it."
+ },
+ {
+  "id": 10446,
+  "t": "The Final Code",
+  "o": "Lieutenant Meridian wants you to use The Final Code to set off the Mana Bomb.  Then report back to Jenai Starwhisper at the Allerian Stronghold in Terokkar Forest.",
+  "d": "They're building a second mana bomb in the courtyard.  My intel suggests that the final code for the bomb is being held by Sharth Voldoun, the overseer of the project at Firewing Point.$B$B$N, you have to go back in there and retrieve the final code from him.  He keeps himself to the top of the highest spire.$B$BTake the final code to the mana bomb that they're working on in the central courtyard and set it off.$B$BOnly then will we be certain that the Allerian Stronghold is safe.",
+  "p": "Lieutenant Meridian has been keeping us apprised of the situation at Firewing Point. Is everything okay?",
+  "c": "YOU DID IT! YOU SAVED US! YOU SAVED THE ALLERIAN STRONGHOLD!!$B$BWith their forces decimated, their leader dead and the mana bomb destroyed, we can all breathe much easier now.$B$B$N, I've never seen such selflessness... such heroism! Please, accept this on behalf of all of us."
+ },
+ {
+  "id": 10447,
+  "t": "The Final Code",
+  "o": "Sergeant Chawni wants you to use the Final Code Sheet to set off the Mana Bomb.  Then report back to Tooki at Stonebreaker Hold in Terokkar Forest.",
+  "d": "They're building a second mana bomb in the courtyard.  My intel suggests that the final code for the bomb is being held by Sharth Voldoun, the overseer of the project at Firewing Point.$B$B$N, you have to go back in there and retrieve the final code from him.  He keeps himself to the top of the highest spire.$B$BTake the final code to the mana bomb that they're working on in the central courtyard and set it off.$B$BOnly then will we be certain that Stonebreaker Hold is safe.",
+  "p": "Sergeant Chawni has been keeping us apprised of the situation at Firewing Point. Is everything okay?",
+  "c": "YOU DID IT! YOU SAVED US! YOU SAVED STONEBREAKER HOLD!!$B$BWith their forces decimated, their leader dead and the mana bomb destroyed, we can all breathe much easier now.$B$B$N, I've never seen such selflessness... such heroism! Please, accept this on behalf of all of us."
+ },
+ {
+  "id": 10448,
+  "t": "Report to Stonebreaker Camp",
+  "o": "Tooki wants you to report to Sergeant Chawni at Stonebreaker Camp in Terokkar Forest.",
+  "d": "This calls for immediate action!$B$BWe have someone out in the field closer to Firewing Point that I want you to speak with.  She'll have a better idea of what our next step should be.$B$BReport to Sergeant Chawni out at Stonebreaker Camp and apprise her of the situation.$B$BTake the road north out of the hold.  From the middle of Tuurem, follow the road to the east.  You'll find the camp on the bank of the river that lies just southwest of Firewing Point.$B$BGood luck, $N.",
+  "p": "",
+  "c": "Bomb parts. So my suspicions were true. That's not something that I wanted to be right about.$B$BOk, you and I have some grim business ahead of us then."
+ },
+ {
+  "id": 10449,
+  "t": "Apothecary Zelana",
+  "o": "Vertok Axebreaker in Thrallmar wants you to bring Bonechewer Blood Samples to Apothecary Zelana at Reaver's Fall.",
+  "d": "Apethecary Zelana has been studying the beasts of Hellfire Peninsula in the field.  She wants a sample of the blood you gathered; with luck, she might discover what turned those Bonechewer freaks' skins red!$B$BZelana is at Reaver's Fall, southeast of Thrallmar.  Follow the road east and when you see a destroyed, green-glowing hunk of metal, you're there.  She has a camp set up behind the wyverns.",
+  "p": "It is my honor to serve the wishes of the Horde.  How might I aid you?",
+  "c": "Ah, yes.  The blood of the Bonechewer clan.  I am very curious about these orcs... they are still the depraved fiends of the past, but their strength and power is greater than what I had heard...$B$BWell, let us begin, shall we?"
+ },
+ {
+  "id": 10451,
+  "t": "Escape from Coilskar Cistern",
+  "o": "Escort Earthmender Wilda out of Coilskar Cistern and then seek out Earthmender Torlok at the Altar of Damnation, found at the western outskirts of the Hand of Gul'dan.",
+  "d": "Thank the Earthmother! I parted ways with the others several days ago. I was intent on discovering the source of the disturbance that the spirits of water were feeling. My search led me to Coilskar where I discovered that the naga were befouling the water supply of Shadowmoon Valley.$B$BUnfortunately, I was discovered and taken prisoner. There's no telling what ghastly things they had in store for me.$B$BWe must leave this place! Help me escape and then seek out Torlok at the Altar of Damnation.$B",
+  "p": "You found sister Wilda?",
+  "c": "Praise the Earthmother. I am certain that Wilda will find her way home. Please accept this as a token of our appreciation."
+ },
+ {
+  "id": 10452,
+  "t": "DON'T USE [PH] Fel Orc 1",
+  "o": "[PH Fel Orc 1.",
+  "d": "[PH Fel Orc 1.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10453,
+  "t": "DON'T USE [PH] Fel Orc bread",
+  "o": "[PH Fel Orc bread",
+  "d": "[PH Fel Orc bread",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10455,
+  "t": "The Encroaching Wilderness",
+  "o": "Slay 12 Grovestalker Lynxes.",
+  "d": "We've been growing the Living Grove at an accelerated rate, but somehow the lynxes there have become lost to our control.$B$BWhere once their population was stable, the grovestalker lynxes are now beginning to encroach upon Sylvanaar, and there have been a number of unpleasant incidents of late.$B$BI suspect that the arakkoa of Veil Lashh are somehow behind it, but the immediate issue is with the lynxes themselves.$B$BI would be most grateful if you would help us to deal with this situation.",
+  "p": "Did I not speak the truth? The grovestalker lynxes have become a menace not only to those who would travel the path here, but also to Sylvanaar itself.$B$BTheir deaths are regrettable, but the whole point of our creation of the Living Grove is so that Sylvanaar can be surrounded by a defensive region of natural beauty and tranquility.",
+  "c": "That was fast. Are you sure that you dealt with as many as was necessary?$B$BExcellent, there's something else that you can help us with if you are willing?"
+ },
+ {
+  "id": 10456,
+  "t": "Marauding Wolves",
+  "o": "Collect 4 Thunderlord Dire Wolf Tails.",
+  "d": "The filthy races of the Horde have taken over a settlement to the east.  They've brought with them a large pack of the dire wolves that they prefer to use as mounts and sentries.$B$BThese sentries have been marauding across the bridge that separates us.  They've been stalking our fey drakes, which are critical to the pollination of the Living Grove.$B$BUse the east exit to traverse the bridge over Bloodmaul Ravine that leads to the Jagged Ridge to the east, and bring me their tails as proof!",
+  "p": "I cannot stress strongly enough the need for those Thunderlord dire wolves to be dealt with. Their very existence endangers the stability of the Living Grove and all of our work here.",
+  "c": "Good. I'll see if I can fashion something useful from these tails.$B$BNo doubt that the Horde will find a way to replenish the numbers of their wolf pack, but for now we can breathe a little easier.$B$B$N, if you are willing there's something else that I would ask of you in defense of Sylvanaar and the Living Grove."
+ },
+ {
+  "id": 10457,
+  "t": "Protecting Our Own",
+  "o": "Use Rina's Bough on 5 of the Grove Seedlings to summon forth defenses for the Living Grove.",
+  "d": "Though you've done a great deal of good work in defense of our new home here, I still feel that the Living Grove needs more protection.$B$BPlease, take this small tree bough that I have imbued with the force of nature.  When used upon the seedlings that I have planted out in the grove, it will call down a storm to accelerate the growth of a treant defender.$B$BThese treants are critical to the defense of the grove, especially if you choose not to make Sylvanaar your home for long.",
+  "p": "How fares the bolstering of the Living Grove's defenses?$B$BWith the intentions of the arakkoa at Veil Lessh unknown, and the Horde just on the other side of the ravine, I fear that if we do not move quickly we will find ourselves in a poor situation to protect our new home and our work in the grove.",
+  "c": "Now that you have strengthened the grove's defenses, I feel much safer.$B$BYou've earned our thanks and appreciation, $N.$B$BOf course, it just occurred to me that there's something else that we need to take care of!"
+ },
+ {
+  "id": 10458,
+  "t": "Enraged Spirits of Fire and Earth",
+  "o": "Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley wants you to use the Totem of Spirits to capture 8 Earthen Souls and 8 Fiery Souls.",
+  "d": "We must try and make amends. We must commune with the elements of this region and see if anything can be done!$B$BI grant you the totem of spirits, $r. If you slay an enraged elemental spirit in close proximity of the totem, it will consume the elemental's soul. You must use the totem to consume many souls before you may return to me.$B$BDo this for the spirits of fire and earth first. Return to me when the totem is full.",
+  "p": "I fear that this land may be without hope.",
+  "c": "When all of the elemental souls of this region have been placed inside the totem, we will commune with them and find out if anything can be done for Shadowmoon Valley."
+ },
+ {
+  "id": 10459,
+  "t": "Revered Among the Cenarion Expedition",
+  "o": "Ysiel Windsinger at the Cenarion Refuge wants you to become revered with the Cenarion Expedition.",
+  "d": "We've taken notice of your accomplishments, $N.  What you've done for us goes beyond what we expect from our allies.$B$BI've a special request to ask of you, but I must test your dedication first.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10460,
+  "t": "Defender's Pledge",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you sure this is the path you seek to take, $N? This is not a decision you ought to take lightly.$B$BThis ring is imbued with a droplet from the Well of Eternity. It will grow in power as you prove yourself to the Scale of the Sands."
+ },
+ {
+  "id": 10461,
+  "t": "Restorer's Pledge",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you sure this is the path you seek to take,$N? This is not a decision you ought to take lightly.$B$BThis ring is imbued with a droplet from the Well of Eternity. It will grow IN power as you prove yourself to the Scale of the Sands."
+ },
+ {
+  "id": 10462,
+  "t": "Champion's Pledge",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you sure this is the path you seek to take, $N? This is not a decision you ought to take lightly.$B$BThis ring is imbued with a droplet from the Well of Eternity. It will grow in power as you prove yourself to the Scale of the Sands."
+ },
+ {
+  "id": 10463,
+  "t": "Sage's Pledge",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you sure this is the path you seek to take, $N? This is not a decision you ought to take lightly.$B$BThis ring is imbued with a droplet from the Well of Eternity. It will grow in power as you prove yourself to the Scale of the Sands."
+ },
+ {
+  "id": 10464,
+  "t": "Sage's Vow",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Honored reputation with the Scale of the Sands.",
+  "d": "You've made your pledge, $c.  Now it is up to you to see it through.$B$BServe the Scale of the Sands well and you will be rewarded.$B$BFail and the timeline as we know it will be unravelled!",
+  "p": "You continue to serve us well, $N.",
+  "c": "You've proved your worth, $r. Up to a certain point, at least.$B$BThe favor of Nozdormu's prime mate is not obtained easily."
+ },
+ {
+  "id": 10465,
+  "t": "Restorer's Vow",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Honored reputation with the Scale of the Sands.",
+  "d": "You've made your pledge, $c.  Now it is up to you to see it through.$B$BServe the Scale of the Sands well and you will be rewarded.  Fail and the timeline as we know it will be unravelled!",
+  "p": "You continue to serve us well, $N.",
+  "c": "You've proved your worth, $r. Up to a certain point, at least.$B$BThe favor of Nozdormu's prime mate is not obtained easily."
+ },
+ {
+  "id": 10466,
+  "t": "Champion's Vow",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Honored reputation with the Scale of the Sands.",
+  "d": "You've made your pledge, $c.  Now it is up to you to see it through.$B$BServe the Scale of the Sands well and you will be rewarded.  Fail and the timeline as we know it will be unravelled!",
+  "p": "You continue to serve us well, $N.",
+  "c": "You've proved your worth, $r. Up to a certain point, at least.$B$BThe favor of Nozdormu's prime mate is not obtained easily."
+ },
+ {
+  "id": 10467,
+  "t": "Defender's Vow",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Honored reputation with the Scale of the Sands.",
+  "d": "You've made your pledge, $c.  Now it is up to you to see it through.$B$BServe the Scale of the Sands well and you will be rewarded.  Fail and the timeline as we know it will be unravelled!",
+  "p": "You continue to serve us well, $N.",
+  "c": "You've proved your worth. $R. Up to a certain point. at least.$B$BThe favor of Nozdormu's prime mate is not obtained quickly."
+ },
+ {
+  "id": 10468,
+  "t": "Sage's Oath",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Revered reputation with the Scale of the Sands.",
+  "d": "You've carried out the promise you made to us, $N.  And for that you've gained the recognition you deserve.$B$BAs you continue to become attuned with past events surrounding mount Hyjal, I can continue to tap into the power contained in your ring.  It won't be long until it has reached its full potential.",
+  "p": "You've returned. You wish to speak to me?",
+  "c": "You are a worthy ally indeed. As you grow in power so does the band of eternity!"
+ },
+ {
+  "id": 10469,
+  "t": "Restorer's Oath",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Revered reputation with the Scale of the Sands.",
+  "d": "You've carried out the promise you made to us, $N.  And for that you've gained the recognition you deserve.$B$BAs you continue to become attuned with past events surrounding mount Hyjal, I can continue to tap into the power contained in your ring.  It won't be long until it has reached its full potential.",
+  "p": "You've returned. You wish to speak to me?",
+  "c": "You are a worthy ally indeed. As you grow in power so does the band of eternity!"
+ },
+ {
+  "id": 10470,
+  "t": "Champion's Oath",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Revered reputation with the Scale of the Sands.",
+  "d": "You've carried out the promise you made to us, $N.  And for that you've gained the recognition you deserve.$B$BAs you continue to become attuned with past events surrounding mount Hyjal, I can continue to tap into the power contained in your ring.  It won't be long until it has reached its full potential.",
+  "p": "You've returned. You wish to speak to me?",
+  "c": "You are a worthy ally indeed. As you grow in power so does the band of eternity!"
+ },
+ {
+  "id": 10471,
+  "t": "Defender's Oath",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Revered reputation with the Scale of the Sands.",
+  "d": "You've carried out the promise you made to us, $N.  And for that you've gained the recognition you deserve.$B$BAs you continue to become attuned with past events surrounding mount Hyjal, I can continue to tap into the power contained in your ring.  It won't be long until it has reached its full potential.",
+  "p": "You have returned. You wish to speak to me?",
+  "c": "You are a worthy ally indeed. As you grow in power so does the band of eternity!"
+ },
+ {
+  "id": 10472,
+  "t": "Sage's Covenant",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Exalted reputation with the Scale of the Sands.",
+  "d": "Your accomplishments have gone beyond my greatest expectations, $N.$B$BYou step in and out of time as comfortably as any bronze dragon I've known.  You are destined for great power and I am more than pleased to help you on your way there.$B$BContinue to serve the Scale of the Sands and I will unleash your gift's full potential.",
+  "p": "May time always be on your side, $N.",
+  "c": "You are one with time, $N. You are one with us.$B$BBehold! Power beyond mortal understanding is unleashed from even that small remnant of the Well of Eternity.$B$BAccept this gift so that all may know of your covenant with the Scale of the Sands.... so that all may know of your covenant with time itself!"
+ },
+ {
+  "id": 10473,
+  "t": "Restorer's Covenant",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Exalted reputation with the Scale of the Sands.",
+  "d": "Your accomplishments have gone beyond my greatest expectations, $N.$B$BYou step in and out of time as comfortably as any bronze dragon I've known.  You are destined for great power and I am more than pleased to help you on your way there.$B$BContinue to serve the Scale of the Sands and I will unleash your gift's full potential.",
+  "p": "May time always be on your side, $N.",
+  "c": "You are one with time, $N. You are one with us.$B$BBehold! Power beyond mortal understanding is unleashed from even that small remnant of the Well of Eternity.$B$BAccept this gift so that all may know of your covenant with the Scale of the Sands.... so that all may know of your covenant with time itself!"
+ },
+ {
+  "id": 10474,
+  "t": "Champion's Covenant",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Exalted reputation with the Scale of the Sands.",
+  "d": "Your accomplishments have gone beyond my greatest expectations, $N.$B$BYou step in and out of time as comfortably as any bronze dragon I've known.  You are destined for great power and I am more than pleased to help you on your way there.$B$BContinue to serve the Scale of the Sands and I will unleash your gift's full potential.",
+  "p": "May time always be on your side, $N.",
+  "c": "You are one with time, $N. You are one with us.$B$BBehold! Power beyond mortal understanding is unleashed from even that small remnant of the Well of Eternity.$B$BAccept this gift so that all may know of your covenant with the Scale of the Sands.... so that all may know of your covenant with time itself!"
+ },
+ {
+  "id": 10475,
+  "t": "Defender's Covenant",
+  "o": "Bring your Band of Eternity to Soridormi at the Caverns of Time after obtaining Exalted reputation with the Scale of the Sands.",
+  "d": "Your accomplishments have gone beyond my greatest expectations, $N.$B$BYou step in and out of time as comfortably as any bronze dragon I've known.  You are destined for great power and I am more than pleased to help you on your way there.$B$BContinue to serve the Scale of the Sands and I will unleash your gift's full potential.",
+  "p": "May time always be on your side, $N.",
+  "c": "You are one with time, $N. You are one with us.$B$BBehold! Power beyond mortal understanding is unleashed from even that small remnant of the Well of Eternity.$B$BAccept this gift so that all may know of your covenant with the Scale of the Sands.... so that all may know of your covenant with time itself!"
+ },
+ {
+  "id": 10476,
+  "t": "Fierce Enemies",
+  "o": "Warden Moi'bff Jill at Telaar wants you to obtain 10 Obsidian Warbeads from the various ogres that inhabit Nagrand.",
+  "d": "If you seek to prove your loyalty to us, there is no better way than to fight against our enemies.$B$BOf these, there are none that can match the ogres in strength and fierceness.  Bring me the warbeads they wear around their necks as proof of their demise and I'll let the others know of your prowess.",
+  "p": "Well, $N?  Are you all talk or do you have something to show me?",
+  "c": "You're starting to prove your worth as an ally and combatant.  Keep up the good work."
+ },
+ {
+  "id": 10477,
+  "t": "More Warbeads",
+  "o": "",
+  "d": "",
+  "p": "Do you bear any additional obsidian warbeads, $n?",
+  "c": "You continue to prove your worth to us, $N. May your strength never fail you."
+ },
+ {
+  "id": 10478,
+  "t": "More Warbeads!",
+  "o": "",
+  "d": "",
+  "p": "Have you obtained more warbeads, $N?",
+  "c": "You continue to prove your strength and honor, $N."
+ },
+ {
+  "id": 10479,
+  "t": "Proving Your Strength",
+  "o": "Warden Bullrok at Garadar wants you to obtain 10 Obsidian Warbeads from the various ogres that inhabit Nagrand.",
+  "d": "Though we seek a peaceful life, our enemies are many.  Of these, none match the ogres in sheer brute power.$B$BIf you seek to prove your prowess to us, bring me the warbeads they wear around their necks.  I will tell others of your accomplishments.",
+  "p": "You have something to show me, $N?",
+  "c": "You are a strong ally indeed, $N.  Going head to head against the ogres of Outland is not something that just anyone can do."
+ },
+ {
+  "id": 10480,
+  "t": "Enraged Spirits of Water",
+  "o": "Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley wants you to use the Totem of Spirits to capture 5 Watery Souls.$B",
+  "d": "The Illidari naga of the region have taken control of the only clean water supply that exists in Shadowmoon Valley.$B$BDirectly north of here you will find the lair of the naga: Coilskar. Around Coilskar are pockets of agitated water that howl to the land in anguish. It is at those pockets that the enraged spirits of water now wander.$B$BTravel to Coilskar and use the totem of spirits to capture watery souls. You will find the largest concentration of these spirits near Coilskar Cistern.$B",
+  "p": "Wherever you find naga you will almost certainly find tortured water spirits.",
+  "c": "Only air remains, $N."
+ },
+ {
+  "id": 10481,
+  "t": "Enraged Spirits of Air",
+  "o": "Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley wants you to use the Totem of Spirits to capture 10 Airy Souls.",
+  "d": "Venture southeast, hero. When you see fields of gigantic blue crystals jutting out from the land, you will have reached your destination. It is there, at the Netherwing Fields, that you will find the enraged spirits of air. They roam the cliffs and mountain bases that surround the fields.$B$BDestroy their tortured forms and capture their souls with the totem of spirits. Return to me when this is done.",
+  "p": "Soon, we will speak with the spirits.",
+  "c": "Allow me to reward you for undertaking such an arduous task, hero.$B$BNow, we must get to work! Please stand back so that I may place the totem and unleash the souls."
+ },
+ {
+  "id": 10482,
+  "t": "Fel Orc Scavengers",
+  "o": "Kill 20 Bonechewer Orcs and return to Amadi in Honor Hold.",
+  "d": "Scavengers, orcs of the Bonechewer clan, skulk about the ruined battlements overlooking the Path of Glory.  We must assume that these fel orcs are gathering war machine parts for their masters within Hellfire Citadel -- they must be stopped!$B$BFind Bonechewer orcs to the north, $n.  Find them and slay them!  But use caution, for although these orcs are the lesser of the fel orc clans, their strength is the match of any green-skinned orc we've faced thus far...",
+  "p": "The Bonechewers appear in large numbers, $N. Slay them or the fel orcs may overrun us!",
+  "c": "Very good.  I'm sure their loss will be felt in Hellfire Citadel.  Although that dark bastion looms over us and seems nigh insurmountable, it is only with bold moves like you have made that we will find victory over the fel orcs!"
+ },
+ {
+  "id": 10483,
+  "t": "Ill Omens",
+  "o": "Lieutenant Amadi in Honor Hold wants you to bring 1 Cursed Talisman to Corporal Ironridge at Expedition Point.",
+  "d": "$n, in our battles with the Bleeding Hollow clan of fel orcs, we have found upon them foreboding trinkets.  These orcs have collected the insignias of fallen Honor Hold soldiers and created cursed talismans from them.  We fear the dark magic of the Bleeding Hollow orcs have transformed our insignias into evil charms with powers against us!$B$BFind such a talisman from the Bleeding Hollow orcs of Zeth'Gor, to the east, and bring it to Corporal Ironridge at Expedition Point, northeast of Zeth'Gor.",
+  "p": "Reporting from Honor Hold, $n?  That's good -- our campaign against the demons and the fel orcs is running thin on able bodies!",
+  "c": "Ah, you recovered an insignia from the Bleeding Hollow orcs?  Good -- it is outrageous that they use our own symbols against us, and mock our comrades who've fallen to those red-skinned beasts!"
+ },
+ {
+  "id": 10484,
+  "t": "Cursed Talismans",
+  "o": "Bring 12 Cursed Talismans to Corporal Ironridge at Expedition Point.",
+  "d": "$n, we cannot allow the Bleeding Hollow orcs to possess their cursed talismans!  You must acquire them for us so they may be disposed of, and so the soldiers who owned them may be honored for their sacrifices.$B$BGo to Zeth'Gor, the cursed abode of the Bleeding Hollow, and perform your grim task... return to me when you have collected the talismans.",
+  "p": "Do you have the talismans, $N?  It pains me to know that those cursed orcs possess our soldiers insignias...",
+  "c": "Thank you, $N.  My heart is saddened to see these talismans -- they underline the great losses we of Honor Hold have suffered against the fel orcs.  But I am heartened to see you successful against them.  If we can kill enough, perhaps we might emerge from this war victorious."
+ },
+ {
+  "id": 10485,
+  "t": "Warlord of the Bleeding Hollow",
+  "o": "Bring Warlord Morkh's Shattered Armor to Corporal Ironridge in Expedition Point.",
+  "d": "You have shown great strength and fortune, for you have delved into Zeth'Gor and lived!  Now, let us hope your fortune holds, for I have a dire task to ask of you...$B$BWarlord Morkh sits within the barracks of Zeth'Gor, commanding his fel troops against us.  His tactics are as clever as they are cruel, and I must admit that his successes against us have cut deep.  And so, $n, I ask you to remove Morkh from his seat.  Bring me his armor so that we might display it for our soldiers and bolster them.",
+  "p": "Do you have Morkh's shattered armor?  Have you braved Zeth'Gor again?",
+  "c": "You've done it!  Morkh is slain!  Now, we have a fighting chance against the fel orc beasts!$B$BThank you, $N.  Your aid to the war effort here is beyond measure."
+ },
+ {
+  "id": 10486,
+  "t": "The Encroaching Wilderness",
+  "o": "Slay 12 Bladewing Bloodletters.",
+  "d": "The Thunderlord were once a proud orc clan before they were transformed into fel orcs through the blood of Mannoroth.$B$BRecently we recovered this orc stronghold from the ogres that infest the ravine below.  They had moved in when the Thunderlord clan abandoned it.$B$BWe will keep this place and I will have your help doing so.$B$BIn the Jagged Ridge to the south and the west, there are bloodletters that have become like a plague upon us.  They eat and breed incessantly.$B$BKill them and then return to me.",
+  "p": "Our survival here depends upon our ability to concentrate our efforts against those that truly matter, not the mere bladewing bloodletters.$B$BYou are here again, so this must mean that you have dealt with the matter at hand?",
+  "c": "That didn't take as long as I thought it would. Are you sure that you dealt with as many as was necessary?$B$BVery well, there's something else that I want you to help us with. Something far more important."
+ }
+]

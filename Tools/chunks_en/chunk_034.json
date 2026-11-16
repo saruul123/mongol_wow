@@ -1,0 +1,962 @@
+[
+ {
+  "id": 9032,
+  "t": "Bodley's Unfortunate Fate",
+  "o": "Travel to Blackrock Mountain and use the Extra-Dimensional Ghost Revealer to find Bodley near Blackrock Spire.",
+  "d": "The medallion contained Valthalak's soul?  It's no surprise it was guarded by such a powerful curse.$B$BLocating Bodley presents a bit of a problem.  Last time I heard of him, he was preparing to venture back into Blackrock Spire.  He was never heard of again.$B$BSeek him out in Blackrock Mountain, though I'm afraid to say he's probably dead by now.  I suggest taking the goblin's device with you, friend.",
+  "p": "",
+  "c": "I am so glad that you can see me. Finally someone to talk to!$B$BWill you help us, $N? Help to undo the wrong that we perpetrated and put things to right? If it's true that you already have the Top Piece of Lord Valthalak's Amulet, then I think I can point you in the right direction to acquire the other two parts, reunite them and put an end to all of this.$B$BOh, by the way, hello, my name is Bodley. Nice to meet you!"
+ },
+ {
+  "id": 9033,
+  "t": "Echoes of War",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands wants you to slay 5 Living Monstrosities, 5 Stoneskin Gargoyles, 8 Deathknight Captains and 3 Venom Stalkers.",
+  "d": "Five years since the last war...$B$BTens of thousands of lives were lost and for what? The threat was never fully extinguished.$B$BAnd so the Lich King stirs once more... His yes-man, Kel'Thuzad, amassing for another attack upon our lands.$B$BWe will not allow it! Prove your dedication. Prove that you are willing to risk life and limb to stop this madness and the combined might of the Dawn and the Crusade will be at your beck and call.$B$BEnter Naxxramas and destroy the Scourge within...",
+  "p": "Duty, honor, dedication... What do these words mean to you?",
+  "c": "A job well done! You will be rewarded via the services of the men and women at Light's Hope."
+ },
+ {
+  "id": 9034,
+  "t": "Dreadnaught Breastplate",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Breastplate if you bring him the following items: 1 Desecrated Breastplate, 25 Wartorn Plate Scraps, 4 Arcanite Bars and 2 Nexus Crystals.$B",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Breastplate."
+ },
+ {
+  "id": 9036,
+  "t": "Dreadnaught Legplates",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Legplates if you bring him the following items: 1 Desecrated Legplates, 20 Wartorn Plate Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Legplates."
+ },
+ {
+  "id": 9037,
+  "t": "Dreadnaught Helmet",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Helmet if you bring him the following items: 1 Desecrated Helmet, 15 Wartorn Plate Scraps, 5 Arcanite Bars and 1 Nexus Crystal.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Helmet."
+ },
+ {
+  "id": 9038,
+  "t": "Dreadnaught Pauldrons",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Pauldrons if you bring him the following items: 1 Desecrated Pauldrons, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Pauldrons."
+ },
+ {
+  "id": 9039,
+  "t": "Dreadnaught Sabatons",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Sabatons if you bring him the following items: 1 Desecrated Sabatons, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.$B",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Sabatons."
+ },
+ {
+  "id": 9040,
+  "t": "Dreadnaught Gauntlets",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Gauntlets if you bring him the following items: 1 Desecrated Gauntlets, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Gauntlets."
+ },
+ {
+  "id": 9041,
+  "t": "Dreadnaught Waistguard",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Waistguard if you bring him the following items: 1 Desecrated Waistguard, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Waistguard."
+ },
+ {
+  "id": 9042,
+  "t": "Dreadnaught Bracers",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Bracers if you bring him the following items: 1 Desecrated Bracers, 6 Wartorn Plate Scraps, 1 Arcanite Bar and 1 Nexus Crystal.",
+  "d": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Dreadnaught Bracers."
+ },
+ {
+  "id": 9043,
+  "t": "Redemption Tunic",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Plate Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Tunic."
+ },
+ {
+  "id": 9044,
+  "t": "Redemption Legguards",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a pair of Redemption Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Plate Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Legguards."
+ },
+ {
+  "id": 9045,
+  "t": "Redemption Headpiece",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Plate Scraps, 5 Arcanite Bars and 2 Cured Rugged Hides.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "<Eligor points to his head.>$B$BKeep it covered, $c."
+ },
+ {
+  "id": 9046,
+  "t": "Redemption Spaulders",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a pair of Redemption Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 2 Nexus Crystals.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Spaulders."
+ },
+ {
+  "id": 9047,
+  "t": "Redemption Boots",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Boots."
+ },
+ {
+  "id": 9048,
+  "t": "Redemption Handguards",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Handguards."
+ },
+ {
+  "id": 9049,
+  "t": "Redemption Girdle",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all! ",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Girdle."
+ },
+ {
+  "id": 9050,
+  "t": "Redemption Wristguards",
+  "o": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Plate Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.",
+  "d": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Redemption Wristguards."
+ },
+ {
+  "id": 9051,
+  "t": "Toxic Test",
+  "o": "Stab a Devilsaur with the Devilsaur Barb. Return to Torwa Pathfinder in Un'Goro Crater when you have completed this task.",
+  "d": "The toxin you helped me create is for a special purpose.  The great devilsaurs of the crater make it dangerous to hunt and difficult for me to survive.  Even if I possessed the necessary strength, killing a devilsaur simply allows another to move into its territory.$b$bTake this poisoned barb and stab it deep into a living devilsaur.  The toxin should pacify the creature, though I do not know how quickly...",
+  "p": "Were you able to pacify the great beast?",
+  "c": "Thank you, $N.  You are brave and wise.$B$BTell me, how did the devilsaur react to the toxin?"
+ },
+ {
+  "id": 9052,
+  "t": "Bloodpetal Poison",
+  "o": "Collect 8 Bloodcap and 8 Gorishi Stings, and return to Torwa Pathfinder in Un'Goro Crater.",
+  "d": "I would ask you to help me create a toxin of sorts, to pacify a great creature living here in the crater.  It is not deadly, and only the keen eyes of a $c can hope to collect the ingredients.$b$bYou can find the bloodcap mushrooms growing within the bloodpetal sprouts all across the crater.  Gorishi stings are from the insects inside and around the Slithering Scar, located in the southern part of the crater.",
+  "p": "Have you met with success?",
+  "c": "The ingredients at last!$B$BWith the Un'Goro soil I have collected, the toxin is easily concocted..."
+ },
+ {
+  "id": 9053,
+  "t": "A Better Ingredient",
+  "o": "Retrieve a Putrid Vine from the guardian at the bottom of the Sunken Temple and return to Torwa Pathfinder.",
+  "d": "It is as I feared -- the toxin is simply too weak for such a powerful creature.$b$bIf we are to create a toxin of high enough potency, you must venture to the bottom of the Temple of Atal'Hakkar, unlock the secrets of the altar and recover a putrid vine from the guardian there.  The temple is dangerous, and it would behoove you to bring friends.$b$bReturn to me when this is done.",
+  "p": "Have you recovered the vine?",
+  "c": "At last, the toxin can be created in full. I dare not require you to inflict it upon the creature again, as I have asked too much already.$B$BYou have my thanks and respect. May you be well in your travels, $N."
+ },
+ {
+  "id": 9054,
+  "t": "Cryptstalker Tunic",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Chain Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Tunic."
+ },
+ {
+  "id": 9055,
+  "t": "Cryptstalker Legguards",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Chain Scraps, 3 Arcanite Bars and 5 Cured Rugged Hides.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Legguards."
+ },
+ {
+  "id": 9056,
+  "t": "Cryptstalker Headpiece",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Chain Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Headpiece."
+ },
+ {
+  "id": 9057,
+  "t": "Cryptstalker Spaulders",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Chain Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Spaulders."
+ },
+ {
+  "id": 9058,
+  "t": "Cryptstalker Boots",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Boots."
+ },
+ {
+  "id": 9059,
+  "t": "Cryptstalker Handguards",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Handguards."
+ },
+ {
+  "id": 9060,
+  "t": "Cryptstalker Girdle",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.$B",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Girdle."
+ },
+ {
+  "id": 9061,
+  "t": "Cryptstalker Wristguards",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Chain Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.",
+  "d": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.$B$BBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Cryptstalker Wristguards."
+ },
+ {
+  "id": 9063,
+  "t": "Torwa Pathfinder",
+  "o": "Speak with Torwa Pathfinder in Un'Goro Crater.",
+  "d": "A hunter by the name of Torwa Pathfinder has requested the help of a druid.  He said only we would possess the necessary skills and respect for nature to help him.$b$bThere is a road that connects the Un'Goro Crater and the desert of Tanaris.  As that road enters the crater, you will find Torwa close by.",
+  "p": "",
+  "c": "You have traveled far to meet with me, $c, and not a moment too soon."
+ },
+ {
+  "id": 9065,
+  "t": "The Pattymac Special",
+  "o": "Make sure you destroy that tower!",
+  "d": "Hey you, knock down that tower!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9068,
+  "t": "Earthshatter Tunic",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Chain Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Tunic."
+ },
+ {
+  "id": 9069,
+  "t": "Earthshatter Legguards",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Chain Scraps, 3 Arcanite Bars and 5 Cured Rugged Hides.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Legguards."
+ },
+ {
+  "id": 9070,
+  "t": "Earthshatter Headpiece",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Chain Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Headpiece."
+ },
+ {
+  "id": 9071,
+  "t": "Earthshatter Spaulders",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Chain Scraps, 2 Arcanite Bars and 2 Mooncloth.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Spaulders."
+ },
+ {
+  "id": 9072,
+  "t": "Earthshatter Boots",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Boots."
+ },
+ {
+  "id": 9073,
+  "t": "Earthshatter Handguards",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "Have you brought me that which I require?",
+  "c": "These handguards channel the power of the elements!"
+ },
+ {
+  "id": 9074,
+  "t": "Earthshatter Girdle",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Earthshatter Girdle."
+ },
+ {
+  "id": 9075,
+  "t": "Earthshatter Wristguards",
+  "o": "Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Chain Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.$B",
+  "d": "Would you honor me by returning the armor of those that fell in the defense of these lands?$B$BThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.$B$BBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.$B$BSearch Naxxramas.",
+  "p": "Have you brought me that which I require?",
+  "c": "The wristguards are ready, $N.$B$B<Rimblat bows.>"
+ },
+ {
+  "id": 9076,
+  "t": "Wretched Ringleader",
+  "o": "Bring Aldaron's Head to Velendris Whitemorn near Sunsail Anchorage in Eversong Woods.",
+  "d": "The Wretched are so oblivious, gorging on foul magic, that they haven't realized we've recovered most of our weapons.  We can't expect them to remain in their stupor, though.  Now is the time for a decisive attack.  Let us make an example of their leader, Aldaron.  He was spotted on the top floor of the building by the anchorage.  Bring me his head; I'll reward you suitably.",
+  "p": "Well, do you have his head or not?  I've no time to waste, $N.",
+  "c": "You defeated him after all!  Undoubtedly my men softened him up for you.$B$BI jest, $c.  You've done well.  You'll make a name for yourself if you keep your nose clean."
+ },
+ {
+  "id": 9077,
+  "t": "Bonescythe Breastplate",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Breastplate if you bring him the following: 1 Desecrated Breastplate, 25 Wartorn Leather Scraps, 2 Arcanite Bars and 6 Cured Rugged Hides.",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B,you got everything just as i asked and now i can make a Bonescythe Breastplate."
+ },
+ {
+  "id": 9078,
+  "t": "Bonescythe Legplates",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Legplates if you bring him the following: 1 Desecrated Legplates, 20 Wartorn Leather Scraps, 1 Arcanite Bar, 8 Cured Rugged Hides and 100 gold pieces.",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "<Rohan laughs.>$B$BI just realized the irony in all of this.",
+  "c": "Be careful walking around in those things. You might cut yourself."
+ },
+ {
+  "id": 9079,
+  "t": "Bonescythe Helmet",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Helmet if you bring him the following: 1 Desecrated Helmet, 15 Wartorn Leather Scraps, 8 Cured Rugged Hides, 1 Nexus Crystal and 75 gold pieces.$B",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B,you got everything just as i asked and now i can make a Bonescythe Helmet."
+ },
+ {
+  "id": 9080,
+  "t": "Bonescythe Pauldrons",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Pauldrons if you bring him the following: 1 Desecrated Pauldrons, 12 Wartorn Leather Scraps, 5 Cured Rugged Hides, 1 Nexus Crystal and 50 gold pieces. ",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "<Rohan eyes you suspiciously.>$B$BBeen to Tyr's Hand lately?",
+  "c": "<Rohan wipes the sweat from his brow.>$B$BThese shoulders took some work! Don't go out and get yourself killed like a scrub, $N."
+ },
+ {
+  "id": 9081,
+  "t": "Bonescythe Sabatons",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Sabatons if you bring him the following: 1 Desecrated Sabatons, 12 Wartorn Leather Scraps, 3 Cured Rugged Hides, 2 Nexus Crystals and 25 gold pieces. ",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "Just bring me the materials and stop wasting my time, $C.",
+  "c": "They go on your feet. Say, you haven't been nosing around in Tyr's Hand again, have you?"
+ },
+ {
+  "id": 9082,
+  "t": "Bonescythe Gauntlets",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Gauntlets if you bring him the following: 1 Desecrated Gauntlets, 8 Wartorn Leather Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides. ",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "How do you expect me to get anything done without the items I requested?",
+  "c": "These gauntlets could probably substitute as weapons if absolutely necessary. Wear them with pride!"
+ },
+ {
+  "id": 9083,
+  "t": "Bonescythe Waistguard",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Waistguard if you bring him the following: 1 Desecrated Waistguard, 8 Wartorn Leather Scraps, 5 Cured Rugged Hides, 1 Nexus Crystal and 15 gold pieces.",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "How do you expect me to get anything done without the items I requested?",
+  "c": "The belt is ready, $N. Have you ever seen such a high-quality item sold for so little?"
+ },
+ {
+  "id": 9084,
+  "t": "Bonescythe Bracers",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Bracers if you bring him the following: 1 Desecrated Bracers, 6 Wartorn Leather Scraps, 1 Arcanite Bar, 2 Cured Rugged Hides and 10 gold pieces.",
+  "d": "If you want Bonescythe made, you're going to have to supply the materials.$B$BEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "p": "How do you expect me to get anything done without the items I requested?",
+  "c": "The bracers are ready, $N.$B$B<Rohan bows.>"
+ },
+ {
+  "id": 9085,
+  "t": "Shadows of Doom",
+  "o": "Go to a summoning circle and kill a Shadow of Doom, then return to Commander Thomas Helleran at Light's Hope Chapel in Eastern Plaguelands.",
+  "d": "After you bring down the defenses of the Scourge summoning circles, you must confront the acolytes who protect them.$b$bIn truth, these are not men. They are shadows, some of the Lich King's most frightening creatures. They can be revealed using the necrotic runes they carry, and then destroyed with magic or strength of arms.",
+  "p": "Have you had any luck, $N?",
+  "c": "Excellent work, $N. With the shadows destroyed, our hope of victory against the Lich King survives."
+ },
+ {
+  "id": 9086,
+  "t": "Dreamwalker Tunic",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Tunic if you bring her the following: 1 Desecrated Tunic, 25 Wartorn Leather Scraps, 6 Cured Rugged Hides and 2 Nexus Crystals.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Tunic is ready, $N."
+ },
+ {
+  "id": 9087,
+  "t": "Dreamwalker Legguards",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Legguards if you bring her the following: 1 Desecrated Legguards, 20 Wartorn Leather Scraps, 8 Cured Rugged Hides and 1 Nexus Crystal.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "As promised, Dreamwalker Legguards.$B$B<Rayne hands you the armor.>"
+ },
+ {
+  "id": 9088,
+  "t": "Dreamwalker Headpiece",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Headpiece if you bring her the following: 1 Desecrated Headpiece, 15 Wartorn Leather Scraps, 6 Cured Rugged Hides and 2 Nexus Crystals.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Headpiece is ready, $N."
+ },
+ {
+  "id": 9089,
+  "t": "Dreamwalker Spaulders",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Spaulders if you bring her the following: 1 Desecrated Spaulders, 12 Wartorn Leather Scraps, 5 Cured Rugged Hides and 1 Nexus Crystal.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Spaulders are ready, $N."
+ },
+ {
+  "id": 9090,
+  "t": "Dreamwalker Boots",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Boots if you bring her the following: 1 Desecrated Boots, 12 Wartorn Leather Scraps, 3 Mooncloth and 2 Cured Rugged Hides.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Boots are ready, $N."
+ },
+ {
+  "id": 9091,
+  "t": "Dreamwalker Handguards",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Handguards if you bring her the following: 1 Desecrated Handguards, 8 Wartorn Leather Scraps, 5 Cured Rugged Hides and 1 Nexus Crystal.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Handguards are ready, $N."
+ },
+ {
+  "id": 9092,
+  "t": "Dreamwalker Girdle",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Girdle if you bring her the following: 1 Desecrated Girdle, 8 Wartorn Leather Scraps, 3 Mooncloth and 2 Cured Rugged Hides.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Girdle is ready, $N."
+ },
+ {
+  "id": 9093,
+  "t": "Dreamwalker Wristguards",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Wristguards if you bring her the following: 1 Desecrated Wristguards, 6 Wartorn Leather Scraps, 1 Arcane Crystal and 2 Cured Rugged Hides.",
+  "d": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.$B$BRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "p": "The material cost is high, but soon forgotten.",
+  "c": "Your Dreamwalker Wristguards are ready, $N."
+ },
+ {
+  "id": 9095,
+  "t": "Frostfire Robe",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Robe if you bring her the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "ou got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Robe."
+ },
+ {
+  "id": 9096,
+  "t": "Frostfire Leggings",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Leggings if you bring her the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Leggings."
+ },
+ {
+  "id": 9097,
+  "t": "Frostfire Circlet",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Circlet if you bring her the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Circlet."
+ },
+ {
+  "id": 9098,
+  "t": "Frostfire Shoulderpads",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Shoulderpads if you bring her the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.$B",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Shoulderpads."
+ },
+ {
+  "id": 9099,
+  "t": "Frostfire Sandals",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Sandals if you bring her the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Sandals."
+ },
+ {
+  "id": 9100,
+  "t": "Frostfire Gloves",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Gloves if you bring her the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Gloves."
+ },
+ {
+  "id": 9101,
+  "t": "Frostfire Belt",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Belt if you bring her the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B ,you got everything just as i asked and now i can make a Frostfire Belt."
+ },
+ {
+  "id": 9102,
+  "t": "Frostfire Bindings",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Bindings if you bring her the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",
+  "d": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.$B$B<Angela points to her head.>$B$BIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !,$Byou got everything just as i asked and now i can make a Frostfire Bindings."
+ },
+ {
+  "id": 9103,
+  "t": "Plagueheart Robe",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Robe if you bring him the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Robe."
+ },
+ {
+  "id": 9104,
+  "t": "Plagueheart Leggings",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Leggings if you bring him the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Leggings."
+ },
+ {
+  "id": 9105,
+  "t": "Plagueheart Circlet",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Circlet if you bring him the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Circlet."
+ },
+ {
+  "id": 9106,
+  "t": "Plagueheart Shoulderpads",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Shoulderpads if you bring him the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Shoulderpads."
+ },
+ {
+  "id": 9107,
+  "t": "Plagueheart Sandals",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Sandals if you bring him the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Sandals."
+ },
+ {
+  "id": 9108,
+  "t": "Plagueheart Gloves",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Gloves if you bring him the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Gloves."
+ },
+ {
+  "id": 9109,
+  "t": "Plagueheart Belt",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Belt if you bring him the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Belt."
+ },
+ {
+  "id": 9110,
+  "t": "Plagueheart Bindings",
+  "o": "Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Bindings if you bring him the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",
+  "d": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.$B$BAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B , you got everything just as i asked and now i can make a Plagueheart Bindings."
+ },
+ {
+  "id": 9111,
+  "t": "Robe of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Robe of Faith if you bring him the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B, you got everything just as i asked and now i can make a Robe of Faith."
+ },
+ {
+  "id": 9112,
+  "t": "Leggings of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Leggings of Faith if you bring him the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B, you got everything just as i asked and now i can make a Leggings of Faith."
+ },
+ {
+  "id": 9113,
+  "t": "Circlet of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Circlet of Faith if you bring him the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B, you got everything just as i asked and now i can make a Circlet of Faith."
+ },
+ {
+  "id": 9114,
+  "t": "Shoulderpads of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Shoulderpads of Faith if you bring him the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "Have you brought me the reagents, child?",
+  "c": "The vestments are ready, $N. Smite those that would harm our world in your righteous fire."
+ },
+ {
+  "id": 9115,
+  "t": "Sandals of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Sandals of Faith if you bring him the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.$B",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "Have you brought me the reagents, child?",
+  "c": "The vestments are ready, $N. Smite those that would harm our world in your righteous fire."
+ },
+ {
+  "id": 9116,
+  "t": "Gloves of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Gloves of Faith if you bring him the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.$B",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "Have you brought me the reagents, child?",
+  "c": "The vestments are ready, $N. Smite those that would harm our world in your righteous fire."
+ },
+ {
+  "id": 9117,
+  "t": "Belt of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Belt of Faith if you bring him the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B, you got everything just as i asked and now i can make a Belt of Faith."
+ },
+ {
+  "id": 9118,
+  "t": "Bindings of Faith",
+  "o": "Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Bindings of Faith if you bring him the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",
+  "d": "<Father Montoy makes some strange gestures in the air in front of you.>$B$BBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.$B$BBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "p": "You got some missing parts for the quest please go and get them all!",
+  "c": "Exellent $N !$B, you got everything just as i asked and now i can make a Bindings of Faith."
+ },
+ {
+  "id": 9120,
+  "t": "The Fall of Kel'Thuzad",
+  "o": "Take the Phylactery of Kel'Thuzad to Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The phylactery is all that remains of the master of Naxxramas. Your better judgment dictates that you destroy the phylactery, preventing the lich from ever reforming. Thankfully, you seldom listen to that internal voice of reason.$B$BSomeone at Light's Hope will pay you hugely for this artifact. Who cares if Kel'Thuzad regenerates to full power?",
+  "p": "",
+  "c": "In all my days of living I would have never expected to see this...$b$b<Father Montoy appears to be salivating.>$b$bOh yes, you will be rewarded dear $g. You will be greatly rewarded. Give it here. Now!"
+ },
+ {
+  "id": 9121,
+  "t": "The Dread Citadel - Naxxramas",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 5 Arcane Crystals, 2 Nexus Crystals, 1 Righteous Orb and 60 gold pieces. You must also be Honored with the Argent Dawn.$B",
+  "d": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.$B$BWe have devised a way to gain entry via arcane cloaking - an old cantrip of the Kirin Tor with a few modifications of my own. Since your dedication to the cause of the Dawn is somewhat lacking, $N, the price will be high. You may decline and choose to return when you are revered or exalted for a discount.",
+  "p": "None have entered Naxxramas and lived to tell the tale.",
+  "c": "You will feel a slight tingle, $N. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood."
+ },
+ {
+  "id": 9122,
+  "t": "The Dread Citadel - Naxxramas",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 2 Arcane Crystals, 1 Nexus Crystal and 30 gold pieces. You must also be Revered with the Argent Dawn.",
+  "d": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.$B$BWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly. Since your dedication to the cause of the Dawn is admirable, we are willing to incur some of those costs.",
+  "p": "None have entered Naxxramas and lived to tell the tale.",
+  "c": "You will feel a slight tingle, $N. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood."
+ },
+ {
+  "id": 9123,
+  "t": "The Dread Citadel - Naxxramas",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will grant you Arcane Cloaking at no cost. You must be Exalted with the Argent Dawn.",
+  "d": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.$B$BWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly; however, your dedication to the cause of the Dawn is unwavering! We will waive all cost associations.",
+  "p": "None have entered Naxxramas and lived to tell the tale.",
+  "c": "You will feel a slight tingle, $N. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood."
+ },
+ {
+  "id": 9124,
+  "t": "Cryptstalker Armor Doesn't Make Itself...",
+  "o": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands wants 30 Crypt Fiend Parts.",
+  "d": "How would you like to earn yourself one of these shiny coins?$B$B<Leopold holds up an insignia of the Crusade.>$B$BI've got a little problem that you might be able to help me with, $N. You see, I make Cryptstalker armor for those daft enough to venture into Naxxramas. While they supply me with the core material requirements for the armor, I always run out of the crypt fiend parts. Bring me back a bundle of parts and I'll pay you with an insignia - usable at the quartermaster.",
+  "p": "How goes the hunt?",
+  "c": "Ah, that'll do nicely, $N. Remember, I'm always accepting more parts. For every bundle you bring me, I'll reward you with an insignia."
+ },
+ {
+  "id": 9125,
+  "t": "Crypt Fiend Parts",
+  "o": "",
+  "d": "",
+  "p": "You did an exemplary job on the first bundle, $n. If you have more, I will take them now. For every bundle that you turn in, I will reward you with another insignia.",
+  "c": "Most excellent, $N! These will definitely come to good use."
+ },
+ {
+  "id": 9126,
+  "t": "Bonescythe Digs",
+  "o": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands wants 30 Bone Fragments.$B",
+  "d": "Don Julio's Bonescythe armor pattern requires bone fragments - a lot of bone fragments. While those crazy enough to venture into Naxxramas provide me with enough of the core materials to make the armor, I'm always looking for more Scourge bone fragments.$B$BSo what do you think? Interested in getting your hands dirty and destroying some Scourge at the same time? It's a win-win situation.",
+  "p": "I can direct you to skeleton infested locales, $c.",
+  "c": "You work fast, $N. Fast like a fox... Say, have I ever told you about the time I was in a barber shop quartet?$B$BRemind me to tell you that story one of these days."
+ },
+ {
+  "id": 9127,
+  "t": "Bone Fragments",
+  "o": "",
+  "d": "",
+  "p": "A man in my line of work can never have too many bone fragments, $n. Whenever you have a surplus of fragments, bring them to me and I'll reward you with another insignia.",
+  "c": "My dream of becoming a full-time dancer at the Gadgetzan disco is soon to become a reality! Keep up the good work, $N."
+ },
+ {
+  "id": 9128,
+  "t": "The Elemental Equation",
+  "o": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 30 Core of Elements.$B",
+  "d": "Greetings, adventurer! Are you interested in some work? I pay those under my employ with insignias. These insignias can be used at the Quartermaster to purchase items of power.$B$BAll I need you to do is bring me as many core of elements as you can carry. The more the better!$B$BYou'll find them on elementals of varying shapes and sizes that exist across our world.",
+  "p": "I can only steer you in the right direction, $N.",
+  "c": "A job well done, $N! As promised, the insignia is yours. Just remember, there's more where that came from..."
+ },
+ {
+  "id": 9129,
+  "t": "Core of Elements",
+  "o": "",
+  "d": "",
+  "p": "Truth be told, I use the cores to create Frostfire armor. It is the armor used by the mages battling in Naxxramas. Without you and others like you, we would most definitely be losing this war.$B$BWith that said, bring me more cores and I shall grant you more insignias.\n",
+  "c": "You perform a great service for us, $N. Well done!"
+ },
+ {
+  "id": 9131,
+  "t": "Binding the Dreadnaught",
+  "o": "Korfax at Light's Hope Chapel in the Eastern Plaguelands wants 30 Dark Iron Scraps.",
+  "d": "Have you ever seen Dreadnaught armor, $c? No, of course you haven't. You're still a $g boy:girl; - a tyke. Let me tell you, it is glorious.$B$BYou're probably asking yourself what any of this has to do with you, right? I'll tell you what, scrub; I need Dark Iron scraps and I'm willing to pay to get my hands on as many as possible.$B$BI need the scraps to put together sets of Dreadnaught for our champions. Bring me scraps and get paid.",
+  "p": "<Korfax growls at you.>$B$BWhat do you want? Directions? I can provide those...",
+  "c": "This will do, for now. If you get more, you know where to find me."
+ },
+ {
+  "id": 9132,
+  "t": "Dark Iron Scraps",
+  "o": "",
+  "d": "",
+  "p": "For every armful of the scraps, I'll give you an insignia - the more the better. Now get out of my sight before I split you in two!\n",
+  "c": "That's all you brought me? Maybe you didn't hear me the first time. I need MORE!"
+ },
+ {
+  "id": 9136,
+  "t": "Savage Flora",
+  "o": "Rayne at Light's Hope Chapel in the Eastern Plaguelands wants 30 Savage Fronds.",
+  "d": "I make a special type of armor for the brave heroes that enter Naxxramas known as Dreamwalker. They are able to provide me with most of the materials I require but I am always looking for those able to retrieve savage fronds from the flora of our world.$B$BYou may think of this job as beneath you, but without the fronds, the armor could not be made.$B$BI am also in a unique position to pay you with an insignia of your choice as both the Dawn and the Crusade supply me with funds.$B",
+  "p": "I have intimate knowledge of the flora in our world. Do you require direction?",
+  "c": "I am much obliged, $N.$B$B<Rayne bows.>$B$BPlease remember that I am always accepting fronds."
+ },
+ {
+  "id": 9137,
+  "t": "Savage Fronds",
+  "o": "",
+  "d": "",
+  "p": "For every bundle of fronds that you deliver to me, I will pay you with your choice of an insignia of the Dawn or the Crusade.$b$bInsignias may be turned in to the Quartermaster for various rewards.",
+  "c": "Thank you, $N. Your work is vital to the success of our campaign against the Scourge."
+ },
+ {
+  "id": 9141,
+  "t": "They Call Me \"The Rooster\"",
+  "o": "Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands wants an Argent Dawn Valor Token.$B",
+  "d": "You want a writ? What? Do you expect me to hand you a highly sought after work order just for showing up? I think not, scrub. Crafters from around the world bid for jobs here at the front lines.$B$BIf you want a work order, you'll have to show me that you're willing to bleed for the cause. Bring me a valor token and we'll talk.$B$BAnd there's only one way to get your grubby little scrub mitts on those - get to killin'.",
+  "p": "<Commander Metz chews on his cigar.>$B$BWhat is it? I'm a busy man.",
+  "c": "Alright, here's how it works: For every valor token that you turn in, I'll give you another writ. You complete the order on that writ and deliver the order to Packmaster Stonebruiser. Got it? Good. Now get out of here."
+ },
+ {
+  "id": 9142,
+  "t": "Craftsman's Writ",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You earned this, scrub. Now, don't cry about your orders. Fill 'em or destroy 'em."
+ },
+ {
+  "id": 9153,
+  "t": "Under the Shadow",
+  "o": "Check your map to find an area under Scourge attack. Go there and damage a necropolis by defeating the Scourge around them. Return 10 of their Necrotic Runes to Commander Thomas Helleran at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The floating necropolises of the Scourge plague the lands of Horde and Alliance alike. Tanaris, the Blasted Lands, Winterspring and the Burning Steppes are blanketed in the shadows of the flying fortresses.$b$bOnly through our combined efforts will they be repelled.$b$bEach necropolis is supported by nearby magical circles, and among each circle swarms a host of undead creartures. We have determined that destroying these mindless hordes will destroy the circle's defenses.",
+  "p": "It will take time to prevail against this threat. How have you fared, $N?",
+  "c": "You've done well, $N. Through these incremental defeats, we shall prevail against this renewed Scourge threat.$B$BRest and recover, but then you must head out to the front again, lest we lose the ground we have gained today.$B$BTo aid you in your further battles, we will make some of our special items available to you in trade for more necrotic runes. "
+ },
+ {
+  "id": 9154,
+  "t": "Light's Hope Chapel",
+  "o": "Deliver the Call to Arms Announcement to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The Scourge have returned in greater numbers than we have seen before.  This must be the doing of the Lich King!  The Argent Dawn is recruiting all willing and capable men and women to defend our lands.$b$bIf we share common cause, take this document to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",
+  "p": "",
+  "c": "The Argent Dawn placed the call for aid, and you have answered. There is no time for us to provide you with training. Our faith is placed in your abilities, and that you will join us in throwing back this Scourge threat."
+ },
+ {
+  "id": 9165,
+  "t": "Writ of Safe Passage",
+  "o": "Deliver the signed Writ of Safe Passage to Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "Without the help of adventurers, my caravan would have never made it! Scourge were coming out of the woodwork to try and stop us from getting here.$B$B<Guard Didier wipes his brow.>$B$BNow we need to wait here for Field Marshal Chambers to arrive. He'll sign your writ of safe passage to take back to Dispatch Commander Metz at Light's Hope Chapel.$B$BAnd $N, watch what you say around Chambers. He's the 'bite off your head and spit down your wind pipe' type of guy - except that he'll actually do it...",
+  "p": "Name, rank and serial number!",
+  "c": "<Dispatch Commander Metz takes the writ and signs it.>$B$BExcellent work, $N. Outstanding even! Take this as a token of our appreciation. No pun intended, scrub."
+ },
+ {
+  "id": 9168,
+  "t": "Heart of Deatholme",
+  "o": "Destroy 8 Eyes of Dar'Khan and report back to Magister Idonis at the Sanctum of the Sun in the Ghostlands.",
+  "d": "Deep inside Deatholme our enemies are striving to create stronger, deadlier spectral soldiers.  These abhorrent creatures are perfect killing machines, handcrafted by Dar'Khan himself and hardened by the dark magic of Deatholme.$B$BTravel to the Tower of the Damned inside Deatholme and destroy them, $N.  We cannot let our enemy's army grow in power while we struggle to maintain our foothold in the Ghostlands.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9177,
+  "t": "Journey to Undercity",
+  "o": "Take The Lady's Necklace to Lady Sylvanas Windrunner at the Royal Quarter in Undercity.",
+  "d": "This is quite extraordinary! It appears to be a gift to Lady Sylvanas Windrunner from her sister, Alleria!$B$BYou must take it to her in the Undercity at once! The lady holds court in the Royal Quarter.$B$BTo get there, use the orb of translocation in the Inner Sanctum of Sunfury Spire in Silvermoon City to cross over to the Undercity.  Once there, take the elevator ride down into the city proper. Use your maps if you need help finding the Royal Quarter.",
+  "p": "",
+  "c": "<Sylvanas takes the necklace from your grasp.>$B$BIt can't be! After all this time, I thought it was lost forever.$B$B<After a lingering moment the Lady seems to become aware once again of her surroundings, composing herself.>$B$BYou thought this would amuse me? Do you think I long for a time before I was the queen of the Forsaken? Like you, it means nothing to me, and Alleria Windrunner is a long dead memory!$B$B<She drops the amulet to the ground.>$B$BYou may now remove yourself from my presence, $c."
+ },
+ {
+  "id": 9178,
+  "t": "Craftsman's Writ - Dense Weightstone",
+  "o": "Deliver 120 Dense Weightstones and the Craftsman's Writ - Dense Weightstone - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order BS-091:$B$B120 Dense Weightstones.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "Yep, these will come in handy for the infantry's bashin' weapons."
+ },
+ {
+  "id": 9179,
+  "t": "Craftsman's Writ - Imperial Plate Chest",
+  "o": "Deliver 3 Imperial Plate Chests and the Craftsman's Writ - Imperial Plate Chest - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order BS-428:$B$B3 Imperial Plate Chests.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "More armor for the troops! Fantastic, $N!"
+ },
+ {
+  "id": 9180,
+  "t": "Journey to Undercity",
+  "o": "Take The Lady's Necklace to Lady Sylvanas Windrunner at the Royal Quarter in Undercity.",
+  "d": "This is quite extraordinary! It appears to be a gift to Lady Sylvanas Windrunner from her sister, Alleria!$B$BYou must take it to her in the Undercity at once! The lady holds court in the Royal Quarter.$B$BTo get there, use the orb of translocation in the Inner Sanctum of Sunfury Spire in Silvermoon City to cross over to the Undercity.  Once there, take the elevator ride down into the city proper. Use your maps if you need help finding the Royal Quarter.",
+  "p": "And you are?$B$BWhat's that you have there? That necklace looks somehow familiar. Give it here! ",
+  "c": "<Sylvanas takes the necklace from your grasp.>$B$BIt can't be! After all this time, I thought it was lost forever.$B$B<After a lingering moment the Lady seems to become aware once again of her surroundings, composing herself.>$B$BYou thought this would amuse me? Do you think I long for a time before I was the queen of the Forsaken? Like you, it means nothing to me, and Alleria Windrunner is a long dead memory!$B$B<She drops the amulet to the ground.>$B$BYou may now remove yourself from my presence, $c. "
+ },
+ {
+  "id": 9181,
+  "t": "Craftsman's Writ - Volcanic Hammer",
+  "o": "Deliver 3 Volcanic Hammers and the Craftsman's Writ - Volcanic Hammer - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order BS-697:$B$B3 Volcanic Hammers.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "These should go well with the dense weightstones we're stockpiling."
+ },
+ {
+  "id": 9182,
+  "t": "Craftsman's Writ - Huge Thorium Battleaxe",
+  "o": "Deliver 3 Huge Thorium Battleaxes and the Craftsman's Writ - Huge Thorium Battleaxe - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order BS-6020:$B$B3 Huge Thorium Battleaxes.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "These aren't as huge as I expected. Regardless, a deal is a deal."
+ },
+ {
+  "id": 9183,
+  "t": "Craftsman's Writ - Radiant Circlet",
+  "o": "Deliver 3 Radiant Circlets and the Craftsman's Writ - Radiant Circlet - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order BS-80:$B$B3 Radiant Circlets.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "I still can't believe Metz expects our troops to wear this low-quality garbage to protect against the freezing attacks of the Scourge."
+ },
+ {
+  "id": 9184,
+  "t": "Craftsman's Writ - Wicked Leather Headband",
+  "o": "Deliver 10 Wicked Leather Headbands and the Craftsman's Writ - Wicked Leather Headband - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order LW-971:$B$B10 Wicked Leather Headbands.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "These are... wicked."
+ },
+ {
+  "id": 9185,
+  "t": "Craftsman's Writ - Rugged Armor Kit",
+  "o": "Deliver 25 Rugged Armor Kits and the Craftsman's Writ - Rugged Armor Kit - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order LW-448:$B$B25 Rugged Armor Kits.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "The rugged armor kits have many uses, $N. They aren't JUST for slapping on certain armor pieces for added protection. Like this one here, I'm going to use it as teapot cozy."
+ },
+ {
+  "id": 9186,
+  "t": "Craftsman's Writ - Wicked Leather Belt",
+  "o": "Deliver 9 Wicked Leather Belts and the Craftsman's Writ - Wicked Leather Belt - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order LW-736:$B$B9 Wicked Leather Belts.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "These belts are actually more wicked than the headbands - if you can believe such a thing to be possible."
+ },
+ {
+  "id": 9187,
+  "t": "Craftsman's Writ - Runic Leather Pants",
+  "o": "Deliver 4 Runic Leather Pants and the Craftsman's Writ - Runic Leather Pants - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order LW-8485:$B$B4 Runic Leather Pants.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "The druids will definitely appreciate the craftsmanship that went into the making of these pants. Many thanks, $c."
+ },
+ {
+  "id": 9188,
+  "t": "Craftsman's Writ - Brightcloth Pants",
+  "o": "Deliver 6 Brightcloth Pants and the Craftsman's Writ - Brightcloth Pants - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order TR-95:$B$B6 Brightcloth Pants.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "I can almost see my reflection in these things! That's crazy."
+ },
+ {
+  "id": 9189,
+  "t": "Delivery to the Sepulcher",
+  "o": "Deliver the Sealed Sin'dorei Orders to Advisor Sorrelon at the Sepulcher in Silverpine Forest.",
+  "d": "You have stirred the lady's heart, though it no longer beats.$B$BHowever, I have instructions that must be delivered to the Sepulcher in Silverpine Forest.  Advisor Sorrelon represents us to the Forsaken there.$B$BThe shortest route, barring the use of their flying bats, is to leave Undercity and take the road south.  Follow the signposts.  Finding the place shouldn't be difficult.  Brace yourself, though; the Sepulcher itself is a dilapidated crypt.$B$BThese Forsaken are certainly odd creatures.",
+  "p": "Greetings, $Gbrother:sister;. What news do you bring?",
+  "c": "I see here that Ambassador Sunsorrow has high hopes for your continued rise as a credit to the sin'dorei. Unfortunate that business with Lady Sylvanas, though. Pay it no heed, $N, you did the right thing in returning her necklace. She should have been grateful, but such is the way of royalty.$B$BWhile you are here, should you choose to assist with the tasks of the Forsaken, be on your best behavior. You wouldn't want to damage our new bond with the Horde now would you?"
+ },
+ {
+  "id": 9190,
+  "t": "Craftsman's Writ - Runecloth Boots",
+  "o": "Deliver 8 Runecloth Boots and the Craftsman's Writ - Runecloth Boots - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order TR-635:$B$B8 Runecloth Boots.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "By Bronzebeard's beard! You actually brought me runecloth boots... I guess I lost that bet."
+ },
+ {
+  "id": 9191,
+  "t": "Craftsman's Writ - Runecloth Bag",
+  "o": "Deliver 8 Runecloth Bags and the Craftsman's Writ - Runecloth Bag - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order TR-9999:$B$B8 Runecloth Bags.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "Blessed bootstraps! Are those what I think they are? The troops have been complaining non-stop about the lack of storage space for all that is required while in the field. One of them even drew me a diagram - such a pansy...$B$BThese will definitely help alleviate some of the whining."
+ },
+ {
+  "id": 9194,
+  "t": "Craftsman's Writ - Runecloth Robe",
+  "o": "Deliver 8 Runecloth Robes and the Craftsman's Writ - Runecloth Robe - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order TR-7229:$B$B8 Runecloth Robes.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "You shouldn't have! No really, you shouldn't have. I don't know what Metz is thinking, but nobody is going to be wearing these robes into Naxxramas.$B$B<Packmaster Stonebruiser sighs.>$B$BBah, another pile of junk I'll have to get transferred to the front lines and another berating I'll have to take from Chambers."
+ },
+ {
+  "id": 9195,
+  "t": "Craftsman's Writ - Goblin Sapper Charge",
+  "o": "Deliver 20 Goblin Sapper Charges and the Craftsman's Writ - Goblin Sapper Charge - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order EN-11:$B$B20 Goblin Sapper Charges.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "Now you're talking my language, $c. Things that go BOOM!"
+ },
+ {
+  "id": 9196,
+  "t": "Craftsman's Writ - Thorium Grenade",
+  "o": "Deliver 20 Thorium Grenades and the Craftsman's Writ - Thorium Grenade - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order EN-7:$B$B20 Thorium Grenades.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn$B",
+  "p": "Filling a work order, $C?",
+  "c": "These must have cost a pretty copper piece to make. Am I right or am I right, $N?"
+ },
+ {
+  "id": 9197,
+  "t": "Craftsman's Writ - Gnomish Battle Chicken",
+  "o": "Deliver 4 Gnomish Battle Chickens and the Craftsman's Writ - Gnomish Battle Chicken - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",
+  "d": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.$B$BWork Order EN-0:$B$B4 Gnomish Battle Chickens.$B$BAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.$B$BContract is null and void if tampered with or damaged.$B$B-Dispatch Commander Metz, The Argent Dawn",
+  "p": "Filling a work order, $C?",
+  "c": "Why are you smiling? What's so funny? Listen, $Gmister:missy;, a gnomish battle chicken is a very important unit and not to be taken lightly - EVER. We send these in to areas that might be heavily plagued or infested and they clean up any plagued insects or carrion maggots that might still be fluttering about. Everybody knows that robots are immune to the plague.$B$BI bet you don't feel so smart now, do you? Big dummy..."
+ }
+]

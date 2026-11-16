@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12453,
+  "t": "Eyes Above",
+  "o": "Windseer Grayhorn wants you to use the Silver Feather on 6 Imperial Eagles in Grizzly Hills.",
+  "d": "I've been asked to lend my support to our efforts against the Alliance.  At the moment our military forces are about evenly matched and we're looking for ways to find an edge.$B$BThe imperial eagles that fly over the mountains and trees in this area would make excellent scouts for us.  Take this silver feather and use it to bind my sight to that of them.$B$BBeing able to see our enemy's movements will grant us the strategic advantage we need.  You'll find abundant eagles in the mountains to the east.",
+  "p": "Have you done what I asked of you, $N?",
+  "c": "I thank you, $N. Your help is appreciated."
+ },
+ {
+  "id": 12454,
+  "t": "Cycle of Life",
+  "o": "Nishera the Garden Keeper at the Emerald Dragonshrine has asked you to slay 5 Emerald Skytalons.",
+  "d": "Ysera sleeps in the Emerald Dream, watching over both the Dream and Azeroth. But a horrible nightmare has taken hold in the Dream, and now I fear that Ysera is being affected by it.$B$BRecently, I asked her to aid in the fight against the Scourge that are raising frostwyrms at the other dragonshrines. She misunderstood.$B$BInstead, she told our dragonshrine's defenders to treat those not of the green dragonflight as enemies.$B$BI need you to slay some of the skytalons. The shrine must regain its balance.",
+  "p": "The sooner that the ermerald skytalons can be dealt with, the sooner the Emerald Dragonshrine can be returned to its natural balance.",
+  "c": "Do not regret the part that you played in the cycle of life. Birth, death, and rebirth are all part of the natural order."
+ },
+ {
+  "id": 12455,
+  "t": "Scattered To The Wind",
+  "o": "Ambo Cash at the Wintergarde Mausoleum in Dragonblight wants you to recover 8 Wintergarde Munitions.",
+  "d": "The munitions drop went badly, friend. The shipment of ammo from Westguard Keep was intercepted by the frostwyrms circling overhead. The flying machines were torn apart in a matter of seconds and their cargo was scattered to the wind. Most of it is still topside - on the Carrion Fields.$B$BI'm gonna need you to go back up and recover the munitions crates that are scattered all over this damned place.$B$BHurry it up! We can't start this offensive without guns and ammo, $g buddy:missy;!",
+  "p": "Where are my munitions, $g fella:lady;?",
+  "c": "Just in time! Some of my soldiers got a little overzealous and decided to wade into the crypts directly to the east and west of us. Needless to say, they were quickly overwhelmed by those mindless ghouls. We need to rescue the survivors!"
+ },
+ {
+  "id": 12456,
+  "t": "The Plume of Alystros",
+  "o": "Nishera the Garden Keeper at the Emerald Dragonshrine has asked you to acquire The Plume of Alystros.",
+  "d": "I can feel that the shrine is not completely back in balance. The verdant keeper has been angered by our actions, and I sense that he will not listen to reason.$B$BAlystros is an immense skytalon who perches at the south end of the Emerald Dragonshrine. It is he who is in charge of the dragonshrine's aerial defenses. I fear that we will have to deal with him.$B$BTake these skytalon molts and place them on the ground where he can see them. He will come. Bring me his plume.",
+  "p": "Have you managed to deal with Alystros? Do not be afraid to ask your friends for assistance.$B$BIn fact, given that the verdant keeper is very powerful, I recommend it!",
+  "c": "Do not weep for Alystros. He has dedicated his eternal life to the defense of the Emerald Dragonshrine and will be reborn.$B$BHopefully when he returns to us, he will not be gripped with the confusion of the Emerald Nightmare that seems to have taken hold of The Dreamer."
+ },
+ {
+  "id": 12457,
+  "t": "The Chain Gun And You",
+  "o": "Ambo Cash at the Wintergarde Mausoleum in Dragonblight wants you to save 8 Injured 7th Legion Soldiers.",
+  "d": "We've set up chain guns and barricades directly to the east and to the west. Our injured soldiers are hiding in both rooms - trying their best to not alert the mindless ghouls to their presence.$B$BNow that we have ammo, I need you to man one of the chain guns and use it to blast a path clear for our soldiers! Once you're on board, call a soldier out from hiding and then lay down heavy fire to keep the Scourge off him!$B$BGet a move on!",
+  "p": "Have you rescued our injured soldiers?",
+  "c": "$N, I haven't seen heroics like that since Silithus!$B$BI'll be sure that each and every one of those soldiers puts in a recommendation to Lord Fordragon that you be promoted!$B$BNow, on to more pressing matters. We've gotten reports back from our scouts that Thel'zan is close.\n"
+ },
+ {
+  "id": 12458,
+  "t": "Seeds of the Lashers",
+  "o": "Lord Itharius at the top of Wyrmrest Temple has asked you to return with 3 Lasher Seeds.",
+  "d": "We need more weapons in the fight against the Scourge. The natural properties of the Emerald Dragonshrine to the southeast may be the answer.$B$BAny unliving creature, save those that Sylvanas has redeemed, that steps foot in the dragonshrine falls to dust.$B$BI want to test a theory, and I want you to be my instrument in doing so, young $r. Go to the Emerald Dragonshrine and take the seeds from the emerald lashers therein.",
+  "p": "And just how many seeds have you managed to acquire thus far?",
+  "c": "Even now I can feel the pulse of nature from within these seeds.$B$BWe must put them to good use!"
+ },
+ {
+  "id": 12459,
+  "t": "That Which Creates Can Also Destroy",
+  "o": "Lord Itharius at the top of Wyrmrest Temple has asked you to destroy a Weakened Reanimated Frost Wyrm, Weakened Turgid the Vile, and Weakened Overseer Deathgaze.",
+  "d": "Since we only have three seeds, we must put them to the best possible use.$B$BYour targets are one of the reanimated frost wyrms circling to the north near Galakrond's Rest, Turgid the Vile in the ruined barracks at the Carrion Fields to the east, and Overseer Deathgaze at Jintha'kalar far to the northeast.$B$BWhile the seeds would outright destroy one of the lesser Scourge, they will greatly weaken these three. Enough so, in fact, that you should be able to handle them on your own.",
+  "p": "What were the results? Are they destroyed?$B$BI need answers!",
+  "c": "Excellent. Just as I suspected all along. I shall have to attempt to contact Ysera and see if she approves.$B$BIf she can be coaxed from her nightmare, of course.$B$BThank you, $N. You have been indispensable."
+ },
+ {
+  "id": 12460,
+  "t": "Report to the Ruby Dragonshrine",
+  "o": "Report to Ceristrasz on the ridge east of the Ruby Dragonshrine, west of Wyrmrest.",
+  "d": "We need you at the Ruby Dragonshrine.$B$BThe dragons are beset on all sides by the blue flight and the scourge... they're in no better a state than we are. The situation seems dire, but this affords us a rare opportunity to establish a valuable alliance.$B$BI secured a regiment to aid the red dragonflight against the Scourge at the Ruby Dragonshrine. If you have a fight in you, please go find Ceristrasz on the ridge east of the shrine and help him in any way that you can.",
+  "p": "",
+  "c": "Ambassador Lauriel sent you?$B$BIf you talk to her again, please let her know that we are very appreciative of her aid. We are fighting battles on far too many fronts."
+ },
+ {
+  "id": 12461,
+  "t": "Report to the Ruby Dragonshrine",
+  "o": "Report to Vargastrasz on a ridge outside of the Ruby Dragonshrine, just east of Agmar's Hammer.",
+  "d": "You are leaving to the Ruby Dragonshrine. This is not a request.$B$BThe dragons are beset on all sides by the blue flight and the scourge... they're in no better a state than we are. It is not often we are afforded the opportunity to redeem ourselves for the transgressions of our ancestors.$B$BI have secured a regiment to aid the red dragonflight against the Scourge at the Ruby Dragonshrine. Join them and crush the Scourge beneath your boots!$B$BFor the Horde!",
+  "p": "",
+  "c": "Ambassador Golluck sent you?$B$BIf you talk to him again, please let him know that we are very appreciative of his aid. We are fighting battles on far too many fronts."
+ },
+ {
+  "id": 12462,
+  "t": "Breaking Off A Piece",
+  "o": "Yord \"Calamity\" Icebeard at the Wintergarde Mausoleum in Dragonblight wants you to kill Necrolord X'avius, Necrolord Horus, and 15 Naxxramas Scourge.$B",
+  "d": "Just down the steps lies the gateway to damnation: Scourge as far as the eye can see and getting thicker with each passing moment. What little intelligence we've been able to gather indicates that two Scourge necrolords are furiously working at emptying the first two crypts down below. Before we can breach the inner chamber to Thel'zan, we'll need to take care of those two clowns and their Naxxramas cronies.$B$BGo down into the mausoleum and take out the necrolords and the Naxxramas dreadguards and shades.",
+  "p": "Did you break yourself off a piece?",
+  "c": "That oughta buy Ambo a little bit of time to get things situated. "
+ },
+ {
+  "id": 12463,
+  "t": "Plunderbeard Must Be Found!",
+  "o": "Ambo Cash at the Wintergarde Mausoleum in Dragonblight wants you to find Plunderbeard.",
+  "d": "There's been talk of a tunnel dug by Scourge that connects the embalming chambers of the mausoleum with the large crypts, now unearthed by Thel'zan and his minions. I recently sent my best rogue, Plunderbeard, in search of answers, but have yet to hear back from him. If I were a betting man I'd wager that he's a goner.$B$BI want you to go down those steps and head straight through the embalming chamber and look for Plunderbeard. Dead or alive, he'll have answers.$B",
+  "p": "",
+  "c": "<You discover a journal on Plunderbeard's corpse.>$B$BEntry One:$B$BThey drag corpses through the tunnel to the embalming room for experimentation. There is an endless supply in this mausoleum. Whatever cannot be reanimated is turned into a bone construct of one kind or another.$B$BEntry Two:$B$BI fear that this lich, Thel'zan, hides a dark secret. Who is he? Was he once... one of us?$B$BEntry Three: I have discovered the location of the lich's phylactery. It is...$B$B<The rest of the pages are torn out.>"
+ },
+ {
+  "id": 12464,
+  "t": "My Old Enemy",
+  "o": "Deliver The High General's Head to Commander Eligor Dawnbringer at Wintergarde Keep.",
+  "d": "My old enemy, High General Abbendis, has come to Northrend.$B$BSomehow she survived the attacks upon Tyr's Hand and brought a small force north. They've established New Hearthglen to the south.$B$BWhile they could prove useful in fighting the Scourge, Abbendis herself is far too shrewd an opponent to let live. Trust me, if we let them stand, she will be at our throats before the dust settles.$B$BSo, we'll deprive them of their leadership and go about our business. Bring me her head as proof.",
+  "p": "It is done then?",
+  "c": "An unfortunate, but necessary action that we had to take in dealing with Abbendis. In another lifetime, I think I could have imagined fighting side-by-side with her.$B$B<The commander's voice trails off as he reflects a moment before proceeding.>$B$BI'm a little concerned about this grand admiral you describe. Barean Westwind you say? I can't believe that he's still alive. He must be ancient. We'll have to deal with him later, however.$B$BIn the meantime, I think you've earned a reward and a little R & R."
+ },
+ {
+  "id": 12465,
+  "t": "Plunderbeard's Journal",
+  "o": "Recover Page 4 of Plunderbeard's Journal, Page 5 of Plunderbeard's Journal, Page 6 of Plunderbeard's Journal, and Page 7 of Plunderbeard's Journal and return them to Ambo Cash at the Wintergarde Mausoleum in Dragonblight.",
+  "d": "Whatever was written on the remaining pages of Plunderbeard's journal must be recovered. Search the chambers located on the other side of this tunnel for Plunderbeard's assailants. They must be the ones who tore the journal apart!$B$BShould you recover the missing pages, return them to Ambo Cash at the entrance of the Wintergarde Mausoleum.",
+  "p": "I certainly don't feel like a winner...",
+  "c": "<Ambo reads through the recovered journal pages.>$B$BThere's some good news and there's some bad news. Which do you want first?$B$BAh hell, why give you a choice? The good news is that if we can get Thel'zan's phylactery, we can destroy him. The bad news is that the phylactery is on a rather large frostwyrm."
+ },
+ {
+  "id": 12466,
+  "t": "Chasing Icestorm: The 7th Legion Front",
+  "o": "Report to Legion Commander Tyralion at the 7th Legion Front in central Dragonblight.",
+  "d": "You need to get to the 7th Legion Front in northern Dragonblight. Return to Wintergarde Keep and take the north gate out of town. Keep north until you hit a road. Take a left on that road and follow it until you reach the snowline. Once at the snowline keep heading west until you hit the Path of the Titans. Follow that north and it'll lead you right into the 7th Legion Front.$B$BOnce there, speak with Legion Commander Tyralion. He'll be expecting you.$B$BAnd $N - it has been a pleasure. Farewell.",
+  "p": "",
+  "c": "Now you know why they call this the Dragon Wastes. Bones of the beasts are strewn about as far as the eye can see.$B$BWe've probably taken down a dozen or more frostwyrms and there's still no end in sight. The Scourge's got fuel for ten-thousand more what with all the bones laying about.$B$B<Tyralion clears his throat.>$B$BI don't mean to bore you with the details, hero. We've got the wyrm you're looking for locked in our sights."
+ },
+ {
+  "id": 12467,
+  "t": "Chasing Icestorm: Thel'zan's Phylactery",
+  "o": "Recover Thel'zan's Phylactery from Icestorm and return it to High Commander Halford Wyrmbane at Wintergarde Keep.$B",
+  "d": "Your frostwyrm is out there.$B$B<Tyralion points west.>$B$BAnd it's a big one!$B$BWhen you're ready to fight, go speak with \"Wyrmbait.\" He'll \"fetch\" her. Once Icestorm is close enough we'll chain her to the ground and finish her off! Hopefully, with your help, we'll be able to take her down and get you that phylactery.$B$BOnce you've got the phylactery, return to Wintergarde Keep and report to High Commander Halford Wyrmbane. He's been making preparations for the final showdown with Thel'zan.",
+  "p": "Have you recovered Thel'zan's phylactery?",
+  "c": "We've lost so many good soldiers to that monster, Thel'zan. I wish I could be there to see you crush his phylactery in front of him and end his existence."
+ },
+ {
+  "id": 12468,
+  "t": "The Conqueror's Task",
+  "o": "Speak to Sergeant Nazgrim in Conquest Hold.",
+  "d": "The Horde is a magnificent war machine and you are nothing but a cog.$B$BI am in charge of securing fuel for this machine.  If I fail, the machine fails.$B$BLumber, ore, water... it's all here and we want it.  And so does the Alliance.$B$BBefore we can move against the human scum, we need to solidify our control over the western region.$B$BSpeak to Sergeant Nazgrim about eradicating the vrykul in Voldrune and then maybe - if you turn out to not be a complete failure - we'll send you on further tasks.",
+  "p": "",
+  "c": "So Krenna sent you to me? She must've not liked you very much, but then again who does she like?$B$BCracking this vrykul outpost is going to be a tough, tough job."
+ },
+ {
+  "id": 12469,
+  "t": "Return to Sender",
+  "o": "Follow the ridge to the east and deliver the pack of explosives to Xink at Nozzlerust Post in northern Dragonblight.",
+  "d": "Upon closer examination, the goblin appears to have been running a pack full of explosives across the wastes for delivery. The harpy feathers half-buried in the snow nearby suggest how he met his ill fate.$B$BIt appears that the goblin was bringing the explosives towards the Wrath Gate from somewhere to the east. It seems most prudent to follow the ridge back to the east and inform the sender of their runner's fate.",
+  "p": "Hello there!",
+  "c": "Hah! We lost another one, eh? Those harpies are becoming a real nuisance.$B$BNo matter! There's work to be done. Lend a hand around here, will ya?"
+ },
+ {
+  "id": 12470,
+  "t": "Mystery of the Infinite",
+  "o": "Chromie, at the top of Wyrmrest Temple, has asked you to travel to the Bronze Dragonshrine. Once inside, place the Hourglass of Eternity on the ground.$B$BProtect the hourglass for as long as it lasts and then return to her with whatever information you gain.",
+  "d": "A time storm at the Bronze Dragonshrine to the northeast is keeping immortals from entering.$B$BThe Infinite Dragonflight are in a fight inside with the defenders to wrest control of the dragonshrine. We must take this opportunity to gain information.$B$BYou are not immortal. You can cross into the dragonshrine and use the Hourglass of Eternity. Protect the hourglass for long enough and the leader of the Infinite Dragonflight should be revealed.$B$BBe warned, the Infinite Dragonflight will try to stop you!",
+  "p": "What news do you bring? What happened at the Bronze Dragonshrine?$B$BDid you find out who the leader of the Infinite Dragonflight is?",
+  "c": "You saw Nozdormu? That doesn't make any sense.$B$B<Chromie thinks a moment about what you've said.>$B$BActually, that's great news! We had no idea of where or when the Lord of Time had gone to. We just knew that he had disappeared to deal with very important matters.$B$BSo, even though the leader of the Infinite Dragonflight wasn't revealed, you've discovered that Nozdormu is alive and well, and fighting back against them!$B$BThank you, $N. I'll be seeing you soon!"
+ },
+ {
+  "id": 12471,
+  "t": "Cruelty of the Kvaldir",
+  "o": "Speak to Karuk about the Captured Tuskarr Prisoner.",
+  "d": "I thank you for saving me, $N.  The kvaldir are animals!$B$BThey made us fight the other prisoners.  It would've been more merciful to just kill us all.$B$BThe youngling Karuk is still alive -- I noticed him arrive here.  Tell him his father fought until the end.",
+  "p": "",
+  "c": "I thank you, $N.  You've shown a great deal of goodwill towards my clan."
+ },
+ {
+  "id": 12472,
+  "t": "Finality",
+  "o": "Take Thel'zan's Phylactery to Legion Commander Yorik inside the Wintergarde Mausoleum in Dragonblight.",
+  "d": "Thanks to your heroics, Lord Fordragon has given the command to launch a full assault against Thel'zan. 7th Legion have made their way into the summoning chamber of the mausoleum and located what appears to be a gateway to hell. The only piece that's missing now is you.$B$BTake the phylactery and report to Legion Commander Yorik inside the Wintergarde Mausoleum.$B$BThere is a tunnel that the Scourge dug out just outside the keep that you can take to get to Yorik quickly. Go now, $N! Lead us to victory!",
+  "p": "<Yorik lets out a sigh of relief.>$B$BWe thought you might not show up, $N.",
+  "c": "When you're ready I'll place the phylactery out in front of the gateway and call forth Thel'zan."
+ },
+ {
+  "id": 12473,
+  "t": "An End And A Beginning",
+  "o": "Defeat Thel'zan the Duskbringer and report to High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight.",
+  "d": "Every good story has a beginning and an ending, $N. While your story is far from over, I'll be damned if it's not already turning out to be the stuff of legend! No matter what happens to us when this is all over, what you've done at Wintergarde will be a tale told for years to come.$B$BNow, ally, when you are ready I will use the phylactery to coax Thel'zan out of hiding.$B$BShould we somehow succeed, report the victory to High Commander Halford Wyrmbane at Wintergarde Keep.",
+  "p": "",
+  "c": "Wintergarde is saved because of you, $N. To think that one $gman:woman; could so swiftly turn the tides of battle is hard for most to comprehend; yet here we are - victorious! You have managed to restore the faith of these people and earned the respect of your commanding officers.$B$B<Halford salutes.>$B$BLord Fordragon has returned to Angrathar to prepare our forces for the destruction of the Wrathgate and has requested that you join him! I couldn't recommend a better soldier for the job, $N."
+ },
+ {
+  "id": 12474,
+  "t": "To Fordragon Hold!",
+  "o": "Venture to Fordragon Hold in Dragonblight and speak with Highlord Bolvar Fordragon.$B",
+  "d": "With the Naxxramas war machine stopped dead in its tracks the time has come for you to help our forces at Angrathar, the Wrathgate. Nestled against the mountain in northern Dragonblight is our base of operations, Fordragon Hold. It is there that Lord Fordragon awaits your arrival! Go now, $N!$B$BTake the north gate out of town and travel north by northwest until you arrive at your destination.$B$BLight protect you!",
+  "p": "",
+  "c": "This commendation is only given to those that have gone above and beyond the call of duty in the name of the Alliance. I could count the number of times I've handed this one out on one hand, $N, and never has anyone been more deserving than you! Congratulations!$B$BNow, let us look upon the Wrathgate. Does it look familiar? It should. That strange ore you found at the Wintergarde Mine is exactly what the Wrathgate is made from. We will find its weakness and expose it for all to see! First, though..."
+ },
+ {
+  "id": 12475,
+  "t": "What Secrets Men Hide",
+  "o": "Zelig the Visionary at Wintergarde Keep in Dragonblight wants you to find the Onslaught Map and return it to him.",
+  "d": "After the betrayal at the Forgotten Shore, Prince Arthas - with Muradin in tow - began his quest for Frostmourne. Could the location of the cavern where Frostmourne was found be near? What secrets could it hold? While the orb has no answers for these questions, it does show me something.$B$BTo the northeast of Wintergarde Keep is an outpost built by the Scarlet Onslaught. Somewhere within that outpost is a map. The orb tells me that this map will be of great use to us.$B$BRetrieve it!",
+  "p": "Have you recovered the Onslaught map?",
+  "c": "A cave? Could it be? There can be no other correlation!"
+ },
+ {
+  "id": 12476,
+  "t": "The Return of the Crusade?",
+  "o": "Commander Lynore Windstryke at Wintergarde Keep in Dragonblight wants you to kill 20 Scarlet Onslaught at the Onslaught Base Camp.",
+  "d": "To the northeast of Wintergarde Keep is a newly built encampment, set up by the Scarlet Crusade - or rather - the Scarlet Onslaught as they now call themselves. While we are unsure as to why they are in Northrend, they are certainly no less dangerous than they were before. As of last night the Scarlet Onslaught has killed twelve of our soldiers. They must be taught a lesson, $N.$B$BGo to Onslaught Base Camp and thin them out. $B",
+  "p": "Clear out the Onslaught Base Camp, $N.",
+  "c": "Hopefully the message is now clear to the Onslaught. I hope it was enough of a beating to make them doubt their affiliations.\n"
+ },
+ {
+  "id": 12477,
+  "t": "The Path of Redemption",
+  "o": "Return \"The Path of Redemption\" to High Commander Halford Wyrmbane at Wintergarde Keep in Dragonblight.",
+  "d": "\"The Path of Redemption,\" ever heard of it? It is allegedly a journal that holds the prophetic ramblings of High General Abbendis of the Scarlet Onslaught. Within that book can be found the motivations and goals of the Scarlet zealots - not to mention a whole lot of insanity.$B$BVenture to Onslaught Base Camp, northeast of Wintergarde Keep, and recover a copy of \"The Path of Redemption\" from one of the Onslaught soldiers.",
+  "p": "Did you find a copy?",
+  "c": "<Halford reads the journal.>$B$BAbbendis has gone off the deep end. The Light speaks to her now?$B$BDespite the inane ramblings, this journal gives us a never before seen look into the mind of the Scarlet zealots. This was a great find, $N. Lord Fordragon will be pleased."
+ },
+ {
+  "id": 12478,
+  "t": "Frostmourne Cavern",
+  "o": "Zelig the Visionary at Wintergarde Keep in Dragonblight wants you to use Zelig's Scrying Orb at the bottom of Frostmourne Cavern. Unlock the secrets of the past!",
+  "d": "They have labeled the cave as Frostmourne Cavern. Why the Scarlet Onslaught is interested in such things is unknown, but by the look of things, the area surrounding the cave is heavily guarded. Nonetheless, we must proceed!$B$BTake this scrying orb and travel north out of town and then northwest towards Scarlet Point. Make your way into the cave and battle your way to the bottom. Once there, use the orb. Return here with what you discover.",
+  "p": "Have you searched Frostmourne Cavern?",
+  "c": "Muradin lives? Could it be? I must nofity King Bronzebeard at once!$B$BI need to consult the orb. There must be more information - somewhere!\n"
+ },
+ {
+  "id": 12479,
+  "t": "Onwards to Northrend!",
+  "o": "Speak to the Alliance Recruiter inside Valiance Keep in Borean Tundra or the one at Vengeance Landing in Howling Fjord.",
+  "d": "Welcome to the Wrath of the Lich King Friends and Family Alpha.  Use the portals next to me to begin your journey into Northrend.$B$BYou can choose to report to the Alliance recruiter in Valiance Keep in Borean Tundra or you can go to Valgarde in Howling Fjord.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12480,
+  "t": "Onwards to Northrend!",
+  "o": "Speak to the Horde Recruiter inside Warsong Hold in Borean Tundra or Vengeance Landing in Howling Fjord.",
+  "d": "Welcome to the Wrath of the Lich King Friends and Family Alpha.  Use the portals next to me to begin your journey into Northrend.$B$BYou can choose to report to the Horde recruiter in Warsong Hold in Borean Tundra or you can go to Vengeance Landing in Howling Fjord.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12481,
+  "t": "Adding Injury to Insult",
+  "o": "Read the Vrykul Insult to Bjorn Halgurdsson in Baleheim, then lead him back to Lydell's Ambush and help slay him.",
+  "d": "The vrykul are being clever about this.  Fortunately I've a trick up my sleeve.$B$BThis leader of theirs, Bjorn, is a real hothead.  We've pieced together enough of their language to fashion what we think is a good insult.  Something involving his mother and large barnyard animals... we're not quite sure.$B$BTake this piece of paper and read it to him.  Once he starts chasing you, lure him back here.  We'll make sure he doesn't make it out alive.",
+  "p": "Assassination work isn't as glamorous as it's made out to be.",
+  "c": "Nice work. That poor sap never saw it coming."
+ },
+ {
+  "id": 12482,
+  "t": "Against Nifflevar",
+  "o": "Ranger Captain Areiel wants you to go to Nifflevar and slay 5 Dragonflayer Warriors, 4 Dragonflayer Rune-Seers and 4 Dragonflayer Hunting Hounds.",
+  "d": "We await reinforcements from Vengeance Landing to move against Nifflevar.  If we were to capture it earlier, though, it would provide us with a great advantage over the Alliance.$B$BHead into town and see if you can put a dent in their numbers.",
+  "p": "Hail, $N.",
+  "c": "Excellent work, $N. When our forces from Vengeance Landing arrive, we'll be able to take care of any vrykul that are left."
+ },
+ {
+  "id": 12483,
+  "t": "Shimmercap Stew",
+  "o": "Prigmon in Granite Springs wants you to collect 5 Shimmering Snowcaps and 5 Ice Serpent Eyes from Drak'Zin Ruins and 5 Sweetroot from Zeb'Halak.",
+  "d": "Say, while yer here, how bout ya help ol' Prigmon with a little chore? I got a friend who can make a mean stew - one like ya never tasted before!$b$bThere be a few ingredients found in these parts that he be needin'. They be in ruins to the southwest and the camp just north o' here.$b$bWhatd'ya say, mon?",
+  "p": "You get those ingredients for 'ol Prigmon, $n?",
+  "c": "Oh, mon - shimmercap stew! I can almost taste it already...."
+ },
+ {
+  "id": 12484,
+  "t": "Scourgekabob",
+  "o": "Prigmon at Granite Springs wants you to bring a Mummified Troll Carcass to Mack Fearsen and place it in the fire.",
+  "d": "Ugh.$b$bWrappin' up these unfortunate trolls be makin' my heart ache, but not so much as my back!$b$bHelp ol' Prigmon out and haul one of these carcasses over to Mack.$b$bIf we don't burn 'em they be walkin' again in no time.",
+  "p": "Whatcha got there, $r?",
+  "c": "Nothin' better than watchin' them shcourge burn... <hic>.$b$bWrote a little shong about it. Wanna hear it? Here goes...."
+ },
+ {
+  "id": 12486,
+  "t": "To Bor'gorok Outpost, Quickly!",
+  "o": "Speak with Spirit Talker Snarlfang at Bor'gorok Outpost.",
+  "d": "Did you feel it?$B$B<Sauranok momentarily clutches his chest in confusion. His hand comes away trailing red-hot steam.>$B$BSomething terrible has happened to my old friend, Farseer Grimwalker. I just sensed it.$B$BHe had a pupil that he took with him when he went north. They were going to help the overlord establish an outpost on the edge of Sholazar Basin.$B$BHer name is Snarlfang. She is a spirit talker.$B$BPerhaps she will know what happened. Or, at least, she can help you to find out.",
+  "p": "",
+  "c": "The mystic knows? You say he felt that something horrible happened to Farseer Grimwalker?$B$BIt is as I feared!"
+ },
+ {
+  "id": 12487,
+  "t": "To Conquest Hold, But Be Careful!",
+  "o": "Present yourself to Conqueror Krenna at Conquest Hold in the Grizzly Hills.",
+  "d": "I've received a request for help from our base in the Grizzly Hills. I'm sending you to see Conqueror Krenna.$B$B<The high executor waves a sheaf of parchment in the air as if he could care less what is written on it.>$B$BShe's attempting to secure all of the natural resources or somesuch. Just watch your back around her. The word is that she's aggressive even for an orc.$B$BFollow the road east and then southeast. Cross the bridge at the Dragonspine Tributary and go east from the Evergreen Trading Post.",
+  "p": "",
+  "c": "Who are you?$B$BTell me why I shouldn't split you in two where you stand!"
+ },
+ {
+  "id": 12488,
+  "t": "The High Executor Needs You",
+  "o": "Speak with High Executor Wroth at Venomspite in Dragonblight.",
+  "d": "It's a good thing that I intercepted this request from High Executor Wroth before it got to Overlord Agmar. What is Wroth thinking?$B$B<The sergeant rips up the letter that he's holding.>$B$B$C, go see what it is that the high executor wants.$B$BFollow the road east and pass through The Dragon Wastes. You'll find a path leading up out of the wastes on the southeast side, and the Forsaken town, Venomspite, will stand before you on the south side of the mountain.",
+  "p": "",
+  "c": "You were sent from Agmar's Hammer? It's about time!$B$BNo, the help is not for me. I simply have no one else to spare, but you'll do."
+ },
+ {
+  "id": 12489,
+  "t": "Welcome to Sholazar Basin",
+  "o": "Follow the path to the northwest to reach the camp that Monte mentioned.",
+  "d": "So, where did you come from? I don't suppose that fool of an archmage sent you, too?$B$BYou're lucky to be in one piece, $g laddie:lass;! They nearly blew you up!$B$BThe jungle here's a darned dangerous place, 'specially with the Venture Company about.$B$B Git you! Go see the boss... he'll sort you out. The camp's at the end of that path to the northwest.$B$BNow, git!",
+  "p": "",
+  "c": "Hah! It's not often you run into a complete stranger in the middle of the jungle.$B$BYou one those druid lackeys sent to \"stop me and my evil ways?\" Yeah, good luck with that one!$B$B<Hemet lets out a hearty laugh and pats his gun.>$B$BDidn't think so! You're more than welcome to join us in the hunt, soon as we've dealt with those Venture Company dogs. There'll be plenty to go around."
+ },
+ {
+  "id": 12490,
+  "t": "Veehja's Revenge",
+  "o": "Veehja at the Shrine of Scales wants you to slay 6 Skadir Mariners, 3 Skadir Mistweavers and 2 Skadir Runecasters.",
+  "d": "We share a common enemy today, $r!  My people have been wiped out by these Kvaldir... my city has been all but destroyed.  It is time for exacting revenge!$B$BIn return for my help, I'd like you to slay the barbaric monsters that defile Riplash.  You will be well rewarded, $c.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12491,
+  "t": "Direbrew's Dire Brew",
+  "o": "Give Direbrew's Dire Brew to Ipfelkofer Ironkeg at the Brewfest camp near Ironforge.",
+  "d": "Coren Direbrew's corpse clutched this small cask tightly to its gut.  This must be his infamous Dire Brew!",
+  "p": "$n, your face has a grim set to it. Do you have dire news?",
+  "c": "This is the Coren Direbrew's drink? The brew he wanted more than anything to submit at Brewfest? Well, officially we can't recognize this submission, but out of respect for a fallen brewer, perhaps I'll have a taste..."
+ },
+ {
+  "id": 12492,
+  "t": "Direbrew's Dire Brew",
+  "o": "Give Direbrew's Dire Brew to Tapper Swindlekeg at the Brewfest camp near Orgrimmar.",
+  "d": "Coren Direbrew's corpse clutched this small cask tightly to its gut.  This must be his infamous Dire Brew!",
+  "p": "Hey $N, your face is all smudged! Have you been to Blackrock Depths?",
+  "c": "Ah, so Direbrew finally submitted his brew. What a pity he had to die to do it...$B$BOh, well. Bottoms up, eh?"
+ },
+ {
+  "id": 12493,
+  "t": "PvP Test",
+  "o": "Kill 10 opponents.",
+  "d": "Kill me some guys from the other side!  Those guys suck!  I need to test something, so let's just repeat this over and over again.  I need to test something, so let's just repeat this over and over again.  I need to test something, so let's just repeat this over and over again.  I need to test something, so let's just repeat this over and over again.  I need to test something, so let's just repeat this over and over again.  I need to test something, so let's just repeat this over and over again.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12495,
+  "t": "Audience With The Dragon Queen",
+  "o": "Seek out Alexstrasza the Life-Binder at Wyrmrest Temple in Dragonblight.",
+  "d": "Our assault against Angrathar has staggered the Scourge, but they remain unrelenting. From overhead they send their frost wyrms to strafe the field of battle, making an advance upon the gate itself impossible. The frost wyrm attacks must be stopped, but before we defile the bones of ancient dragons, we must gain permission from their queen.$B$BTravel southeast to Wyrmrest Temple and seek out Queen Alexstrasza. Tell her what we must do and ask her for guidance.$B$BGo now, $N!",
+  "p": "",
+  "c": "You have come seeking my council, mortal. This I know, but do you know what it is that you face?$B$B<Alexstrasza points northward.>$B$BNorth of here are the dying grounds of Galakrond - progenitor of dragonkind. It is from Galakrond that the Titans created the Aspects. Imagine, then, the power of Galakrond. His size alone was greater than all of the Aspects combined! Now attempt to understand what the Scourge do in the Great Dragonblight.$B$BFrost wyrms, mortal, should be the least of your concerns."
+ },
+ {
+  "id": 12496,
+  "t": "Audience With The Dragon Queen",
+  "o": "Seek out Alexstrasza the Life-Binder at Wyrmrest Temple in Dragonblight.",
+  "d": "Though I know you hunger to destroy the Scourge that stand before us at the Wrath Gate, we must first deal with the threat that looms overhead. Until the strafing assaults of the frost wyrms are halted, we cannot move forward.$B$BBut before we assault the dying grounds of dragons, we must first be granted permission. Venture now to the hallowed halls of dragonkind: Wyrmrest Temple. Once there, seek out Queen Alexstrasza.$B$BRide now, $N! Southeast, to Wyrmrest!",
+  "p": "",
+  "c": "You have come seeking my council, mortal. This I know, but do you know what it is that you face?$B$B<Alexstrasza points northward.>$B$BNorth of here are the dying grounds of Galakrond - progenitor of dragonkind. It is from Galakrond that the Titans created the Aspects. Imagine, then, the power of Galakrond. His size alone was greater than all of the Aspects combined! Now attempt to understand what the Scourge do in the Great Dragonblight.$B$BFrost wyrms, mortal, should be the least of your concerns."
+ },
+ {
+  "id": 12497,
+  "t": "Galakrond and the Scourge",
+  "o": "Speak with Torastrasza at Wyrmrest Temple in Dragonblight.",
+  "d": "Atop the Wicked Coil, the Grand Necrolord of the Scourge, Antiok, sits upon the shoulders of the reconstructed storm giant lord, Thiassi. From there he commands the armies of undead to work day and night to unearth Galakrond's massive bones. Should they succeed in raising Galakrond, all of your efforts will have been for naught.$B$BWhile I cannot call down the full fury of the Red Dragonflight to assist you in your journey, I will grant you my blessing. Go now and speak with my majordomo, Torastrasza. ",
+  "p": "",
+  "c": "The bravery of mortals never fails to astound me. Death affixes its cold stare upon you and in return you rise to challenge its assertion! It is why your kind is so loved... and so hated.$B$BEven though the Red Dragonflight is entrenched in a war with Malygos, there is something that we can do to help."
+ },
+ {
+  "id": 12498,
+  "t": "On Ruby Wings",
+  "o": "Destroy 30 Wastes Scavengers and recover the Scythe of Antiok. Return to Alexstrasza the Life-Binder at Wyrmrest Temple should you complete this task.",
+  "d": "Use this beacon to signal a Wyrmrest vanquisher. Climb upon its back and fly north to Galakrond's Rest. Once there, command the dragon to destroy the Scourge scavengers that work to unearth Galakrond. Once the area has been cleansed, fly to the Wicked Coil, overlooking Galakrond's Rest, to destroy Grand Necrolord Antiok and recover the scythe that he uses to control the wyrms.$B$BDo this and return to Queen Alexstrasza for a hero's reward!$B$B$N, beware the rotting storm giants that wander the area!",
+  "p": "Destroy the Scourge at Galakrond's Rest before it is too late!",
+  "c": "I knew that you would return, $N. You have served the Wyrmrest Accord and saved your people from certain death. Let it be known to all and let it be recorded for posterity!"
+ },
+ {
+  "id": 12499,
+  "t": "Return To Angrathar",
+  "o": "Speak with Highlord Bolvar Fordragon at Fordragon Hold and tell him of your victory over the Scourge.$B",
+  "d": "With Antiok slain and the scythe in our possession, the frost wyrm assaults upon your forces at Angrathar will halt. The wyrms that remain in the Dragonblight will be hunted and destroyed, their bones returning to the earth.$B$BThe time to make your final stand is now, $N. Return to Fordragon Hold and notify Highlord Fordragon.$B",
+  "p": "",
+  "c": "Know this: all that you have done has led to this moment. Without your efforts, we would have been finished! Now, stand guard as I take to the field and end this!"
+ },
+ {
+  "id": 12500,
+  "t": "Return To Angrathar",
+  "o": "Speak with Saurfang the Younger at the Kor'kron Vangaurd and tell him of your victory over the Scourge.",
+  "d": "With Antiok slain and the scythe in our possession, the frost wyrm assaults upon your forces at Angrathar will halt. The wyrms that remain in the Dragonblight will be hunted and destroyed, their bones returning to the earth.$B$BThe time to make your final stand is now, $N. Return to the Kor'kron Vanguard and notify Saurfang the Younger.",
+  "p": "",
+  "c": "My father was right about you, $N. Everything that he said has come to pass - only one final duty remains unfulfilled. I will now lead the Kor'kron to the front line. The time to end this war is at hand. The Lich King's tyranny ends today!$B$BTake my post now, $N, and stand guard over our forces."
+ },
+ {
+  "id": 12501,
+  "t": "Troll Patrol",
+  "o": "Commander Kunz at the Argent Stand wants you to visit the four Argent Crusade posts, follow their captain's orders, and then return and report to him.$b$bCaptain Brandon and Captain Rupert are posted at Drak'Sotra, Captain Grondel is posted in Drak'Agal, and Alchemist Finklestein is posted in Heb'Valok.",
+  "d": "Unsheathe that weapon, $r. It's time to go on patrol!$b$bI've got four posts under my command and it's crucial to our success that they remain in our control. I'm ordering you to visit each of them and offer your assistance.$b$bYou can begin with Captain Brandon southeast of here. He'll direct you to the next post when he's finished with you.$b$bReport back to me once you've assisted each of my men. And remember, you'll be more richly rewarded for returning to me quickly - so double-time it!$b$bDismissed!",
+  "p": "What news from our posts, $r?",
+  "c": "Well, $N, at least you've made it back in one piece. I suppose that's worth something...."
+ },
+ {
+  "id": 12502,
+  "t": "Troll Patrol: High Standards",
+  "o": "Captain Brandon wants you to place the Argent Crusade Banner in the Drakkari Pedestals at Drak'Sotra.",
+  "d": "Listen, $c. This is the Argent Crusade. Our men will fight to the end and never complain no matter what the conditions.$b$bThat said, we've taken some heavy casualties in this campaign and we've been hitting it hard with little or no sleep for months. That all takes a toll on morale, whether we admit it or not.$b$bIt may not seem like much, but seeing our standard raised over the battlefield is of considerable comfort to a soldier. Take these banners and raise them at the pedestals in Drak'Sotra.",
+  "p": "",
+  "c": "Good work, friend.$B$BAmazing what a little of one's colors do for a battleground.$B$BYou'll want to head on over to Captain Rupert next. He's stationed at the wall, just northeast of here."
+ },
+ {
+  "id": 12503,
+  "t": "Defend the Stand",
+  "o": "Commander Falstaav has tasked you with the destruction of any 10 Scourge in the courtyard at The Argent Stand.",
+  "d": "Despite our substantial successes in the lower third of Zul'Drak, we must still face the onslaught of the Scourge. Such is the way in this frigid hell.$B$BThe attacks are unrelenting, yet my men need rest. If you are willing, we could use your aid in reinforcing them.$B$BBelow in the courtyard you'll find no end to the fighting. Dispatch the Scourge there with all the zeal you can muster, $c.",
+  "p": "Perhaps you could destroy a few more?",
+  "c": "Your assistance in this matter is greatly appreciated. Were it not for your efforts, we would have difficulty in holding the unliving back from our steps."
+ },
+ {
+  "id": 12504,
+  "t": "Argent Crusade, We Are Leaving!",
+  "o": "Sergeant Stackhammer at the Altar of Sseratus wants you to speak with 10 of his Argent Soldiers and tell them to report back to him.",
+  "d": "<The sergeant quickly reads through the orders you've handed him, a frown coming over his face.>$B$BLook, $g lad : lass;, I'd love to just up and leave, but take a look out there. All of my people are fighting.$B$BTell you what, you've come this far, you think you're up to doing me a small favor? Head out there and round up my soldiers?$B$BTell 'em that the sergeant orders them to report back immediately. Lend them a hand if you will.",
+  "p": "I'll need more of them to report back in than that.",
+  "c": "Alright then. We'll collect up the rest and head back to the stand.$B$BIt's a shame that we have to leave so soon. Doesn't quite feel like the job's done here, and quite frankly, I get the feeling that prophet in front of the altar is going to be big trouble!"
+ },
+ {
+  "id": 12505,
+  "t": "New Orders for Sergeant Stackhammer",
+  "o": "Commander Kunz has asked you to deliver the New Deployment Orders to Sergeant Stackhammer at the Altar of Sseratus.",
+  "d": "$C, you're here to help, right? I've got new orders for our forces that are currently deployed at the Drakkari altar to the north.$B$BYou can't miss it. Just head straight up the avenue. Sergeant Stackhammer shouldn't be hard to find.",
+  "p": "What's this all about?",
+  "c": "<The dwarf sergeant warily eyes the orders in your hand.>$B$BAre those new orders for me, $g mister : miss;?"
+ },
+ {
+  "id": 12506,
+  "t": "Trouble at the Altar of Sseratus",
+  "o": "Hexxer Ubungo at The Argent Stand has asked you to investigate the main altar building at the Altar of Sseratus.",
+  "d": "There's trouble at the altar of the snake god.$B$BThe presence of the Scourge has weakened the land, $r. This in turn has weakened the wild gods.$B$BWe know that the Drakkari are taking advantage of this to do evil things to the gods.$B$BI need you to be my eyes and ears. The Altar of Sseratus is at the end of the avenue to the north. Sneak around the back and get a look inside of the main altar building.$B$BWhatever you do, avoid the prophet at all costs!",
+  "p": "What did you see, $r?",
+  "c": "Dead?$B$B<The hexxer's spirit is visibly lowered at the news you bring.>$B$BThey've killed Sseratus and drunk deeply of his mojo; the prophet especially!$B$BWe must figure out a way to put an end to him before he drinks too much more!"
+ },
+ {
+  "id": 12507,
+  "t": "Strange Mojo",
+  "o": "Deliver the Strange Mojo to Hexxer Ubungo at The Argent Stand.",
+  "d": "This bottle of strange mojo may be the key to what is truly going on here.$B$BThe Zandalari troll Hexxer Ubungo, back at The Argent Stand, may want to take a look at it.",
+  "p": "What's that you have there?",
+  "c": "That's the mojo of the wild gods, $c!$B$BThis is not good!"
+ },
+ {
+  "id": 12508,
+  "t": "Mopping Up",
+  "o": "Corporal Maga at the Altar of Sseratus wants you to kill any combination of 10 Champions of Sseratus, Priests of Sseratus, or Drakkari Snake Handlers.",
+  "d": "I couldn't help but overhear what you were talking to the sergeant about. That doesn't change the fact that we still have a job to do here.$B$BWhile you're out there, do you think you could help us to put some of those followers of Sseratus out of their misery?",
+  "p": "How about killing a few more?",
+  "c": "Thanks, $c. I'd have hated to leave without accomplishing what we came out here for in the first place."
+ },
+ {
+  "id": 12509,
+  "t": "Troll Patrol: Intestinal Fortitude",
+  "o": "Captain Rupert in Drak'Sotra wants you to restore courage to the cowering Crusade Recruits.",
+  "d": "Finally, the patrol arrives!$b$bHere's the situation, $r. We've lost many of our finest soldiers in this campaign and have had to call upon our recruits to fill in the gaps.$b$bWe've just fought one of our fiercest battles and many of the recruits were simply not prepared to face this enemy. There are more fights ahead, and I need them ready to follow orders.$b$bIf there's one thing I can't stomach, it's cowardice. Perhaps you can help them find the courage to continue. ",
+  "p": "",
+  "c": "Well done, $c. And not a moment too soon. I've received word that a counter-attack is imminent.$B$BYou should be on your way. The next post is to the northeast, near the coliseum. Captain Grondel should be waiting for you there."
+ },
+ {
+  "id": 12510,
+  "t": "Precious Elemental Fluids",
+  "o": "Hexxer Ubungo at The Argent Stand wants you to acquire 3 Precious Elemental Fluids.",
+  "d": "<The hexxer examines the decanter of mojo.>$B$BI have an idea for how to deal with the prophet of Sseratus. But first, we're going to need some things.$B$BThe Drak'Sotra Fields are directly to the south. Because of the stresses on the land from the Scourge and the deaths of gods, the wall between worlds has weakened and the elementals are flooding in.$B$BWe need the precious fluids of their lords. If you combine three links from the elementals a tether will be made, and one of their lords can be summoned.",
+  "p": "Do you have the precious fluids?",
+  "c": "Excellent. When combined with the mojo, these fluids will dilute the effectiveness of the mojo without completely eliminating it.$B$BNow, one more thing."
+ },
+ {
+  "id": 12511,
+  "t": "The Hills Have Us",
+  "o": "Report to Lieutenant Dumont at Amberpine Lodge in western Grizzly Hills.$B",
+  "d": "While we focus to hold our ground at Wintergarde and deal with the unfolding events of the Wrathgate, battalions from as far away as Westfall battle their way through the dense foliage and inhospitable denizens of Grizzly Hills. All in hopes of finding an alternate route into Icecrown.$B$BLieutenant Dumont, stationed at Amberpine Lodge, has enlisted the aid of able bodied citizens willing to risk life and limb in the uncharted wilds. Will you rise to meet this challenge?",
+  "p": "",
+  "c": "You were almost shot down, eh? Savage monsters - those Horde.$B$BPayback will come for what they've done. You can count on at least that much, $c.$B$BNow, it's time to put you to work."
+ },
+ {
+  "id": 12512,
+  "t": "Leave No One Behind",
+  "o": "Dr. Rogers at Drak'Sotra wants you to find Crusader Lamoof, Crusader Jonathan, and Crusader Josephine. Use the Crusader's Bandage on them, and escort them safely back to him.",
+  "d": "Ahh, good. They sent someone.$b$bListen, $r. We need a hand here. Our forces were pushed back and we've lost Drak'Sotra to the Scourge. Where they came from is anyone's guess....$b$bThe point is, we need every man we can get here, and some of our best have yet to return from battle.$b$bI need you to enter the ruins now that the fighting has died down and find our wounded, patch them up, and bring them here to me.$b$bScour Drak'Sotra! They couldn't have gone far.",
+  "p": "Have you rescued our veterans, $N?",
+  "c": "Saved them all, did you? Outstanding!$b$bMaybe you'd consider sticking around the post here? We could sure use someone like you...."
+ },
+ {
+  "id": 12513,
+  "t": "Nice Hat...",
+  "o": "Don Carlos has inadvertently challenged you to defeat his younger self in Old Hillsbrad. Afterwards, bring Don Carlos' Hat to him in Tanaris as proof.",
+  "d": "My hat? Yes, it's an unusual style, I know, from far away... few tailors here know how to make them.$B$BWhen I was young and hot-blooded, I wore it as a standing challenge. Many came seeking to defeat me and win it for themselves... but no one ever did.$B$BAh, but those days are long past. I'm an old man, now: I drink, I fish, but I no longer duel.",
+  "p": "I was unbeatable, in those days... proud, and rightly so. No challenger ever won this fine hat...$B",
+  "c": "My... my hat! But... how did you...?$B$BWell... no matter. So, now you know my secret. I WAS beaten... once. Here: take this hat, in return for mine. You've earned it."
+ },
+ {
+  "id": 12514,
+  "t": "Mushroom Mixer",
+  "o": "Collect 10 Muddlecap Fungus and deliver them to Hexxer Ubungo at The Argent Stand.",
+  "d": "Now what we need is something to spike the mojo with. Something that'll make it so that when the prophet drinks it, he'll become less powerful.$B$BDrak'Agal lies to the east. There's a mushroom there that the natives call muddlecap fungus. I think it's exactly what we need.$B$BBring back lots of them. When we mix them into the mojo, the mind of anyone who drinks it will become muddled.",
+  "p": "Do you have all of the fungus?$B$BOh, and watch out for the basilisks lurking over there.",
+  "c": "<The hexxer nods his approval.>$B$BHand that fungus over and I'll mix it up with the mojo and elemental lord fluids."
+ },
+ {
+  "id": 12515,
+  "t": "Nice Hat...",
+  "o": "Don Carlos has inadvertently challenged you to defeat his younger self in Old Hillsbrad. Afterwards, bring Don Carlos' Hat to him in Tanaris as proof.",
+  "d": "My hat? Yes, it's an unusual style, I know, from far away... few tailors here know how to make them.$B$BWhen I was young and hot-blooded, I wore it as a standing challenge. Many came seeking to defeat me and win it for themselves... but no one ever did.$B$BAh, but those days are long past. I'm an old man, now: I drink, I fish, but I no longer duel.",
+  "p": "I was unbeatable, in those days... proud, and rightly so. No challenger ever won this fine hat...",
+  "c": "My... my hat! But... how did you...?$b$bWell... no matter. So, now you know my secret. I WAS beaten... once. Here: take this hat, in return for mine. You've earned it."
+ },
+ {
+  "id": 12516,
+  "t": "Too Much of a Good Thing",
+  "o": "Slay the Muddled Prophet of Sseratus and then return to Hexxer Ubungo at The Argent Stand.",
+  "d": "There. I've modified the mojo. Now when the prophet drinks it, not only will he lose some of his power, his mind will also be addled by the effects of the fungus.$B$BAt least that's the theory.$B$BAs for how to get him to drink it, might I suggest you simply throw it at him? No doubt he'll catch and drink it given the arrogance that he's displayed at the altar.$B$BUnless you can kill him, $c, your Argent Crusade is about to come to a terrible end.",
+  "p": "Is it over?$B$BDid the modified mojo work?$B$BDid you deliver vengeance for Sseratus by slaying his prophet?",
+  "c": "Amazing! You've saved your people and the rest of Northrend from his madness.$B$BUnfortunately there's more of this insanity occurring up in the higher tiers of Zul'Drak."
+ },
+ {
+  "id": 12517,
+  "t": "Rogues Deck",
+  "o": "Use the Rogues Deck to summon a Darkmoon Fortune Teller and give the deck to them.",
+  "d": "Now that you have gathered all of the Rogue cards together into a deck, another card appears on top.  It depicts a fortune teller that seems to stare at you no matter how you hold the card.$b$bYou feel the card could be used to communicate with someone or something.",
+  "p": "I see that you have managed to inscribe a deck of Rogues! I'm impressed.",
+  "c": "Your skill with the quill is already starting to manifest, young scribe. The tarot cards are of great interest to the Darkmoon Faire, so do not hesitate to call upon us if you manage to create more. We are not without our own skilled tradesmen, so please allow us to offer something in trade for the cards."
+ },
+ {
+  "id": 12518,
+  "t": "Mages Deck",
+  "o": "Use the Mages Deck to summon a Darkmoon Fortune Teller and give the deck to them.",
+  "d": "Now that you have gathered all of the Mage cards together into a deck, another card appears on top.  It depicts a fortune teller that seems to stare at you no matter how you hold the card.$b$bYou feel the card could be used to communicate with someone or something.",
+  "p": "I see that you have managed to complete a deck of Mages! Congratulations!",
+  "c": "Your skill is most impressive! The tarot cards are of great interest to the Darkmoon Faire, so do not hesitate to call upon us if you manage to create more. We are not without our own skilled tradesmen, so please allow us to offer something in trade for the cards."
+ },
+ {
+  "id": 12519,
+  "t": "Troll Patrol: Whatdya Want, a Medal?",
+  "o": "Captain Grondel outside the Coliseum wants you to gather 7 Drakkari Medallions from the nearby Drakkari Corpses.",
+  "d": "Look at me, $r. Do I look like I have time fer fillin' out reports?$b$bIt be all I can do to keep this post free o' the bloody Scourge, and they want me to mess with paperwork!$b$b<sigh> No sense in complainin'. I need to get the commander some kinda kill count from the last skirmish.$b$bYou wanna be helpful? Go and get me all the medals you can find from the dead trolls around here. That'll hafta be close enough.",
+  "p": "You get those medals for me, $r?",
+  "c": "Well, now!$B$BYa saved me a fair bit o' work there $Glad:lass;. I'm grateful. I'll be sure ta make mention of ya in me report.$B$BOff with yeh now. Finklestein'll likely be waitin fer ya a bit west o' here."
+ },
+ {
+  "id": 12520,
+  "t": "Rhino Mastery: The Test",
+  "o": "Kill 15 Shardhorn Rhinos and return to Hemet Nesingwary at the Nesingwary Base Camp.",
+  "d": "No rough landing is going to stop ol' Hemet from mastering the largest game Sholazar has to offer. In the wilds northwest of the camp, the jungles are ruled by the mighty shardhorn rhino. You can prove your worth to the expedition, $g lad:lass;, by showing me that you're tough enough to face down those powerful beasts.",
+  "p": "Did you master the rhinos, or are you throwing in the towel?",
+  "c": "Well, well, well, it looks like you've survived the rhinos, after all, and in pretty good shape if I do say so myself. But there's more to rhino hunting than just staring down the beast as it charges you and hoping your aim is true. No, you'll need more than that to take on the rhino patriarch that's rumored to dwell in the jungle."
+ },
+ {
+  "id": 12521,
+  "t": "Where in the World is Hemet Nesingwary?",
+  "o": "Talk to Archmage Pentarus when you're ready to leave for Sholazar Basin. When you arrive, speak with Monte Muzzleshot in the Wildgrowth Mangal of Sholazar Basin.",
+  "d": "When I heard that the legendary Hemet Nesingwary was setting sail for the Sholazar Basin, I offered to help fund his expedition. We know little of Sholazar,  but it's said to be a lush paradise in the midst of this frozen continent.$B$BHemet has agreed to send back samples of exotic plants, reagents, and crystals. There hasn't been any word from him. Monte Muzzleshot was supposed to be bringing them supplies, but he hasn't returned, either. If you'll look into it, I'll send you in my flying machine.",
+  "p": "",
+  "c": "Aye, Hemet's here. He's at the camp, just go northwest toward the river and you'll soon see it. And for the love of the Light, $g lad:lass;, have him send someone to cut me down!"
+ },
+ {
+  "id": 12522,
+  "t": "Need an Engine, Take an Engine",
+  "o": "Weslex Quickwrench at the Nesingwary Base Camp wants you to bring him a Flying Machine Engine.",
+  "d": "She's ruined... ruined! I told that captain to be careful with such a precious cargo, but would she listen to me? No!$B$BWhen the ship ran aground, it damaged my flying machine, the Spirit of Gnomeregan. Now, we're left without any means to send our reports!$B$BThere is a chance, though, that the Venture Company's antics may work in our favor. They shot down another flying machine right about where Monte parachuted into the swamp to the east. Go there and retrieve the engine. It may be our only hope.",
+  "p": "Well, were you able to get the engine? I just know that archmage who funded the expedition is getting nervous.",
+  "c": "There... just set it down there. Be careful! If you ruin this one, we're in big trouble. Now, let's see what I can do."
+ },
+ {
+  "id": 12523,
+  "t": "Have a Part, Give a Part",
+  "o": "Bring 7 Venture Co. Spare Parts to Weslex Quickwrench at the Nesingwary Base Camp.",
+  "d": "Great, now that we've got an engine, we're going to need an assortment of other parts to get her back in flying condition. Don't worry, I know what I'm doing.$B$BA good mechanic can hold his creations together with anything, but we're better off if it doesn't come to that.$B$BAnyway, those Venture Company dullards have plenty of spare parts for their mining equipment all over Swindlegrin's Dig on the far side of that yellow crystal pillar to the northeast. Scoop up a few and bring them back here.",
+  "p": "Did you get those parts?",
+  "c": "With a little work, these should suffice. My poor flying machine might end up looking more like a Venture Company shredder, though. Poor girl will have to wait until we get back to Dalaran to be restored to her rightful form."
+ },
+ {
+  "id": 12524,
+  "t": "Venture Co. Misadventure",
+  "o": "Debaar at the Nesingwary Base Camp wants you to kill 15 Venture Company members. You may kill either Venture Co. Ruffians or Venture Co. Excavators.",
+  "d": "Ever since we arrived, the Venture Company has hampered our efforts to secure our campsite and survey the area. Normally, we wouldn't care what they were up to, but they've started antagonizing our scouts and shooting down supply flights.$B$BWe can't allow this insult to stand. Hemet Nesingwary's expedition came here to hunt, and hunt it shall.$B$BGo to Swindlegrin's Dig, on the far side of the crystal pillar to the northeast, and kill any Venture Company employee you see!",
+  "p": "",
+  "c": "That should hamper their operations, but I worry that the foreman will try to bring in more workers. We have to complete the job while we can."
+ },
+ {
+  "id": 12525,
+  "t": "Wipe That Grin Off His Face",
+  "o": "Kill Foreman Swindlegrin and Meatpie and return to Debaar at the Nesingwary Base Camp.",
+  "d": "We must send Foreman Swindlegrin packing if we're going to shut down his mine permanently, but be careful. His bodyguard, Meatpie, is a large, mean ogre, and  isn't likely to let you see the foreman without a fight.$B$BThe two probably occupy a platform that would let them look out over the entire Venture Company operation at Swindlegrin's Dig.$B$BRemember, the dig is on the far side of the Suntouched Pillar to the northeast. Good luck, $N.",
+  "p": "Have you dealt with Swindlegrin and his bodyguard?",
+  "c": "What a relief to hear that the Venture Company will trouble us no more. You have my thanks, and that of Hemet for dealing with this problem. A game hunter cannot, in good conscience, lift her weapon against another person."
+ },
+ {
+  "id": 12526,
+  "t": "Rhino Mastery: The Chase",
+  "o": "Speak to Oracle Soo-rahm at the Bones of Nozronn.",
+  "d": "Well, that's settled then. We'll seek out this native sage and have a word with him. He's not likely to volunteer his services, though.$B$BI'm told he keeps a small lean-to near the Bones of Nozronn, just across the river to the south. Seek him out, introduce yourself, and ask what he requires to help us track down this patriarch of the rhinos.",
+  "p": "",
+  "c": "What brings you to Rahm's shrine?"
+ },
+ {
+  "id": 12527,
+  "t": "Gluttonous Lurkers",
+  "o": "Deliver 5 Basilisk Crystals to Alchemist Finklestein in the shrine at Heb'Valok.",
+  "d": "My master, Finklestein, is in the shrine at Heb'Valok to the northwest preparing a truth serum, and he needs basilisk crystals. Heb'Valok is on the west side of the road leading north before the Altar of Sseratus.$B$BThere are basilisks to the east at Drak'Agal.$B$BIf you grab the Zul'Drak rats and throw them at the basilisk, they will become gorged and docile after eating five. Then you'll be able to take their crystals.$B$BKilling the basilisk won't do you any good. That'd just break its crystals!",
+  "p": "What's all this?$B$BBy any chance have you seen my no-good apprentice, Pestlepot?$B$BI sent him on an errand quite some time ago and he has yet to return!",
+  "c": "Oh, most excellent! Thank you. The crystals appear to be in fine condition!$B$BI have no doubt that Pestlepot put you up to doing his chores for him. Nevertheless, your assistance in this matter is greatly appreciated!"
+ },
+ {
+  "id": 12528,
+  "t": "Playing Along",
+  "o": "Report to High-Shaman Rakjak at Frenzyheart Hill as the new \"slave.\"",
+  "d": "My kill! You take my kill!$B$B<Gekgek taunts you with his spear.>$B$BYou dumb, $r. Now you owe Gekgek! You be Frenzyheart slave. You slay many more beasts for Frenzyheart.$B$BYou go Frenzyheart Hill to northeast - you tell High-Shaman Rakjak you the new slave.$B$BGo, $r! Go or I taunt you a second time!$B$B<Gekgek waves his spear around menacingly.>",
+  "p": "",
+  "c": "You the new slave?$B$BGood. We running out."
+ },
+ {
+  "id": 12529,
+  "t": "The Ape Hunter's Slave",
+  "o": "Kill 8 Hardknuckle Foragers and 6 Hardknuckle Chargers for High-Shaman Rakjak at Frenzyheart Hill.$B$BIf you lose Goregek's Shackles, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "You think you so great hunter, eh? You no Frenzyheart, you not know of hunt.$B$BGoregek is great ape hunter. He slay so many ape you can't count on claws.$B$BYou go with Goregek and hunt hardknuckles to east. You the slave, $r. You do what Goregek tell you.",
+  "p": "You still alive! Hardknuckles not eat you yet?$B$BMaybe they eat you later.",
+  "c": "Goregek show silly $r slave how it done."
+ },
+ {
+  "id": 12530,
+  "t": "Tormenting the Softknuckles",
+  "o": "Goregek has given you a Softknuckle Poker for use on Softknuckles to draw the Hardknuckle Matriarch out of hiding. Slay the Hardknuckle Matriarch and report her death to High-Shaman Rajak at Frenzyheart Hill.$B$BIf you lose Goregek's Shackles, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Slave thing!$B$BRakjak want me to babysit you while I kill hardknuckles. I feeling generous today, so I let you kill some too, but don't get in Goregek's way!$B$BRakjak not know yet, but Goregek has eye on big bad hardknuckle mama. We go to Hardknuckle Clearing to east and poke softknuckles with poker and she sure to come yelling!$B$B<Goregek rubs his hands together gleefully.>",
+  "p": "What you want, slave?",
+  "c": "Goregek take you to kill big mom of hardknuckles, eh? You lucky!$B$BDumb softknuckles squeal good!$B$B<Rakjak squeals loudly and breaks out laughing.>"
+ },
+ {
+  "id": 12531,
+  "t": "The Underground Menace",
+  "o": "Locate Serfex under the sands of the southern river, slay him, and bring his claw to High-Shaman Rakjak at Frenzyheart Hill.$B$BIf you lose Dajik's Worn Chalk, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Lion killer, chicken chaser, new Frenzyheart slave...$B$BI know you no want to stay slave, so I tell you what to do. Show you better than the other Frenzyheart hunters and then Rakjak respect you.$B$BUnder sands of south river there a beast that kills wasp, apes, and even wolvar. He called Serfex. You bring claw of Serfex to Rakjak and maybe he release you from slaveness.$B$BHope Dajik teaching you good so Serfex be easy stuff.",
+  "p": "I not ask for you, $r. What you want?",
+  "c": "You kill Serfex? I bet you follow mighty wolvar that kill Serfex and take claw.$B$BMy claw now."
+ },
+ {
+  "id": 12532,
+  "t": "Flown the Coop!",
+  "o": "Capture 12 Chicken Escapees for Elder Harkek.$B$BIf you lose Dajik's Worn Chalk, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Dumb Goregek stumble into chicken house and let all the chickens go!$B$BThey all around hill - go get chickens back!$B$B<Elder Harkek shoos you away.>",
+  "p": "You catch chickens?",
+  "c": "Good! I was worried about foodstuffs. I already pretty hungry.$B$BThank you, $r."
+ },
+ {
+  "id": 12533,
+  "t": "The Wasp Hunter's Apprentice",
+  "o": "Kill 6 Sapphire Hive Wasps and 9 Sapphire Hive Drones for High-Shaman Rakjak in Frenzyheart Hill.$B$BIf you lose Dajik's Worn Chalk, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Rakjak not dumb. Maybe you good at killing things. Maybe Frenzyheart can make you into real hunter.$B$BDajik hunts giant wasp things better than all wolvar. Go with Dajik to Sapphire Hive to southeast or to river in south and learn the hunt.",
+  "p": "You learn the hunt?",
+  "c": "We kill many many wasps.$B$BRakjak don't think they run out."
+ },
+ {
+  "id": 12534,
+  "t": "The Sapphire Queen",
+  "o": "Bring the Stinger of the Sapphire Queen to High-Shaman Rakjak at Frenzyheart Hill.$B$BIf you lose Dajik's Worn Chalk, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Bristlepine can be dangerous, but most stay far away from wolvar. Wasps on other hand not fear the Frenzyheart... they even kill some of our hunters.$B$BI know Rakjak want wasp queen dead, but no wolvar want to go into her hive. You go kill wasp queen in Sapphire Hive to southeast and get stinger for Rakjak. Me bet Rakjak like that. ",
+  "p": "You smell like wasp things.",
+  "c": "You killed queen wasp! You stronger than Rakjak thought.$B$BMaybe wasps go away now and stop attacking Frenzyheart hunters."
+ },
+ {
+  "id": 12535,
+  "t": "Mischief in the Making",
+  "o": "High-Shaman Rakjak at Frenzyheart Hill wants 8 Skyreach Crystal Clusters.",
+  "d": "You good hunter, but Frenzyheart can make you stronger. Harkek think maybe you ready for something more important.$B$BBefore Rakjak send you on important mission, you need gather things for Rakjak. All along river to south are blue crystals. Rakjak need lots of blue crystals.$B$BYou go get crystals now.",
+  "p": "Almost ready for long journey. Gekgek come back with crocolisk just moment ago.",
+  "c": "Good $r! Okay, all ready."
+ },
+ {
+  "id": 12536,
+  "t": "A Rough Ride",
+  "o": "Ride the captive crocolisk to Mistwhisper Refuge and then speak to Zepik for further instructions.$B$BIf you lose Zepik's Hunting Horn, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Zepik is best hunter of the Frenzyheart. Zepik hunts big-tongues... ugly things near swamps that try to steal all stuff they can find.$B$BZepik going on long trek to break big-tongue shrine and try to scare them away. We no want big-tongues in this land anymore.$B$BThere a crocolisk chained on northeast side of hill, next to tree - go with Zepik and do what Zepik tell you.",
+  "p": "They tell Zepik you good hunter for not being Frenzyheart.",
+  "c": "We here! Must work fast.$B$BWatch out for big-tongues."
+ },
+ {
+  "id": 12537,
+  "t": "Lightning Definitely Strikes Twice",
+  "o": "Zepik wants you to smash the Skyreach Crystal Clusters in front of the Mistwhisper weather shrine.$B$BIf you lose Zepik's Hunting Horn, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Okay, the crystal things...$B$BThe big-tongues use the crystals to power their rain shrines. Zepik not know quite how it works, but Zepik does know that if they use wrong crystals, the clouds and the rain go crazy!$B$BZepik tried to sneak in at one of their other rain shrines, but it not go so well. It sure to go much better with two!$B$BTake crystals, place at big stone pillar shrine thing, then smash them to release power. Zepik not sure what will happen, so might want to step back after.",
+  "p": "Zepik think this go much better with partner. You strong for not Frenzyheart.",
+  "c": "It work so good!$B$BYou see lightning smash that oracle guy? So good!$B$B<Zepik rubs his hands together and chuckles maniacally.>"
+ },
+ {
+  "id": 12538,
+  "t": "The Mist Isn't Listening",
+  "o": "Zepik wants you to kill 12 Mistwhisper Gorlocs.$B$BIf you lose Zepik's Hunting Horn, speak to Elder Harkek in Frenzyheart Hill.",
+  "d": "Gorillas and wasps are boring! Big-tongues the only thing fun to hunt.$B$BWhile we mess up rain shrine, we kill lots of mist big-tongues. That sure to make them not want to come back to village thing.$B$B<Zepik nods to himself confidently.>",
+  "p": "We best hunters of basin!",
+  "c": "I stab those big-tongues good.$B$BYou did okay I guess.$B$BNo, I just kidding! You good hunter. I glad to hunt with you."
+ },
+ {
+  "id": 12539,
+  "t": "Hoofing It",
+  "o": "Find your way back to Frenzyheart Hill and speak to High-Shaman Rakjak.",
+  "d": "Okay, we done! Time to go back. No crocolisk to ride this time though.$B$BIf we go east and stay near ridge, it should lead all the way back near hill.$B$BNeed to be careful not to go far below ridge though or we might go right into big-tongue tree village thing. Zepik not think they like us right now.",
+  "p": "",
+  "c": "Blown up by lightning?$B$B<Rakjak breaks out laughing for a moment.>$B$BYou good hunter. Rakjak like you. Maybe one day you can be honorary Frenzyheart!$B$BOnly maybe though!"
+ },
+ {
+  "id": 12540,
+  "t": "Just Following Orders",
+  "o": "Locate an Injured Rainspeaker Oracle for High-Shaman Rakjak at Frenzyheart Hill.$B",
+  "d": "Okay $g guy:lady;, Rakjak have very important job. You go capture injured big-tongue that tracker spotted at river to north.$B$BNot bring hunter this time because they maybe want to just kill it. I want to hide it so that I can poke it and make it tell me things.$B$BGo you and bring me big-tongue prize thing.",
+  "p": "",
+  "c": "No kill me please! We was just looking for fish. We not want to die."
+ },
+ {
+  "id": 12541,
+  "t": "Troll Patrol: The Alchemist's Apprentice",
+  "o": "Alchemist Finklestein at Heb'Valok wants you to assist him in the creation of a truth serum.$b$bWhen you are ready to begin, you are to speak to him and follow his instructions.",
+  "d": "Ahh, you must be the promised patrol. Your timing couldn't be better. I have urgent need of an extra pair of hands.$b$bWe have a Drakkari prisoner who's been sent here to undergo questioning. Before the interrogation begins, I require assistance in the creation of a truth serum.$b$bCreating a truth serum is tricky business, demanding keen instincts, perfect timing, and improvisation at every step.$b$bLet me know when you're ready, $r. And remember, timing is everything!$B",
+  "p": "You see, $N, there is far more to true alchemy than mixing a few ingredients....",
+  "c": "You've done it!$B$BThe intelligence gathered from that troll will undoubtedly be of great value. I'll be certain to make mention of your efforts in my report to the commander.$B$BThank you, $N."
+ },
+ {
+  "id": 12542,
+  "t": "The Call Of The Crusade",
+  "o": "Report to Crusader Valus at Light's Trust in Dragonblight.$B",
+  "d": "$C! The Argent Crusade is looking for able bodied soldiers that are willing to set aside their differences and join forces to battle the forces of the Lich King. Will you take up our cause?$B$BShould you be interested, venture north to Light's Trust and speak with Crusader Valus.$B$BYou will find Light's Trust amidst the ruins of the sacked troll city of Jintha'kalar - bordering Zul'Drak.$B$BFarewell. ",
+  "p": "",
+  "c": "Mere footsteps from here lies the Drakkari empire.$B$B<Valus points east.>$B$BFor thousands of years the Drakkari remained isolated, preferring to keep within the boundaries of their sprawling temple cities and ziggurats. It was surprising then, to come upon this wreckage. Further up, beyond the foreboding stairs leading into Zul'Drak, Drak'Tharon Keep lies in ruin. The entire first tier of Zul'Drak, destroyed...$B$BWhy has the Scourge waited until now to attack?  "
+ },
+ {
+  "id": 12543,
+  "t": "An Offering for Soo-rahm",
+  "o": "Bring 5 Intact Cobra Fangs to Oracle Soo-rahm, near the Bones of Nozronn.",
+  "d": "We not know you, stranger, but we know you want something.$B$BWe will talk to Bones of Nozronn for you, but you must bring us offerings. We need powerful emperor cobra fangs to complete our oracle's necklace.$B$BGo to the Wildgrowth Mangal, northeast of our hut, find cobras and bring back best fangs. Then we make bones speak to you.",
+  "p": "We must know -- do you bring fangs?",
+  "c": "<The oracle inspects the fangs.>$B$BWe approve! Bones of Nozronn will speak to $N!"
+ },
+ {
+  "id": 12544,
+  "t": "The Bones of Nozronn",
+  "o": "Use Soo-rahm's Incense near the Bones of Nozronn, then return to Hemet Nesingwary at Nesingwary's Base Camp with the information you learned.",
+  "d": "Bones of Nozronn, Oracle Soo-rahm sends $N to you!$B$BWe have prepared incense for you. Light it and place it near Nozronn's head and you will hear his voice.$B$B<Confused, you tell Soo-rahm that you haven't even told him your question.>$B$BTrue, we not know, but mighty Nozronn does. Do not doubt. Nozronn will answer your heart's question.$B$BGo. Nozronn not wait long.",
+  "p": "Well, have you consulted the native oracle?",
+  "c": "<Hemet listens as you describe what you learned.>$B$BWay to go, $Glad:lass;. No dead rhino tells Hemet Nesingwary where and what he can hunt. We'll show that heap o' bones."
+ },
+ {
+  "id": 12545,
+  "t": "The Cleansing Of Jintha'kalar",
+  "o": "Crusader Valus at Light's Trust in Dragonblight has asked you to slay 15 Jintha'kalar Scourge.",
+  "d": "We wrested this ancient Drakkari temple from a swarm of invading Scourge. Not more than one-hundred paces from where we stand is the ruined city of Jintha'kalar. Scourge necromancers run amok, turning the living Drakkari trolls that remain into servants of the Lich King.$B$BAll are now lost to the Light. All must be purged.$B$B<Valus looks upon you sternly.>$B$BAll.",
+  "p": "Leave nothing for the Lich King to resurrect!",
+  "c": "As you can see, the Scourge war machine presses onward, yet the armies of the Horde and the Alliance remain divided, making for easy prey. It is for this reason that we must remain united.$B$B<Valus is lost in contemplation for a moment.>$B$BThe Argent Crusade has use for a $g man:woman; like you. Perhaps you would be interested in joining our cause? To battle and die at the side of the Ashbringer?"
+ },
+ {
+  "id": 12546,
+  "t": "Reclamation",
+  "o": "Go to the Avalanche in Sholazar Basin and use the Omega Rune to deploy Etymidian.  Use him to slay 200 Scourge Minions, Bythius the Flesh-Shaper, Urgreth of the Thousand Tombs and Hailscorn.$B$BSpeak to the Avatar of Freya in Sholazar Basin when you've completed this task.",
+  "d": "It is time, $N.  The Etymidian is one of the most destructive forces ever created by the titans and I am loathe to unleash him in my lands.$B$BThere is little choice, however.  Our enemies have forced my hand and the fury of the titans will cleanse all.",
+  "p": "Those who would threaten life... have they been dealt with?",
+  "c": "I am grateful for your help, $N. It is my duty to watch over these lands and all life that dwells on them.$B$BThanks to you, that life will continue to thrive while the forces of death wage in the bordering regions.$B$BYour actions will not be forgotten."
+ },
+ {
+  "id": 12547,
+  "t": "The Activation Rune",
+  "o": "Obtain the Omega Rune inside the Shaper's Terrace and bring it to The Etymidian.",
+  "d": "This colossal being appears to be inactive.  You notice an empty rune-shaped slot on its chest.$B$BPerhaps you might be able to find the missing rune inside the nearby overlook.",
+  "p": "<The rune-shaped slot on The Etymidian's chest appears to glow with faint power.>",
+  "c": "<You hear the rumbling sound of stone grinding as The Etymidian's limbs come to life.>$B$BI am needed somewhere?"
+ },
+ {
+  "id": 12548,
+  "t": "The Etymidian",
+  "o": "Go through the Waygate in the southern end of Sholazar Basin and look for the weapon known as the Etymidian on the other side.",
+  "d": "It is time, $N.  The Waygate has been activated for the first time in seven centuries.  Use it to travel to where our final hope lies.$B$BLet us put an end to those who would seek to bring the taint of undeath to this pristine land.  Let us unleash the Etymidian.",
+  "p": "",
+  "c": "<As you read the engravings on this stone colossus, you realize that this is the weapon that Freya spoke of. This is the Etymidian.>"
+ },
+ {
+  "id": 12549,
+  "t": "Dreadsaber Mastery: Becoming a Predator",
+  "o": "Kill 15 Dreadsabers and return to Buck Cantwell at the Nesingwary Base Camp.",
+  "d": "If you've hunted with Hemet before, you know that he's tested his skill against many large cats, but the dreadsabers here in Sholazar are different. They're able to bring down larger game than I've ever seen a cat hunt. To overcome and kill such a predator is the mark of a true hunter.$B$BIf you seek to prove you're up to the challenge, test yourself against the dreadsabers. They live in the wilderness surrounding the camp and south of the river.",
+  "p": "Have you tested your skills against the dreadsabers?",
+  "c": "Well, you've proven yourself a capable hunter, but how are you as a tracker?"
+ },
+ {
+  "id": 12550,
+  "t": "Dreadsaber Mastery: Stalking the Prey",
+  "o": "Buck Cantwell at the Nesingwary Base Camp wants you to identify 3 Shango Tracks from the Dreadsaber Tracks near Bittertide Lake.",
+  "d": "I have heard that the natives tell stories of a large dreadsaber they call Shango. I haven't seen any evidence of this Shango's existence, but my injuries have kept me from venturing outside the camp.$B$BIf you fancy yourself something of a tracker, you might be able to find out the truth about Shango. Debaar said she saw some large tracks on her last outing. Go north from the camp toward Bittertide Lake, and search its southern shore for the prints.",
+  "p": "How goes the tracking?",
+  "c": "I think you may have found the proof we need for this Shango. And I think I have an idea as to where we can find him."
+ },
+ {
+  "id": 12551,
+  "t": "Crocolisk Mastery: The Trial",
+  "o": "Kill 15 Mangal Crocolisks and return to Debaar at the Nesingwary Encampment.",
+  "d": "I warn you, stranger -- do not make any comments about crashing the ship. I already get enough of it from the rest of the expedition.$B$BIf you're looking to try your hand at hunting, though, you should test your skills against the wily mangal crocolisks. They live all along the river to the south, and in the Wildgrowth Mangal to the east. Prove you can hold your own against them and we'll talk again, hunter.",
+  "p": "Did you make the kills?",
+  "c": "Impressive, $c. Are you certain you're not a member of the expedition?$B$BNo, I'm certain of it. There would've been a crash joke in there somewhere."
+ },
+ {
+  "id": 12552,
+  "t": "Death to the Necromagi",
+  "o": "Sergeant Moonshard at Drak'Sotra has asked you to destroy 8 Hath'ar Necromagi.",
+  "d": "When the trolls brought down Kolramas, it crashed next to us to the southeast. Unfortunately the crash did not destroy all of the Scourge within.$B$BNow they're raising our men from the dead and using them against us!$B$BThis will not be allowed to continue. You will see to it that their necromagi are slaughtered! Do we understand each other?",
+  "p": "No, $c, you're not quite done. I know for a fact that there are still necromagi walking around at Kolramas.",
+  "c": "It's not enough!$B$B<The sergeant's voice cracks as he mourns the corruption of his fallen comrades.>$B$BWe must do more to show respect for the memories of those men!"
+ },
+ {
+  "id": 12553,
+  "t": "Skimmer Spinnerets",
+  "o": "Specialist Cogwheel at Drak'Sotra has asked you to collect 5 Intact Skimmer Spinnerets.",
+  "d": "Why do I always get the tough tasks to tackle?$B$BThe Scourge at Kolramas have plague sprayers that are getting dangerously close. You don't want to know what's going to happen if they start heading this way!$B$BI've got an idea for how we might bring them down, but first we're going to need something... something from their own creatures.$B$BThe Hath'ar skimmers can spin a very strong web that we can put to good use. Bring back some of their spinnerets.",
+  "p": "Those spinnerets have to be intact if I'm going to be able to put them together into a device that you can use.",
+  "c": "Those'll do!$B$BNow we're going to need some raw parts so that I can put the launching device together for you."
+ },
+ {
+  "id": 12554,
+  "t": "Malas the Corrupter",
+  "o": "Sergeant Moonshard at Drak'Sotra insists that you return with the Head of the Corrupter.",
+  "d": "$N, gather at least one other person and head back down there!$B$BYou'll find the leader of Kolramas, Malas the Corrupter, gloating from atop the crashed necropolis.$B$BKill him and bring me his head!",
+  "p": "I look forward to mounting his head on a pike. Let's see him come back from that!",
+  "c": "You're the hero of the hour, $N.$B$B<Moonshard kicks the head away from him.>$B$BYou deserve our deepest respect, and something more I think."
+ },
+ {
+  "id": 12555,
+  "t": "A Tangled Skein",
+  "o": "Specialist Cogwheel at Drak'Sotra has asked you to use the Tangled Skein Thrower in order to cause the destruction of 5 Plague Sprayers.",
+  "d": "There! One tangled skein thrower ready and waiting for you to take those plague sprayers down.$B$BYou just aim and let loose. The webbing should foul up their hover spells long enough to cause them to crash to the ground just like Kolramas.$B$BKind of poetic. I like that!",
+  "p": "You sure you brought down enough of those things? Do I look like I want the plague?!",
+  "c": "Yay! You're the best, $N!$B$BI wasn't looking forward to being sprayed with Scourge stuff, that's for sure! I guess it's going to be hard for those stupid nerubians to spread their evil now!$B$BHow about I give you a little something for saving my skin?"
+ },
+ {
+  "id": 12556,
+  "t": "Rhino Mastery: The Kill",
+  "o": "Bring Farunn's Horn to Hemet Nesingwary at the Nesingwary Base Camp.",
+  "d": "Now that we know where to find Farunn, all that remains is the battle against the great beast. Are you ready to take on this rhino, $N? For all the spirit's blustering, I'm certain it was telling the truth about the beast's strength.$B$BWhen you're ready to face him, head north past the Suntouched Pillar and look for Farunn on the northeast shore of the Bittertide Lake. It may even venture near the Glimmering Pillar. Bring back its horn to commemorate your kill.",
+  "p": "Did you kill the beast?",
+  "c": "<Hemet examines the horn.>$B$BAn astounding trophy from an amazing animal! $N, I've been hearing rumors of even bigger, more ferocious game in the northern reaches of the basin and I'd like you to help us track it down."
+ },
+ {
+  "id": 12557,
+  "t": "Lab Work",
+  "o": "Alchemist Finklestein at Heb'Valok wants you to find a Muddy Mire Maggot, a Withered Batwing, an Amberseed, and some Chilled Serpent Mucus from within his laboratory.",
+  "d": "I assume by your interruption that you wish to be numbered among those I am considering for apprenticeship.$b$bA worthy aspiration...$b$bShould I someday choose to accept your petition, I must be confident that you can find your way around my laboratory. I have many ingredients here; some plentiful, and others in short supply.$b$bTake your time, $c. Find a muddy mire maggot, a withered batwing, an amberseed, and some chilled serpent mucus.$b$bSucceed, and I'll know to take your request seriously.",
+  "p": "Have you become accustomed to my laboratory, $c?",
+  "c": "Yes, yes, that's a good start.$B$BShould I call upon you to help me with an actual recipe, you'll need to locate ingredients in a timely manner.$B$BKeep that in mind, $c.$B$BFarewell."
+ },
+ {
+  "id": 12558,
+  "t": "Dreadsaber Mastery: Ready to Pounce",
+  "o": "Bring Shango's Pelt to Buck Cantwell at the Nesingwary Base Camp.",
+  "d": "Shango awaits, $N. If you have succeeded in your tracking, he will not know that you stalk him, and you will need the advantage.$B$BHe is supposed to be bigger, stronger, and more ferocious than the other dreadsabers of the basin. Travel north, to the western shore of Bittertide Lake and near the falls that feed it, do battle with Shango. If you succeed, return with his pelt.",
+  "p": "Have you taken on Shango?",
+  "c": "What an exquisite pelt from such a noble animal! It heartens me to see that the rumors about Shango were indeed true, $N. Your pursuit of the creature has been flawless. You are a true huntsman."
+ },
+ {
+  "id": 12559,
+  "t": "Powering the Waygate - The Maker's Perch",
+  "o": "The Avatar of Freya at the Rainspeaker Rapids wants you to go to the Maker's Perch and use the Activation Switch Gamma.",
+  "d": "It is time then.  Let us activate the waygate.$B$BYou will find the first switch inside the Maker's Perch in the western edge of the basin.$B$BBeware, $N.  The titans used the perch to watch over their creations.  Many of their stone servants still guard the place.",
+  "p": "You're back, little one. I was beginning to worry about your well-being.",
+  "c": "We're halfway there, $N. One more switch needs to be activated before we can retrieve the Etymidian."
+ },
+ {
+  "id": 12560,
+  "t": "Crocolisk Mastery: The Plan",
+  "o": "Bring 5 Sandfern fronds to Debaar at the Nesingwary Base Camp.",
+  "d": "The mangal crocolisk is a master of the ambush, and I intend to beat the best at his game. To do that, we'll need to construct a convincing camouflage for you. We'll use plants that grow in the sandy soil of the riverbanks and lake beaches.$B$BThe sandfern is best for this purpose. It grows in the sandy areas near the shores of the Seabreach Flow, just to the south, Bittertide Lake and Bittertide Falls, to the north, and the edges of River's Heart, the large lake beyond the mangal to the east.",
+  "p": "Did you bring all the ferns we'll need?",
+  "c": "<Debaar accepts the sandfern fronds from you and starts bending them around your body.>$B$BYes, this should work. Stand still! We'll make a bush of you yet."
+ },
+ {
+  "id": 12561,
+  "t": "An Issue of Trust",
+  "o": "Obtain Freya's trust by destroying 6 Blighted Corpses and 10 Bonescythe Ravagers in the Lost Lands.",
+  "d": "This should never have happened.  The forces of undeath storm the very cradle of life!$B$BIf you're not here to destroy the minions of the Lich King, then leave at once.  Do not incur my wrath by distracting me from my duties.",
+  "p": "Do not waste my time, mortal. The titans' creations must be defended!",
+  "c": "Very well, $r. I am satisfied that you're not one of the Lich King's minions... perhaps there is something you can do for us after all."
+ },
+ {
+  "id": 12562,
+  "t": "The Drakkari Do Not Need Water Elementals!",
+  "o": "Sub-Lieutenant Jax at The Argent Stand has asked you to kill 10 Drakkari Water Binders.",
+  "d": "Intelligence reports that ever since those water elementals appeared in the Drak'Sotra Fields, a number of Drakkari shaman have come down from the upper tiers of Zul'Drak to take control of them.$B$BI cannot stress enough, $g sir : ma'am;, how dangerous that could prove. We do not want them to have water elementals at their disposal.$B$BThe commander has ordered that these Drakkari water binders are to be put to the sword. Head south when you're ready.",
+  "p": "If I may suggest, you might want to take care of a few more of those Drakkari water binders.",
+  "c": "Excellent work, $g sir : ma'am;!$B$BI'll see to it that the commander is apprised of your mission results."
+ },
+ {
+  "id": 12563,
+  "t": "Troll Patrol",
+  "o": "Commander Kunz at the Argent Stand wants you to visit the four Argent Crusade posts, follow their captain's orders, and then return and report to him.$b$bCaptain Brandon and Captain Rupert are posted at Drak'Sotra, Captain Grondel is posted in Drak'Agal, and Alchemist Finklestein is posted in Heb'Valok.",
+  "d": "Unsheathe that weapon, $r. It's time to go on patrol!$b$bI've got four posts under my command and it's crucial to our success that they remain in our control. I'm ordering you to visit each of them and offer your assistance.$b$bYou can begin with Captain Brandon southeast of here. He'll direct you to the next post when he's finished with you.$b$bReport back to me once you've assisted each of my men. And remember, you'll be more richly rewarded for returning to me quickly - so double-time it!$b$bDismissed!",
+  "p": "What news from our posts, $r?",
+  "c": "Well, $N, at least you've made it back in one piece. I suppose that's worth something...."
+ },
+ {
+  "id": 12564,
+  "t": "Troll Patrol: Something for the Pain",
+  "o": "Captain Brandon at Drak'Sotra wants you to collect 5 Mature Water-Poppies from Drak'Sotra Fields.",
+  "d": "Gritty as my men are, they're still mortal.$b$bWounds and pain diminish their ability to perform their missions. No amount of training changes that simple fact of life.$b$bThankfully, one of our alchemists has developed a recipe for a salve that binds to our bandages and greatly reduces the pain our soldiers experience.$b$bThe salve requires a special poppy these trolls cultivate just west of here. Go to Drak'Sotra Fields and harvest some of them to keep our stockpiles from running out.",
+  "p": "Have you collected the water-poppies, $n?",
+  "c": "Fine specimens, $N.$b$bOn behalf of my soldiers, I thank you for your efforts today.$b$bCaptain Rupert is likely the next stop on your patrol. He's stationed at the wall just east of here."
+ },
+ {
+  "id": 12565,
+  "t": "The Blessing of Zim'Abwa",
+  "o": "Hexxer Ubungo at The Argent Stand wants you to present 10 Drakkari Offerings to the statue of Zim'Abwa.",
+  "d": "I am heartened to see the zeal with which your Argent Crusade is dealing with the Scourge, $r. I would like to help with your efforts.$B$BThe Drakkari trolls of this once-great city used to make regular offerings to their gods, but now neglect them, or worse.$B$BIf you were to make offerings to the gods, they would show their appreciation in return.$B$BZim'Abwa's statue is just to the southwest. Zim'Abwa would gladly accept your offerings of Drakkari artifacts as a sign that you are protecting Zul'Drak.",
+  "p": "<Zim'Abwa stares inscrutably to the north and the south.>",
+  "c": "<If Zim'Abwa could move his face, Zim'Abwa would make a vicious grin.>"
+ },
+ {
+  "id": 12566,
+  "t": "Help for Camp Winterhoof",
+  "o": "Speak with Chieftain Ashtotem at Camp Winterhoof.",
+  "d": "I am Longrunner Nanik of the Taunka, sent by the chieftain of Camp Winterhoof to seek out allies in the fight against the vrykul. They mass to the west and south of our village, and though we slay 10 of them for every one of our dead, we cannot hold.$B$BApothecary Scyllis has promised to send brave $cs northwest to our aid. Will you help my people fend off the vrykul assaults?$B$BFollow the road far to the northwest, across the river, and into the foothills of the mountains to reach Camp Winterhoof.",
+  "p": "",
+  "c": "So, Nanik did find help then? Tell me, $N, how is it you made it here without him? None know this land better than the Taunka."
+ },
+ {
+  "id": 12567,
+  "t": "Blessing of Zim'Abwa",
+  "o": "",
+  "d": "",
+  "p": "<Zim'Abwa's stony visage pierces your soul.$B$BZim'Abwa is pleased, but wants you to show more appreciation and respect by giving him more Drakkari offerings.$B$BHe will reward you in kind.>",
+  "c": "<You sense Zim'Abwa's approval. Somehow you know that Zim'Abwa wants more tribute!>"
+ },
+ {
+  "id": 12568,
+  "t": "Troll Patrol: Done to Death",
+  "o": "Captain Rupert wants you to use the Incinerating Oil on 5 Defeated Argent Footmen in Drak'Sotra.",
+  "d": "Trust me, $r. I know....$b$bThe smell of burnt flesh has become sickening to even me, a Forsaken. Nevertheless, it is our solemn duty to ensure that our brethren never walk with the Scourge.$b$bPour this oil on the corpses of our fallen to ensure that we never face them on the battlefield as enemies.",
+  "p": "",
+  "c": "Thank you, $N.$B$BIt's not the most glorious job on the battlefield, but it must be done. I'll make note of your service in my report.$B$BCaptain Grondel is likely waiting for you to the northeast, just outside the amphitheater."
+ },
+ {
+  "id": 12569,
+  "t": "Crocolisk Mastery: The Ambush",
+  "o": "Bring Bushwhacker's Jaw to Debaar at the Nesingwary Base Camp.",
+  "d": "The largest crocolisk in the basin, known around here as \"Bushwhacker\" for his ambush prowess, likes to sun himself in the shallow waters of River's Heart. It's the large lake at the basin's center, and is to the east of our camp.$B$BI want you to take the camouflage I've prepared and hide on the western beach of River's Heart and ambush Bushwhacker when he shows himself. Bring back his mighty jaws if you are able to overcome him.",
+  "p": "Did our plan work?",
+  "c": "<Debaar listens as you describe the failure of the disguise.>$B$BWhat do you mean, our plan didn't work as intended?$B$BWell, you did manage to get the kill, to your credit. Look at the size of this jaw! Hemet will be proud of our efforts. This crocolisk was truly a monster."
+ },
+ {
+  "id": 12570,
+  "t": "Fortunate Misunderstandings",
+  "o": "Escort the Injured Rainspeaker Oracle to Rainspaker Canopy and speak to High-Oracle Soo-say.",
+  "d": "I sorry! I not mean to get you in trouble!$B$B<The injured oracle stares at you blankly for a long while.>$B$BYou save me! We thank you. We going to go back to village now. You come too... you can stay with us! Puppy-men kind of mean anyway.$B$BLet me know when you ready to go, okay?",
+  "p": "Who you? You stink of puppy-men.",
+  "c": "You help us? You welcome then, $N."
+ },
+ {
+  "id": 12571,
+  "t": "Make the Bad Snake Go Away",
+  "o": "High-Oracle Soo-say in Rainspeaker Canopy wants you to kill Venomtip and 10 Emperor Cobras.$B$BIf you lose Lafoo's Bug Bag, speak to High-Oracle Soo-say in Rainspeaker Canopy.",
+  "d": "We were here long before the puppy-men came. This is very sacred place - we will not leave.$B$BYou seem like maybe you good, but we have Lafoo stay with you just in case. You understand we think.$B$BThere snakes thing that keeps trying to eat our hatchlings. Go with Lafoo and make them stop, okay? Especially big one near waterfall to northeast.",
+  "p": "<High-Oracle Soo-say seems to stare right through you.>",
+  "c": "Snake gone?$B$BGood $r. We thank you."
+ },
+ {
+  "id": 12572,
+  "t": "Gods like Shiny Things",
+  "o": "Collect 6 of the treasures that Lafoo digs up and bring them to High-Oracle Soo-say in Rainspeaker Canopy.$B$BIf you lose Lafoo's Bug Bag, speak to High-Oracle Soo-say in Rainspeaker Canopy.",
+  "d": "Soo-say said we go with you. You be nice, okay?$B$BOoh, ooh! We know! We can make Soo-say happy if we bring back more offerings for shrine! We not need to go far, there's always stuffs to dig up around village... just look for sparkles in dirt!$B$BLet's go! Let's go! More offerings for shrine!",
+  "p": "Hello dryskin. You get along with Lafoo good?",
+  "c": "Shinies for the Great Rain Stone! Good! Good!$B$BWe offer these right away. Lafoo thought of this, yes? He a very smart Rainspeaker."
+ },
+ {
+  "id": 12573,
+  "t": "Making Peace",
+  "o": "High-Oracle Soo-say at Rainspeaker Canopy wants you to give a peace offering to Shaman Vekjik and then return with his response.$B$BIf you lose Lafoo's Bug Bag, speak to High-Oracle Soo-say in Rainspeaker Canopy.",
+  "d": "We have great idea. You were friends with puppy-men, they maybe listen to you.$B$BWe want you to go give offering to Shaman Vekjik. He southwest where river turns into waterfall.  Tell puppy-man we no want fight. Tell him we play nice.$B$BYou good $r. We trust you do this right.",
+  "p": "Puppy-men play nice now?",
+  "c": "So mean! We only be nice and they only be mean.$B$BThey keep messing with great stones... maybe they not know great stones are sacred."
+ },
+ {
+  "id": 12574,
+  "t": "Back So Soon?",
+  "o": "Travel to Mistwhisper Refuge and speak to Mistcaller Soo-gan.$B$BIf you lose Jaloot's Favorite Crystal, speak to High-Oracle Soo-say in Rainspeaker Canopy.",
+  "d": "<High-Oracle Soo-say stares at your forehead for a while before speaking.>$B$BSoo-gan ask for help. We think they might have been attacked by puppy-men again.$B$BWe sending you and Jaloot to help... follow west river up to Mistwhisper Refuge. Do what Soo-gan says... hit the puppy-men on the nose if they being mean, they don't like that.$B$B<High-Oracle Soo-say goes back to staring at your forehead as you leave.>",
+  "p": "",
+  "c": "We think we seen you before. You visit Mistwhisper village sometime already?$B$BSoo-say said you good. Soo-say smart, so we trust you too.$B$B<Mistcaller Soo-gan offers an awkwardly large smile.>"
+ }
+]

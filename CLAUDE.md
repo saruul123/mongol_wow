@@ -38,16 +38,17 @@ mkdir -p "$DST" && (cd "$SRC" && tar --exclude=.git --exclude=Tools/pending.json
 
 ## Одоогийн төлөв (2026-11-16)
 - **Addon-д орсон:** 371 quest (клиентийн cache-ээс, гараар орчуулсан). `Data/Quests_mn.lua` ≈ 330 KB.
-- **Орчуулагдсан боловч addon-д ОРООГҮЙ:** chunk 001-003 (360 quest, validator 0 алдаа) → `Tools/agent_out/chunk_00{1,2,3}.json`. Формат: `[{id,t,o,d,p,c}]` (id = AzerothCore quest ID).
+- **chunk 001-003 орчуулга УСТСАН** (`make_chunks.py` agent_out дээр дахин ажиллаж англи эхээр дарсан; одоо бүх chunk англи). Дахин орчуулах хэрэгтэй. Орчуулсан chunk-ийг `python3 -I Tools/quests_tool.py merge_id <chunk.json>`-оор оруулна (формат `[{id,t,o,d,p,c}]`, давхардсан нэрийг автоматаар `v=[{k,...}]` хувилбар болгоно). `make_chunks.py`-ийг agent_out-д БҮҮ ажиллуул.
+- **Quests.lua** давхардсан нэртэй quest-ийг англи зорилго/тайлбарын эхний 40 тэмдэгтийн түлхүүрээр (`Pick`) ялгана (2026-11-16 хийгдсэн, тоглоомд туршаагүй).
 - **Үлдсэн:** ~8400 quest (нийт 9464). Англи эх `Tools/acore_quests_en.json`. 74 chunk x 120 quest (`chunk_001..074`); `Tools/agent_out/chunk_NNN.json` нь эх англи chunk-ууд, орчуулсан 001-003-ыг нэг нэрээр бичсэн болохыг анхаар (001-003 нь орчуулсан хувилбар). `make_chunks.py` дахин үүсгэнэ.
 - chunk 004-015-д ажиллаж байсан agent-ууд хэрэглэгчийн хүсэлтээр зогссон, үр дүн хадгалагдаагүй (дахин хийх хэрэгтэй).
 - Эх сурвалж: `https://raw.githubusercontent.com/azerothcore/azerothcore-wotlk/master/data/sql/base/db_world/{quest_template,quest_offer_reward,quest_request_items}.sql`; `parse_acore_sql.py` задалдаг.
 
 ## Хийгдээгүй / дараагийн ажил (ач холбогдлоор)
-1. **Шинэ орчуулгыг addon-д оруулах**: нэр давхардал (7054 өвөрмөц нэр / 9464 quest, 1041 нэр давхардсан) тул `Quests.lua`-г нэр + англи зорилгын текстээр ялгадаг болгох. Progress/Reward (`p`, `c`) аль хэдийн дэмжигддэг ч NPC цонхонд ID байхгүй. Quest log-ийн `GetQuestLogTitle`-ийн 9 дэх утга questID. Хэмжээ ~10-15 MB болох тул бүсээр хувааж lazy-load хийх.
+1. **(хагас хийгдсэн: давхардал шийдэгдсэн, lazy-load үлдсэн)** Шинэ орчуулгыг addon-д оруулах: нэр давхардал (7054 өвөрмөц нэр / 9464 quest, 1041 нэр давхардсан) тул `Quests.lua`-г нэр + англи зорилгын текстээр ялгадаг болгох. Progress/Reward (`p`, `c`) аль хэдийн дэмжигддэг ч NPC цонхонд ID байхгүй. Quest log-ийн `GetQuestLogTitle`-ийн 9 дэх утга questID. Хэмжээ ~10-15 MB болох тул бүсээр хувааж lazy-load хийх.
 2. **Үлдсэн ~8400 quest-ийг орчуулах**: (a) `ANTHROPIC_API_KEY`-тай бол `translate_api.py` (`--dry-run`-аар зардал; ~1.8M оролт + 3-6M гаралт token), (b) эсвэл тусгай agent-ууд (agent бүр 120 quest ≈ 157k token, ≈ 11 мин; нийт ~11M token, хэрэглэгчийн хязгаарыг их зарцуулна). Эхлэхээс өмнө хэрэглэгчээс зөвшөөрөл ав. Гараар (энэ чатад) ~34 quest/давтамж.
-3. **`Tooltips.lua`** (item/spell): байхгүй, самбарын checkbox ажиллахгүй. `GameTooltip:HookScript("OnTooltipSetItem"/"OnTooltipSetSpell")`.
-4. **`Chat.lua`** (LFM/gg/ty...): байхгүй.
+3. **`Tooltips.lua`** (2026-11-16 бичсэн, туршаагүй): зөвхөн тогтмол мөр (Binds when picked up, Requires Level, slot/armor төрөл...) орчуулна; item/spell нэр, тайлбар англиар. Нэмэхдээ `EXACT`/`PATTERNS`.
+4. **`Chat.lua`** (2026-11-16 бичсэн, туршаагүй): LFM/gg/ty... товчлолын тайлбарыг мессежийн ард нэмнэ (`GLOSS`).
 5. Quest-ийн progress/reward/gossip/greeting цонх, quest log-ийн жагсаалт, quest tracker (WatchFrame) орчуулга.
 6. UI толь бичиг: англи текстийн заримыг санан бичсэн тул жинхэнэ клиентийн текстэд таарахгүй байж болно. Хэрэглэгч "харагдахгүй байна" гэвэл яг текстийг нь авч толь бичигт нэм.
 

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11961,
+  "t": "Spirits Watch Over Us",
+  "o": "Elder Muahit at Njord's Breath Bay wants you to find Iruk's corpse in the water and retrieve Issliruk's totem.",
+  "d": "Powerful spirits watch over my tribe -- Kaskala will not be lost.$B$BIssliruk will give us courage, Tayutka will make sure our survivors always have food and shelter and Karkut will watch over the fallen so they do not lose their way.$B$BIssliruk's guidance is the one we need the most right now.  I asked my nephew, Iruk, to bring me Issliruk's totem, but the Kvaldir's spears struck him down and his body fell into the waters to the north.  Bring me the totem, $N.  Don't let my nephew's death be in vain.",
+  "p": "The totem, $r.  Do you have it?",
+  "c": "Can you feel Issliruk's presence, $N?  He does not want his children to perish at the hand of the mist-walkers."
+ },
+ {
+  "id": 11962,
+  "t": "One Last Delivery",
+  "o": "Deliver the Crate of Farshire Ore to Hilda Stoneforge in Valiance Keep.",
+  "d": "That's it then.  With the last of the ore you salvaged we now have enough to send to Valiance Keep.$B$BIf Farshire is wiped off the face of Azeroth, then at least let us be remembered as the first ones to defend our land and the last ones to give up.$B$BTake this ore to Hilda Stoneforge - she is a good friend of mine.  Tell her to make some good weapons with this ore.  We'll need plenty of them in the days to come.",
+  "p": "What do you have there?",
+  "c": "Ore from Farshire?  We weren't scheduled for a shipment just yet.  Is something wrong?"
+ },
+ {
+  "id": 11963,
+  "t": "Weapons for Farshire",
+  "o": "Return to Gerald Green in Farshire.",
+  "d": "Farshire is overrun and all that Gerald can think of is to get me my ore shipment?  I swear that man has as much heart as any of our soldiers on the frontlines.$B$BWe cannot let the civilians lose their lands if they're willing to fight for them.  We might not have the troops to spare, but we can send them weapons.$B$BThese were earmarked for new recruits, but I'll be able to cover those with the ore you've brought me.  Send word to Gerald that weapons are on the way.",
+  "p": "",
+  "c": "Hilda's sending us weapons?  That's excellent news, $N.  I was about ready to tell the lads to pack things up."
+ },
+ {
+  "id": 11964,
+  "t": "Incense for the Summer Scorchlings",
+  "o": "The Festival Loremaster wants you to take Summer Incense to a Summer Scorchling outside any Alliance settlement.",
+  "d": "Did you know that our festival fires burn in every land with an Alliance settlement? Flame Wardens tend to them in camps outside of each town, ensuring the bonfires are bright and the celebrations continue.$b$bWith each Flame Warden is a summer scorchling -- an emissary to the elemental spirits of fire.$B$BWould you like to honor a scorchling, $N?  Take this summer incense and bring it to any summer scorchling.  Appease the little fire spirit, and it may reward you.",
+  "p": "A fiery salutations to you, honored $c. Welcome to this hallowed ground of the Midsummer Fire Festival.",
+  "c": "Ah, and what is this? Such a delightful aroma! I am sure it will burn with a flame pure and bright!$B$BTake this blossom, $N. Take it, and leave me be... I must attend to this precious fuel..."
+ },
+ {
+  "id": 11965,
+  "t": "Call to Arms!",
+  "o": "Go to the town hall building in Farshire and ring the bell inside of it.",
+  "d": "Farshire has a fighting chance now, $N.  That's all we could've asked for and you've made it possible.$B$BAll we need now is a rallying point.  I'll have my men deliver the weapons to our town hall.  Go and ring the town hall bell so any survivors know to rally there.$B$BIt's time to show the Scourge what we're made of.",
+  "p": "Have you rallied the survivors, $N?",
+  "c": "Thanks once again for aiding us, $N.  The people of Farshire will always remember you."
+ },
+ {
+  "id": 11966,
+  "t": "Incense for the Festival Scorchlings",
+  "o": "The Festival Talespinner wants you to take Summer Incense to a Festival Scorchling outside any Horde settlement.",
+  "d": "Did you know that our festival fires burn in every land with a Horde settlement? Flame Keepers tend to them in camps outside of each town, ensuring the bonfires are bright and the celebrations continue.$b$bWith each Flame Keeper is a festival scorchling -- an emissary to the elemental spirits of fire.$B$BWould you like to honor a scorchling, $N?  Take this summer incense and bring it to any festival scorchling.  Appease the little fire spirit, and it may reward you.",
+  "p": "A fiery salutations to you, honored $c.  Welcome to this hallowed ground of the Midsummer Fire Festival.",
+  "c": "Ah, and what is this?  Such a delightful aroma!  I am sure it will burn with a flame pure and bright!$B$BTake this blossom, $N.  Take it, and leave me be... I must attend to this precious fuel..."
+ },
+ {
+  "id": 11967,
+  "t": "Mustering the Reds",
+  "o": "Keristrasza has asked you to bring her to Raelorasz at the Transitus Shield.",
+  "d": "Malygos is certainly aware that something is amiss.$b$bI know him. His focus is fragmented. I am confident that I can lure him from the safety of his realm when he learns what has become of his precious Saragosa.$b$bTake me to Raelorasz at once, $n. He must rouse every dragon he commands to face Malygos.",
+  "p": "You have news for me, $n?",
+  "c": "Word of Keristrasza's rescue has reached my ears. You are to be commended.$b$bI am eager to speak with her again."
+ },
+ {
+  "id": 11968,
+  "t": "The Tides Turn",
+  "o": "Elder Muahit wants you to kill Heigarr the Horrible in Njord's Breath Bay.",
+  "d": "The spirits have heard our cry for help, $N.  It's a sign that Kaskala might yet be saved.$B$BTake advantage of the confusion the weather has created and slay the Kvaldir leader.  Your actions will sway the battle in our favor, I am sure of it.",
+  "p": "Have you done what I asked of you, $N?",
+  "c": "You've done us a great favor, $r.  The fight is not yet won, but my people now have a chance."
+ },
+ {
+  "id": 11969,
+  "t": "Springing the Trap",
+  "o": "Raelorasz wants you to use Raelorasz' Spark at the signal fire in Coldarra.",
+  "d": "We owe this opportunity in great part to your efforts, $n.$b$bIt is only fitting that you initiate the attack on Malygos.$b$bTake this spark and use it to light the signal fire northwest of the Nexus. Keristrasza will direct you from there.",
+  "p": "Did you meet with Keristrasza?",
+  "c": "We have dealt a blow to Malygos, but it has come at a high price."
+ },
+ {
+  "id": 11970,
+  "t": "The Master of Summer Lore",
+  "o": "Speak to the Festival Loremaster in any Alliance capital.",
+  "d": "The festival is a time for fun and laughter, there's no mistake. It's important, however, that you understand the origins of this holiday. Education should be sought out and savored.$b$bThe Festival Loremaster in the Alliance capitals can guide your way. Go now and learn.",
+  "p": "",
+  "c": "I'll be happy to tell you what I know."
+ },
+ {
+  "id": 11971,
+  "t": "The Spinner of Summer Tales",
+  "o": "Speak to the Festival Talespinner in any Horde capital.",
+  "d": "The festival is a time for fun and laughter, there's no mistake. It's important, however, that you understand the origins of this holiday. Education should be sought out and savored.$b$bThe Festival Talespinner in the Horde capitals can guide your way. Go now and learn.",
+  "p": "",
+  "c": "I'll be happy to tell you what I know."
+ },
+ {
+  "id": 11972,
+  "t": "Shards of Ahune",
+  "o": "Bring the Ice Shards to Luma Skymother.",
+  "d": "These shards pulse with foreboding.  Do they hold the last essence of the Frost Lord?",
+  "p": "Greetings, $N.  You look worried, but you shoud rejoice.  The Frost Lord is defeated!",
+  "c": "Yes, these shards hold the final essence of the Frost Lord in this land.  We will dispose of them and banish Ahune to the nether regions of cold.$B$BThank you, $N.  Your name will echo in the chants of the Earthen Ring for days without end.  Please honor us by accepting this vestige, a symbol of your kinship with warmth and light."
+ },
+ {
+  "id": 11973,
+  "t": "Prisoner of War",
+  "o": "Raelorasz at the Transitus Shield wants you to enter the Nexus and release Keristrasza.",
+  "d": "Malygos has taken Keristrasza to serve as his consort!? Unthinkable!$b$bShe'll never cooperate willingly, but Malygos is a powerful aspect, and will eventually bend her will.$b$bThis cannot come to pass, $n. I refuse to allow her to suffer this indignity.$b$bYou must enter the Nexus and do whatever is required to spare her this fate.",
+  "p": "Have you located Keristrasza? Were you able to free her from her bonds?",
+  "c": "So, it is done then....$B$BOur kind shall never forget the sacrifice Keristrasza has made for this cause. Nor shall we forget the part you have played, $N.$B$BMay this tragic event serve to further steel our resolve against the threat we face.$B$BOn behalf of the Red Dragonflight, please accept this gift as a token of our gratitude."
+ },
+ {
+  "id": 11974,
+  "t": "[ph] Now, When I Grow Up...",
+  "o": "Take your orphan, Salandria, to see L70ETC in Silvermoon City's Walk of Elder's.  Make sure to call for her if she is not present when you arrive.",
+  "d": "When you were my age did you know that you wanted to be a $c when you grew up?$B$BI'm not sure what I want to be.  I used to want to be a Blood Knight, but not anymore.  Now I want to be a Rock Star!  Like the blood elf in L70 ETC!$B$BWhen they aren't touring, they hang out in Silvermoon City! Could you take me there? They hang out in the Walk of Elder's on a balcony... Probably to keep the fans away  But that shouldn't stop us from trying, right?$B$BPlease take me there.  Please!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11975,
+  "t": "Now, When I Grow Up...",
+  "o": "Take your orphan, Salandria, to see the Elite Tauren Chieftain in Silvermoon City's Walk of Elders.  Make sure to call for her if she is not present when you arrive. ",
+  "d": "Maybe I already asked you this, but when you were my age did you know that you wanted to be a $c when you grew up?$B$BI'm not sure what I want to be.  Maybe a mage or a warlock or a Blood Knight, like I said before?  Or maybe... A rock star!!  Like Sig Nicious, the blood elf, in the Elite Tauren Chieftain!$B$BI heard that when they aren't touring, they hang out in Silvermoon City!  They just sit on a balcony in the Walk of Elders waiting for people to stop by.$B$BPlease take me there.  Please!",
+  "p": "",
+  "c": "Did you see that?  They were cheering for me!!$B$BNow I know how they feel when they are up on stage singing!  I felt the power and the energy!$B$BJust like they say in their song!$B$BMy mind is made up, I am going to be a rock star when I grow up!"
+ },
+ {
+  "id": 11976,
+  "t": "Ice Shards",
+  "o": "Bring the Ice Shards to Luma Skymother.",
+  "d": "These shards pulse with foreboding.  Do they hold the last essence of the Frost Lord?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11977,
+  "t": "A Tauren Among Taunka",
+  "o": "Seek out Emissary Brighthoof at the Westwind Refugee Camp.",
+  "d": "<Wartook points northeast.>$B$BShe is quite kind, you know. If it were not for your emissary, the surviving refugees may have given up hope. While she may not be taunka by birthright, the tribe has taken to her as a village elder for the time being.$B$BIf you are who I think you are, please go and pay Emissary Brighthoof a visit inside the refugee camp. She has been waiting for you.",
+  "p": "",
+  "c": "What you see here is all that remains of the taunka from the Borean Tundra and the Dragonblight. They are a broken people... battered and brought to the brink of extinction by the Scourge.$B$B<Brighthoof shakes her head.>$B$BOnly the Horde can save them now. Only the Horde can mend their broken spirits. We will nurse them back to full health and they will in turn strengthen the Horde in Northrend."
+ },
+ {
+  "id": 11978,
+  "t": "Into the Fold",
+  "o": "Emissary Brighthoof at the Westwind Refugee Camp in the Dragonblight wants you to recover 10 Horde Armaments.",
+  "d": "Before we can officially bring these taunka into the Horde we must recover our armaments from the Anub'ar Nerubians that infest the nearby woods. The armaments were lost when a caravan from Agmar's Hammer was ambushed by the Scourge late last night.$B$BVenture out into the woods to the east of Westwind Refugee Camp and recover those armaments, $r.",
+  "p": "Without armor and weapons our newest members will be defenseless in their trek to Agmar's Hammer.",
+  "c": "This is exactly what we need, $N! Brandishing Horde arms will lift their spirits and give them the protection they need against the Scourge.$B$BAre you prepared for the ceremony of initiation?$B$B<Brighthoof nods.>$B$BYou will be the one to admit our new allies into the Horde."
+ },
+ {
+  "id": 11979,
+  "t": "The Taunka and the Tauren",
+  "o": "Seek out Emissary Brighthoof at the Westwind Refugee Camp.$B",
+  "d": "The Scourge have seized control of the capital city of the taunka, Icemist Village! All living taunka that escaped the massacre are being held in protective custody at the Westwind Refugee Camp on the western border of Dragonblight.$B$BLord Hellscream believes that the taunka must join the Horde if they are to survive and has sent a tauren emissary to Westwind to bolster our relationship with the winter tauren. Travel to Westwind Refugee Camp and seek out Emissary Brighthoof. You will assist her.",
+  "p": "",
+  "c": "What you see here is all that remains of the taunka from the Borean Tundra and the Dragonblight. They are a broken people... battered and brought to the brink of extinction.$B$B<Brighthoof shakes her head.>$B$BOnly the Horde can save them now. Only the Horde can mend their broken spirits. We will nurse them back to full health and they will in turn strengthen the Horde in Northrend."
+ },
+ {
+  "id": 11980,
+  "t": "Pride of the Horde",
+  "o": "Blood Guard Roh'kill at the Westwind Refugee Camp in the Dragonblight wants you to slay 15 Anub'ar Ambushers.$B",
+  "d": "I was one of the guards chosen to escort the caravan carrying the armament shipment to this camp. The attack came fast and without warning. We fought and killed dozens of the beasts, but in the end there were simply too many. Tor'zin and I barely made it out alive...$B$BIf not for our injuries we would be out in the woods hunting down those fiends ourselves. Will you help us regain our lost pride? Search the woods east of here for Anub'ar Nerubians and kill them! For the Horde!",
+  "p": "Show no mercy, $r.  Slay the Anub'ar!",
+  "c": "<Roh'kill salutes you.>$B$BYou have preserved our honor, $N. Tor'zin and I both thank you for this selfless act!"
+ },
+ {
+  "id": 11981,
+  "t": "Find Kurun!",
+  "o": "Speak with Kurun on the hill overlooking Thor Modan.",
+  "d": "The Earthen warrior's stone surface is covered with cracks and gouges. Although it is incapable of bleeding, you can sense that the warrior is near death.$B$BA low, hoarse voice escapes from the dying warrior's mouth.$B$B\"Find... Kurun... you must find... Kurun.\"$B$BIt looks at you helplessly as you ask for any clues as to who or what Kurun might be.$B$B\"Our... leader... he stands on the... hill overlooking Thor Modan... commands us. Please... tell him... we cannot take... the city... \"",
+  "p": "",
+  "c": "<You tell Kurun about the message given to you by the fallen Earthen.>$B$BThey fight bravely, but he is right. We will not overcome the iron dwarves of Thor Modan without help. My giants and the Earthen have long struggled against iron's evil, but our forces are not numerous enough to win the battle for Thor Modan. Will you aid us?"
+ },
+ {
+  "id": 11982,
+  "t": "Raining Down Destruction",
+  "o": "Kurun on the hill overlooking Thor Modan wants you to disrupt the iron dwarves' work by throwing boulders into the exposed area of Thor Modan.",
+  "d": "Beneath us is iron's ancient bastion, Thor Modan. Thousands of years ago, the stone giants tore the land asunder, collapsing part of the city and exposing much of the rest.$B$BEven now, the iron dwarves attempt to reclaim their old capital, but we will not permit it. My giants fill the trench with boulders and debris, hoping to seal it off and kill the servants of iron as they work. Take up the boulders you see near the trench to the northeast, and help us put an end to their efforts.",
+  "p": "What have you to report?",
+  "c": "As quickly as we're able to fill the trench, the iron dwarves keep clearing it. Our assault from above will not take the city alone. You must aid the earthen fighting in the plaza below."
+ },
+ {
+  "id": 11983,
+  "t": "Blood Oath of the Horde",
+  "o": "Speak to the taunka at Westwind Refugee Camp and make 5 of them pledge their allegiance to the Horde.$B$BReturn the Blood Oath of the Horde to Emissary Brighthoof once you have completed this task.",
+  "d": "They are ready, $N. These taunka will all willingly join the Horde and give all that they have to see the Scourge driven from this world.$B$B<Brighthoof hands you a scroll bearing the insignia of the Horde.>$B$BWithin this scroll you will find the blood oath of the Horde. Tradition dictates that our new taunka brothers and sisters utter the sacred words herein.$B$BTake the scroll and swear the taunka into the Horde, commander. Return the scroll to me when you have completed your duty.",
+  "p": "They will strengthen the Horde, commander.",
+  "c": "Thank you for doing this, Commander $N. They had nothing left. You have given them purpose and with purpose comes hope... Hope for a new tomorrow... for a new life."
+ },
+ {
+  "id": 11984,
+  "t": "Filling the Cages",
+  "o": "Samir at Granite Springs wants you to use the Bounty Hunter's Cage on a drakkari troll that's been stunned by Budd.",
+  "d": "'Ol Budd's seen better days.$b$bEver since our stay in Ghostlands he's been useless to us. We've had to find ways to make it on our own, and today that means sellin' trolls to the highest bidder.$b$bFortunately, we've recently found a use for Budd. Something about his condition allows him to mingle with the local trolls, so we taught him a little game that's turned us a tidy profit.$b$bSee for yourself. Talk to Budd, take him southwest to Drak' Zin Ruins and use this cage as soon as he tags a troll.",
+  "p": "Have you managed to cage an ice troll?",
+  "c": "Great work, $c. Looks like we'll be keepin' Budd around a little longer.$b$bWe'll have your cage picked up right away. Here's your share of the bounty.$b$bOh, and welcome to the camp. Stick around and I'm sure we'll find a use for ya...."
+ },
+ {
+  "id": 11985,
+  "t": "Into the Breach",
+  "o": "Kurun on the hill overlooking Thor Modan wants you to kill Iron Thane Argrum.",
+  "d": "If we can't overcome the defenders inside Thor Modan, the iron dwarves can hold out forever. The Earthen are bravely taking on the constructs built by the sons of iron, but they cannot break into the city.$B$BThe tunnels narrow too quickly for my fellow giants to be of use, so our options are few. Would you be willing to venture into the city and kill the dwarf commanding the resistance?",
+  "p": "Were you able to kill the commander?",
+  "c": "Well done, $N. The loss of the iron dwarf commander should be enough to break the remaining defenders. The Earthen should be able to deal with the survivors."
+ },
+ {
+  "id": 11986,
+  "t": "The Damaged Journal",
+  "o": "Recover 8 Missing Journal Pages, combine them with the Incomplete Journal, and return the completed journal to Torthen Deepdig at the Westfall Brigade Encampment.",
+  "d": "This battered, mud-stained journal has seen better days. Leafing through the pages, you discover dozens of notes, diagrams, and maps.$B$BThe author's handwriting seems vaguely familiar, but you're unable to place it until you discover an entry signed with the name of Brann Bronzebeard.$B$BThe back half of the book, containing the most recent entries, has been torn away. Pages litter the battlefield, and it will be impossible to know what Brann discovered here until the book is whole again.",
+  "p": "What's that you have there?",
+  "c": "You found Brann's journal? Incredible! The league hasn't gotten a report from him in some time, and we began to fear he may have been captured or killed. What did he discover inside Thor Modan?"
+ },
+ {
+  "id": 11988,
+  "t": "The Runic Keystone",
+  "o": "Bring 5 Runic Keystone Fragments to Torthen Deepdig at the Westfall Brigade Encampment.",
+  "d": "Brann's journal mentions that he used a runic keystone to illuminate the important runes on the plate he discovered. Without the keystone, the plate's contents would be little better than gibberish.$B$BAt the end of Brann's last entry, he describes the iron dwarf defenders seizing the keystone from him, shattering it, and dividing it among themselves. Before we can decipher the runed plate, we must hunt down the fragments. Any of the dwarves within Thor Modan or the buildings around it may carry fragments.",
+  "p": "Do you have enough of the fragments to reconstruct the keystone?",
+  "c": "<Torthen works quickly to assemble the fragments you retrieved.>$B$BThis is incomplete, but it should still allow us to get most of the information from the plate."
+ },
+ {
+  "id": 11989,
+  "t": "Truce?",
+  "o": "Drakuru at Granite Springs wants you to use the Dull Carving Knife near his cage and then speak to him.",
+  "d": "Watch yerself, mon.$b$bDrakuru shrunk more $r heads than I can remember - and even if I could remember, I couldn't count that high. Lucky for you I be stuck in dis cage or I'd be addin' one more to da list.$b$bBut things bein' what they are, mebbe we be puttin' our differences aside fer a time, eh?$b$bDrakuru know things, mon. Things that will aid you in your struggle here.$b$b<Drakuru cuts the palm of his hand on one of his tusks and extends it through the cage.>$b$bSo, what you say, mon... truce?",
+  "p": "Good choice, mon. You won't be livin' to regret it....",
+  "c": "There!$b$bNow we be connected by blood, mon. A true bond we be havin'.$b$bYou lissen carefully to Drakuru, $r. There be much to do."
+ },
+ {
+  "id": 11990,
+  "t": "Vial of Visions",
+  "o": "Drakuru at Granite Springs wants you to bring him an Imbued Vial, a Waterweed Frond, and 3 Haze Leaves.",
+  "d": "First things first, mon. There be some preparatory work that need doin'.$b$bNo tellin' how long dey gunna keep me here. Ya be needin' a powerful elixir so we can be keepin' in touch.$b$bLucky for you, I know just the thing! And the ingredients all be close by.$b$bI need a vial from the pretty little troll over there, some waterweed from the lake just north of here, and a few haze leaves found around the camp here.$b$bHurry now, mon, before dey be haulin' me away.",
+  "p": "You got da stuff, mon?",
+  "c": "<Drakuru takes the ingredients and deftly combines them in the vial.>$b$bThis should do it, mon. Now it be time to get to work."
+ },
+ {
+  "id": 11991,
+  "t": "Subject to Interpretation",
+  "o": "Drakuru wants you to get 5 Frozen Mojo from the Drakkari Trolls at the Ruins of Drak'Zin and then use the elixir at Drakuru's Brazier there.",
+  "d": "A legendary set of artifacts, lost for thousands of years, were created to make Drak'Tharon Keep impervious.$b$bMost think they be myth, but Drakuru knows better, mon!$b$bI nearly discovered where one be, but got captured while interpreting hieroglyphs. Ya gotta summon my soul back dere so I can finish readin' em!$b$bUse my elixir at da brazier on Drak'Zin Ruins, southwest of here. You'll hafta mix in da frozen mojo my bruddas be holdin'. I hate ta see my bruddas fall, but it be for the greater good.$B",
+  "p": "",
+  "c": "Ahh, yes. Ya done good, mon.$b$bI be readin' the walls just fine from here...."
+ },
+ {
+  "id": 11992,
+  "t": "Navigation Charts (Deprecated)",
+  "o": "Obtain the missing parts of the Skadir Navigational Chart and bring it to Karuk in Riplash Stand.",
+  "d": "You've uncovered the first part of a navigation chart drawn on flayed dragonskin.  If you could complete it you'd be able to find the kvaldir's future plans of attack.$B$BOther mariners in Riplash might have the missing charts on them.  Karuk would be interested in the information they contain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11993,
+  "t": "The Runic Prophecies",
+  "o": "Torthen Deepdig at the Westfall Brigade Encampment wants you to decipher the three Rune Plates.",
+  "d": "We've no time to lose! Now that we've reassembled the runic keystone -- well, most of it -- we can decipher the contents of those very same runic plates Brann was working on before he fled.$B$BWe have no way of knowing if he managed to read the contents of all three plates, but we'll have to assume he got enough information to determine his next destination.$B$BStand before each of the plates and use the keystone to determine the contents of each. Brann may be counting on us!",
+  "p": "What've you found out?",
+  "c": "<Torthen listens as you recount the contents of the runic plates.>$B$BBy Madoran's hammer, he's discovered a whole new titan city!$B$B'The cradle of stone and iron.'$B$B'Ulduar nestled in the storm.'$B$BWhat d'you suppose that means? Could it be where we come from, after all these years?$B$BWe have to follow him! We have to find him!"
+ },
+ {
+  "id": 11995,
+  "t": "Your Presence is Required at Stars' Rest",
+  "o": "Speak with the Image of Archmage Modera at Stars' Rest.",
+  "d": "$C, I know these tuskarr will ask you to do many favors for them, but you must get to Stars' Rest with all due haste!$B$BThe upheaval in the land this morning is sure to have broader repercussions than just inconveniencing the natives.$B$BStars' Rest is westward past the intersection of the road leading north out of the harbor. There is an archmage there named Modera. She will be expecting you.",
+  "p": "",
+  "c": "I've been expecting you, $c. We have much work to do, you and I."
+ },
+ {
+  "id": 11996,
+  "t": "Your Presence is Required at Agmar's Hammer",
+  "o": "Speak with the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "$C, I know these tuskarr will ask you to do many favors for them, but you must get to Agmar's Hammer with all due haste!$B$BThe upheaval in the land this morning is sure to have broader repercussions than just inconveniencing the natives.$B$BThe Hammer is westward past the intersection of the road leading north out of the harbor. Archmage Aethas Sunreaver himself will be expecting you!",
+  "p": "",
+  "c": "What took you so long? Time waits only for Aspects, $r.$B$BWe have much work to do, you and I."
+ },
+ {
+  "id": 11997,
+  "t": "REUSE",
+  "o": "Speak with Captain Gryan Stoutmantle at the Westfall Brigade Encampment.",
+  "d": "The Westfall Brigade has been dispatched to the northeastern part of Grizzly Hills to secure passage for our troops. They have established a base camp to the northeast of Grizzlemaw, and to the southwest of Thor Modan.$B$BYou might recognize the brigade's leader, Captain Gryan Stoutmantle as an honored veteran of the war against the Scourge in Lordaeron. But the people of Westfall know him best for his decision to leave the battlefield and return home to take on the Defias.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11998,
+  "t": "Softening the Blow",
+  "o": "Bring Brugar Stoneshear at the Westfall Brigade Encampment a cask of Howlin' Good Moonshine.",
+  "d": "Our best bet for moving our forces quickly to Icecrown Glacier lies with the network of tunnels beneath the ancient iron dwarf city of Thor Modan.$B$BBrugar Stoneshear and his Explorers' League boys aren't going to be happy, but orders are orders.$B$BThe news might go over better if you brought him a cask of that moonshine sold by that trapper, Hugh Glass, down at Redwood Trading Post, southeast of here along the tree line.$B$BMan's not right in the head, but you won't find better moonshine out here.",
+  "p": "What's that you have there?",
+  "c": "Let me get this straight -- a $r I don't know brings me a cask of the finest booze in this miserable forest. Ok, then, what are you after?"
+ },
+ {
+  "id": 11999,
+  "t": "Rifle the Bodies",
+  "o": "Find the Moonrest Gardens Plans and return them to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "The Moonrest Gardens to the southwest were the final resting place of a group of Highborne elves. It was also a ley line nexus.$B$BThe blue dragonflight used a magical device they call a surge needle to destroy that nexus, freeing the power to redirect at their will.$B$BI want more information and you are going to get it for me!$B$BAfter the land was destroyed at the ruins, the ghosts of the Highborne rose up and decimated half of the mage hunters there. Go rifle their corpses for clues.",
+  "p": "You have returned. What did you uncover?",
+  "c": "Curious, they seek an accord with the Ethereum. The ethereals could prove a powerful ally for Malygos and his madness.$B$BThis will not do!"
+ },
+ {
+  "id": 12000,
+  "t": "Rifle the Bodies",
+  "o": "Find the Moonrest Gardens Plans and return them to the Image of Archmage Modera at Stars' Rest.",
+  "d": "The Moonrest Gardens to the southwest were the final resting place of a noble group of Highborne elves. It was also a powerful ley line nexus.$B$BThe blue dragonflight used a magical device they call a surge needle to destroy that nexus, freeing the power to redirect at their will.$B$BI need more information and I hope that you will get it for me.$B$BAfter the upheaval at the ruins, the ghosts of the Highborne rose up and decimated half of the mage hunters present. Go rifle their corpses for clues.",
+  "p": "You have returned.  What did you uncover?",
+  "c": "Curious, they seek an accord with the Ethereum. The ethereals could prove a powerful ally for Malygos and his madness.$B$BThis will not do!"
+ },
+ {
+  "id": 12001,
+  "t": "zzOLDHunting Tarot: Lesser Beasts",
+  "o": "Collect 12 Torn Hides and then summon the Huntsman with the Hunting Tarot.  The Torn Hides can only be gathered from beasts of level 5 or higher.",
+  "d": "Staring into the card, the image blurs until you see yourself standing covered in the furs from many wolves and bears.  You can only assume this is your destiny should you invoke the tarot's power.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12002,
+  "t": "Brothers in Battle",
+  "o": "Kill 10 Runic Battle Golems and return to Brugar Stoneshear at the Westfall Brigade Encampment.",
+  "d": "I hope Gryan knows I withdrew my men from Thor Modan when the battle began. There's no way we can excavate anything until that place settles down.$B$BYou seem like a brave sort, though, and you have Stoutmantle's trust.$B$BThor Modan is just to the northeast of us and the battle still rages between our Earthen brothers and the creations of those accursed iron dwarves. Help our brethren to even the odds and I'll start figuring out how we're going to accomplish this survey of Thor Modan.",
+  "p": "How are things at Thor Modan?",
+  "c": "<Brugar listens to your report.>$B$BIt sounds like things may be calming down there a bit. We'll start looking for entrances to the iron dwarves' tunnel system."
+ },
+ {
+  "id": 12003,
+  "t": "Uncovering the Tunnels",
+  "o": "Brugar Stoneshear at the Westfall Brigade Encampment wants you to explore the North Building, the East Building, and the South Building of Thor Modan.",
+  "d": "The first place we'll search for entrances to the Thor Modan tunnel system will be the outlying buildings.$B$BAs I left the site with my men, it looked like the iron dwarf defenders were taking refuge inside the buildings. Be careful as you explore them.$B$BAny tunnel entrances are likely to be toward the back of the buildings. I'm not sure what Stoutmantle thinks we're going to find down there, but I doubt the iron dwarves will make the search easy.",
+  "p": "I don't suppose you managed to find the tunnels, did you?",
+  "c": "<Brugar utters a stream of foul dwarven words.>$B$BNo entrances? None?$B$BNo, of course it couldn't be that easy. Well, I suppose there's no avoiding a foray into the city proper. My boys'll never get back to their real work."
+ },
+ {
+  "id": 12004,
+  "t": "Prevent the Accord",
+  "o": "Deliver Wind Trader Mu'fah's Remains and the Scales of Goramosh to the Image of Archmage Modera at Stars' Rest.",
+  "d": "We need to kill two birds with one stone here, $c. You're the stone.$B$BOur two birds are Wind Trader Mu'fah and Goramosh. They should be somewhere in the western half of the Moonrest Gardens. Most likely they're in the larger two-story building overlooking the pit.$B$BI require proof of their demise, if you would be so kind.",
+  "p": "Have you prevented the accord between the blue dragonflight and the Ethereum?",
+  "c": "Unfortunate that Goramosh indicated the accord had already been reached.$B$BNonetheless, that's two less worms we'll have to worry about. Let us get to more important business."
+ },
+ {
+  "id": 12005,
+  "t": "Prevent the Accord",
+  "o": "Deliver Wind Trader Mu'fah's Remains and the Scales of Goramosh to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "We need to kill two birds with one stone here, $c. You're the stone.$B$BOur two birds are Wind Trader Mu'fah and Goramosh. They should be somewhere in the western half of the Moonrest Gardens. Most likely they're in the larger two-story building overlooking the pit.$B$BI require proof of their demise, if you would be so kind.",
+  "p": "Have you prevented the accord between the blue dragonflight and the Ethereum?",
+  "c": "That's alright, $c, just put them down on the ground there in front of Agmar's throne.$B$B<The hint of a smile can be seen upon the archmage's image.>$B$BUnfortunate that Goramosh indicated the accord had already been reached.$B$BNonetheless, that's two less worms we'll have to worry about. Let us get on to more important business."
+ },
+ {
+  "id": 12006,
+  "t": "Avenge this Atrocity!",
+  "o": "Kill any combination of 15 Dragonblight Mage Hunters, Moonrest Stalkers, Surge Needle Sorcerers, and Focus Wizards. After you have done that, return to Ethenial Moonshadow at Moonrest Gardens.",
+  "d": "These so-called mage hunters came here and destroyed our resting place.$B$BAvenge us, or I will see to it that your base of operations is overrun with the spirits of the dead!",
+  "p": "Somehow I sense that you haven't quite killed enough of these defilers!",
+  "c": "Very well, you have satisfied my request if nothing more.$B$BThank you, $r."
+ },
+ {
+  "id": 12007,
+  "t": "Sacrifices Must be Made",
+  "o": "Drakuru wants you to bring the Eye of the Prophets to him at Drakuru's Brazier in Zeb'Halak.$b$bYou will need to collect Zim'bo's Mojo to use Drakuru's Elixir there.",
+  "d": "I've got it, mon!$b$bTo da north, on da Ziggurat at Zeb'Halak be a stone head with ruby eyes. One o' dem be da Eye of the Prophets! Bring it to the brazier there and drink my elixir.$b$bAgain, ya be needing some mojo for my elixir to work - dis time from da warlord, Zim'bo. He be hidin' in one of da huts in Zeb'Halak.$b$bIt be a shame to kill Zim'bo, mon, but he swore da blood oath to defend Drak'Tharon and he done failed. Now at least his mojo be helpin' us to reclaim Drak'Tharon.",
+  "p": "You get da Eye of the Prophets, mon?",
+  "c": "Dis be it, mon!$b$bIt be even more precious than I hoped. Dis be sure to bring mah people hope in dese dark times.$b$bNo time to waste, now. Let's be seein' where da next artifact be hidin'."
+ },
+ {
+  "id": 12008,
+  "t": "Agmar's Hammer",
+  "o": "Travel to Agmar's Hammer in the Dragonblight and speak to Overlord Agmar.$B",
+  "d": "Directly east of this refugee camp stands Agmar's Hammer - testament to the Hordes' power in the Dragonblight.$B$BWhile I have no doubt that our Horde brothers and sisters are already seeing the result of your efforts to bring the taunka into the Horde, I want you to deliver news of your success to Overlord Agmar in person.$B$BGo now, $N! Race the winds! East to Agmar's Hammer!$B",
+  "p": "",
+  "c": "While you have undoubtedly championed the cause of the Horde elsewhere, many more have been working towards expanding our grasp deeper into Northrend. Even now we have forces establishing bases in the frozen reaches of this desolate wasteland.$B$BWe surround the Scourge on all sides. Victory nears as our armies amass at the foot of the Wrathgate, Angrathar. Soon we will tear down the gate and breach Icecrown.$B$BBut there is much work left to be done...$B$BFirst we stop the Nerubians!"
+ },
+ {
+  "id": 12009,
+  "t": "Tua'kea's Crab Traps",
+  "o": "Collect 8 of Tua'kea's Crab Traps and return them to him at Moa'ki Harbor.",
+  "d": "With all of the troubles, I've lost my assistants. I was wondering if maybe you could help me?$B$BI have many crab traps under the waves of the harbor. Will you retrieve them for me? I'm too old for that sort of thing and the waters can be very dangerous.$B$BPlease, take this bladder. It will help you to breathe while you're down there.",
+  "p": "How many crabs did you manage to retrieve?",
+  "c": "I'm a simple trapper. The world has turned upside-down all of a sudden. It doesn't make sense.$B$BI hope that you'll be able to set it right again."
+ },
+ {
+  "id": 12010,
+  "t": "The Fate of Orlond",
+  "o": "Locate Surveyor Orlond within Thor Modan.",
+  "d": "When we began excavating the city, I sent Surveyor Orlond to check the stability of the tunnels in Thor Modan. I didn't see him escape when we withdrew at the beginning of the battle, and I worry he may still be trapped inside the city.$B$BIf we're going to get an army through Thor Modan, we'll need the information he was collecting. Stoutmantle and his superiors would have my hide if the tunnels collapsed on one of their brigades!",
+  "p": "",
+  "c": "A quick examination of the body reveals that the surveyor has been dead for some time. Looking through his pack, you stumble upon Orlond's handwritten notes."
+ },
+ {
+  "id": 12011,
+  "t": "Signs of Big Watery Trouble",
+  "o": "Inform Tua'kea at Moa'ki Harbor about the wrecked crab trap.",
+  "d": "This crab trap appears to have been destroyed by something much larger than the nearby circling sharks.$B$BPerhaps Tua'kea, the fisherman at Moa'ki Harbor, should be told about this?",
+  "p": "",
+  "c": "That's not the news I wanted to hear, $r.$B$BNo, no... it's good that you told me, but I fear my old nemesis has returned to these waters."
+ },
+ {
+  "id": 12012,
+  "t": "Inform the Elder",
+  "o": "Travel to a capital city and speak to the Earthen Ring Elder.",
+  "d": "This information must be spread to the entirety of the Earthen Ring. I'm not certain how to proceed, but the elder who set you on this task in the first place may. Please, return to the elder and seek the next course of action - we must do something!",
+  "p": "What troubles you, my child?",
+  "c": "This is grave news indeed. We must do everything in our power to stop this war from coming to pass."
+ },
+ {
+  "id": 12013,
+  "t": "End Arcanimus",
+  "o": "Destroy Arcanimus and then return to Ethenial Moonshadow at Moonrest Gardens.",
+  "d": "There is one last thing that I would have you do, $N the $r. I would have you destroy Arcanimus!$B$BThe sorcerers to the west used that giant device in the sky to bore a massive pit into our resting place. When they did that, they unleashed a monstrosity!$B$BI would not care if it were only a concern for mortals, but Arcanimus feeds upon the spirits of the dead.$B$BYou will put an end to it now!",
+  "p": "Do you think me a fool? Arcanimus is still eating the souls of my brothers and sisters, $c!",
+  "c": "You have my deepest gratitude, $N.$B$BIf you haven't already, you should alert your betters to the danger that the blue dragonflight has unleashed. By blowing apart the ley line anchor underneath the gardens, they threaten to destroy us all!"
+ },
+ {
+  "id": 12014,
+  "t": "Steady as a Rock?",
+  "o": "Retreive the Portable Seismograph and use it to take stability readings in Thor Modan, then return to Brugar Stoneshear at the Westfall Brigade Encampment.",
+  "d": "Orlond's notes indicate that he brought a piece of equipment called a portable seismograph with him, but the device is nowhere to be seen.$B$BThe survey log shows that Orlond completed all his readings in the Thor Modan tunnel, save one labeled the 'east end of the exposed tunnel.'$B$BThe last entry in the log indicates Orlond tried to take refuge in the water and was attacked by subterranean threshers. They might've taken his equipment.You'll need to recover it before you can take the last reading.",
+  "p": "What did you find?",
+  "c": "<Brugar looks over the report.>$B$BThis isn't good at all. Even if we could excavate the tunnels behind the blockage, there's no guarantee they wouldn't collapse again. It looks like some of these areas haven't been used in generations. We'll have to give Captain Gryan the bad news."
+ },
+ {
+  "id": 12015,
+  "t": "Test Quest for Craig",
+  "o": "Craig Amai at wherever wants you to bring him 5 whatevers.",
+  "d": "klajsdklajlsd",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12016,
+  "t": "The Bait",
+  "o": "Obtain The Flesh of \"Two Huge Pincers\" and deliver it to Tua'kea at Moa'ki Harbor.",
+  "d": "I'm sure of it... our ancient aquatic nemesis, Tu'u'gwar, \"He Who Plays With Food\", has returned. We must lay a trap for him, you and I.$B$BIf Tu'u'gwar has one weakness it's his stomach. There's one meat for certain that he'd never be able to pass up.$B$B\"Two Huge Pincers\", the mother of all crabs, Kili'ua, paces upon her island out in the waters to the southwest. You must pay her a visit and return with her meat.",
+  "p": "You return with the succulent flesh of Kili'ua?",
+  "c": "You were able to slay Kili'ua... perhaps you'll be able to do the same to Tu'u'gwar.$B$BPerhaps not."
+ },
+ {
+  "id": 12017,
+  "t": "Meat on the Hook",
+  "o": "Slay Tu'u'gwar and then return to Tua'kea at Moa'ki Harbor.",
+  "d": "The time has come my friend: Tu'u'gwar must be dealt with!$B$BI've prepped the meat so that the beast is sure to come once you bait the hook I have out in the water. Just follow the fishing line here down to it.$B$BWhatever you do, don't let Tu'u'gwar swallow you whole, $N!",
+  "p": "I thought I might have spotted some thrashing... is Tu'u'gwar dead? ",
+  "c": "We shall rejoice at your success, my young friend! There's blood in the water and it is our enemy's!$B$BYou have the eternal gratitude of this old fisherman, and most certainly of all the Kalu'ak once I spread the word!$B$BHere now, I insist, take something as a reward, please."
+ },
+ {
+  "id": 12018,
+  "t": "Sweet Revenge",
+  "o": "Obtain 2 Stone Hunks O' Gargoyle from Carrion Gargoyles in the Eastern Carrion Fields.  Return to Lord Bevis when the task is complete.",
+  "d": "You there... you look the fighting type.  I want some sweet Revenge on the Scourge that killed my family.  Go get me 2 Stone Hunks O' Gargoyle so that I can throw them on the ground and stomp on them violently until they are mashed into itty bitty pebbly bits. $b$bYes. Go. Kill.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12019,
+  "t": "Last Rites",
+  "o": "Go to the Temple City of En'kilah and find the teleportation orb beneath the floating Scourge citadel of Naxxanar.  Use it to reach the top and help Thassarian there.",
+  "d": "I served Arthas in death, because I had no choice.  He had control over my will and my body.  The Cult of the Damned serves Arthas in life... willingly.$B$BNow that we know the words of power to enter Naxxanar we can put an end to the cultist blight.  Go to En'kilah and look for the teleportation orb beneath the floating citadel.$B$BWork your way up and meet me at the top.  Arm yourself with what courage you can, we might not make it out of this alive.",
+  "p": "Hail, $N.",
+  "c": "You did well, $N.  I was hoping to leave my sister out of all this.  Thanks to you she is alive and well.$B$BMy obligations to my king and my army have been fulfilled.  It is clear I'm not welcome among my comrades anymore.  I will have to find my own way, fighting no wars but my own and following no orders but my heart's.$B$BPerhaps we shall meet again, $c.  Until then, take this as a token of my gratitude."
+ },
+ {
+  "id": 12020,
+  "t": "This One Time, When I Was Drunk...",
+  "o": "Talk to Boxey Boltspinner in the Brewfest camp.",
+  "d": "The Dark Irons took a beating!  As they rushed back to the Grim Guzzler, a portion of their transport fell off.  More importantly, you managed to keep the camp safe... today.$b$bHead over to Boxey and explain your heroic triumph over the Dark Iron dwarves.",
+  "p": "",
+  "c": "So you managed to stop the Dark Irons... While drunk too? That, $c, is truly the spirit of Brewfest! I guess in keeping with the spirit of Brewfest you want your prize tokens.$b$bThanks for your help, $N. Enjoy the rest of Brewfest."
+ },
+ {
+  "id": 12021,
+  "t": "A Letter Home",
+  "o": "Bring the letter home to Lady Alustra in the Eastern Carrion Fields.",
+  "d": "This letter appears to be addressed to a resident of Stormwind from one of the late Villagers in the Carrion Fields.  Perhaps one of the surviving residents in the Eastern camp would be interested in forwarding it to its intended recipient.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12022,
+  "t": "Chug and Chuck!",
+  "o": "Use the Complimentary Brewfest Sampler to hit S.T.O.U.T. 5 times, then talk to Boxey Boltspinner.",
+  "d": "Hey there!  You look like you can handle your brew.  But can you handle your brew mug? $b$bThe Dark Irons have come back with a vengeance to ruin our celebration.  Tossing mugs at them is the best way to stop them, but first, let's see if you can toss one at old S.T.O.U.T. here.$b$bIt's easy, pick up a complimentary sampler and take a drink.  Just make sure you're facing S.T.O.U.T.  Talk to me after you've hit him 5 times.",
+  "p": "Toss one back, then toss one forward. S.T.O.U.T. can take the abuse, it's why I built him.",
+  "c": "Do you know what that was? Gnomish engineering at its finest! S.T.O.U.T. took the abuse like a champ!$b$bI think you're ready now to take on the Dark Irons if they show up again."
+ },
+ {
+  "id": 12023,
+  "t": "Sweeter Revenge",
+  "o": "Kill the Abomination on the hillside in Eastern Carrion Fields.  Return to Lord Bevis once the slaughter is complete.",
+  "d": "Satisfyingly crunchy.  Now... you... $R thing... there's an Abomination wandering the hillside to the south.  Go kill it.  Kill it good.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12024,
+  "t": "Recording the Fallen",
+  "o": "Search the skeletons in the Carrion Fields for Alliance Settlement Documents.",
+  "d": "Thank you for coming $N.  We haven't recieved any word from Wintergarde Keep.  I'm sure they're still battling the Scourge, but I can believe they left us alone to this slaughter.  $b$bWe need to gather the names of the dead so that we can notify their families.  When the Alliance Military brought us here, we all filled out Settlement Documentation and were required to keep it on our persons.  $b$bGo sift through the corpses and bring me any Documents that you find so that I can start a list of the names.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12025,
+  "t": "A Scarlet Among Us",
+  "o": "Search for evidence of the Scarlet Crusade on the freshly risen Carrion Ghouls in the Eastern Carrion Fields.  Return to Lady Alustra with anything you find.",
+  "d": "It's good to see that you were not ravaged by the Scourge as well.  Perhaps you'd be willing to lend a hand.  $b$bThe Scarlet Crusade has taken up a post to the north with the obvious intent of battling the Scourge.  The thing that bothers me is that they were building before we were attacked - they must have known something.  $b$bI need to know if one of our Villagers was involved.  Search for evidence on those of us that were brought back as ghouls.  If you find anything, bring it to me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12026,
+  "t": "The Damaged Journal",
+  "o": "Recover 8 Missing Journal Pages, combine them with the Incomplete Journal, and return the completed journal to Sage Paluna at Camp Oneqwah.",
+  "d": "This battered, mud-stained journal has seen better days. Leafing through the pages, you discover dozens of notes, diagrams, and maps in the dwarven language.$B$BThe only text you're able to decipher is the name of Brann Bronzebeard scrawled at the end of one of the entries.$B$BThe back half of the book, containing the most recent entries, has been torn away. Someone thought the notes important enough to attempt to destroy them. Perhaps gathering the missing pages from the battlefield will yield some clues.",
+  "p": "What's that you have there?",
+  "c": "Who is this Brann Bronzebeard? The iron dwarves found no reason to treat with him, but I have no idea why we'd be interested in his writings."
+ },
+ {
+  "id": 12027,
+  "t": "Mr. Floppy's Perilous Adventure",
+  "o": "Help Emily and Mr. Floppy get back to the Westfall Brigade Encampment, then speak to Squire Walter.",
+  "d": "Excuse me, $g Mister: Ma'am;, do you know the way back to the soldiers' camp?$B$BMr. Floppy and I decided to go for a walk in the woods, and my brother Walter was gonna come with us, but then he had squire things to do.$B$BSo Mr. Floppy and I went by ourselves, but we got lost, and there were a whole bunch of hungry wolves, but we found this tower.$B$BThe wolves went away, but we're still lost.$B$BI asked Mr. Floppy, and he doesn't know the way back. Would you help us? Please?",
+  "p": "",
+  "c": "Thank goodness you found Emmy! When she left without me, I was worried she'd get lost.$B$BI'm glad to see Mr. Floppy's back safe and sound, too."
+ },
+ {
+  "id": 12028,
+  "t": "Spiritual Insight",
+  "o": "Speak with Toalu'u the Mystic at Moa'ki Harbor after you have attained your spiritual insight.",
+  "d": "$R, we have not heard from our people at Indu'le Village since the ground shook and was torn apart!$B$BHave you ever been upon a vision quest? You've bested Loguhn, so you must be capable.$B$BI will give you a special incense to sprinkle into my brazier. Breathe deep from its vapors and your spirit will be sent aloft to view what has transpired at Indu'le.$B$BAs your spirit soars, I will be able to look through your eyes.",
+  "p": "What do you think?",
+  "c": "Ghosts and gibbering madness? This cannot be!$B$BWe must seek further guidance."
+ },
+ {
+  "id": 12029,
+  "t": "Seared Scourge",
+  "o": "Mack at Granite Springs wants you to use his grog to burn 20 Famished Scourge Trolls at Drak'Tharon.",
+  "d": "<Hic>... gotta burn these corpshes 'fore they shtart walkin' around again.$b$bPoppa always said, only thing worshe than havin' to kill a troll is havin' ta kill a troll twice.$b$bSay,<hic>... shpeakin' of Scourge, we can't get into tha' troll keep up north 'til we get them trolls thinned out a bit.$b$bHow 'bout ya take shome o my grog here and put them bashtards outta their misery?",
+  "p": "Ya getter done, $N?",
+  "c": "Well done!$b$b<Mack laughs hysterically for a moment.>$b$bAww, come on now. That was funny...<hic>."
+ },
+ {
+  "id": 12030,
+  "t": "Elder Mana'loa",
+  "o": "Speak with the statue, Elder Mana'loa, at Indu'le Village.",
+  "d": "My people....$B$B<The mystic is on the verge of breaking down.>$B$BWhile your spirit was flying through the village, I sensed that Elder Mana'loa took notice of you. $N, he wishes to speak with you. The stone elders are revered by us as fonts of ancient wisdom.$B$BThe elder must want to help. Seek him in the northwest corner of the village.",
+  "p": "",
+  "c": "I've been expecting you, $r. I saw your spirit fly by and sensed the mystic watching behind your eyes.$B$BYour fate and that of the Kalu'ak are now tied together."
+ },
+ {
+  "id": 12031,
+  "t": "Freedom for the Lingering",
+  "o": "Put to rest any combination of 15 Indu'le Fishermen, Mystics and Warriors, then return to Elder Mana'loa at Indu'le Village.",
+  "d": "The sacred ground of the elves to the west has been torn asunder. Now their magic is moving through the land causing ruin where it flows.$B$BThe souls of the Kalu'ak are in danger as the blue dragons forces attempt to control the magic.$B$BThe power came up through the lake, instantly slaying most in the village. Those that survived were driven insane.$B$B$N, you must release these spirits so that they may move on. Leave the deranged living alone; they may yet regain their sanity in time.",
+  "p": "<Elder Mana'loa looks through you, sensing that you have not yet completed his task.>",
+  "c": "Not the most pleasant task, but necessary and merciful.$B$BAnd now there is something else that you are destined to do for the Kalu'ak."
+ },
+ {
+  "id": 12032,
+  "t": "Conversing With the Depths",
+  "o": "Commune with The Pearl of the Depths and do as the sea-goddess Oacha'noa instructs.$B$BShould you survive the ordeal, return to Toalu'u the Mystic at Moa'ki Harbor.",
+  "d": "The watery goddess, Oacha'noa, must be consulted; only she will know what the destiny of the Kalu'ak is to be. And only The Pearl of the Depths can call her forth from the murky nether.$B$BOff the coast to the southwest rises The Briny Pinnacle. Atop it sits the altar upon which the pearl rests.$B$BCommune at the altar and Oacha'noa is certain to hear your call. Do as she says lest you incur her wrath and bring ruin upon all of the tuskarr.$B$BShould you survive, return to the mystic.",
+  "p": "$N, you have returned!",
+  "c": "You spoke with Oacha'noa?!$B$BIf it is her will that we stand with your people then so be it. Elder Ko'nani will accept this as our destiny, for weal or woe.$B$BMy people believe that all souls are one with the magic of the world. We must oppose the blue dragon attempts to controI the magic or we are all doomed!$B$BI never thought that a $r would be the champion of the Kalu'ak, but you have proven me wrong. On behalf of my people, I give you thanks, $N.$B$BMay the gods smile upon you and keep you safe."
+ },
+ {
+  "id": 12033,
+  "t": "Message from the West",
+  "o": "Read the Letter from Saurfang and then destroy it.$B$BSpeak to Messenger Torvus once you have completed this task.",
+  "d": "<Torvus shakes your hand, giving you a letter in the process.>$B$B<Torvus speaks under his breath.>$B$BJust play along, $N.$B$BIt is good to see you here, soldier! Lord Hellscream has undoubtedly sent his strongest warriors to Lord Agmar!$B$B<Torvus speaks under his breath.>$B$BRead it and then destroy it in the fire pot next to me.",
+  "p": "We will crush the Scourge!",
+  "c": "<Torvus nods at you.>$B$BSo we are understood? I will return to my lord and tell him that you have accepted."
+ },
+ {
+  "id": 12034,
+  "t": "Victory Nears...",
+  "o": "Speak to Senior Sergeant Juktok at Agmar's Hammer.",
+  "d": "There remain only two primary threats that stand in our way. One is the dread citadel of Naxxramas, far to the east, above the Alliance fortress of Wintergarde and the other is the Pit of Narjun, exit point for the undead armies of Azjol'Nerub. It is from the Pit of Narjun that the Anub'ar Nerubians assaulted and ultimately razed the taunka village of Icemist.$B$BWe will destroy the Anub'ar and close off the Pit of Narjun.$B$BReport to Senior Sergeant Juktok for your mission orders.",
+  "p": "",
+  "c": "By land and by air, that's how we will end the Anub'ar threat."
+ },
+ {
+  "id": 12035,
+  "t": "Repurposed Technology",
+  "o": "Jeremiah Hawning at Farshire wants you to destroy 5 Harvest Collectors and then use Jeremiah's Tools to rewire them.",
+  "d": "Ok, I've got it!  The rewiring is a little complicated, but nothing a clever $c like you can't handle.$B$BTake my tools and put some of the harvest collectors out of commission.  Once they're down use the tools to plug all the red wires into the blue sockets.  That'll make them go into self-defense mode.  Hurry, $N.  Before long there won't be anything left to save.",
+  "p": "You done yet, $N?",
+  "c": "Nice job!  I finally feel useful again... and that's sayin' something."
+ },
+ {
+  "id": 12036,
+  "t": "From the Depths of Azjol-Nerub",
+  "o": "Explore the Pit of Narjun and return with your findings to Senior Sergeant Juktok at Agmar's Hammer.",
+  "d": "The undead Nerubians that attacked Icemist Village came from a gigantic sinkhole known as the Pit of Narjun. If left alone, those fiends will no doubt flank our forces at the Wrathgate and end our march to victory.$B$BI need eyes on the ground, $N. You are to head west and investigate the Pit of Narjun. We need to locate their primary exit point and seal it off! Find me that location.$B",
+  "p": "",
+  "c": "That damned sinkhole must be directly connected to Azjol-Nerub. This is worse than I thought.$B$B<Juktok pauses to think for a moment.>$B$BSeek and destroy... That'll be the next course of action."
+ },
+ {
+  "id": 12037,
+  "t": "Search and Rescue",
+  "o": "Mack at Granite Springs wants you to go into Drak'Tharon and find out what became of Kurzel.",
+  "d": "Orc women... they just don't lissen - hic. Know what I mean, $r?$b$bKurzel's been with us fer years. You'd think she'd get a feel fer how we do things by now. Lure the fools in fer the dangerous work, then reap the rewards when it's safe. What's so hard to understand?$b$bNot her though... impatient green-skin goes off and takes matters into her own hands. Probably dead by now, but I'd feel horrible if we didn't follow after her, and I'm in no shape to do it myself - hic.$b$bSo whatdya say, pal?",
+  "p": "",
+  "c": "I knew it!$B$BEven my going missing wasn't enough to get those spineless weasels to come in here after me.$B$BWell, they sent you. I suppose that's something....$B$BHere, take this. I'd rather it go to you than to those dimwits back at the camp."
+ },
+ {
+  "id": 12038,
+  "t": "Seared Scourge",
+  "o": "Mack at Granite Springs wants you to use his grog to burn 30 Famished Scourge Trolls.",
+  "d": "Whatcha waitin' fer, $c? Them shcourged trolls ain't gunna kill themselves!$b$bYou know the drill. Git up ta Drak'Tharon up north... Take some o thish here grog and hurl it at 'em from a distance...<hic>.  Then jusht sit back an' watch 'em burn.",
+  "p": "Ya getter done, $N?",
+  "c": "Well done!$B$B<Mack laughs hysterically for a moment.>$B$BAww, come on now. That was funny...hic."
+ },
+ {
+  "id": 12039,
+  "t": "Black Blood of Yogg-Saron",
+  "o": "Borus Ironbender at Agmar's Hammer in the Dragonblight wants you to recover 10 Black Blood of Yogg-Saron Samples.",
+  "d": "Angrathar, the Wrathgate... I watched as the metal holding the gate together pulsed and undulated as if it were alive! In 50 years I've never seen metal \"breathe.\"$B$BOnly ones who knew anything about it were the tuskarr. They called it the \"Black Blood of Yogg-Saron\" and told me to keep my distance.$B$BThere's a sinkhole outside Icemist Village to the west called the Pit of Narjun. I've heard of these sinkholes being rich with this strange ore. If you head that way, could you try and get me some samples?",
+  "p": "What's life without risks?",
+  "c": "It's so light... As if it weighs nothing at all! I'll need time to analyze the metal and see if I can do anything with it! Tests! I need to run tests!$B$BI'll keep in contact, $N. If anything comes of this, you'll be the first to know."
+ },
+ {
+  "id": 12040,
+  "t": "An Enemy in Arthas",
+  "o": "Kilix the Unraveler at the Pit of Narjun in the Dragonblight has asked that you slay 6 Anub'ar Underlords.$B",
+  "d": "We are in the midst of a civil war. At the heart of this world the last living members of my species defend themselves against total annihilation. The Lich King seeks to rule the kingdom of Azjol-Nerub at any cost. Those that do not acquiesce are branded enemies of the Scourge and marked for death.$B$BIn Arthas we both have an enemy...$B$BJoin our cause and rid this place of the taint of Anub'ar! Let Anub'arak himself hear the anguish of their death cries!",
+  "p": "The Azjol Empire will rise again!",
+  "c": "There are thousands more and they spill out from every dark crevice in Northrend. Alone you stand no chance, but together... Maybe..."
+ },
+ {
+  "id": 12041,
+  "t": "The Lost Empire",
+  "o": "Deliver Kilix's Battle Plan to Overlord Agmar at Agmar's Hammer to the east.",
+  "d": "You have proven that you are willing to assist the Azjol Empire in its time of need and as such the Azjol Empire will assist the Horde.$B$BTake this scroll back to your leader. It documents the strengths and weaknesses of the Nerubians attacking Icemist Village. Consider it a gesture of good faith - a willingness to help your people. Use the knowledge on those pages to crush the Anub'ar and you will have done a service for us all.$B$BFarewell, $r.$B",
+  "p": "What have you got there?",
+  "c": "<Overlord Agmar looks over the document.>$B$BIs this what I think it is? With the information contained within these pages we will CRUSH the Anub'ar assault!$B$BYou have done well to bring this document to me, $N. Perhaps you will be allowed to watch or even participate in the final battle at Angrathar! LOK'TAR!"
+ },
+ {
+  "id": 12042,
+  "t": "Heart of the Ancients",
+  "o": "Drakuru wants you to go to the uppermost chamber at Blue Sky Logging Ground and find the Heart of the Ancients.",
+  "d": "Secrets of da ages, be revealed to me now!$b$b<Drakuru peers through the Eye of the Prophets.>$b$bAhh, great be mah destiny, $n. You be lucky ta know me....$b$bThere! I be seein' it, mon. The Heart of the Ancients. Dis be too easy!$b$bYou gunna find da heart lyin' near da corpse of a goblin east of here. He be up in a chamber, near a river of broken trees.$b$bHurry, mon, before someone else be findin' it!",
+  "p": "",
+  "c": "This unfortunate goblin must have unearthed the Heart of the Ancients during his excavations in the region.$b$bIt's doubtless that he had no clue as to its nature.$b$bYou determine that it must have been overlooked in the chaos sweeping through the area."
+ },
+ {
+  "id": 12043,
+  "t": "Nozzlerust Defense",
+  "o": "Kill 12 Wastes Diggers and 1 Wastes Taskmaster at the digs surrounding Galakrond's Rest.  Return to Narf at Nozzlerust Post when the task is complete.",
+  "d": "You, $c!  These undead south of us are being a constant nuisance to our work.  Go clear them out, will ya?",
+  "p": "Huh? Who are you? What do you want?",
+  "c": "Oh!  Yeah, the undead.  Here's your coin, bugger off."
+ },
+ {
+  "id": 12044,
+  "t": "Stocking Up",
+  "o": "Gather 8 bundles of Composite Ore from the digs surrounding Galakrond's Rest and bring them to Xink at Nozzlerust Post.",
+  "d": "Hello hello!  The Scourge to the south are digging up some ancient dragon thing.  I could care less why they're doing it, but they're pulling cartloads of composite ore in the process.$b$bGo lift me a bunch of that ore.  That stuff should yield a pretty penny for all the weapons the Horde are crafting.$B",
+  "p": "Did you get the ore?  My carrier will be back shortly - we need to get this shipment out while the fight's still going!",
+  "c": "Hah!  That's quite a load!  Your back feeling alright?"
+ },
+ {
+  "id": 12045,
+  "t": "Shaved Ice",
+  "o": "Collect 4 Ice Shard Clusters from Ice Elementals in the north and bring them to Zivlix at Nozzlerust Post.",
+  "d": "I've never seen you before... are you new to the Vice?  Glad to have you.  I could always use some more hands.$b$bYou get the materials, I'll finish my machine, then we can sell it to those commander types and all go home rich.$b$bI actually have most of the primary components, so I just need some of the materials for the weapon itself.  Narf said that jagged ice shards from those elementals to the north would make perfect shrapnel for my bombs - go nab some, will ya?$B",
+  "p": "Do you have the shards?  I'm almost finished with the main refrigeration unit.",
+  "c": "Excellent!  They're even sharper than I expected them to be.  I'll pack them in the snow until the bomb is ready.$b$bLet's see... what next...\n"
+ },
+ {
+  "id": 12046,
+  "t": "Soft Packaging",
+  "o": "Collect 12 Thin Animal Hides from the Jormungar Tunnelers or the Dragonbone Condors near Nozzlerust Post.  Once you've located the hides, return them to Zivlix.",
+  "d": "I need some new packaging for the shrapnel bombs.  All the stuff I have is too hard and the shrapnel doesn't spread when it bursts.  $b$bWhat we need is some really thin animal hide.  Those jormungar tunnelers to the west might work... or perhaps the condors sifting through the dragon bones.  Go get me whatever you can find.$B",
+  "p": "How goes the hunt?  Do you have my hides?",
+  "c": "Good... good... these should do fine.  The shrapnel bombs are almost finished. $b$bWait... what happened to my ice shards?  Narf told me shards from those elementals should be enchanted, but they're melting just like the one's hanging from Narf's grumpy chin!"
+ },
+ {
+  "id": 12047,
+  "t": "Something That Doesn't Melt",
+  "o": "Search the dragon bones east of Nozzlerust Post for 12 Splintered Bone Chunks.",
+  "d": "No no no! Those ice shards didn't work at all! They'll melt before they even do any damage. That's the last time I'll trust Narf's word on materials. This means we need something else entirely for the shrapnel.$b$bI know! I'm brilliant. Bone splinters.$b$bThere are some bones all around here that the jormungar have been gnawing on pretty thoroughly. Go check them out and see if you can find me some splintered bone that I can use.",
+  "p": "Were there any splinters to be found?",
+  "c": "Excellent!  That should be the last thing I need to test out the new bombs.  Just a moment and I'll try this out!"
+ },
+ {
+  "id": 12048,
+  "t": "Scourge Armaments",
+  "o": "Borus Ironbender at Agmar's Hammer in the Dragonblight wants you to bring him 8 Scourge Armaments.",
+  "d": "I can't make a damned thing out of this ore. It simply will not hold together! Despite my best efforts the Scourge metal will not bend!$B$BPerhaps if I had some samples of some forged Scourge armaments I might be able to reverse engineer the process by which the items are created.$B$BIcemist Village is crawling with armored Scourge Nerubians. Go there and get me some Scourge armaments! With your help I might actually succeed in creating something from this ore.$B$BYou'll find Icemist to the west.",
+  "p": "<Borus throws his tools down.>$B$BThese are useless!",
+  "c": "These are in excellent condition, $N. I'll get to work right away. If anything comes of this, you will be the first to know!"
+ },
+ {
+  "id": 12049,
+  "t": "Hard to Swallow",
+  "o": "Battle a Hulking Jormungar east of Nozzlerust Post until it opens its mouth, then throw a Potent Explosive Charge into its throat. After it explodes, collect 6 slabs of Seared Jormungar Meat off of the ground and bring them back to Xink.",
+  "d": "Those troops are sure to be needin' a hefty supply of food in their bellies.$B$BI'll let you in on a little secret that a squeamish $r like you would never know... those jormungar worms taste just like chicken.$b$bGo provoke one of those giant hulking jormungar to the east.  You're not likely to be able to kill one straight out, so just toss this down its throat when it opens its mouth wide.  Bring me back as many of the slabs of meat as you can tote.",
+  "p": "Did ya get it all?  You certainly stink of it.",
+  "c": "Ha ha!  One of those meat slabs landed clear over here!  Nice work there!\n"
+ },
+ {
+  "id": 12050,
+  "t": "Lumber Hack",
+  "o": "Use Xink's Shredder Control Device to call a Shredder once you reach the Harpy Nesting Grounds in the North.  Gather 50 Bundles of Lumber from the trees in the area, and then return to Xink at Nozzlerust Post.$B$BShould you lose Xink's Shredder Control Device, speak to Xink at Nozzlerust Post to obtain a new one.",
+  "d": "Next up, we need to haul in some lumber for all the towers the Alliance are building.  There are some thin trees to the south, but the trees the Harpies are nesting in to the north look much more fit for structures.$b$bTake this.  When you get to the Harpy nesting area, use the control and one of my Shredders should come to you.  Gather as much lumber as it can carry.  The Harpies are sure to disagree with you chopping down their homes - just deal with them as necessary.$b$bHop to it!",
+  "p": "Where's that carrier?  Hope the Jormungar didn't get him.  He was carrying a good sized load that time.",
+  "c": "If a tree falls in the forest, and you can't hear it through the saw blade, does it really make a sound?"
+ },
+ {
+  "id": 12051,
+  "t": "Rustling Some Feathers",
+  "o": "Kill 20 Harpies Northwest of Nozzlerust Post for Narf at Nozzlerust Post.",
+  "d": "Those harpies have slowed our profits long enough!  Kill them all.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12052,
+  "t": "Harp on This!",
+  "o": "Kill the Mistress of the Coldwind and 15 Coldwind harpies in the mountains northwest of Nozzlerust Post. Return to Narf once the task is complete.$B$BShould you be in need of Xink's Shredder Control Device, speak to Xink at Nozzlerust Post.",
+  "d": "$C, did you see that? That's the harpy that's been leading the attack on our shipments to the gate! I've seen her in the back of Coldwind Heights before.$B$B Those harpies have slowed our profits long enough! Kill them all.",
+  "p": "I remember you. You're not dead, so those harpy wretches better be.",
+  "c": "That should make those uglies think twice.  Here... take your reward and get away with ya."
+ },
+ {
+  "id": 12053,
+  "t": "The Might of the Horde",
+  "o": "Senior Sergeant Juktok at Agmar's Hammer in the Dragonblight wants you to use the Warsong Battle Standard at Icemist Village and defend it against attackers.$B$BReturn the Warsong Battle Standard when you are finished.",
+  "d": "The taunka are now our brothers in arms. We must show our solidarity and retake Icemist Village.$B$BYou will find Icemist Village west of Agmar's Hammer, sitting at the foot of the mountains. Travel there and challenge the Anub'ar Nerubians! Plant our beloved Horde banner at Icemist Village and destroy all that dare come to tear it down!$B$BLet the Anub'ar feel the true might of the Horde! Let our battle standard be the last thing that they see before death!",
+  "p": "It is a challenge, $N!",
+  "c": "We have crushed them by land! Soon we will crush them by air!"
+ },
+ {
+  "id": 12054,
+  "t": "Deciphering the Journal",
+  "o": "Bring a sprig of Spiritsbreath to Sage Paluna at Camp Oneqwah.",
+  "d": "Vor'takh is right -- we cannot allow this opportunity to slip through our fingers.$B$BFortunately, I think I know of a way to translate the journal of this Brann.$B$BThe shamans of the Redfang furbolgs, who congregate at the Heart's Blood Shrine south of the camp, grow an herb known as spiritsbreath. An experienced mystic can use incense made from it to seek wisdom from the spirits of the ancestors.$B$BSeek out the shaman known as Grumbald One-Eye. He should carry the herb for his devotions to Ursoc.",
+  "p": "Have you brought sufficient quantities of the herb?",
+  "c": "Well done, $N. I'll prepare the incense and then we'll see what exactly this royal dwarf was doing so far from home."
+ },
+ {
+  "id": 12055,
+  "t": "A Strange Device",
+  "o": "Deliver Goramosh's Strange Device to the Image of Archmage Modera at Stars' Rest.",
+  "d": "Picking up this strange device, you are certain that it is magical in nature. Unfortunately, it doesn't seem to connote any other kind of use.$B$BPerhaps the archmage back at Stars' Rest to the east of the Moonrest Gardens would be able to tell what it's used for?",
+  "p": "What do you have there?",
+  "c": "$N, if I'm not mistaken, you've uncovered the key to allow us to discern exactly what the mage hunter forces are up to!"
+ },
+ {
+  "id": 12056,
+  "t": "Marked for Death: High Cultist Zangus",
+  "o": "Kill High Cultist Zangus and return High Cultist Zangus's Head to Captain Gort at Agmar's Hammer in the Dragonblight.",
+  "d": "I witnessed his treachery with my own eyes! The traitor led an Anub'ar assault on this stronghold, taking out some of my best soldiers.$B$B<Gort shakes his head.>$B$BHe'd been working with the Scourge the whole time and we didn't have a clue! How many more like Zangus are there? We'll find 'em all and when we do...$B$B<Gort makes a cutting motion across his neck.>$B$BFirst on the list is Zangus. Our scouts report that he is hiding in The Pit of Narjun, west of here. Find him, kill him, bring me his head.$B",
+  "p": "Is that a severed orc head in your pack or are you just happy to see me?",
+  "c": "<Gort holds the head up and stares into its dead eyes.>$B$BI told you we'd get you...$B$BHere's your reward, $c. That's one less headache for us to worry about."
+ },
+ {
+  "id": 12057,
+  "t": "The Flesh-Bound Tome",
+  "o": "Return the Flesh-bound Tome to Captain Gort at Agmar's Hammer.",
+  "d": "The tome is bound in flesh and appears to be bleeding. Upon examination you discover page after page filled with strange symbols that appear to be written in blood.$B$BWhatever knowledge is held within the pages of this tome could be important. Return it to Captain Gort at Agmar's Hammer, east of Icemist Village.",
+  "p": "<Gort raises an eyebrow.>",
+  "c": "<Gort takes the tome from you.>$B$BSavages... Bound in $r flesh... This language... Its existence has never been proven. It is the language of death... The tongue of the Scourge."
+ },
+ {
+  "id": 12058,
+  "t": "The Runic Prophecies",
+  "o": "Sage Paluna at Camp Oneqwah wants you to decipher the three Rune Plates.",
+  "d": "Brann's journal also contained a guide to iron dwarf symbols. I've inscribed these on a keystone which will help you to understand the words inscribed on the rune plates.$B$BFrom the journal entries, it seems Brann may be chasing after clues to the origins of his people. Keep your eyes open for any clues as to his destination.$B$BReturn to Thor Modan, northeast of here, stand before each of the plates, and use the stone to determine the contents of each. We can't allow the Alliance to find him first.",
+  "p": "Have you discovered Thor Modan's secrets?",
+  "c": "<Sage Paluna listens as you recall the translations of the plates.>$B$BSo Brann thinks he's discovered a new titan city?$B$B'The cradle of stone and iron.'$B$B'Ulduar nestled in the storm.'$B$BI will ask the chieftain to dispatch longrunners to the Storm Peaks. My people know these lands well and have the best chance of tracking down this wayward dwarf."
+ },
+ {
+  "id": 12059,
+  "t": "A Strange Device",
+  "o": "Deliver Goramosh's Strange Device to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "Picking up this strange device, you are certain that it is magical in nature. Unfortunately, it doesn't seem to connote any other kind of use.$B$BPerhaps the archmage back at Agmar's Hammer to the northeast of the Moonrest Gardens would be able to tell what it's used for?",
+  "p": "What do you have there?",
+  "c": "$N, if I'm not mistaken, you've uncovered the key to allow us to discern exactly what the mage hunter forces are up to!"
+ },
+ {
+  "id": 12060,
+  "t": "Projections and Plans",
+  "o": "Get close to and observe the projection atop the Surge Needle floating above Moonrest Gardens.$B$BAfterward, return to the Image of Archmage Modera at Stars' Rest with the information.",
+  "d": "This is a teleportation device. If I had to guess, I'd say that it leads to the surge needle platform floating above the Moonrest Gardens to the west.$B$BI need you to use it to investigate what's up there. It appears that the device works both ways so you shouldn't have to jump off.$B$BI expect that once you teleport to the top of the surge needle, there will be some sort of apparatus on it to observe.$B$BYou should be able to use the teleporter from anywhere within the gardens.",
+  "p": "Back so soon?",
+  "c": "What you're describing... that's a projection of the Arcanomicon!$B$B<The archmage's show of concern is quickly masked behind an impassive countenance.>$B$BThe Arcanomicon is a map of all of the magical ley line intersections in the world. The blue dragonflight has been using it to find and destroy ley line 'anchors' to send the magical power back to the Nexus.$B$BThe question is, why is the path of destruction leading east when it should be heading west instead?"
+ },
+ {
+  "id": 12061,
+  "t": "Projections and Plans",
+  "o": "Get close to and observe the projection atop the Surge Needle floating above Moonrest Gardens.$B$BAfterward, return to the Image of Archmage Aethas Sunreaver at Agmar's Hammer with the information.",
+  "d": "This is a teleportation device. If I had to guess, I'd say that it leads to the surge needle platform floating above the Moonrest Gardens to the southwest.$B$B$N, I need you to use it to investigate what's up there. It appears that the device works both ways so you shouldn't have to jump off.$B$BI expect that once you teleport up to the top of the surge needle, there will be some sort of apparatus on it to observe.$B$BYou should be able to use the teleporter from anywhere within the gardens.",
+  "p": "Back so soon?",
+  "c": "What you're describing... that's a projection of the Arcanomicon!$B$B<The archmage's show of concern is quickly masked behind an impassive countenance.>$B$BThe Arcanomicon is a map of all of the magical ley line intersections in the world. The blue dragonflight has been using it to find and destroy ley line 'anchors' to send the magical power back to the Nexus.$B$BThe question is, why is the path of destruction leading east when it should be heading west instead?"
+ },
+ {
+  "id": 12062,
+  "t": "Insult Coren Direbrew",
+  "o": "Speak with Coren Direbrew.",
+  "d": "Coren Direbrew is in the next room, riling up Dark Iron dwarves for another attack on Brewfest.  Defeat him!$B$BGo to Coren and pick a fight.  Tell him his beer isn't fit for pigs.$B$BWhen you do that, be ready for a fight.  The last person who insulted his brew... was fed to dire boars.",
+  "p": "",
+  "c": "What? What did you say? How dare you! My beer can stand up to any of that rot they serve at Brewfest!$b$bYou'll pay for this insult, $c!"
+ },
+ {
+  "id": 12063,
+  "t": "Strength of Icemist",
+  "o": "Find Banthok Icemist at Icemist Village.",
+  "d": "<Greatmother Icemist bows.>$B$BIt is an honor to meet you, hero. It is because of your actions that many of us are here now, alive and ready for battle against the Scourge.$B$BYou have done so much for us that it shames me to ask you for your assistance once more. Despite my pleas, my only son, Banthok, left here to go in search of his father, High Chief Icemist. He was last seen heading west, towards Icemist Village. Please find Banthok. I do not know what I would do if I lost my son.",
+  "p": "",
+  "c": "My father still lives! We must save him! I cannot do it alone, $r. You must help me!"
+ },
+ {
+  "id": 12064,
+  "t": "Chains of the Anub'ar",
+  "o": "Banthok Icemist at Icemist Village in the Dragonblight has asked that you bring him Anok'ra's Key Fragment, Tivax's Key Fragment and Sinok's Key Fragment.$B",
+  "d": "They have my father bound by magical chains in the middle of Icemist Village. From what I have been able to gather, the prison is controlled by three powerful Anub'ar magi - each holding a piece of the key.$B$BScour Icemist and locate the magi. Kill them and take their key fragments. With all three pieces we might be able to free my father. Once he is free...$B$BRetribution will come swiftly.",
+  "p": "Bring me those key fragments!",
+  "c": "Yes, this will work.$B$B<Banthok expertly manipulates the key fragments.>$B$BHere it is, $c. With this key, my father will be freed of the Anub'ar prison."
+ },
+ {
+  "id": 12065,
+  "t": "The Focus on the Beach",
+  "o": "Obtain the Ley Line Focus Control Ring and use it to gain information from the Ley Line Focus on the Glittering Strand.$B$BThen, return to the Image of Archmage Modera at Stars' Rest.",
+  "d": "The mage hunter forces are active on the Glittering Strand to the south of Moonrest Gardens. My guess is that you'll find a heavily guarded focus on the beach and a captain who is in charge of it.$B$BNo doubt the captain will have some sort of controlling device on their person. Get the controller and use it on the focus.$B$BWith any luck, we'll be able to get some more information about what they're really up to out there.",
+  "p": "What news do you bring from the beach, $c?",
+  "c": "How very odd that it imprinted this information upon you magically.$B$BSo, not only do we know that they've redirected the flow of the power coming out of the Moonrest Gardens, but we now know that the power is being purposefully changed in some way. Just what are they up to with all of that magic?$B$BI don't like where this is leading, $N, not one bit!"
+ },
+ {
+  "id": 12066,
+  "t": "The Focus on the Beach",
+  "o": "Obtain the Ley Line Focus Control Ring and use it to gain information from the Ley Line Focus on the Glittering Strand.$B$BThen, return to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "The mage hunter forces are active on the Glittering Strand to the south of Moonrest Gardens. My guess is that you'll find a heavily guarded focus on the beach and a captain who is in charge of it.$B$BNo doubt the captain of the force down there will have some sort of controlling device on their person. Get the controller and use it on the focus.$B$BWith any skill on your part, we'll be able to get some more information about what they're really up to out there.",
+  "p": "What news do you bring from the beach, $c?",
+  "c": "How very odd that it imprinted this information upon you magically.$B$BSo, not only do we know that they've redirected the flow of the power coming out of the Moonrest Gardens, but we now know that the power is being purposefully changed in some way. Just what are they up to with all of that magic?$B$BI don't like where this is leading, $N."
+ },
+ {
+  "id": 12067,
+  "t": "A Letter for Home",
+  "o": "Deliver Captain Malin's Letter to Commander Saia Azuresteel at Stars' Rest.",
+  "d": "You find a letter secreted in the lining of her robes. It reads:$B$B\"Father,$B$BI'm sorry for disappearing on you. If you're reading this letter, then I'm dead.$B$BI've been forced to work for Malygos's armies under threat that our family would be killed if I didn't. I feel so ashamed.$B$BIf there's anything that you can do to fight them, don't worry about me. I have them fooled and I'm sabotaging them from the inside.$B$BI love you, Daddy!$B$BEm\"$B$BCommander Saia Azuresteel will want to see this!",
+  "p": "A letter for me?$B$B<The commander studies your face a moment.>$B$BI suppose not... must be bad news.",
+  "c": "Oh no... and we sent you down there to kill her, didn't we?$B$B<The commander shakes her head and sighs.>$B$BI'm sorry. I'll see to it that the letter is delivered to her father, Archmage Malin in Stormwind, right away. Don't worry, you won't be implicated... it wasn't your fault.$B$BTry to put it out of your mind. There was no way that you could have known, $N."
+ },
+ {
+  "id": 12068,
+  "t": "Voices From the Dust",
+  "o": "Drakuru wants you to collect the Drakkari Tablets from the Ruins of Drakil'jin and 5 Sacred Mojo from Drakkari Oracles and Protectors there. You are then to use Drakuru's Elixir at Drakuru's Brazier at the ruins to summon his image.",
+  "d": "<Drakuru places the Eye of the Prophets on his brow and the Heart of the Ancients on his chest.>$b$bWe be close, mon, very close!$b$bThe Drakkari Tablets be all dat remain ta be found. Nobody be knowin' how old dey be or what dey be sayin', but with the eye and the heart Drakuru can be readin' dem. Dey lie deep inside the crypt at Drakil'jin, due east of here.$b$bOnce ya got the tablets, get sacred mojo from the oracles and protectors so ya can summon me there. They'd be proud to be dyin' for such a cause.",
+  "p": "Good to be seein' ya, $n.$b$bYou find da tablets?",
+  "c": "We've done it, $N!$b$bWe have all of the components we need to perform the cleansing ritual."
+ },
+ {
+  "id": 12069,
+  "t": "Return of the High Chief",
+  "o": "Free High Chief Icemist using the Anub'ar Prison Key and assist him in defeating Under-king Anub'et'kan.$B$BRecover a Fragment of Anub'et'kan's Husk and return it to Overlord Agmar at Agmar's Hammer in the Dragonblight.",
+  "d": "<Banthok hands you the prison key.>$B$BYou must hurry, $N. Take the key and use it to unchain my father from the Anub'ar prison. Once he is freed, assist him in destroying the Anub'ar leader, Under-king Anub'et'kan. When the Under-king is defeated, take from his chitinous carapace a fragment as a trophy to present to the Horde at Agmar's Hammer. Let Agmar see the might of the High Chief!",
+  "p": "What is it, $N? I am extremely busy.",
+  "c": "You are a brave $c, $N. You've done the Horde a great service by rescuing the High Chief."
+ },
+ {
+  "id": 12070,
+  "t": "Rallying the Troops",
+  "o": "Use the Shard of the Earth to rally the Grizzly Hills Giants fighting in the Boulder Hills, kill any iron dwarves who oppose you, then report to Kurun on the hill overlooking Thor Modan.",
+  "d": "The sons of iron have used their runes to enthrall many of my brothers and are using them to break the siege on Thor Modan. I wish we did not have to fight them, but we have no choice.$B$BMy giants will not hold out long against them.$B$BI have imbued this earthen shard with a blessing that will aid our allies. Take it with you to the battle in the Boulder Hills to the north, and use it to reassure and fortify my brethren.$B$BKill any iron dwarves who would stand in your way.",
+  "p": "Have you conveyed my blessing upon the giants?",
+  "c": "You have given our allies the strength to fight on, and for that you have my thanks. Even so, we must begin planning a way to end this battle before we are overrun."
+ },
+ {
+  "id": 12071,
+  "t": "Attack by Air! ",
+  "o": "Speak with Valnok Windrager at Agmar's Hammer.",
+  "d": "They have seen the might of the Horde by land, now they must feel it from the air! I want you to report to Valnok Windrager at once! You will find him here, in Agmar's Hammer.$B$BValnok has already been briefed on your mission and is expecting you.$B",
+  "p": "",
+  "c": "<Valnok salutes.>$B$BSo you're the hot shot, eh?"
+ },
+ {
+  "id": 12072,
+  "t": "Blightbeasts be Damned!",
+  "o": "Use Valnok's Flare Gun to call down a Kor'kron War Rider at Icemist Village. Mount the Kor'kron War Rider and then use it to kill 25 Anub'ar Blightbeasts!$B$BReturn to Valnok Windrager at Agmar's Hammer should you complete this mission.",
+  "d": "You've no doubt seen the army of Anub'ar blightbeasts that are being constructed at Icemist Village. The Anub'ar have plans to send those monsters against our soldiers at the Wrathgate. This cannot happen!$B$BVenture west to Icemist Village with this flare gun and use it to call down one of my war riders. Climb on its back and command it to destroy the blightbeasts that are out of reach from the ground!$B$BOnce you have decimated their aerial forces, return to me for your reward!",
+  "p": "Do note that the war riders are trained to only fight inside Icemist. Try to take them elsewhere and they will buck you off.",
+  "c": "<Valnok salutes.>$B$BAnd now they have been crushed by air! Perhaps soon you will be called to Angrathar, hero!"
+ },
+ {
+  "id": 12073,
+  "t": "Pounding the Iron",
+  "o": "Kill any 10 Iron Dwarves defending Thor Modan and report back to Scout Vor'takh at Camp Oneqwah.",
+  "d": "The Alliance isn't the only force opposing us in Grizzly Hills. The iron dwarves have firm control of the eastern coast, although Thor Modan, to the northeast, is besieged by stone giants.$B$BA skilled warrior uses an enemy's weakness against him and we would be fools to ignore the vulnerability of the iron dwarves at Thor Modan. Show the iron dwarves no mercy. Slay any and all who would stand in your way.$B$BThe 'sons of iron' will learn to fear the Horde.",
+  "p": "Have you moved against the iron dwarves as I asked?",
+  "c": "<Scout Vor'takh smiles.>$B$BThor Modan is on the verge of collapse, then?$B$BVery well. We will soon turn our attention to Dun Argol."
+ },
+ {
+  "id": 12074,
+  "t": "An Expedient Ally",
+  "o": "Speak with Kurun on the hill overlooking Thor Modan.",
+  "d": "The old iron dwarf capital of Thor Modan, far to the northeast, is under siege by a mysterious band of stone giants and earthen.$B$BWhy the creations of the titans would war against each other is beyond my understanding and the Horde's interest, but there is an opportunity here to weaken a mutual enemy.$B$BTravel to Thor Modan and seek out this 'Kurun' who commands the giants and earthen. Make common cause with him and use his forces to crush the iron dwarves.",
+  "p": "",
+  "c": "<You introduce yourself to Kurun.>$B$BSo the sons of iron are your enemies as well?$B$BMy forces have the iron dwarves pinned inside their city, but we could use help in pressing the attack. Will you aid us?"
+ },
+ {
+  "id": 12075,
+  "t": "Slim Pickings",
+  "o": "Collect a sample of Rockflesh from the Ice Giant corpse at the cavern entrance in the Crystal Vice, north of Zort's location. After this task is complete, return to Zort near the center of the canyon.",
+  "d": "Cold out here, isn't it, $r?$B$BKo'char has refused to meet with me. It seems he has more pressing things on his mind - namely, the jormungar that have been attacking them from the cavern below. Maybe you can help me convince Ko'char that I'm one of the good guys.$b$bI saw a giant being eaten by some of the worms at the entrance to the cavern north of here... I'm still puzzled as to how the worms are killing them so easily. Bring me a sample from one of his wounds.",
+  "p": "You've returned with my sample then? I'm glad the cold didn't claim you.",
+  "c": "This is perfect.  Thank you, $c."
+ },
+ {
+  "id": 12076,
+  "t": "Messy Business",
+  "o": "Collect 2 Vials of Corrosive Spit from the Jormungar by using the scraper on yourself.  Bring the vials back to Zort in the Crystal Vice when your task is complete.",
+  "d": "Even at first glance, the sample you brought me shows obvious signs of some kind of corrosive spit. It would be a natural assumption that the same substance these worms use to burrow through the ground has allowed them a formidable weapon against the Ice Giants.$b$bTake this scraper and pick a fight with some of the worms. When they spit on you, use the scraper to remove it and bring it back to me.$B$BGet me a couple samples - I'm going to have to use it as the base for an elixir.",
+  "p": "You seem to still have some spit on your shoulder there, $r. Be careful or it will burn right through your armor.",
+  "c": "Still fresh.  Just a moment and I will mix this with the rest of the elixir that I have prepared."
+ },
+ {
+  "id": 12077,
+  "t": "Apply This Twice A Day",
+  "o": "Offer the elixir that Zort has prepared to Ko'char the Unbreakable.",
+  "d": "This elixir should protect against their spit. Offer it to Ko'char for me, will you? Tell him there's plenty more where that came from if he'll return the favor.",
+  "p": "The runt wants us to fight for him I assume. This is my surprise face.",
+  "c": "I will be blunt little one - I do not trust this mixture, and I will not use it. Keep it... if you find more trust in the green runt than I do, perhaps it will be of use to you."
+ },
+ {
+  "id": 12078,
+  "t": "Worm Wrangler",
+  "o": "Enter the caverns in Crystal Vice and trap 3 Jormungar Spawn inside sturdy crates.  Be sure to pick the crates up after the Jormungar Spawn are trapped inside!$B$BBring the captured Jormungar Spawn back to Zort in the Crystal Vice.",
+  "d": "So be it. If the giants will not come to our aid, perhaps we can make use of these worms. There are sure to be some spawn with their brood mother in the cavern below. Take this box and capture 3 of their spawn and bring them to me.$b$bWhere diplomacy fails, enslaving is a perfectly viable alternative.",
+  "p": "You've returned! Do you have the beasts? I need to get out of here... I'm pretty sure Ko'char tried to step on me a few minutes ago.",
+  "c": "These will do nicely. Perhaps after I grow these beasts to full size, I will bring them back and introduce them to the giants personally.$b$bBunch of useless rocks if you ask me."
+ },
+ {
+  "id": 12079,
+  "t": "Stomping Grounds",
+  "o": "Delve into the cavern at the north end of the Crystal Vice and kill 8 Ice Heart Jormungar Feeders for Ko'char the Unbreakable.",
+  "d": "Greetings little one.  I know not what madness has brought you to the Crystal Vice, but you are welcome in my presence.  $b$bThese ice worms... these jormungar have taken a taste to eating my brothers.  I doubt you will find my kind friendly by any terms during this time of battle, but if you are here to help with the worms, then you have my ear.$b$bIf we are to take the cavern back, we must first clear the canyon of these jormungar feeders.  Join us in battle, $r!",
+  "p": "The battle persists, come with good news or leave me, little one.",
+  "c": "A satisfying display of slaughter. "
+ },
+ {
+  "id": 12080,
+  "t": "Really Big Worm",
+  "o": "Enter the Ice Heart Cavern and slay Rattlebore.  If it is still in your possession, be sure to use Zort's Protective Elixir to protect you from the Jormungar's corrosive spit.$B$BReturn to Ko'char the Unbreakable in the Crystal Vice when the task is complete.",
+  "d": "The jormungar have a spawnmother in the caverns below. We call her Rattlebore - a name that was gifted to her by an adventurer from the Plaguelands. I saw her only briefly as I was fighting off their initial onslaught - she is large enough to make even my icy bones shiver. This cavern will not be ours until she is removed from it.$b$bGather your friends and end this.",
+  "p": "It is my hope that you bring good tidings, little one.",
+  "c": "So she is dead. As it should be. Your intentions do indeed prove nobler than those of the runt.$B$BThrough the north canyon you will find Crystal Song Woods.  It is a cursed and dangerous place, $r. Should that be your next destination, proceed with caution. $b$bTake this for your efforts, little one, and leave this conflicted land with my blessing."
+ },
+ {
+  "id": 12081,
+  "t": "Gavrock",
+  "o": "Speak with Gavrock at the Ruins of Tethys.",
+  "d": "Without your help, we wouldn't have been able to turn the tide of the battle for Thor Modan. This ancient city has long been a battlefield between the forces of earth and stone. I can only hope we have silenced it for the last time.$B$BThe iron dwarves can still use their magic to capture and enslave my brothers. Gavrock is searching for a way to free the runed giants. Look for him on a small cluster of islands, called the Ruins of Tethys, off the central part of the Eastwind Shore to the south.",
+  "p": "",
+  "c": "I know Kurun is glad for your help. The defeat of Thor Modan will be a great achievement for us, but it will not free our brothers."
+ },
+ {
+  "id": 12082,
+  "t": "Dun-da-Dun-tah!",
+  "o": "Escort Harrison from Drakil'jin Ruins, then speak with Harkor at Harkor's Camp.",
+  "d": "Listen, kid. This is no place for you to be playin' around.$b$bI'm about to make a break for it. Stick with me and I'll get you outta here.",
+  "p": "",
+  "c": "So, yah survived a little adventure with our good friend, did yah?$b$bThat should be reward enough in itself, but here - I'm feelin' generous."
+ }
+]

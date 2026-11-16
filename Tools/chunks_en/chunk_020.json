@@ -1,0 +1,962 @@
+[
+ {
+  "id": 5206,
+  "t": "Marauders of Darrowshire",
+  "o": "Bring 5 Resonating Skulls and the Mystic Crystal to Carlin Redpath in Eastern Plaguelands.",
+  "d": "Chromie said the relics you gathered are reagents to a powerful spell, and one more is required: skulls from the scourge who took part in the battle of Darrowshire.$B$BTake this crystal and hunt scourge champions for their skulls.  The crystal is enchanted; if a champion took part in the battle, then when you pass the crystal over its skull it will resonate.  Bring me those resonating skulls.$B$BGo, $N.  You'll find scourge champions in the Noxious Glade to the north and the Fungal Vale to the west.",
+  "p": "Do you have the skulls?  Chromie said they will be critical for her spell, and that spell will give us the chance to save Darrowshire.",
+  "c": "You found them!  Wonderful!$B$BAlthough I don't fully understand how they can help us, I feel their power and I know in my bones that they are linked to my home village of Darrowshire."
+ },
+ {
+  "id": 5210,
+  "t": "Brother Carlin",
+  "o": "Bring the Extended Annals of Darrowshire to Carlin Redpath in Eastern Plaguelands.",
+  "d": "The Annals of Darrowshire, through my magic, has gained pages at its end, and now it extends its history beyond the battle.  One of the extra passages tells of another Redpath, Carlin, who survived Joseph's betrayal.  Carlin's now in the Plaguelands to the east, at the Light's Hope Chapel.$B$BTake the book and speak with him.",
+  "p": "You've come from the west?  How fare the rest of Lordaeron?  I know that Andorhal is lost, but has the Scourge yet reached fair Tirisfal?",
+  "c": "What is this book?  The Annals of Darrowshire?  That was my home before the war... my home before the battle that destroyed it!  Why did you bring me this book?$B$BBut look here!  At the end there are pages that tell tales of the days beyond the battle!  Here is a passage about me!  And one about my brother Joseph!  Is this book true?$B$BWe must discover the truth!"
+ },
+ {
+  "id": 5211,
+  "t": "Defenders of Darrowshire",
+  "o": "Free 15 Darrowshire Spirits and return to Carlin Redpath.",
+  "d": "Many of the defenders fell at the battle of Darrowshire.  And many roam again as the ghastly servants of the Scourge!  Find these poor souls and end their misery!$B$BHunt cannibal ghouls, gibbering ghouls and diseased flayers.  Many of these fiends were once the good folk of Darrowshire and destroying their forms now will set their souls free.$B$BYou will find them in Plaguewood and Corin's Crossing, and in other Scourge strongholds of Eastern Plaguelands.",
+  "p": "The poor defenders of Darrowshire cry out to me in my dreams, $N. You must free them!",
+  "c": "It is good to hear you found the tortured souls of my brethren and freed them.  My heart will weep less, knowing at least some of the defenders of Darrowshire no longer wallow in the vile subservience of the Scourge."
+ },
+ {
+  "id": 5212,
+  "t": "The Flesh Does Not Lie",
+  "o": "Recover 10 Plagued Flesh Samples from Stratholme and return them to Betina Bigglezink. You suspect that any creature in Stratholme would have said flesh sample.",
+  "d": "The Forsaken apothecaries are not the only beings in this world schooled in the sciences.$B$BI have been studying the plague for years, $r. We had previously thought that the potency of the plague was dwindling, but what I have discovered here in the Plaguelands is startling. The plague seems to be growing in strength!$B$BI need to run more tests! The most potent source of the plague is from the tainted flesh of the most recently infected. Travel to Stratholme and bring me samples, $N.$B",
+  "p": "Some say I worry too much - to them I say, 'You don't worry enough!'",
+  "c": "There is something that has changed in the chemical structure of the plague's active agents. More data is required."
+ },
+ {
+  "id": 5213,
+  "t": "The Active Agent",
+  "o": "Travel to Stratholme and search the ziggurats. Find and return new Scourge Data to Betina Bigglezink.$B",
+  "d": "You will have to delve deeper into Stratholme, $N.$B$BBeyond the first gates you will find the ziggurats. We know that the Scourge draws great power from these structures. Search the Ziggurats and return with any information that you may discover.$B",
+  "p": "We are on the verge of discovering what this new active plague agent may be!",
+  "c": "Astonishing! This will take months to dissect and analyze. The Argent Dawn thanks you for your efforts, $N.$B$BWith our blessing, take your pick between either this Seal of the Dawn or this Rune of the Dawn. You can use either of them instead of a standard Argent Dawn Commission to collect scourgestones on our behalf. Should you lose yours, speak with me and I'll get you a replacement."
+ },
+ {
+  "id": 5214,
+  "t": "The Great Fras Siabi",
+  "o": "Find Fras Siabi's smoke shop in Stratholme and recover a box of Siabi's Premium Tobacco. Return to Smokey LaRue when the job is done.$B",
+  "d": "Terrible thing... what happened to Fras. You see, the town was sacked and Fras didn't want to leave his precious goods behind. The last thing I remember him saying was, 'I'll burn every last leaf before they get their damned, dirty hands on them!'$B$BI may love a good stogie but I'm no fool. I left Fras and his delightful store that day. I assume he went down in flames but if there's a chance that even one box of his famous tobacco is still intact...$B$BWhat do you say, $N? Find a box for ol' Smokey?",
+  "p": "I can't take it, $N! You gotta help me! I'm dying!",
+  "c": "Oh sweet, sweet stogie, how I have missed you..."
+ },
+ {
+  "id": 5215,
+  "t": "The Scourge Cauldrons",
+  "o": "Speak with High Priestess MacDonnell at Chillwind Point, Western Plaguelands.",
+  "d": "Within the lands of former Lordaeron are eight cauldrons - four here in the west, and four more ensconced in the east.  These cauldrons spew poisons into the air, propagating the plague throughout the land for the Scourge.$B$BThe necromantic might of Kel'Thuzad is too strong to outright shut down these cauldrons, but we think we might have a way to subvert them to our advantage.  My second, High Priestess MacDonnell, will be your point on this assignment; she'll continue the briefing from here.",
+  "p": "",
+  "c": "May the power of the Light shine upon you in these dark times, $c.  I am pleased to serve as your coordinator for our plan to sabotage the Scourge's cauldrons.$B$BOur goal will be to change the composition of the plague that the cauldrons create into something that negatively affects the Scourge.  In order to affect this change, you will need to secure access to each of the four cauldrons present in the Western Plaguelands.$B$BStand ready hero, for a glorious battle against the vile Scourge awaits you!"
+ },
+ {
+  "id": 5216,
+  "t": "Target: Felstone Field",
+  "o": "Go to Felstone Field in Western Plaguelands to locate and defeat the Cauldron Lord present there.  It may have a key that will allow access to the cauldron.  You must have the Empty Felstone Field Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "Of the four cauldrons here in the west, the one located at Felstone Field may be the easiest one in obtaining access to.  The Scourge have greener troops positioned here, though they should not be underestimated.$B$BGo to Felstone Field, northwest of Andorhal, and engage the cauldron lord there.  We think it has a key that will unlock access to the cauldron.  When unlocked, use this bottle to obtain a sample of the poisons inside the cauldron; we'll need it for study in developing a counter agent.",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key.\n",
+  "c": "The key taken from Cauldron Lord Bilemaw is a perfect fit in unlocking the access panel.  A foul stench emanates from the opened panel as an unknown mix of concentrated substances swirl inside the cauldron.$B$BThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point."
+ },
+ {
+  "id": 5217,
+  "t": "Return to Chillwind Camp",
+  "o": "Bring the Filled Felstone Field Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.",
+  "d": "You fill the bottle with enough of the cauldron's poisonous concoction for a suitable sample to be studied.$B$BWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "p": "Welcome back to the relative safety of Chillwind Camp, $N.  What progress on the cauldrons do you have to report?",
+  "c": "Well done $N - it should take Alchemist Arbington no time at all to analyze this and devise a counter agent to introduce into the cauldron.  If we are able to pump out enough of it into the air, we might be able to weaken all the Scourge present here.$B$BThis will no doubt be an ongoing ordeal; we will need to continually hit these cauldrons and introduce our reagents into their mix.  Still, if we can keep it up, we will have a huge advantage over Scourge when the time comes for battle!"
+ },
+ {
+  "id": 5218,
+  "t": "Felstone Field Cauldron",
+  "o": "",
+  "d": "",
+  "p": "The Scourge's plague cauldron stands before you, spewing vast amounts of toxins into the air.  A small, non-descript access panel lies in the base of the cauldron's vast platform.$B$BHaving already defeated the cauldron lord and acquired its key, you are free to add the appropriate reagents to the cauldron to make a counter agent to the plague.",
+  "c": "Adding the reagents to the cauldron's mix begins to change the color and texture of the cloud it spews forth.  Scourge that are even remotely near the cauldron appear to recoil at the introduction of the new components into the environment."
+ },
+ {
+  "id": 5219,
+  "t": "Target: Dalson's Tears",
+  "o": "Go to Dalson's Tears in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Dalson's Tears Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "One of the plague cauldrons is located in the field of a former farmhouse now referred to as Dalson's Tears.  Well, we shall shed no tears this day as we thwart the Scourge and have them choke on their own fumes!$B$BGo to Dalson's Tears, almost due north of Andorhal, and eliminate the cauldron lord there.  It should have a key like the last one did, allowing you into the cauldron.  Use this bottle to obtain a sample from inside the cauldron; each cauldron has its own distinct brew of toxins it uses.",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key.",
+  "c": "The macabre key found on the cauldron lord easily slides into a keyhole and then disappears, allowing you permanent access to it.  Crude, viscous ichors pulsate through twisted tubes within the cauldrons underpinnings.$B$BThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point."
+ },
+ {
+  "id": 5220,
+  "t": "Return to Chillwind Camp",
+  "o": "Bring the Filled Dalson's Tears Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.",
+  "d": "You carefully fill the bottle with enough of the cauldron's ichors for what you consider to be suitably sized sample.$B$BWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "p": "We know that each cauldron employs a different mix of reagents to generate its plague-inducing toxin; likewise, we know that we will need to develop a counter agent that is unique for each cauldron.  Your sample from Dalson's Tears will be the key to figure out that cauldron's distinct reagent requirement. ",
+  "c": "Ah, there is plenty in here for study.  Well done, $N!$B$BFor now, the next step is in our hands.  We'll need to produce a list of reagents that, when combined with what is already in the cauldron, will act as its counter.$B$BThe only way we will be able to introduce this is by placing the reagents into the cauldron directly.  Alchemist Arbington will have more information on that, so be sure to speak with him at your earliest convenience."
+ },
+ {
+  "id": 5221,
+  "t": "Dalson's Tears Cauldron",
+  "o": "",
+  "d": "",
+  "p": "The Scourge's plague cauldron stands before you, spewing vast amounts of toxins into the air.  A small, non-descript access panel lies in the base of the cauldron's vast platform.$B$BHaving already defeated the cauldron lord and acquired its key, you are free to add the appropriate reagents to the cauldron to make a counter agent to the plague.",
+  "c": "Adding the reagents to the cauldron's mix begins to change the color and texture of the cloud it spews forth. Scourge that are even remotely near the cauldron appear to recoil at the introduction of the new components into the environment."
+ },
+ {
+  "id": 5222,
+  "t": "Target: Writhing Haunt",
+  "o": "Go to the Writhing Haunt in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Writhing Haunt Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "Two cauldrons have been successfully opened; while you will be able to access them indefinitely, we still want to open up the other two that remain.  This will provide all of us with more options to introduce the counter agent!$B$BThis time, you'll be hitting the Writhing Haunt's cauldron.  It is almost due east of Andorhal, relatively close to the ruined city walls; again, eliminate the cauldron lord present there for its key.  Use this bottle to obtain the sample from the cauldron.$B$BGood hunting, $N!",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key.",
+  "c": "The cauldron lord's key unlocks the access panel to this cauldron and then disappears, much like the other keys have for the previous two cauldrons you've dealt of.  A putrid smelling substance churns violently beneath the platform of the cauldron.$B$BThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point."
+ },
+ {
+  "id": 5223,
+  "t": "Return to Chillwind Camp",
+  "o": "Bring the Filled Writhing Haunt Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.",
+  "d": "You delicately top off the empty bottle; a sample of the foul substance that churns under the platform of the cauldron now oozes back and forth inside the fragile glass container.$B$BWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "p": "Once we successfully analyze the sample drawn from the Writhing Haunt's cauldron, it will provide us with a third avenue to deliver a devastating counter agent onto the Scourge!",
+  "c": "Another finely executed mission, $N!  This makes three cauldrons available to us to turn against the Scourge.  If Kel'Thuzad's necromantic dominance over these lands wasn't as strong as it currently is, I'd dare say you'd shut them down completely!$B$BAlchemist Arbington will have a report on what this cauldron - as well as the other cauldrons subverted - will require to deliver our counter agent to the plague.  With that, the time has come to bring the last cauldron of the west under our influence!"
+ },
+ {
+  "id": 5224,
+  "t": "Writhing Haunt Cauldron",
+  "o": "",
+  "d": "",
+  "p": "The Scourge's plague cauldron stands before you, spewing vast amounts of toxins into the air.  A small, non-descript access panel lies in the base of the cauldron's vast platform.$B$BHaving already defeated the cauldron lord and acquired its key, you are free to add the appropriate reagents to the cauldron to make a counter agent to the plague.",
+  "c": "Adding the reagents to the cauldron's mix begins to change the color and texture of the cloud it spews forth. Scourge that are even remotely near the cauldron appear to recoil at the introduction of the new components into the environment."
+ },
+ {
+  "id": 5225,
+  "t": "Target: Gahrron's Withering",
+  "o": "Go to Gahrron's Withering in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Gahrron's Withering Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "The last cauldron that remains is located on a farm now called Gahrron's Withering.  It is guarded by some of the Scourge's tougher minions - specifically, wraiths and ghosts.  They are not to be trifled with, $N.$B$BGahrron's Withering is due northeast of our position here, close to where the Eastern Plaguelands begin; again, eliminate the cauldron lord present there for its key.  Here is your empty sample bottle; bring it to me filled.  May the Light protect you in this dangerous mission, $c.",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key.",
+  "c": "Cauldron Lord Soulwrath's key disintegrates as it touches the lock on the access panel at the base of the cauldron's platform.  A slight clanking noise is heard within, and the access panel swings open to reveal more viscous toxins within the cauldron's framework.$B$BThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point."
+ },
+ {
+  "id": 5226,
+  "t": "Return to Chillwind Camp",
+  "o": "Bring the Filled Gahrron's Withering Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.",
+  "d": "You carefully close the spigot in the control panel, watching the cauldron's putrid ichors drip into the empty bottle.$B$BWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "p": "Gahrron's Withering houses the last cauldron here in the east that we need access to.  Once we have a sample of the plague it spews forth, we will be able to introduce our reagents into the environment through four separate vessels!  The Scourge will be hard pressed to keep us out of all four, even with the power of Kel'Thuzad behind them.",
+  "c": "Congratulations $N, you've unlocked the last cauldron for us!  Alchemist Arbington will soon know what this cauldron requires as far as reagents needed for the mix.$B$BAs for you, I am sure that Commander Valorfist will want to thank you personally for the assistance you've given us.  Without you, our struggle against the Scourge would have been nearly insurmountable.  Thank you, hero!"
+ },
+ {
+  "id": 5227,
+  "t": "Gahrron's Withering Cauldron",
+  "o": "",
+  "d": "",
+  "p": "The Scourge's plague cauldron stands before you, spewing vast amounts of toxins into the air.  A small, non-descript access panel lies in the base of the cauldron's vast platform.$B$BHaving already defeated the cauldron lord and acquired its key, you are free to add the appropriate reagents to the cauldron to make a counter agent to the plague.",
+  "c": "Adding the reagents to the cauldron's mix begins to change the color and texture of the cloud it spews forth. Scourge that are even remotely near the cauldron appear to recoil at the introduction of the new components into the environment."
+ },
+ {
+  "id": 5228,
+  "t": "The Scourge Cauldrons",
+  "o": "Speak with Shadow Priestess Vandis at the Bulwark, Western Plaguelands.",
+  "d": "Within the lands of former Lordaeron are eight cauldrons - four in the west, and four more entrenched in the east.  These cauldrons spew poisons into the air, propagating the plague throughout the land for the Scourge.$B$BThe necromantic might of Kel'Thuzad is too strong to outright shut down these cauldrons, but we think we might have a way to subvert them to our advantage.  My second, Shadow Priestess Vandis, will be your point on this assignment; she'll continue the briefing from here.",
+  "p": "",
+  "c": "From the shadows, brother $R, I bid you greetings. I am to serve as your coordinator for our plan to sabotage the Scourge's cauldrons.$B$BOur goal will be to change the composition of the plague that the cauldrons create into something that negatively affects the Scourge. In order to affect this change, you will need to secure access to each of the four cauldrons here in the Western Plaguelands.$B$BThe time has come for you to lead the charge against the Scourge, hero."
+ },
+ {
+  "id": 5229,
+  "t": "Target: Felstone Field",
+  "o": "Go to Felstone Field in Western Plaguelands to locate and defeat the Cauldron Lord present there.  It may have a key that will allow access to the cauldron.  You must have the Empty Felstone Field Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "Of the four cauldrons in the Western Plaguelands, the one at Felstone Field may be the easiest one to gain access to.  The Scourge have greener troops positioned here, though they should not be underestimated.$B$BGo to Felstone Field, due east of here and northwest of Andorhal, and engage the cauldron lord there.  On it is a key that will unlock access to the cauldron.  When unlocked, use this bottle to get a sample of the cauldron's toxins; we'll need it for study in developing a counter agent.",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. ",
+  "c": "The key taken from Cauldron Lord Bilemaw is a perfect fit in unlocking the access panel, though it disappears after you use it.  Still, you think you can open the panel now without a key.  A foul stench emanates from the opened panel as an unknown mix of concentrated substances swirl inside the cauldron.\r\n\r\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark. "
+ },
+ {
+  "id": 5230,
+  "t": "Return to the Bulwark",
+  "o": "Bring the Filled Felstone Field Bottle to Shadow Priestess Vandis at the Bulwark, Western Plaguelands.",
+  "d": "You fill the bottle with enough of the cauldron's poisonous concoction for a suitable sample to be studied.$B$BWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "p": "Welcome back to the relative safety of the Bulwark, $N. What progress on the cauldrons do you have to report?",
+  "c": "Well done $N - it should take Apothecary Dithers no time at all to analyze this and devise a counter agent to introduce into the cauldron. If we are able to pump out enough of it into the air, we might be able to weaken all the Scourge present here.$b$bThis will no doubt be an ongoing ordeal; we will need to continually hit these cauldrons and introduce our reagents into their mix. Still, if we can keep it up, we will have a huge advantage over Scourge when the time comes for battle!"
+ },
+ {
+  "id": 5231,
+  "t": "Target: Dalson's Tears",
+  "o": "Go to Dalson's Tears in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Dalson's Tears Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "One of the plague cauldrons is located in the field of a former farmhouse now referred to as Dalson's Tears.  No tears will be shed this day, $c; we must strike at this cauldron and gain access to it!$B$BGo to Dalson's Tears, almost due north of Andorhal, and eliminate the cauldron lord there.  It should have a key like the last one did, allowing you inside the cauldron's innards.  Use this bottle to obtain a sample from inside the cauldron; each cauldron has its own distinct brew of toxins it uses.",
+  "p": "An access panel to the cauldron remains securely fastened. In order to open it, you will need to find the key.",
+  "c": "The skeletal key found on the cauldron lord easily slides into a keyhole and then disappears, allowing you permanent access to it. Crude, viscous ichors pulsate through twisted tubes within the cauldrons underpinnings.$b$bThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark."
+ },
+ {
+  "id": 5232,
+  "t": "Return to the Bulwark",
+  "o": "Bring the Filled Dalson's Tears Bottle to Shadow Priestess Vandis at the Bulwark, Western Plaguelands.",
+  "d": "You carefully fill the bottle with enough of the cauldron's ichors for what you consider to be suitably sized sample.$B$BWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "p": "We know that each cauldron employs a different mix of reagents to generate its plague-inducing toxin; likewise, we know that we will need to develop a counter agent that is unique for each cauldron. Your sample from Dalson's Tears will be the key to figure out that cauldron's distinct reagent requirement.",
+  "c": "Ah, there is plenty in here for study. Well done, $N!$b$bFor now, the next step is in our hands. We'll need to produce a list of reagents that, when combined with what is already in the cauldron, will act as its counter.$b$bThe only way we will be able to introduce this is by placing the reagents into the cauldron directly. Apothecary Dithers will have more information on that, so be sure to speak with him as soon as possible."
+ },
+ {
+  "id": 5233,
+  "t": "Target: Writhing Haunt",
+  "o": "Go to the Writhing Haunt in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Writhing Haunt Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "Two cauldrons have been successfully opened; while you'll be able to access them indefinitely, we still want to open up the other two that remain.  This will provide all of us with more options to introduce the counter agent!$B$BThis time, you'll be hitting the Writhing Haunt's cauldron.  It is almost due east of Andorhal, relatively close to the ruined city walls; again, eliminate the cauldron lord present there for its key.  Use this bottle to obtain the sample from the cauldron.$B$BGood hunting, $N!",
+  "p": "An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. ",
+  "c": "The cauldron lord's key unlocks the access panel to this cauldron and then disappears, much like the other keys have for the previous ones you've dealt of.  A putrid smelling substance churns violently beneath the platform of the cauldron.\r\n\r\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark. "
+ },
+ {
+  "id": 5234,
+  "t": "Return to the Bulwark",
+  "o": "Bring the Filled Writhing Haunt Bottle to Shadow Priestess Vandis at The Bulwark, Western Plaguelands.",
+  "d": "You delicately top off the empty bottle; a sample of the foul substance that churns under the platform of the cauldron now oozes back and forth inside the fragile glass container.$B$BWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "p": "Once we successfully analysis the sample drawn from the Writhing Haunt's cauldron, it will provide us with a third avenue to deliver a devastating counter agent against the Scourge!",
+  "c": "Another finely executed mission, $N! This makes three cauldrons available to us to turn against the Scourge. If Kel'Thuzad's necromantic dominance over these lands wasn't as strong as it currently is, I'd dare say you'd shut them down completely!$b$bApothecary Dithers will have a report on what this cauldron - as well as the other cauldrons subverted - will require to deliver our counter agent to the plague. With that, the time has come to bring the last cauldron of the west under our influence!"
+ },
+ {
+  "id": 5235,
+  "t": "Target: Gahrron's Withering",
+  "o": "Go to Gahrron's Withering in Western Plaguelands to locate and defeat the Cauldron Lord present there, and use its key to gain access to the cauldron.  You must have the Empty Gahrron's Withering Bottle with you to secure a sample of the poisons used inside the cauldron.",
+  "d": "The last cauldron that remains is located on a farm now called Gahrron's Withering.  It is guarded by some of the Scourge's tougher minions - specifically, wraiths and ghosts.  They are not to be trifled with, $N.$B$BGahrron's Withering is far to the east of the Bulwark, close to where the Eastern Plaguelands begin; again, eliminate the cauldron lord present there for its key.  Here is your empty sample bottle; bring it to me filled.  May the shadows cloak you in safety for this dangerous mission, $c.",
+  "p": "An access panel to the cauldron remains securely fastened. In order to open it, you will need to find the key.",
+  "c": "Cauldron Lord Soulwrath's key disintegrates as it touches the lock on the access panel at the base of the cauldron's platform. A slight clanking noise is heard within, and the access panel swings open to reveal more viscous toxins within the cauldron's framework.$b$bThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark."
+ },
+ {
+  "id": 5236,
+  "t": "Return to the Bulwark",
+  "o": "Bring the Filled Gahrron's Withering Bottle to Shadow Priestess Vandis at the Bulwark, Western Plaguelands.",
+  "d": "You carefully close the spigot in the control panel, watching the cauldron's putrid ichors drip into the empty bottle.$B$BWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "p": "Gahrron's Withering houses the last cauldron that we need to acquire access to here in the west. Once we have a sample of the plague from that cauldron, we will be able to introduce our reagents into the environment through four separate vessels! The Scourge will be hard pressed to keep us out of all four, even with the power of Kel'Thuzad behind them.",
+  "c": "Congratulations $N, you've unlocked the last cauldron for us! Apothecary Dithers will soon know what this cauldron requires as far as reagents needed for the mix.$b$bAs for you, I am sure that High Executor Derrington will want to thank you personally for the assistance you've given us. Without you, our struggle against the Scourge would have been nearly insurmountable. I thank you, mighty $c."
+ },
+ {
+  "id": 5237,
+  "t": "Mission Accomplished!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "$N, your successful re-engineering of the cauldrons is a tremendous victory for us!$B$B<The commander clears his throat and begins to bellow loudly.>$B$BLet all within my presence hear: for service to the Kingdom of Stormwind and to the Alliance above and beyond the call of duty - in the face of overwhelming odds and incredible danger, might I add - I give $N this, and I extend upon $Ghim:her; our undying gratitude as a true hero of the Alliance. Cheers, I say!"
+ },
+ {
+  "id": 5238,
+  "t": "Mission Accomplished!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "$N, your successful re-engineering of the cauldrons is a tremendous victory for us!$B$B<The high executor clears his throat and begins to bellow loudly.>$B$BLet all within my presence hear: for service to the Forsaken and to the Horde as a whole above and beyond what was expected - in the face of overwhelming odds and incredible danger, might I add - I give $N this, and I extend upon $Ghim:her; our undying gratitude as a true hero of the Horde. Huzzah!"
+ },
+ {
+  "id": 5241,
+  "t": "Uncle Carlin",
+  "o": "Find Carlin Redpath.",
+  "d": "Sometimes, when it's nighttime, I can hear my Uncle Carlin crying.  It sounds like he's far away, to the east.$B$BI hope he's not crying for me!  $N, will you find my uncle and tell him I'm alright?$B$BIf you find him say I'm waiting for him, and I want to hear the story he used to tell... the one about the rabbits and the berry jam!  That story's so funny!",
+  "p": "",
+  "c": "You've seen Pamela?  She's alive?$B$BShe's dead?  No!  Oh, Pamela!  Why does your spirit still suffer in this world.  Why are you perished, while fortune keeps me alive?  In an instant I would switch places with you and wander dead Darrowshire, a ghost and alone!$B$BAh, but this news cannot change fate.  Thank you, $N.  Now my duty, my duty to revenge, burns hot as ever.  "
+ },
+ {
+  "id": 5242,
+  "t": "A Final Blow",
+  "o": "Kill Moora and Salia, and bring Shadow Lord Fel'dan's Head to Greta Mosshoof in Felwood.",
+  "d": "Unfortunately, I see the only way to stop this threat to Felwood is a frontal attack. There are no other ways into Shadow Hold, and I have no means to teleport you inside. The straight path down to the bottom is the only way... and I also know who you should seek out. His name is Fel'dan... Shadow Lord Fel'dan. He is the mortal in power down below... he is the head of the serpent. Kill him and his two succubus servants and return to me. Fel'dan is the one making pacts with the Legion. He must be stopped.",
+  "p": "Without Fel'dan, the Shadow Council will hopefully lose focus and start infighting. They will struggle with one another for control and hoard assets for future plans. That will be an opportune time to devastate them and their demon slaves.",
+  "c": "Earthmother be praised, $N! Thank you! This is a great day, indeed!$b$bThe Shadow Council will be hard pressed to scale to the same levels of power they once held with this blow to their hierarchy. You have done a great thing this day!"
+ },
+ {
+  "id": 5243,
+  "t": "Houses of the Holy",
+  "o": "Travel to Stratholme, in the north. Search the supply crates that litter the city and recover 5 Stratholme Holy Water. Return to Leonid Barthalomew the Revered when you have collected enough of the blessed fluid.",
+  "d": "I look at my undeath as a malady, $r. An illness that merely requires treatment; however, it is also a great blessing for the Argent Dawn. What better vessel to smite the heathens of the Scourge than through the undead?$B$BI am revered by my colleagues because of the sacrifices I have made, but the accolades mean nothing to me.$B$BIf you are interested in assisting the Argent Dawn, then a job I can offer.$B$BVenture to Stratholme and recover our surplus of holy water. Search the supply crates.$B",
+  "p": "Be wary, not all supply crates will have survived the destruction of the city. The Scourge dare not touch the water but surely the holy water will not prevent vermin infestations.",
+  "c": "Well done, $R. You have proven that while you are tolerant of others, you will stop at nothing to destroy the minions of Kel'Thuzad."
+ },
+ {
+  "id": 5244,
+  "t": "The Ruins of Kel'Theril",
+  "o": "Speak with Jaron Stoneshaper in Starfall Village.",
+  "d": "The story behind Kel'Theril is one of a cursed race, bound to the place where they attempted an unfortunate ritual...$B$BThe highborne that you will find there once stole a sacred artifact, believing that they could siphon its power for themselves, becoming even more powerful. In their efforts, the relic shattered in a huge explosion, driving the pieces below the ice of the lake...$B$BSpeak with Jaron Stoneshaper if you'd like to learn more; he has recently visited the area and can tell you more.",
+  "p": "",
+  "c": "Well, sure, I can tell you more about Kel'Theril. Mind you now, I'm no historian, but I can tell ya about what I saw there..."
+ },
+ {
+  "id": 5245,
+  "t": "Troubled Spirits of Kel'Theril",
+  "o": "Use Jaron's Pick to find the four Highborne Relic Fragments. Bring them to Aurora Skycaller in Eastern Plaguelands.",
+  "d": "The highborne spirits are miserable creatures, that's for sure. They are still searching for pieces of the very thing that has cursed them to Kel'Theril forever -- the stolen relic.$B$BIf you are that interested, take my pick and go south to the lake, see if you can gather the pieces of it from within the ice.$B$BNow, I can't tell you a thing about what you find, but I do know of someone who might... Aurora Skycaller; she dwells near the Northpass Tower in the northern part of Eastern Plaguelands.",
+  "p": "Why have you come here?",
+  "c": "The past of the high elves is something that I do not wish to discuss, $N. Please, it pains me to think of all that has happened... And that there is no way to make things right."
+ },
+ {
+  "id": 5246,
+  "t": "Fragments of the Past",
+  "o": "Find the Sacred Highborne Writings in the Temple of Zin-Malor in Azshara, and bring them to Aurora Skycaller near the Northpass Tower in Eastern Plaguelands.",
+  "d": "I did not realize... Forgive my callous words, $c.$B$BThe mistakes of my ancestors are not what I wish to dwell on, but if your request is truly genuine, then I will help you.$B$B<Aurora examines the fragments.>$B$BI believe this is the Crystal of Zin-Malor, an artifact that can contain and control strong arcane forces. It could have been used for good, but the evil intentions of those that stole it caused it to shatter.$B$BGo to the Temple of Zin-Malor in Azshara - I can only hope the book is still there.",
+  "p": "It is only in the pages of the sacred writings that I will be able to discern whether or not I can help you...",
+  "c": "The pages have gone untouched for many many years..."
+ },
+ {
+  "id": 5247,
+  "t": "Fragments of the Past",
+  "o": "Bring an Enchanted Thorium Bar, 5 Crystal Restore, and a Vial of Dire Water to Aurora Skycaller near the Northpass Tower in Eastern Plaguelands.",
+  "d": "I will be able to help you, if recreating the artifact is truly what you wish to do.$B$BTo seal the pieces back together, I will need items with strong magical qualities. An enchanted thorium bar and five crystal restore... You'll also need to collect some water from what might seem an unlikely place... Find the dire pool along Eldreth Row at Dire Maul in Feralas, and fill this vial.$B$BWhile you are gone, I will attempt to glean from these pages the knowledge I need to repair the damage done to the relic.",
+  "p": "The relic must be placed in the hands of only the most trustworthy. It can not be stolen again...",
+  "c": "Using these elements, I can fuse the fragments together... to hopefully what they once were."
+ },
+ {
+  "id": 5248,
+  "t": "Tormented By the Past",
+  "o": "Take the Crystal of Zin-Malor to Lake Kel'Theril in Winterspring and find a highborne spirit that will speak to you.",
+  "d": "$N, I weep for what has happened in the past. Like this crystal, the elves, as a race, have been shattered. I do not know if the pieces will ever again be reunited into one, but my sorrow has been eased by being able to help you with this one small task. $B$BWe must not forget the past, $N...$B$BPlease take the Crystal of Zin-Malor back to Lake Kel'Theril. You must find a highborne spirit that realizes the error of what was done so long ago. Show the spirit that we have made things right again.",
+  "p": "Currrrrsed... Forevvvverrrr...",
+  "c": "Pleeease, leeeave meeeeee..."
+ },
+ {
+  "id": 5249,
+  "t": "To Winterspring!",
+  "o": "Find Starfall Village in Winterspring and speak with Wynd Nightchaser.",
+  "d": "In Winterspring, to the north of here, there are many ancient elven ruins. It's a harsh land, but it holds many secrets and places to explore.$B$BWith all my work to do here in Felwood, I have not had the opportunity to travel to Winterspring. But there's no reason why you shouldn't!$B$BWhile you're there, look for Wynd Nightchaser. He spends most of his time in Starfall Village and he knows a lot about the area.",
+  "p": "",
+  "c": "A friend of Ivy Leafrunner? Nice to meet you, $N."
+ },
+ {
+  "id": 5250,
+  "t": "Starfall",
+  "o": "Find Starfall in Winterspring and speak with Wynd Nightchaser.",
+  "d": "In Winterspring, to the north of Felwood, there are many ancient elven ruins. It's a harsh land, but it holds many secrets and places to explore.$B$BMy studies here keep me so busy that I have not had the opportunity to travel to Winterspring for some time. But there's no reason why you shouldn't travel there and study the ruins.$B$BWhile you're there, look for Wynd Nightchaser. He spends most of his time in Starfall and he knows a lot about the area.$B$BTell him that you are a student of mine...",
+  "p": "",
+  "c": "A student of Daryn Lightwind? Nice to meet you, $N."
+ },
+ {
+  "id": 5251,
+  "t": "The Archivist",
+  "o": "Travel to Stratholme and find Archivist Galford of the Scarlet Crusade. Destroy him and burn down the Scarlet Archive.",
+  "d": "Anything taken to an extreme is hazardous to our world, $N. Take for example, the Scarlet Crusade. Do you believe that their blind zealotry serves a greater good? How many innocents have they destroyed in the name of the Light?$B$BBlasphemers, one and all!$B$BOne in particular interests me, though; the Archivist Galford of Stratholme: A man that watches over the Crusade's most valued documents. Destroy him and burn down his archives! Should you succeed, return to me and be rewarded.",
+  "p": "Remember, $N - we must be tolerant yet rigid in our beliefs!",
+  "c": "Outstanding, $N! Years of intelligence, lost! The Scarlet Crusade will surely feel this blow in the coming weeks."
+ },
+ {
+  "id": 5252,
+  "t": "Remorseful Highborne",
+  "o": "Speak with Wynd Nightchaser in Starfall Village, and ask about the proper place for the Crystal of Zin-Malor.",
+  "d": "The... the crystal...$B$BThe highborne here are clouded by their own misssery...$B$BI am sorrrrrowful, but I realize the errorrrr of what happened so long ago. Even though there is no waaaay to change the past, I am now at peacccce knowing that you have recovered the crystal of Zin-Malor...$B$BYouuu must return it...$B$BIt muuuussst be returrrned.",
+  "p": "It has been some time since you left, $N. How have you fared?",
+  "c": "Is that... what I think it is?"
+ },
+ {
+  "id": 5253,
+  "t": "The Crystal of Zin-Malor",
+  "o": "Deliver the Crystal of Zin-Malor to Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "Quite impressive, $N.$B$BThe crystal of Zin-Malor can never be returned to the temple which, as you know, lies in ruin. But I believe that your effort to undo the evil of the past should not go unrewarded.$B$BSeek out Arch Druid Fandral Staghelm in Darnassus, and bring the crystal to him, $N. It should be in the hands of those that will not abuse its power. From the looks of it, only a handful of the strongest magic users would be able to control such a power. ",
+  "p": "Yes, $R?",
+  "c": "I have heard of the Crystal of Zin-Malor; the user of the crystal becomes capable of incredible arcane power, but only if truly worthy. I am impressed that you not only recovered the crystal, but you also realize your own limits, and did not attempt to use the crystal yourself.$B$BThank you for bringing it to me, $N. We will keep it safe, and may the cursed sprits that once guarded the shattered crystal finally be at peace."
+ },
+ {
+  "id": 5261,
+  "t": "Eagan Peltskinner",
+  "o": "Speak with Eagan Peltskinner.",
+  "d": "Eagan Peltskinner is looking for someone to hunt diseased wolves for him.  That's good news, because we're seeing a lot more diseased wolves in Northshire Valley lately.$B$BIf you're interested then speak with Eagan.  He's around the side of the abbey, to the left.",
+  "p": "",
+  "c": "That's true.  I'm looking for someone to hunt me some wolves!  Are you that person?"
+ },
+ {
+  "id": 5262,
+  "t": "The Truth Comes Crashing Down",
+  "o": "Take the Head of Balnazzar to Duke Nicholas Zverenhoff in the Eastern Plaguelands.",
+  "d": "You try and gather your thoughts as the dust settles across the chamber. You go over the events that just transpired and still cannot comprehend the gravity of the situation.$B$BThe Grand Crusader of the Scarlet Crusade a demon? And not just any demon but brother to Varimathras, arch lord of the Undercity?$B$BYou carefully stow the severed head of the dreadlord into your pack. Surely, none would believe the tale you would tell without proof.$B$BDuke Nicholas Zverenhoff must be told at once!",
+  "p": "What have you got there, $N?",
+  "c": "What will this mean to the Crusade? Could it be possible that they have been under the control of this demon? Unwittingly serving as the pawns to a greater evil?"
+ },
+ {
+  "id": 5263,
+  "t": "Above and Beyond",
+  "o": "Venture to Stratholme and destroy Baron Rivendare. Take his head and return to Duke Nicholas Zverenhoff.$B",
+  "d": "You display a natural aptitude for destruction and you follow orders. It is rare to see the two coexist. I am beginning to think that you may make an excellent vehicle of divine justice.$B$B<Zverenhoff clasps his hands together in front of his face.>$B$BKel'Thuzad's errand boy rules over Stratholme. Prove to me that you are a champion - my champion. Destroy Baron Rivendare and return to me with his head. $B",
+  "p": "The Baron has slain more people than you have most likely seen in your lifetime.",
+  "c": "It has been many years since I have ushered a champion into our ranks. You are the first to be granted audience with Lord Maxwell in years."
+ },
+ {
+  "id": 5264,
+  "t": "Lord Maxwell Tyrosus",
+  "o": "Speak with Lord Maxwell Tyrosus. He is inside the church.",
+  "d": "I am about to bestow a great honor upon you, $N.$B$BLord Maxwell wishes to reward you for your service to the Argent Dawn!$B$BIt has been years since Maxwell has granted audience to outsiders.$B",
+  "p": "",
+  "c": "You are a worthy ally, $N. You shall reap the rewards of your stalwart dedication."
+ },
+ {
+  "id": 5265,
+  "t": "The Argent Hold",
+  "o": "Open the Argent Hold and claim your reward.",
+  "d": "Through the years the Argent Hold has remained locked. None have been worthy to reach inside and take from it the power of the Argent Dawn - until today.$B$BThe Argent Hold is now open to you, $N.",
+  "p": "",
+  "c": "Whoa..."
+ },
+ {
+  "id": 5281,
+  "t": "The Restless Souls",
+  "o": "Find Egan. You only know that he was last seen around Stratholme.",
+  "d": "There are those that died tragically in the fall of Stratholme. Many took their own lives, opting to hurl themselves into the myriad flames of the smoldering city rather than become one of the Scourge.$B$BThey now walk the streets of Stratholme as restless spirits.$B$BWe must aid them, $N!$B$BI have an associate named Egan who has been doing miraculous work with ghosts and souls. Seek him out. He walks the eastern Plaguelands, near Stratholme, testing his innovations.",
+  "p": "",
+  "c": "Alen has finally found someone brave enough, eh?"
+ },
+ {
+  "id": 5282,
+  "t": "The Restless Souls",
+  "o": "Use Egan's Blaster on the ghostly and spectral citizens of Stratholme. When the restless souls break free from their ghostly shells, use the blaster again - freedom will be theirs!$B$BFree 15 Restless Souls and return to Egan.",
+  "d": "I draw my power - my will to continue living and breathing - from the unmitigated hatred I have for the Scourge and all that they have done. I am, however, no zealot. There are those, like the Scarlet Crusade, who would sooner destroy the innocent undead than lend them even an ounce of compassion.$B$BWhich brings me to this: My blaster. It will unchain the tortured souls from Stratholme.$B$BUse it on the ghosts that haunt the ransacked streets. Free their souls.",
+  "p": "Compassion is what separates us from the animals, $N. Remember that...",
+  "c": "<Egan wipes a tear from his eye.>$B$BDid you see my mother, $N? Did you free her?$B$BYou are a shining example of decency. For your troubles..."
+ },
+ {
+  "id": 5283,
+  "t": "The Art of the Armorsmith",
+  "o": "To become an Armorsmith, you must make the following items and return them to Grumnus: 4 Ornate Mithril Helms, 2 Ornate Mithril Boots, 1 Ornate Mithril Breastplate.",
+  "d": "So ye made the smart decision.$B$BThere ain't no love lost betwixt me an old Ironus here. That good for nothing toy maker knows who the true craftsmen round here be.$B$BThe truly great wars are won with a good defense. When it be go time, no offense is gonna be helping ye out.$B$BRight, so let's get to work. All ye need to do is show me that ye've got some raw talent. After that, I'll yank whatever impurities be left in ye and mold ye into an armorsmith. Ye do know how to make ornate mithril, don't ye?",
+  "p": "Ah, ain't nothing like a good forge tan. Ye can tell who's got the really good tans by their apron lines.",
+  "c": "This be it, $N. After this, there ain't no way to turn back. It's not too late to become a toy maker, er, weaponsmith.$B$BI trust ye'll make the right decision."
+ },
+ {
+  "id": 5284,
+  "t": "The Way of the Weaponsmith",
+  "o": "To become a Weaponsmith, you must make the following items and return them to Ironus: 4 Moonsteel Broadswords, 4 Massive Iron Axes, 2 Heavy Mithril Axes, and 2 Big Black Maces.$B",
+  "d": "As a weaponsmith you'll find that more often than not, heroes and adventurers will be coming to you for gear. While the workload can be unbearable at times, the riches more than make up for the back strain and ash lung.$B$BOh yes, $N, weaponsmiths are the ones with all the gold!$B$BIf you wish to join our ranks, you'll need to show me that you can make me a silver or two - I mean, show me that you've got what it takes to be the go to $g guy:girl; when people need superior quality weapons. Get to work!",
+  "p": "<Ironus is busy stacking gold coins into neat little piles.>",
+  "c": "About time! I've got customers waiting.$B$BGive those here and pay attention. You're going to take the first step in your career as a weaponsmith."
+ },
+ {
+  "id": 5301,
+  "t": "The Art of the Armorsmith",
+  "o": "To become an armorsmith, you must make the following items and return them to Okothos: 4 Ornate Mithril Helms, 2 Ornate Mithril Boots, 1 Ornate Mithril Breastplate.",
+  "d": "Satisfaction. It is what I draw from the hammer and the anvil. To see a proud Horde warrior protected under my steel reminds me of what it is to be alive. It is an addiction that I dare never give up, $N.$B$BI can not grant you this satisfaction, merely set you upon the path. As with all of life's endeavors, the path of the armorsmith is a journey.$B$BIf you wish to be one of the select few, you need only to ask and I shall train, but, a task you must first complete.",
+  "p": "I will pound the steel until the breath itself has been taken from me.",
+  "c": "This is the final step before you begin your new career as an armorsmith, $N. Should you choose to back out, now would be your last chance. Otherwise, prepare yourself for a lifetime of glory."
+ },
+ {
+  "id": 5302,
+  "t": "The Way of the Weaponsmith",
+  "o": "To become a Weaponsmith, you must make the following items and return them to Borgosh: 4 Moonsteel Broadswords, 4 Massive Iron Axes, 2 Heavy Mithril Axes, and 2 Big Black Maces.$B",
+  "d": "One day, I will create a legendary hammer. A hammer fit for a Warchief!$B$BIt is my life's work, $N. My passion. I recognize that you have the potential to be among us, one of us - a weaponsmith. I am the one that can help you harness that potential.$B$BA simple task is all that you must complete. Simple for one of your exceptional skill. ",
+  "p": "For the glory of the Horde!",
+  "c": "This is the final step before you begin your new career as a weaponsmith, $N. Should you choose to back out, now would be your last chance. Otherwise, prepare to be consumed by knowledge!"
+ },
+ {
+  "id": 5305,
+  "t": "Sweet Serenity",
+  "o": "Travel to Stratholme and kill the Crimson Hammersmith. Recover the Crimson Hammersmith's Apron and return to Lilith.$B",
+  "d": "Within the confines of the Scarlet Bastion lies sweet Serenity. The Crimson Hammersmith guards the recipe with his life. Defeat him and bring me his apron. For that, I shall reward you with the knowledge required to create an enchanted battlehammer!",
+  "p": "His apron! Where is it?",
+  "c": "May you bash in many a brain, $N!"
+ },
+ {
+  "id": 5306,
+  "t": "Snakestone of the Shadow Huntress",
+  "o": "Travel to Blackrock Spire and slay Shadow Hunter Vosh'gajin. Recover Vosh'gajin's Snakestone and return to Kilram.",
+  "d": "Don't let her beauty fool you, $c. The shadow huntress, Vosh'gajin is deadly and deranged.$B$B<Kilram points to the scar on his face.>$B$BAye, she gave me that - a love tap, she called it.$B$BThe time for vengeance has finally come.$B$BYou can find Vosh'gajin in Blackrock Spire. Slay her and return to me with her snakestone. Do this and I will teach you the secret to crafting Dawn's Edge!",
+  "p": "Legend states that one use of Vosh'gajin's snakestone will keep an axe razor sharp for a 1000 years!",
+  "c": "Knowledge is power!"
+ },
+ {
+  "id": 5307,
+  "t": "Corruption",
+  "o": "Find the Black Guard Swordsmith in Stratholme and destroy him. Recover the Insignia of the Black Guard and return to Seril Scourgebane.",
+  "d": "If I am short with you, it is for a reason. The plans for the creation of the great blade, Corruption, have been stolen by the Black Guard: Elite skeletal units of Baron Rivendare.$B$BYes, Baron Rivendare of Stratholme.$B$BThe Black Guard swordsmith now guards those plans with his... undeath.$B$BSlay him and return proof of this deed and I shall grant you the knowledge required to create a blazing rapier!",
+  "p": "Have you forgotten what it is that you were tasked with, $N?",
+  "c": "It should be obvious that a sword is always the best choice."
+ },
+ {
+  "id": 5321,
+  "t": "The Sleeper Has Awakened",
+  "o": "Escort Kerlonian Evershade to Liladris Moonriver at Maestra's Post in Ashenvale.",
+  "d": "I was on my way to Maestra's Post to meet Liladris Moonriver, but I decided to stop here and take a short nap. Ever since I awoke from the emerald dream, I have been so sleepy...$B$B<yawn>$B$BWould you mind showing me the way? I understand that Maestra's Post is south of here, along the road in Ashenvale. It can be dangerous, so I hope you have some friends that will join us.$B$BLastly, I may fall asleep so if you ever need to wake me, please use my horn. You'll find it in the chest here.",
+  "p": "Has Kerlonian arrived?",
+  "c": "Oh, I am so happy Kerlonian made it! And I'm sure I'll find him sleeping somewhere around here, won't I?$b$bThank you for showing him the way, $N."
+ },
+ {
+  "id": 5341,
+  "t": "Barov Family Fortune",
+  "o": "Venture to the Scholomance and recover the Barov family fortune. Four deeds make up this fortune: The Deed to Caer Darrow; The Deed to Brill; The Deed to Tarren Mill; and The Deed to Southshore. Return to Alexi Barov when you have completed this task.",
+  "d": "Within the Scholomance lays the Barov family fortune. I, Alexi Barov, am one of the last two remaining heirs of the house Barov. My brother, Weldon, is the other.$B$BWeldon, the miserable coward, fled during the war and thus retained his worthless existence as a human.$B$BHe now searches for the deeds so that he may claim the fortune for his own. Recover the deeds before my brother does and I shall make you wealthy beyond your wildest dreams!",
+  "p": "Bow your head in my presence, $r. I am a noble, after all, and you are a copperless peasant.",
+  "c": "Excellent work, $R. Now to secure my inheritance..."
+ },
+ {
+  "id": 5342,
+  "t": "The Last Barov",
+  "o": "Travel to Chillwind Camp - Alliance territory - and assassinate Weldon Barov. Take his head and return to Alexi Barov.$B$BBe warned, Weldon will probably be well protected by Alliance scum.",
+  "d": "Naturally, with my brother still alive, there may be some contention as to the primary beneficiary of the family's fortune. This cannot be.$B$BA low down guttersnipe like you isn't above a little cold-blooded murder, I hope.$B$BIt's a simple task and one that I expect you will complete; that is, if you wish to claim your reward.$B$BWeldon sits under Alliance protection at Chillwind Camp, to the east. Slay him, return his head.$B$B<Alexi yawns.>$B$BHurry along now.",
+  "p": "Secure my fortune and share in the spoils.",
+  "c": "Wonderful! Now only I hold the power and fortune of house Barov!$B$B<Alexi throws a large bag at you.>$B$BAnd keep the change, you filthy animal."
+ },
+ {
+  "id": 5343,
+  "t": "Barov Family Fortune",
+  "o": "Venture to the Scholomance and recover the Barov family fortune. Four deeds make up this fortune: The Deed to Caer Darrow; The Deed to Brill; The Deed to Tarren Mill; and The Deed to Southshore. Return to Weldon Barov when you have completed this task.",
+  "d": "My dear brother Alexi. What a fool I was to spare his life. I looked into the face of the enemy, one of the undead, and let him live.$B$B<Weldon spits.>$B$BHe now searches for MY inheritance. This simply cannot happen.$B$BFind my family's deeds before that vile retch gets his boney hands upon them and I shall reward you with vast riches. They lay in the ruins of the Scholomance. Make haste!",
+  "p": "Bow your head in my presence, $R. I am a noble, after all, and you are a copperless peasant.",
+  "c": "Excellent work, $R. Now to secure my inheritance..."
+ },
+ {
+  "id": 5344,
+  "t": "The Last Barov",
+  "o": "Travel to the Bulwark - Horde territory - and assassinate Alexi Barov. Take his head and return to Weldon Barov.$B$BBe warned, Alexi will probably be well protected by Horde filth.",
+  "d": "With the deeds recovered, there is but one thing left to do. Alexi must be killed. With him dead, I need not ever worry about an unscrupulous gang of mercenaries seeking my head.$B$BIt's a simple task. Alexi hides under the protection of the Horde - at the Bulwark.$B$BNo, I do not expect you to just walk up and kill him, I want his head! How you get it... well, that part is up to you. That type of behavior is below one of my noble upbringing.",
+  "p": "You do want payment, do you not?",
+  "c": "A glorious day it is! Finally, the pockmark of house Barov eliminated and my fortune secure!$B$BTake this and leave my sight, peasant."
+ },
+ {
+  "id": 5361,
+  "t": "Family Tree",
+  "o": "Deliver Cliffwatcher Longhorn Report to Nataka Longhorn at Ghost Walker Post in Desolace.",
+  "d": "My brother Nataka is stationed at Ghost Walker Post over in Desolace. I'd like to ask you... could you give this report to him for me? A year has passed since the last time I wrote, there has been unusual centaur activity since then and he should be informed.$B$BJourney to Stonetalon Mountain north of the Crossroads, and then head west into Charred Vale. From there, head south into Desolace; there you will find a road going south to Ghost Walker Post.",
+  "p": "What news have you, $C! Ah - a message from my brother you say? Well then, hand over the report!",
+  "c": "I know not what connection you have with my brother but it would seem he has trust with you, $c.$b$bI am Nataka Longhorn and would like to welcome you to Ghost Walker Post, we have many needs of a $c! Talk with others, perhaps there is need of you here."
+ },
+ {
+  "id": 5381,
+  "t": "Hand of Iruxos",
+  "o": "Retrieve the Demon Box from Thunder Axe Fortress, and return it, along with the Demon Pick to Taiga Wisemane in Shadowprey Village.$B",
+  "d": "The Burning Blade possesses the Demon Box. Within it lies the powerful Hand of Iruxos. The Burning Blade uses it to open demonic portals at Mannoroc Coven. We must stop the tide of demons entering our world, $n!$B$BUse this demon pick on the red crystal in Thunder Axe Fortress to gain access to the Demon Box.$B",
+  "p": "$n, do you have the Demon Box?",
+  "c": "Ah, the Demon Box. Give it to me, $c, and I shall open... and thus reveal to you the Hand of Iruxos.$b$b"
+ },
+ {
+  "id": 5382,
+  "t": "Doctor Theolen Krastinov, the Butcher",
+  "o": "Find Doctor Theolen Krastinov inside the Scholomance. Destroy him, then burn the Remains of Eva Sarkhoff and the Remains of Lucien Sarkhoff. Return to Eva Sarkhoff when the task is complete.$B",
+  "d": "Krastinov is responsible for the deaths of thousands. He must be punished, justice must be meted out.$B$BFind him and exact upon him the agony he has inflicted upon countless innocents. Once he is destroyed, burn our remains. Turn them to ashes, $N.",
+  "p": "The Butcher must be stopped!",
+  "c": "I can feel my spirit healing, $N. You have done my husband and I a great service, but I am certain there is more to be done."
+ },
+ {
+  "id": 5383,
+  "t": "Krastinov's Bag of Horrors",
+  "o": "Take the Bag of Horrors to Eva Sarkhoff on Caer Darrow.",
+  "d": "You open the bag to discover various instruments of torture. Amidst the paraphernalia, an odd object catches your eye: A vial of blood - still warm to the touch.$B$BYou think that the Sarkhoff's might be interested in your discovery.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 5384,
+  "t": "Kirtonos the Herald",
+  "o": "Return to the Scholomance with the Blood of Innocents. Find the porch and place the Blood of Innocents in the brazier. Kirtonos will come to feast upon your soul.$B$BFight valiantly, do not give an inch! Destroy Kirtonos and return to Eva Sarkhoff.$B",
+  "d": "This is it, $N.$B$B<Eva points to the vial inside the bag.>$B$BThe blood of innocents. The purest blood, used to appease Krastinov's master.$B$BIt is with this blood that Kirtonos may be summoned. It is with this blood, then, that Kirtonos must be destroyed.$B$BTake the blood to the porch. Place it upon the brazier. Kirtonos will come - he cannot resist. When he appears, unleash the fury and wrath of a thousand innocent deaths upon him.$B$BShould you succeed, you will earn more than just our gratitude.",
+  "p": "Be wary, Kirtonos is a seasoned fighter.",
+  "c": "With the death of Kirtonos, a chapter in the horrible tale of Scholomance comes to a close. There is, however, more to be done. Others here are now aware of your brave acts. Take this, $N. It is a piece of our own essence. It will allow you to communicate with the other lost souls of Caer Darrow."
+ },
+ {
+  "id": 5385,
+  "t": "The Remains of Trey Lightforge",
+  "o": "Return the Remains of Trey Lightforge to Jessir Moonbow in Felwood.",
+  "d": "You pick up the sack carefully and prepare to make your way back to Jessir Moonbow on the border of Felwood and Ashenvale. Hopefully the paladin will be given the proper respects once you've passed his remains on to his friends.",
+  "p": "How did things go in Jaedenar, $N?",
+  "c": "You've done it! Praise be to Elune and whichever powers you worshihp, $N. You have done an honorable and noble thing this day. I am certain Arko'narin will be pleased that you not only took the time to save her, but to also slay the creature who tortured one of her best friends.$b$bI wish I could do more for you, but please, take this."
+ },
+ {
+  "id": 5386,
+  "t": "Catch of the Day",
+  "o": "Talk to Jinar'Zillen at Shadowprey Village, and then bring Nataka Longhorn 2 Bloodbelly fish.",
+  "d": "The smell of cooked fish has long been missing here at Ghost Walker Post. The trolls at Shadowprey Village are the best at catching fish... but alas, with all the centaur activities I have little time to make a journey to the trolls. Hrm...$B$BDo me a favor and journey to Shadowprey Village. Talk to the local fisherman Jinar'Zillen and bring me back my favorite, Bloodbelly fish. The road south of here will take you west to the troll village.",
+  "p": "My hoof tingles and my mouth starts to water when I think of fried Bloodbelly fish... You have any on you?",
+  "c": "You are a savior, $N! These Bloodbelly fish look almost good enough to eat raw.$B$B<Nataka starts salivating.>$B$BHere you go - choose one of these items as a payment for these fish."
+ },
+ {
+  "id": 5401,
+  "t": "Argent Dawn Commission",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "All who fight evil on behalf of the Argent Dawn must don our commission.  Wearing such will earn your right to claim rewards our quartermasters have to offer.$B$BWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess.  Procure these insignia and bring them to me.  For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.$B$BAchieve your destiny, $c - join the fight today!"
+ },
+ {
+  "id": 5402,
+  "t": "Minion's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Minion's Scourgestone is the insignia of the Scourge rank and file.  These are sometimes found on the weaker of their troops positioned in the Plaguelands, though the term \"weaker\" is certainly to be considered in context.  The Scourge, no matter where they are, should never be underestimated.$B$BThe Argent Dawn currently offers a valor token in exchange for twenty of these insignia - an exchange I'm happy to do, provided you have earned enough scourgestones!",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!$B$BThe tokens serve two purposes.  One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies.  Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.$B$BWhatever you decide, know that you are earning your commission.  Well done!"
+ },
+ {
+  "id": 5403,
+  "t": "Invader's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "An Invader's Scourgestone is the insignia of the Scourge's elite troops.  These are sometimes found on the stronger of the troops positioned in the Plaguelands.  Slaying such a creature is indeed a challenge, but one that should be relished with a commission to vanquish evil.$B$BThe Argent Dawn currently offers a valor token in exchange for ten of these insignia.  Bring them to me here, and I will make sure you receive your just reward.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!$B$BEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge. With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge. I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!"
+ },
+ {
+  "id": 5404,
+  "t": "Corruptor's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Corruptor's Scourgestone is the insignia of the Scourge's overlords.  A powerful being that holds a position of authority over the Scourge will always possess one.  To slay such a malevolent creature would surely advance the cause of the Argent Dawn, and all good causes!$B$BOn behalf of the Argent Dawn, I will give you a valor token in exchange for just a single one these insignia.  Use caution in acquiring one, $N - such powerful beings are not to be trifled with.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!\n \nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n \nFor the Dawn, my $gbrother:sister;!"
+ },
+ {
+  "id": 5405,
+  "t": "Argent Dawn Commission",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "All who fight evil on behalf of the Argent Dawn must don our commission. Wearing such will earn your right to claim rewards our quartermasters have to offer.$B$BWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess. Procure these insignia and bring them to me. For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.$B$BAchieve your destiny, $c join the fight today!"
+ },
+ {
+  "id": 5406,
+  "t": "Corruptor's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Corruptor's Scourgestone is the insignia of the Scourge's overlords.  A powerful being that holds a position of authority over the Scourge will always possess one.  To slay such a malevolent creature would surely advance the cause of the Argent Dawn, and all good causes!$B$BOn behalf of the Argent Dawn, I will give you a valor token in exchange for just a single one these insignia.  Use caution in acquiring one, $N - such powerful beings are not to be trifled with.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!\n \nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n \nFor the Dawn, my $gbrother:sister;!"
+ },
+ {
+  "id": 5407,
+  "t": "Invader's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "An Invader's Scourgestone is the insignia of the Scourge's elite troops.  These are sometimes found on the stronger of the troops positioned in the Plaguelands.  Slaying such a creature is indeed a challenge, but one that should be relished with a commission to vanquish evil.$B$BThe Argent Dawn currently offers a valor token in exchange for ten of these insignia.  Bring them to me here, and I will make sure you receive your just reward.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!$B$BEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge. With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge. I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!"
+ },
+ {
+  "id": 5408,
+  "t": "Minion's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Minion's Scourgestone is the insignia of the Scourge rank and file.  These are sometimes found on the weaker of their troops positioned in the Plaguelands, though the term \"weaker\" is certainly to be considered in context.  The Scourge, no matter where they are, should never be underestimated.$B$BThe Argent Dawn currently offers a valor token in exchange for twenty of these insignia - an exchange I'm happy to do, provided you have earned enough scourgestones!",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!\r\n\r\nThe tokens serve two purposes. One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies. Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.\r\n\r\nWhatever you decide, know that you are earning your commission. Well done!"
+ },
+ {
+  "id": 5421,
+  "t": "Fish in a Bucket",
+  "o": "",
+  "d": "",
+  "p": "I'll reward anyone who makes my life a bit easier... I enjoy doing as little as possible, mon!$B$BBelow the docks here in Shadowprey Village, I've many shellfish traps.  If you're kind enough to do my work and collect me my shellfish, then I'll reward you with something you want... get my drift mon?  For every five shellfish you bring me I will give you a fine Bloodbelly fish!",
+  "c": "Sweet mon, nothing beats work being done, especially if it's someone else doing the work... eh?"
+ },
+ {
+  "id": 5461,
+  "t": "The Human, Ras Frostwhisper",
+  "o": "Travel to the Arathi Highlands, to the ruins of Stromgarde. Search Stromgarde for a Keepsake of Remembrance. If you find such an item, return with it to Magistrate Marduke.",
+  "d": "The undead fear life just as the living fear death. It is not unusual for a sentient undead being to completely destroy all remnants of his or her previous life after having turned.$B$BUnfortunately, in order to create an artifact capable of reverting Ras Frostwhisper to a mortal, we must have a keepsake from his years among the living.$B$BYou must venture to the ruined city of Stromgarde, Frostwhisper's home, and search for such an item. May luck be with you, $N.",
+  "p": "A keepsake of remembrance is a rare find, $N.",
+  "c": "I had doubted the possibility of such an item existing. This certainly opens up an incredible opportunity - one we must not squander.$B$BPrepare yourself, $N, for what I am about to ask of you will take you into the depths of hell."
+ },
+ {
+  "id": 5462,
+  "t": "The Dying, Ras Frostwhisper",
+  "o": "Travel to Light's Hope in Eastern Plaguelands and seek out Leonid Barthalomew the Revered. Show him the Keepsake of Remembrance and tell him all that you have discovered.",
+  "d": "Upon tainted soil, the keepsake must be attuned.$B$BIt is rumored that Stratholme is where Frostwhisper succumbed to the Lich King. Upon those bloodied grounds he gave his life - freely and with motive - to become one of the undying.$B$BIt is those grounds that must be found.$B$BThere is one, an undead dissenter of the Scourge, freed by the Banshee Queen but loyal to the cause of the Argent Dawn. Find him: Leonid Barthalomew the Revered. He may know more. Seek out Light's Hope, $N. ",
+  "p": "Do not ask questions of which you do not want answers.",
+  "c": "<Leonid looks over the keepsake.>$B$BYour quandary stirs up memories that I had hoped would never resurface."
+ },
+ {
+  "id": 5463,
+  "t": "Menethil's Gift",
+  "o": "Travel to Stratholme and find Menethil's Gift. Place the Keepsake of Remembrance upon the unholy ground. ",
+  "d": "I watched as the human, Ras Frostwhisper, pledged his undying soul to the Lich King. He drew the dagger to his own throat and with a smile, cut from ear to ear. His body collapsed inside the borders of the pentagram. The Lich King stood over the fallen mage and with a single motion, Ras Frostwhisper the lich, was born.$B$B<Leonid gazes at the ground and then looks up at you.>$B$BYes, $r, I remember. What you seek has a name - Menethil's Gift: The ground blessed by the Lich King - holy ground to Scourge.$B",
+  "p": "The area around Menethil's Gift is exceptionally cold.",
+  "c": "You place the keepsake on the tainted soil."
+ },
+ {
+  "id": 5464,
+  "t": "Menethil's Gift",
+  "o": "Take the Soulbound Keepsake to Leonid Barthalomew in Eastern Plaguelands.",
+  "d": "The soul of the fallen clings to that which represents its former life and transforms the item into a soulbound keepsake. You pick the item up and place it in your pack.",
+  "p": "<Leonid shudders.>",
+  "c": "As the soul clung to the keepsake, so shall it cling to the physical form of Ras Frostwhisper."
+ },
+ {
+  "id": 5465,
+  "t": "Soulbound Keepsake",
+  "o": "Return to Magistrate Marduke in Caer Darrow. Show him the Soulbound Keepsake.",
+  "d": "Return to Marduke with the keepsake, $N. He will instruct you in its use.",
+  "p": "Have you done the impossible?",
+  "c": "I was certain that you would be joining me as another hapless spirit."
+ },
+ {
+  "id": 5466,
+  "t": "The Lich, Ras Frostwhisper",
+  "o": "Find Ras Frostwhisper in the Scholomance. When you have found him, use the Soulbound Keepsake on his undead visage. Should you succeed in reverting him to a mortal, strike him down and recover the Human Head of Ras Frostwhisper. Take the head back to Magistrate Marduke.",
+  "d": "There is but one task remaining, $N. Confront the lich, Ras Frostwhisper, in his lair.$B$BUse the power of the keepsake against the beast -  be unrelenting in your actions!  Weather the blows that the flailing beast will surely bring down upon you. Do not give in to the pain!$B$BWhen the ritual is complete, Ras will be mortal once more. It is at that point that he must be slain. Strike him down and take his human head.",
+  "p": "You carry the burden of ten thousand restless souls, $N.",
+  "c": "Ten thousand souls cry out in unison, $N! You have struck a mortal blow to the Scourge and their masters."
+ },
+ {
+  "id": 5481,
+  "t": "Gordo's Task",
+  "o": "Collect 3 Gloom Weed and deliver them to Junior Apothecary Holland in the Brill graveyard.",
+  "d": "Master want weeds. Us gots big hands and not good at picking. You help us and we not hurt you. Us need gloom weed. Many weeds around here and near road.$b$bWhen you have gloom weed you take to Master Holland in Brill graveyard.$B",
+  "p": "Where's that useless abomination? Either you have what I need or you'd best get out there and find it.",
+  "c": "What's this? Gloom weed?! I've no need for gloom weed! That mindless mass of flesh is out there picking daisies and convincing the Lady knows how many dupes like you into doing the same. No offense.$b$bVery well, you're here now and that's all that matters. Since I'm not going to bother to try to explain things to that abomination how about you collect what I really need... doom weed!"
+ },
+ {
+  "id": 5482,
+  "t": "Doom Weed",
+  "o": "Collect 10 Doom Weed and deliver them back to Junior Apothecary Holland.$B",
+  "d": "So you can see the predicament that I'm in, $N. That thing is out there collecting the wrong weeds! I'll make it worth your while to gather what I need. Bring back to me enough doom weed and I'll give you a suitable reward.$B$BIt is my understanding that they like to plague the flora near the mass gravesite, to the north of the Brill graveyard. Hurry and be mindful of the gnolls in the area.",
+  "p": "This had better be good. I trust you have all of the doom weed that I require?",
+  "c": "Ah, my doom weed. Excellent!$b$b<Junior Apothecary Holland rubs his hands together greedily>$b$bThese will come in quite handy. You've done me, uh, the Lady, a fine service today $N. As promised here is the reward that you deserve."
+ },
+ {
+  "id": 5501,
+  "t": "Bone Collector",
+  "o": "Bring 10 Kodo Bones from the Kodo Graveyard to Bibbly F'utzbuckle at Kormek's Hut.",
+  "d": "We're sitting on a goldmine here, I tell you - a goldmine!  Kodo bones will change the world forever... I have customers making furniture, music instruments, and even blasting powder out of them.$B$BThere's a caravan that comes by and picks up my kodo bones and then sells them at Shadowprey Village.  If you can travel to the kodo graveyard south of here and bring me ten kodo bones, I'll give you something in return.  Is it a deal?",
+  "p": "Do you have the bones?  The caravan will be here any moment.  I need just ten more kodo bones to reach a career high.  A career high, I tell you!",
+  "c": "Ah, goodie!  My bones!$B$BI can't wait till the chaps at home see my face on the front cover of Goblin'preneur.  I'll be the richest goblin in the world... and my physical education teacher said I would never amount to anything."
+ },
+ {
+  "id": 5502,
+  "t": "A Warden of the Horde",
+  "o": "Return your ward to the Orgrimmar orphanage by handing in the Orcish Orphan Whistle to Orphan Matron Battlewail in the Valley of Honor.",
+  "d": "You have been so very kind to me, $N.  I never dreamed that I'd have so much fun during Children's Week.  Thank you.  I won't be sad about what's happened to me - my parents always told me to rise above anything bad that happens.  I'll be a hero... just like you.$B$BI'm sad to say this, but it's time for me to go home.  Let's go back and I'll tell the matron what an awesome person you are!",
+  "p": "It is a pleasure to see you again, $N. Have you attended to the duties you've volunteered for during Children's Week?",
+  "c": "May the spirits bless you, $N. You've done more for Grunth than most would ever think of doing for him. Thank you - you're the epitome of what it means to be a hero of the Horde.$B$BPlease - if you can spare the time, come back and visit us. I know that Grunth would like that, as would I."
+ },
+ {
+  "id": 5503,
+  "t": "Argent Dawn Commission",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "All who fight evil on behalf of the Argent Dawn must don our commission. Wearing such will earn your right to claim rewards our quartermasters have to offer.$B$BWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess. Procure these insignia and bring them to me. For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.$B$BAchieve your destiny, $c join the fight today!"
+ },
+ {
+  "id": 5504,
+  "t": "Mantles of the Dawn",
+  "o": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands.",
+  "d": "Your service to the Argent Dawn is to be commended, $N.  You are truly revered amongst us.  I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.$B$BApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways.  As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "p": "Ah, noble $C! Have you brought the valor tokens requested of you? Once you hand them to me, I will make our various mantles available to you for purchase.",
+  "c": "Outstanding - your tribute to the Dawn is duly noted, $N. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.$B$BFor the Dawn, my brother!"
+ },
+ {
+  "id": 5505,
+  "t": "The Key to Scholomance",
+  "o": "",
+  "d": "",
+  "p": "Well, here you are, $n - the completed Skeleton Key. I am certain as I can be that this key will allow you within the confines of the Scholomance. There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.",
+  "c": "Well, here you are, $N - the completed Skeleton Key.  I am certain as I can be that this key will allow you within the confines of the Scholomance.  There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.$B$BGood luck, mighty hero.  May your victories continue to bring you fame and power as you lay waste to Scholomance!"
+ },
+ {
+  "id": 5507,
+  "t": "Mantles of the Dawn",
+  "o": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands.",
+  "d": "Your service to the Argent Dawn is to be commended, $N.  You are truly revered amongst us.  I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.$B$BApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways.  As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "p": "Ah, noble $C! Have you brought the valor tokens requested of you? Once you hand them to me, I will make our various mantles available to you for purchase.",
+  "c": "Outstanding - your tribute to the Dawn is duly noted, $N. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.$B$BFor the Dawn, my brother!"
+ },
+ {
+  "id": 5508,
+  "t": "Corruptor's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Corruptor's Scourgestone is the insignia of the Scourge's overlords.  A powerful being that holds a position of authority over the Scourge will always possess one.  To slay such a malevolent creature would surely advance the cause of the Argent Dawn, and all good causes!$B$BOn behalf of the Argent Dawn, I will give you a valor token in exchange for just a single one of these insignia.  Use caution in acquiring one, $N - such powerful beings are not to be trifled with.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!\n \nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n \nFor the Dawn, my $gbrother:sister;!"
+ },
+ {
+  "id": 5509,
+  "t": "Invader's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "An Invader's Scourgestone is the insignia of the Scourge's elite troops.  These are sometimes found on the stronger of the troops positioned in the Plaguelands.  Slaying such a creature is indeed a challenge, but one that should be relished with a commission to vanquish evil.$B$BThe Argent Dawn currently offers a valor token in exchange for ten of these insignia.  Bring them to me here, and I will make sure you receive your just reward.",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!$B$BEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge.  With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge.  I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!"
+ },
+ {
+  "id": 5510,
+  "t": "Minion's Scourgestones",
+  "o": "",
+  "d": "",
+  "p": "A Minion's Scourgestone is the insignia of the Scourge rank and file.  These are sometimes found on the weaker of their troops positioned in the Plaguelands, though the term \"weaker\" is certainly to be considered in context.  The Scourge, no matter where they are, should never be underestimated.$B$BThe Argent Dawn currently offers a valor token in exchange for twenty of these insignia - an exchange I'm happy to do, provided you have earned enough scourgestones!",
+  "c": "Congratulations, $N - I am pleased to award you with an Argent Dawn valor token!$B$BThe tokens serve two purposes.  One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies.  Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.$B$BWhatever you decide, know that you are earning your commission.  Well done!"
+ },
+ {
+  "id": 5511,
+  "t": "The Key to Scholomance",
+  "o": "",
+  "d": "",
+  "p": "Well, here you are, $n - the completed Skeleton Key. I am certain as I can be that this key will allow you within the confines of the Scholomance. There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.",
+  "c": "Well, here you are, $N - the completed Skeleton Key.  I am certain as I can be that this key will allow you within the confines of the Scholomance.  There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.$B$BGood luck, mighty hero.  May your victories continue to bring you fame and power as you lay waste to Scholomance!"
+ },
+ {
+  "id": 5513,
+  "t": "Mantles of the Dawn",
+  "o": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands.",
+  "d": "Your service to the Argent Dawn is to be commended, $N.  You are truly revered amongst us.  I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.$B$BApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways.  As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "p": "Ah, noble $C! Have you brought the valor tokens requested of you? Once you hand them to me, I will make our various mantles available to you for purchase.",
+  "c": "Outstanding - your tribute to the Dawn is duly noted, $N. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.$B$BFor the Dawn, my brother!"
+ },
+ {
+  "id": 5514,
+  "t": "Mold Rhymes With...",
+  "o": "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan.",
+  "d": "The goblin you will need to speak with is Krinkle Goodsteel.  He peddles his skills to the highest bidder in Gadgetzan, within the Tanaris desert.  He'll likely be the only one who can produce the mold we need, and his services won't come cheap.  We now ask for you to dig deep by footing whatever fee he will charge.$B$BI'm an apothecary, not a banker.  If I had gold lying around, I certainly wouldn't be here.$B$BI guess I said the quiet part out loud again.  Oops.$B$BGadgetzan awaits you!  Good luck!",
+  "p": "Yeah, I know who you are, and I know why you're here. Dithers sent word to me before you arrived. Let's cut to deal at hand, now shall we?$b$bI've got a mold you can use for the skeleton key, but it will cost you - fifteen gold, up front, no negotiation. I'll pack the skeletal fragments into the mold for you, and I'll also teach you on how to forge the stem of the key without any knowledge of blacksmithing... all free of charge no less.$b$bWho says mercenaries don't offer competitive deals!",
+  "c": "Dithers said you'd deliver the goods, and deliver you have! A deal is a deal; let me pack the fragments into the mold for you.$b$bDid Dithers imbue them already? Excellent... otherwise, it would have been a long trip back to the Bulwark for you."
+ },
+ {
+  "id": 5515,
+  "t": "Krastinov's Bag of Horrors",
+  "o": "Locate Jandice Barov in the Scholomance and destroy her. From her corpse recover Krastinov's Bag of Horrors. Return the bag to Eva Sarkhoff.",
+  "d": "A great weight has been lifted from our hearts, $N, but your task is not yet complete. Krastinov's master, Kirtonos, still lives.$B$BBefore you may face Kirtonos, however, you must first secure a method in which to summon him.$B$BIt is said that Jandice Barov stewards the blood of innocents from Krastinov to Kirtonos.$B$BFind her in the sunken catacombs of Scholomance and strike her down. Bring back any clues that you may find.",
+  "p": "<Eva fades in and out of focus.>",
+  "c": "The bag of horrors!"
+ },
+ {
+  "id": 5517,
+  "t": "Chromatic Mantle of the Dawn",
+  "o": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands.",
+  "d": "$G Brother : Sister; $N - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily.  As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously.  Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!$B$BBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "p": "Salutations, mighty $c! Have you brought the valor tokens I asked of you? Once you hand them to me, I will issue you your own Chromatic Mantle of the Dawn.",
+  "c": "Most impressive, $N - the Chromatic Mantle of the Dawn is now yours!$B$BAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters."
+ },
+ {
+  "id": 5518,
+  "t": "The Gordok Ogre Suit",
+  "o": "Bring 4 Bolts of Runecloth, 8 Rugged Leather, 2 Rune Threads, and Ogre Tannin to Knot Thimblejack.  He is currently chained inside the Gordok wing of Dire Maul.",
+  "d": "If you're going to fight the king of this dump - and I think that's what you're bound to do - then you're going to need to get by Captain Kromcrush.  Now, you can get by him by killing him, sure.  You might actually want to leave him alive.$B$BHow, you ask?  Since I've been here, I think I know how to make an ogre suit that will last just long enough to fool these bozos.  The only problem is stability - ten minutes tops.  Bring me what I need, and I'll make you one.  I'm not going anywhere...",
+  "p": "The Ogre Tannin is probably the toughest thing to find for what I need to make the suit - I think they have some upstairs?  It's hard to tell, since this ball and chain doesn't make movement that easy to do...$B$BAnyway, bring me the things I need, and I'll whip you up an ogre suit that will fool Captain Kromcrush into thinking you're one of his men.",
+  "c": "Yeah, this will do the trick.  Just a slip here, and tuck here... heh - this is going to work out just fine!  <A broad smile beams from the chained goblin's face.>$B$BHere you go, you're all set.  Remember- this isn't the most securely fashioned item in the world.  You'll have ten minutes of use before it falls apart, and then you're not going to fool anybody!  Try using it just before you approach him, and remember... it only will make him think that YOU are an ally - not your group mates!"
+ },
+ {
+  "id": 5519,
+  "t": "The Gordok Ogre Suit",
+  "o": "",
+  "d": "",
+  "p": "Need another suit, do ya? Well, I'm not going anywhere soon it seems - bring me the same things I asked for from before, and I'll make you another ogre suit.",
+  "c": "Here ya go $N - put this thing on, and you'll have ten minutes to do whatever.  Good luck!$B$BOh, and if you happen to find a key to get me out of here, BY ALL MEANS LET ME KNOW!!!"
+ },
+ {
+  "id": 5521,
+  "t": "Chromatic Mantle of the Dawn",
+  "o": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands.",
+  "d": "$G Brother : Sister; $N - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily.  As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously.  Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!$B$BBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "p": "Salutations, mighty $C! Have you brought the valor tokens I asked of you? Once you hand them to me, I will issue you your own Chromatic Mantle of the Dawn.",
+  "c": "Most impressive, $N - the Chromatic Mantle of the Dawn is now yours!$B$BAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters."
+ },
+ {
+  "id": 5522,
+  "t": "Leonid Barthalomew",
+  "o": "Bring the Frozen Eggs to Leonid Barthalomew in the Eastern Plaguelands.",
+  "d": "I received a message from my master, Vectus.  Well, the message wasn't really from Vectus...it was from someone named Leonid Barthalomew.  I don't know Leonid, but he knew my master, and no one knows my master unless he allows it.$B$BLeonid says Vectus wants the dragon eggs.  He wants you to deliver them to him at the Light's Hope Chapel in the Eastern Plaguelands.$B$BThat hurts!  Why you?  Doesn't Vectus trust me?  Oh, never mind... just take the eggs and tell Leonid that I did what our master commanded.",
+  "p": "You are the one up to mischief in Blackrock Spire, yes? Do you have what I asked for?",
+  "c": "Ah, very good. You do not know the evil power for whom you have labored, but now you will know the truth. And fear not--I am no servant of that master. I am Leonid Barthalomew, known as \"the Revered\" to my brethren in the Argent Dawn.$b$bI tricked Tinkee into sending you and the dragon eggs to me. And it is good that my trick was successful, for had these eggs reached their intended destination, a great power would have fallen into the hands of the enemy."
+ },
+ {
+  "id": 5524,
+  "t": "Chromatic Mantle of the Dawn",
+  "o": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands.",
+  "d": "$G Brother : Sister; $N - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily.  As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously.  Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!$B$BBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "p": "Salutations, mighty $C! Have you brought the valor tokens I asked of you? Once you hand them to me, I will issue you your own Chromatic Mantle of the Dawn.",
+  "c": "Most impressive, $N - the Chromatic Mantle of the Dawn is now yours!$B$BAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters."
+ },
+ {
+  "id": 5525,
+  "t": "Free Knot!",
+  "o": "",
+  "d": "",
+  "p": "It's called the Gordok Shackle Key - well, that's what these \"tons o' fun\" keep calling it. I think any of the ogres might have it, but I'm not sure if any specific ones do. Maybe the guards have a better chance of having one...$B$BWhat am I talking about - you have it already, don't you?! Is that it there??!",
+  "c": "You - ranked number one. Everyone else - ranked number two or lower. Oh, thank you for freeing me!$B$BI knew my life was destined for more than just being an appetizer to some ogre!"
+ },
+ {
+  "id": 5526,
+  "t": "Shards of the Felvine",
+  "o": "Find the Felvine in Dire Maul and acquire a shard from it.  Chances are you'll only be able to procure one with the demise of Alzzin the Wildshaper.  Use the Reliquary of Purity to securely seal the shard inside, and return it to Rabine Saturna in Nighthaven, Moonglade.",
+  "d": "Your knowledge of Eldre'Thalas - Dire Maul - in Feralas will now come into play, $N.  In the eastern part of the ruined city is where Alzzin the Wildshaper has exerted his corrupt dominion.  Go there with all due haste and brave whatever challenges await you.$B$BThe Fruit of Fertility, now corrupted as the Felvine, should be close to Alzzin.  When he falls, capture whatever essence of the Felvine you can.  Seal it in the Reliquary, and bring it to me.$B$BGood luck, and Cenarion's speed.",
+  "p": "With the Sealed Reliquary of Purity in our possession, it will be possible not only to remove a corrupting threat from the world but also to study it under our judicious watch. Perhaps we can even devise new means to combat the taint of corruption that ever threatens Azeroth.$b$bI know Milli would have had it no other way...",
+  "c": "It is done, brave $c, and with that the Cenarion Circle is in your debt. Though the war is far from over, a great battle has been won against those who would bring about our doom.$b$bPlease - accept this as a token of our enduring gratitude. Know that you are welcomed here as a hero of the Cenarion Circle for your great deed, $N. Thank you."
+ },
+ {
+  "id": 5527,
+  "t": "A Reliquary of Purity",
+  "o": "Travel to Silithus and search for a Reliquary of Purity within the ruins of Southwind Village.  If you are able to find it, return with it to Rabine Saturna in Nighthaven, Moonglade.",
+  "d": "The first step is to find a container capable of holding an extremely corruptible substance without the handler suffering ill effects.  There is only one sort device I am aware of that could possibly contain something as vile as the Felvine: a Reliquary of Purity.$B$BDeep in the wasteland of Silithus is the remnants of the night elf village known as Southwind.  I know one was there many, many years ago.  If we are to succeed, I need you to scour those ruins in the hopes of reclaiming it.",
+  "p": "A Reliquary of Purity is an artifact unto itself.  Few were ever made, and almost all of them were thought to have been lost over time.$B$BI admit I have known about the one in Southwind for a little while now.  Honestly, with the rising turmoil in Silithus, I thought to keep our secrets just that - a secret.  To poke and prod would only cause suspicions of our enemies to rise.$B$BAlas, the time for complacency is at an end, especially with the situation in Eldre'Thalas. ",
+  "c": "Indeed, you are as resourceful as many claim. The Cenarion Circle is blessed to have you working in our stead.$b$bWith the Reliquary once more in our hands, my mind is at ease. I feel more comfortable asking you to not only face down a malfeasant demon, but also to bring back a dangerous item in the process..."
+ },
+ {
+  "id": 5528,
+  "t": "The Gordok Taste Test",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You da big boss now, so you get free sample of my better brews!  These drinks boost you up AND give you good buzz!  These are da good ones, chief... you try and tell Kreeg yourself!"
+ },
+ {
+  "id": 5529,
+  "t": "Plagued Hatchlings",
+  "o": "Kill 20 Plagued Hatchlings, then return to Betina Bigglezink at the Light's Hope Chapel.",
+  "d": "The Argent Dawn recently learned that the Scourge are creating their own plagued dragonflight!  We must stop them -- if the Scourge gain a force of dragons they'll sweep across Azeroth unchecked!$B$BTheir necromancers are breeding plagued dragons at the Scholomance, in the middle of Darrowmere Lake.$B$BGo to the Scholomance and kill as many hatchlings as you can... before they get any bigger!",
+  "p": "Get to the Scholomance, $N.  Take out those plagued hatchlings before they grow!",
+  "c": "Well done, $N!  It'll be a long time before they can grow another clutch of dragons.$B$B...At least, I hope it will!"
+ },
+ {
+  "id": 5531,
+  "t": "Betina Bigglezink",
+  "o": "Bring the Frozen Eggs to Betina Bigglezink.",
+  "d": "The eggs you brought were to be used in Scourge experiments to create a plagued dragonflight.  These frozen black dragon eggs would have been invaluable in their studies, and would have assuredly quickened their timetable.$B$BNow, it is time we ended their research.$B$BTake the frozen eggs to Betina Bigglezink outside.  She is well-learned in science and alchemy, and has produced a weapon we can use against the Scourge.  With your help, we will deal them a heavy blow.",
+  "p": "Hello, $N! I heard you were here with some dragon eggs? Well, let's see them!",
+  "c": "There they are! And in such a nice container. The perfect size!$b$bWe'll keep these eggs in a safe place so we can study them later, but right now we need that thing you brought them in.$b$bI have created a device with a very specific use: to destroy the undead scholars of the Scholomance. They are studying dragons in their efforts to create a plagued dragonflight, and we must halt their progress.$b$bI call the device Dawn's Gambit, because... I'm not sure if it works!$b$bWill you find out for us?"
+ },
+ {
+  "id": 5533,
+  "t": "Scholomance",
+  "o": "Speak with Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+  "d": "On the island of Caer Darrow lies Scholomance - a wretched center of Scourge necromancy and evil.  Our enemy dwells within, conducting unspeakable acts of depravity on unwitting victims... at least, we surmise as much.  A door bars the way, and try as we might no entry is to be had without a proper key.$B$BAlchemist Arbington is well versed on Scholomance, and has an idea how to obtain a key.  You have proved your worth to me, and now I entrust this task to you.  Speak with him on this matter.",
+  "p": "",
+  "c": "Well met, $c.  I've dedicated a fair portion of my recent studies to the Scholomance, and I believe I know a means by which you can acquire a key... one that will let you past the front door.$B$BI can only imagine what horrid sights are to be seen inside, $N.  I don't know how you heroic types do it sometimes..."
+ },
+ {
+  "id": 5534,
+  "t": "Kim'jael's \"Missing\" Equipment",
+  "o": "Find Some Rune that the naga have in their possession in the Ruins of Eldarath and return it to Kim'jael in Azshara.",
+  "d": "What?! What?!$B$BThat wasn't good enough for you? You know how expensive those explosives are? They sell for... oh, nevermind. Fine, you want to make some real money? Cause that's how business is done: you prove you're a valuable employee and then you're rewarded adequately after you stick it out some.$B$BIf you're a \"valuable\" employee, then hit the Ruins of Eldarath and find me some rune that them Blood elves were lookin' for. The naga apparently have it in their possession.",
+  "p": "Well, $N? Where is the rune? You are a good employee, right? You're here to help?$b$bDon't make me think twice about paying you what we agreed upon. What? Oh, we didn't agree on anything? Oh, great... then take your time--just know that it'll be a lot less if you take a long time.",
+  "c": "Haha! Wonderful!$b$bI'll be sure to find out what this is for and why Magus Rimtori--she's the cow that hired me--wanted it. Hah! I got you now, stinkin' Blood elves! Kim'jael! Ha! I'll teach them who the rats are!$b$bYa did good, $N. Thanks a bundle. Here, take this coin and be off with ya--I've got some things to figure out."
+ },
+ {
+  "id": 5535,
+  "t": "Spiritual Unrest",
+  "o": "Destroy 6 Highborne Apparitions and 6 Highborne Lichlings before returning to Loh'atu in Azshara.",
+  "d": "Long ago, the Highborne were some of the most powerful students of the arcane the night elves ever produced. The corruption that comes along with such studies caused much harm to night elf society and greatly affected all of Azeroth... as I'm sure you well know.$B$BI promised the Sentinels that I would release the spirits from their mortal bonds as I find them. If you would do the same, then I am sure I can reward you some.$B$BThe spirits haunt the Shadowsong Shrine to the northeast of here.",
+  "p": "How goes your search for the Highborne spirits, $c?$B$BMany events have caused all the races of Azeroth great suffering, but for some reason, these spirits seem to be a plague for all people. Perhaps it is there continued desire for any arcane magic--such desire is a harbinger of the Burning Legion, and we know what that can lead to.",
+  "c": "Well done, $c. Thank you for your help. The spirits are at peace, and the threats that their desire for the arcane draw have been lessened.$b$bI am sure that both sides of the conflict that ravishes Azeroth will see you are above such things."
+ },
+ {
+  "id": 5536,
+  "t": "A Land Filled with Hatred",
+  "o": "Kill 6 Haldarr Satyr, 2 Haldarr Tricksters, 2 Haldarr Felsworn and then return to Loh'atu on the border of Ashenvale.",
+  "d": "The satyr, a disfigured, evil aspect of the night elves, now infect the sacred lands once traveled by Cenarius. I cannot speak for the night elves when it comes to all the atrocities those demonic creatures have committed, but I have sworn an oath to the Earthmother to aid the elves in ridding the land of such a nuisance.$B$BI am sure you would prove yourself if you aided me in purging them.$B$BNortheast of here, you can find the Haldarr clan. Return to me after you've tested yourself against their power.",
+  "p": "How goes your battle against the satyr, $c?$B$BAre they as strong as you thought? Stronger? Or perhaps they were nothing to your own might.",
+  "c": "Well done, $c. I see you're not only skilled but cunning. To defeat such creatures is a testament to your loyalty to the tenants of the Earthmother, even if you do not recognize her as your own deity. She is in all things on this planet and beyond. Her eyes, one dark and one light, travel across the skies always gazing down upon us.$b$bPlease, take this small amount of coin in appreciation for what you have done."
+ },
+ {
+  "id": 5537,
+  "t": "Skeletal Fragments",
+  "o": "Bring 15 Skeletal Fragments to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+  "d": "The key to Scholomance is called a Skeleton Key.  It must be forged from the remains of a skeleton - several actually - and hardened by only the strongest of metals within a suitable mold.  A signet of power from a being who naturally can open the portal to Scholomance will make the key ultimately function.$B$BFirst thing's first though, $N.  We'll need skeletal fragments for the key's forging.  Skeletons inside Andorhal should yield what we need, but the ones outside the walls might work too.",
+  "p": "As morbid as it sounds, we'll need a decent supply of suitable skeletal fragments to make up the outer layer of the key.  They don't call it a Skeleton Key for nothing, you know.",
+  "c": "This'll work, $N!  My turn now - I will imbue these with a suitable temper that will allow them to survive the intense forging process they will eventually go through.$B$BThe next step will be to get an appropriate mold for the key.  I know a goblin blacksmith in Tanaris that has in the past made molds for similarly macabre items.  He works for whom goblins usually work for - the highest bidder."
+ },
+ {
+  "id": 5538,
+  "t": "Mold Rhymes With...",
+  "o": "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan.",
+  "d": "The goblin you will need to speak with is Krinkle Goodsteel.  He peddles his skills to the highest bidder in Gadgetzan, within the Tanaris desert.  He'll likely be the only one who can produce the mold we need, and his services won't come cheap.  We now ask for you to dig deep by footing whatever fee he will charge.$B$BI'm an alchemist, not a banker.  If I had gold lying around, I certainly wouldn't be here.$B$BI guess I said the quiet part out loud again.  Oops.$B$BGadgetzan awaits you!  Good luck!",
+  "p": "Yeah, I know who you are, and I know why you're here. Arbington sent word to me before you arrived. Let's cut to deal at hand, now shall we?$B$BI've got a mold you can use for the skeleton key, but it will cost you - fifteen gold, up front, no negotiation. I'll pack the skeletal fragments into the mold for you, and I'll also teach you on how to forge the stem of the key without any knowledge of blacksmithing... all free of charge no less.$B$BWho says mercenaries don't offer competitive deals!",
+  "c": "Arbington said you'd deliver the goods, and deliver you have! A deal is a deal; let me pack the fragments into the mold for you.$b$bDid Arbington imbue them already? Excellent... otherwise, it would have been a long trip back to the Chillwind Camp for you."
+ },
+ {
+  "id": 5541,
+  "t": "Ammo for Rumbleshot",
+  "o": "Bring Rumbleshot's Ammo to Hegnar Rumbleshot in Dun Morogh.",
+  "d": "Hegnar Rumbleshot sells guns off the road to Anvilmar.  Riflemen and mortar teams spend a lot of time practicing out near his shop, and he's always needing fresh ammunition.$B$BBut... the last crate of ammo I sent him got lost along the way.  My courier said he was camped near the Grizzled Den when wendigo chased him away... and the fool left Rumbleshot's ammo behind!$B$B$N, can you get that ammo and take it to Rumbleshot?  He's been waiting on it and I'm sure he's running low.",
+  "p": "I hope you're not here for ammo, because I'm almost out!",
+  "c": "Great, more ammo! Old Loslor's shipment finally came through! The ammo might be late, but just like my grand daddy used to tell me: late's better than never!$b$bThank you much, $N. I already have buyers eager for this stuff!"
+ },
+ {
+  "id": 5542,
+  "t": "Demon Dogs",
+  "o": "Slay 20 Plaguehound Runts, 5 Plaguehounds and 5 Frenzied Plaguehounds. Return to Tirion Fordring when the task is complete.",
+  "d": "If you are going to remain here, I ask only that you earn your keep. We have many nuisances that could use some 'discipline.'$B$BYou can start with the Plaguehounds and their runts.$B$BI cannot offer much in return, but you are guaranteed a warm meal and some conversation should you succeed.",
+  "p": "Do not pity the demon dogs, $r. They are abominations!",
+  "c": "Well done, $N. Come. Rest. Let us eat and talk of days long past!"
+ },
+ {
+  "id": 5543,
+  "t": "Blood Tinged Skies",
+  "o": "Slay 30 Plaguebats and return to Tirion Fordring.",
+  "d": "Woe to those that foolishly wander into the Plaguelands. All manner of foulness inhabit these woods - from the fanatical Scarlet Crusade, who will kill any that do not bear the mark of the Crusade, to the murderous Scourge, who only look to bolster their numbers by adding more undead to their ranks.$B$BEven the wildlife have been transformed into rapacious, man eating beasts. I ask that you destroy those that would strike from the skies: The Plaguebats.",
+  "p": "Do not underestimate the winged vermin, $r. The Plague has given them supernatural abilities.",
+  "c": "You are a shining example of decency, $r! It has been long since I have felt the blood of heroes pump through my veins. Your acts of bravery are uplifting!"
+ }
+]

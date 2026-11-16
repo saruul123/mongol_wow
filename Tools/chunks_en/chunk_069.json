@@ -1,0 +1,962 @@
+[
+ {
+  "id": 13453,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Howling Fjord bonfire!"
+ },
+ {
+  "id": 13454,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Grizzly Hills bonfire!"
+ },
+ {
+  "id": 13455,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Storm Peaks bonfire!"
+ },
+ {
+  "id": 13456,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13457,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Crystalsong Forest bonfire!"
+ },
+ {
+  "id": 13458,
+  "t": "Desecrate this Fire!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Desecrate the Horde's Zul'Drak bonfire!"
+ },
+ {
+  "id": 13459,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13460,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13461,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13462,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13463,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13464,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13465,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13466,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13467,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13468,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13469,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13470,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13471,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13472,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13473,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13474,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13476,
+  "t": "For Great Honor",
+  "o": "Bring a Mark of Honor from each battleground to a Horde Warbringer in any Horde capital city, Shattrath, Dalaran, or Wintergrasp.",
+  "d": "Serving the Horde in one of the great battles against the Alliance is a source of great honor!  The few however, that have served the Horde in ALL of our active battlefronts are our truly great fighters.  We shall vanquish our opponents, not by fighting isolated skirmishes, but by waging a well-coordinated war.$B$BGo forth and crush the Alliance on every front!  For Honor!  For the Horde!",
+  "p": "Arathi is still wet with the blood of great warriors and the clash of steel still rings throughout Alterac. Do not waste my time unless you bring news from the front!",
+  "c": "Your trials have not been easy, but your courage did not escape you and your strength did not fail. Part with past tokens of victory, $c. None shall need them as a reminder of your worth. Stand up straight, $N. Today you will walk with great pride for you are a hero!"
+ },
+ {
+  "id": 13478,
+  "t": "Concerted Efforts",
+  "o": "Bring a Mark of Honor from each battleground to an Alliance Brigadier General in any Alliance Capital City, Shattrath, Dalaran, or Wintergrasp.",
+  "d": "We're not fighting isolated battles against the Horde anymore, $g lad:lass;.$B$BVictory in one front means denying the Horde resources they'd use against us in a different battle.  By the same token, abandoning any given battle could give the advantage to our opponent somewhere else around the world.$B$BThe Alliance is in need of more combatants with this sort of worldly understanding... truly seasoned veterans!  $N, come back to me after you've served against the Horde at all of our active battlegrounds.",
+  "p": "How are yer travels faring $gladdie:lassy;?",
+  "c": "You're not one to disappoint, $N! What you've learned goes beyond petty medals and commendations. What you've learned is what can only come with experience and the hardening of one's temper in the field of battle.$b$bYou've done well, $c. You're a true hero of the Alliance!"
+ },
+ {
+  "id": 13479,
+  "t": "The Great Egg Hunt",
+  "o": "The Sping Gatherer wants you to get 20 shell fragments.",
+  "d": "Noblegarden, celebration of life and spring! I hope you've been enjoying the egg hunt, friend, because I could use the services of a capable individual like you.$b$bI'm not certain what form of magic was used in the creation of the eggs, and the druids aren't keen on explaining it to me. Perhaps you could collect some shell fragments for me during your egg collection. You can keep the contents of the eggs; all I require is a sufficient sample of the eggs themselves.",
+  "p": "Do you have the fragments?",
+  "c": "Excellent, excellent, thank you! I may need more of a sample to get truly conclusive results, but you've done well today."
+ },
+ {
+  "id": 13480,
+  "t": "The Great Egg Hunt",
+  "o": "The Spring Collector wants you to get 20 shell fragments.",
+  "d": "Noblegarden, celebration of life and spring! I hope you've been enjoying the egg hunt, friend, because I could use the services of a capable individual like you.$b$bI'm not certain what form of magic was used in the creation of the eggs, and the druids aren't keen on explaining it to me. Perhaps you could collect some shell fragments for me during your egg collection. You can keep the contents of the eggs; all I require is a sufficient sample of the eggs themselves.",
+  "p": "Do you have the fragments?",
+  "c": "Excellent, excellent, thank you! I may need more of a sample to get truly conclusive results, but you've done well today."
+ },
+ {
+  "id": 13481,
+  "t": "Let's Get Out of Here!",
+  "o": "Escort Father Kamaros to safety and then report to Brother Keltan aboard Orgrim's Hammer.",
+  "d": "The Light smiles upon me. I have not yet died in this living nightmare, but the Scourge will kill me and tear my body apart for use in their 'work' here if I cannot escape.$B$BI cannot make it on my own, $c, but with your help, I may yet live to fight the Scourge again.$B$BWill you help me make my escape before the Scourge's butchers come to finish me off?",
+  "p": "",
+  "c": "You have done well. We thought Father Kamaros lost, for certain. Your bravery will serve as an example to all those who oppose the Scourge."
+ },
+ {
+  "id": 13482,
+  "t": "Let's Get Out of Here",
+  "o": "Escort Father Kamaros to safety and then report to Absalan the Pious aboard the Skybreaker.",
+  "d": "The Light smiles upon me. I have not yet died in this living nightmare, but the Scourge will kill me and tear my body apart for use in their 'work' here if I cannot escape.$B$BI cannot make it on my own, my child, but with your help, I may yet live to fight the Scourge again.$B$BWill you help me make my escape before the Scourge's butchers come to finish me off?",
+  "p": "",
+  "c": "Thank the Light. I'd thought Father Kamaros dead, or worse. Through your bravery and compassion, you have restored a great ally to the Argent Crusade. You have my thanks and those of the crusade."
+ },
+ {
+  "id": 13483,
+  "t": "Spring Gatherers",
+  "o": "Talk to a Spring Gatherer in Razor Hill, Brill, Bloodhoof Village, or Falconwing Square.",
+  "d": "If you're looking for something to do, I hear there are mages in the settlements near capital cities - Razor Hill, Brill, Bloodhoof Village, and Falconwing Square - who have been recruiting egg hunters for help with some research they're doing. I'm not sure of the particulars, but I'm sure they'd tell you.",
+  "p": "",
+  "c": "Yes! Yes, I think I have just the task for you..."
+ },
+ {
+  "id": 13484,
+  "t": "Spring Collectors",
+  "o": "Talk to a Spring Collector in Goldshire, Kharanos, Dolanaar, or Azure Watch.",
+  "d": "If you're looking for something to do, I hear there are mages in the settlements near capital cities - Goldshire, Kharanos, Dolanaar, and Azure Watch - who have been recruiting egg hunters for help with some research they're doing. I'm not sure of the particulars, but I'm sure they'd tell you.",
+  "p": "",
+  "c": "Yes! Yes, I think I have just the task for you..."
+ },
+ {
+  "id": 13485,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Borean Tundra flame!"
+ },
+ {
+  "id": 13486,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Sholazar Basin flame!"
+ },
+ {
+  "id": 13487,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Dragonblight flame!"
+ },
+ {
+  "id": 13488,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Howling Fjord flame!"
+ },
+ {
+  "id": 13489,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Grizzly Hills flame!"
+ },
+ {
+  "id": 13490,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Storm Peaks flame!"
+ },
+ {
+  "id": 13491,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Crystalsong Forest flame!"
+ },
+ {
+  "id": 13492,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Zul'Drak flame!"
+ },
+ {
+  "id": 13493,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Borean Tundra flame!"
+ },
+ {
+  "id": 13494,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Sholazar Basin flame!"
+ },
+ {
+  "id": 13495,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Dragonblight flame!"
+ },
+ {
+  "id": 13496,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Howling Fjords flame!"
+ },
+ {
+  "id": 13497,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Grizzly Hills flame!"
+ },
+ {
+  "id": 13498,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Storm Peaks flame!"
+ },
+ {
+  "id": 13499,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Crystalsong Forest flame!"
+ },
+ {
+  "id": 13500,
+  "t": "Honor the Flame",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Honor the Zul'Drak flame!"
+ },
+ {
+  "id": 13501,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13502,
+  "t": "A Tisket, a Tasket, a Noblegarden Basket",
+  "o": "The Noblegarden Vendor wants you to collect 10 Noblegarden Chocolates and return them along with the Egg Basket.",
+  "d": "Here... take this Egg Basket and go hunting for Brightly Colored Eggs. Return to me with the basket when you've found ten Noblegarden Chocolates.",
+  "p": "Do you have the ten Noblegarden Chocolates?",
+  "c": "Well done! And here, please... keep the basket!$B$BRemember, you can always return with more Noblegarden Chocolates to trade for additional items."
+ },
+ {
+  "id": 13503,
+  "t": "A Tisket, a Tasket, a Noblegarden Basket",
+  "o": "The Noblegarden Merchant wants you to collect 10 Noblegarden Chocolates and return them along with the Egg Basket.",
+  "d": "Here... take this Egg Basket and go hunting for Brightly Colored Eggs. Return to me with the basket when you've found ten Noblegarden Chocolates.",
+  "p": "Do you have the ten Noblegarden Chocolates?",
+  "c": "Well done! And here, please... keep the basket!$B$BRemember, you can always return with more Noblegarden Chocolates to trade for additional items."
+ },
+ {
+  "id": 13524,
+  "t": "Escape from Silverbrook",
+  "o": "Open the Wooden Cage and help the Freed Alliance Scout escape from Silverbrook.  Report to Lieutenant Dumont when you reach Amberpine Lodge.",
+  "d": "You... you're not one of them?  Quick!  Let me out!$B$BWe have to get to Amberpine Lodge immediately!  Once Lieutenant Dumont finds out who these people really are, this town will be reduced to rubble!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13538,
+  "t": "Southern Sabotage",
+  "o": "Destroy Shadowsight Tower, Flamewatch Tower or Winter's Edge Tower and return to Tactical Officer Ahbramis in Wintergrasp.",
+  "d": "The three towers south of the Wintergrasp river are draining power from the Fortress! $B$BDestroy Shadowsight Tower, Flamewatch Tower or Winter's Edge Tower, then return to me. Remember, only siege vehicles can damage a tower, so make sure to protect them from the Horde!",
+  "p": "Do you bring word from the south?",
+  "c": "I heard the explosion from here! Excellent job - we've already begun rerouting the power into the Titan relic to super-charge our own forces."
+ },
+ {
+  "id": 13548,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 13549,
+  "t": "Tails Up",
+  "o": "Chronicler To'kini at Zim'Torga wants you to use To'kini's Blowgun on Frost Leopards and Icepaw Bears. Return to him with 3 females of each.",
+  "d": "Along with the Drakkari artifacts, I'm interested in returning to Zandalar with some of the Zul'Drak wildlife. I have males of both the frost leopards and icepaw bears, but I need females!$B$BToo bad that my trapper was killed in a most unfortunate accident. Perhaps you would be willing to fill in for him?$B$BPut the leopards and bears to sleep with this blowgun then lift their tails and return with some females if you would be so kind. They can be found near the Altars of Rhunok, Quetz'lun, and Har'koa.",
+  "p": "No, that just won't do. Please return when you have the female leopards and bears that I'll need for the arduous journey back home.",
+  "c": "Very fine specimens indeed, $N! These are sure to provide many hours of curious speculation amongst my colleagues back home."
+ },
+ {
+  "id": 13556,
+  "t": "Eggs for Dubra'Jin",
+  "o": "Ha'wana at Dubra'Jin needs you to collect 12 Gundrak Raptor Eggs.",
+  "d": "How ya doin', mon? Thinkin' ya might be helpin' me out? Bah'Kini be needin' lots o' the raptor eggs to be sacrificin' to Dubra'Jin.$B$BHow ya thinkin' we not be overrun yet by the Drakkari? Dubra'Jin be lendin' us his aid!$B$BWe need ya to gather up the raptor eggs from around the trees outside here in Gundrak. Sometimes the raptors carry 'em to keep 'em warm, too.",
+  "p": "Who woulda thought the great Dubra'Jin be wantin' so many eggs? What he gonna do with them anyway?",
+  "c": "One, two, three,... hehe, that be a good number o' them, mon! Now we be safe for quite some time!"
+ },
+ {
+  "id": 13559,
+  "t": "Hodir's Tribute",
+  "o": "",
+  "d": "",
+  "p": "No ordinary tributes were good enough for the great Hodir when he walked among the frost giants.$B$BHe might not be with us anymore, but we've kept the tradition of offering tribute to his strength and wisdom.  It would do much for your renown to partake in this tradition, small $c.",
+  "c": "The Sons of Hodir accept your tribute, small one.  You continue to prove your worth as an ally in more ways than one."
+ },
+ {
+  "id": 13571,
+  "t": "Fletcher's Lost and Found",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Above the stale, unwashed stench, you catch a whiff of a familiar smell!  It appears as if this once-mighty adventurer has a real love for kungaloosh.$b$bPeeking through the bars, you can barely make out the recipe written on his arm...."
+ },
+ {
+  "id": 13592,
+  "t": "A Valiant's Field Training",
+  "o": "Sir Marcus Barlowe at the Argent Tournament Grounds wants you to kill 10 Converted Heroes.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.$B$BTravel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "Welcome back from your exercises, $N. Even while we practice for the competition, it's good to remind ourselves that the Scourge is still out there."
+ },
+ {
+  "id": 13593,
+  "t": "Valiant Of Stormwind",
+  "o": "Speak with Marshal Jacob Alerius again if you wish to become a valiant of Stormwind.",
+  "d": "Welcome, champion. Word of your combat prowess has already reached my ears. Do you seek to join Stormwind's tournament delegation?$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Stormwind, your squire will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "We are proud that you have agreed to train with us and compete on our behalf."
+ },
+ {
+  "id": 13600,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Marshal Jacob Alerius at the Argent Tournament Grounds.",
+  "d": "Of all the times to have such rotten luck!$B$BMy tournament blade has gone missing and I need it for a match this afternoon.$B$BOne of the bards tells me that travelers used to present winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to Drak'Mar lake in northeastern Dragonblight, near its border with Zul'Drak and Grizzly Hills.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "<The marshal accepts the Blade of Drak'Mar from you.>$B$BA fine weapon, and perfectly balanced. It will serve me well in the next match."
+ },
+ {
+  "id": 13603,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Marshal Jacob Alerius at the Argent Tournament Grounds.",
+  "d": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So the tales were true? This is a fine blade and I have no doubt that it will serve me well in the tournament. You have my thanks, $N."
+ },
+ {
+  "id": 13604,
+  "t": "Archivum Data Disc",
+  "o": "Bring the Archivum Data Disc to the Archivum Console in Ulduar.",
+  "d": "This platinum disc is surprisingly symmetrical and devoid of any scratches or imperfections.  Engraved along its edge, bold runes spell out the word \"ARCHIVUM.\"$B$BThere must be a device inside Ulduar capable of reading the disc.",
+  "p": "The console whirrs with energy as the round receptacle opens.",
+  "c": "The platinum disc fits perfectly inside the console. It begins to spin as its contents are scanned by white beams of light."
+ },
+ {
+  "id": 13606,
+  "t": "Freya's Sigil",
+  "o": "Prospector Doren at the Archivum in Ulduar wants you to obtain Freya's Sigil.$B$BFor more information on obtaining Freya's Sigil consult the Archivum Console.",
+  "d": "Freya's Sigil is going to be one of the tougher ones, I reckon.$B$BAccording to the Archivum, the essence of the Sigil is tied to her three elder servants, Brightleaf, Ironbranch and Stonebark.  Should any of the elders be harmed, the Sigil's integrity will be compromised.$B$BSparing the elders, however, means that Freya will be more powerful when you face her.$B$BWhat can I say, $N.  We're stuck between a rock and hard place.",
+  "p": "Freya's sigil, $N? Do ye have it?",
+  "c": "Excellent job, $N. We're one step closer to saving Azeroth!"
+ },
+ {
+  "id": 13607,
+  "t": "The Celestial Planetarium",
+  "o": "Prospector Doren at the Archivum in Ulduar wants you to locate the entrance to the Celestial Planetarium.",
+  "d": "Listen, $glad:lass;!  Azeroth's fate is at stake here.$B$BOur only chance is to get to the Celestial Planetarium in time to find this Algalon and stop him from beaming back any messages to his Titan masters.$B$BLocate the Celestial Planetarium and come back with any information you get.  We might still have some time to prepare for Algalon's arrival.",
+  "p": "",
+  "c": "It's locked? Figures!$b$bLet's see what information this junk heap can give us..."
+ },
+ {
+  "id": 13609,
+  "t": "Hodir's Sigil",
+  "o": "Prospector Doren at the Archivum in Ulduar wants you to obtain Hodir's Sigil.$B$BFor more information on obtaining Hodir's Sigil, consult the Archivum Console.",
+  "d": "Hodir's Sigil won't be easy to obtain.  Not only are ye going to have to defeat Hodir himself, but yer going to have to do it before he destroys the chest that contains it!$B$BCheck the Archivum console if you need more information.  That thing contains more knowledge than all of the world's libraries put together!",
+  "p": "Did ye obtain the sigil, $N?",
+  "c": "Ye did it! I don't know how, but ye did!"
+ },
+ {
+  "id": 13610,
+  "t": "Thorim's Sigil",
+  "o": "Prospector Doren at the Archivum in Ulduar wants you to obtain Thorim's Sigil.$B$BFor more information on obtaining Thorim's Sigil consult the Archivum Console.",
+  "d": "Thorim's not himself, $N.  He's come under a dark influence.$B$BAn evil presence under the guise of an illusion pretends to be his lost wife, Sif.$B$BYe can't let him be overcome by this impostor's spell.  If he does, the location of his sigil might forever be lost!$B$BYer going to have to beat some sense into him and yer going to have to do it quick.$B$BAs always, the Archivum Console will give ye all the gory details... even the ones ye don't like.",
+  "p": "Well, $N? Do ye have it?",
+  "c": "Ye never cease to impress, $N.$b$bYe and me are having a pint together after all this is done, ye hear me?"
+ },
+ {
+  "id": 13611,
+  "t": "Mimiron's Sigil",
+  "o": "Prospector Doren at the Ulduar Archivum wants you to obtain Mimiron's Sigil.$B$BFor more information on obtaining Mimiron's Sigil consult the Archivum Console.",
+  "d": "Mimiron's a clever one.  His entire abode is rigged with some sort of self-destruction mechanism.$B$BUnfortunately yer gonna have to race against it if ye want to get his sigil.  Check the Archivum Console for more details if ye need them.",
+  "p": "Were you able to obtain the sigil, $N?",
+  "c": "I've got to hand it to you, $N. Our odds might not be the best, but I feel a lot better with you lending a hand."
+ },
+ {
+  "id": 13614,
+  "t": "Algalon",
+  "o": "Bring the Sigils of the Watchers to the Archivum Console in Ulduar.",
+  "d": "You really did it, $N.  Take the sigils to the Archivum Console and see if you can gain access to the Celestial Planetarium.$B$BYou best hurry, $g lad:lass;.  Time is of the essence.",
+  "p": "The console's bright lights scan the glass surface repeatedly, as if awaiting some form of input.",
+  "c": "Stand by for verification.$b$bAccess to the Celestial Planetarium granted. Please retrieve your key."
+ },
+ {
+  "id": 13616,
+  "t": "The Edge Of Winter",
+  "o": "Marshal Jacob Alerius at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "Curse that death knight for breaking my sword!$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade I seek?",
+  "c": "The blade is as fine as the stories say. It would seem there's little reason to complete the repairs on my customary blade. Winter's Edge is far superior and I will continue to carry it. You have my thanks, $N."
+ },
+ {
+  "id": 13622,
+  "t": "Ancient History",
+  "o": "Bring the Shattered Fragments of Val'anyr to the Archivum Console in the Archivum in Ulduar.",
+  "d": "The pieces fit together to form an elegant hammer.  Its construction appears to be at least partially Titan in nature.$B$BThe console inside the Archivum might have some information regarding this artifact.",
+  "p": "Awaiting input.",
+  "c": "Analyzing fragments... please stand by."
+ },
+ {
+  "id": 13625,
+  "t": "Learning The Reins",
+  "o": "Strike a Melee Target with Thrust 5 times, use Shield-Breaker on 2 vulnerable Ranged Targets, use Charge on 2 vulnerable Charge Targets and then return to Scout Shalyndria at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or the Silver Covenant Pavilion.",
+  "d": "Most of the tournament's competitions require competitors to master the command of a mount in battle. In order to familiarize you with mounted combat, we've put up training dummies all over the northern part of the tournament grounds.$B$BVisit the stables outside the pavilion, equip your lance, and mount up on the Quel'dorei steed. Familiarize yourself with the tactics available to you and use them to defeat the three different kinds of training dummies. ",
+  "p": "How goes the mounted combat practice?",
+  "c": "Well done, $N. Mounted combat is often hard to pick up for those accustomed to fighting on foot. I have no doubt that you'll continue to improve with practice, which is more than I can say for some warriors."
+ },
+ {
+  "id": 13627,
+  "t": "Jack Me Some Lumber",
+  "o": "Bring 12 Rough Hewn Planks to Bezzle Blastbolt at the Argent Tournament Grounds.",
+  "d": "Come closer. No, not too close. Don't want any unnecessary suspicion now, do we?$B$BThis coliseum requires more lumber than we've stockpiled and there's no way I'm going to pay to have it shipped in from Grizzly Hills. At the western end of Crystalsong Forest, by the Great Tree, grow a number of young Crystalsong oaks. They'd provide just the kind of planking we need for building and scaffolding. Take this axe, use it to fell the trees and then hew them into planks, but don't let anyone see you!",
+  "p": "Did you get the \"goods\" we talked about?",
+  "c": "All excellent planks, and the price is right, too! Even better, those Argent Crusade sticks-in-the-mud will never know. They'll get their precious coliseum and I'll get my early completion bonus. Now that's a win-win if I ever saw one."
+ },
+ {
+  "id": 13629,
+  "t": "Val'anyr, Hammer of Ancient Kings",
+  "o": "Throw the Shattered Pieces of Val'anyr into Yogg-Saron's maw while he's casting Deafening Roar and defeat Yogg-Saron and recover the Reforged Hammer of Ancient Kings.$B$BThis can only be completed in Heroic mode and only if at least one Ulduar Watcher is not assisting you.",
+  "d": "The Archivum Console has hinted at a possible way to rebind the fragments of Val'anyr:  you must get the fragments inside the physical form of the being known as Yogg-Saron.$B$BIt sounds like a long shot, but for an artifact of such power you think the risk might just be worth it.",
+  "p": "Awaiting input.",
+  "c": "Object integrity confirmed. Please hold while solidified residue is removed."
+ },
+ {
+  "id": 13631,
+  "t": "All Is Well That Ends Well",
+  "o": "Take the Reply-Code Alpha to Rhonin in Dalaran.",
+  "d": "We'd best hurry now, $N.  We're going to have to transmit the reply-code from Dalaran.$B$BTake it to Rhonin, I will meet you there.",
+  "p": "You're ready, $N?",
+  "c": "You're here. Let us hope this works. For all our sakes."
+ },
+ {
+  "id": 13633,
+  "t": "The Black Knight of Westfall?",
+  "o": "Investigate the Black Knight's claims and return to Crusader Rhydalla at the Argent Tournament Grounds with your findings.",
+  "d": "No doubt you've heard the disturbing rumors about the contestant the others are calling the Black Knight. It's said that any rider who was scheduled to face him in combat has met an untimely end.$B$BOf course, we have no definitive proof of anything, but it wouldn't hurt to look into this knight's background.$B$BHe claims to be descended from the Cooper family of Westfall. Would you visit their residence in the western part of Moonbrook in Westfall? See if you can find any proof of his story.",
+  "p": "Have you found anything related to the Black Knight's story?",
+  "c": "So you're saying this knight's story is a sham? Most suspicious. Dishonorable at the least, and murderous at the worst. Still, we can't confront him until we know for certain whether he was involved in these murders.$B$BDo nothing to arouse his suspicions, $N. Discretion will serve us well as we continue to investigate."
+ },
+ {
+  "id": 13634,
+  "t": "The Black Knight of Silverpine?",
+  "o": "Investigate the Black Knight's claims and return to Crusader Rhydalla at the Argent Tournament Grounds with your findings.",
+  "d": "No doubt you've heard the disturbing rumors about the contestant the others are calling the Black Knight. It's said that any rider who was scheduled to face him in combat has met an untimely end.$B$BOf course, we have no definitive proof of anything, but it wouldn't hurt to look into this knight's background.$B$BHe claims to hail from Valgan's Field in Silverpine Forest. It's a small farm on the western shore of Lordamere Lake. Would you visit the farm and let me know if there's any truth to his story?",
+  "p": "Have you found anything related to the Black Knight's story?",
+  "c": "So you're saying this knight's story is a sham? Most suspicious. Dishonorable at the least, and murderous at the worst. Still, we can't confront him until we know for certain whether he was involved in these murders.$B$BDo nothing to arouse his suspicions, $N. Discretion will serve us well as we continue to investigate."
+ },
+ {
+  "id": 13641,
+  "t": "The Seer's Crystal",
+  "o": "Bring a Seer's Crystal to Crusader Rhydalla at the Argent Tournament Grounds.",
+  "d": "Now that we know there's no truth to the Black Knight's stories, we must find a way to connect him to the murdered knights.$B$BI know a way to reveal the truth about how they died, but it requires a rare material. We must gain a seer's crystal, found only among the unbound seers who congregate near night elf ruins in the Forlorn Woods in the central part of Crystalsong Forest. Find one of these seers, $N, and bring me the crystal it holds.",
+  "p": "Have you located a seer's crystal?",
+  "c": "This one will do nicely. All that remains is to imbue it with the power of the Light, giving it the ability to find truth amid deception."
+ },
+ {
+  "id": 13643,
+  "t": "The Stories Dead Men Tell",
+  "o": "Use the Seer's Crystal at the graves of Sir Wendell Balfour, Lorien Sunblaze, and Conall Irongrip to determine how they died, then return to Crusader Rhydalla.",
+  "d": "The crystal will reveal the truth about how three of the tournament's combatants died. Take it with you to the graveyard east of the Tournament Grounds and use it before the graves of Sir Wendell Balfour, Lorien Sunblaze, and Conall Irongrip.$B$BIf indeed these men were murdered, then we must find a way to tie it to the Black Knight before he strikes again. Look closely at what the crystal tells you, $N, for we must be certain these deaths were not accidental.",
+  "p": "Have you visisted the graves of the slain combatants?",
+  "c": "So you say Lorien Sunblaze was done in by poison and Sir Wendell was burnt alive? Dreadful ways to die, both of them. Only Conall was killed by cold steel, and from your description, it was a coward's strike, not honorable combat that laid him in his grave.$B$BAll three sparred with and were scheduled to fight the Black Knight. This cannot be a coincidence. Now, we must find a way to prove it was the Black Knight's work."
+ },
+ {
+  "id": 13649,
+  "t": "Justin's Fun Test",
+  "o": "Use the Complimentary Brewfest Sampler to hit S.T.O.U.T. 5 times, then talk to Boxey Boltspinner.",
+  "d": "Hey there!  You look like you can handle your brew.  But can you handle your brew mug? $b$bThe Dark Irons have come back with a vengeance to ruin our celebration.  Tossing mugs at them is the best way to stop them, but first, let's see if you can toss one at old S.T.O.U.T. here.$b$bIt's easy, pick up a complimentary sampler and take a drink.  Just make sure you're facing S.T.O.U.T.  Talk to me after you've hit him 5 times.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13654,
+  "t": "There's Something About the Squire",
+  "o": "Obtain a Large Femur from a Skeletal Woodcutter and use it to incapacitate Maloric. Search Maloric for evidence, then report back to Crusader Rhydalla at the Argent Tournament Grounds.",
+  "d": "Every day, the Black Knight's squire, Maloric, makes a big show of heading to Crystalsong Forest with his axe over his shoulder. He wants us to believe he's chopping wood, but he never returns with more than a few twigs.$B$BHe usually goes toward the ruins southwest of the Mirror of Twilight. He spends a lot of time out there, even for a squire with responsibilities to his knight.$B$BFind a way to distract or incapacitate him and search him. If he's up to something, we'll know it.",
+  "p": "Did the squire's behavior yield any clues?",
+  "c": "<Crusader Rhydalla examines the bag's contents with a look of disgust on her face.>$B$BIt's all here, $N: the poison that killed Lorien, a collection of knives, torches, and oil. No man has cause to possess these things here and no squire would do so without orders from his knightly master. We've found our murderer, $N, but who is he working for?"
+ },
+ {
+  "id": 13662,
+  "t": "Gaining Acceptance",
+  "o": "",
+  "d": "",
+  "p": "You've worked your way up through the Brotherhood's corporate hierarchy, $r. We have begun to look favorably upon you. Quite an accomplishment!$B$BIf you're interested in more work and earning more respect amongst us, listen up.$B$BWe can refine the fiery flux by adding a simple Dark Iron residue to the mix. The Dark Iron residue can be found in Blackrock Depths.$B$BBring me all the Dark Iron residue you find!",
+  "c": "Keep the residue pouring in!"
+ },
+ {
+  "id": 13663,
+  "t": "The Black Knight's Orders",
+  "o": "Use the Enchanted Bridle to gain control of the Black Knight's Gryphon and ride it to its destination. Once you have arrived, recover the Stolen Tournament Invitation and the Black Knight's Orders and bring them to Crusader Rhydalla at the Argent Tournament Grounds.",
+  "d": "We must discover who sent the Black Knight to the tournament and what his master hopes to gain by killing the competitors.$B$BThe Kirin Tor has offered to help in this matter and provided us with something to help our search.$B$BTake this enchanted bridle to the Black Knight's camp on the eastern edge of the tournament grounds and use it to gain control over the Black Knight's gryphon. The bridle's magic will force the gryphon to take you to his master's home. Search it and return with anything you find.",
+  "p": "What did you discover?",
+  "c": "<Crusader Rhydalla's face pales as she reads the orders.>$B$BThis can only mean one thing, $N. The Black Knight is a member of the Cult of the Damned and has been sent by Arthas to disrupt the tournament!$B$BThe Black Knight has proven himself a fearsome combatant, and you will need to be every bit as good if you wish to face him. When you are a champion, return to me and we'll find a way to ensure his defeat."
+ },
+ {
+  "id": 13664,
+  "t": "The Black Knight's Fall",
+  "o": "Defeat the Black Knight and then speak to Crusader Rhydalla at the Argent Tournament Grounds.",
+  "d": "We must put an end to the Black Knight's scheming, and show those who oppose us that we will not stand by and allow our champions to be murdered.$B$BBy now, he will suspect that someone is on his trail. Challenge him in the light of day, where he cannot refuse or murder in the dark, $N.$B$BUse my argent charger for the battle. It's housed in the stables.$B$BSpeak to Squire Cavin at the Ring of Champions. The squire will call the Black Knight to battle, but you will make him answer for his crimes.",
+  "p": "",
+  "c": "With the death of the Black Knight, the tournament may once again serve its purpose. The champions of the Horde and Alliance may demonstrate their skill at arms and train for the day when Arthas and his minions will no longer threaten us.$B$BYou have the thanks of the Argent Crusade, $N, and that of all who have answered our call."
+ },
+ {
+  "id": 13665,
+  "t": "The Grand Melee",
+  "o": "Bring 3 Marks of the Valiant to Captain Joseph Holley at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "The grand melee is the most important of the tournament's competitions. The people of Stormwind adore their knights and are looking forward to seeing us win the melee. To that end, they've been honing their skills against the other valiants.$B$BI suggest you do the same.$B$BGo to the stables outside the pavilion, equip your lance, mount the stabled Elwynn steed, and challenge the valiants. They wait in the Alliance Valiants' Ring just outside our tent.$B$B",
+  "p": "Have you completed your training for the grand melee?",
+  "c": "Well done. Training against the other valiants is one of the best ways to prepare yourself for tournament competition. I know you'll make Stormwind proud, $N."
+ },
+ {
+  "id": 13666,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Arcanist Taelis at the Argent Tournament Grounds.",
+  "d": "Some of the champions believe an ancient weapon born of Northrend will bring them luck in the tourney. I have agreed to help them search for these weapons.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So there is some truth to those old tales? It seems they did not lie about the quality of the blade. Well done, $N. The champion who wields it will be a lucky man, indeed."
+ },
+ {
+  "id": 13667,
+  "t": "The Argent Tournament",
+  "o": "Speak with Arcanist Taelis at the Argent Tournament grounds to enroll in the tournament.",
+  "d": "We have invited you here to test your skill and valor against others who have bravely opposed the Scourge. Many have been our divisions, but the time has come for heroes fighting under all banners to test their blades against one another in preparation for facing our mutual enemy.$B$BArcanist Taelis is the Silver Covenant's representative to the tournament and he'll enter your name into the rolls and begin your training. Seek him out inside the large Alliance tent in the northeastern part of the grounds.",
+  "p": "",
+  "c": "I have entered your name in the rolls, $N. As an aspirant you will train with others who wish to compete in the tournament and hone your mounted combat skills. Once you have proven yourself, you will be allowed to enter the lowest rank of competition on behalf of your capital city."
+ },
+ {
+  "id": 13668,
+  "t": "The Argent Tournament",
+  "o": "Speak with Magister Edien Sunhollow at the Argent Tournament grounds to enroll in the tournament.",
+  "d": "We have invited you here to test your skill and valor against others who have bravely opposed the Scourge. Many have been our divisions, but the time has come for heroes fighting under all banners to test their blades against one another in preparation for facing our mutual enemy.$B$BMagister Edien Sunhollow is the Sunreaver representative to the tournament and he'll enter your name into the rolls and begin your training. Seek him out inside the large Horde tent in the southeastern part of the grounds.$B",
+  "p": "",
+  "c": "I have entered your name in the rolls, $N. As an aspirant you will train with others who wish to compete in the tournament and hone your mounted combat skills. Once you have proven yourself, you will be allowed to enter the lowest rank of competition on behalf of your capital city."
+ },
+ {
+  "id": 13669,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Arcanist Taelis at the Argent Tournament Grounds.",
+  "d": "Our champions have taken a liking to ancient weapons produced here in Northrend.$B$BI've heard the bards telling tales of travelers offering winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to the circle of lamps in Drak'Mar Lake in northeastern Dragonblight, near Zul'Drak and Grizzly Hills. Ask the lonely maiden for a worthy blade.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "There's no doubt that this is a blade of exquisite quality and balance. Now I understand why these weapons are so coveted among the champions of the Alliance."
+ },
+ {
+  "id": 13670,
+  "t": "The Edge Of Winter",
+  "o": "Arcanist Taelis at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "The Ironforge grand champion's squire told me an intriguing story.$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the squire said it would be, but where did he find out about it? No matter; it will serve its new owner well. Perhaps it's only fair that Ironforge's grand champion be the one to wield it."
+ },
+ {
+  "id": 13671,
+  "t": "Training In The Field",
+  "o": "Avareth Swiftstrike at the Argent Tournament Grounds wants you to kill 8 Icecrown Scourge. You may kill Scourge in any part of Icecrown except the Bombardment.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you learn to master mounted combat, do not forget to practice the skills that have served you well all these years. Show us that you can face the Scourge with honor and bravery, and you will earn your right to compete in this tournament.$B$BTravel to Icecrown and slay any Scourge you see there, but stay clear of the Bombardment, where you would be overwhelmed.",
+  "p": "Have you tested yourself in combat against the Scourge?",
+  "c": "You have shown yourself a capable combatant, $N and you will serve as an example to the rest of the aspirants who clamor to compete on behalf of the Alliance."
+ },
+ {
+  "id": 13672,
+  "t": "Up To The Challenge",
+  "o": "Present Arcanist Taelis at the Argent Tournament with 15 Aspirant's Seals to signify you're ready to undergo the aspirant's challenge.",
+  "d": "When you have mastered the skills of the aspirant, you may choose to take the aspirant's challenge. The challenge will test your mounted combat skills and assess whether or not you're prepared to become a valiant. Should you pass, you will be able to join your capital city's delegation as a valiant.$B$BWhen you are ready to begin the challenge, return to me.",
+  "p": "Do you wish to take the aspirant's challenge?",
+  "c": "Very well, I will make the arrangements."
+ },
+ {
+  "id": 13673,
+  "t": "A Blade Fit For A Champion",
+  "o": "Retrieve the Ashwood Brand and bring it to Magister Edien Sunhollow at the Argent Tournament Grounds.",
+  "d": "Some of the champions believe an ancient weapon born of Northrend will bring them luck in the tourney. I have agreed to help them search for these weapons.$B$BThere's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, $N. Otherwise, you'll catch warts.",
+  "p": "Were you able to recover the blade?",
+  "c": "So there is some truth to those old tales? It seems they did not lie about the quality of the blade. Well done, $N. The champion who wields it will be a lucky man, indeed."
+ },
+ {
+  "id": 13674,
+  "t": "A Worthy Weapon",
+  "o": "Bring the Blade of Drak'Mar to Magister Edien Sunhollow at the Argent Tournament Grounds.",
+  "d": "Our champions have taken a liking to ancient weapons produced here in Northrend.$B$BI've heard the bards telling tales of travelers offering winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to the circle of lamps in Drak'Mar Lake in northeastern Dragonblight, near Zul'Drak and Grizzly Hills. Ask the lonely maiden for a worthy blade.",
+  "p": "Were the wandering bard's tales true? Have you brought a blade?",
+  "c": "There's no doubt that this is a blade of exquisite quality and balance. Now I understand why these weapons are so coveted among the champions of the Alliance."
+ },
+ {
+  "id": 13675,
+  "t": "The Edge Of Winter",
+  "o": "Magister Edien Sunhollow at the Argent Tournament Grounds wants you to bring him Winter's Edge.",
+  "d": "I heard an interesting story from one of the Ogrimmar valiants.$B$BIn southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.$B$BBring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.$B$BProve your worth and earn the weapon that she has guarded for so long, $N.",
+  "p": "Did you win the blade?",
+  "c": "The blade is as fine as the valiant said it would be, but where did he find out about it? No matter; it will serve its new owner well. Perhaps it's only fair that Orgrimmar's grand champion be the one to wield it."
+ },
+ {
+  "id": 13676,
+  "t": "Training In The Field",
+  "o": "Amariel Sunsworn at the Argent Tournament Grounds wants you to kill 8 Icecrown Scourge. You may kill Scourge in any part of Icecrown except the Bombardment.",
+  "d": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you learn to master mounted combat, do not forget to practice the skills that have served you well all these years. Show us that you can face the Scourge with honor and bravery, and you will earn your right to compete in this tournament.$B$BTravel to Icecrown and slay any Scourge you see there, but stay clear of the Bombardment, where you would be overwhelmed.",
+  "p": "",
+  "c": "You have shown yourself a capable combatant, $N and you will serve as an example to the rest of the aspirants who clamor to compete on behalf of the Horde."
+ },
+ {
+  "id": 13677,
+  "t": "Learning The Reins",
+  "o": "Strike a Melee Target with Thrust 5 times, use Shield-Breaker on 2 vulnerable Ranged Targets, use Charge on 2 vulnerable Charge Targets, and then return to Galathia Brightdawn at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or the Sunreaver Pavilion.",
+  "d": "Most of the tournament's competitions require competitors to master the command of a mount in battle. In order to familiarize you with mounted combat, we've put up training dummies all over the northern part of the tournament grounds.$B$BVisit the stables outside the pavilion, equip your lance, and mount up on the Sunreaver hawkstrider. Familiarize yourself with the mount and use its abilities to defeat the three different kinds of training dummies. $B",
+  "p": "",
+  "c": "Well done, $N. Mounted combat is often hard to pick up for those accustomed to fighting on foot. I have no doubt that you'll continue to improve with practice, which is more than I can say for some warriors."
+ },
+ {
+  "id": 13678,
+  "t": "Up To The Challenge",
+  "o": "Present Magister Edien Sunhollow at the Argent Tournament with 15 Aspirant's Seals to signify you're ready to undergo the aspirant's challenge.",
+  "d": "When you have mastered the skills of the aspirant, you may choose to take the aspirant's challenge. The challenge will test your mounted combat skills and assess whether or not you're prepared to become a valiant. Should you pass, you will be able to join your capital city's delegation as a valiant.$B$BWhen you are ready to begin the challenge, return to me.",
+  "p": "Do you wish to take the aspirant's challenge?",
+  "c": "Very well, I will make the arrangements."
+ },
+ {
+  "id": 13679,
+  "t": "The Aspirant's Challenge",
+  "o": "Speak with Squire David to summon your opponent. Once you have defeated the Argent Valiant, return to Arcanist Taelis at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You have trained hard as an aspirant, $N, and now the time has come to test your mounted combat skills against a skilled opponent.$B$BEquip your lance, then go to the stables outside the pavilion and mount up on the stabled Quel'dorei steed.$B$BAt the Aspirants' Ring on the northern side of the tournament grounds, you'll find Squire David. He'll make certain that you're ready for the fight and call out your opponent.$B$BGood luck, $N. May your horse be steady and your aim true.",
+  "p": "Have you faced your challenge?",
+  "c": "Congratulations are in order, $N. You have bested your challenger and earned the right to advance to the rank of valiant."
+ },
+ {
+  "id": 13680,
+  "t": "The Aspirant's Challenge",
+  "o": "Speak with Squire David to summon your opponent. Once you have defeated the Argent Valiant, return to Magister Edien Sunhollow at the Argent Tournament Grounds.",
+  "d": "You have trained hard as an aspirant, $N, and now the time has come to test your mounted combat skills against an experienced opponent.$B$BEquip your lance, then go to the stables outside the pavilion and mount the Sunreaver hawkstrider.$B$BAt the Aspirants' Ring on the northern side of the tournament grounds, you'll find a human child called Squire David. He'll ask if you're ready for the fight and call out your opponent.$B$BGood luck, $N. May your mount be steady and your aim true.",
+  "p": "Have you faced your challenge?",
+  "c": "Congratulations are in order, $N. You have bested your challenger and earned the right to advance to the rank of valiant."
+ },
+ {
+  "id": 13681,
+  "t": "A Chip Off the Ulduar Block",
+  "o": "Bring 15 Small Stone Blocks to Bozzle Blastbolt at the Argent Tournament Grounds.",
+  "d": "Getting stone for this job has been a nightmare, I tell ya! There are tons of stone available from ruins in safe places, but those holier-than-thou paladins won't go for it. Something about 'priceless artifacts.'$B$BAnyway, whining about that isn't going to get this place built. There are tons of crumbling titan ruins in the Foot Steppes and at the Inventor's Library in Storm Peaks. Take my, uh, 'chisel' with you and see if you can break those huge blocks into useful pieces.",
+  "p": "Did you get that stone?",
+  "c": "These should do. Just don't go around blabbing to those crusaders about where you got them from. I'm sure they'll get upset. But, hey, it's not like the titans have come back for them. They're fair game, I say. Good work, $N."
+ },
+ {
+  "id": 13682,
+  "t": "Threat From Above",
+  "o": "Eadric the Pure at the Argent Tournament wants you to defeat Chillmaw and 3 Cultist Bombardiers.",
+  "d": "Highlord Tirion Fordring has doubled the guard since your exposure of the Cult of the Damned's infiltrator. He doesn't believe that they will stop just because their Black Knight has been defeated.$B$BOur skytalon scouts have reported sighting a frost wyrm named Chillmaw leading a cult raiding party. If we don't intercept them, the tournament will come under attack. The scouts reporting seeing Chillmaw to the southwest, flying over the area between the Ironwall Rampart and Aldur'thar.",
+  "p": "Have you defeated the Cult of the Damned raiding party?",
+  "c": "$N, you and your allies have spared the tournament from a devastating attack. Though our skytalon riders are brave, they  have their hands full keeping the peace on the tournament grounds and would be hard-pressed to defend the skies against the cult's attack. You have the thanks of the Argent Crusade and all who have gathered here to compete."
+ },
+ {
+  "id": 13684,
+  "t": "A Valiant Of Stormwind",
+  "o": "Speak with Marshal Jacob Alerius at the Argent Tournament Grounds  to become a valiant of Stormwind.",
+  "d": "You've proven yourself worthy of competing under the banner of Stormwind, $N. Now, you should introduce yourself to Marshal Jacob Alerius, who leads the Stormwind delegation. As Stormwind's grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "Welcome aboard then, Valiant $N. The Stormwind delegation is proud to count you among its members."
+ },
+ {
+  "id": 13685,
+  "t": "A Valiant Of Ironforge",
+  "o": "Speak with Lana Stouthammer at the Argent Tournament Grounds  to become a valiant of Ironforge.",
+  "d": "You've proven yourself worthy of competing under the banner of Ironforge, $N. Now, you should introduce yourself to Lana Stouthammer, who leads the Ironforge delegation. As Ironforge's grand champion, she will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "It's good to meet you, valiant. Ironforge needs competitors like you to prevail in the tournament."
+ },
+ {
+  "id": 13688,
+  "t": "A Valiant Of Gnomeregan",
+  "o": "Speak with Ambrose Boltspark at the Argent Tournament Grounds  to become a valiant of Gnomeregan.",
+  "d": "You've proven yourself worthy of competing under the banner of Gnomeregan, $N. Now, you should introduce yourself to Ambrose Boltspark, who leads the Gnomeregan delegation. As the gnomish grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "Welcome aboard then, Valiant $N. The Gnomeregan delegation is proud to count you among its members."
+ },
+ {
+  "id": 13689,
+  "t": "A Valiant Of Darnassus",
+  "o": "Speak with Jaelyne Evensong at the Argent Tournament Grounds  to become a valiant of Darnassus.",
+  "d": "You've proven yourself worthy of competing under the banner of Darnassus, $N. Now, you should introduce yourself to Jaelyne Evensong, who leads the Darnassus delegation. As the night elf grand champion, she will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "Welcome to the Darnassus tournament delegation, $N. It will be a pleasure to train and compete alongside you."
+ },
+ {
+  "id": 13690,
+  "t": "A Valiant Of The Exodar",
+  "o": "Speak with Colosos at the Argent Tournament Grounds  to become a valiant of the Exodar.",
+  "d": "You've proven yourself worthy of competing under the banner of the Exodar, $N. Now, you should introduce yourself to Colosos, who leads the Exodar delegation. As the draenei grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "Welcome aboard then, Valiant $N. The Exodar's delegation is proud to count you among its members."
+ },
+ {
+  "id": 13691,
+  "t": "A Valiant Of Orgrimmar",
+  "o": "Speak with Mokra the Skullcrusher at the Argent Tournament Grounds  to become a valiant of Orgrimmar.",
+  "d": "You've proven yourself worthy of competing under the banner of Orgrimmar, $N. Now, you should speak with Mokra the Skullcrusher, who leads Orgrimmar's competitors. As Orgrimmar's grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "So you want to compete for Orgrimmar? Just because you've beaten up a few dummies doesn't mean you'll win, but you'll be training with the best from now on."
+ },
+ {
+  "id": 13692,
+  "t": "The Sword and the Sea",
+  "o": "Old Man Barlo in Crystalsong Forest wants you to bring him the Sword of Knighthood.",
+  "d": "My sword was lost at sea.  Catch it and bring it back!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 13693,
+  "t": "A Valiant Of Sen'jin",
+  "o": "Speak with Zul'tore at the Argent Tournament Grounds  to become a valiant of Sen'jin.",
+  "d": "You've proven yourself worthy of competing under the banner of Sen'jin, $N. Now, you should speak with Zul'tore who leads Sen'jin's warriors. As the troll grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "You think you have what it takes to compete for Sen'jin? I think we'll be finding out."
+ },
+ {
+  "id": 13694,
+  "t": "A Valiant Of Thunder Bluff",
+  "o": "Speak with Runok Wildmane at the Argent Tournament Grounds  to become a valiant of Thunder Bluff.",
+  "d": "You've proven yourself worthy of competing under the banner of Thunder Bluff, $N. Now, you should speak with Runok Wildmane, who leads Thunder Bluff's competitors. As Thunder Bluff's grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "On behalf of Thunder Bluff and its warriors, I welcome you, $N. Always fight honorably and bravely beneath our banner."
+ },
+ {
+  "id": 13695,
+  "t": "A Valiant Of Undercity",
+  "o": "Speak with Deathstalker Visceri at the Argent Tournament Grounds  to become a valiant of the Undercity.",
+  "d": "You've proven yourself worthy of competing under the banner of the Undercity, $N. Now, you should speak with Deathstalker Visceri, who leads the Undercity delegation. As grand champion, he will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "Welcome to the Undercity delegation. $N. As a valiant, you'll train with us to prepare you for the highest level of competition."
+ },
+ {
+  "id": 13696,
+  "t": "A Valiant Of Silvermoon",
+  "o": "Speak with Eressea Dawnsinger at the Argent Tournament Grounds  to become a valiant of Silvermoon.",
+  "d": "You've proven yourself worthy of competing under the banner of Silvermoon, $N. Now, you should speak with Eressea Dawnsinger, who leads the Silvermoon delegation. As Silvermoon's grand champion, she will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.$B$BIt has been an honor working with you, $N, and I wish you luck in the competition ahead.",
+  "p": "",
+  "c": "So you want to compete for Silvermoon? Very well. I'll add you to the rolls and you may begin working with the other valiants immediately."
+ },
+ {
+  "id": 13697,
+  "t": "The Valiant's Charge",
+  "o": "Bring 25 Valiant's Seals to Mokra the Skullcrusher at the Argent Tournament Grounds.",
+  "d": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.$B$BThe valiants are a spirited lot, competing amongst themselves for honor and notoriety.$B$BTrain as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
+  "p": "Are you ready to demonstrate your mastery of the valiant's skills?",
+  "c": "Impressive, valiant. I will make the arrangements for your test immediately."
+ },
+ {
+  "id": 13699,
+  "t": "The Valiant's Challenge",
+  "o": "Speak with Squire Danny to summon your opponent. Once you have defeated the Argent Champion, return to Marshal Jacob Alerius at the Argent Tournament Grounds.$B$BIf you lose your lance, you can get another from any of the Lance Racks near the stables or in the Silver Covenant Pavilion.",
+  "d": "You are nearly ready to compete on behalf of Stormwind in the grand melee. To prove yourself worthy to enter the lists on behalf of our city, you must defeat a champion of the Argent Crusade.$B$BGo to the stables outside the pavilion, equip your lance, and mount up. Speak to Squire Danny at the Argent Valiants' Ring on the western edge of the grounds. The squire will call out your opponent when you're ready.$B$BAfter the battle is concluded, we will speak of the outcome.",
+  "p": "",
+  "c": "You have proven yourself worthy of the title of champion, $N. You will compete at the tournament's highest level on behalf of Stormwind, riding in the grand melee with your weapon at the ready and our mighty pennant at your back."
+ },
+ {
+  "id": 13702,
+  "t": "A Champion Rises",
+  "o": "Speak with Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Congratulations, $N. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.$B$BJusticar Mariel Trueheart has asked to speak with you, $N, and to formally enter you in the champions' grand melee.",
+  "p": "",
+  "c": "I welcome you as a champion of the tournament, $N. As a champion, you will be able to compete for the grand championship of the tournament. You may also choose to become a valiant with another Alliance city's delegation and in time, a champion for that city as well.$B$BAll champions must have the assistance of a squire, $N, and you are no exception. Allow me to appoint one of ours to accompany you in battle. He will proudly carry the banner of any city that has named you a champion."
+ },
+ {
+  "id": 13703,
+  "t": "Valiant Of Ironforge",
+  "o": "Speak with Lana Stouthammer again if you wish to become a valiant of Ironforge.",
+  "d": "Welcome, champion. Word of your combat prowess has already reached my ears. Do you seek to join Ironforge's tournament delegation?$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Ironforge, your squire will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "We are proud that you have decided to join us and I know you will shine on the field."
+ },
+ {
+  "id": 13704,
+  "t": "Valiant Of Gnomeregan",
+  "o": "Speak with Ambrose Boltspark again if you wish to become a valiant of Gnomeregan.",
+  "d": "Welcome, champion. Word of your combat prowess has already reached my ears. Gnomeregan's delegation could really benefit from a $c like you.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Gnomeregan, your squire will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "We're proud to count you among us, $N, and we look forward to training with you."
+ },
+ {
+  "id": 13705,
+  "t": "Valiant Of The Exodar",
+  "o": "Speak with Colosos again if you wish to become a valiant of the Exodar.",
+  "d": "Welcome, champion. Word of your deeds has already reached my ears. Do you wish to join the Exodar's tournament delegation?$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of the Exodar, your squire will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "It's good to have you on our team, $N. We will all benefit from training with you."
+ },
+ {
+  "id": 13706,
+  "t": "Valiant Of Darnassus",
+  "o": "Speak with Jaelyne Eveonsong again if you wish to become a valiant of Darnassus.",
+  "d": "Welcome, champion. I have heard of your accomplishments and we would be honored if you would join the delegation from Darnassus.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Darnassus, your squire will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "The warriors of Darnassus are honored to fight and train beside you."
+ },
+ {
+  "id": 13707,
+  "t": "Valiant Of Orgrimmar",
+  "o": "Speak with Mokra the Skullcrusher again if you wish to become a valiant of Orgrimmar.",
+  "d": "So, you have become a champion? Then, you have proven yourself a worthy combatant and I would proudly welcome you into Orgrimmar's delegation.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Orgrimmar, your gruntling will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "Welcome, then, $N. I look forward to watching you train with my men."
+ },
+ {
+  "id": 13708,
+  "t": "Valiant Of Sen'jin",
+  "o": "Speak with Zul'tore again if you wish to become a valiant of Sen'jin.",
+  "d": "Greetings, champion. If you are willing, I would welcome you into Sen'jin's tournament delegation.$B$BYou will train and rise through the ranks as you have before, but when you are named a champion of Sen'jin, your gruntling will have the option of carrying our banner into battle.",
+  "p": "",
+  "c": "I am glad that you have decided to join us and look forward to seeing you in action."
+ }
+]

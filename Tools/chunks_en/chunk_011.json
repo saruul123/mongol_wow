@@ -1,0 +1,962 @@
+[
+ {
+  "id": 1468,
+  "t": "Children's Week",
+  "o": "Use the Human Orphan Whistle to talk with the child you will be looking after during Children's Week.",
+  "d": "You're willing to help us here at the orphanage?  Bless you, friend; your aid during Children's Week will be invaluable.$B$BTake this whistle.  You will only be able to use it for a short amount of time - typically not longer than Children's Week itself.  When you use it, you will be able to talk with the child you've agreed to look after.  Using it again will dismiss the child.$B$BBy all means $N - use the whistle and meet your ward!  I'm sure the child will be most eager to meet you.",
+  "p": "",
+  "c": "Um... hi. My name is Randis and I guess you're looking after me? You're an adventurer, like my mom and dad were. I'm happy to meet you.$B$BI hope we'll have a lot of fun together. I have some things I'd like to do and the matron says you'll be like a big $gbrother:sister; to me during this week. I'd like that a whole bunch, yes $gsir:lady;."
+ },
+ {
+  "id": 1469,
+  "t": "Rhapsody's Tale",
+  "o": "Bring the Atal'ai Tablet Fragment to Brohann Caskbelly in Stormwind.",
+  "d": "Before the flight, I drank me a whole keg of stout. Hiccup!$b$bAnd what a flight it was. Zipping around with Brohann following me. Didn't see no temple though. Hiccup!$b$bWell, didn't see no temple till I got a little too tipsy and fell off my mount. I plunged right into the water and was sucked down. Found myself surrounded by a bunch of creepy trolls. Sure swam out of there fast! Even made off with this troll souvenir. Here, take it to Brohann and let him know his temple is down there, indeed. Hiccup!",
+  "p": "At long last you have returned, $N. It has been quite some time since we last spoke. I thought perhaps you had forgotten about my quest.$B$BDid you locate that wily gryphon rider? Did he have anything to report?",
+  "c": "Rhapsody Shindigger! That's right... how could I forget such a name?$B$BSo he knew about the sinking of the temple all along? Well, that certainly would have saved you some leg work.$B$BBut this Atal'ai artifact! Why, it's quite a find!"
+ },
+ {
+  "id": 1470,
+  "t": "Piercing the Veil",
+  "o": "Bring Venya Marthand 3 Rattlecage Skulls.",
+  "d": "Greetings, child. I can see that you are still young in the ways of the warlock, power still eluding your grasp. I can sense your eagerness to learn.$b$bAnd you will learn.$b$bThere is no strength in ignorance. Knowledge is our greatest power. Through its application, we can control the chaotic magics and beings of the void, bending them to our will.$b$bI will show you how to bind a servant to your will, but first you must bring me three skulls of the rattlecage skeletons near the abandoned smithy.",
+  "p": "Your power is little now, though I suspect already you sense the possibilities.$b$bEven the dead might feel alive, with that power coursing through us.",
+  "c": "Though you are still untested and young in your learning, you have proven that you possess sufficient ability to master the summoning and binding of an imp. Do not be deceived by an imp's size. Though it lacks physical strength, it possesses powers and a cleverness that will serve you well.$b$bAttend me carefully, $N, for I will not repeat this lesson, and I will leave its mastery to you."
+ },
+ {
+  "id": 1471,
+  "t": "The Binding",
+  "o": "Using the Runes of Summoning, summon and subdue a voidwalker, then return the Runes of Summoning to Carendin Halgar in the Magic Quarter of the Undercity.",
+  "d": "Surely you have seen the circle of summoning below us? Only there will you be able to draw forth an unbound voidwalker.$b$bUsing these runes, you will be able to draw it forth, and then you must dominate it through strength of arms and magic.$b$bWhen it is subdued, it will be indentured to you. Come to me then, and I will elucidate the spell of summoning, so that it may serve you to whatever end you wish.",
+  "p": "I expect to hear of your success, $N. Not meeting my expectations will be the least of your worries, however, should you fail.",
+  "c": "You have done well, $N. Now, I will impart to you the spell used for summoning the voidwalker.$B$BThe power that it unleashed upon you is now yours to command. Use it wisely."
+ },
+ {
+  "id": 1472,
+  "t": "Devourer of Souls",
+  "o": "Speak with Godrick Farsan in the Temple of the Damned.",
+  "d": "A succubus is a devourer of souls, destroyer of hearts, tempter of men. A creature of profound evil and of singular mind.$b$bIt cannot be brought into our world without a stimulus.$b$bThus we use its own strength against it. With the hearts of good men, pure men, loving men, the succubus will be unable to resist, and will cross into our world. Then you can dominate it, and make it your own.$b$bSpeak with my assistant, Godrick Farsan, within the Temple. He will help you find your bait.",
+  "p": "",
+  "c": "You were sent by Carendin? Sithel, then.$b$bDo not think light of me because my sight is gone. I see things that lie behind now, with clarity I had never known. What I once thought a curse, is now a boon."
+ },
+ {
+  "id": 1473,
+  "t": "Creature of the Void",
+  "o": "Recover Egalin's Grimoire and bring it to Carendin Halgar in the Temple of the Damned.",
+  "d": "It seems the consensus that you are ready to learn to summon a voidwalker.$b$bA being created of the chaos that lies beyond, if you summon one but cannot control it, you will be torn asunder.$b$bThe first voidwalker was summoned by Egalin, and in his grimoire is the process explained.$b$bUnfortunately, it was stolen from us by an agent of the Scarlet Crusade who has it secreted away in his base at a tower to the west. Bring it to me, and I will impart the knowledge to you.",
+  "p": "Egalin was the teacher that taught me. With hardly a look, he was able to command the voidwalker he had summoned.$B$BWhen it came my turn to try, I was overconfident. Do not trifle with the powers that you wield, $N, they can consume even the vigilant.",
+  "c": "Ah, this is excellent. Like as not, Perrine was ignorant to the true power of the musty book he had stolen from us.$B$BIt will not fall out of our hands again. Observe, $N, the structure of the spell, the manner in which your power must be channeled."
+ },
+ {
+  "id": 1474,
+  "t": "The Binding",
+  "o": "Using the Pure Hearts, summon and subdue a succubus, then return the Pure Hearts to Carendin Halgar in the Magic Quarter of the Undercity.",
+  "d": "Using these hearts, cast a spell at the summoning circle to open a doorway for the succubus to come through. Your powers are greater now, and you will need all of them to defeat the succubus. $b$bBeware its charms, $n, many a strong mind has been bound to its will. When overcome, the succubus will be returned to the void, and I will teach you the spell to summon it forth at your command.",
+  "p": "Of the powers from beyond the void, the succubus is one of the most dangerous, as the weak are most easily wrapped around its fingers.$B$BRemember that now and in the future.",
+  "c": "Again, you have done well, $N. It has been quite some time since I have seen a young $c with as much potential as you. Be assured that I will continue to watch your progress, and prepare and assist you in your future trials.$B$BFor now, let me show you the summoning spell for your newly dominated succubus."
+ },
+ {
+  "id": 1475,
+  "t": "Into The Temple of Atal'Hakkar",
+  "o": "Gather 10 Atal'ai Tablets for Brohann Caskbelly in Stormwind.",
+  "d": "According to legend, The Temple of Atal'Hakkar is a holy shrine dedicated to the ancient god, Hakkar the Soulflayer. Maintained by a vicious tribe of trolls named the Atal'ai, the temple is rumored to be impenetrable.$b$bNow sunk beneath the Pool of Tears, retrieving artifacts from the temple is even more difficult. But that's what I need you to do, $n.$b$bAid me by gathering the intact Atal'ai Tablets. Bring them to me and I will return to the Explorers' Guild a hero. Together we will share the glory.",
+  "p": "As dusk slowly descends upon my career I turn to you, $N, to help me in my final quest for the Explorers' League. If my old bones could muster the strength to brave the Swamp of Sorrows and the sunken temple I would be fighting right alongside you.$B$BPride makes it hard for me to ask for your help in collecting the Atal'ai Tablets. But old age forces the necessity.$B$BPlease help me, $N. I want to retire from the Explorers' League having completed their final bidding.",
+  "c": "The Atal'ai Tablets! Thank you, $N!$B$BOnce I deliver these to the Explorers' League our names shall go down in history together. You have helped an old dwarf fulfill his final obligation in life. For that I am eternally grateful."
+ },
+ {
+  "id": 1476,
+  "t": "Hearts of the Pure",
+  "o": "Bring the hearts of Dalin Forgewright and Comar Villard to Carendin Halgar in the Temple of the Damned.",
+  "d": "Men of honor and goodness? Does such a man exist?$b$bIt took much research, but through bits of overheard stories, I managed to find two men that should do.$b$bThe first is Dalin Forgewright, who has dedicated himself to the care of the Lordaeron refugees, whom are refused by their kin at the Greymane Wall.$b$bThe other is Comar Villard, a man who remains faithful to his lost love, wandering the Wetlands for a sign of his wife.$b$bDeliver their hearts to Carendin. But first, let me show you your quarry.",
+  "p": "I have been pleasantly surprised by the speed of your progress so far, $N. Bring me the hearts and you will impress me once again.",
+  "c": "The heart of a goodly man seems much the same as any, when you see it like this, don't you think?$B$BPerhaps we possess something of a... different... view on the subject. These will do, though. I have no doubt that a succubus would be attracted by their purity."
+ },
+ {
+  "id": 1477,
+  "t": "Vital Supplies",
+  "o": "Speak with Watchmaster Sorigal at Darkshire in Duskwood.",
+  "d": "Our mages are conducting research at Nethergarde Keep in the Blasted Lands, research vital to our understanding of the Dark Portals. They require nearly constant supplies, but our supply line to Nethergarde is tenuous.$B$BYou must help ensure the supplies make it to Nethergard.  Report to Watchmaster Sorigal in Darkshire, and do as he asks.  This task will take you into hostile lands, $N.  Prepare yourself.",
+  "p": "",
+  "c": "Andromath sent you? Very good. I have an important task for you..."
+ },
+ {
+  "id": 1478,
+  "t": "Halgar's Summons",
+  "o": "Speak with Carendin Halgar in the Undercity.",
+  "d": "Ah, $n! I just received word from Carendin Halgar that he would like to see you for further training.$b$bYou should be proud of yourself, $n. It's not every day that Master Halgar personally sees fit to instruct a young warlock.$b$bYou'll be able to find him in the Magic Quarter of the Undercity, near the Temple of the Damned.",
+  "p": "",
+  "c": "Good, I see Ageron managed to find you, $N. Let us waste little time with small talk and pleasantries and focus on your training. There is still much you have to learn."
+ },
+ {
+  "id": 1479,
+  "t": "The Bough of the Eternals",
+  "o": "Take the orphan to the bank of Darnassus.  The bank itself is hollowed out of a tree known as the Bough of the Eternals.",
+  "d": "I've heard stories about how the night elves have their bank in a tree - one that looks like a bear!  That's so cool!  Night elves are neat how they like nature and stuff, but bears are just totally awesome!$B$BWould you take me to see the bear-tree in Darnassus, please?  There's a boat that will take us close to there, and it shouldn't take very long.  Please, please, please!",
+  "p": "Are we there yet?",
+  "c": "Wow, it was cooler than I even imagined - the Bough of the Eternals! I didn't think it'd be so big, but it was! Did you see the bird on top of it too?! I wonder how they got the branches to look like that!$B$BThanks for taking me to Darnassus, $N. You're awesome!"
+ },
+ {
+  "id": 1480,
+  "t": "The Corrupter",
+  "o": "Bring the Flayed Demon Skin to Maurin Bonesplitter in Desolace.",
+  "d": "The torn skin smells rotten, and is remarkably pliable for something that appears to be dry and fragile.$B$BAs you unroll it, you can clearly see the red markings of some kind of language on one side. At the bottom of the skin is a very clear symbol that you guess is a signature of some kind.$B$BPerhaps it is something Maurin could tell you more about?",
+  "p": "The Burning Blade begin to realize how weak they truly are. Their magics are pathetic, their strength feeble.$B$BTheir only power comes from those they serve, and not from any understanding of true power and knowledge.",
+  "c": "Hmm, these runes are indeed a language, $N, an old language. They seem remotely similar to the Eredun language, but the differences are drastic. If I am not mistaken, this is a contract of some kind.... Here, yes, this symbol is the demon's signature: Lord Azrethoc."
+ },
+ {
+  "id": 1481,
+  "t": "The Corrupter",
+  "o": "Bring a Shadowstalker Scalp to Maurin Bonesplitter in Desolace.",
+  "d": "I believe I can find this demon lord given the proper reagents.$B$BIf he is indeed as powerful as I suspect, I will need items gathered from deadly creatures. But you act in the Warchief's name, so I am sure you will accept my task.$B$BFirst, I will have to break any wards he has against scrying. For this, I will need the scalp from a satyr--but not any satyr. The scalp must come from a Hatefury shadowstalker.$B$BSearch for them among the ancient ruins in the northeast of Desolace.",
+  "p": "Do not bring me an incorrect scalp, $c. Using the incorrect reagents could cause our deaths. The demon lord may have contingency spells on his person to slay those who would scry upon him.$B$BFate has already dealt me enough pain.",
+  "c": "The shadowstalkers were unable to slay you, $c. Impressive... most impressive.$B$BThis scalp will do nicely for my spell. While you were away, I was able to gather some of the other reagents needed for the spell.$B$BI am almost ready. I only need a focus for the spell--something to project an image of the demon lord and his whereabouts."
+ },
+ {
+  "id": 1482,
+  "t": "The Corrupter",
+  "o": "Bring an Oracle Crystal to Maurin Bonesplitter in Desolace.",
+  "d": "An oracle crystal would do nicely. They are crafted by the naga for their oracles to use.$B$BNorthwest of here, along the coast, is a vast coral reef that the naga have taken as their home when this close to the shore. You can find their oracles there. The Slitherblade are deadly and will not react kindly to your intrusions, so be careful and make haste.$B$BWhen you return, we shall see about finding this demon lord Azrethoc.",
+  "p": "I am ready for the oracle crystal, $c. Finding and destroying this Lord Azrethoc would garner a great deal of favor with the Warchief for both of us. We would do well to work together and to do so swiftly so we may further our own ends and curry favor with the Warchief. ",
+  "c": "A precious oracle crystal... flawless... beautiful. Indeed.$B$BWe shall begin immediately. Finding this demon lord should be our primary concern, and its slaying demands our utmost attention.$B$BTake a step back, $c, and let us see what this demon is, and where he may be found."
+ },
+ {
+  "id": 1483,
+  "t": "Ziz Fizziks",
+  "o": "Speak with Ziz Fizziks in Windshear Crag in Stonetalon Mountains.",
+  "d": "The Venture Company stole many of the best goblin minds, but from time to time, we get the opportunity to steal some back.$b$bA while ago, the Venture Company outfit in the Stonetalon Mountains hired Gerenzo Wrenchwhistle--a gnome! Their other engineer, Ziz Fizziks, was so taken aback by this, he pleaded with me to find him new employment with the Tinkers' Union. I set him on a few tasks, but he might need help.$b$bMaybe you could look in on him for me? He's stationed at the western edge of Windshear Crag.",
+  "p": "",
+  "c": "I thought those Venture Company higher-ups were slave drivers, but then I met Sputtervalve, the cruelest of them all!$b$bHa! Though it's better than being out of a job, I suppose... Or worse, working with that Gerenzo. If you're here to help, I've got something for you to do."
+ },
+ {
+  "id": 1484,
+  "t": "The Corrupter",
+  "o": "Speak to Takata Steelblade in Desolace.",
+  "d": "This creature is far more dangerous than I had anticipated.  No doubt Takata questions my abilities to take on such a creature, and it would insult his honor if he were not informed about what just happened.$B$BSpeak to the swordsman, tell him you are willing to slay the demon if he would allow it, but do not press too hard. It is better if he thinks it his own idea.",
+  "p": "",
+  "c": "I witnessed what just occurred with Maurin and the demon lord. That creature, even as an apparition, seems to have more power than my warlock companion. I wonder if he's up to the task of defeating the monster? It would serve the Warchief better if I go myself, but with my responsibilities here, I would disgrace my clan if I turned my back on my duties here to battle this evil for my own honor."
+ },
+ {
+  "id": 1485,
+  "t": "Vile Familiars",
+  "o": "Bring 6 Vile Familiar Heads to Ruzan.",
+  "d": "Those warlocks who came before us have earned the distrust of the Horde, and while we are tolerated, we are not loved.$b$bThis has not brought the warlocks closer together, however, as many choose to live reclusively, dabbling in their magics alone. I will not seek to lead you down one path or the other, but only help you in your maturation.$b$bBefore I teach you the art of summoning, bring me six heads of the vile familiars from the cave to the northeast.",
+  "p": "It is important that you can control the beings that you summon through your magic. There are few enough interested in learning the ways of the $C that I would risk throwing your life away by teaching you something before you are ready.",
+  "c": "Throughout your training as a $c, you will learn to call forth beings of many sorts. Some may not seem it, but all are useful tools.$B$BDo not be fooled by the imp's small size. As you no doubt noticed, it is still a formidable adversary."
+ },
+ {
+  "id": 1488,
+  "t": "The Corrupter",
+  "o": "Slay Lord Azrethoc and Jugkar Grim'rod and return to Takata Steelblade in Desolace.",
+  "d": "Although I have no knowledge of this Lord Azrethoc, I agree with Maurin, he must be stopped; especially if he is attempting to gain influence over the Burning Blade to further his goals.$B$BYou have already shown you wish to aid the Warchief, and I would trust you to gather a party to slay the demon lord and his warlock servant.$B$BWhen you are ready, head directly south,  and return to me when the threat has been ended.",
+  "p": "Glory to the Horde, and death to our enemies, $N!$B$BThe demons in Desolace pose a greater threat than ever before. My hope of returning to the Warchief dwindles as more and more of the foul creatures seem to appear.$B$BI sometimes wish it was only the centaur we had to deal with.",
+  "c": "A mighty victory for us all, $N. Let us rejoice in your success. I trust now that our future here is not as bleak as I once thought.$B$BThe demons will be slain, the Burning Blade will fail in their efforts, and we may one day have a place we can safely call home again."
+ },
+ {
+  "id": 1489,
+  "t": "Hamuul Runetotem",
+  "o": "Speak with Hamuul Runetotem.",
+  "d": "The shells you brought me have a taint, one I have never before seen.  I am certain the water of the Oases is the cause, and I can sense the confusion they cause this land.  It is as if the land dreams and cannot awake.$B$BThe Wailing Caverns must be the source of the taint.  But before you go there, speak with Hamuul Runetotem, the elder druid.  I sent word to him of the happenings in the Barrens.  He is wise, and can offer you counsel.$B$BYou will find him in Thunder Bluff, on the Elder Rise.",
+  "p": "Your masters are fools to send you here, for I will never again be a Scourge slave!",
+  "c": "I bid you greetings, $N. You are welcome here, and I suggest you gather all your strength. For the task we now set before you ... is a dire one."
+ },
+ {
+  "id": 1490,
+  "t": "Nara Wildmane",
+  "o": "Speak with Nara Wildmane.",
+  "d": "I entered the land of dreams, and dreamed of a cult of druids who dwell in the Wailing Caverns.  I saw that their goals were once noble, but they have lost their way.  They are now servants of the taint seeping through the Barrens.$B$BI am old and my strength fails.  I could not long dwell in that dreaming place and know little more of the tainted druids.  But Nara is young and her spirit is fierce.  She remained in the dreaming when I fled.$B$BSpeak with Nara.  She is in the tent, over yonder.",
+  "p": "",
+  "c": "Yes, it is true. I know of the druids in the Wailing Caverns. I have seen their twisted, scaled faces. I know their crimes, and I know their plans.$b$bYou must stop them, $N."
+ },
+ {
+  "id": 1492,
+  "t": "Wharfmaster Dizzywig",
+  "o": "Bring the Secure Crate to Wharfmaster Dizzywig in Ratchet.",
+  "d": "I have need to send a crate of potions, reagents and other items to my associates in the Old World. Little time I have to actually see them to the dock at Ratchet, and the last caravan has already left.$b$bIf you could, please take this to Wharfmaster Dizzywig. He will ensure that it is placed on the next boat to Blackwater Cove.",
+  "p": "You seek passage on the next ship, or have some item you wish to send aboard it?",
+  "c": "A small enough crate. Yes, I should be able to find room for this aboard the ship. It sails with the next tide, I trust this is soon enough? Excellent. Let me just enter it into my ledger.$B$BAll taken care of! Good day to you, $c."
+ },
+ {
+  "id": 1498,
+  "t": "Path of Defense",
+  "o": "Bring 5 Singed Scales to Uzzek at Far Watch Post in the Barrens.",
+  "d": "As a warrior, one of our most crucial tasks is... protection.  We are the shield of the Horde, and we keep our weaker brethren safe.  If you are to join in our ranks, then you must prove your mettle to me.$B$BGo to Thunder Ridge in Durotar, where live the lightning hides and thunder lizards.  Hunt the beasts!  Show me you are tougher than they!  Brave their assaults and bring me a stack of their singed scales as proof.$B$BDo this, and then I will teach you.",
+  "p": "Do you have the scales, $N? Unless you can withstand the attacks of the thunder lizards, you will not benefit from my instruction.",
+  "c": "Ah. I see you have defeated the thunder lizards, which proves you are tough. Now I will show you how tough skin and shrewd movements can combine to form an impenetrable wall of defense.$b$bLearn your lesson well, $N. And be ready for future instruction."
+ },
+ {
+  "id": 1499,
+  "t": "Vile Familiars",
+  "o": "Speak with Zureetha Fargaze.",
+  "d": "Zureetha has been sending novices like yourself to help cull the numbers of the creatures in the cave near where you fought the vile familiars.$b$bI think it would be good for you to gain experience by assisting her. Be sure to tell her that you assisted with the imp problem, she'll probably have a reward for you.",
+  "p": "",
+  "c": "You have done well, $N.$b$bAlthough the vile familiars were merely pets of the darker powers within the Burning Blade, your success against them foretells greater deeds ahead."
+ },
+ {
+  "id": 1501,
+  "t": "Creature of the Void",
+  "o": "Retrieve the Tablet of Verga for Gan'rul Bloodeye in Orgrimmar.",
+  "d": "So few warlocks remain... We risk much, but the risks are warranted. You must quickly reach maturity in your ability if you are to be of use to the Horde and to the Warchief.$b$bIt is time that you learned a new summoning spell.$b$bFirst, you must recover the Tablet of Verga, which was stolen by warlocks of the Burning Blade and is now kept at their lair in Skull Rock to the east of the city. With the tablet, I will show you the runes necessary to summoning a voidwalker.",
+  "p": "Do you have the Tablet of Verga, $N? If not, I do not wish to speak with you until you do.",
+  "c": "Good. I hope you inflicted some other losses on the Burning Blade when you went to retrieve this.$B$BThey have been a source of great annoyance for the Warchief, and a great blight upon warlocks as a whole."
+ },
+ {
+  "id": 1502,
+  "t": "Thun'grim Firegaze",
+  "o": "Speak with Thun'grim Firegaze in the Barrens.",
+  "d": "It is vital that a warrior's weapon is one of quality.  And if there is an orc who can craft quality weapons, then that orc is Thun'grim Firegaze.  He is a hermit who dwells atop the hills east of the Crossroads.$B$BIf you seek a weapon, warrior, then you should seek Thun'grim.  To find him, first travel to the Crossroads to the west, then strike east into the hills.  His camp is high on a hilltop.",
+  "p": "",
+  "c": "My eyes have long dried out from staring into the forge's flame, but some things I can still see. I can see you want something.$b$bAnd if you found your way here, then I can guess what you desire."
+ },
+ {
+  "id": 1503,
+  "t": "Forged Steel",
+  "o": "Bring the Forged Steel Bars to Thun'grim Firegaze in the Barrens.",
+  "d": "I will give you a weapon, $N, but first you must aid me.  The Razormanes to the northwest came into my camp a few nights past.  They would not meet me in combat, but they know my eyes are bad--a few distracted me with snorts while others stole from me!  The cowards!$B$BThey took an iron chest, and within it were some forged steel bars.  If you can recover them then I will give you the weapon you seek.$B$BSearch for the iron box within the quilboar camps, and return with the forged steel bars.",
+  "p": "Do you have my steel bars?",
+  "c": "You found them! And all the bars are here, which doesn't surprise me. I didn't think the Razormanes would know what to do with fine steel like this.$b$bThank you, $N. Here is your reward. May it serve you well."
+ },
+ {
+  "id": 1504,
+  "t": "The Binding",
+  "o": "Using the Glyphs of Summoning, summon and subdue a voidwalker, then return the Glyphs of Summoning to Gan'rul Bloodeye in Orgrimmar.",
+  "d": "Now, observe the Tablet of Verga, for it contains the glyphs you will need for the summoning. Take them to the circle in Neeru Fireblade's tent on the other side of the cavern. There you will be able to call for the voidwalker.$b$bYou must defeat it using whatever physical and magical means you have at your disposal. When this is completed, return to me with the glyphs of summoning and I will demonstrate how you may bind the creature to your will.",
+  "p": "The voidwalker is a powerful creature. I remember when it was I that was in your shoes, $N. Over the years, my own voidwalker has grown to fight me less, though I suspect that is only because it hopes I will let my guard down.$B$BRemember that, $N.",
+  "c": "You have done well, $N. I will show you how to summon the voidwalker similar to the one you just defeated.$B$BYou should know that we have high expectations for you, and you have, so far, matched them.$B$BDo not let it go to your head, however, as the tasks that still lie before you will make this seem as simple as waking in the morning."
+ },
+ {
+  "id": 1505,
+  "t": "Veteran Uzzek",
+  "o": "Speak with Uzzek at Far Watch Post in the Barrens.",
+  "d": "The Horde honors its warriors because their strength is unquestioned.  But the truly great warriors are great students as well.$B$BSeek out Uzzek.  He is a veteran of many battles and now instructs young warriors in the ways of combat.  You will find him south of Far Watch Post, the orc garrison on the border of the Barrens and Durotar.",
+  "p": "",
+  "c": "Hello, young one. Here for some instruction, are you?"
+ },
+ {
+  "id": 1506,
+  "t": "Gan'rul's Summons",
+  "o": "Speak with Gan'rul Bloodeye in Orgrimmar.",
+  "d": "You there. $n, right?$b$bI hope your schedule isn't busy, because Gan'rul wants to see you right away. You'll find him with the senior warlocks in the Cleft of Shadow.$b$bBased on my past dealings with Gan'rul, your summons is either a very good thing or a very bad thing.",
+  "p": "",
+  "c": "Good. I was afraid Ophek wouldn't reach you.$B$BIt is time that I further your warlock training. Any business you have currently will have to wait.$B$BI trust there will not be a problem with this?"
+ },
+ {
+  "id": 1507,
+  "t": "Devourer of Souls",
+  "o": "Speak with Cazul in the Cleft of Shadow.",
+  "d": "The time has come for you to learn more of the summoning magics. You will learn to summon a succubus, a creature of incredible mental powers. It can lull those of weak minds into its servitude--but have no fear! I feel certain that you will be equal to the challenge.$b$bA succubus can only be summoned when baited with an item that represents great devotion and love. I leave it to you to find such an object.$b$bA suggestion? Speak with Cazul... There seems to be little the ancient warlock does not know.",
+  "p": "",
+  "c": "Hm... $N. You are still new to your path, but I sense the possibility for greatness in you.$B$BYou were born with gifts, $N. See that they do not go to waste."
+ },
+ {
+  "id": 1508,
+  "t": "Blind Cazul",
+  "o": "Speak with Zankaja in Orgrimmar.",
+  "d": "Hmm... But, of course, that is not why you have come to speak with me.$b$bIf Gan'rul has sent you to me, it must be that you are to summon a succubus, and need an object to use for enticement.$b$bHmm... If you trust a blind man to lead you, $n, then listen. In the bluffs of Orgrimmar, west of the wind rider tower, lives Zankaja. She waits for the return of her mate.$b$bGo to her.",
+  "p": "",
+  "c": "Have you come with news of Dogran? He was to have returned days ago, and I have heard nothing..."
+ },
+ {
+  "id": 1509,
+  "t": "News of Dogran",
+  "o": "Speak with Gazrog at the Crossroads.",
+  "d": "My mate, Dogran, was recently sent to the Crossroads for duty. It was a promotion, and he was very proud.$b$bI was sad, of course, but I didn't let him know that. And worried, too. The Barrens is a more dangerous place than Orgrimmar, and I feared the worst.$b$bNow it's been a week after he should have returned, and I have received no word from him...$b$bPerhaps you could go to the Crossroads and see if they have any news? He worked with Gazrog, who should still be stationed there.",
+  "p": "",
+  "c": "Zankaja? That's Dogran's mate, right?$B$BYeah, I've heard from him, but it's not the sort of news we should let get back to her...$B$BNo, he's not dead. But he is injured and a prisoner of the quilboar."
+ },
+ {
+  "id": 1510,
+  "t": "News of Dogran",
+  "o": "Speak with Ken'zigla at the Malaka'jin.",
+  "d": "He was stationed at Camp Taurajo, where we've been trying to weed out the quilboar. He led a few grunts to one of their camps, where he was hurt bad. The others made it back and tried to rescue him. He was in bad shape, his wounds festered, so they were afraid to move him without patching him up first.$b$bThey sent a message here, requesting a healing draught from the trolls at the Malaka'jin at the base of the Stonetalon Mountains. We sent someone to get it, but they haven't returned yet.",
+  "p": "",
+  "c": "Another $R, eh? I hope you haven't come for the other. He didn't make it. Those goblins did him in good.$B$BHe said he needed a healing draught, but not much else."
+ },
+ {
+  "id": 1511,
+  "t": "Ken'zigla's Draught",
+  "o": "Bring Ken'zigla's Draught to Grunt Logmar at Camp Taurajo.",
+  "d": "I figured there might be another coming to get the draught, so I prepared it anyways.$b$bHere you go, $n. Mind you, you should only give half of it to him! That will give him enough strength to move without bleeding himself dry. Wait a night, then give him the other half.$b$bAnyways, you'll want to bring this to Logmar at Camp Taurajo. From what the first one told me, he should have an idea where this Dogran is.",
+  "p": "Yes, what is it?",
+  "c": "Well, it's about time! Dogran has been dying out there, waiting for this.$B$BWe need to get this out to him right away, but most of the grunts stationed here are out on a foraging mission."
+ },
+ {
+  "id": 1512,
+  "t": "Love's Gift",
+  "o": "Bring the Dirt-caked Pendant to Gan'rul Bloodeye in Orgrimmar.",
+  "d": "Zankaja is young and beautiful. To be chained to an invalid... I will not allow her to suffer that injustice.$b$bLeave me, $n. And thank you. I may end my life in glorious battle, instead of a lifeless husk.$b$bAnd please, I would ask you not to tell my mate of this... I do not want guilt on her conscience.",
+  "p": "You have returned. Are you ready to battle a succubus?",
+  "c": "If you tell me that this will suffice, then I trust you, $N. Allow me to clean it though... Pristine and shining, it may be even more enticing to a succubus."
+ },
+ {
+  "id": 1513,
+  "t": "The Binding",
+  "o": "Using Dogran's Pendant, summon and subdue a succubus, then return Dogran's Pendant to Gan'rul Bloodeye in Orgrimmar.",
+  "d": "Take this to the summoning circle in Neeru's tent, $n. Summon forth a foul succubus, then show it your mastery. I believe in the strength of your magic. As always, though, be wary, for pride and overconfidence has overcome many a promising warlock.$b$bWhen you have defeated it, return the pendant to me so that I might deliver the news to Zankaja.",
+  "p": "When I look upon a succubus, my heart begins to soar... But at the same time, I can almost sense my soul's ebb, drifting away like the tides.$B$BBe wary, my friend.",
+  "c": "Success! Be sure I expected nothing less from my star pupil.$B$BYou have proven your worth, and gladly will I show you the method of summoning your subdued succubus. Go now, you have much to learn, and when next I see you, I will expect you to have found true mastery over your succubus.$B$BLeave the sorrow of Dogran and Zankaja to those of us who are longer in years, but remember it, and hold it as protection against the wiles of the dark power you have learned to summon today."
+ },
+ {
+  "id": 1514,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 1515,
+  "t": "Dogran's Captivity",
+  "o": "Bring Ken'zigla's Draught to Dogran in the Barrens.",
+  "d": "You've made it this far, so if you want to see this through to the end, I won't stop you. I can't spare you any additional manpower though, you'll be on your own.$b$bDogran is being held in a quilboar camp to the north of here. Look for a group of two huts. He'll be heavily guarded--that is, if they haven't killed him yet, or he hasn't succumbed to his wounds.$b$bGood luck.",
+  "p": "Urrrghhhh...",
+  "c": "Foul tasting brew...$B$BI can feel the strength in me now, enough to hobble away... But my leg, I will have lost it for the rest of my life. My arm, too."
+ },
+ {
+  "id": 1516,
+  "t": "Call of Earth",
+  "o": "Bring 2 Felstalker Hooves to Canaga Earthcaller in the Valley of Trials.",
+  "d": "The time is now, young $c. You've grown strong and your spirit endures like the earth. Following the shaman's path shows you have wisdom before even proving yourself.$B$BThe element of earth will guide your destiny, becoming part of you if you are ready. But you must stand before the earth itself. If you are ready, then you will see things only shaman know of.$B$BSeek out the Felstalkers to the north, and take from them two of their hooves. Return to me then, and we shall speak more of your future.$B",
+  "p": "Patience is earth's greatest virtue. The earth witnesses the cycle of all things: the mountains becoming deserts; rivers becoming canyons. The earth is the most stubborn and wise of all the elements and it does not tolerate impatience.$B$BThe earth beckons you now because a time of conflict draws near. When you return to me successful, then you shall be that much closer to being made whole.$B$BOthers will be envious of your wisdom and hate you for their ignorance.",
+  "c": "Excellent. Your success shows that you are prepared.$B$BOf all the elements, earth represents the foundation of all things. It is your strength, your stamina, and your patience. Earth will protect you, but only if shown the proper respect. Like the other elements, even earth can be fickle. Earth is the basis for life, and by observing its laws, you will gain greater wisdom. Never forget the secrets earth shares with you.$B$BI shall make a sapta for you now, and by accepting it, you will realize your path."
+ },
+ {
+  "id": 1517,
+  "t": "Call of Earth",
+  "o": "Find Spirit Rock and drink the Earth Sapta.",
+  "d": "A sapta is a drink created to bind our spirits to the elements. Fused with magic, the potion will allow the strong willed to see the elements as no one else can. Your spirit will be connected to the element the sapta was created for, and only a select few shaman know the recipe.$B$BThe sapta is always drunk in a holy place, and never anywhere else--remember that.$B$BSeek out Spirit Rock southwest of here--it is found at the end of the Hidden Path. Drink your sapta there, and... well, you shall see.",
+  "p": "",
+  "c": "Ah... $N... pleased is the earth to have you here.$B$BBound together in body and spirit, you will go forward knowing that the mountains are your strength; the plains, your patience; and the world itself your essence.$B$BStanding before the earth humbly is all that is required of you for you to pass this rite. But the others are not as passive. They may be chaotic and often violent, but such is the nature of the elements. Dual natures opposing one another, you must come to learn these things intricately."
+ },
+ {
+  "id": 1518,
+  "t": "Call of Earth",
+  "o": "Bring the Rough Quartz to Canaga Earthcaller in the Valley of Trials.",
+  "d": "Take this rough quartz from me and bring it to Canaga Earthcaller as proof of our meeting. He will craft a totem for you, and this pebble will be the heart of it. As small as it may seem, you will come to find that size does not matter, and that even the smallest of things can outlast many others.$B$BBe patient, $N. Remain strong. And seek wisdom. This is what earth asks of you. In the end, you shall become one with the earth--respect it as it shall respect you.",
+  "p": "I wish to be the first to welcome you fully to the first of four paths that will forever lead you in your destiny.$B$BIf you have the stone the earth gave to you, I will give you the totem it promised.$B$BIf not, then be gone with you until you have found your way.",
+  "c": "Excellent!$B$BThe totem I will craft for you is more than a symbol of your status among $c--it has abilities beyond that. One use of the totem is as a focus for spells. Those spells are tied to the earth, and as you earn greater and greater wisdom, more of the earth's abilities will be made accessible to you.$B$BThe trainers will know when you are ready for greater knowledge.$B$BBut for now, take this earth totem, and a scroll to teach you your first ability."
+ },
+ {
+  "id": 1519,
+  "t": "Call of Earth",
+  "o": "Bring 2 applications of Ritual Salve to Seer Ravenfeather in Camp Narache.",
+  "d": "The time has come, young $c. Your body ages and grows strong, and your spirit endures like the earth. I see it within you-you have wisdom already.$B$BThe earth guides our people, and it speaks to us, as it will to you in time. But you must be tested. If you are ready, then you shall see things only our kind know of.$B$BSeek out the Bristleback shamans in their ravine to the east, and take from them a salve they use in their rituals. Return to me only when you have enough for your own potion.",
+  "p": "The earth is patient, and will wait for you until you are ready because she knows in time all things erode and are reborn. It is the cycle of things. Mountains become deserts. Rivers become canyons. The earth is the most stubborn and wise of all the elements.$B$BYou must learn patience and stamina above all things. The earth calls for you now because she feels you are ready. Consider this your rebirth if you succeed. You will never be able to go back to ignorance afterwards.",
+  "c": "Good, $N. Your return here signifies that you are indeed prepared for the next step.$B$BOf all the elements, earth represents the foundation of all things. It is your strength, your stamina, and your patience. The Earth Mother will protect you, but only if you show her proper respect. She is the basis for life, and by observing her laws, you will gain a greater wisdom. Never forget the secrets she shares with you.$B$BI shall make your sapta for you now, and by accepting it, a new path will open before you."
+ },
+ {
+  "id": 1520,
+  "t": "Call of Earth",
+  "o": "Find Kodo Rock and drink the Earth Sapta.",
+  "d": "A sapta is a drink created to bind our spirits to the elements. Fused with magic, the potion will allow the open minded to see the elements as no one has seen them before. Your spirit will forever be tied to the element the sapta was created for, and only a select few of our kind know the secrets of its creation.$B$BThe sapta is always imbibed in a holy place, and never anywhere else.$B$BSeek out the shaman shrine to the east of here and drink of the sapta.",
+  "p": "",
+  "c": "Ah... $N... pleased is the earth to have you here.$B$BBound together in body and spirit, you will go forward knowing that the mountains are your strength; the plains, your patience; and the world itself your essence.$B$BStanding before the earth humbly is all that is required of you for you to pass this rite. But the others are not as passive. They may be chaotic and often violent, but such is the nature of the elements. Dual natures opposing one another, you must come to learn these things intricately."
+ },
+ {
+  "id": 1521,
+  "t": "Call of Earth",
+  "o": "Bring the Rough Quartz to Seer Ravenfeather in Camp Narache.",
+  "d": "Take this rough quartz from me and bring it to Seer Ravenfeather as proof of our meeting. She will craft a totem for you, and this pebble will be the heart of it. As small as it may seem, you will come to find that size does not matter, and that even the smallest of things can outlast mountains.$B$BBe patient, $N. Remain strong. And seek wisdom. This is what earth asks of you. In the end, you shall become one with the earth--respect it as it shall respect you.",
+  "p": "Greetings, $N. You would not return to me if you had not accomplished your task. May I be the first to welcome you fully to the first path of four that will forever rule your travels.$B$BIf you have the stone the earth gave to you, I will give you the totem it promised. If not, then I pity you. There is much pride to be had when you've fully dedicated yourself to the elements.",
+  "c": "Splendid.$B$BThe totem I will craft for you is more than a symbol--it has abilities beyond that. One use of the totem is a focus for spells. Those spells are tied to the earth, and as you earn greater and greater wisdom, more of the earth's abilities will be made accessible to you. Trainers found throughout Kalimdor will know when you are ready for greater knowledge and will let you know as much when you visit them.$B$BBut for now, take this earth totem, and a scroll to teach you your first ability."
+ },
+ {
+  "id": 1522,
+  "t": "Call of Fire",
+  "o": "Find Kranal Fiss in the Barrens.",
+  "d": "Fire be witcha, mon. I see you be strong in da ways of earth already, an' me tinkin' you be ready to talk to Kranal.$B$BKranal live north of da Crossroads in da Barrens. He be strong in da ways of da elements and can teach ya da ways of fire... if you tink you be ready.$B$BHe be easy ta find, just don' go too far--ya go too far an' ya find yerself in da elves' lands.",
+  "p": "",
+  "c": "Hmmm, Searn sent you to me, did he?$B$BWell then, Searn could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.$B$BI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, $N. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand."
+ },
+ {
+  "id": 1523,
+  "t": "Call of Fire",
+  "o": "Find Kranal Fiss in the Barrens.",
+  "d": "Long has it been since you were last tested, $N. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about destruction... and chaos. The element of fire is yours for the understanding, if you're prepared to pay for it.$B$BSeek out Kranal Fiss in the Barrens. He lives in a small dwelling north of the Crossroads, but be mindful, if you've reached the night elf lands, you've gone too far.",
+  "p": "",
+  "c": "Hmmm, Narm sent you to me, did he?$B$BWell then, Narm could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.$B$BI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, $N. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand."
+ },
+ {
+  "id": 1524,
+  "t": "Call of Fire",
+  "o": "Bring the Torch of the Dormant Flame to Telf Joolam in Durotar.",
+  "d": "You are powerful enough to wield the totem of fire, but that does not mean you are ready.$B$BAlong the Southfury River in Durotar, before the Great Sea, lies a hidden trail to one of the highest peaks in the land. Find your way to the top and you shall find one of our holy shrines watched over by Telf Joolam--the Shrine of the Dormant Flame.$B$BTake this torch to him--it marks that you attempt to tame fire. Return it to me aflame by the brazier at the shrine and I will see you are given the totem of fire.",
+  "p": "Greetin's, $N. You've found yerself at the Shrine of the Dormant Flame. Only those knowledgeable enough in the shamanistic arts will ever learn the secrets of this place and the power it holds. I'm sorry you made the trip all this way, only to be turned back now--the journey up here is far from safe after all--but I am the keeper of the shrine, and I cannot allow just anyone to wander around here.",
+  "c": "Ah, my mistake, $N. I apologize. I did not realize you possessed the Torch. I am pleased to make your acquaintance.$B$BMany adventurers find their way here while looking for lost treasure or the promise of mystical creatures to slay, only to be turned away from a seemingly empty shrine. But we know the truth, do we not, $N?$B$BThis shrine holds a greater secret from the mundane members of the Horde. To us, it is sacred."
+ },
+ {
+  "id": 1525,
+  "t": "Call of Fire",
+  "o": "Bring 1 Fire Tar and 1 Reagent Pouch to Telf Joolam in Durotar.",
+  "d": "But you did not come here for a history lesson, did you? You came for the Eternal Flame and fire totem.$B$BThe first step is to create a sapta and bind you to the flame.$B$BI can create the fire sapta for you if you bring me two items. The first is fire tar, a simple item usually carried by Razormane spellcasters in eastern Barrens.$B$BThe second item will be more dangerous: a reagent pouch from one of the cultists of the Burning Blade. You can find them in a cave above the ravines northeast of Razor Hill.",
+  "p": "I have enough ingredients for a sapta of fire if you can find the reagent pouch and some fire tar. The Burning Blade fanatics carry the proper components for most of their spells in those pouches, and usually have enough of the items I need that we will not have to search much farther for anything else.$B$BThe saptas are always made from ingredients that are closely tied to their respective elements. It makes our work easier because of the warlocks' ties to fire.",
+  "c": "These will do nicely, $N.$B$BFire is more than chaos and destruction--do well to remember that. It is also about life, and creation. All things are tied together in such a way. Forces oppose one another, but at the same time, one cannot exist without the other. Both extinguish one another, but also give one another meaning. Always remember this.$B$BUsing different types of magic in conjunction with one another will show not only true skill, but great wisdom."
+ },
+ {
+  "id": 1526,
+  "t": "Call of Fire",
+  "o": "Defeat the Minor Manifestation of Fire, and place the Glowing Ember in the brazier atop the Shrine of Eternal Flame.",
+  "d": "The fire sapta is finished. The time has come for you to face the flame. Use the sapta at the shrine and head to the top of the mountain to face the manifestation there. He will not attack until you are ready, but he will realize you are able to see him.$B$BStrike him down swiftly, $N, for he shall only grow in power the longer you take to slay him. Once he is defeated, place his glowing embers within the brazier and light the torch.",
+  "p": "The brazier stands about a third your height, and looks normal, save for the inscriptions along its smooth metal rails. The metal shows no signs of wear from the weather, and the bowl seated at the top of it feels cool to the touch.",
+  "c": "A white hot flame ignites within the bowl as you place the ember within. You can feel the magical effects of the sapta coursing through your body and the fire dances rhythmically before you.$B$BYou place the top of the torch within the basin, and it immediately catches on fire."
+ },
+ {
+  "id": 1527,
+  "t": "Call of Fire",
+  "o": "Bring the Torch of Eternal Flame to Kranal Fiss in the Barrens.",
+  "d": "Torch firmly in hand, you turn away from the brazier and look out over Durotar. You feel an excitement tugging at your spirit as the wind picks up and forces the flame to dance violently.$B$BYou start off down the path back to the Barrens in search of Kranal Fiss.",
+  "p": "Yes, $N? What do you have there?",
+  "c": "Your spirit burns brighter than any torch I've ever seen, $N, and for that, you should be proud.$B$BIf you continue down this path, the elements will be yours to command, and our brethren will look to you for guidance and wisdom. Let me be the first to congratulate you and present to you your newest totem."
+ },
+ {
+  "id": 1528,
+  "t": "Call of Water",
+  "o": "Find Islen Waterseer in the Barrens.",
+  "d": "Water be in ya future, mon. I see you be strong in da ways of fire already, an' me tinkin' you be ready to talk to Islen.$B$BIslen live along the coast of da Barrens. If ya head south along the Southfury River, ya canna miss her--look fer da big shark! She be strong in da ways of da elements and can teach ya da ways of water... if you tink you be ready.$B$BShe be easy ta find, just don' go too far south--she be jus' beyond Ratchet.",
+  "p": "",
+  "c": "The wind approaches you quickly from the horizon; the earth is steady beneath your feet; and your spirit is already warmed by fire--I would say it is time for you to learn about the purity of water.$B$BYour path has led you this far, and your spirit will give you the strength to carry on even further. But the first step is yours to take."
+ },
+ {
+  "id": 1529,
+  "t": "Call of Water",
+  "o": "Find Islen Waterseer in the Barrens.",
+  "d": "Long has it been since you were last tested, $N. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about the purity of water.$B$BSeek out Islen Waterseer in the Barrens. She is along the eastern coast, south of the Southfury River and Ratchet. You will find her there at her fishing hut. Good luck to you, $N.",
+  "p": "",
+  "c": "The wind approaches you quickly from the horizon; the earth is steady beneath your feet; and your spirit is already warmed by fire--I would say it is time for you to learn about the purity of water.$B$BYour path has led you this far, and your spirit will give you the strength to carry on even further. But the first step is yours to take."
+ },
+ {
+  "id": 1530,
+  "t": "Call of Water",
+  "o": "Find Brine at Blackthorn Ridge in Southern Barrens.",
+  "d": "If there is one lesson you must learn of water, it is this: water means rebirth.$B$BIts power flows, erodes, and makes clean all manner of things. You will find its ability to heal and replenish incomparable, but only when it is pure.$B$BWhen you understand that water, when polluted, can devastate all that it touches, you will appreciate how vital a resource it is.$B$BIf you wish the water sapta, find Brine deep in Southern Barrens. Her home is continually molested by the quilboar there.",
+  "p": "",
+  "c": "Yes?$B$BMmm. I have a feeling I know what you're going to ask me: what would possess someone to live out here in the deepest part of the Barrens, the threat of quilboar all around, and no protection? Well, we all have our reasons to justify why we act the way we do. The real question is, what brings a lowly $R to the deepest reaches of the Barrens to speak to a woman who obviously has no concern for her own well-being?$B$BI'm willing to bet we both know the answer to that."
+ },
+ {
+  "id": 1531,
+  "t": "Call of Air",
+  "o": "Find Prate Cloudseer in Thousand Needles.",
+  "d": "You be makin' headway now, mon. Your be ready to prove yerself worthy of the air totem, but first, ya must fin' Prate Cloudseer in Thousand Needles. She be willin' ta tell ya how to get yer air totem if ya treat her wit enough respect.$B$BHead south through the Barrens, and after ya reach Thousand Needles, head east. You'll find her hiddin' in a hole wit' her boyfriend--haha, don' tell her I be dissin' her none--she not take it too kindly.",
+  "p": "",
+  "c": "For the time being. I shall give you what you need to focus your spells and to call upon the spirits of air. Take this totem, and when you are ready, train with me some more."
+ },
+ {
+  "id": 1532,
+  "t": "Call of Air",
+  "o": "Find Prate Cloudseer in Thousand Needles.",
+  "d": "The winds of Kalimdor rush to meet you and you shall be counted among some of our most powerful $g brothers:sisters;. I am proud to see you have come this far and have such a promising future.$B$BThe element of air is a difficult one to control, but I have faith that your skills will overcome any obstacles that are placed in front of you.$B$BHead to the very south of the Barrens, and enter Thousand Needles. It is there, far to the east, that you will find Prate Cloudseer. She will teach you more.",
+  "p": "",
+  "c": "For the time being, I shall give you what you need to focus your spells and to call upon the spirits of air. Take this totem, and when you are ready, train with me some more."
+ },
+ {
+  "id": 1534,
+  "t": "Call of Water",
+  "o": "Fill the Empty Blue Waterskin at the Ruins of Stardust in Ashenvale and return to Brine in the Barrens.",
+  "d": "Take this waterskin and head deep into the lush forest the night elves call Ashenvale. It is to the far north of the Barrens.$B$BOnce you've entered the forest, travel west. Along the mountains that separate Stonetalon and Ashenvale, and beyond Lake Mystral, you will find a holy place: the Ruins of Stardust. At the center of the lake you will find a small fountain.$B$BBring me a sample of the fountain's water. It will be the final component you'll need before I send you back to Islen.",
+  "p": "Do you have the water yet, $N? Tales say the ruins were protected by large creatures of nature that do not care for visitors, but those could be myths to scare off the enemies of the night elves.$B$BRegardless, be careful.",
+  "c": "Wonderful, $N. With all three samples gathered, I can create for you a vial of the purest water any living creature will find. It will be used in the next steps of your rite of passage.$B$BI am pleased to count you among our kind, $N. You do all $c proud, and I look forward to hearing about your exploits in the future."
+ },
+ {
+  "id": 1535,
+  "t": "Call of Water",
+  "o": "Fill the Empty Brown Waterskin at the watering hole below Brine's hut and return it to her in the Barrens.",
+  "d": "To find understanding and gain the sapta from me, you must seek out only the purest forms of water. As you fetch the samples for me, take note of your surroundings. Be aware of the creatures that rely on the water, that protect it. See how it affects forests and deserts. Witness how the very substance that sustains life will force creatures to take lives.$B$BWe shall start with a simple task: down below my hut there is a pond of the precious liquid. Fill this skin with it and return to me.",
+  "p": "I am just about prepared to send you on your other tasks. Have you filled the skin yet?$B$BI know how protective the quilboar can be. Even such a small water source is a vast hoard of wealth to them. They have great feasts when even the slightest rain comes to the Barrens. Water is sacred to their kind because it is so scarce. Do you understand?",
+  "c": "I thought some bloodshed might ensue if you tried to take water from the pool. It is a pity the quilboar do not realize that all living things are tied together; that their greed only perpetuates the pain and suffering of their people. How much could they accomplish if they were to put their differences aside and their clans came together.$B$BAgain, a pity, but more than likely a boon for the other races of the Barrens."
+ },
+ {
+  "id": 1536,
+  "t": "Call of Water",
+  "o": "Fill the Empty Red Waterskin at the well in Tarren Mill and return to Brine in the Barrens.",
+  "d": "Long ago I followed some companions into the Hillsbrad Foothills. We defended ourselves from some tenacious humans who make their home there and we found ourselves in a small town the Forsaken had taken over: Tarren Mill.$B$BIt was there I found a most peculiar thing: in the center of town was a small well of fresh spring water. I'm not sure the plagued citizens of the town even realize its value--it's a small holy vestige in an unhallowed sea.$B$BBring me a sample of that water in this waterskin.",
+  "p": "The well remaining pure within the town reminds me of stories told to me when I was younger, $N. Even in times of great pain and sorrow one can find a sliver of hope, a small symbol to rally around. The orc people see Thrall this way. He survived against great odds and rose up to lead our people through his strength and example.$B$BI'm not sure any orc has suffered as much as he has, but at the same time, I'm not sure any orc is as strong as he is either.",
+  "c": "This is good, $N. You're dedicated to the task at hand and have the ability to seek out that which is needed.$B$BOne more sample is all I need to create the reagent needed for your sapta. Islen will be pleased as well."
+ },
+ {
+  "id": 1558,
+  "t": "The Stonewrought Dam",
+  "o": "Take the orphan to the Stonewrought Dam in Loch Modan.  You should take him to the middle of the dam so he can see out over the giant waterfall.",
+  "d": "Ironforge is where all the dwarves and gnomes live.  Near there is a place called Loch Modan, and the dwarves built a HUGE dam there.  They say it's one of the biggest things anyone's ever made.  Wow!$B$BCould you take me to Loch Modan and see the dam there, please?  I think it is the Stone... um... Stonewrench Dam?  Stonewrought?  It's big - that's for sure.  I'd like to look out over the big waterfall.  I promise I won't lean over too far!",
+  "p": "Are we there yet?",
+  "c": "WOW - the dam was WAY bigger than I thought! I could barely hear myself talk from the sound of all the rushing water! Hey, do you think it would ever run out of water? Man, what would happen if that damn ever broke! WOW, that would be scary!$B$BThanks for taking me to see the dam. That was very kind of you. I told you I wouldn't lean over too far!"
+ },
+ {
+  "id": 1559,
+  "t": "Flash Bomb Recipe",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "So you're an engineer, eh? Well, for your help in getting me those pearls, here's the recipe for flash bombs.$b$bGood luck, and try not to blind yourself!"
+ },
+ {
+  "id": 1560,
+  "t": "Tooga's Quest",
+  "o": "Show Tooga the way back to his wife, Torta.",
+  "d": "I am so lost!$b$bMy wife, Torta, sent me out to fetch dinner and I must have taken a wrong turn somewhere.$b$bWould you be so kind as to lead me back to Torta? She's waiting for me just south of Steamwheedle Port.",
+  "p": "",
+  "c": "So he couldn't find his way back on his own? Figures.$B$BWell, I guess you deserve something for your troubles...."
+ },
+ {
+  "id": 1578,
+  "t": "Supplying the Front",
+  "o": "Bring 6 Copper Axes and 6 Copper Chain Belts to Thorvald in the southern guard tower of Loch Modan.",
+  "d": "The mountaineers of Loch Modan are fighting troggs, and having a busy time of it!  They need constant supplies of new armor and weapons if we're ever to get a handle on those troggs.$B$BThat's why my colleague Thorvald is there, trying to keep the mountaineers in good gear.  So if you were to make some copper axes and copper chain belts and bring them to Thorvald, he would be obliged.  He might even share his knowledge with you.$B$BThorvald is in Loch Modan's southern guard tower.",
+  "p": "I have no time to chat. Do you have business with me?",
+  "c": "Ah, apologies! I didn't realize you were here to help resupply our troops. The stuff you made will be a big help!$B$BHere are plans for some armor. I hope you find them useful."
+ },
+ {
+  "id": 1579,
+  "t": "Gaffer Jacks",
+  "o": "Bring 8 Gaffer Jacks to Wizbang Cranktoggle in Auberdine.",
+  "d": "I came to Auberdine because of the quiet.  I want to invent my inventions where it's quiet, because after a night of drinking I don't like all the noise of Ironforge!$B$BSo I took a ship to Auberdine and had a little too much to drink on the way.  I dropped my box of gaffer jacks overboard!  I need my gaffer jacks!$B$BI don't know exactly where I dropped them, but if you fish for them in the ocean you might get lucky...",
+  "p": "Did you find my gaffer jacks, $N? Without my gaffer jacks I can't tune my stintle pegs!",
+  "c": "I can't believe you found them! You must be the luckiest $R in Kalimdor!"
+ },
+ {
+  "id": 1580,
+  "t": "Electropellers",
+  "o": "Bring 12 Electropellers to Wizbang Cranktoggle in Auberdine.",
+  "d": "We know you're lucky, but... just how lucky are you, $N?$B$BOne night I was wandering the roads of Darkshore.  I was looking for a good river or lake to try my new self-propelled, exploding duck decoy and I think I was a little tipsy... because I passed out and awoke hours later in Auberdine.  My hair was singed and my bag of electropellers was gone!  I must have dropped them in the water!$B$BI need those electropellers!  Maybe you can fish them out of some lake or stream in Darkshore...",
+  "p": "Did you find any electropellers? I'll need them if I'm to continue my research on duck decoys...",
+  "c": "I can't believe it! You found them! You are the best fisherman I've ever seen!$b$bThank you, $N. And here, take these. Although you're so good and you probably don't need them, they will help you with your fishing."
+ },
+ {
+  "id": 1581,
+  "t": "Elixirs for the Bladeleafs",
+  "o": "Bring 6 Elixirs of Lion's Strength and 2 Elixirs of Minor Defense to Syral Bladeleaf in Dolanaar.",
+  "d": "Our herb and alchemy shop is booming, but my husband spends so much time mixing potions that we never have time for each other.$B$BCan you help us?$B$BIf you can bring me a supply of pre-made elixirs, then I would be happy to trade with you.  I have some rare herbs that you might find useful.",
+  "p": "Hello, $N. Do you have the elixirs to trade?",
+  "c": "These are nicely mixed. You take great care in your trade, $N, and that is important for an alchemist.$b$bHere are your herbs, freshly gathered. May you use them well."
+ },
+ {
+  "id": 1582,
+  "t": "Moonglow Vest",
+  "o": "Bring 1 Embossed Leather Gloves, 5 Embossed Leather Boots and 5 Embossed Leather Cloaks to Lotherias in Darnassus.",
+  "d": "We in Darnassus, especially we craftsman, are quite busy.  Young adventurers are eager to test themselves in the wilderness, and are in constant need of supplies.$B$BIf you can help me fill my orders of leather goods, then perhaps I can teach you an advanced leatherworking technique.",
+  "p": "Greetings, $N.",
+  "c": "Yes, these are good pieces. You have a skilled hand and an eye for detail. Your future as a leatherworker is promising.$B$BHere, $N. Let me show you the pattern to make the Moonglow Vest."
+ },
+ {
+  "id": 1598,
+  "t": "The Stolen Tome",
+  "o": "Retrieve the Powers of the Void for Drusilla La Salle.",
+  "d": "You there! $n, right?$b$bI hope you're sure about becoming a warlock, because if you can't hold your own, you're likely to get pulled under.$b$bI'm to teach you, but I need to make sure you're strong enough first.$b$bThere was a novice studying at the Abbey who ran off to join the Defias Brotherhood. Why do I care? Well, he stole some important books.$b$bOne of those happens to be a book I've wanted for myself, the Powers of the Void. Steal it for me, they have it hidden at their tent in the Vineyards.",
+  "p": "It was too conspicuous for me to steal the book myself. What luck one of their own patsies did the dirty work for me.",
+  "c": "Excellent... I was never able to gain access to this text, it was held in a protected wing of the library that would have looked suspicious for me to be loitering around.$B$BWell, you did a good job in getting this, and I'm convinced that you can probably handle your own imp, so there's no reason for me not to show you how to summon one."
+ },
+ {
+  "id": 1599,
+  "t": "Beginnings",
+  "o": "Bring 3 Feather Charms to Alamar Grimm in Anvilmar.",
+  "d": "You must be the new warlock everyone's been whispering about. Must be someone's taken a liking to you if they've asked me to take time away from my research to start your training.$b$bDon't worry, I won't hold it against you.$b$bThe simplest of the summoning spells you will learn is that of the imp. Before I impart this to you, however, you must prove that you have the necessary magical and physical ability.$b$bBring me three feather charms from the frostmane novices from the cave to the southwest.",
+  "p": "Those feather charms the novices carry have some sort of magical power to them. It will be interesting to research them. I wouldn't have expected it from the trolls.",
+  "c": "Very good, very good! You've done well, $N. Perhaps the interest that is being shown in you is deserved, after all.$B$BThat'll be for the others to decide--assuming your imp doesn't overpower you and nip your career in the bud. For now, I'm satisfied that you'll probably survive your first few months as a $c.$B$BA word about the imp, $N. As a $R knows, don't let its size fool you, its magic can be very dangerous."
+ },
+ {
+  "id": 1618,
+  "t": "Gearing Redridge",
+  "o": "Tormus Deepforge wants you to bring 4 Runed Copper Belts and 4 Heavy Copper Mauls to Verner Osgood in Redridge.",
+  "d": "We dwarves aren't the only ones fighting.  Our human allies have their hands full too!$B$BRedridge is under periodic attack from blackrock orcs, and their supply of equipment is always low.  If you were to help them out, I'm sure their resident blacksmith, Verner Osgood, would teach you a trick or two.",
+  "p": "I hope you're here with good news from Ironforge. Because I'm at my wit's end!",
+  "c": "Thank you, $N. This will help me out tremendously. With the Blackrock orcs attacking from Stonewatch Keep and the Redridge gnolls lurking in the foothills to the north, I'm always fixing armor and making new weapons for our troops.$B$BThe supplies you brought will give me a moment's peace. I will have enough time to teach you something..."
+ },
+ {
+  "id": 1638,
+  "t": "A Warrior's Training",
+  "o": "Speak with Harry Burlguard in Stormwind.",
+  "d": "You've shown yourself to be a competent warrior, $N.  But you're still young and have a lot to learn.$B$BSpeak with Harry Burlguard--he's usually in the Pig and Whistle tavern, in the Old Town of Stormwind.  Harry is an old veteran and a good teacher.  He can show you a few moves that'll keep you breathing longer.",
+  "p": "",
+  "c": "Oh ho! Have a drink with me, $N. You look tough on the outside, but let's see if your gut can handle a few mugs of the Pig and Whistle's strongest!!$B$BOr... were you here for a lesson?"
+ },
+ {
+  "id": 1639,
+  "t": "Bartleby the Drunk",
+  "o": "Speak with Bartleby.",
+  "d": "Yeah, I can teach you.  But first I wanna see what moves you have already.$B$BSee that drunk over there at the end of the bar?  Bartleby?  I want you to get his mug.$B$BHah, and if you know Bartleby then you know he won't just give it to you.",
+  "p": "",
+  "c": "Hello, fancy $gboy:girl;! What's a prissy thing like you doing in the Pig and Whistle? Be careful, or you might break a nail..."
+ },
+ {
+  "id": 1640,
+  "t": "Beat Bartleby",
+  "o": "Beat Bartleby, then talk to him.",
+  "d": "You want what??  You're crazy!$B$BThe only way you'll get this mug is if you pry it from my cold, dead fingers...",
+  "p": "",
+  "c": "You're a lot tougher than you look!"
+ },
+ {
+  "id": 1641,
+  "t": "The Tome of Divinity",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here in Stormwind, I am responsible for putting paladins on the path to greater virtue as they devote themselves to the Light and defend Azeroth from the Scourge and other threats.$B$BThe time has come for you to take your first step towards being truly virtuous. If you accept it, I will give you a Book of Divinity. In studying it, you shall learn some about the Light, and what is expected of you. If you understand it, and are capable, then you will succeed in attaining greater abilities."
+ },
+ {
+  "id": 1642,
+  "t": "The Tome of Divinity",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "In all things, a paladin must reflect the Light which supplements our strength. To strive to be divine for one of our kind does not mean we strive for godhood--we strive to be good in all actions.$B$BAlthough called upon to smite evil in these harsh times, you must always remember that it's aiding others that will truly set you apart from the citizens of Azeroth. Compassion, patience, bravery--these things mean as much to a paladin as strength in battle.$B$BKnow this well, and never forget it.",
+  "p": "",
+  "c": "Hello again, $N. How goes your studies of the Tome of Divinity?$B$BThen you should be prepared to have yourself tested. There are always tasks to be done throughout the city and our lands; acts of compassion and understanding; people who need help; creatures to slay.$B$BBy proving you have the patience to help others, especially those who are less fortunate, you prove that you are a servant of the Light and of sound mind."
+ },
+ {
+  "id": 1643,
+  "t": "The Tome of Divinity",
+  "o": "Search the Trade District of Stormwind for Stephanie Turner.",
+  "d": "Your task then, $N, is to find someone here in Stormwind that is in need of aid. Someone who is pure of heart and motive. Perhaps someone helping others. Perhaps someone in need of a guide. Regardless, the person must have noble intent and be relying on your kindness.$B$BDo this, and return to me when you are finished. Then, we shall discuss more of your path and what it means to be a paladin of the Light.",
+  "p": "",
+  "c": "Oh, hello, luv. How go your adventures? Oh, I'm so glad to hear you're doing well.$B$BOh, me? Thank you for asking--I'm doing well, all things considered.$B$BThe increase in tradesmen has kind of put a damper on the amount of leather and cloth people are willing to part with these days, so it's been tougher to make clothing for the children at the orphanage, but we'll manage. By \"we\" I mean my husband and I. He's up in Ironforge trying to seek help from the citizens there."
+ },
+ {
+  "id": 1644,
+  "t": "The Tome of Divinity",
+  "o": "Bring 10 Linen Cloth to Stephanie Turner in Stormwind.",
+  "d": "Bless their hearts, most of them have no families because of the Scourge attacks in the last decade.$B$BMy husband John collects the materials for me to make the shirts and pants for the children, but I haven't even had time to do that. I've been too focused on keeping food on their plates, and a roof over their heads.$B$BWhat's that? You'd be willing to help? Oh, thank the Light, and thank you, $N.$B$BIf you could bring me some linen cloth so I can sew clothes for the kids, that would help me out so much.",
+  "p": "I hope my John is having better luck in Ironforge. He so dislikes his trips there because it leaves the kids and me alone, but he knows it must be done. He's so kind-hearted.$B$BSome years have been easier than others, but this one's been rougher by far. It's almost as though something in the air is signaling a huge change. Who knows though?",
+  "c": "Thank you, $N, thank you so much!$B$BThe children will be so pleased, and you've saved me so much time. I'll now be able to focus on the children's other needs, and hopefully my John will be able to return home sooner than we thought.$B$BThank you again, $N. I knew I could rely on the charity of others. The Light be with you."
+ },
+ {
+  "id": 1645,
+  "t": "The Tome of Divinity",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here in Ironforge, I am responsible for putting paladins on the path to greater virtue as they devote themselves to the Light and defend Azeroth from the Scourge and other threats.$B$BThe time has come for you to take your first step towards being truly virtuous. If you accept it, I will give you a Book of Divinity. In studying it, you shall learn some about the Light, and what is expected of you. If you understand it, and are capable, then you will succeed in attaining greater abilities."
+ },
+ {
+  "id": 1646,
+  "t": "The Tome of Divinity",
+  "o": "Speak to Tiza Battleforge in Ironforge.",
+  "d": "In all things, a paladin must reflect the Light which supplements our strength. To strive to be divine for one of our kind does not mean we strive for godhood--we strive to be good in all actions.$B$BAlthough called upon to smite evil in these harsh times, you must always remember that it's aiding others that will truly set you apart from the citizens of Azeroth. Compassion, patience, bravery--these things mean as much to a paladin as strength in battle.$B$BKnow this well, and never forget it.",
+  "p": "",
+  "c": "Welcome back, $N. You've spent time reading the book, I hope?$B$BThen you should be prepared to have yourself tested. There are always tasks to be done throughout the city and our lands; acts of compassion and understanding; people who need help; creatures to slay.$B$BBy proving you have the patience to help others, especially those who are less fortunate, you prove that you are a servant of the Light and of sound mind."
+ },
+ {
+  "id": 1647,
+  "t": "The Tome of Divinity",
+  "o": "Search the outer ring of Ironforge for John Turner.",
+  "d": "Your task then, $N, is to find someone here in Ironforge that is in need of aid. Someone who is pure of heart and motive. Perhaps someone helping others. Perhaps someone in need of a guide. Regardless, the person must have noble intent and be relying on your kindness.$B$BDo this, and return to me when you are finished. Then, we shall discuss more of your path and what it means to be a paladin of the Light. I will remain here in the temple for your return. Other paladins will need my guidance also.",
+  "p": "",
+  "c": "THE ORPHANAGE OF STOR... oh, sorry, didn't mean to shout at you, sir.$B$BMy name is John Turner. How are you?$B$BGood, good, glad to hear things go well for you. I've had a long day of work already, and I miss my wife terribly, but that's the price you have to pay when there are mouths to feed and backs to clothe."
+ },
+ {
+  "id": 1648,
+  "t": "The Tome of Divinity",
+  "o": "Bring 10 Linen Cloth to John Turner in Ironforge.",
+  "d": "My wife and I run an orphanage in Stormwind, mostly for children who have lost parents due to the attacks by the Scourge in the last decade. I come to Ironforge every month or so to see about collecting more supplies from the citizens here, and talk to the various groups to see if they can do anything to help.$B$BThis trip's been agonizingly slow, and not very productive.$B$BIf I could just get some more linen for my wife to make some clothes, I could finally send a shipment home.",
+  "p": "What with the influx of tradesmen here and throughout Azeroth, there's a smaller supply of items we use to make clothes for the children of our orphanage. Helping me collect linen so my wife can make new clothes for them is very noble of you, $N. Thank you.$B$BHopefully, I'll be able to return home to my wife soon.",
+  "c": "This is so wonderful of you, $N. Thank you again.$B$BYou're a noble man for doing this for me. It's no wonder you've chosen to follow the Light. I wish there was some way I could repay you for all you've done... what's that? It's the least you could do? See? That's what I'm talking about, $N, noble to the end.$B$BBe safe, and may the Light protect you in your travels."
+ },
+ {
+  "id": 1649,
+  "t": "The Tome of Valor",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "Valor, and all the virtues that go along with it, are like rare minerals: you must cherish them when you find them because of their value, but you must also take time to harvest them... refine them. When mixed together properly, a strong alloy is formed, sometimes unbreakable by even the most powerful blows.$B$BThis strength, your faith, your bravery, must be tested. You must learn to never lose faith and realize that with the power of the Light, you can overcome things that most others cannot.",
+  "p": "",
+  "c": "Ah, you wish to petition me for a test of valor. Splendid.$B$BThere are many tasks throughout the city and surrounding lands that hold much challenge, and they could use a man with your skills.$B$BThis test should not be taken lightly, $N. This, like many things along our path, could take our lives. The Church always wishes to bolster its ranks, but it understands the sacrifices needed to ensure the paladins serving it are worthy.$B$BAre you prepared?"
+ },
+ {
+  "id": 1650,
+  "t": "The Tome of Valor",
+  "o": "Find Daphne Stilwell in Westfall.",
+  "d": "Good! Your lack of hesitation is a sure sign that you are prepared and eager to test yourself. So be it.$B$BAt the very ends of Westfall's Longshore, a small house overlooks the ocean. There, a couple lives, the Stilwells. Jordan is an incredible smith, and he's gone to Ironforge to meet with the dwarves for a while. But this has left Daphne, his wife, alone and unprotected.$B$BReports suggest that the Defias have all but taken over the area, Daphne may need some protection from the villains. Go there.",
+  "p": "",
+  "c": "Hello, $N. I'm assuming by all that armor and weapon of yours, you're either here to try and take my land, or the Church finally sent someone to help protect me while my Jordan's gone.$B$B Well, let me introduce myself: I'm Daphne Stilwell. It's a pleasure.$B$BNow, you're not too late... I've only killed a half dozen of the scum since last sun up. They've been a little slow getting 'round the bend up there, but they probably saw you coming, which means they'll probably be here any minute."
+ },
+ {
+  "id": 1651,
+  "t": "The Tome of Valor",
+  "o": "Defend Daphne Stilwell from the Defias attack.$B$BNeither of your spirits must be released from their mortal coils if you wish to succeed.$B$BAfter you are successful, speak to Daphne Stilwell again.",
+  "d": "Now, they'll be coming again soon, I'd wager, so get yourself ready.$B$BI've got myself a gun in the house. I'll grab it and be ready to help you out, but for the most part, you're on your own.$B$BI've no idea how many they'll send, but I'm sure it'll be more than the few they sent earlier.$B$BAsk the Light for whatever blessings you can because... did you hear that? I think they're coming.$B$BWe make our stand near the house!",
+  "p": "",
+  "c": "We've done it, $N! Thank you for your help. You were truly amazing out there. I never thought a $c could handle so many enemies at once.$B$BYou've truly shown bravery in the face of overwhelming odds."
+ },
+ {
+  "id": 1652,
+  "t": "The Tome of Valor",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "Please, return to Duthorian and let him know that I'm safe for now. I have you and the Church to thank for that.$B$BHe'll send word to Ironforge to let my Jordan know that he has nothing to fear.$B$BOh, how I miss my husband. I can't wait till he returns.",
+  "p": "",
+  "c": "So, we meet again, $N, and you are in high spirits, I see.$B$BThe Stilwell home will be safe for another day, and from your story I see that there was no shortage of danger to be found. Well done.$B$BDaphne and Jordan have helped the Church greatly, and having you protect their property--and their very lives--was the least we could do for them.$B$BFor your valor, you will be rewarded."
+ },
+ {
+  "id": 1653,
+  "t": "The Test of Righteousness",
+  "o": "Speak to Jordan Stilwell in Ironforge",
+  "d": "Actually, I have no doubt that Jordan himself would like to thank you, and seeing as I need a messenger to send word that his wife is safe, I think you'd be a perfect choice.$B$BJordan was to be a paladin of the Light before his dedication to his father's craft took him on another path--he's intimately familiar with our way of life and is considered among our most faithful.$B$BHe should still be in Ironforge--he likes to work outside the gates during the day, something about the cool mountain air.",
+  "p": "",
+  "c": "Good day, $N. The Light is with you, I trust?$b$bWhat's that? You were sent by Duthorian!? My wife, how is she? I knew there was going to be trouble if I left. Please tell me she's... oh, thank goodness. I'm so glad that she's safe. The Defias were a threat long before these attacks, but now the King's advisors cannot deny it.$b$bWhat else did Duthorian have to say?$b$bYou're the one that was sent to protect my wife? Then I thank you again, $N. I couldn't think of a better test of valor than that."
+ },
+ {
+  "id": 1654,
+  "t": "The Test of Righteousness",
+  "o": "Using Jordan's Weapon Notes, find some Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer, and a Kor Gem, and return them to Jordan Stilwell in Ironforge.",
+  "d": "I'd like to reward you if you'd be willing to accept such a thing? Don't misunderstand me, my generosity is dependent on how much help you can be, but I see us both benefiting greatly from such an alliance.$B$BI will craft for you a weapon worthy of what you've accomplished, a symbol of paladinhood and the Light, but you must gather the items I need to craft it. I've already started taking notes on the items, it just requires someone brave and skilled enough to recover them. What do you say, $c?",
+  "p": "The items you're seeking will be difficult to acquire, but I can assure you, the weapon I will craft for you will be worth the effort.$B$BIt will be my finest work to date, and only a small payment for the service you've done me.",
+  "c": "This is wonderful! You've gotten all the items.$B$BI should have no problem forging you a grand weapon with these. I've actually had the plans for doing this for some time. I just never had the opportunity to gather the goods. Thank you, $N.$B$BIt feels good to have my father's hammer again...and a Kor gem. I never thought I'd see one of these myself."
+ },
+ {
+  "id": 1655,
+  "t": "Bailor's Ore Shipment",
+  "o": "Bring Jordan's Ore Shipment to Bailor Stonehand in Loch Modan.",
+  "d": "Ach, ya startled me, $G man:woman;! Can't ya see I was lost in thought?$B$BWhat's that? Jordan's shipment... fer Ironforge. Ahhh, yeah, I know whatcha speak of. Mo'grosh ogres... dat's who took me ol' friend's ore shipment. Caravan was headin' here from the Wetlands and was ambushed. The guard who survived their attack just passed away a few days ago--healer couldn't get to 'em fast enough.$B$BIf you want the shipment, you'll have to head northeast across the Loch. It's got to be there somewhere.",
+  "p": "So, any luck yet? Haha, those ogres didn't get the best of ya yet, did they?",
+  "c": "Yup yup, this is it. Ha! If I'd known you were really gonna head out there and fight some o' them ogres, I woulda given you a list of things to get instead of just this one thing. But, you're not here doin' business for me, are ya?.$B$BA deal's a deal; Jordan wanted a shipment of me alloy, that's what he's gonna get.$B$BTell 'em hello fer me, and be safe, $c."
+ },
+ {
+  "id": 1656,
+  "t": "A Task Unfinished",
+  "o": "Bring the Bundle of Furs to Innkeeper Kauth in Bloodhoof Village.",
+  "d": "$N, please, I beg of you, can you help me? I have not finished my tasks here on the Mesa--I'm in the middle of my Rite of Strength--and my father asked me to deliver these furs to the inn in Bloodhoof.$B$BI'm far from rested enough to complete both my rite and this task for my father. Would you mind going on for me?$B$BThe inn is pleasant and a perfect place to rest during your long travels. I'm sure you'll agree once you see it.",
+  "p": "Yes, young one? What can Kauth do for you?$B$BThe journey here from the Mesa can be a tremendous burden for some, but a welcome sight for others. Which is it for you, I wonder?",
+  "c": "Ah, the furs I was expecting. Thank you.$B$BThese came faster than I had expected. They will make good blankets for anyone who wishes to stay here.$B$BPlease feel free to stay as long as you like. My inn is always open and all of our people are welcome here. And don't underestimate a good night's rest, it can make a great difference while you're out traveling."
+ },
+ {
+  "id": 1657,
+  "t": "Stinking Up Southshore",
+  "o": "Toss three Forsaken Stink Bombs into the heart of Southshore in Hillsbrad, and return to Darkcaller Yanka at the Wickerman Festival in Tirisfal Glade.",
+  "d": "Celebrate Hallow's End in style... by bringing grief to our enemies in Southshore!$B$BTake one of these specially crafted stink bombs.  It is filled with an odiferous funk that no human - or any weak-willed beast for that matter - can stand to smell.  You'll need to throw it right in the heart of Southshore for it to do its job, so be prepared for a fight against the Alliance!$B$BWhen you've completed this task... this tribute to our liberation, return to me!",
+  "p": "Have you delivered our \"gift\" to the people of Southshore?$B$B<Darkcaller Yanka laughs wickedly.>",
+  "c": "Ah, well done! I hope the Alliance chokes on the foul gift we've given them, much like we were forced to choke on the yoke of enslavement to the Scourge!$B$BYou've kept the ideas of Hallow's End true, $N, and for that I salute you. As an extra bonus, let me share some of these Hallow's End treats I have with you. I think you might find them to be quite the enjoyable diversion!"
+ },
+ {
+  "id": 1658,
+  "t": "Crashing the Wickerman Festival",
+  "o": "Locate the Forsaken's Wickerman Festival in Tirisfal Glades.  Return to Sergeant Hartman in Southshore once you've done so.",
+  "d": "I need brave individuals to head up to Tirisfal Glades and check out the Wickerman Festival.  I'm not going to lie - heading up there will be dangerous.  The guards at the festival will be exceptionally vicious.  Still, we need to know how big the festival is this year, and how much trouble the Forsaken are going to cause us during Hallow's End.$B$BIf you're up for it, head to Tirisfal and scout out the festival.  Return to me with the information, and I'll make sure you're well compensated.",
+  "p": "",
+  "c": "Well done, $N. The Wickerman Festival will continue to be trouble so long as the abominable Forsaken are allowed to haunt the remnants of Lordaeron. It is NOT a fitting tribute to that once proud kingdom, let me tell you...$B$BHere's some coin for any repairs you might need, and in the spirit of the season I've also included some treats you might like. Happy Hallow's End - let's keep it as safe as possible here in Southshore."
+ },
+ {
+  "id": 1661,
+  "t": "The Tome of Nobility",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "I greet you once again, $N. I am more proud to call you $g brother:sister; than ever before--your dedication is a tribute to us all.$B$BThe time has come for me to bestow a great gift upon you. But know this, for now I give you this freely, but later, when time permits, this will be a much greater challenge to all paladins who choose to undertake my quest.$B$BSpeak to me again and I shall grant you a great boon.",
+  "p": "",
+  "c": "Congratulations, and may the Light protect you."
+ },
+ {
+  "id": 1665,
+  "t": "Bartleby's Mug",
+  "o": "Bring Bartleby's Mug to Burlguard",
+  "d": "Ok, here's my mug.  Wait!  Let me finish what's in it first... there we go.",
+  "p": "I saw your fight with Bartleby. Nicely done! Did you get his mug?",
+  "c": "There it is! He sure didn't want to part with it, but you were persuasive. Well done.$B$BNow for your lesson..."
+ },
+ {
+  "id": 1666,
+  "t": "Marshal Haggard",
+  "o": "Speak with Marshal Haggard.",
+  "d": "You've learned a few moves, but you could still use a decent weapon.  I bet if you spoke with Marshal Haggard he could help you.$B$BMarshal Haggard lives in a manor in Elwynn Forest, at the Eastvale Lumber Camp.  He's retired now but he collected a lot of gear during his career.$B$BLet him know I sent you, and with luck he'll have a spare weapon to offer.",
+  "p": "",
+  "c": "Who's that?$B$BBurlguard, is that you?$B$BYou'll have to step a little closer. My eyes aren't what they used to be.$B$BWalking up like that, I thought you were a gnoll!"
+ },
+ {
+  "id": 1667,
+  "t": "Dead-tooth Jack",
+  "o": "Retrieve Haggard's Badge from Dead-tooth Jack's camp, and return to Marshal Haggard.",
+  "d": "Burlguard sent you, did he?  Yes, I have spare weapons around here, but first I have a task for you...$B$BA while ago a Defias villain Dead-tooth Jack tricked me.  It was dark and he was wearing a Stormwind tabard and I thought he was Marshal Dughan.  He said he needed my old Stormwind Marshal's badge and I gave it to him... and then he laughed and ran off before I could catch him!$B$BGet back my badge!  Dead-tooth Jack probably has it stowed in his camp to the south.",
+  "p": "Do you have my badge? I don't want to think of the mischief Dead-tooth Jack could cause with it.",
+  "c": "Great, you found it! I feared it was gone forever, used by the Defias to impersonate a Stormwind official. Well that won't happen now, thanks to you.$B$BHere are some weapons I used when I was a Marshal. I kept them in great shape--take your pick!"
+ },
+ {
+  "id": 1678,
+  "t": "Vejrek",
+  "o": "Bring Vejrek's Head to Muren Stormpike in Ironforge.",
+  "d": "If you want to rise in the ranks of the warriors, then you better be tough.  I can teach you new moves but before that, prove to me you can handle yourself against real foes.$B$BVejrek is the toughest troll you'll find in these parts, and he's who you have to beat.  He has a hut in the foothills just south of Frostmane Hold.$B$BBring me Vejrek's head and I'll know you have mettle.",
+  "p": "Have you been to Vejrek's hut, $N? Is that troll stink I smell on you?",
+  "c": "Vejrek sure was an ugly one, eh? Nicely done, $N! You have what it takes, now let's start your lesson...$b$bYou may not know it, but a strong defense is very important to a $c. It keeps him standing against foes that'd fell others, and that's what your allies need."
+ },
+ {
+  "id": 1679,
+  "t": "Muren Stormpike",
+  "o": "Speak with Muren Stormpike.",
+  "d": "Hello, warrior!  You show a lot of promise, but you still need to learn some tricks and Muren Stormpike is just the dwarf to teach you.$B$BYou can find Muren at the Hall of Arms in the Military Ward of Ironforge.  Talk to him when you're ready to learn what it is to be a warrior.",
+  "p": "Did you make the switch?",
+  "c": "Ah, $N. I heard the warriors of Dun Morogh bouncing your name around. I hope you haven't spent all your time in the breweries!"
+ },
+ {
+  "id": 1680,
+  "t": "Tormus Deepforge",
+  "o": "Speak with Tormus Deepforge.",
+  "d": "Now that you've learned some moves, it's time to get you a decent weapon.  Speak with Tormus Deepforge.  He can make you a weapon I'm sure you'll like.$B$BYou'll find Tormus here in Ironforge, at the Great Forge.",
+  "p": "",
+  "c": "Muren sent you, did he? Yes, I can make you a nice weapon... but before I do that, I have a favor to ask of you.$b$bDon't worry. It's plenty dangerous and could mean your death; it's exactly the sort of job a $c wants."
+ },
+ {
+  "id": 1681,
+  "t": "Ironband's Compound",
+  "o": "Bring a load of Umbral Ore to Tormus Deepforge in Ironforge.",
+  "d": "My mentor, Sturgy Ironband, had a compound south of Helm's Bed Lake in eastern Dun Morogh.  There he taught blacksmithing and he was the best.$B$BBut one day, one of his students brought him a load of strange ore.  Master Ironband called it umbral ore and was eager to work with it, but soon after it arrived... a band of Dark Iron dwarves attacked his compound.  They killed everyone!$B$BEnter Ironband's compound, $N, and avenge my master's death.  And bring me the load of umbral ore that caused it.",
+  "p": "Have you entered Ironband's Compound? Did you find the umbral ore?",
+  "c": "You found it! Well done!$b$bI hope you killed a host of Dark Iron dwarves while searching. I fear that Ironband's compound won't be the last place we see them.$b$bBut thank you for the ore, $N. I'm eager to work it and find its properties."
+ },
+ {
+  "id": 1682,
+  "t": "Grey Iron Weapons",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here are some weapons, hot off the anvil and made with the new umbral ore you brought me!$B$BPlease, $N, take your pick!"
+ },
+ {
+  "id": 1683,
+  "t": "Vorlus Vilehoof",
+  "o": "Bring the Horn of Vorlus to Elanaria in Darnassus.",
+  "d": "Before I can teach you, you must show me your resolve.$B$BThe satyr Vorlus Vilehoof has found one of our remote moonwells, southeast of the Ban'ethil Barrow Den.  He now splashes within it, defiling its pure waters with his filth.$B$BFind Vorlus at the moonwell and destroy him.  Bring me his horn as proof and I will begin your advanced training as a warrior.$B$BThe path to the moonwell is hidden well, $N, but stay focused and alert and you will find it.",
+  "p": "Do you have the horn, $N? Is our moonwell free of the fiend Vorlus?",
+  "c": "Well done, $N. It is good to know Vorlus is defeated and our moonwell cleansed, and it is good to see young warriors eager to keep our beloved Teldrassil free of corruption.$B$BNow let us begin your training..."
+ },
+ {
+  "id": 1684,
+  "t": "Elanaria",
+  "o": "Speak with Elanaria.",
+  "d": "Greetings, warrior.  Your skill grows, but there is more to your profession than you may believe.  To further progress, you must soon find a teacher.$B$BThe warrior Elanaria dwells in Darnassus, at the Warrior's Terrace.  She can instruct you.",
+  "p": "",
+  "c": "I bid you greetings, $N. Your name rings loudly in Darnassus, for you show promise. But we shall soon see if you possess the strength of will to follow the path of the $c."
+ },
+ {
+  "id": 1685,
+  "t": "Gakin's Summons",
+  "o": "Report to Gakin the Darkbinder in the Mage Quarter of Stormwind.",
+  "d": "Isn't that how it always works? Was looking for you all day and couldn't find you, now when I'm not expecting it, you come and walk right up to me.$b$bI've wasted enough time trying to find you, so I won't delay you any longer. Master Gakin's summoned you for additional training. Seems to me you should seek him out as soon as possible.$b$bYou'll find him in the basement of the Slaughtered Lamb tavern. By the way, you might want to keep that particular location quiet. Don't want word spreading about it.",
+  "p": "",
+  "c": "About time you showed up. Though, perhaps I should have sent someone more capable than Remen to find you.$B$BNo matter.$B$BYou've gone too long without training, and a warlock without training isn't like to keep his head on his shoulders for long."
+ },
+ {
+  "id": 1686,
+  "t": "The Shade of Elura",
+  "o": "Bring 8 loads of Elunite Ore and the Medallion of Elura to Elanaria in Darnassus.",
+  "d": "You have learned much, $N.  Now we will craft you a weapon.  A warrior's weapon.$B$BTo do this, you must travel to Darkshore.$B$BLong ago a ship crashed upon the rocks near the Auberdine lighthouse, scattering many crates of elunite ore along the ocean floor.$B$BFirst, you must defeat the elunite's guardian, the Shade of Elura.  Once the ship's captain, she cursed herself to roam the deeps and protect her shipment for all time.  Defeat her, gain her medallion, and gather the crates of lost Elunite.",
+  "p": "Have you defeated the Shade of Elura, $N? And do you have the lost elunite ore?",
+  "c": "Bravely done, $N.$B$BYou have given the Shade of Elura much deserved peace, and we will use the gathered elunite to make a fine weapon for you."
+ },
+ {
+  "id": 1687,
+  "t": "Spooky Lighthouse",
+  "o": "Take the orphan to see the lighthouse off the coast of Westfall.$B",
+  "d": "Sometimes late at night, our matrons at the orphanage will tell us spooky stories.  Those RULE!  There's one about a ghost that haunts a lighthouse in Westfall.  They say he was a pirate captain who had his ship taken from him by other pirates.  Wow!$B$BCould you please take me to the lighthouse in Westfall?  I wanna see if the ghost of that captain is there!  I promise to stay close to you; I won't run off or anything!",
+  "p": "Are we there yet?",
+  "c": "WOW, that was a real life ghost! That was so awesome - I can't wait to tell everyone back at the orphanage. Captain Grayson... he even looked like a pirate! When I grow up I wanna be a ghost pirate too!$B$BThanks for taking me to Westfall, $N. I know there are scary things out there in the wilds of Westfall, and I hope I wasn't too much of a pain. You're awesome!"
+ },
+ {
+  "id": 1688,
+  "t": "Surena Caledon",
+  "o": "Retrieve Surena's Choker for Gakin the Darkbinder in Stormwind.",
+  "d": "I had a student named Surena Caledon. She stood where you stand now, eager to learn of warlock magic, and possessing no small bit of talent. More than that she was young and pleasing to the eye. Had I seen it then, the traitorous trollop!$b$bThe thieving wench ran off with one of the Defias, Erlan Drudgemoor. While her loss is of little importance, I gifted her a bloodstone choker that I must have.$b$bHer life means nothing to me now. You will find her at the Brackwell Pumpkin Patch. Retrieve what is mine.",
+  "p": "Even the older and wiser can be unmanned by the wiles of youth and beauty, $N. A piece of advice you would do well to remember throughout your life.",
+  "c": "Surena was talented, but not enough so to gain mastery of $c magic on her own. It's a shame to see talent wasted, but sometimes it is necessary.$B$BI hope my investment in you will bear different results."
+ },
+ {
+  "id": 1689,
+  "t": "The Binding",
+  "o": "Using the Bloodstone Choker, summon and subdue a voidwalker, then return the Bloodstone Choker to Gakin the Darkbinder in Stormwind.",
+  "d": "By retrieving my choker and besting Surena, you've proven that you're at least as capable as she was.$b$bWith that said, I can tell you're direly in need of training. You can manage the flows of magic, yes, but being a warlock is much more than that.$b$bI will show you how to command a voidwalker, but before I can, you must call one forth at a summoning circle and subdue it using whatever weapons--physical and magical--you have at your disposal. Use the magic of this choker at the summoning circle below.",
+  "p": "I cannot show you how to control a voidwalker until you have overtaken one.",
+  "c": "You did better than I expected, $N, but as well as I'd hoped. Now, you can learn to command your subjugated voidwalker, an ally you will find valuable in the trials that are sure to stand before you.$B$BI have nothing more to teach you at the present, but I am far from done with you, $N."
+ },
+ {
+  "id": 1692,
+  "t": "Smith Mathiel",
+  "o": "Bring the Case of Elunite to Smith Mathiel. ",
+  "d": "I have placed the elunite you gathered into a case.  Take it to the blacksmith Mathiel, and he will craft for you an elunite weapon.$B$BMathiel is to the south, on the other side of this building.",
+  "p": "Greetings, young $C. How might my skills serve you?",
+  "c": "Ah, elunite ore. This is a fine metal to work with, for it is blessed by the goddess Elune herself. It would be an honor to craft weapons with it.$B$BPlease wait while I work..."
+ },
+ {
+  "id": 1693,
+  "t": "Weapons of Elunite",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "$N, I have crafted these weapons with the elunite you brought to me. Please, take whichever most suits you.$B$BAnd I must thank you. Working with elunite is both an honor and a pleasure."
+ },
+ {
+  "id": 1698,
+  "t": "Yorus Barleybrew",
+  "o": "Speak with Yorus Barleybrew.",
+  "d": "Yorus Barleybrew has issued a challenge to all able warriors of the Alliance.  He waits at the Lakeshire Inn, in Redridge, and pledges a grand reward to anyone able to pass his trial.",
+  "p": "",
+  "c": "Hah! So you heard of my challenge, did you?$B$BWell sit down and listen. Have a drink, and savor it... because it might be your last."
+ },
+ {
+  "id": 1699,
+  "t": "The Rethban Gauntlet",
+  "o": "Enter the Rethban Caverns, reach the first fork, and return to Yorus Barleybrew within the time allowed.$B$BYou must not die and release your spirit.",
+  "d": "I call my challenge the Rethban Gauntlet.  To pass the trial, all you must do is enter the Rethban Caverns, to the first fork, then return here.  Easy!  Except there are a few wrinkles...$B$BYou have to return within an hour.$B$BThere are whole heaps of Redridge Gnolls in the way.$B$BBefore you start, you have to take a swig of my family's signature drink: Barleybrew Scalder!$B$BSo what do you say?  The Rethban Caverns are in the foothills north of Lakeshire.  Are you ready to run the Rethban Gauntlet?",
+  "p": "",
+  "c": "You made it! Well done! Three cheers for $N!"
+ },
+ {
+  "id": 1700,
+  "t": "Grimand Elmore",
+  "o": "Bring Furen's Notes to Grimand Elmore.",
+  "d": "I made a copy of my notes on the techniques I learned while making your armor, and I need them sent to Grimand Elmore.  He's here in the Dwarven District, in the weapon shop.$B$BAnd duck when you give these to him.  He's fiercely proud of his skills, and won't like the idea of learning something from me...",
+  "p": "Hello, and well met. How might I be of service to you?",
+  "c": "Furen wrote this? How dare he! Why, I taught him everything he knows! To think he could teach me something is outrageous! Outrageous!$B$BHm... but there is something in his notes that I'd like to try..."
+ },
+ {
+  "id": 1701,
+  "t": "Fire Hardened Mail",
+  "o": "Gather the materials Furen Longbeard requires, and bring them to him in Stormwind.",
+  "d": "So I gave you a nice shield, but we don't have to stop there.  I know the secrets to make extremely hard mail armor.  It's not easy and it takes very rare materials, but if you're willing to do the legwork then I'll make a piece for you.$B$BWhat do you say, $N?  If you're up for the challenge, then I'll give you a list of what to get and where to get them.",
+  "p": "How goes the scavenger hunt, $N? Do you have the materials?",
+  "c": "You got it all? Amazing! I was afraid those chimaeras would eat you up for sure!$B$BWell let's get started on that armor..."
+ },
+ {
+  "id": 1702,
+  "t": "The Shieldsmith",
+  "o": "Bring the Cask of Scalder to Furen Longbeard.",
+  "d": "You really showed what you were made of when you ran the Rethban Gauntlet, $N.  And I'm true to my word.  I'll get you the reward I promised...$B$BExcept it's in Stormwind.$B$BTalk to my friend, Furen Longbeard, in the Dwarven District of Stormwind.  He's the best shieldsmith you'll ever meet, and he owes me a big favor.$B$BHere, take Furen this cask of Barleybrew Scalder and ask him for a shield.  He'll give you a nice one.",
+  "p": "Hello! Dry times, don't you think?",
+  "c": "Ah, Barleybrew Scalder. Great stuff! So you've been to see Yorus, eh?$B$BI can get you a shield, yes sir! You won't find a better one, and that's no lying!"
+ },
+ {
+  "id": 1703,
+  "t": "Mathiel",
+  "o": "Bring Furen's Notes to Mathiel.",
+  "d": "I made a copy of my notes on the techniques I learned while making your armor, and need them sent to the blacksmith Mathiel.  He lives in Darnassus which is quite a long way off, but I'm sure he'll be very grateful to learn what I've learned.",
+  "p": "I bid you greetings, $C.",
+  "c": "These are interesting, very interesting indeed. My dwarven colleague Furen has made quite a grand discovery!$B$BThank you, $N. It will be an honor to apply his new techniques to my own craftings."
+ },
+ {
+  "id": 1704,
+  "t": "Klockmort Spannerspan",
+  "o": "Bring Furen's Notes to Klockmort Spannerspan.",
+  "d": "I made a copy of my notes on the techniques I learned while making your armor, and need someone to take them to Klockmort Spannerspan.  He's a gnomish blacksmith in Ironforge and when he learns what I've learned... I bet he'll pull off his own beard in excitement.",
+  "p": "Good day, or morning or evening. I can't tell from way down here. So do you have business for me?",
+  "c": "Oh my! These notes are amazing! And what's more... they're incredible and they're stupendous and they make my knees go all a-wobbly!$B$BFuren had a breakthrough! A real breakthrough! I can't wait to try out his new technique!"
+ },
+ {
+  "id": 1705,
+  "t": "Burning Blood",
+  "o": "Bring 20 vials of Burning Blood and 1 Burning Rock to Grimand Elmore in Stormwind.",
+  "d": "I hate to admit that Furen might have really found something.  But to be sure I'll need to try his techniques on a new piece of armor.  If you help me with the materials, $N, then you can have the armor.$B$BTo make this armor, I need samples of burning blood and a burning rock.$B$BThe only place I know to get them is Duskwood.  The Nightbane worgen based in the Roland's Doom mine have burning blood, and their leader Gutspill will have the rock.$B$BMay fortune grant you speed, $N.",
+  "p": "$N, do you have the burning blood and rock? I'll need them to complete the armor.",
+  "c": "Nice work! Now if you'll excuse me, I have some work to do myself..."
+ },
+ {
+  "id": 1706,
+  "t": "Grimand's Armor",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "I can barely believe it! Furen's technique was a success, and this armor should withstand tremendous levels of stress.$b$bHere you are, $N. And thank you. I wouldn't have believed Furen's discovery if you hadn't gathered the materials I needed to test it myself."
+ },
+ {
+  "id": 1707,
+  "t": "Water Pouch Bounty",
+  "o": "Bring 5 Wastewander Water Pouches to Spigot Operator Luglunket in Gadgetzan.",
+  "d": "Greetings $n - the name's Luglunket, and we've got an important job for you if you're up for it!  Huzzah!$B$BNothing would please me more as a seasoned spigot operator to take any Wastewander water pouches you might find out in the desert.  That's our water anyway - the nomads have just stolen it is all!  The Gadgetzan Water Company will offer you an official care package for every five you turn in.  Most importantly though, you're helping Gadgetzan help itself!",
+  "p": "Got the five Wastewander water pouches we need?  If you do, then the Gadgetzan Water Company Care Package, Model 103-XB, will be yours!",
+  "c": "Excellent - the more water pouches we are able to reclaim, the further away from disaster we'll all be!  Keep 'em coming, and I will be sure to reward you for every five water pouches you bring me."
+ },
+ {
+  "id": 1708,
+  "t": "Iron Coral",
+  "o": "Bring 20 loads of Searing Coral to Klockmort Spannerspan in Ironforge.",
+  "d": "I want to try Furen Longbeard's new techniques on my own piece of armor.  And because you helped Furen and he helped me, you're welcome to the armor after I make it!$B$BTo finish the piece, I need a special coral, searing coral.  It grows in only one place--along the coast south of Menethil Harbor in the Wetlands.$B$BBring me enough searing coral and I'll get right to work on the armor.  And hurry, $N.  I'm so eager to get started it's making my toes twist!",
+  "p": "Hello hello, $N! Do you have the searing coral? I can't wait to get to work!",
+  "c": "That's the stuff! Well done! Now let me get this smelted and hammered so I can apply Furen's technique with my own and then we can see what happens!$B$BOh my, oh my! I just know the armor will be very very very tough!"
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 8778,
+  "t": "The Ironforge Brigade Needs Explosives!",
+  "o": "Bring 6 Oils of Immolation, 5 Goblin Rocket Fuel and 10 Dense Blasting Powder to Arcanist Nozzlespring near Hive'Zora in Silithus.  You must also bring Logistics Task Briefing IV in order to complete this quest.",
+  "d": "The Ironforge Brigade has put in an unusual request for highly... volatile... components.  Gather them and bring them to Mr. Nozzlespring from the Ironforge Brigade.",
+  "p": "You have something for me, $N?",
+  "c": "Ah, yes!  These will come in handy! Much obliged, $N!"
+ },
+ {
+  "id": 8779,
+  "t": "Scrying Materials",
+  "o": "Bring 1 Large Brilliant Shard, 1 Large Radiant Shard and 1 Huge Emerald to Geologist Larksbane at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing V in order to complete this quest.",
+  "d": "Geologist Larksbane's studies have proven to be of tremendous value to our operations in Silithus.  She has recently requested scrying materials to be used in her research.$B$BPlease gather these materials and deliver them to her directly so that she may continue her research.",
+  "p": "You have something for me, $n?",
+  "c": "Why, yes... these will be of tremendous aid!  These materials are awfully hard to come by in the desert, $N.  Thank you."
+ },
+ {
+  "id": 8780,
+  "t": "Armor Kits for the Field",
+  "o": "Bring 8 Rugged Armor Kits and 8 Heavy Armor Kits to Janela Stouthammer at the Ironforge Brigade Outpost near Hive'Zora in Silithus.  You must also bring Logistics Task Briefing VII in order to complete this quest.",
+  "d": "The Ironforge Brigade's supply of armor kits in the battlefield is running dangerously low.  Obtain a batch and deliver them to Janela Stouthammer at the Ironforge Brigade's outpost outside Hive'Zora.",
+  "p": "You have something for me, $n?",
+  "c": "Thanks, I'll hand these out to the lads."
+ },
+ {
+  "id": 8781,
+  "t": "Arms for the Field",
+  "o": "Bring 2 Moonsteel Broadswords to Janela Stouthammer at the Ironforge Brigade Outpost outside of Hive'Zora.  You must also bring Logistics Task Briefing VI in order to complete this quest.",
+  "d": "The Ironforge Brigade has been a worthy ally in our fight in Silithus.  Unfortunately, many of their supplies were lost on their way here.  Procure a batch of weapons and deliver them to Janela Stouthammer near Hive'Zora.",
+  "p": "You have something for me, $n?",
+  "c": "Oh, excellent!  I won't have to hear complaints about dull blades anymore.  Thank you, $N."
+ },
+ {
+  "id": 8782,
+  "t": "Uniform Supplies",
+  "o": "Bring 1 Mooncloth, 2 Bolts of Runecloth and 1 Ironweb Spider Silk to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing VIII in order to complete this quest.",
+  "d": "The latest influx of volunteers has caused a shortage of uniforms.  Procure a batch of uniform materials and bring them to Windcaller Proudhorn.",
+  "p": "You have something for me, $n?",
+  "c": "Ah, we were in need of these.  Your work is appreciated, $N."
+ },
+ {
+  "id": 8783,
+  "t": "Extraordinary Materials",
+  "o": "Bring 2 Enchanted Thorium Bars and 2 Enchanted Leather to Vargus at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing IX in order to complete this quest.",
+  "d": "Vargus, Cenarion Hold's blacksmith, has requested enchanted materials to be used in the crafting of powerful weapons for our forces.  Obtain these and bring them directly to Vargus so that Cenarion Hold's troops may continue to be well equipped.",
+  "p": "You have something for me, $n?",
+  "c": "Ah, yes.  These materials are of excellent quality.  Thank you, $N."
+ },
+ {
+  "id": 8784,
+  "t": "Secrets of the Qiraji",
+  "o": "Take the Ancient Qiraji Artifact to the dragons hiding near the entrance of the temple.$B",
+  "d": "You have discovered an ancient Qiraji artifact! Perhaps one of the dragons near the entrance of the temple would have a use for this relic.",
+  "p": "You're glowing! I know what that means...",
+  "c": "An exceptional find, $N. Simply marvelous! This will definitely give us some insight into our enemy's twisted minds."
+ },
+ {
+  "id": 8785,
+  "t": "The Orgrimmar Legion Needs Mojo!",
+  "o": "Bring 6 Powerful Mojo, 6 Flasks of Big Mojo and 8 Oils of Immolation to Shadow Priestess Shai near Hive'Regal in Silithus.  You must also bring Logistics Task Briefing IV in order to complete this quest.",
+  "d": "The Orgrimmar Legion has put in a request for several unusual ingredients.  Given their current performance in Silithus, we'd like to comply with their request as soon as possible.  Gather the materials and bring them to the troll called Shai.",
+  "p": "Do you have my materials, $N?",
+  "c": "Ah, yes. Just what I needed! I'll make a special concoction with this. The silithid won't like it one bit!"
+ },
+ {
+  "id": 8786,
+  "t": "Arms for the Field",
+  "o": "Bring 3 Massive Iron Axes to Merok Longstride at the Orgrimmar Legion camp outside of Hive'Regal.  You must also bring Logistics Task Briefing VI in order to complete this quest.",
+  "d": "The Orgrimmar Legion has put in a request for additional weapons that we haven't been able to provide at the moment.  Obtain the weapons they've requested and bring them to Merok Longstride outside of Hive'Regal.",
+  "p": "You have something for me, $n?",
+  "c": "Excellent work. We were in short supply of these, $N."
+ },
+ {
+  "id": 8787,
+  "t": "Armor Kits for the Field",
+  "o": "Bring 8 Rugged Armor Kits and 8 Heavy Armor Kits to Merok Longstride near Hive'Regal.  You must also bring Logistics Task Briefing VII in order to complete this quest.",
+  "d": "The brave volunteers of the Orgrimmar Legion have arrived to Silithus to aid us in our cause.  Their supplies of armor kits were somehow lost in the trip.  Obtain a batch of armor kits and deliver them to Merok Longstride at the location of the Orgrimmar Legion camp.",
+  "p": "You have something for me, $n?",
+  "c": "Ah, yes... I will distribute these to the troops, $N. The Orgrimmar Legion thanks you!"
+ },
+ {
+  "id": 8788,
+  "t": "A Gently Shaken Gift",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "This present looks like it has been shaken a few times. The tag on it reads:$b$bTo a very special $r $c."
+ },
+ {
+  "id": 8789,
+  "t": "Imperial Qiraji Armaments",
+  "o": "Arygos in the Temple of Ahn'Qiraj will create Elementium Infused Armaments for you should you bring him Imperial Qiraji Armaments and 3 Elementium Ore.",
+  "d": "We have not sat idly by for a millennium, $N.$B$BWe have watched these beasts feast on their own when they have exhausted their utility. We have listened as they have plotted and schemed to destroy our world. And we have learned of their own internal treachery.$B$BWeaknesses exist and we know how to use those weaknesses to our advantage.$B$BFind and bring me their ceremonial armaments: Combined with the element created from the volatility of their own God, they will become a force of reckoning.",
+  "p": "Seek out what I requested. You will become greater than the sum of your parts, champion.",
+  "c": "Infused with Elementium, these weapons will cut through the Qiraji and their God with incredible ease."
+ },
+ {
+  "id": 8790,
+  "t": "Imperial Qiraji Regalia",
+  "o": "Merithra of the Dream in the Temple of Ahn'Qiraj will create Elementium Infused Armaments for you should you bring her Imperial Qiraji Regalia and 3 Elementium Ore.$B",
+  "d": "Arygos theorizes that the element which is born of conflicts between the Old Gods and their minions is also extremely deadly to them under the right conditions. I speak of Elementium, mortal.$B$BFind and bring me Imperial Qiraji Regalia and the toxic element and I shall infuse weapons of great power.$B",
+  "p": "You will strike them down and free us of these bonds.",
+  "c": "Use the item well, $N. Let them feel the pain that they so dearly wish to inflict upon others."
+ },
+ {
+  "id": 8791,
+  "t": "The Fall of Ossirian",
+  "o": "Deliver the Head of Ossirian the Unscarred to Commander Mar'alith at Cenarion Hold in Silithus.$B",
+  "d": "A terrible menace has been laid to rest. The cruel Ossirian has been vanquished.$B$BThe denizens of Kalimdor would be relieved to know of this victory. Take Ossirian's head and present it to Commander Mar'alith of Cenarion Hold.",
+  "p": "Ah, $N, you have returned! And in one piece, I might add. What news do you bring from Ahn'Qiraj?",
+  "c": "I offer you my highest commendation and your choice of an item of power, $N. You have done the people of Kalimdor a great service."
+ },
+ {
+  "id": 8792,
+  "t": "The Horde Needs Your Help!",
+  "o": "Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": "Throm'ka, $c! Good to see so many of the Horde, such as yourself, $N, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.$b$bSo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to."
+ },
+ {
+  "id": 8793,
+  "t": "The Horde Needs Your Help!",
+  "o": "Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": "Throm'ka, $c! Good to see so many of the Horde, such as yourself, $N, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.$b$bSo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to."
+ },
+ {
+  "id": 8794,
+  "t": "The Horde Needs Your Help!",
+  "o": "Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": "Throm'ka, $c! Good to see so many of the Horde, such as yourself, $N, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.$b$bSo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to."
+ },
+ {
+  "id": 8795,
+  "t": "The Alliance Needs Your Help!",
+  "o": "Speak with Field Marshal Snowfall in Ironforge's Military Ward.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8796,
+  "t": "The Alliance Needs Your Help!",
+  "o": "Speak with Field Marshal Snowfall in Ironforge's Military Ward.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8797,
+  "t": "The Alliance Needs Your Help!",
+  "o": "Speak with Field Marshal Snowfall in Ironforge's Military Ward.",
+  "d": "Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, $N!$B$BYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, $c? Will you help out with the vital preparations?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8798,
+  "t": "A Yeti of Your Own",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Say! You know what?! You're an engineer too! So, since you helped me teach my friends a lesson, I'm going to teach you how to make your very own mechanical yeti! Now the fun can go on forever and ever, and you can scare whoever you want! Provided that you can scare up the components to make it that is. $B$BWhat do you say, $N? Do you want to learn the secret to making a mechanical yeti?"
+ },
+ {
+  "id": 8799,
+  "t": "The Hero of the Day",
+  "o": "Bring 1 Deeprock Salt and 5 gold coins to the Holly Preserver machine, upon which you will receive 5 Preserved Holly.",
+  "d": "Listen... I'm not really supposed to be telling you this, but since you're the hero of the day and all...$B$BThere's fresh holly everywhere this time of the year, but it never lasts.  We've got a machine that preserves holly - it never goes bad!  We use it to spice up the holiday... and profits during the summer!$B$BI'll let you use the preserver, but only if you're a master cook.  You'll need some deeprock salt and two, three, oh let's say five gold.  It'll net you a nice batch that's yours to keep.",
+  "p": "",
+  "c": "The machine lets off a little rumble and a small amount of steam as it starts working. It is not too long thereafter until it stops, heralded by another small jet of steam erupting from it. A door hatch opens, revealing a batch of preserved holly!"
+ },
+ {
+  "id": 8800,
+  "t": "Cenarion Battlegear",
+  "o": "Talk to Vargus at Cenarion Hold in Silithus.",
+  "d": "As you complete the tasks you're assigned in the war you'll want to talk to Vargus, the blacksmith.  Show him any badges you've earned along the way. He'll provide you with gear to match your level of commitment to our cause.",
+  "p": "",
+  "c": "Kaldon sent you? Very well, let's see what we can do for you."
+ },
+ {
+  "id": 8801,
+  "t": "C'Thun's Legacy",
+  "o": "Take the Eye of C'Thun to Caelastrasz in the Temple of Ahn'Qiraj.",
+  "d": "The walls of Ahn'Qiraj tremble. A force of evil, older than the world itself, has been destroyed.$B$BAs you look at the remnants of the colossal abomination your heart nearly freezes. Even in death you can feel the legacy of C'Thun's evil around you.$B$BYou have done what was thought to be impossible.$B$BYou grab at an eye stalk of the fiend, stowing it safely in your pack.$B$BTake the Eye of C'Thun to the dragons in the next chamber. ",
+  "p": "$G Lord:Lady; $N, you have freed us of its grasp.",
+  "c": "We will leave this place on our own, $G Lord:Lady; $N - once we are certain that the evil within has been wholly destroyed. Your journey of legend is almost at an end."
+ },
+ {
+  "id": 8802,
+  "t": "The Savior of Kalimdor",
+  "o": "Take the Eye of C'Thun to Anachronos at the Caverns of Time.",
+  "d": "To the Caverns of Time you go, $G Lord:Lady; $N. Anachronos awaits your return. Give him the eye of C'Thun as he will undoubtedly wish to place it in his master's collection.$B",
+  "p": "Lord $N! It is over...",
+  "c": "The Master has left these for you, champion. From the timeless cache: A collection of artifacts spanning thousands of years - the choice is yours."
+ },
+ {
+  "id": 8803,
+  "t": "A Festive Gift",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The note on this present reads:$b$bTo $N,$b$bIn hoping this will help you spread warm tidings and holiday cheer to all of Azeroth.$b$bFrom Greatfather Winter"
+ },
+ {
+  "id": 8804,
+  "t": "Desert Survival Kits",
+  "o": "Bring 4 Globes of Water, 4 Powerful Anti-Venom and 4 Smoked Desert Dumplings to Calandrath at the inn in Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing I in order to complete this quest.",
+  "d": "With the arrival of fresh recruits to Cenarion Hold comes the problem of keeping them alive in the desert.  Dehydration as well as numerous poisonous creatures present a serious threat to inexperienced volunteers.  Gather the supplies necessary for a desert survival kit and bring them to Calandrath in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": ""
+ },
+ {
+  "id": 8805,
+  "t": "Boots for the Guard",
+  "o": "Bring 3 Ornate Mithril Boots to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing II in order to complete this quest.",
+  "d": "The mounted division of the Cenarion Hold guard is in short supply of ornate mithril boots.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": ""
+ },
+ {
+  "id": 8806,
+  "t": "Grinding Stones for the Guard",
+  "o": "Bring 10 Dense Grinding Stones, 10 Solid Grinding Stones and 10 Heavy Grinding Stones to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing III in order to complete this quest.",
+  "d": "The Cenarion Hold guard is in short supply of grinding stones.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": ""
+ },
+ {
+  "id": 8807,
+  "t": "Scrying Materials",
+  "o": "Bring 1 Large Brilliant Shard, 1 Large Radiant Shard and 1 Huge Emerald to Geologist Larksbane at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing V in order to complete this quest.",
+  "d": "Geologist Larksbane's studies have proven to be of tremendous value to our operations in Silithus.  She has recently requested scrying materials to be used in her research.$B$BPlease gather these materials and deliver them to her directly so that she may continue her research.",
+  "p": "You have something for me, $n?",
+  "c": "Why, yes... these will be of tremendous aid!  These materials are awfully hard to come by in the desert, $n.  Thank you."
+ },
+ {
+  "id": 8808,
+  "t": "Uniform Supplies",
+  "o": "Bring 1 Mooncloth, 2 Bolts of Runecloth and 1 Ironweb Spider Silk to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing VIII in order to complete this quest.",
+  "d": "The latest influx of volunteers has caused a shortage of uniforms.  Procure a batch of uniform materials and bring them to Windcaller Proudhorn.",
+  "p": "You have something for me, $n?",
+  "c": "Ah, we were in need of these.  Your work is appreciated, $N."
+ },
+ {
+  "id": 8809,
+  "t": "Extraordinary Materials",
+  "o": "Bring 2 Enchanted Thorium Bars and 2 Enchanted Leather to Vargus at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing IX in order to complete this quest.",
+  "d": "Vargus, Cenarion Hold's blacksmith, has requested enchanted materials to be used in the crafting of powerful weapons for our forces.  Obtain these and bring them directly to Vargus so that Cenarion Hold's troops may continue to be well equipped.",
+  "p": "You have something for me, $n?",
+  "c": "Ah, yes.  These materials are of excellent quality.  Thank you, $N."
+ },
+ {
+  "id": 8810,
+  "t": "Bandages for the Field",
+  "o": "Bring 30 Heavy Runecloth Bandages, 30 Heavy Silk Bandages and 30 Heavy Mageweave Bandages to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing X in order to complete this quest.",
+  "d": "Our supply of bandages in the battlefield is running dangerously low after the recent casualties we have incurred.  Obtain a batch of first-aid supplies and deliver them to Windcaller Proudhorn in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": "Just in time.  These supplies will save lives, $N.  Your work is appreciated.  Here's your next assignment."
+ },
+ {
+  "id": 8811,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Darnassus.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8812,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Gnomeregan exiles.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8813,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Ironforge.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8814,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Stormwind.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8815,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Orgrimmar.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8816,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Darkspear tribe.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8817,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Undercity.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8818,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Thunder Bluff.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8819,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Darnassus. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8820,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Gnomeregan exiles. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8821,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Ironforge. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8822,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Stormwind. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8823,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Orgrimmar. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8824,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Darkspear tribe. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8825,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Thunder Bluff. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8826,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Undercity. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8827,
+  "t": "Winter's Presents",
+  "o": "Speak with Greatfather Winter. He is located near the Smokywood Pastures vendor area in Ironforge.",
+  "d": "I hear Greatfather Winter - with the generous support of Smokeywood Pastures - has put presents for everyone under the tree in Ironforge. I wish I could go, but I've got to look after the PX-238 Winter Wondervolt.$b$bBut you should definitely check it out. I'm sure Greatfather Winter has some presents with your name on them.",
+  "p": "",
+  "c": "Oh, ho hello there! You can only be here for one reason: to open your Winter Veil presents.$b$bNow, don't you worry, Greatfather Winter hasn't forgotten about his favorite $r $c. Look under the tree and you'll find your gifts.$b$bDuring this season of giving, perhaps your friends would also enjoy receiving some of Smokeywood Pasture's excellent products?"
+ },
+ {
+  "id": 8828,
+  "t": "Winter's Presents",
+  "o": "Speak with Great-father Winter. He is located near the Smokywood Pastures vendor area in Orgrimmar.",
+  "d": "I hear Great-father Winter - with the generous support of Smokeywood Pastures - has put presents for everyone under the tree in Orgrimmar. I wish I could go, but I've got to look after the PX-238 Winter Wondervolt.$b$bBut you should definitely check it out. I'm sure Great-father Winter has some presents with your name on them.",
+  "p": "",
+  "c": "Oh, ho hello there! You can only be here for one reason: to open your Winter Veil presents.$B$BNow, don't you worry, Greatfather Winter hasn't forgotten about his favorite $R $c. Look under the tree and you'll find your gifts.$B$BDuring this season of giving, perhaps your friends would also enjoy receiving some of Smokeywood Pasture's excellent products?"
+ },
+ {
+  "id": 8829,
+  "t": "The Ultimate Deception",
+  "o": "Bring a Skin of Shadow, 3 Frayed Abomination Stitchings and 1 Twilight Cultist Robe to Aurel Goldleaf at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing XI in order to complete this quest.$B",
+  "d": "The Twilight's Hammer operates through innumerable layers of secrecy and deceit.  While their actions are carried out in our world, they are planned in a place we have not yet been able to reach.$B$BWe've come to believe that the stones the Twilight's Hammer uses to summon their superiors allow for two-way transportation.  To attempt to use them in this manner, we must replicate - to every last detail - a twilight emissary's robe.$B$BGather the necessary materials and bring them to Aurel Goldleaf, $N.  ",
+  "p": "You have something for me, $n?",
+  "c": "Yes, I believe these shall suffice.  I shall craft these into the colors worn by the Twilight Hammer's emissaries.  I pray to Elune that my skills will be able to fool our enemies once more.$b$bBut do not be concerned with that, you've done your part and for that you will be appropriately rewarded.  You are a loyal and worthy ally, $N."
+ },
+ {
+  "id": 8830,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Stormwind.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8831,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Stormwind. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8832,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Undercity.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8833,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Undercity.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8834,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Ironforge.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8835,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Ironforge. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8836,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Darnassus.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8837,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Darnassus. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8838,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Gnomeregan exiles.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8839,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Gnomeregan exiles. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8840,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Orgrimmar.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8841,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Orgrimmar.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8842,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Thunder Bluff.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so. We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8843,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty. For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Thunder Bluff. I also accept single tokens, but at a much reduced rate of recognition. We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8844,
+  "t": "One Commendation Signet",
+  "o": "",
+  "d": "",
+  "p": "For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Darkspear tribe.$B$BPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.$B$BWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",
+  "c": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $c.$B$BIf you have any more signets to hand in, then I am able to assist you further in that regard."
+ },
+ {
+  "id": 8845,
+  "t": "Ten Commendation Signets",
+  "o": "",
+  "d": "",
+  "p": "I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Darkspear tribe.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.$B$BWith that said, I'll gladly take your signets if you are ready to hand in a set.",
+  "c": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, $N, that truly make a difference.$B$BLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged."
+ },
+ {
+  "id": 8846,
+  "t": "Five Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8847,
+  "t": "Ten Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8848,
+  "t": "Fifteen Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8849,
+  "t": "Twenty Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8850,
+  "t": "Thirty Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8851,
+  "t": "Five Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8852,
+  "t": "Ten Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8853,
+  "t": "Fifteen Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8854,
+  "t": "Twenty Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8855,
+  "t": "Thirty Signets for War Supplies",
+  "o": "",
+  "d": "",
+  "p": "Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof. $B$BI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",
+  "c": "Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen. $B$BKeep up the good work, $N.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!"
+ },
+ {
+  "id": 8856,
+  "t": "Desert Survival Kits",
+  "o": "Bring 4 Globes of Water, 4 Powerful Anti-Venom and 4 Baked Salmon to Calandrath at the inn in Cenarion Hold in Silithus.",
+  "d": "With the arrival of fresh recruits to Cenarion Hold comes the problem of keeping them alive in the desert.  Dehydration as well as numerous poisonous creatures present a serious threat to inexperienced volunteers.  Gather the supplies necessary for a desert survival kit and bring them to Calandrath in Cenarion Hold.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8857,
+  "t": "Secrets of the Colossus - Ashi",
+  "o": "Take the Colossus of Ashi's Husk to Oglethorpe Obnoticus in Booty Bay.$B",
+  "d": "I'm looking for battle hardened adventurers willing and able to get a fresh husk sample from the fallen Colossus of Ashi to Oglethorpe in Booty Bay. No, no, I wouldn't want you to go anywhere near that thing's corpse. Just take one of my samples and make it snappy. These things are no good to him rotten!",
+  "p": "Yes? What have you got there?",
+  "c": "Oh the chickens I will craft from this wondrous husk! Well done, my $gboy:girl; !"
+ },
+ {
+  "id": 8858,
+  "t": "Secrets of the Colossus - Regal",
+  "o": "Take the Colossus of Regal's Husk to Overseer Oilfist in Searing Gorge.$B",
+  "d": "There ain't nothin' I'd like more than to stuff this bug husk down Oilfist's fat face... Cept, I'm stuck here collectin' samples from that overgrown cockroach. I'll be here 'till the wee mornin' hours given the size o' that thing.$B$BTake this here sample to Oilfist fer me and do it fast, $c. He's payin' BIG!$B$BYar, Thorium Point - it be in the Searin' Gorge.",
+  "p": "Hmmm...",
+  "c": "Excellent. We could surely devise some incredibly powerful armor from this chitin. Here's the riches you were promised."
+ },
+ {
+  "id": 8859,
+  "t": "Secrets of the Colossus - Zora",
+  "o": "Take the Colossus of Zora's Husk to Lord Maxwell Tyrosus at Light's Hope Chapel in the Eastern Plaguelands.$B",
+  "d": "My servants were nearly killed in their efforts to recover this sample. You absolutely must hurry! Lord Maxwell Tyrosus eagerly awaits a fresh husk sample. He believes that the secrets of this Colossus could help us in the war against the Scourge!$B$BWhy are you still here!? To Light's Hope! Yes, you will be rewarded handsomely for your efforts...$B",
+  "p": "You look a bit heavy in the boots, friend.",
+  "c": "Excellent and timely! Well done, $Glad:lass;."
+ },
+ {
+  "id": 8860,
+  "t": "New Year Celebrations!",
+  "o": "Bring the Smokywood Supplies to Innkeeper Allison in Stormwind.",
+  "d": "Stormwind is holding a celebration for the new year!  All day long today you can get free booze, and at night they'll put on a firework show!  It should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!$B$BWell anyway, Innkeeper Allison in Stormwind needs a supply of Smoky Wood Pasture fare to help feed all the party goers.  Can you do me a favor and deliver it!$B$BThanks, $N!  Innkeeper Allison is in the Gilded Rose, in the Trade District of Stormwind.",
+  "p": "Greetings! Are you here for the party! Or perhaps you just need to rest those weary feet of yours...",
+  "c": "Oh, my Smokywood supplies! Splendid! I'll need these to feed all the people in town for the celebration!$B$BThank you, $N. Please take this as payment, and don't forget to drink and dance with the revelers outside!"
+ },
+ {
+  "id": 8861,
+  "t": "New Year Celebrations!",
+  "o": "Bring the Smokywood Supplies to Innkeeper Pala in Thunder Bluff.",
+  "d": "Thunder Bluff is holding a celebration for the new year!  All day you'll find free booze there, and at night they'll put on a firework show!$B$BIt should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!$B$BWell anyway, Innkeeper Pala in Thunder Bluff needs a supply of Smoky Wood Pasture fare to help feed all the party goers.  Can you do me a favor and deliver it!$B$BThanks, $N!  Innkeeper Pala is in the inn near the bridge to Hunter's Rise.",
+  "p": "Good day, $C! Did you come to Thunder Bluff for our celebrations?  Or are you here to rest a weary hoof between hunts?",
+  "c": "Oh, very good! These supplies will help feed all our people, here to celebrate the new year!$B$BI thank you, $N. You are in my debt. Please, take these coins... and heed my advice - drink heartily from the kegs outside, and join our revelers in a dance of celebration!"
+ },
+ {
+  "id": 8862,
+  "t": "Elune's Candle",
+  "o": "",
+  "d": "",
+  "p": "Elune's candle is an artifact of great reverence to the disciples of the Lunar Festival. Stored within the candle is true moonlight, ready to be unleashed!$b$bThis light is harmless to most creatures, but you will find that Omen and his minions are burned and dazzled by it.",
+  "c": "Very well then - I accept these coins of ancestry. Please take Elune's candle with my blessing. Also, please enjoy these complimentary fireworks.$B$BMay your Lunar Festival be joyous and filled with merriment, $N.$B$BAnd if you choose to face Omen and his minions, you will find Elune's candle quite useful..."
+ },
+ {
+  "id": 8863,
+  "t": "Festival Dumplings",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Excellent - please enjoy these dumplings with my compliments. While they are but a small token of appreciation for the honor you have brought upon yourself through your actions, I think you will enjoy them all the same.$B$BShould you have any more coins of ancestry, I stand ready to offer you a wide array of items in exchange."
+ },
+ {
+  "id": 8864,
+  "t": "Festive Lunar Dresses",
+  "o": "",
+  "d": "",
+  "p": "I have a selection of dresses that may be of interest to you.  Such dresses have been worn in times past during the Lunar Festival, and the selection I have today is perhaps the finest I have ever seen.  Each is hand-crafted with only the finest and softest of components.$B$BIn exchange for some coins of ancestry, I will let you choose one of the three styles I have to keep as your own.  Is this acceptable to you?",
+  "c": "Very well then - I accept these coins of ancestry. Please take your dress with my blessing. Also, please enjoy these complimentary fireworks.$B$BAs you have honored your elders, you honor me with your mere presence. Thank you, and may your Lunar Festival be joyous."
+ },
+ {
+  "id": 8865,
+  "t": "Festive Lunar Pant Suits",
+  "o": "",
+  "d": "",
+  "p": "I am please to inform you that I have a fine selection of festive pant suits available for you to own... but only in trade for coins of ancestry.  If fashion is important to you, then these are what you're looking for!  I assure you that you will not find pant suits like these anywhere else.$B$BIn exchange for some Coins of Ancestry, I will let you choose one of the three styles I have to keep as your own.  Is this acceptable to you?",
+  "c": "Very well then - I accept these coins of ancestry. Please take your pant suit with my blessing. Also, please enjoy these complimentary fireworks.$B$BShould you have more coins of ancestry to trade, then speak with me again. I will be offering various items throughout the entirety of the Lunar Festival."
+ },
+ {
+  "id": 8866,
+  "t": "Bronzebeard the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8867,
+  "t": "Lunar Fireworks",
+  "o": "Launch 8 Lunar Fireworks and 2 Cluster Fireworks and return to a Lunar Festival Harbinger at any capital city.",
+  "d": "Every year the druids of Moonglade hold a celebration of our city's great triumph over an ancient evil.$B$BWe celebrate the wisdom of our elders, share in magnificent feasts and of course... shoot fireworks!$B$BFor a small donation you can purchase colorful rockets from our vendor.  Try using some of the launchers around here, $N.",
+  "p": "Did you find the launchers, $N?",
+  "c": "Well done, $N.$B$BNow that you're in the spirit of things, why don't you take this invitation to the festival in Moonglade.$B$BIt's quite an enjoyable celebration, if you have the time to spare.  We share food, drink, stories and of course... more fireworks!$B$BOpen the invitation while standing inside the circle of greater moonlight and you'll be transported to Moonglade."
+ },
+ {
+  "id": 8868,
+  "t": "Elune's Blessing",
+  "o": "Summon Omen, defeat him and gain Elune's Blessing.  Return to Valadar Starsong in Nighthaven",
+  "d": "The beast Omen was once a hero of this world.  A wolf of great strength and fortune, Omen fought beside the heroes of the War of the Ancients until he succumbed to demonic magics.  Turning against his allies, he raged across Azeroth and carried death and terror in his wake.$B$BFinally defeated here, in Moonglade, Omen now sleeps among the silt of Lake Elune'ara.  But each new year, during the festival, he stirs...$B$BGather cohorts, $N, and summon and defeat the beast Omen.  Earn the blessing of Elune!",
+  "p": "",
+  "c": "Very well done, $N.  Defeating Omen sent his spirit back to the waters of Elune'ara.  Although the beast himself is blessed by Elune and so cannot die, his anger will subside for another year.$b$bYour victory is a celebration, $N--a celebration of the might of Omen, of you and your allies, and of the peace you have given this tragic hero of our past."
+ },
+ {
+  "id": 8869,
+  "t": "Sweet Serenity",
+  "o": "Travel to Stratholme and kill the Crimson Hammersmith. Recover the Crimson Hammersmith's Apron and return to Lilith.$B",
+  "d": "Within the confines of the Scarlet Bastion lies sweet Serenity. The Crimson Hammersmith guards the recipe with his life. Defeat him and bring me his apron. For that, I shall train you to become a hammersmith.$B$BUnderstand this: Once you have chosen the path of the hammersmith, the paths of the swordsmith and axesmith will no longer be available.$B",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8870,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger in the Mystic Ward of Ironforge.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N. Are you here to join in the festivities?"
+ },
+ {
+  "id": 8871,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger in the Park District in Stormwind.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N.  Are you here to join in the festivities?"
+ },
+ {
+  "id": 8872,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger at the Cenarion Enclave in Darnassus.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N. Are you here to join in the festivities?"
+ },
+ {
+  "id": 8873,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger in the Valley of Wisdom in Orgrimmar.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N. Are you here to join in the festivities?"
+ },
+ {
+  "id": 8874,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger in the entrance to the Undercity.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N. Are you here to join in the festivities?"
+ },
+ {
+  "id": 8875,
+  "t": "The Lunar Festival",
+  "o": "Talk to the Lunar Festival Harbinger at the Elder Rise in Thunder Bluff.  You can also talk to Lunar Festival Harbingers in other capital cities.",
+  "d": "It's that time of the year, $N!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
+  "p": "",
+  "c": "Welcome, $N. Are you here to join in the festivities?"
+ },
+ {
+  "id": 8876,
+  "t": "Small Rockets",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Ah, very well. Here are your recipes, $N, and my Elune bless you."
+ },
+ {
+  "id": 8877,
+  "t": "Firework Launcher",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here you are, $N. Here is the schematic to create a firework launcher. Place launchers where you wish to celebrate, and then welcome your friends to join you!"
+ },
+ {
+  "id": 8878,
+  "t": "Festive Recipes",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here are the patterns, $N. I am sure you will find the product of this knowledge quite beautiful."
+ },
+ {
+  "id": 8879,
+  "t": "Large Rockets",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Very well - I accept these coins of ancestry. Here are your recipes, $N. May you use them to spread Elune's glory!"
+ },
+ {
+  "id": 8880,
+  "t": "Cluster Rockets",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here you are, $N. Take these recipes and learn their secrets. I bid you fortune, and I look forward to seeing your magnificent creations."
+ },
+ {
+  "id": 8881,
+  "t": "Large Cluster Rockets",
+  "o": "",
+  "d": "",
+  "p": "Large cluster rockets require vast resources and skill to create, but their brilliance and beauty is worth that effort! Bring me coins of ancestry and I will grant you the knowledge of their crafting.",
+  "c": "Thank you, $N. Here is the recipe for large cluster rockets. May your products bring joy and luck to all those who gaze up them."
+ },
+ {
+  "id": 8882,
+  "t": "Cluster Launcher",
+  "o": "",
+  "d": "",
+  "p": "The most splendid fireworks shows must include cluster rockets, and those cluster rockets must be fired from cluster launchers! Is it not then logical for you to learn the secrets of making cluster launchers? Bring me coins of ancestry and I will give this knowledge to you.",
+  "c": "Here is your schematic. Study it closely, and learn...$B$BGood luck, $N. May your celebrations rival that of the Lunar Festival itself!"
+ },
+ {
+  "id": 8883,
+  "t": "Valadar Starsong",
+  "o": "Use your Lunar Festival Invitation in the moonlight to travel to Moonglade. Speak with Valadar Starsong in Nighthaven when you arrive.",
+  "d": "Now that you have your Lunar Festival invitation, you may travel to Moonglade!  There you will find many revelers, and in the village of Nighthaven Valadar Starsong and his sister Fariel await those eager to participate in the celebration.$B$BTravel to Moonglade through the greater moonlight and speak with Valadar Starsong; see what prizes you might gain during the festival!",
+  "p": "",
+  "c": "$N, welcome to Nighthaven, host of the Lunar Festival!  Although our village is normally remote and sequestered from the peoples of Azeroth, during this time of celebration we open our arms and hearts to all.$B$BEnjoy your visit, $N, and speak with me or my sister again when ready."
+ },
+ {
+  "id": 8884,
+  "t": "Fish Heads, Fish Heads...",
+  "o": "Collect 8 Grimscale Murloc Heads.  Return them to Hathvelion Sungaze in the Eversong Woods on the bluff overlooking the Tranquil Shore.",
+  "d": "Greetings, $c.  Take a look toward the shore; what do you see?  That's right, our beach... our Tranquil Shore, has been infested with the malignancy known as the murloc.$B$BThis blight will not stand!$B$BI have a task for you.  If you feel that you're up to it, I would have their heads!  Let us see if we can put a dent in their numbers so large that, if they have any sense at all, they will return to the murky depths from which they sprang!",
+  "p": "We rangers of the Farstrider Retreat are dedicated to setting right the damage that has been wreaked upon our fair lands. We will go to any length to do so.$B$BI trust that you have returned with the murloc heads I tasked you to gather? ",
+  "c": "A job well done. by the smell of it, I'd say you returned all that I asked for, and possibly more. I'm sure we can find some use for these, in a stew, or somesuch.$B$BAlas, it does not appear that your efforts have done the trick; the murlocs are not in retreat. This calls for more direct action! "
+ },
+ {
+  "id": 8885,
+  "t": "The Ring of Mmmrrrggglll",
+  "o": "Retrieve the Ring of Mmmrrrggglll from the Grimscale chieftain's dead clutches.  Return it to Hathvelion Sungaze in the Eversong Woods on the bluff overlooking the Tranquil Shore.",
+  "d": "The Grimscale murlocs have not been scared off by your efforts. But, I think I know what will send them packing, as well as get me some personal retribution.$B$BThey have a murloc chieftain that calls itself Mmmrrrggglll. It wanders the Golden Strand south of the river inlet. The beast once slew a compatriot of mine, and now wears his ring in open defiance and mockery.$B$BSlay Mmmrrrggglll, and bring back my friend's ring. Then we shall see these monsters cowed!",
+  "p": "You are the instrument of my success and revenge!$B$BHave you the ring? ",
+  "c": "At last! Though the Grimscale did not route. as hoped, it was entertaining to watch them panic in confusion when you laid low their so-called chieftain. You have my thanks, and the gratitude of the sin'dorei of Silvermoon City!$B$BPlease, take one of these in thanks for the service that you have rendered. "
+ },
+ {
+  "id": 8886,
+  "t": "Grimscale Pirates!",
+  "o": "Retrieve 6 of Captain Kelisendra's Cargo and return them to Captain Kelisendra at the defended camp just to the east of the Sunsail Anchorage in Eversong Woods.",
+  "d": "Thank goodness for you, $c! Those slimy Grimscale murlocs have pirated away my cargo! It's bad enough that the Wretched have stolen what little magical goods I had, but the murlocs took the rest! What has this land come to?$B$BCould you retrieve my cargo? I can't expect that you'd be able to get all of it back, but I'll be grateful for any of it at this point. It was the Grimscale murlocs in the huts, just to the west and south of the anchorage on the Golden Strand, I'm sure of it!$B",
+  "p": "I am grateful for the assistance of someone like you, $N. It almost puts a smile on my face. But then I realize what these monsters have done to my ship and what's happening to Quel'Thalas.$B$BHave you managed to retrieve any of my cargo?",
+  "c": "You did it! You've saved me from ruin and delivered my revenge upon those disgusting creatures!$B$BNow if I can just get these pretty rangers here to help me with this cargo, I'll finally get out of here! I'll have to come back when Velendris has retaken the shipyard.$B$BHere, take this coin. It's what little I can afford, and the least that I can do to reward your efforts."
+ },
+ {
+  "id": 8887,
+  "t": "Captain Kelisendra's Lost Rutters",
+  "o": "Return Captain Kelisendra's Lost Rutters to Captain Kelisendra at the defended camp just to the east of the Sunsail Anchorage in Eversong Woods.",
+  "d": "Interesting... what you have found here is a water-proofed, leather tube containing a number of sheets of parchment. By the markings upon them, the pages are clearly navigation rutters, and each bears the signature of one Captain Kelisendra.$B$BYou've heard of a small, defended camp just east of the nearby Sunsail Anchorage. Maybe the captain is there?",
+  "p": "Hello, $C, you're a sight for sore eyes. I know, it's crazy for me to be here, what with the anchorage overrun by the Wretched. Velendris and his rangers have sworn to protect me on the condition that I get out of here as soon as I've recovered my cargo.$B$BWhat's that you have there... it looks vaguely familiar?",
+  "c": "Oh you sweet, sweet $c! I had no idea that those disgusting Grimscale murlocs had also pirated away with my navigation rudders! Without them, I would have no chance of navigating the seas again once we retake the anchorage and repair the ship.$B$BThank you very much! Here, take this coin as a sign of my appreciation."
+ },
+ {
+  "id": 8893,
+  "t": "The Super Egg-O-Matic",
+  "o": "",
+  "d": "",
+  "p": "The Super Egg-O-Matic is the latest of Curgle Cranklehop's inventions. It is quite an impressive piece of machinery.$B$BThe Super Egg-O-Matic sputters wildly as you approach the control panel.",
+  "c": "You place the hippogryph egg into the machine. A series of beeps follows along with some strange mechanical sounds.$B$BIt appears that the Eggometer has weighed, measured, and packaged your egg. Now that's speedy service!"
+ },
+ {
+  "id": 8896,
+  "t": "The Dwarven Spy",
+  "o": "Find and kill Prospector Anvilward in the North Sanctum and report back to Aeldon Sunbrand in Eversong Woods.",
+  "d": "Are you sure you found these notes on a Night Elf, then?  Most of them are written in the Dwarven...$B$BProspector Anvilward!  He was sent here from Ironforge on a diplomatic mission.  I should've known his interest in our Arcane Sanctums was a bit excessive.  $N, find the dwarf in the North Sanctum and take care of him.  Oh, and be discrete about it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8897,
+  "t": "Dearest Colara,",
+  "o": "Deliver Lieutenant Heldric's Carefully Penned Note to Colara Dean outside the bank in Stormwind.",
+  "d": "I've got to keep watch here at the gate, but I'm always worrying about my sweetheart, Colara. I only get to see her for a few hours, if I'm lucky, and well, just look at me. I've got a minor officer's pay and I could be called to the front any day now.$b$bWould she just forget about me? There are a lot of men in the city. A lot of rich ones.$b$bAnyways, I've scribbled some things down... nothing much, but if you could take it to her for me, that'd be great.",
+  "p": "Hello there, handsome. Something I can help you with?",
+  "c": "Oh, isn't that sweet! This is the first time he's ever sent me something. Do you suppose he's getting serious?$B$BColara Heldric? I suppose it has a ring to it. Oh, but I'm getting ahead of myself. Thank you."
+ },
+ {
+  "id": 8898,
+  "t": "Dearest Colara,",
+  "o": "Deliver the Creased Letter to Colara Dean outside the bank in Stormwind.",
+  "d": "I met a lass in Stormwind when I was last there on the bank's business. She stole my heart away. Now, I can't stop thinking about her! I'd like to send her this message - I've rewritten it twelve times!$b$bThe mail is so full now, and I want to make sure it gets there.$b$bIf you're heading that way, could you help me?",
+  "p": "Hello there, handsome. Something I can help you with?",
+  "c": "Tormek? Oh yes, I do remember him. He had quite a nice beard and smile underneath.$B$BAh, I can't believe he remembered me!"
+ },
+ {
+  "id": 8899,
+  "t": "Dearest Colara,",
+  "o": "Deliver the Immaculate Letter to Colara Dean outside the bank in Stormwind.",
+  "d": "How to describe her beauty? Thousands of years of words and I am at a loss.$b$bThese mortals confound the mind and leave us babbling fools.$b$bI've stared at these words too long. No more eloquent meaning can I squeeze from them. No, she must have it now, or some other suitor will surely steal her eye.",
+  "p": "Hello there, handsome. Something I can help you with?",
+  "c": "I've never received something like this before. How lovely!"
+ },
+ {
+  "id": 8900,
+  "t": "Dearest Elenia,",
+  "o": "Deliver the Slightly Creased Note to Elenia Haydon near the bank in the Undercity.",
+  "d": "She was so sad. I could see that, once I saw past her state. I mean, she seemed sad - wouldn't you?$b$bBut after talking to her, there was a connection. I didn't think anyone could understand what I was thinking, but she could.$b$bWhen I told the others, they laughed at me, so I never spoke with her again. But I miss her. Can you take this letter to her for me? I want to be sure it finds her hands.",
+  "p": "Oh, and to what do I owe this pleasure?",
+  "c": "You wouldn't expect an orc to be so eloquent. Of course, we never really had a chance to know them before now. Thank you for bringing this to me."
+ },
+ {
+  "id": 8901,
+  "t": "Dearest Elenia,",
+  "o": "Deliver the Carefully Written Letter to Elenia Haydon near the bank in the Undercity.",
+  "d": "Have you ever known love, young one? It was a thing foreign to me until lately, when I met a girl from the Undercity, Elenia. It is rare enough for one of my kind to look outside our own, let alone one of the Forsaken.$b$bBut now thoughts of her occupy my mind both days and nights.$b$bIf you can, could you take this letter to her? I want her to come here to Mulgore. I hope that she will say yes.",
+  "p": "Oh, and to what do I owe this pleasure?",
+  "c": "What kind words Temma writes for me. But, as much as his words move me, I cannot consider the love of a tauren. In thoughts, body and mind we are too different.$B$BIt is good I do not have to receive these thoughts of his in person. I could not bear to break his heart."
+ },
+ {
+  "id": 8902,
+  "t": "Dearest Elenia,",
+  "o": "Deliver the Lovingly Composed Letter to Elenia Haydon near the bank in the Undercity.",
+  "d": "A lifetime ago, I was betrothed to marry Elenia, my childhood sweetheart. It's been years since I thought about her last, but of late, she frequently occupies my thoughts.$b$bPerhaps, even with everything that has passed, there can be some room in each other's lives for our love.$b$bI'm sure she has changed, also. Can you deliver this letter to her for me? I am too nervous to give it in person.",
+  "p": "Oh, and to what do I owe this pleasure?",
+  "c": "This brings back memories from a lifetime ago, $N. Elenia Tor. That was going to be my name, you know. We would have a beautiful ceremony out on the shores of the lake. When he retired, we'd find a farm to retire to.$B$BSimple dreams, then.$B$BBut if he saw me now, I doubt he'd even see Elenia in me. Only cold flesh and a dead heart..."
+ },
+ {
+  "id": 8903,
+  "t": "Dangerous Love",
+  "o": "Get a Stormwind Guard's Card and return it to Aristan Mottar in Stormwind.",
+  "d": "There's something unnatural about this epidemic of love. It's not proper, it's an eyesore, and at worst, it could be a threat to the safety of the Alliance itself.$b$bJust think: what if the guards have been taken in by this strange affliction? Something must be done.$b$bGo to one of the guards here in Stormwind and see if they've been caught up in this foolishness.",
+  "p": "Was I right to worry? Are the guards afflicted with this lovesickness?",
+  "c": "So it is true. This is unbelievable. How could this have happened? Let me think for a moment. There must be a reason behind this."
+ },
+ {
+  "id": 8904,
+  "t": "Dangerous Love",
+  "o": "Get a Guardian's Moldy Card and bring it to Fenstad Argyle in the Undercity.",
+  "d": "There's something unnatural about this epidemic of love. It's disgusting, and as it lowers our defenses, it could be a threat to the all of us.$b$bIt's bad enough that so many of our people are caught up in this ridiculous behavior. But I think that it has spread even to our guardians, who should be immune to such things.$b$bFind one of our guardians and see if they've been caught up in this foolishness.",
+  "p": "Was I right to worry? Have our idiot guardians been overcome?",
+  "c": "So it is true. This is unbelievable. How could this have happened? Let me think for a moment. There must be a reason behind this."
+ }
+]

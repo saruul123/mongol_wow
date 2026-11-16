@@ -1,0 +1,962 @@
+[
+ {
+  "id": 4447,
+  "t": "Corrupted Night Dragon",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4448,
+  "t": "Corrupted Night Dragon",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a Night Dragon plant. The fruits that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4449,
+  "t": "Caught!",
+  "o": "Kill 8 Dark Iron Geologists and bring 15 pieces of Silk Cloth to the person locked in the outhouse in Searing Gorge.",
+  "d": "Hey! Hey, you! Get over here!$B$BYa gotta help me out. I was runnin' from them Dark Iron dwarves, and I hid in here to get out of sight. Damn geologists and their magic ways! They musta seen me hide, cause next thing I knew, they locked the door and stuck me in here.$B$BTeach them geologists a lesson! Oh... an' can ya get me some pieces of silk cloth for... for... nothin'.",
+  "p": "I ain't got all day! Get me those pieces of silk cloth! I mean geologists. Get those geologists! They deserve to feel my, well... your wrath.",
+  "c": "Oh, this is great! Nice feel to it too!$B$BWhat? Oh, yeah... geologists. Got 'em good, did ya? I can't thank ya enough, $N. That'll give me some time to finish up in here... Thanks again, $N."
+ },
+ {
+  "id": 4450,
+  "t": "Ledger from Tanaris",
+  "o": "Take the copy of Goodsteel's Ledger and then find the items listed in it before seeking Krinkle Goodsteel in Tanaris.",
+  "d": "Oh, you know what? That reminds me.$B$BYou wanna finish up a little job I took up while I was in Tanaris? It's easy...$B$BKrinkle Goodsteel in Gadgetzan was lookin' for some stuff found here in Searing Gorge and a few other places. Maybe you could take a look at the list and then bring it all to him?$B$BI'll just slide his ledger under the door if you're interested. Take that, and the stuff he wants back to him after ya collected it all.",
+  "p": "Yes, yes? What can I do for you, $R? I'm awfully busy and have many patrons requesting my services. Perhaps you can speed things up. I don't mean to be rude, but I just don't have the time if I'm to catch up on all my work.",
+  "c": "Oh, you've seen fit to do some of the work I requested. Excellent. And here I thought you were going to ask me to craft you something.$B$BThese are all perfect... and everything's here. Thank you, $c.$B$BMaybe it wouldn't hurt to reward you some... hmm, what would you find useful."
+ },
+ {
+  "id": 4451,
+  "t": "The Key to Freedom",
+  "o": "Search Searing Gorge and find a use for the Grimesilt Outhouse Key you have found.",
+  "d": "The small brass key looks simple enough.. The only thing that seems to make it stand out are some words scratched into the head of it:$B$B\"Dark Iron Outhouse - Do Not Duplicate.\"$B$BYou have no idea what it means or what it will lead to.",
+  "p": "*cough*$b$bWho is it? Can't ya see I'm busy?",
+  "c": "Well, I'll be! How in tarnation!? You found the key! I knew them blasted Dark Irons were hiding it after they locked me in here! Thank ya so much, $N. You're the greatest! Now, just turn the key and let ol' Locheed outta here!"
+ },
+ {
+  "id": 4461,
+  "t": "Corrupted Whipper Root",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4462,
+  "t": "Corrupted Night Dragon",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a Night Dragon plant. The fruits that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4463,
+  "t": "Libram of Rumination",
+  "o": "",
+  "d": "",
+  "p": "Present the components, mortal.$B$BI will also require payment in the form of thirty gold pieces for this creation.",
+  "c": "Take your trinket, fool. Leave me to my studies!"
+ },
+ {
+  "id": 4464,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4465,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant.  A pungent, unhealthy odor emanates from the plant.  It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4466,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4467,
+  "t": "Corrupted Windblossom",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 4481,
+  "t": "Libram of Constitution",
+  "o": "",
+  "d": "",
+  "p": "There is a price to pay for all things in this world. The price for the specific item that you seek is thirty gold pieces.$B$BNaturally, I shall retain the majority of the components which you collected. But worry not, you shall have your trinket.",
+  "c": "It is disgrace to his memory... a mortal, such as yourself, finishing his life's work.$B$BTake your amalgamation and be gone!"
+ },
+ {
+  "id": 4482,
+  "t": "Libram of Tenacity",
+  "o": "",
+  "d": "",
+  "p": "Thirty gold, $R. Thirty gold and the required components.",
+  "c": "It took Kariel what would amount to several of your lifetimes to complete the libram that you now hold, $R. All for what? So that his disciple could stand in the Burning Steppes and bastardize his research in order to satiate a never ending arcane craving... Curse this foul addiction.$B$BI am disgusted with your lack of compassion and insatiable greed. Be gone!"
+ },
+ {
+  "id": 4483,
+  "t": "Libram of Resilience",
+  "o": "",
+  "d": "",
+  "p": "If it is resilience you desire, thirty gold I require.",
+  "c": "Other librams are lost in this world. Lost in places you would not dare enter. Places you would pray did not exist.$B$BI will drink in the energies of these components. You shall be given the residual waste..."
+ },
+ {
+  "id": 4484,
+  "t": "Libram of Voracity",
+  "o": "",
+  "d": "",
+  "p": "Do not waste my time, $R. Give me what I require. Thirty gold and the components.",
+  "c": "My head throbs... The energies of the vast expanses that makes up our universe... ARGGH!$B$BTake what you desire and leave!"
+ },
+ {
+  "id": 4485,
+  "t": "The Tome of Nobility",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "Hello, $N. I see your dedication remains strong, as does your faith.$B$BI think it is time you spoke with Duthorian Rall in Stormwind. There are some more lessons for you to learn, and I feel you are prepared.$B$BSeek him out in the Cathedral of Light, and $N, take these lessons seriously. You've attained your status through humility and hard work, do not disappoint us by becoming arrogant.$B$BBe well.",
+  "p": "",
+  "c": "Ah, you've returned to the Cathedral, $N. Good. A lot has happened recently, and I would seek your aid if you prove worthy.$B$BMany treacherous enemies are about. I will need your help to stop them."
+ },
+ {
+  "id": 4486,
+  "t": "The Tome of Nobility",
+  "o": "Speak to Duthorian Rall in Stormwind.",
+  "d": "Well, well, well, look at the mighty paladin in all $ghis:her; regality.$B$BSorry, $N, I meant no offense... I just get a little jealous sometimes when I see some of the feats you've accomplished. Tiza tells me it's my weakness, and I swore to her I'd work on it. It's just hard sometimes, you know?$B$BBut the reason I wanted to talk to you was because Duthorian Rall in Stormwind sent word for you to meet him in the Cathedral of Light when you're ready. Sounded important. Sounded like something's going on.",
+  "p": "",
+  "c": "Ah, you've returned to the Cathedral, $N. Good. A lot has happened recently, and I would seek your aid if you prove worthy.$B$BMany treacherous enemies are about. I will need your help to stop them."
+ },
+ {
+  "id": 4487,
+  "t": "Summon Felsteed",
+  "o": "Speak to Strahad Farsan in Ratchet.",
+  "d": "Ah, good, you're here. I sent a $g succubus:infernal; after you to get your attention, but it seems you were able to get here before it found you. No matter.$B$BThere has been some talk lately of your growing power--that is good for you, possibly bad for others. But those are irrelevant points. The point is, I feel you've proven yourself and therefore are deserving of... hehe... a blessing of sorts.$B$BAbove Ratchet in the Barrens you'll find a man named Strahad. I believe you've crossed paths before.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 4488,
+  "t": "Summon Felsteed",
+  "o": "Speak to Strahad Farsan in Ratchet.",
+  "d": "Ah, $N, you've seen fit to grace us with your presence. How wonderful!$B$BI hope you do not expect us to wait on you hand and foot also. You may be growing quickly in power, but you still are a pup when it comes to true knowledge and understanding. If you're not careful, corruption will overwhelm you and your weak will.$B$BBut I should get to the point: Strahad wishes to speak to you. He is still residing in his tower overlooking Ratchet in the Barrens. I suggest not taking too long.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 4489,
+  "t": "Summon Felsteed",
+  "o": "Speak to Strahad Farsan in Ratchet.",
+  "d": "You, $r! Come here!$B$BYou're the one they call $N, yes?$B$BI thought as much. I will keep this short: you're growing in power, and it has been acknowledged. And now, the time has come that you are rewarded for your efforts.$B$BGo to the Barrens. There, above Ratchet, you'll find Strahad Farsan--perhaps you remember him? He would have words with you. I wouldn't take long.",
+  "p": "",
+  "c": "So, you've decided to grace my presence again. How kind of you.$B$BMy acolytes wondered if you'd ever show up. I told them there was no doubt. When power is concerned, you are drawn in like a moth to the flame."
+ },
+ {
+  "id": 4490,
+  "t": "Summon Felsteed",
+  "o": "Speak to Strahad Farsan in Ratchet to learn the ability to summon a Felsteed.",
+  "d": "I would give you a reward for your patience and hard work. But know this, the ability to summon a Felsteed will be much more difficult in the future. You will have to earn it... and it will not be easy.$B$BFor now, go with the power to summon such a creature and use it as you see fit.",
+  "p": "",
+  "c": "Good luck, $N. I look forward to seeing you in the future."
+ },
+ {
+  "id": 4491,
+  "t": "A Little Help From My Friends",
+  "o": "Lead Ringo to Spraggle Frock at Marshal's Refuge.$B$BIf Ringo faints, use Spraggle's Canteen to revive him.",
+  "d": "Ugh... It's so hot...$B$BI was exploring this area, when all of a sudden, the heat just became unbearable. I must be suffering from heat exhaustion.$B$BPlease, help me get back to my friend Spraggle at Marshal's Refuge. I think I'm well enough to follow you there.$B$BI am feeling a little out of it, so if I do happen to faint again, just splash some water on me from Spraggle's canteen. That should work, I hope...",
+  "p": "I've been so worried about Ringo...",
+  "c": "Ringo's not in the best shape, $N, but I am glad to have him back in one piece!$b$bThank you for finding him."
+ },
+ {
+  "id": 4492,
+  "t": "Lost!",
+  "o": "Find Ringo at Fire Plume Ridge.",
+  "d": "You've got to help me, $N! My friend, Ringo left earlier to explore the volcano to the south of here, and he has been gone way too long. I am really worried about him.$B$BDo you think you could find him? Why don't you take my canteen with you -- if you do find Ringo, I'm sure he'll need it!",
+  "p": "Wha... What?",
+  "c": "Oh... I'm so glad someone found me..."
+ },
+ {
+  "id": 4493,
+  "t": "March of the Silithid",
+  "o": "Speak to Alchemist Pestlezugg in Gadgetzan.",
+  "d": "It would seem that the silithid's intent, nay - reason for being, is to devour everything in their path that is not of their ecology.  Their focus is singular, and it is for this reason they are a grave threat to all life on Azeroth.$B$BWhat we've seen to date is but the first stages.  I suspect that their strength comes from deeper in Kalimdor: Un'Goro Crater.  Go to Gadgetzan in the Tanaris desert and speak to Alchemist Pestlezugg.  Tell him of my theory; he will surely aid us in fighting the silithid.",
+  "p": "",
+  "c": "Yes, I gathered that Gracina sent you to me. Your experience in fighting these beasties is priceless; no one to my knowledge has ever dealt with their kind before. As for Gracina's idea that Un'Goro Crater is their heart... perhaps it is. Un'Goro is a mysterious and dangerous jungle to the west of here. Perhaps it is also one step closer to figuring out what the silithid are all about."
+ },
+ {
+  "id": 4494,
+  "t": "March of the Silithid",
+  "o": "Speak to Alchemist Pestlezugg in Gadgetzan.",
+  "d": "It would seem that the silithid's intent, nay - reason for being, is to devour everything in their path that is not of their ecology.  Their focus is singular, and it is for this reason they are a grave threat to all life on Azeroth.$B$BWhat we've seen to date is but the first stages.  I suspect that their strength comes from deeper in Kalimdor: Un'Goro Crater.  Go to Gadgetzan in the Tanaris desert and speak to Alchemist Pestlezugg.  Tell him of my theory; he will surely aid us in fighting the silithid.",
+  "p": "",
+  "c": "Yes, I gathered that Zilzibin sent you to me. Your experience in fighting these beasties is priceless; no one to my knowledge has ever dealt with their kind before. As for Zil's idea that Un'Goro Crater is their heart... perhaps it is. Un'Goro is a mysterious and dangerous jungle to the west of here. Perhaps it is also one step closer to figuring out what the silithid are all about."
+ },
+ {
+  "id": 4495,
+  "t": "A Good Friend",
+  "o": "Find Iverron by the cave to the north.",
+  "d": "A friend of mine named Iverron usually visits me at the same time every day. The strange thing is that he hasn't been by today at all -- he's several hours late, in fact.$B$BI admit, I am a little worried, $N. Iverron spends a lot of time over by the cave to the north, and I'm sure you know how dangerous it is there -- spiders, everywhere!$B$BIf you happen to be going that way, though, will you keep an eye out for him?",
+  "p": "",
+  "c": "I'm so glad you found me, $N. How did you know I was here?"
+ },
+ {
+  "id": 4496,
+  "t": "Bungle in the Jungle",
+  "o": "Bring a Gorishi Scent Gland and 5 Un'Goro Soil samples to Alchemist Pestlezugg in Gadgetzan.",
+  "d": "My research revealed to me that the silithid are like bees; destroy the queen of the hive, and the rest of should be thrown into disarray.  I'll brew a lure that we'll use to bring out the queen; once summoned, you'll take her down.$B$BFirst though, we need some reagents; we don't want you bungling into the jungle unprepared.  Go west to find the silithid hive in Un'Goro Crater and obtain a scent gland from one of the bugs.  I'll also need some samples of the native Un'Goro soil.",
+  "p": "Finding a suitable scent gland might take a bit - the gland can't be damaged, but the process of getting one certainly doesn't lend itself to it. As for the soil, I'd assume it should be easy enough to find.$b$bAnyway, do you have the items I need to make the lure?",
+  "c": "The scent gland, ah yes. The membrane appears intact - excellent. The soil, yes, this should work out perfectly. With my special additions, I should be able to grind all this up into the perfect lure.$b$bGive me a moment to make the lure, $N. Once it's ready, we'll be able to enact the next step that may hopefully stop the silithid before they overrun Gadgetzan... and the rest of Kalimdor."
+ },
+ {
+  "id": 4502,
+  "t": "Volcanic Activity",
+  "o": "Collect 9 samples of Un'Goro Ash from the fire elementals around the volcano in Un'Goro Crater, and return them to Liv Rizzlefix in Ratchet.",
+  "d": "Being an apprentice to Marvon Rivetseeker, I've learned so much. But he's been gone for such a long time now, so I think I'm going to work on some experiments of my own.$B$BI've been reading about Un'Goro Crater most recently, and about the strange volcanic activity going on in the middle of the crater. I think a lot could be learned if I could just get some of the ash from the elementals there.$B$BDo you think you'd mind collecting some for me, if you are going that way?",
+  "p": "Is it true that the volcano in Un'Goro is active? I'm sure I could learn a lot with some ash from the volcano, $N.",
+  "c": "These samples will be perfect for my studies! Thank you, $N! I promise, you'll be the first one I will tell about my findings."
+ },
+ {
+  "id": 4503,
+  "t": "Shizzle's Flyer",
+  "o": "Collect 8 Webbed Diemetradon Scales and 8 Webbed Pterrordax Scales for Shizzle in Marshal's Refuge.",
+  "d": "I'm making a flying machine!$B$BI got stranded here, and I'm absolutely horrible at finding my way around. I'd take a gryphon or wind rider back to Gadgetzan, but those beasts just scare me to death.$B$BSo, will you help me? All I have left to build is the wings, and I was thinking that the webby scales from the pterrordax and diemetradon would be perfect. There's no way I'm going to go up against one of those, but you look pretty tough. Why don't you give it a try?",
+  "p": "Every great vehicle needs a name... I was thinking I'd call it... Pwned!",
+  "c": "Yes, these scales are perfect. I should be able to get this flyer off the ground with these scales for sure!$B$BThanks!"
+ },
+ {
+  "id": 4505,
+  "t": "Well of Corruption",
+  "o": "Collect a sample of corrupted water from the Jadefire Satyrs' moonwell and bring it to Winna Hazzard at Bloodvenom Post.",
+  "d": "Some may say that I am exceptionally cruel... But truly, it is only a strong desire to see the Horde gain an advantage against the Alliance, in any way possible.$B$BMy newest interest is a moonwell at the Ruins of Constellas, south of here, tended by the Jadefire satyrs. The moonwell, once a symbol of renewal for the insufferable night elves, is now corrupted, and used to bring forth more satyrs.$B$BI have an idea, $N, and I'd like a sample of the water... for my little feline friend here.",
+  "p": "This is of utmost importance. Be on your way, now.",
+  "c": "Very well. We must find a way to use this corruption against our enemies..."
+ },
+ {
+  "id": 4506,
+  "t": "Corrupted Sabers",
+  "o": "Take Winna's kitten to the corrupted moonwell, release it, then bring it back to Winna.$B$BOnce you have returned to Winna, click on the cat to release it to Winna.",
+  "d": "This corrupted water can be used to our advantage, $N. With just a small amount of the water, my kitten doubled in size, and seems to be stronger... somehow. These cats may prove useful...$B$BHere, $N. Take this cat carrier, and release the kitten inside next to the moonwell in the Ruins of Constellas. Heh, heh... I'm sure you'll be pleased with the results!$B$BReturn the cat to me, and I'm sure I can make it worth your time.",
+  "p": "Don't tell me that you can't go back there! Get going!",
+  "c": "Excellent!$b$bThe forsaken will resort to any means necessary to crush the alliance! The use of the corrupted water will surely prove useful in our future efforts..."
+ },
+ {
+  "id": 4507,
+  "t": "Pawn Captures Queen",
+  "o": "Defeat the Gorishi Hive Queen once she is summoned.$B$BBring the Gorishi Queen's Brain to Alchemist Pestlezugg in Gadgetzan.",
+  "d": "Here's the lure.  Inside the hive network should be a crystal of some sort.  We think the silithid use the crystal as some sort of hive-wide attunement device.  As for where this crystal might be, I'd say try the hatcheries inside the hive.$B$BUsing the lure on the crystal should roust out the queen, but be warned - she will probably be protected by several guards.  Take out the queen and remove her brain.  As icky as that sounds, we desperately need to study it.  Good luck, $N!",
+  "p": "Acquiring the queen's brain for our research is absolutely imperative.  From what we have learned, we believe that these silithid are quite possibly being controlled by a malign intelligence.  I shudder to think what could control something as insidious as the silithid, $N.",
+  "c": "Fantastic, $N!  We've won quite the victory here today.  It will take some time for us to fully understand what we have here; we'll put it to good use though, don't you worry about that.$B$BAs for the silithid, I genuinely doubt that this was the full extent of their presence.  This is much too clean of a resolution, I'm sorry to say."
+ },
+ {
+  "id": 4508,
+  "t": "Calm Before the Storm",
+  "o": "Bring Pestlezugg's Un'Goro Report to Gracina Spiritmight in Darnassus.",
+  "d": "My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it.  As resourceful as we are here in Gadgetzan, we can't do this alone.$B$BTake my latest report back to Gracina Spiritmight in Darnassus; she's still at the Temple of the Moon, is she not?  She's got friends who are Alliance bigwigs; if we can get them involved in this $N, then we just might make it out of this alive.",
+  "p": "They are fools, $N!  They cannot even think to look around them for a greater threat; their irrational hatred of the Horde will be the end of us all.  I do not know how much more proof I can give them of the silithid threat short of dropping them in one of the hives so they can see for themselves!$B$BI'm sorry, you bring news for my attention?",
+  "c": "While I genuinely appreciate this, I am not sure what good it will do us.  The Alliance ignores threats from any source other than the Horde, and even our own leaders here in Darnassus cannot agree on what exactly this threat is.  Fools like Fandral Staghelm theorize that the silithid are nothing like the threat from the ancient past I claim them to be.  His ignorance is only surpassed by his arrogance.$B$BYou have seen the threat yourself, $N.  We must remain committed to defeating the silithid!"
+ },
+ {
+  "id": 4509,
+  "t": "Calm Before the Storm",
+  "o": "Bring Pestlezugg's Un'Goro Report to Zilzibin Drumlore in Orgrimmar.",
+  "d": "My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it.  As resourceful as we are here in Gadgetzan, we can't do this alone.$B$BTake my latest report back to Zilzibin Drumlore in Orgrimmar; he's still in his place on the upper part of the Drag, is he not?  He's got friends who are high within the Horde; if we can get them involved in this $N, then we just might make it out of this alive.",
+  "p": "They are fools, $N!  They cannot even think to look around them for a greater threat; their irrational hatred of the Alliance will be our undoing.  I do not know how much more proof I can give them of the silithid threat short of dropping them in one of the hives so they can see for themselves!$B$BI'm sorry, you bring news for my attention?",
+  "c": "While I genuinely appreciate this, I am not sure what good it will do us.  The Horde ignores threats from any source other than the Alliance.  While Thrall himself might take action were the facts presented to him, he is beset on all sides by conflicting advice.  These fools would have us chase our own imaginary tails were they to think it might catch the Alliance unawares!$B$BYou have seen the threat yourself, $N.  We must remain committed to defeating the silithid!"
+ },
+ {
+  "id": 4510,
+  "t": "Calm Before the Storm",
+  "o": "Bring the Bank Voucher to Idriana in the bank of Darnassus.",
+  "d": "$N, your help has been immeasurable.  The time will come, no doubt, when I'll ask for your assistance against the silithid once more.  We must absorb what we have learned in Un'Goro; I fear that my assumptions that the silithid originated from Un'Goro are now wrong... that indeed there is a far stronger presence somewhere.$B$BTake this note to Idriana at the bank.  She'll give you something from my vault that should be viewed as a token of my gratitude.  Thank you for your assistance, brave $c.",
+  "p": "Elune'adore, $C.  What may I do for you today?",
+  "c": "This bank voucher authorizes me to withdraw an item from Gracina Spiritmight's account with us and present it to you.  Congratulations would seem to be in order!"
+ },
+ {
+  "id": 4511,
+  "t": "Calm Before the Storm",
+  "o": "Bring the Bank Voucher to Karus in the bank of Orgrimmar.",
+  "d": "$N, we could not have gotten this far without you.  The time will come soon, no doubt, when I'll ask for your help against the silithid once more.  We must absorb what we have learned in Un'Goro; I fear that my assumptions that the silithid originated from Un'Goro are now wrong... that indeed there is a far stronger presence somewhere.$B$BTake this note to Karus at the bank.  He'll give you something from my vault that should be viewed as a token of my gratitude.  Thank you for your assistance, mighty $c.",
+  "p": "Zug zug!  What may I help you with today, $C?",
+  "c": "This bank voucher authorizes me to withdraw an item from Zilzibin Drumlore's account with us and present it to you.  Congratulations would seem to be in order!"
+ },
+ {
+  "id": 4512,
+  "t": "A Little Slime Goes a Long Way",
+  "o": "Bring 6 Filled Cursed Ooze Jars and 6 Filled Tainted Ooze Jars to Laris Geardawdle in Ironforge.",
+  "d": "But the thing I've studied most is ooze. I know it sounds odd, but they're all over!$B$BI helped a lady in Menethil find her bag not too long ago--it was eaten by oozes. I've seen members of the Royal Apothecary Society from Undercity collecting samples of the stuff. I want to know why! Where does it come from?$B$BI've heard of more in Felwood. What I need are samples of the oozes there so I can further my research. I'll give you containers, you use them to collect a sample from the deceased creatures.",
+  "p": "Some of the experiments I've done are fascinating. I think with a little more work, I'll be able to figure out the nature of these creatures and how they play into how life developed on Azeroth... if they even have anything to do with it to begin with.$B$BOne of my biggest theories that isn't well liked is the idea that oozes and slimes are tied to the creation of this planet... almost like they're a secretion of it.$B$BBut I can't prove or disprove it until I get more samples.",
+  "c": "Amazing results, $N! You got close enough to take a sample of the corrupted things, and managed to look no worse for wear! Thank you. Oh, these samples will be perfect. I can't wait to start testing on them.$B$BIf I'm right, I could be one of the Explorers' Leagues greatest scientists!$B$BThat'll prove to all the dwarves that it wasn't a mistake to allow us gnomes into Ironforge  after the Gnomeregan incident."
+ },
+ {
+  "id": 4513,
+  "t": "A Little Slime Goes a Long Way",
+  "o": "Bring 10 Filled Pure Sample Jars to Laris Geardawdle in Ironforge.$B$BIf you have trouble finding them, perhaps try to get more clues from Laris.",
+  "d": "I'm going to need more samples, $N. But--and I don't know how to put this--they have to be pure samples. I know, I know. \"What does 'pure' mean, Laris?\" I'm not sure. I do know that these are corrupt... just like Felwood. Which is what makes my realization so important. The oozes seem to adapt... to take on the aspects of the area they're in. I'll need to find samples that haven't been polluted. But where? Where?!$B$BBah! $N, take these containers just in case you find any on your own.",
+  "p": "So many things to consider. But what does it mean? And how does it affect the lives of the people of Azeroth?",
+  "c": "You've found it? $N, you are a treasure unto yourself. Your dedication and aid has been magnificent and I could not possibly thank you enough.$B$BPlease, take this for your troubles. I have some work to do, but I'm sure, if you come back at a later time, I'll have need of your services again.$B$BThank you. Thank you so much."
+ },
+ {
+  "id": 4521,
+  "t": "Wild Guardians",
+  "o": "Trull Failbane in Felwood wants you to kill 15 Raging Owlbeasts and 15 Ragged Owlbeasts.",
+  "d": "Winterspring lies just beyond Timbermaw, northeast of Felwood. Have you been there?$B$BI have heard that the area is laden with creatures called wildkin. These beasts have been known to guard secrets; secrets of the Night elves.$B$BWe must figure out what may be hidden in Winterspring.$B$BI have heard the ragged owlbeasts can be found just south of the road, and that there are others called raging owlbeasts that may be found in the center of Winterspring. Clear them out, and gain access to the land.",
+  "p": "Report back to me after you have completed the task I gave you.",
+  "c": "This is excellent news, $N. With these beasts out of the way, we can begin to adventure further into Winterspring. Are you ready for more?"
+ },
+ {
+  "id": 4561,
+  "t": "Testing for Impurities - Un'Goro Crater",
+  "o": "",
+  "d": "",
+  "p": "You take a sample of slime from Un'Goro Crater and place some of it into the various tubes and beakers on the table. As things begin to boil and spurt, the slime changes colors. When the process slows down and the liquids calm, you see a small petri dish with your purified Un'Goro slime samples in it along with some other remnants.",
+  "c": "You pick up the petri dish with the slime sample in it. The only way to discern if the samples is pure enough is to open it and examine the contents yourself. Ideally you'll find a sample that fits Chemist Fuely's criteria."
+ },
+ {
+  "id": 4581,
+  "t": "Kayneth Stillwind",
+  "o": "Take Shindrell's Note to Kayneth Stillwind in Forest Song.",
+  "d": "The druid Kayneth Stillwind sent word to me.  He would like a report of the happenings along our coast and in the forests surrounding Astranaar.  He fears there is a corruption moving through Ashenvale... and he may be right.$B$BHere, take my report to him.  You will find him in the shrine of Forest Song, in the Nightsong Woods to the east.",
+  "p": "Do you have something for me?",
+  "c": "Ah, Shindrell's report!  Many thanks, $N.  Shindrell is a fine sentinel, brave and keen.  I must read this for clues of a wickedness I fear is moving through Ashenvale."
+ },
+ {
+  "id": 4601,
+  "t": "The Sparklematic 5200!",
+  "o": "Insert a Grime-Encrusted Item into the Sparklematic 5200, and be sure to have three silver coins to start the machine.",
+  "d": "This contraption stands out amongst the gnomes holding out against the madness outside the room.  A small plaque on the device reads \"The Sparklematic 5200\", followed by some text:$B$B\"Grime and residue ruining your sparklies?  The Sparklematic 5200 puts the shine back in shine-tastic!  Insert the item you wish to clean and deposit three silver coins in the coin slot.  Give the Sparklematic 5200 a moment for operation, and voila!  Your valuables will emerge clean and shiny!\"",
+  "p": "It would seem that the device needs some sort of grime-encrusted object to clean and three silver coins to get the contraption working. So long as both are present, the Sparklematic 5200 should work...",
+  "c": "You insert the grime-encrusted item and three silver coins into the Sparklematic 5200. The machine surges to live in an almost frenzied attempt to purge the grime from the unknown item. Loud, violent churning sounds beat from the heart of the machine. The metal frame of the beast creaks and groans as it lurches from side to side..."
+ },
+ {
+  "id": 4602,
+  "t": "The Sparklematic 5200!",
+  "o": "Insert a Grime-Encrusted Item into the Sparklematic 5200, and be sure to have three silver coins to start the machine.",
+  "d": "This contraption stands out amongst the gnomes holding out against the madness outside the room.  A small plaque on the device reads \"The Sparklematic 5200\", followed by some text:$B$B\"Grime and residue ruining your sparklies?  The Sparklematic 5200 puts the shine back in shine-tastic!  Insert the item you wish to clean and deposit three silver coins in the coin slot.  Give the Sparklematic 5200 a moment for operation, and voila!  Your valuables will emerge clean and shiny!\"",
+  "p": "Insert a Grime-Encrusted Item into the Sparklematic 5200, and be sure to have three silver coins to start the machine.",
+  "c": "This contraption stands out amongst the gnomes holding out against the madness outside the room. A small plaque on the device reads \"The Sparklematic 5200\", followed by some text:$B$B\"Grime and residue ruining your sparklies? The Sparklematic 5200 puts the shine back in shine-tastic! Insert the item you wish to clean and deposit three silver coins in the coin slot. Give the Sparklematic 5200 a moment for operation, and voila! Your valuables will emerge clean and shiny!\""
+ },
+ {
+  "id": 4603,
+  "t": "More Sparklematic Action",
+  "o": "",
+  "d": "",
+  "p": "The Sparklematic 5200 is empty, awaiting a grime-encrusted object to clean and three silver coins to start!",
+  "c": "The Sparklematic 5200 comes to life, lurching to and fro. Inside, the helpless grime that has encrusted the object placed within it is being pulverized by the machine's gnomish cleaning agent.$B$BThe Sparklematic 5200 comes to a halt, heralded by a familiar \"ding!\" The item receptacle of the machine spirals open, revealing a neatly wrapped box."
+ },
+ {
+  "id": 4604,
+  "t": "More Sparklematic Action",
+  "o": "",
+  "d": "",
+  "p": "The Sparklematic 5200 is empty, awaiting a grime-encrusted object to clean and three silver coins to start!",
+  "c": "The Sparklematic 5200 comes to life, lurching to and fro. Inside, the helpless grime that has encrusted the object placed within it is being pulverized by the machine's gnomish cleaning agent.$B$BThe Sparklematic 5200 comes to a halt, heralded by a familiar \"ding!\" The item receptacle of the machine spirals open, revealing a neatly wrapped box."
+ },
+ {
+  "id": 4605,
+  "t": "The Sparklematic 5200!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "As quickly as it started, the Sparklematic 5200 comes to an abrupt halt. A simple \"ding\" is heard from the machine, and the mouth of the machine spirals upward. Inside the Sparklematic 5200 is a small box wrapped in a little bow. The machine would appear to wrap an object up after eliminating its grime-encrusted status. Even if the machine didn't work, at least the item is now wrapped in a pretty box.$B$BWell, there is one way to find out if it cleaned the item or not..."
+ },
+ {
+  "id": 4606,
+  "t": "The Sparklematic 5200!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "As quickly as it started, the Sparklematic 5200 comes to an abrupt halt. A simple \"ding\" is heard from the machine, and the mouth of the machine spirals upward. Inside the Sparklematic 5200 is a small box wrapped in a little bow. The machine would appear to wrap an object up after eliminating its grime-encrusted status. Even if the machine didn't work, at least the item is now wrapped in a pretty box.$B$BWell, there is one way to find out if it cleaned the item or not..."
+ },
+ {
+  "id": 4621,
+  "t": "Avast Ye, Admiral!",
+  "o": "Slay Fleet Master Seahorn and Baron Revilgaz of Booty Bay, and then return to Fleet Master Firallon aboard the Crimson Veil off the coast of Stranglethorn Vale.",
+  "d": "Listen close, sea dawg... the powers of Booty Bay is what keeps us Bloodsail from sailing wheres we like and taking whats we want as rights o' plunder.  Were ye to put a knife to Fleet Master Seahorn, we'd ne'er run afoul of a Booty Bay's vessel.  Were ye to put a knife to Baron Revilgaz, we'd ne'er face the law on their terms.$B$BIf ye are to be an honorary admiral amongst us - yes, ADMIRAL, you'll puts a knife to both of 'em as I've says.  Go now $g lad : lass;, and return to me once ye does the deeds.",
+  "p": "Yer back already, ya blasted tar! Haves ye done as I've ordered? Fail us, and ye will be walkin' the plank.$B$BArrrrr...",
+  "c": "Avast ye... Admiral $N!  Yer a pirate of pirates, lass!$B$BIt warms the cackles of me heart to give ye this hat.  Ye will ne'er find one like it anywheres, and all that gazes upon ye will see that yer an Admiral of the Bloodsail Navy!"
+ },
+ {
+  "id": 4642,
+  "t": "Melding of Influences",
+  "o": "Bring a Merged Ooze Sample to Chemist Fuely in Undercity.",
+  "d": "Here is some encased ooze created from the Felwood samples you recovered. Take the case to Un'Goro Crater and find a pure ooze... the primal variety will do nicely. When you get close enough, release the ooze in the case, and let us see what the two think of one another.$B$BAfter the experiment concludes, bring me a sample of whatever is left over. I will await you here in the Apothecarium.",
+  "p": "How goes the experiment, $N? I will continue to study the samples you've recovered for me--I am starting to see why Lady Sylvanas is so interested in these creatures. If they are truly part of the Old Gods, then who knows how it can be used to our benefit.",
+  "c": "Oh, most excellent, $N. This is most excellent.$B$BSuch a tale. Who would have thought the two would interact with one another in such a way... I will have to spend more time looking at the environmental issues that cause changes in these creatures.$B$BI will continue my research for now. Perhaps we will speak again soon. Until then, I wish you well."
+ },
+ {
+  "id": 4661,
+  "t": "Testing for Corruption - Felwood",
+  "o": "",
+  "d": "",
+  "p": "You take a sample of slime from Felwood and place some of it into the various tubes and beakers on the table. As things begin to boil and spurt, the slime changes colors. When the process slows down and the liquids calm, you see a small petri dish with your altered Felwood slime samples in it along with some other remnants.",
+  "c": "You pick up the petri dish with the slime sample in it. The only way to discern if the samples is pure enough is to open it and examine the contents yourself. Ideally you'll find a sample that fits Chemist Fuely's criteria."
+ },
+ {
+  "id": 4681,
+  "t": "Washed Ashore",
+  "o": "Recover the Sea Turtle Remains from the Skeletal Sea Turtle in the waters west of Auberdine, and then speak with Gwennyth Bly'Leggonde back in Auberdine.",
+  "d": "That beached creature is not an isolated incident here in Darkshore.  There are more along the coastline and even in the water.  I would like for you to investigate another one that we know of; this one was reported to be in the water due west of Auberdine, close to a sunken vessel.  Return to me with anything that you may recover that would aid our research.$B$BAlso, in your travels you may find other creatures.  By all means, if you should discover anything then please bring it to our attention!",
+  "p": "Once you have investigated the creature's remains in the water to the west of here, I should be able to file a proper report with the Temple of the Moon in Darnassus. Perhaps then we will be closer to discovering the reason why these unfortunate creatures choose to end their lives beached on the coast of Darkshore.",
+  "c": "You've been a tremendous help here today; we now have a solid chance at unlocking the mystery of why these creatures choose to beach themselves on the cost of Darkshore. The idea that they might be fleeing the area around Teldrassil is disturbing. Should you come across others in your travels, please let me know. Our research here is but in its infancy.$B$BOn behalf of the Temple of the Moon, please accept this as thanks for the effort you have given. Thank you, $N!"
+ },
+ {
+  "id": 4701,
+  "t": "Put Her Down",
+  "o": "Travel to Blackrock Spire and destroy the source of the worg menace. As you left Helendis, he shouted a name: Halycon. It is what the orcs refer to in regards to the worg.",
+  "d": "You have no doubt seen the worgs which the Blackrock orcs command.$B$BIt is curious - no matter how many we destroy, their numbers never dwindle. My scouts have reported that the worgs are bred, trained, and ultimately exported from Blackrock Spire: capital city of the Blackrock orcs. You must travel to Blackrock Spire and discover the source of this menace. Discover... and destroy.$B$BGood luck, $N. May Cenarius protect you...$B",
+  "p": "Have you discovered and dealt with the source of the worg menace?",
+  "c": "Do not dwell upon her suffering, $N. The beast was corrupt - a product of dark magic. You have done the Alliance a great service and you shall be rewarded."
+ },
+ {
+  "id": 4721,
+  "t": "Wild Guardians",
+  "o": "Trull Failbane in Felwood wants you to hunt 10 Berserk Owlbeasts in Winterspring.",
+  "d": "Runners have returned from Winterspring with reports that there is a series of small caves in the southern area of Winterspring. It seems that there are wildkin situated in the area around these caves. If there is something valuable that they are guarding, I believe that this is the place we will find it.$B$BYou will find these to be more of a challenge than the previous types, $N. The creatures seem to have gone mad from exposure to the very thing that they strive to protect. ",
+  "p": "You know your orders, $N.",
+  "c": "Hard work is something I have great respect for, $N. Now we can move forward with our plans for Winterspring."
+ },
+ {
+  "id": 4722,
+  "t": "Beached Sea Turtle",
+  "o": "Take the Sea Turtle Remains to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "You find a corpse of a sea turtle that had beached itself on the coast of Darkshore some time ago.  It has been scavenged by the murlocs who have encamped themselves around the creature's remains.  Still, there appear to be some suitable samples left on the creature's remains that Gwennyth Bly'Leggonde in Auberdine might be able to make use of.",
+  "p": "Hello $N - do you have any discoveries of creatures that have washed ashore to report on?",
+  "c": "Another discovery for us to research - well done $N!  These remains will be properly studied once they get to Darnassus.  Please accept this small honorarium in exchange for the remains you have provided for our study."
+ },
+ {
+  "id": 4723,
+  "t": "Beached Sea Creature",
+  "o": "Take the Sea Creature Bones to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "The remains of a giant thresher - much larger than one you'd expect to find in Darkshore - lie beached on the coast of the Mist's Edge.  How this creature came to be here is unknown; the group of murlocs that now feast off the carcass of it seem to be much too weak, even in large numbers, to have brought down the beast. $B$BWhile some of it has been picked clean, enough of it remains to take a sample for Gwennyth Bly'Leggonde in Auberdine to study.",
+  "p": "Hello again, $N! Are you here to report on another discovery?",
+  "c": "The bones you have are from gentle sea mammals that are known to inhabit the waters surrounding the base of Teldrassil. They had never been known to violently beach themselves like the threshers had been known to. Why would these creatures do this, I wonder? Well, perhaps the study of their remains will bear the fruits of knowledge that we seek.$b$bAgain, thank you for your aid. Please accept this honorarium from the Temple of the Moon."
+ },
+ {
+  "id": 4724,
+  "t": "The Pack Mistress",
+  "o": "Slay Halycon, pack mistress of the Bloodaxe worg.",
+  "d": "Some say the worg controlled by the Blackrock orcs are the creation of a supernatural force. Others say they are not true worg but instead a breed of demon dog, granted to the orcs by a fallen pit lord.$B$BThe truth is far less contrived but every bit as frightening. The worg of Blackrock come from Halycon and her mate. Halycon is the gigantic den mother of the worg. Her mate? Nobody has ever lived to tell the tale of that one.$B$BStrike at the heart of the worg. Destroy Halycon... and $N, watch your back.",
+  "p": "With the pack mistress slain, we can begin to thin out the worg sentries of the Spire and eventually make some headway into the city.",
+  "c": "Rabid pups? Gizrul the Slavener? And you live to tell the tale?! Incredible! A tribute well earned!"
+ },
+ {
+  "id": 4725,
+  "t": "Beached Sea Turtle",
+  "o": "Take the Strangely Marked Box to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "More sea turtle remains lie beached along the coastline.  This particular set has an abandoned carriage attached to the turtle's shell.  Perhaps this creature was driven to the shoreline by unknown beings rather than beaching itself as some of the other remains suggested.  Greymist murlocs now make the remains of this creature their home, feasting off the carrion.$B$BIn the carriage, you find a box with strange markings on it; perhaps Gwennyth Bly'Leggonde in Auberdine can make sense of it.",
+  "p": "It is a pleasure to see you again, $N. We are making great strives in uncovering the mystery of why majestic sea creatures beach themselves on the Darkshore coastline, but with every question answered, two more are raised it seems.$b$bAre you here to offer us more aid in our research?",
+  "c": "I have heard of the kinds of carriages found on the back of the turtle you found. Those I do believe are naga carriages, used both in battle and in transportation of their supplies on to land. The markings on the box you found are of the naga; this would explain their invasive presence in far-northern Darkshore.$b$bI will send this box to Darnassus along with the rest of your discoveries. This is for you - thank you again for your assistance."
+ },
+ {
+  "id": 4726,
+  "t": "Broodling Essence",
+  "o": "Bring 8 Broodling Essence and the Draco-Incarcinatrix 900 to Tinkee Steamboil at the Flame Crest in the Burning Steppes.",
+  "d": "I have been studying the dragonkin of the Burning Steppes for weeks, and I think I've finally had a breakthrough!  I created a device--I call it the Draco Incarcinatrix 900.  It can capture the essence of dragon whelp broodlings!$B$BOr, at least I think it can.$B$BHere, take the device and zap a broodling in the Burning Steppes with it.  While it's under the device's effects, defeat the broodling and its essence should be released.$B$BIf it is, then splendid!  Bring me back samples so I can study them!",
+  "p": "Do you have the broodling essence, $N?  I can't wait to study it.$B$BAnd besides that... my patron is not the type of person you want to disappoint.",
+  "c": "It worked!  You got the essence!  Well done, $N!  Well done!$B$BThis essence will be invaluable in my research.  I hope to one day learn how to capture living dragon whelps, or perhaps capture their eggs.  If I could find a way to do that, then I would be the envy of dragon scholars around the world!$B$BMy employer would also be happy, and as I said before, he's someone you want to keep happy..."
+ },
+ {
+  "id": 4727,
+  "t": "Beached Sea Turtle",
+  "o": "Take the Sea Turtle Remains to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "The skeletal remains of a sea turtle lie in the sand of the northern Darkshore beaches.  The Greymist murlocs have either not found this carcass, or perhaps they have and are shying away from it for some unknown reason.  Regardless, there is enough of the turtle left to take a sample back to Gwennyth Bly'Leggonde in Auberdine for the Temple of the Moon to study.",
+  "p": "Hello again, $N! Are you here to report on another discovery?",
+  "c": "The bones you have are from gentle sea mammals that are known to inhabit the waters surrounding the base of Teldrassil. They had never been known to violently beach themselves like the threshers had been known to. Why would these creatures do this, I wonder? Well, perhaps the study of their remains will bear the fruits of knowledge that we seek.$B$BAgain, thank you for your aid. Please accept this honorarium from the Temple of the Moon."
+ },
+ {
+  "id": 4728,
+  "t": "Beached Sea Creature",
+  "o": "Take the Sea Creature Bones to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "The corpse of what appears to be some sort of giant sea mammal lies partially gutted on the beach.  A wheelbarrow and various tools lie abandoned by this enormous beached sea creature, as though an attempt to study it had been made previously.  Though murlocs have scavenged this beast, enough of it remains to gather a suitable sample for Gwennyth Bly'Leggonde in Auberdine.",
+  "p": "Greetings once again, $N!  What brings you back to Auberdine?  Are you here to report on another discovery, perhaps?",
+  "c": "Ah, I believe you discovered one that was originally being examined by the Explorer's League.  They have a presence here in Darkshore, and they had mentioned that they were studying one of the beached creatures until they were chased out by the murlocs.  You appear to have succeeded where we both have not.  Please - accept this honorarium on behalf of the Temple of the Moon."
+ },
+ {
+  "id": 4729,
+  "t": "Kibler's Exotic Pets",
+  "o": "Travel to Blackrock Spire and find Bloodaxe Worg Pups. Use the cage to carry the ferocious little beasts. Bring back a Caged Worg Pup to Kibler.",
+  "d": "You're probably wondering what I'm doing out here. Look at the cages! Ain't it obvious?$B$BI'm an animal lover, first and foremost, but a salesman by trade. I track down exotic animals for the rich and famous and domesticate the beasts so they behave as proper pets.$B$BNow you're probably wondering, \"What can I do for you, Kibler.\" The answer is simple: Take this here beast cage and find me some worg pups. For that, I'll domesticate a worg for you!$B",
+  "p": "<Kibler is busy arguing with Toucan Stan.>",
+  "c": "You got 'em at the perfect time, $N. Any later and they'd be untrainable! Gimmie a minute and I'll have the little fella ready for you to take home."
+ },
+ {
+  "id": 4730,
+  "t": "Beached Sea Creature",
+  "o": "Take the Sea Creature Bones to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "The half-devoured corpse of what might have been a giant sea mammal lies on the beach.  A band of murlocs, stronger than those found closer to Auberdine, have taken up residence around the fallen creature.  Enough of the creature remains that a suitable sample of its bones could be delivered to Gwennyth Bly'Leggonde in Auberdine.",
+  "p": "Hello again, $N!  Are you here to report on another discovery?",
+  "c": "The bones you have are from gentle sea mammals that are known to inhabit the waters surrounding the base of Teldrassil.  They had never been known to violently beach themselves like the threshers had been known to.  Why would these creatures do this, I wonder?  Well, perhaps the study of their remains will bear the fruits of knowledge that we seek.$B$BAgain, thank you for your aid.  Please accept this honorarium from the Temple of the Moon."
+ },
+ {
+  "id": 4731,
+  "t": "Beached Sea Turtle",
+  "o": "Take the Strangely Marked Box to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "Another set of sea turtle remains lie beached on the coastline.  This set of remains has an abandoned carriage half buckled to the turtle's shell.  Perhaps this creature was driven to the shoreline by unknown beings rather than beaching itself as some of the other remains suggested.  Powerful Greymist murlocs have made the carcass of this creature their current home.$B$BIn the carriage, you find a box with strange markings on it; perhaps Gwennyth Bly'Leggonde in Auberdine can make sense of it.",
+  "p": "Hello again, $N.  The work you have done on behalf of the Temple of the Moon has been outstanding.  Are we to be blessed with more of your effort on our behalf?",
+  "c": "I have heard of the kinds of carriages found on the back of that turtle.  Those I do believe are naga carriages, used both in battle and in transportation of their supplies on to land.  The markings on the box you found are of the naga; perhaps the creature you discovered was killed as it was heading further south... to Ashenvale maybe?$B$BI will be sure to send this box to Darnassus with the rest of your discoveries.  This is for you - thank you again for your assistance."
+ },
+ {
+  "id": 4732,
+  "t": "Beached Sea Turtle",
+  "o": "Take the Sea Turtle Remains to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "You find a corpse of a sea turtle that had beached itself on the coast of Darkshore some time ago.  It has been picked nearly clean by Greymist murlocs, the very ones who now have encamped themselves around the creature's remains.  Still, there appear to be some suitable samples left on the creature's remains that Gwennyth Bly'Leggonde in Auberdine might be able to make use of.",
+  "p": "Greetings once again $N - do you have any more discoveries to report to the Temple of the Moon?",
+  "c": "You've found even more beached creatures, $N?  Sea turtles were commonly found frolicking along the base of Nordrassil before it was destroyed.  With the birth of Teldrassil, however, these creatures have been seen in ever decreasing numbers.  Some, as we have discovered, end their lives here for some unknown reason.$B$BYour aid will perhaps unlock the mystery before us.  Please accept this in exchange for the remains you have provided for our study."
+ },
+ {
+  "id": 4733,
+  "t": "Beached Sea Creature",
+  "o": "Take the Sea Creature Bones to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "The remains of what appear to be a giant thresher have washed ashore on the rocky inlet of the Twilight Shore.  The thresher is several times larger than any of the other threshers spotted in these parts.  Wherever it came from, this creature would not seem to have been native to Darkshore.$B$BThough the creature has been picked apart in places, enough of it remains to gather a suitable sample for Gwennyth Bly'Leggonde in Auberdine.",
+  "p": "Thanks be to Elune - I am glad to see you again, dear $N.  The Temple of the Moon's work on the strange beaching phenomena continues here in Darkshore.  Might you have anything additional to offer us?",
+  "c": "The dimensions of the thresher you mention are mind-boggling.  Even the eldest of the threshers in this region grow to only a fraction of that size.  While some larger ones were known to be close to Teldrassil, their numbers have declined steadily.  I cannot help but wonder if these creatures beaching themselves here are somehow related to this.$B$BWhile we analyze the bones you have brought us, please accept this on behalf of the Temple of the Moon.  Thank you, $N."
+ },
+ {
+  "id": 4734,
+  "t": "Egg Freezing",
+  "o": "Use the Eggscilloscope Prototype on an egg in the Rookery of Blackrock Spire.",
+  "d": "$N, I've been working hard on a new device, the eggscilloscope!  It's designed to project a burst of cold energy at the egg of a black dragon... and freeze it solid!  Can you test it for me?$B$BI heard that high up in Blackrock Spire, the dragons have a rookery where they hatch their eggs.  That's where you'll have to go to test the eggscilloscope, and then let me know how it worked!$B$BAnd don't worry.  Frozen dragon eggs should be harmless.  It's the unfrozen ones you have to worry about!",
+  "p": "$N, did you test the eggscilloscope?",
+  "c": "It worked? Splendid! I knew it would!$b$bWhile you were gone I was working on a new version of the eggscilloscope. This one has a much longer range.$b$bHere, you can have one in case you go back to Blackrock Spire."
+ },
+ {
+  "id": 4735,
+  "t": "Egg Collection",
+  "o": "Bring 8 Collected Dragon Eggs and the Collectronic Module to Tinkee Steamboil at Flame Crest in the Burning Steppes.",
+  "d": "$N, I'm finally ready for real samples of dragon eggs!  Here, take this collectronic module.  It's designed to extract a dragon egg and prepare it for transport.  Go back to the Rookery and use the module to collect eggs.$B$BAnd don't forget to freeze them first, or they might hatch before you can collect them!$B$BWhen you have enough eggs, bring them to me! ",
+  "p": "Do you have the eggs, $N?  My patron heard you were collecting them for me, and is very eager to get his hands on them!",
+  "c": "Wow, you got them! The collectronic module worked! I'm a genius!$B$BThank you, $N. My patron will be very pleased to get these eggs..."
+ },
+ {
+  "id": 4736,
+  "t": "In Search of Menara Voidrender",
+  "o": "Speak to Menara Voidrender in the Barrens.",
+  "d": "Ah, hello, $N. You're progressing well in your training. So well in fact that I think you should be rewarded for your hard work--and for not becoming corrupted by the arcane yet.$B$BIf you're interested, seek out Menara Voidrender in Ratchet. She is currently staying at Strahad Farsan's tower overlooking the town.$B$BShe's not very friendly, $N, so don't expect any praise. But if you work hard, she'll make sure you're taken care of.",
+  "p": "",
+  "c": "Ah, Briarthorn sent you. Good. Then word does reach far enough to find future students. This pleases me.$B$BIt is typical of our kind, $N, to band together, regardless of race. It is especially important since those we deal with most do not discriminate in their malice if we fail to appease them or control them properly.$B$BI feel you've learned a great many things, and if you are willing, I would help you create tools to compliment your skills."
+ },
+ {
+  "id": 4737,
+  "t": "In Search of Menara Voidrender",
+  "o": "Speak to Menara Voidrender in the Barrens.",
+  "d": "Hmph, still you strive to become more powerful. I say it's only time before the corruption and addiction takes hold of you and you become a slave to that which you seek to gain power over.$B$BPfah! A fool you are! Time will prove me right--nothing else... just time.$B$BBut it seems that not all agree with Zevrost. It seems Menara would create tools for you to become more powerful and to harness your strength. If you're interested, then go to Ratchet in the Barrens. She is there overlooking the town.",
+  "p": "",
+  "c": "Ah, Zevrost sent you. Good. Then word does reach far enough to find future students. This pleases me.$B$BIt is typical of our kind, $N, to band together, regardless of race. It is especially important since those we deal with most do not discriminate in their malice if we fail to appease them or control them properly.$B$BI feel you've learned a great many things, and if you are willing, I would help you create tools to compliment your skills."
+ },
+ {
+  "id": 4738,
+  "t": "In Search of Menara Voidrender",
+  "o": "Speak with Menara Voidrender in the Barrens.",
+  "d": "Let us be clear about one thing, $N: I don't feel you are ready for such responsibilities. I don't think aiding in the creation of any item of power is something a novice should ever be involved in; especially one so untested.$B$BBut that's not my decision. The powers that be, or at least the ones that do wish to impart such gifts upon you get to decide that.$B$BIf you're interested in learning more, I suggest you seek out Menara Voidrender in Ratchet. She usually resides in the tower above the port town.",
+  "p": "",
+  "c": "Ah, Demisette sent you. Good. Then word does reach far enough to find future students. This pleases me.$B$BIt is typical of our kind, $N, to band together, regardless of race. It is especially important since those we deal with most do not discriminate in their malice if we fail to appease them or control them properly.$B$BI feel you've learned a great many things, and if you are willing, I would help you create tools to compliment your skills."
+ },
+ {
+  "id": 4739,
+  "t": "In Search of Menara Voidrender",
+  "o": "Speak to Menara Voidrender in the Barrens.",
+  "d": "$C! Yes, you!$B$BYou don't have all the accoutrements, but it's plain to see you're ready--the air around you exudes greater confidence. Yes, I see it now.$B$BMenara Voidrender would teach you a few things if you feel you're ready. She spends her time tutoring younger students in the arcane. She even gives gifts to those who pass her tests.$B$BGo to Ratchet in the Barrens if you're interested. She's above the city in Strahad's tower.",
+  "p": "",
+  "c": "Ah, Kaal sent you. Good. Then word does reach far enough to find future students. This pleases me.$B$BIt is typical of our kind, $N, to band together, regardless of race. It is especially important since those we deal with most do not discriminate in their malice if we fail to appease them or control them properly.$B$BI feel you've learned a great many things, and if you are willing, I would help you create tools to compliment your skills."
+ },
+ {
+  "id": 4740,
+  "t": "WANTED: Murkdeep!",
+  "o": "Find and slay the murloc known as Murkdeep.  The creature is thought to be defending the murloc huts south of Auberdine along the water.$B$BReport the death of Murkdeep to Sentinel Glynda Nal'Shea in Auberdine.",
+  "d": "Attention!$B$BA reward is being offered for the death of the murloc \"Murkdeep\".  This foul beast is known to be responsible for the death of at least one Sentinel, and is suspected of causing the sinking of at least two cargo vessels in the waters off Darkshore!$B$BMurkdeep was last spotted at a hutted murloc camp south of Auberdine, and is thought to be protecting the huts there.  Reward claims for this bounty should be claimed with Sentinel Glynda Nal'Shea in Auberdine.$B$BThe Auberdine Village Council",
+  "p": "Greetings $c - what may the Sentinels assist you with today? Perhaps you are here to inquire about the bounty on Murkdeep?",
+  "c": "Well, looks like you're here to more than just inquire! The citizens will be delighted to know that tonight they will sleep a little bit more soundly and safer.$b$bYou've acted as the executioner of justice for the people of Auberdine today, $N. For that, I would like to offer you this as a suitable reward... for a true hero of the Auberdine people."
+ },
+ {
+  "id": 4741,
+  "t": "Wild Guardians",
+  "o": "Trull Failbane in Felwood wants you to hunt 13 Moontouched Owlbeasts.",
+  "d": "In the northern areas of Winterspring, the Wildkin grow even more ferocious. We must continue our measures there.$B$BHunt the moontouched owlbeasts in Winterspring, and explore the area they inhabit.$B$BThis is dangerous ground, but I know that you will be able to handle the challenge. Return to me after you have slain 13 of the wildkin.",
+  "p": "Don't tell me that you're too scared! Get going!",
+  "c": "I sense that you are enjoying your work. And I believe that we are onto something here."
+ },
+ {
+  "id": 4742,
+  "t": "Seal of Ascension",
+  "o": "Find the three gemstones of command: The Gemstone of Smolderthorn, Gemstone of Spirestone, and Gemstone of Bloodaxe. Return them, along with the Unadorned Seal of Ascension, to Vaelan.$B$BThe Generals, as told to you by Vaelan, are: War Master Voone of the Smolderthorn; Highlord Omokk of the Spirestone; and Overlord Wyrmthalak  of the Bloodaxe.",
+  "d": "As you can see, the unadorned seal has three empty sockets. Each of those sockets must be filled with a gemstone representing the leadership's command. Finally, Overlord Wyrmthalak, master of the lower citadel, must forge the seal in the flames of the Black Dragonflight.$B$BUnderstand this, mortal: the chance that one of the three generals of the lower citadel would carry a gemstone at any given time is rare. You must be vigilant in your quest. Remain determined!",
+  "p": "Courage and patience above all else, $N!",
+  "c": "<Vaelan's image blurs for a moment.>$B$B<The pieces that you had collected have disappeared.>$B$BThe Unforged Seal of Ascension is now ready. It is time for the final step."
+ },
+ {
+  "id": 4743,
+  "t": "Seal of Ascension",
+  "o": "Travel to the Wyrmbog in Dustwallow Marsh. Find the ancient drake, Emberstrife and beat him without mercy until his will is broken.$B$BIt is at that moment which you must place the Unforged Seal of Ascension before the great beast. You must then be quick to use the Orb of Draconic Energy on his weakened form and claim dominion over his mental faculties. Control the beast and force the Flames of the Black Dragonflight upon the Unforged Seal of Ascension!",
+  "d": "Few of the black dragonkin, outside of those in the upper citadel, have the ability to forge the seal with their own flaming breath. Wyrmthalak is one such dragonkin, but his will is unbreakable.$B$BYou must travel to the Wyrmbog in Dustwallow Marsh. It is there that you will find an ancient drake known as Emberstrife. You must break his will, $N. Break it and use this orb on his weakened form. You will have scant seconds to control his mind and fan the flames that will forge the seal.",
+  "p": "Waste no time, $N. Nefarian works feverishly to unleash his evil upon our world.",
+  "c": "Stand steady while I cast the final invocation of protection.$B$B<Vaelan's eyes turn to twin orbs of flame.>$B$BThe Seal of Ascension is complete...$B$BKnow this, I have imbued the artifact with some powerful protective wards. In your darkest hour, when all appears to be lost, the might of the red flight will be at your disposal."
+ },
+ {
+  "id": 4761,
+  "t": "Thundris Windweaver",
+  "o": "Speak with Thundris Windweaver in Auberdine.",
+  "d": "Your scouting of the furbolg camp is information that Thundris Windweaver should be made aware of.  He graciously serves as the elder of Auberdine, offering sage and just stewardship of the day to day affairs of the village.  Please - share with him your findings to date on the furbolg situation.$B$BI believe he has some ideas of his own on the reasons behind their corruption.  Perhaps you can work with him to enact a plan to restore the balance of nature here!",
+  "p": "",
+  "c": "Well met, $c.  Your scouting of the furbolg situation comes at a fortuitous time for us in Auberdine.  For some time we have dealt with not only forest dwellers who are now openly hostile to our presence, but also the outright corruption of the forest itself.  Hopefully you might be able to lend Auberdine aid during these troubling times."
+ },
+ {
+  "id": 4762,
+  "t": "The Cliffspring River",
+  "o": "Travel north of Auberdine to the first waterfall along the Cliffspring River and draw a sample from the pool there.$B$BReturn to Thundris Windweaver in Auberdine with the Cliffspring River Sample.",
+  "d": "The Cliffspring River has begun turning foul and corrupted.  It empties into the Mist's Edge, and I fear the wash will affect Auberdine soon.  I suspect the Blackwood furbolgs up-river are the cause of the taint, but I also suspect that they aren't the true root of it.$B$BTake this sampling tube and go to the mouth of the river to our north.  Proceed inland to the first waterfall and draw a sample from the pool there.  You'll see a bridge overhead.  Once you have a sample, return to me in Auberdine.",
+  "p": "The pollution of the Cliffspring River is but the start of an alarming trend here in Darkshore.  The sample you provide will help us formalize a plan... a plan of attack, I am starting to suspect.",
+  "c": "It's no surprise how tainted this water is, but just look at how putrid it is becoming! It would seem that action is needed sooner than later, eh $N?$b$bTo our east is Felwood; it is the real source of this corruption, one that I have seen in times past. I predict this sample will confirm this. We might be able to enact a cure for it here, but in order to even try we will need assistance. When that time comes $N, I hope you will be able to give the aid we need."
+ },
+ {
+  "id": 4763,
+  "t": "The Blackwood Corrupted",
+  "o": "Fill the Empty Cleansing Bowl at the Auberdine Moonwell.$B$BGather a sample of fruit, nut, and grain from the northern Blackwood furbolg camps.$B$BMix the bowl and place it near the bonfire closest to the Cliffspring River at the northern camp, thus summoning the satyr corruptor.$B$BTake the Talisman of Corruption and bring it to Thundris Windweaver in Auberdine.",
+  "d": "We've learned that a source of furbolg corruption is from the satyr.  They hold sway via talismans that they channel magic through.  If the furbolg have a chance at salvation, we must lure out the satyr corruptor and take that talisman!$B$BFill this bowl at our moonwell and take samples of the furbolgs' food from their northern camp.  Mix them and place it near the bonfire by the river; any furbolgs who eat will be cleansed just long enough to lure out the satyr corruptor... who then you must slay!",
+  "p": "The Talisman of Corruption is a sinister device that only serves to pervert the balance of nature. When you obtain this item from whatever satyr is tormenting the furbolgs and bring it to me for disposal, we will have won a great victory this day!",
+  "c": "We have just begun this war to reclaim our forest from the forces of corruption, but a battle this day has been won! $N, the people of Auberdine owe you a debt of gratitude that will never be easily repaid. Please accept this along with our thanks. What we have learned here today may one day free our furbolg friends from the shackles of torment permanently."
+ },
+ {
+  "id": 4764,
+  "t": "Doomrigger's Clasp",
+  "o": "Bring Doomrigger's Clasp to Mayara Brightwing in the Burning Steppes.",
+  "d": "There is a chamber, high in Blackrock Spire, that was once called the Hall of Fortune.  It was where the Dark Iron dwarves kept their relics, trophies and objects of art.$B$BThat was long ago.  It is said the hall has collapsed and is now used for... less savory tasks.  But I believe some old dwarven relics may still be found there.$B$BOne such relic is Doomrigger's clasp, with a surface so encrusted with rare gems that it was said to make weep any dwarf who gazes upon it.$B$BThat clasp, $N, is your goal.",
+  "p": "Do you have the clasp, $N? My patron will pay very handsomely for it.",
+  "c": "You found it! So the rumors were true!$B$BThank you, $N. My patron, Count Remington Ridgewell, will be quite pleased to see this addition to this collection."
+ },
+ {
+  "id": 4765,
+  "t": "Delivery to Ridgewell",
+  "o": "Bring Ridgewell's Crate to Count Remington Ridgewell at Stormwind Keep in Stormwind.",
+  "d": "I have packaged Doomriggers Clasp into a crate, suitable for shipment to Stormwind.  $N, you have been extremely helpful -- can I ask you for one last favor?$B$BDeliver the crate to Count Remington Ridgewell.  You will find him in the Keep of Stormwind.  I am sure he'll be very pleased to see what you have for him.",
+  "p": "I was told a messenger would come. One with a gift from Blackrock Spire.$B$BAre you he?",
+  "c": "Ah, so you are he! You have my thanks, $N. And... if you didn't already know... the gratitude of a noble in the house of Ridgewell is nigh worth a king's ransom."
+ },
+ {
+  "id": 4766,
+  "t": "Mayara Brightwing",
+  "o": "Speak with Mayara Brightwing at Morgan's Vigil in the Burning Steppes.",
+  "d": "An agent of mine, Mayara Brightwing, was sent to the Burning Steppes to scout the ruined city of Thaurissan.  That destroyed city of the Dark Iron dwarves may hide objects of great value... objects that would fit nicely into our family museum.$B$BMayara says she found something and will need aid in retrieving it, but it is not in Thaurissan.  Instead, a foray into Blackrock Spire will be required.$B$BI do not know the details, but if interested then speak with Mayara in the Burning Steppes.",
+  "p": "",
+  "c": "You came from Stormwind? Wonderful -- I know of an object of art that Remington would kill to have in his museum, but extracting it won't be easy.$B$BThat's where you come in."
+ },
+ {
+  "id": 4768,
+  "t": "The Darkstone Tablet",
+  "o": "Bring the Darkstone Tablet to Shadow Mage Vivian Lagrave in Kargath.",
+  "d": "The Darkstone Tablet holds the writings of the long-dead dwarf Urheld Darkstone.  An alchemist of great skill, he was thought insane by his contemporaries and, hence, did not share his research.$B$BBut he did etch it onto tablets, and I believe one such tablet lies in Blackrock Spire, in a chamber once named the Hall of Fortune.  I know not what it is now called, for few enter Blackrock and return.$B$BBut if you are willing to brave its dangers and return to me with the tablet, your reward will be great.",
+  "p": "Have you found the Tablet, $N?  I yearn to delve into its secrets.",
+  "c": "Excellent. The formulae etched into this tablet will consume days of research, but I am confident such research will bear sweet fruit.$b$bThank you, $N. You have been invaluable to us."
+ },
+ {
+  "id": 4769,
+  "t": "Vivian Lagrave and the Darkstone Tablet",
+  "o": "Speak with Shadowmage Vivian Lagrave.",
+  "d": "Vivian Lagrave sent me word from Kargath, in the Badlands.  Through her studies, she believes there is an ancient text within Blackrock Spire that would benefit our research.  To confirm this, she will need someone to extract the text from the spire.  No easy task.$B$BIf interested, then speak with Vivian in Kargath.",
+  "p": "",
+  "c": "It is true. I believe there is a tablet held within Blackrock Spire, a tablet that contains old alchemical recipes. I am glad you are here, for I need help in retrieving the tablet.$B$BMake yourself comfortable, and I will explain further."
+ },
+ {
+  "id": 4770,
+  "t": "Homeward Bound",
+  "o": "Escort Pao'ka Swiftmountain from Highperch, and then talk to Motega Firemane in Whitereach Post.",
+  "d": "Please help me, $c! I've been hiding here in Highperch for some time now and it's been days since I've seen a friendly face. I came here to study the wyvern and I think I got a little too close. After being chased away from one of the nests I got lost.$B$BI need to get back to Whitereach Post! Motega does not know that I am missing and will be furious to know that I ventured into Highperch by myself.$B$BWhitereach Post is just east of here... please take me there!",
+  "p": "",
+  "c": "What!? If I knew that Pao'ka Swiftmountain was going to snoop around Highperch, I would have chained him to a totem! His father was reluctant allowing him to come with me to Thousand Needles. We came here to study the different creatures that inhabit these beautiful lands.$b$bI appreciate the help you have shown Pao'ka. I hope this covers any misfortunes this deed has cost you."
+ },
+ {
+  "id": 4771,
+  "t": "Dawn's Gambit",
+  "o": "Place Dawn's Gambit in the Viewing Room of the Scholomance.  Defeat Vectus, then return to Betina Bigglezink.",
+  "d": "I've placed Dawn's Gambit in the container you brought to us, the one that held the dragon eggs.  Your job is to bring it deep within the Scholomance.$B$BThe undead mage Vectus leads a team of Scourge scholars... place Dawn's Gambit in their chamber, called the \"viewing room.\"  It will then react with the undead found there and, with a little luck, destroy them!$B$BAfter that, defeating Vectus shouldn't be a problem.  Right?",
+  "p": "Remember, $N - we must be tolerant yet rigid in our beliefs!",
+  "c": "You did it! Vectus is defeated! And Dawn's Gambit... did it work?$B$BHm... maybe my device wasn't the success I had hoped, but I'm glad you were able to handle things anyway. Well done, $n!$B$BThe Argent Dawn, and the good people of Azeroth, are in your debt."
+ },
+ {
+  "id": 4781,
+  "t": "Components for the Enchanted Gold Bloodrobe",
+  "o": "Bring a Gold Bar to Xizk Goodstitch in Stranglethorn Vale.",
+  "d": "Your next task is as simple as your first, but will require you to seek out aid.$B$BI require gold thread for the embroidery of the cloak, but gold thread is not easy to come by, and very few know how to make it. Fortunately, one who is loyal to our cause knows its secrets and is willing to help those rising in our ranks.$B$BBring a gold bar to Xizk Goodstitch in Booty Bay. He is a master tailor and will be happy to spin the thread for you. Gold bars are smelted by skilled miners. Ask a miner for help.",
+  "p": "Gold bars, yes... yes. Bring me one and we'll see what we can do about spinning some thread for you. Until then, I would suggest you focus your efforts on becoming more powerful. Your toughest trials are still ahead. And trust me... you'll wish you were more prepared, regardless of how powerful you think you might be.",
+  "c": "Perfect, $N. I'm glad you could find a miner to help you out so quickly. Or did you do this work yourself? Either way, you've done well. This will be perfect for the thread.$B$BIt will take some time to create the stuff, so you'll have to come back--I actually send it off to some princess who we have locked in a tower who's only job is to spin gold thread... no, seriously. I mean it... okay, not really."
+ },
+ {
+  "id": 4782,
+  "t": "Components for the Enchanted Gold Bloodrobe",
+  "o": "Return to Menara Voidrender in the Barrens.",
+  "d": "Return to Menara, tell her it'll take some time, but I'll make sure to come through for her... and you. Tell her to have you finish gathering the rest of your components--I should have the thread done by then. You can return and pick it up then.$B$BGood luck, $N. Oh, and say hello to Strahad for me while you're there. That old coot... putting a tower right there next to Ratchet... crazy.",
+  "p": "",
+  "c": "Good, you've returned, $N. And where is the thread?$B$BAh, I understand. That is acceptable. The goblin and his brother have not failed us yet--I suppose it is understandable that he did not have it prepared right then. So be it... we have other things we can attend to in the meantime.$B$BAre you prepared for the next step?"
+ },
+ {
+  "id": 4783,
+  "t": "Components for the Enchanted Gold Bloodrobe",
+  "o": "Bring 10 Vials of Hatefury Blood and 1 Lesser Infernal Stone to Menara Voidrender in the Barrens.",
+  "d": "The next components are found in Desolace, far to the west of the Barrens and even the Stonetalon Mountains.$B$BThere, chaos still reigns after the Sundering. Both your strength and cunning will be tested there--you will face creatures of hatred and also of the Burning Legion.$B$BFrom the Hatefury satyr in the northeast, bring me their blood. From the lesser infernals in Mannoroc Coven, bring me a lesser infernal stone.$B$BWe will use both in the construction of your robe.",
+  "p": "Desolace is not a kind area: naga, giants, satyr, the Burning Legion... all of those and warring centaur clans all make the land dangerous if you're not careful.$B$BLike I said before, it will not only test your strength and cunning, but also your patience. Be wary in those lands, $N.",
+  "c": "Excellent, $N. These will do nicely. I will prepare them now while you move on to your last two components. Are you ready?"
+ },
+ {
+  "id": 4784,
+  "t": "Components for the Enchanted Gold Bloodrobe",
+  "o": "Bring some Fine Gold Thread, 2 Smoldering Coals, and a Soul Shard to Menara Voidrender in the Barrens.",
+  "d": "I need only three things now, $N, then we can finish your robe.$B$BFirst, the fine gold thread Xizk is making for you. Return to him in Booty Bay and get it.$B$BSecond, bring me two smoldering coals from the fire elementals in the Arathi Highlands. If I recall correctly, they are to the west, near Thoradin's Wall.$B$BFinally, a soul shard created by you.$B$BAfter you have all the components, return here to the tower and I will complete the robe for you.",
+  "p": "Soon, $N. I promise you. The robe will be more than adequate for your needs and certainly give you an edge over your opponents.",
+  "c": "Excellent, $N! The components are gathered and we are ready.$B$BI trust you will be pleased."
+ },
+ {
+  "id": 4785,
+  "t": "Fine Gold Thread",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Here you go, $N. And please tell Menara we say hello.$B$BWe expect great things of you. Perhaps when the Legion falls to its knees, your name will be spoken aloud and in praise of your power. I can't wait!"
+ },
+ {
+  "id": 4786,
+  "t": "The Completed Robe",
+  "o": "Wait for Menara Voidrender to complete your robe and then speak to her again.",
+  "d": "I will put the robe together for you now. It will take but a few moments. Do not go far.",
+  "p": "A moment, $n...",
+  "c": "It is done, $N. Here you are. Wear it with pride.$B$BYou've worked hard and I see great things in your future. Remember, to defy the corruption that comes with our path takes great will and fortitude. As long as your will is your own, then you shall have great success."
+ },
+ {
+  "id": 4787,
+  "t": "The Ancient Egg",
+  "o": "Bring the Ancient Egg to Yeh'kinya in Tanaris.",
+  "d": "The Prophecy of Mosh'aru speaks of an ancient egg.  It is a relic of a time when trolls ruled vast empires, and it has the power to hold the essence of Hakkar.  It may be the only way to keep our world safe from his evil.$B$BBring me the ancient egg, $N.  It is said to lay hidden deep within Jintha'Alor in the Hinterlands, in a cave behind the amphitheater at the top of the city.",
+  "p": "Do you have the ancient egg? I sense great forces stirring, and I fear that time grows short.",
+  "c": "Ah, you have the egg! I bow to you, $N. Your strength and bravery will be long remembered."
+ },
+ {
+  "id": 4788,
+  "t": "The Final Tablets",
+  "o": "Bring the Fifth and Sixth Mosh'aru Tablets to Prospector Ironboot in Tanaris.",
+  "d": "While I look over the third and fourth tablets of Mosh'aru, you must find the fifth and sixth!  It will not be easy, for they are held by the Smolderthorn trolls within Blackrock Spire.  The spire is a dark mountain of fire between the Burning Steppes and the Searing Gorge.$B$BGood luck, $N.  Blackrock Spire is no place for decent folk...",
+  "p": "Have you been to the spire, $N? Do you have the fifth and sixth tables?",
+  "c": "Unbelievable!  You found them!  You truly are a hero, $N!$B$BThat's a good thing, because I've been reading the tablets you brought me before, and from what I gathered... we're going to need a hero to stop what's coming..."
+ },
+ {
+  "id": 4801,
+  "t": "Frostsaber E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will fight great cats called frostsabers. These beasts possess incredible speed an' cunning. If you wish ta gain the speed a' da frostsaber, bring me da E'ko you find from dem.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4802,
+  "t": "Winterfall E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will fight misguided creatures known as da Winterfall furbolg. Through the wishes of their leader, dey have gained incredible strength. If you wish ta gain the power a' da Winterfall, bring me da E'ko you find from dem.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4803,
+  "t": "Shardtooth E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will find large bears wit extremely thick hides. These Shardtooth bears gain much protection from what dey can withstand. If you wish ta gain the resistance against fire, bring me da E'ko you find from da Shardtooth.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.$B$B",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4804,
+  "t": "Chillwind E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will fight great flying creatures called da Chillwind. These beasts possess da power ta wield frost magics. If you wish ta gain resistance ta frost, bring me da E'ko you find from da Chillwind.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.$B$B",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4805,
+  "t": "Ice Thistle E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will fight great creatures called da ice thistle yeti. These beasts move slowly, but dey are able to evade many blows from da protection their thick fur provides dem. If you wish ta gain da ability to dodge attacks, bring me da E'ko you find from dem.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.$B$B",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4806,
+  "t": "Frostmaul E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you have fought da large ice giants called frostmaul. Sheer power and force is at their disposal. If you wish ta gain da force of da frostmaul, bring me da E'ko you find from dem.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4807,
+  "t": "Wildkin E'ko",
+  "o": "",
+  "d": "",
+  "p": "In Winterspring, you will fight creatures of might dat seem to possess an innate magic ability. These wildkin can use strong magics. If you wish ta gain an increase in your intellect bring me da E'ko you find from any a' da owlbeasts you find der.$B$BRememba, you must have the Cache of Mau'ari in your inventory if you want ta hunt for E'ko.$B$B",
+  "c": "Mau'ari can derive da juju for $N... Use da Cache of Mau'ari to cast dis upon yourself or your allies."
+ },
+ {
+  "id": 4808,
+  "t": "Felnok Steelspring",
+  "o": "Give Tinkee's Letter to Felnok Steelspring at Everlook in Winterspring.",
+  "d": "I have another favor to ask of you.$B$BMy initial study of the essence you collected shows that it might be possible to freeze dragon whelp eggs and preserve them!  I want to test this theory, but first I need specially made engineering components.  My colleague, Felnok Steelspring, can make them.$B$BHere, take this letter to Felnok.  It tells him what I need.  You'll find Felnok in Winterspring, in the town of Everlook.",
+  "p": "It's cold up here! I hope you brought me a blanket!",
+  "c": "That's no blanket! But what have we here? I letter from Tinkee? I wonder what she has to say...$b$bAh, she's studying in the Burning Steppes. That makes sense--that's a good source for dragonkin. Oh, but look! It says here that she needs some parts for a device she wants to build. I guess that's where I come in, eh?"
+ },
+ {
+  "id": 4809,
+  "t": "Chillwind Horns",
+  "o": "Collect 8 Uncracked Chillwind Horns.",
+  "d": "I have most of what Tinkee needs, but I'm missing one important component, and that's chillwind horns.  The horns of the chillwind chimaera in Winterspring are a concentrated source of cold, but only pristine, uncracked horns will do!  I'll need a supply of those to complete Tinkee's order.$B$BBring me the uncracked chillwind horns, and I'll prepare a package for Tinkee.",
+  "p": "Do you have the chillwind horns, $N?",
+  "c": "These are good specimens. They're packed with cold! Let me get some gloves on, then pack them along with the other things Tinkee needs..."
+ },
+ {
+  "id": 4810,
+  "t": "Return to Tinkee",
+  "o": "Bring Felnok's Package to Tinkee Steamboil at Flame Crest in the Burning Steppes.",
+  "d": "Ok, everything is prepared and packed and ready for transport!  Good luck in your journey, and make sure you tell Tinkee that she owes me!",
+  "p": "$N! Did you talk to Felnok? Did you bring the components I need?",
+  "c": "You brought them! Great! I'll get to work right away! Thanks a ton, $N!$b$bYou've been so helpful to me, I might need you for even more important tasks later..."
+ },
+ {
+  "id": 4811,
+  "t": "The Red Crystal",
+  "o": "Travel east of Auberdine and look for a large, red crystal along Darkshore's eastern mountain range.  Report back what you find to Sentinel Glynda Nal'Shea in Auberdine.",
+  "d": "Hostile moonkin roam in ever increasing numbers to our east.  They once were thought to be gentle, almost mystical creatures.  While some continue to hold reverence for them, the safety of Auberdine forces me to keep a more realistic view.$B$BI've received reports that moonkin are being drawn to a large red crystal along Darkshore's eastern mountain range.  No one has any idea what that crystal is, or even if it really exists.  I want you to locate it over there and report back to me what you find.",
+  "p": "What do you have to report on that red crystal? Does it even really exist?",
+  "c": "So the crystal exists, $N? Fascinating... anyway, your task has been well executed; good work!$B$BWhat exactly is this crystal? This is but a single question in a sea of questions. Another question that comes to mind is why the moonkin would be drawn to this object? Is the crystal benign in nature, or does it hold a more sinister purpose?$B$BI have many more questions, but we're going to need to examine that crystal closely to get some answers."
+ },
+ {
+  "id": 4812,
+  "t": "As Water Cascades",
+  "o": "Fill the Empty Water Tube at the Auberdine moonwell, and then investigate the red crystal along Darkshore's eastern mountain wall.",
+  "d": "Use this empty vial and fill up on some moonwell water here in Auberdine.  Such potent magic should provide a clue as to the composition of the crystal.  To do that, you'll pour the liquid over the crystal; it should take care of the rest.$B$BWhile I don't anticipate anything bad happening to you, I still want you to be careful.  Above us to the east is Felwood; if that crystal is tied to that place as I suspect it is, then it could prove to be very dangerous.",
+  "p": "The crystal looks very alien against the wooded scenery of Darkshore. You think you hear a very slight humming coming from deep within it.",
+  "c": "You have made it once more to the mysterious crystal. Removing the stopper on the tube of moonwell water, you gingerly pour the contents out over the top of the crystal. As the water cascades down its lattices, you see the opaque surface turn transparent..."
+ },
+ {
+  "id": 4813,
+  "t": "The Fragments Within",
+  "o": "Report back what you have found to Sentinel Glynda Nal'Shea in Auberdine.",
+  "d": "The moonwell water has revealed that embedded inside the crystal are a few small fragments of bone, as well as half of a jawbone.  The jawbone appears to be from a humanoid, but it is unclear without breaking open the crystal - a feat that even the strongest of magic would find near impossible.$B$BWith the task at hand complete, all that remains is to report back to Sentinel Glynda Nal'Shea in Auberdine.",
+  "p": "",
+  "c": "Well, it would seem that even though we know more about this crystal, more unanswered questions are the result!$B$BI'll take the information you've uncovered to the council here in Auberdine. Perhaps they'll know a course of action to follow on this crystal. Well, that is if there is one to be taken; for now, the threat remains far enough to our east to be out of harm's way.$B$BAs for you, please have this. Consider it a reward for a job well done, $N."
+ },
+ {
+  "id": 4822,
+  "t": "You Scream, I Scream...",
+  "o": "Get some Strawberry Ice Cream for your ward.  The lad seems to prefer Tigule and Foror's brand ice cream.",
+  "d": "ICE CREAM!  Oh please please please could you get me some ice cream?!  Strawberry is my favorite flavor, and there's no better strawberry ice cream in the world than Tigule and Foror's Strawberry Ice Cream!  It's my favorite ice cream in the whole wide world!$B$BI had it once a long time ago when I was at the Shimmering Flats race track, but I heard that they might be selling them in town now!  Please?  Pretty please?  With Tigule and Foror's Strawberry Ice Cream on top??!?!",
+  "p": "I wish they'd make more flavors of ice cream other than strawberry, but I guess I'm lucky that strawberry is my favorite!",
+  "c": "Mmmmmmmmm! I love their strawberry ice cream! If there's one thing Tigule and Foror know to do, it's make ice cream!$B$BThank you very much $N - this is the best treat ever!"
+ },
+ {
+  "id": 4842,
+  "t": "Strange Sources",
+  "o": "Follow Donova Snowden's instructions, then report back.",
+  "d": "To tell you the truth, although there are no volcanoes here in Winterspring, I believe that there are far more threatening reasons for these hot springs...$B$BWell, I think you'll want to see it for yourself. You'll need to travel the length of Winterspring, and head to the very south. When the air becomes thick and muggy, and the sky turns dark, you'll have found what I believe to be the source of the hot springs.$B$BHave a look. I'm sure you'll have many questions when you return.",
+  "p": "The water in the springs seems to have some very odd properties... I am still unsure of what it means...",
+  "c": "Yes, the demons there in Darkwhisper Gorge; I believe it is their presence that is affecting the land in this way. I am going to continue observing the hot springs here and see if I learn anything more.$b$bI'd wait until you are a bit stronger if you have plans of heading farther into Darkwhisper Gorge."
+ },
+ {
+  "id": 4861,
+  "t": "Enraged Wildkin",
+  "o": "Locate Jaron Stoneshaper's wrecked camp and supplies in southern Winterspring.",
+  "d": "Hey there, $Glad:lass;! I was chased from my camp in southern Winterspring by some bloodthirsty wildkin! Well, I suppose I got too close to something the wildkin were guarding.$B$BI barely managed to get away safely; I fear a buddy of mine wasn't as lucky. Would you mind braving the wildkin and heading to the camp? I really need my supplies, and I'd also like to get back the amulet I unearthed yesterday at the dig site.",
+  "p": "",
+  "c": "A severely damaged crate stands out among the rest of the destroyed belongings at the camp..."
+ },
+ {
+  "id": 4862,
+  "t": "En-Ay-Es-Tee-Why",
+  "o": "Travel to Blackrock Spire and collect 15 Spire Spider Eggs for Kibler.$B$BBy the sound of it, these eggs could be found near spiders.$B",
+  "d": "Believe it or not, there are people out there willing to pay for the most vile of domesticated beast!$B$BI'd sent Bijou into the Spire to try and collect some of those spire spider eggs but I haven't heard from her in weeks. Maybe you can help me out?$B$BI'll tell you what, $N. Go to Blackrock Spire and collect some spire spider eggs for me. Bring them back here and not only will I give you a little cash, but I'll even domesticate one for you!",
+  "p": "Are those spider eggs in your pack or are you just happy to see me?",
+  "c": "What a load! I mean, look at all those eggs! These should bring in a right few gold.$B$BAs promised, here's your own little critter. Don't get bitten!"
+ },
+ {
+  "id": 4863,
+  "t": "Enraged Wildkin",
+  "o": "Find Jaron Stoneshaper's wrecked wagon.",
+  "d": "Looking around, you don't see much that Jaron could want here. However, you do notice that the crate you found has been smashed open, almost as if this was what the wildkin were after...$B$BLooking to the east, you can barely make out an abandoned wagon. Perhaps you might find Jaron's things there. It's worth a look.",
+  "p": "",
+  "c": "Approaching the wagon, it doesn't appear that there is much more here for Jaron. But, looking on the ground, you notice some crates that look undamaged, despite being half-buried in the snow."
+ },
+ {
+  "id": 4864,
+  "t": "Enraged Wildkin",
+  "o": "Pick up Jaron's Supplies from the snow, then find the wildkin that stole the amulet Jaron spoke of.$B$BBring Jaron's Supplies and the Blue-feathered Amulet to Jaron Stoneshaper at the lodge in Winterspring.",
+  "d": "After inspecting the contents of the box, you decide that Jaron could make use of the tools and other items inside. However, there is no sign of the amulet.$B$BIt appears that the wildkin inhabit the lands to the north and east of here, so you decide that the next step is to face the creatures and reclaim the amulet from them.",
+  "p": "Aye... Tell me the news.",
+  "c": "Well, I expected to hear as much, lad. I figured that the crazed beasts destroyed all of my belongings...$B$BBut you did find my tools, and most importantly, the amulet! I wonder why the wildkin so fiercely defended this item... In any case, I'll think twice before heading their way again!"
+ },
+ {
+  "id": 4866,
+  "t": "Mother's Milk",
+  "o": "In the heart of Blackrock Spire you will find Mother Smolderweb. Engage her and get her to poison you. Chances are good that you will have to kill her as well. Return to Ragged John when you are poisoned so that he can 'milk' you.",
+  "d": "It's probably one of the most potent poisons in the world, $r!$B$BI've overheard the Blackrock speaking about its lethality in my jaunts into the Spire. They call it 'Mother's Milk', named after Mother Smolderweb, the big nasty spider in the Skitterweb cave.$B$BNow here's what I need from you: A live sample of the Milk, flowing through YOUR veins. Just bringing me the gland won't be enough! Get her to poison you and come back to me!$B$BThen... I get to milk ya!$B$B<Rubs his hands together in anticipation.>",
+  "p": "<Ragged John pinches you.>",
+  "c": "This is gonna make the best ale yet!$B$BEh, what did you think I was gonna use this for? Poison or something??$B$BCrazy kids..."
+ },
+ {
+  "id": 4867,
+  "t": "Urok Doomhowl",
+  "o": "Read Warosh's Scroll.  Bring Warosh's Mojo to Warosh.",
+  "d": "Argh!  So hard to speak!$B$BTake this note!  Get me my mojo!",
+  "p": "Ah! Do you have my mojo?",
+  "c": "Aha! I can already feel my powers returning to me. And my mind is no longer wracked by Urok's curse.$b$bThank you, $N! Humility is below me, but I must acknowledge your aid.$b$bAnd I bid you fortune in your journeys through Blackrock Spire. You are a fool to think you could make your way to the top, but your bravery is without question."
+ },
+ {
+  "id": 4881,
+  "t": "Assassination Plot",
+  "o": "Warn Kanati Greycloud at Whitereach Post of the plot to kill him.",
+  "d": "The Tauren, Kanati Greycloud is bold to set up a hunting camp in Thousand Needles. We must kill him to rid this hunting camp and all who may follow him. We will converge at the small post Southwest of the Great Lift.$B",
+  "p": "",
+  "c": "They come to kill me? I will show them how a Tauren fights!"
+ },
+ {
+  "id": 4882,
+  "t": "Guarding Secrets",
+  "o": "Take the Blue-feathered Necklace to Trull Failbane at Bloodvenom Post.",
+  "d": "You are unsure of the significance of the necklace that fell from the neck of the recently-slain wildkin. It glows brightly, slowly fading in and out.$B$BTrull Failbane might be able to tell you more, since his knowledge of the wildkin seems extensive. Perhaps you should ask him about it.",
+  "p": "Reporting for another assignment?",
+  "c": "An important discovery?"
+ },
+ {
+  "id": 4883,
+  "t": "Guarding Secrets",
+  "o": "Take the Blue-feathered Necklace to Nara Wildmane.",
+  "d": "While I do possess much knowledge about the owlbeasts you defeated in Winterspring, I am not very learned on the subject of the magics they wield. But I do believe I know of one that would be able to examine the necklace and most likely tell you what it is.$B$BNara Wildmane in Thunder Bluff is an expert in this field; see her. Good luck, $N.",
+  "p": "How may I help you, $N?",
+  "c": "The energy of this necklace, $N. I believe that it has only one source.$b$b<Nara closes her eyes and is quiet for a moment.>$b$bThe wildkin, now misguided and confused, were once not so. They once had a purpose, and were guided to serve. The night elf goddess Elune created these creatures to guard her most sacred areas.$b$bWhile this fact may seem like it holds little value; I urge you to look deeper.$b$bYou will learn, in time. Thank you for bringing this to me, $N."
+ },
+ {
+  "id": 4901,
+  "t": "Guardians of the Altar",
+  "o": "Protect Ranshalla while she attempts to reactivate the Altar of Elune. Report your findings to Erelas Ambersky in Rut'theran Village.",
+  "d": "At the very top of the ridge lies what I believe to be an altar of the goddess Elune. From what I can tell, we need to light the five torches in each cave, and then we will be able to access the altar directly.$B$BI transcribed some incantations carved into the stone in the ancient ruins of Kel'Theril, which I believe are the secret to unlocking the altar. I'll need your help to light each torch, while I recite the spell.$B$BIf we are successful, you'll be able to report our findings to Erelas!",
+  "p": "",
+  "c": "Did you meet up with Ranshalla?"
+ },
+ {
+  "id": 4902,
+  "t": "Wildkin of Elune",
+  "o": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "That's fascinating!$B$BI have always wondered about the truth... Well, you must share this knowledge, definitely! Go to Arch Druid Fandral Staghelm right away -- you'll find him in Darnassus, in the Cenarion Circle. Explain to him what happened, just the same as you told me. I'm sure he will be just as interested!$B$BThis is important information, $N!",
+  "p": "",
+  "c": "Do not hesitate; tell me why you have come.$B$BOh, yes? Hmm. Well.$B$BThank you for bringing this straight to me; it is always best to go right to the top... But... Yes. The druids of the Cenarion Circle have known of the Wildkin for some time. That they are pets of Elune, and were chosen to guard the most sacred of places.$B$BSo while this isn't news, I definitely compliment you on your effort. Here, take this -- it is something that seems suitable for such a deed."
+ }
+]

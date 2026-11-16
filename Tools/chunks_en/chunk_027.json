@@ -1,0 +1,962 @@
+[
+ {
+  "id": 7962,
+  "t": "Wabbit Pelts",
+  "o": "Bring 3 LeCrafty Rabbit Pelts to Jon LeCraft.",
+  "d": "I want LeCrafty rabbit pelts.  Get me some from LeCrafty Rabbits.$b$bThis is important!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7981,
+  "t": "1200 Tickets - Amulet of the Darkmoon",
+  "o": "",
+  "d": "",
+  "p": "Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",
+  "c": "Here you go, here you go! A prize fit for a $gking:queen;! Congratulations to you, my friend!$B$BIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets."
+ },
+ {
+  "id": 8041,
+  "t": "Strength of Mount Mugamba",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Hail, $c. I am Jin'rokh the Breaker, troll of Mugamba. We of the Zandalar tribe recognize your accomplishments. We salute your tenacity and strength of will.$b$bWear this talisman around your neck, $c. Let the strength of Mount Mugamba flow through your being. Be empowered as you strike down our enemies!"
+ },
+ {
+  "id": 8042,
+  "t": "Strength of Mount Mugamba",
+  "o": "",
+  "d": "",
+  "p": "It is good to see you in good health, $n. The glorious battles you have undertaken affect all life on this planet. Hakkar must never leave the confines of Zul'Gurub as the world will surely collapse beneath his immense hunger.$b$bGive me your talisman and I shall amplify its strength. Use the Strength of Mugamba to punish our enemies!",
+  "c": "Our paths will cross again, $c."
+ },
+ {
+  "id": 8043,
+  "t": "Strength of Mount Mugamba",
+  "o": "",
+  "d": "",
+  "p": "Master $n, you return! Molthor has sent word of your deeds to the King. Your name is known even in the South Seas. Perhaps one day you will be a legendary $c - a story for the ages.$b$bGive me your talisman so that I may once more amplify its power.",
+  "c": "Use your newfound strength to destroy the Gurubashi!"
+ },
+ {
+  "id": 8044,
+  "t": "The Rage of Mugamba",
+  "o": "",
+  "d": "",
+  "p": "King Rastakhan sends his regards, Master $n. Such an honor has never been given to one outside the Zandalar tribe.$b$b<Jin'rokh bows.>$b$bGive me your talisman so that I may enhance it once more. Know that the Rage of Mugamba is now intrinsically connected to your very soul. ",
+  "c": "Zul'jin would be envious, $c. Go forth and conquer!"
+ },
+ {
+  "id": 8045,
+  "t": "The Heathen's Brand",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Know this, heathen: A catastrophe has brought us together. Your pagan ways are neither understood nor appreciated by Zandalar but we are a fair people. Wear this brand around your neck. It shall serve as both a warning to our enemies and a symbol of your friendship to Zandalar.$b$bContinue to serve our people and I will amplify the power of the brand."
+ },
+ {
+  "id": 8046,
+  "t": "The Heathen's Brand",
+  "o": "",
+  "d": "",
+  "p": "I may have been too hasty in my judgement, $c. It seems as if your blind faith in this Light has some value after all.$b$bGive me your brand and I shall amplify its power.",
+  "c": "Do what you must to defeat our enemies, $c. Even if it means channeling the Light.$b$b<Jin'rokh shudders.>"
+ },
+ {
+  "id": 8047,
+  "t": "The Heathen's Brand",
+  "o": "",
+  "d": "",
+  "p": "I must confess, I did not think you had the resolution to see this cause through, $c. Zandalar now considers you an invaluable ally. Well done, indeed.$b$bGive me your brand and I shall once more amplify its power.",
+  "c": "Our beliefs differ but our cause is righteous. Strike down our foes, noble $c."
+ },
+ {
+  "id": 8048,
+  "t": "The Hero's Brand",
+  "o": "",
+  "d": "",
+  "p": "The King has acknowledged your existence, $c. You are the first of your kind to be accepted by Rastakhan as a true ally of Zandalar.$b$bYou will be rewarded greatly for your efforts. Present your brand and I shall apply the final amplification.",
+  "c": "Vigilance, honor, loyalty, bravery... You embody all of these traits and so shall your brand."
+ },
+ {
+  "id": 8049,
+  "t": "The Eye of Zuldazar",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Accept this talisman as a token of our appreciation, $c.$b$bThe Eye of Zuldazar will grow in power as your bond with the trolls of Zandalar strengthens. Return to me periodically and I shall imbue the jewel. "
+ },
+ {
+  "id": 8050,
+  "t": "The Eye of Zuldazar",
+  "o": "",
+  "d": "",
+  "p": "Tales of your battles against the Gurubashi are whispered in the winds, priestess. Even royalty is beginning to talk of your deeds. It is rumored that King Rastakhan even mentioned you by name.$b$bThe time has come to imbue the Eye. Hand me the talisman and I shall perform the service.",
+  "c": "Be resolute in your endeavors, $N. The Soulflayer will attempt to siphon your will to live."
+ },
+ {
+  "id": 8051,
+  "t": "The Eye of Zuldazar",
+  "o": "",
+  "d": "",
+  "p": "Welcome $c. The Eye of Zuldazar pulses with energy. You are ready to take the next step. Hand me the talisman and I shall perform the imbue.",
+  "c": "Continue in your battle against the Soulflayer and his minions, $N. He must never be permitted to leave the confines of Zul'Gurub."
+ },
+ {
+  "id": 8052,
+  "t": "The All-Seeing Eye of Zuldazar",
+  "o": "",
+  "d": "",
+  "p": "If only we had ten-thousand more like you, $n. The armies of Hakkar would be scattered to the wind in the blink of an eye.$b$b<Al'tabim sighs.>$b$bAlas, the Eye is ready to realize its full potential. Give it to me.",
+  "c": "Smite them all and let Hakkar sort them out..."
+ },
+ {
+  "id": 8053,
+  "t": "Paragons of Power: The Freethinker's Armguards",
+  "o": "Bring Jin'rokh the Breaker Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "You are a heathen.  Heathens have a place in the tribe.  Heathens are freethinkers of Zandalar.  Freethinkers do not fear oppression.  Freethinkers die for what they believe in.  We know you would die for what you believe in.  This earns our acknowledgement.  This earns you a chance to prove yourself further.$B$BWe must have the Paragons of Power.  Go to Zul'Gurub.  Kill the minions of Hakkar.  Return when you have what I seek.  Claim the first battle gear of a Zandalar freethinker.$B$BGo.",
+  "p": "You have returned?  Do you have the Paragons of Power?  Are you wasting my time?$B$BI hope not, heathen.",
+  "c": "You do much to honor us.  Your hands drip with the blood of Hakkar's minions.  You are a friend to the tribe.$B$BWear these bracers.  They are the freethinker's armguards.  This is what I mean about real power."
+ },
+ {
+  "id": 8054,
+  "t": "Paragons of Power: The Freethinker's Belt",
+  "o": "Bring Jin'rokh the Breaker a Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Your beliefs are alien to us, heathen.  Ancient Zandalar were once branded as heretics.  This was when the Gurubashi Empire was strong.  Heathens dared to challenge the priest of Hakkar.  Heathens then were hunted and killed as vermin.  Those heathens never wavered in their fight against the Blood God.  We honor the price they paid.  They are the freethinkers.$B$BDestroy the minions of Hakkar in Zul'Gurub.  Bring me the Paragons of Power I seek.  Success will be greatly rewarded.$B$BGo.",
+  "p": "Your presence means victory?  Do you have the Paragons?  Are you dripping in the remains of your enemies?",
+  "c": "Your honor is assured in the tribe.  You claim many deaths in Zul'Gurub.  Enemies fall before your convictions.  Enemies fall before your power.$B$BThis is the freethinker's belt.  It is a symbol of honor.  It is powerful mojo.  It is now yours."
+ },
+ {
+  "id": 8055,
+  "t": "Paragons of Power: The Freethinker's Breastplate",
+  "o": "Bring Jin'rokh the Breaker a Primal Hakkari Tabard.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Battle gear gives you power in the tribe.  The freethinkers are honored in this way.  They are zealots.  They imbue their breastplates with powerful mojo.  If their beliefs falter in the face of the enemy, their breastplate will not.$B$BYou must be revered amongst us to possess such a breastplate.  Go to Zul'Gurub.  Take the Paragons of Power I need.  Take the Paragons most painfully from the fools inside.  Bring them to me.  Prove your worth as a freethinker once and for all.",
+  "p": "Do you have the Paragons?  They have mojo inside them.  We must have them.  You will aid us.",
+  "c": "You have done what few ever could.  You have brought the minions of Hakkar to their knees.  You have shown them what a freethinker can do.  You have shown us how a heretic could be revered in the tribe.  You have more than real power.  You ARE real power.$B$BTake the breastplate, freethinker.  Crush those who oppose you."
+ },
+ {
+  "id": 8056,
+  "t": "Paragons of Power: The Augur's Bracers",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The augurs of our tribe are revered for their gifts of the divine sight, ya mon.  They ain't a witch doctor; they spend their time castin' bones or readin' the leaves for insight - not hexin' people.  As a shaman, you already know somethin' about the power of augury; we Zandalar prize the insight they give to the tribe.$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this for us, and I'll give ya some bracers that our augurs prize above all others!  ",
+  "p": "Got the Paragons of Power from Zul'Gurub that I need?  These bracers are well worth any effort ya be needin' to make!",
+  "c": "It seems ya got a bit of the Zandalar augur in ya.  We know about the deeds you've been doin' in Zul'Gurub on our behalf mon.  These Paragons of Power will go a long way to helpin' out the Zandalar tribe - a tribe, I might add, ya can call upon as friends.  Take these bracers, $N; ya earned them and then some!"
+ },
+ {
+  "id": 8057,
+  "t": "Paragons of Power: The Haruspex's Bracers",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "A haruspex is a key member of our tribe; you'll be wise to listen to their portents.  By communion with animals and givin' them up to the spirits when needed, they give us divine guidance.  In times past, the haruspex's insight and wisdom gave us an edge in the wars against the splintered tribes of the Gurubashi.$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this, and I'll give ya bracers that any haruspex of the Zandalar would want.",
+  "p": "Have ya got the Paragons of Power from Zul'Gurub?  These bracers are worth the effort, $N.  Trust me mon!",
+  "c": "Ah, I can sense the power comin' from these Paragons of Power, $N.  Ya proved to be someone we in the tribe can call \"friend.\"  A deal is a deal, $N... behold the power of the haruspex's bracers!"
+ },
+ {
+  "id": 8058,
+  "t": "Paragons of Power: The Vindicator's Armguards",
+  "o": "Bring Jin'rokh the Breaker a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Vengeance is power.  The Zandalar vindicator is such power.  The tribe has many enemies.  The vindicator exacts retribution on them.  No crime against us is unpunished.  The vindicator delivers this punishment.  Our enemies fear our vengeance.  They should.  They forever will.$B$BBecome one of our vindicators.  Seek the Paragons of Power inside Zul'Gurub.  Slay the minions of Hakkar and claim vengeance in the tribe's name.  You will be rewarded.",
+  "p": "Have you brought the Paragons of Power?  Has vengeance been claimed in the name of the Zandalar?",
+  "c": "You have wrought much vengeance today.  You have taken on the visage of the vindicator.  You have brought the Blood God's minions to their knees.$B$BTake this.  It will fuel your vengeance for the future.  You are a friend to the Zandalar now."
+ },
+ {
+  "id": 8059,
+  "t": "Paragons of Power: The Demoniac's Wraps",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Warlocks tread dangerous ground in dealing with demons, but our demoniacs take this one step further.  Through an ancient and arcane ritual, they allow a demon to enter their being.  Rather than let it possess them though, they enslave the demon from the inside, absorbing the power of the beast for their own command.  It is a feat few are ever able to master.$B$BFor you to learn of the power of the demoniac, I must have Paragons of Power from Zul'Gurub.  Go there and retrieve that which we seek.",
+  "p": "Have you returned with the Paragons of Power?  By defeating the diabolic minions of the Hakkar, you will not only prove yourself to us, but also your willingness to learn the ways of the demoniac.",
+  "c": "Well done... no doubt they were made to pay in excruciating ways before they gave up the Paragons of Power.  Take this - the demoniac's wraps.  Made from powerful mojo used in summoning the demoniac's prey, it is a powerful tool in your acquisition of power."
+ },
+ {
+  "id": 8060,
+  "t": "Paragons of Power: The Illusionist's Wraps",
+  "o": "Bring Al'tabim the All-Seeing Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Mages in our tribe are known as illusionists.  They employ powerful mojo in their incantations, often befuddling and confusing the tribe's enemies!$B$B<Al'tabim laughs wickedly.>$B$BIt is quite the sight to see a powerful illusionist at work, bringing our enemies to their knees from their own madness!$B$BFor you to know the way of our illusionists, go to Zul'Gurub and bring back to me selected Paragons of Power.  For this, I will give you arm wraps our illusionists use to weave their spells.",
+  "p": "$N - you've returned already?  Were you able to get the Paragons of Power I need?",
+  "c": "Impressive... could you feel the mojo flowing through them?  The Paragons of Power were used as currency of sorts back when the Gurubashi Empire ruled these lands.  Now we Zandalar will use the latent mojo inside of them to fight the second rise of the Blood God Hakkar!$B$BYou've done well today - consider yourself to have a friend in the Zandalar.  For that, here are the illusionist's wraps I promised!"
+ },
+ {
+  "id": 8061,
+  "t": "Paragons of Power: The Confessor's Wraps",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "We Zandalar invest power in those who speak with the authority of divinity.  Our priests are more than just healers - they are our confessors.  Evil comes both from outside threats - such as Hakkar - and from within the tribe.  Our confessors act as the judges amongst us, preserving us from the same evil that devoured the Gurubashi from inside itself.$B$BGo to Zul'Gurub and bring back the Paragons of Power from the Gurubashi.  Learn what it means to be the confessor, and preserve us from evil.",
+  "p": "Back from Zul'Gurub, are you?  Have you succeeded in retrieving the Paragons of Power from the minions of Hakkar?",
+  "c": "Outstanding, $N!  This was no small feat bringing these to me.  No doubt you've acted as our tribe's confessor today in preserving ourselves against the threat of Hakkar.  These wraps are befitting a friend of the tribe such as you!"
+ },
+ {
+  "id": 8062,
+  "t": "Paragons of Power: The Predator's Bracers",
+  "o": "Bring the following Paragons of Power from Zul'Gurub to Falthir the Sightless: A Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "In the dark times after the fall of the Gurubashi Empire, Zandalar predators used their prowess to provide sustenance for the tribe.  Hunters claim to be much like our tribe's predators - to seek the hunt is to embody the essence of the predator, yes.  Your hunt in Zul'Gurub, however, will show us how you truly rate amongst our finest predators.$B$BBring to me a sampling of the Paragons of Power from within Zul'Gurub.  Do so, and you'll take first steps in becoming the penultimate predator.",
+  "p": "Hunt those in Zul'Gurub that would possess the Paragons of Power, $N.  They are your prey; they possess that which we both must have.",
+  "c": "Yes... I need no vision to sense the presence of the Paragons of Power.  Your success in Zul'Gurub has impressed many among the tribe.  We not only consider you to be a friend of the Zandalar, but also consider you worthy enough to possess the predator's bracers - powerful items, and a symbol of what it means to be a predator.  Well done, $N."
+ },
+ {
+  "id": 8063,
+  "t": "Paragons of Power: The Madcap's Bracers",
+  "o": "Bring Falthir the Sightless a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The madcaps of Zandalar are similar to rogues, but above all else they embrace madness... chaos... the unpredictability of existence.  A terror to behold on the battlefield, they sowed the seeds of confusion and mayhem amongst our enemies in the savage times after the tribes splintered.  We would not be here today without them.$B$BBring to me the Paragons of Power from Zul'Gurub that I seek, and I will grant you the first of the madcap's prized armors.  Embrace the madness!",
+  "p": "Seek the madness from within Zul'Gurub and overshadow it with your own, $N!  To do so means success, and success means reward!  Let not the Blood God reign supreme again!",
+  "c": "Well done, $N... your accomplishments in Zul'Gurub have earned you the right to call the Zandalar tribe as a friend.  I will see to the disposition of the Paragons; for your effort please accept this reward!"
+ },
+ {
+  "id": 8064,
+  "t": "Paragons of Power: The Haruspex's Belt",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Sash.  Maywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale. You must also be Honored with Zandalar.",
+  "d": "We Zandalar know not of druidic ways; nature is to be shaped by our need, not the other way around.  Still, a haruspex is the one of us most in tune with nature, and rightly so.  To give up the ghost of a beastie is to know what it is to be one of them.  That is the real power of nature.$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub, proving yourself to us.  Do this, and I'll give ya a powerful item - a belt used by many of the Zandalar's haruspices.$B$BStrong mojo, ya mon!",
+  "p": "Got the Paragons of Power from Zul'Gurub I need?  The haruspex's belt will be yours if ya have them.",
+  "c": "I thank you - the latent power in these items will be treasures unto themselves, you betcha.  Not only have ya done as I've asked of ya, but you've also proven to be honorable to us here in the tribe.  As promised, here is your reward!"
+ },
+ {
+  "id": 8065,
+  "t": "Paragons of Power: The Haruspex's Tunic",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Tabard.  Maywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale. You must also be Revered with Zandalar.",
+  "d": "The ultimate symbol of a haruspex's power is what they wear, $N.  Of these, the tunic symbolizes the connection between themselves and the divine wisdom they seek.  It often weaves parts of the beasties they sacrifice into the tunic; this reminds them of the connection they have to their gifts.$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this, and a tunic seeping with the true power of a haruspex is yours.",
+  "p": "Got the necessary Paragons of Power from Zul'Gurub?  The haruspex's tunic is well worth any effort ya be needin' to make.",
+  "c": "Impressive... you've successfully collected the required Paragons of Power, $N.  Your accomplishments in Zul'Gurub for the Zandalar are legendary; hence forth, you'll be revered amongst the tribe.  Here is your tunic, mighty $c!"
+ },
+ {
+  "id": 8066,
+  "t": "Paragons of Power: The Predator's Belt",
+  "o": "Bring the following Paragons of Power from Zul'Gurub to Falthir the Sightless: A Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "A predator knows how to stalk their prey, but a successful one knows how to strike at it once they have closed ranks.  You must master both to have any chance of success in Zul'Gurub... and any chance of being like the Zandalar predators.$B$BBring me choice parts of the Paragons of Power from within Zul'Gurub.  My reward will be the power that the trinkets yield, while yours will be the Zandalar predator's belt - equipment well worth the trade.",
+  "p": "Strike at the insane minions of Hakkar in Zul'Gurub - they are the ones that hold the Paragons of Power, $N.  Prove your success to them - and to the tribe - as an aspirant to the predator.",
+  "c": "I sensed your arrival moments before, $N, but none too easily.  What revealed yourself to me were the Paragons of Power you brought.  I can feel the power without needing to see the trinkets; their latent mojo - raw magic, if you will - will continue to fuel our efforts of vanquishing the diabolic schemes of the Blood God Hakkar.$B$BYou are to be commended - and rewarded - for your success.  You are honored amongst the tribe, and you are worthy to wear the predator's belt."
+ },
+ {
+  "id": 8067,
+  "t": "Paragons of Power: The Predator's Mantle",
+  "o": "Bring the following Paragons of Power from Zul'Gurub to Falthir the Sightless: A Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "We Zandalar prize what we wear as a symbol of accomplishment.  You don't need to be able to see what one wears to be able to sense what emanates from it - power transcends sight.  The garments of the Zandalar predator are like this, and most cherished by them is the mantle they wear.  It helps to obfuscate them from view... and to make their presence known when they wish it.$B$BThe Paragons of Power await your retrieval in Zul'Gurub.  Bring me what I seek, and the predator's mantle shall be yours.",
+  "p": "Have your strikes into Zul'Gurub yielded success, $N?  Only when you've brought me what I seek - and proven yourself fully to the tribe - will you earn a mantle second to none amongst the Zandalar.",
+  "c": "Success... you are to be revered amongst the tribe, $N.  It was no small feat acquiring the Paragons of Power needed for the mantle, but you handled it in the fashion of the deadliest of our predators.  You've earned your place amongst them, and you've certainly earned the right to wear their mantle."
+ },
+ {
+  "id": 8068,
+  "t": "Paragons of Power: The Illusionist's Mantle",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Magic is a raw, primal force to be shaped by those strong enough to do it.  Mojo is our extension of this power; one such potent manipulation of it is in the form of illusion.  How can one truly hope to win against a foe that is not even really there?  We Zandalar know the power of this, and as such illusionists hold a honored place within the tribe.$B$BTake the needed Paragons of Power from Zul'Gurub - for this, honor from the tribe and a powerful mantle used by our best illusionists will be yours!",
+  "p": "How was your foray into Zul'Gurub?  Did you drive your enemies mad through the power of illusion?  Illusion or not, their deaths - and the Paragons of Power taken from them - will help thwart the rise of Hakkar.",
+  "c": "Success!  You shall be honored in the tribe from here on!  Zul'Gurub has certainly tasted the might of the Zandalar today, thanks to you $N.$B$BWith the tribe's blessing, take the Zandalar illusionist's mantle.  May it serve you well."
+ },
+ {
+  "id": 8069,
+  "t": "Paragons of Power: The Illusionist's Robes",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The tribe acknowledges station and power through what we wear.  Our vestments are made from the finest of materials, and interwoven with the mojo we use to make us powerful.  Illusionists are no exception; their robes are said to embody the essence of illusion in their look.  Legend states that their ancient robes never looked the same twice.$B$BI will give you an illusionist's robe, $N... but earn your place of reverence among the tribe first!  Bring me the Paragons of Power from Zul'Gurub!",
+  "p": "Have you returned with the Paragons of Power we need?  I know it will not be easy... but I have long predicted an outsider would come to aid us in our fight against Hakkar.  Let it be you, I say!",
+  "c": "At last, someone worthy to wear the illusionist's robe!  Your success in Zul'Gurub has assured your reverences amongst the tribe for ages to come.  Wear it with pride, $N!"
+ },
+ {
+  "id": 8070,
+  "t": "Paragons of Power: The Confessor's Bindings",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Sash.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Shortly after the fall of the Gurubashi, we Zandalar almost succumbed to a final defeat from evil within our own tribe.  It was then that the confessors amongst us arose, preserving the tribe by banishing out those who would destroy their own kind.  They not only keep us in tune with the spirits, but they also preserve the flesh.$B$BGo forth into Zul'Gurub and witness first hand the depravity of Hakkar and the Gurubashi.  Wrest the Paragons of Power that we seek from them; success will be rewarded!",
+  "p": "The Paragons of Power... do you have them?  Only when we have them will we be able to make use of the latent power stored inside them.  It will be good to turn the tables on the minions of the Blood God...",
+  "c": "Success!  These will go a long way to building up our power against the rise of Hakkar.  With your help, we've taken a significant step in ensuring that the Blood God will not destroy us all.$B$BYou've earned honor with the tribe today, $N.  Take this - the confessor's bindings - as a symbol of our thanks."
+ },
+ {
+  "id": 8071,
+  "t": "Paragons of Power: The Confessor's Mantle",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The confessors of the Zandalar all wear a distinctive mantle, marking them as the preservers of the tribe.  These mantles are woven with powerful mojo that aids them in judging those who would threaten our tribe.  As a priest, you too must spend your time judging those worthy and not; such a mantle would definitely be a blessing to you.$B$BIn exchange for fighting Hakkar's minions in Zul'Gurub and bringing me the Paragons of Power I seek, I will give you a mantle worthy of our finest confessors.",
+  "p": "Do you have the Paragons of Power from Zul'Gurub?",
+  "c": "Well done, $N - the minions of Hakkar have surely felt the retribution of the Zandalar today, thanks to you.  Your actions have given you a permanent place of reverence within the tribe.  With our blessing, please take this confessor's mantle as your own!"
+ },
+ {
+  "id": 8072,
+  "t": "Paragons of Power: The Madcap's Mantle",
+  "o": "Bring Falthir the Sightless a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "One of Zandalar's legendary madcaps was Khar'vaxal the Cracked.  Legend states that when facing the enemies of the tribe for the first time, Kar'xavan used his mantle specifically woven with \"the weave of madness\".  His form was shrouded not only by the mantle, but also with the blinding speed of his twin daggers.  Madcaps today cherish their mantle as a sign of their place in the tribe.$B$BBring to me the Paragons of Power I seek, and such a mantle will be yours to weave madness unto your own enemies.",
+  "p": "You've returned - do you have the Paragons of Power I need?$B$BThe legend of Khar'vaxal the Cracked serves us today as a reminder that no foe - no matter how great a threat they may be - is impossible to overcome.  Chaos will bring everyone to their knees, that much is certain... and perhaps the most non-chaotic elements of chaos.",
+  "c": "Victory is ours this day, thanks to the madness you have sowed upon our mutual enemies!  You are to be honored amongst the Zandalar, and there is no better way of showing gratitude for your deeds than by offering you the madcap's mantle!"
+ },
+ {
+  "id": 8073,
+  "t": "Paragons of Power: The Madcap's Tunic",
+  "o": "Bring Falthir the Sightless a Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "My eyes failed me long ago, but I do not miss them.  Even in a tribe such as ours - where one's vestments convey station and purpose - the most potent of garb exudes power that simple eyes cannot see.  The prized tunic of the Zandalar madcap is no exception, exuding the raw power of chaos and madness that they are able to channel.$B$BThe Paragons of Power I need lie in Zul'Gurub; bring me what I seek, and I will reward you with your own legendary tunic... one befitting a weaver of madness.",
+  "p": "Welcome back to the Isle, $N... have you returned triumphantly with the Paragons of Power in tow?",
+  "c": "Impressive... you have accomplished today what few thought was possible.  Your reverence in the tribe is assured for a lifetime, $N.  You have earned the right to don the madcap's tunic - do so with our blessing."
+ },
+ {
+  "id": 8074,
+  "t": "Paragons of Power: The Augur's Belt",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "Augurs know the mojo of the elements, mon.  They use it as a means to guide the tribe to glory.  In the dark days after the Gurubashi Empire ripped itself up, our augurs led us to our safe haven in the South Seas.  They've also led us back here to the Vale, right back to the heart of evil brewin' in Zul'Gurub.$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do it and I'll give ya a belt that our augurs use - one with powerful mojo inside it!",
+  "p": "The Paragons of Power are what I need mon - we'll tap the power right out of them in our fight against the evil from Zul'Gurub.  Do ya have them for me?",
+  "c": "I can smell the scent of vanquished evil on ya, $N.  It's a sweet smell mon... one I think you know quite well.$B$BI know it's no small feat to have brought me the Paragons of Power required for the belt.  Your deeds have not only honored the tribe, but also honored yourself amongst my tribe.  Here ya are - take the augur's belt and don it as your own!"
+ },
+ {
+  "id": 8075,
+  "t": "Paragons of Power: The Augur's Hauberk",
+  "o": "Bring Maywiki of Zuldazar a Primal Hakkari Tabard.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The augurs of the Zandalar all wear a distinctive chest piece called a hauberk.  It's fitted with the finest of silks and cloths, interwoven with strong chain.  It's a symbol of not only their divinity, but also of their authority, mon.  It's never wise to cross one whose life is devoted to speakin' with the spirits...$B$BBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do it and I'll give ya one of the finest hauberks our augurs would ever hope to wear!",
+  "p": "The Paragons of Power are a key source of magic power - the same kind of power that goes into makin' the augur's hauberk.  Bring me what I need, and I'll be able to share the finest of vestments any Zandalar augur would be wantin' as their own.",
+  "c": "I know what ya had to go through to bring me the Paragons of Power, $N.  It wasn't easy, mon - defeatin' the evil that seeps out of Zul'Gurub like a foul ooze - but now that it is all said and done, I can easily say that you'll be revered amongst the Zandalar for ages to come!$B$BHere - take the augur's hauberk and wear it with pride!"
+ },
+ {
+  "id": 8076,
+  "t": "Paragons of Power: The Demoniac's Mantle",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Sash.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The demoniac seeks to embody power outright, not just possess it.  More than one of our demoniacs has lost a fight with a demon; with our enemies threatening us - especially in Zul'Gurub - the power that a demoniac is able to unleash on our foes is worth the sacrifice.  Our survival depends on crushing those who would destroy us; the fall of the Gurubashi Empire taught us this.$B$BTravel to Zul'Gurub and gain the Paragons of Power we need.  Do this, and a valuable demoniac item shall be yours.",
+  "p": "Retrieved the Paragons of Power from Zul'Gurub?  While we will take the latent power from these items and make them our own, we will give you your own reward of power should you be successful...",
+  "c": "Well done, $N.  The Paragons of Power from Zul'Gurub should act as a reminder of wasted power.  The Gurubashi were strong at their height, but they allowed themselves to be consumed by it.  A demoniac knows that the game they play is much similar, but the power unleashed is often the very thing needed for survival.$B$BUse this mantle as an honored ally of the Zandalar... it will serve you well."
+ },
+ {
+  "id": 8077,
+  "t": "Paragons of Power: The Demoniac's Robes",
+  "o": "Bring Al'tabim the All-Seeing a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The ultimate symbol of power amongst the tribe is the garb we wear in battle.  A demoniac's robes have fused fine runecloth and devastatingly powerful mojo into a single fabric.  The visage of the robe is said to instill fear into the minds of all who see it... especially the demons that the demoniac will eventually dominate.$B$BFrom Zul'Gurub, you must bring me a very specific set of the Paragons of Power.  It will be difficult... but your success will assure you of acquiring a robe for yourself.",
+  "p": "The Paragons of Power... you have returned with them?  Only once we have them will we share the ultimate symbol of demoniac power with you, $N.",
+  "c": "Impressive - your victory in Zul'Gurub has assured us - nay, the world - that Hakkar will not prevail.  The time may come when you face the Blood God directly... and should this come to pass know that your reverence is assured amongst the Zandalar tribe.$B$BOh, and this simple robe should help out too I think.$B$B<Al'tabim winks knowingly at you.>"
+ },
+ {
+  "id": 8078,
+  "t": "Paragons of Power: The Vindicator's Belt",
+  "o": "Bring Jin'rokh the Breaker a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The ultimate vengeance waits within Zul'Gurub.  Hakkar must not rise again.  Hakkar destroyed the Gurubashi Empire from within.  No sacrifice was enough.  The trolls are a shadow of former glories.  I know this is because of Hakkar.$B$BBecome the vindicator you were meant to be.  Wreak havoc on the minions of evil.  Zul'Gurub must taste Zandalar vengeance.  Bring me proof in the Paragons of Power.  You will receive the vindicator's belt.  You will receive real power.$B$BGo.",
+  "p": "Have you brought the Paragons of Power?  Have you struck down the enemies of the tribe?  Hakkar must know the wrath of the vindicator!",
+  "c": "The way of the vindicator is now known to you.  You have brought honor to the tribe.  You have brought honor to yourself.  You have brought pain to our enemies.$B$BThe vindicator's belt is yours.  You are surely becoming one with the way of the vindicator."
+ },
+ {
+  "id": 8079,
+  "t": "Paragons of Power: The Vindicator's Breastplate",
+  "o": "Bring Jin'rokh the Breaker a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+  "d": "The vindicator's symbol of power is the breastplate.  It is forged with powerful mojo.  It is trusted only to those we revere.  It is the Zandalar symbol of vengeance.$B$BTo become a vindicator is to become vengeance.  Take the Paragons of Power we need from Zul'Gurub.  Bring them to us.  We will take the mojo stolen from us.  We will make the minions of Hakkar pay.  We will reward you with the vindicator's breastplate.$B$BGo.  Be our vengeance, $N.",
+  "p": "Your presence means victory?  Do you have the Paragons of Power?  Tell me of the vengeance you have wrought today!",
+  "c": "You are to be revered for your deeds.  The tribe rewards its heroes.  Zul'Gurub has tasted Zandalar vengeance like never before.$B$BYour deeds will herald the deeds of others to come.  They will look upon you as a sign of real power.  They will look upon you as vengeance personified!"
+ },
+ {
+  "id": 8080,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "Do you have the resource crate, $N? The League of Arathor can't fight a decent battle without them...",
+  "c": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.$B$BThank you, $N. Indeed, performing successful missions like the one you achieved are how wars are truly won."
+ },
+ {
+  "id": 8081,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the League of Arathor has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by footman and field marshal alike."
+ },
+ {
+  "id": 8101,
+  "t": "The Pebble of Kajaro",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "$R, the pebble held within the frame of this talisman comes from Mount Kajaro in the South Seas. Mount Kajaro is an area plagued by volatility - marked by violent and oftentimes magical volcanic eruptions.$b$bAs your bond with the trolls of Zandalar grows, so too shall the power of this pebble. Harness the power of the pebble to strike down our enemies. Be like the mountain: Quick, explosive, deadly..."
+ },
+ {
+  "id": 8102,
+  "t": "The Pebble of Kajaro",
+  "o": "",
+  "d": "",
+  "p": "Welcome back, $c. I can see that the pebble has seen much use. Many of our foes have fallen to your otherworldly abilities. Their suffering has been great. It is time that I enhance the power of the pebble. Give it to me. ",
+  "c": "Be unstoppable, like the molten fronts of Kajaro."
+ },
+ {
+  "id": 8103,
+  "t": "The Pebble of Kajaro",
+  "o": "",
+  "d": "",
+  "p": "Hakkari fear you, $n. They speak of horrors they believed that only their faceless God could perpetrate. You have burned them with the force of Kajaro. They now know fear in two places.$b$bIt is time to further strengthen the pebble. Hand me the talisman.",
+  "c": "Continue in your decimation of the trolls of Zul'Gurub. Hakkar must see that the world will not buckle beneath his indomitable will."
+ },
+ {
+  "id": 8104,
+  "t": "The Jewel of Kajaro",
+  "o": "",
+  "d": "",
+  "p": "Give me the talisman, $n. I must show you something.",
+  "c": "<Al'tabim shatters the pebble with a powerful unseen force.>$b$bDo you see? The pebble is what we call a geode. Inside the pebble are powerful crystals that have been soaking in the latent energies from our world. By cutting the pebble in half, I have finally allowed its full potential to be realized. Use it to lay waste to our enemies."
+ },
+ {
+  "id": 8105,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the mine, the lumber mill, the blacksmith and the farm, then return to Field Marshal Oslight in Refuge Pointe.",
+  "d": "$N, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.$B$BAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!$B$BWhen you have done this to all four points, return to me.",
+  "p": "",
+  "c": "I received reports of your exploits in Arathi Basin, $N.  Well done!  With those like you joining the struggles here, I have faith that we will one day retake our homelands."
+ },
+ {
+  "id": 8106,
+  "t": "Kezan's Taint",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Accept this talisman, $c. Accept it and use its power to strike down our mutual enemies.$b$bKnow that around your neck you carry a piece of history. Kezan was once a grand territory of the Zandalar Empire. Alas, the taint of goblin trade princes would force out my proud brothers and sisters.$b$bKezan is now home to the goblin capital of the Undermine; but know that before the taint, it held greatness. Still to this day Kezan is considered sacred land to my people."
+ },
+ {
+  "id": 8107,
+  "t": "Kezan's Taint",
+  "o": "",
+  "d": "",
+  "p": "Honor is earned amongst the Zandalar trolls, $n. With honor comes reward - friendship, alliance...$b$bHand me the talisman so that I may enhance its power.",
+  "c": "Draw from the darkness, $c. Embrace the shadows. Let Kezan's Taint supplement your dark meddling."
+ },
+ {
+  "id": 8108,
+  "t": "Kezan's Taint",
+  "o": "",
+  "d": "",
+  "p": "I am ready for you, $c. Once more I will enhance your talisman. I only ask that you continue in your destruction of Hakkar and his minions.$b$bGive me the talisman.",
+  "c": "It is only through our combined efforts that we will stop the Soulflayer."
+ },
+ {
+  "id": 8109,
+  "t": "Kezan's Unstoppable Taint",
+  "o": "",
+  "d": "",
+  "p": "Call forth your demons, $c. Let them bask in the energy of Kezan's Taint. Command them on the field of battle! Decimate the enemy!$b$bYes... The time has come to apply the final enhancement to Kezan's Taint. Give me the talisman.",
+  "c": "Flay the flesh from their corpses. Watch as the shadows consume the Hakkari. Draw power from their fear, $c. Let Kezan's Taint augment this power..."
+ },
+ {
+  "id": 8110,
+  "t": "Enchanted South Seas Kelp",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "See this here seaweed, mon? It be from the South Seas. We just add a little mojo and a little magic and it takes on the properties most suited to its owner.$b$bYou a $c so it be easy, mon. Just wrap it around your neck and think of nature or squirrels or whatever it be that you people like."
+ },
+ {
+  "id": 8111,
+  "t": "Enchanted South Seas Kelp",
+  "o": "",
+  "d": "",
+  "p": "Hey mon! It be good to see you again. The tribe be talking about your killin' of the Hakkari and all that. Molthor gave me the word to be adding more mojo to your talisman. Just give it here and Maywiki make it better.",
+  "c": "The neck piece not be for smokin', mon! You got to use it to fight evil."
+ },
+ {
+  "id": 8112,
+  "t": "Enchanted South Seas Kelp",
+  "o": "",
+  "d": "",
+  "p": "How be that talisman, mon? It look like it be time to add a little more magic and mojo to its leaves. It need a little bloom in its wilt. Give it here and Maywiki fix it right up.",
+  "c": "Now you take the evil trolls in Zul'Gurub and show them what your nature powers can do, mon!"
+ },
+ {
+  "id": 8113,
+  "t": "Pristine Enchanted South Seas Kelp",
+  "o": "",
+  "d": "",
+  "p": "$n! It been a long time since I seen you. Did you know that King Rastakhan himself be givin' me the order to add the final bit of mojo and magic to your talisman? It be true, mon! I wouldn't have believed it had I not seen it with me own eyes. Give it here.",
+  "c": "$N mon, it been a good journey. Keep on with the killing and suppressing of Hakkar and he minions."
+ },
+ {
+  "id": 8114,
+  "t": "Control Four Bases",
+  "o": "Enter Arathi Basin, capture and control four bases at the same time, and then return to Field Marshal Oslight at Refuge Pointe.",
+  "d": "$N, you have taken the battle of Arathi Basin to our enemies and earned great honors in that field of battle.  You have shown us your worth as a $c, and you have shown our enemies that we will not submit to their villainy!$B$BBecause of your proven value to us, I have a difficult task for you.  I want you to take and hold at least four of the bases in Arathi Basin.  If you can do that, then we will not only secure critical resources, we will show the Horde our dominance!$B$BGo, $N, and good fortune. ",
+  "p": "",
+  "c": "Very good work, $N!  An excited scout came to me with a report of your exploits.  We in the League of Arathor are very pleased!$b$bYou are swiftly becoming a local hero among the soldiers in the League, and today's deed once again proves your sterling reputation."
+ },
+ {
+  "id": 8115,
+  "t": "Control Five Bases",
+  "o": "Control 5 bases in Arathi Basin at the same time, then return to Field Marshal Oslight at Refuge Pointe.",
+  "d": "$N, battling for the resources of Arathi Basin is a bloody undertaking.  Your services to the League of Arathor are as needed as they are appreciated.$B$BAnd we have one more task for you.$B$BThe League wishes to make one strong push against the Defilers' occupation of Arathi Basin.  We want them driven out of every strategic point on the battlefield!$B$BIt will not be easy, but if anyone can get it done, it is you.",
+  "p": "",
+  "c": "You did it!  You took all of the bases!  Well done, $N!$b$bThere were those who doubted your chances, but I knew you could do it.  Thank you, and know that the League of Arathor holds you in high regard, just as the Defilers of the Forsaken must fear the very mention of your name!"
+ },
+ {
+  "id": 8116,
+  "t": "Vision of Voodress",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You and Maywiki have something in common, mon. We both be $c! Although, Maywiki is more of a mystic and you be more of a scrub. Still, we both know what the great spirits bring.$b$bAs a gift I give to you this orb to wear around your neck. Look deep inside and see the village of Voodress in the South Seas! Let it lift your spirits!"
+ },
+ {
+  "id": 8117,
+  "t": "Vision of Voodress",
+  "o": "",
+  "d": "",
+  "p": "Good news, $n. Molthor be singin' your praises lately. He say how you be turnin' into a real hero of Zandalar.$b$bHe also say for Maywiki to polish your orb some more! Give it here so Maywiki can brighten the vision.",
+  "c": "Beware the evil Hakkari spirits, mon. Honestly, they be spooky."
+ },
+ {
+  "id": 8118,
+  "t": "Vision of Voodress",
+  "o": "",
+  "d": "",
+  "p": "Sha-mon! Maywiki make a joke!$b$b<Maywiki laughs.>$b$bSo, you been using the spirits and elements against our enemies in Zul'Gurub, eh? Spirits be praised!$b$bMaywiki gonna brighten your orb. Give it here, $n.",
+  "c": "Take a look at it now, $N. Voodress come in even clearer now, yea? Let the primal power flow through you, mon."
+ },
+ {
+  "id": 8119,
+  "t": "The Unmarred Vision of Voodress",
+  "o": "",
+  "d": "",
+  "p": "<Maywiki points to your talisman.>$b$bLook at it, $n! It's come alive. The spirits dance around the orb.$b$bGive it to Maywiki so she can make one last adjustment.",
+  "c": "One day, $N, you will be able to use this orb to communicate directly with me. Whenever this battle with Hakkar be over and Maywiki go home. Let us call to the spirits and ask them for that day to come soon."
+ },
+ {
+  "id": 8120,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",
+  "d": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!$B$BGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.$B$BGo, $N.  Report back to me when this task is complete.",
+  "p": "",
+  "c": "A Defiler scout came to me with a report of your success, $N.  Well done.$b$bAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured."
+ },
+ {
+  "id": 8121,
+  "t": "Take Four Bases",
+  "o": "Hold four bases at the same time in Arathi Basin, and then return to Deathmaster Dwire in Hammerfall.",
+  "d": "$N, as the battles over Arathi Basin rage, news of your actions have reached many ears.  You are highly regarded among us, which gives me confidence that you will accomplish the mission I now have for you.$B$BIt is time to send a message to the League of Arathor.  We must show them that their holdings in Arathi Basin are tenuous and quickly lost.  We will show them this by holding, all at once, four strategic points in Arathi Basin.$B$BSucceed in this, $N, and earn great respect among the Defilers.",
+  "p": "",
+  "c": "Good work, $N!  Your latest actions in Arathi Basin were quite difficult, and so their successes are quite praiseworthy.  The League of Arathor must be reeling from the last skirmishes in the basin, licking their wounds and, let us hope, rethinking their choice to fight here."
+ },
+ {
+  "id": 8122,
+  "t": "Take Five Bases",
+  "o": "Hold five bases in Arathi Basin at the same time, then return to Deathmaster Dwire in Hammerfall.",
+  "d": "It is difficult to see, so deep we are in the conflict, but our spies report a weakening in the League of Arathor's resolve.  We must use this window and strike a brutal blow against them!  Return to Arathi Basin and throw yourself against our foes.  Curse them and kill them and control all five strategic bases!  Send their soldiers screaming and bleeding from the front lines, with stories of your cruelty on their mewling lips.$B$BDo this, and score a great victory for the Defilers.",
+  "p": "",
+  "c": "The cries of the Alliance as you and your compatriots attacked them could be heard even from here, $N.  I can almost pity them for the pain and fear you delivered to their ranks.  Almost, but not quite.$b$bYour value to the Defilers is without question.  Your deeds in Arathi Basin have been most impressive, and have echoed among the chambers of Varimathras... and the Dark Lady herself."
+ },
+ {
+  "id": 8123,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8124,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the Defilers has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by grunt and high warlord alike."
+ },
+ {
+  "id": 8141,
+  "t": "Zandalarian Shadow Talisman",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You progress swiftly, young $c. Perhaps it is time to initiate you into the Shera Ali'kh - Zandalari for Death's Hand. For thousands of years we have played the role of assassin for the Zandalar Empire. For too long we have sat idly, allowing the Hakkari to grow in strength. Once more we face Hakkar, but this time without the support of a united $r front. It is you and your allies who must assist in vanquishing the Blood God and his minions!$b$bWear this talisman and let it assist you in your journeys."
+ },
+ {
+  "id": 8142,
+  "t": "Zandalarian Shadow Talisman",
+  "o": "",
+  "d": "",
+  "p": "Impressive, $n. You have a gift for killing that I have not sensed in another in many years. Even Molthor is aware of the work that you have done for Zandalar. It is time to enhance your talisman further. Give it to me.",
+  "c": "There is only one enhancement left that can be placed on the talisman, $c. When the time is right, I shall apply that enhancement."
+ },
+ {
+  "id": 8143,
+  "t": "Zandalarian Shadow Talisman",
+  "o": "",
+  "d": "",
+  "p": "I sense that you have dealt countless fatalities to the Hakkari, $n. You carry the stink of their mojo.$b$bI assume the Shadow talisman has assisted in the culling? Give it to me and allow me to enhance its power.",
+  "c": "An assassin of your caliber should be given a wide berth. Your foes must learn respect! You will get just that when the enemy sees the glint of Death's Hand - all too late..."
+ },
+ {
+  "id": 8144,
+  "t": "Zandalarian Shadow Mastery Talisman",
+  "o": "",
+  "d": "",
+  "p": "It yearns to grow, $n. The talisman has soaked in all that you have done. The thousands of troll corpses littering Zul'Gurub have fueled its power. Hand it to me and I shall make the final enhancement.",
+  "c": "This is the last time we will speak under the auspices of Shera Ali'kh. You know all that you must. Take the talisman and continue in your slaying. Hakkar must never be allowed to leave Zul'Gurub."
+ },
+ {
+  "id": 8145,
+  "t": "The Maelstrom's Tendril",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Amongst the Zandalarians, the profession of $c is revered. Our greatest hunters travel to the edge of the Maelstrom to prove their resolution.$b$bFrom the heart of the sea they pull strands of kelp known as Maelstrom Tendrils. The kelp is then woven into a talisman that is enchanted to improve their accuracy and power.$b$bI now grant you a single weaving of the Maelstrom's Tendril. As your bond with Zandalar grows, I shall weave more power into the talisman."
+ },
+ {
+  "id": 8146,
+  "t": "The Maelstrom's Tendril",
+  "o": "",
+  "d": "",
+  "p": "Even from here I can hear the sound of your volleys laying waste to our enemies. Their cries echo in agony.$b$bYou have made quite a name for yourself among the trolls of Zandalar, $n. We are grateful for all that you have done.$b$bHand me your talisman so that I may add another weave.",
+  "c": "There is only one more weave that I will be able to add to your talisman, $c"
+ },
+ {
+  "id": 8147,
+  "t": "The Maelstrom's Tendril",
+  "o": "",
+  "d": "",
+  "p": "Ah, $n, it is good to smell you again.$b$b<Falthir grins.>$b$bYou'll have to excuse my sense of humor. It can be most foul at times.$b$bI sense that you have caused great anguish to our enemies. The forces of Hakkar cry out your name in anger. This is most excellent.$b$bYou have earned another weave on your talisman. Hand it to me.",
+  "c": "Let them seek atonement at the end of your munitions."
+ },
+ {
+  "id": 8148,
+  "t": "Maelstrom's Wrath",
+  "o": "",
+  "d": "",
+  "p": "Molthor delivers word from King Rastakhan, $n. The royal court is most impressed with your decimation of the Hakkari forces. I am to award you with the final weave in your talisman. Hand it to me.",
+  "c": "Your journey has only just begun, young $c. Perhaps one day you will visit the Maelstrom and glance into the heart of the world.$b$bI wish you power and fortitude!"
+ },
+ {
+  "id": 8149,
+  "t": "Honoring a Hero",
+  "o": "Travel to Uther's Tomb in Western Plaguelands and use Uther's Tribute at his statue, and then return to Wagner Hammerstrike outside Ironforge before the Harvest Festival is over.",
+  "d": "During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Alliance acknowledges many heroes, but none weave a more tragic tale than that of Uther Lightbringer.$B$BHelp us honor Uther by taking this offering to his tomb in the Western Plaguelands.  Place it at his statue, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Uther his tribute.",
+  "p": "Have you made the journey to Uther's Tomb and placed the tribute there?$b$bIt can be a dangerous trip for less experienced adventurers; a safer way of traveling there, relatively speaking, may be to travel north from the river that runs through Hillsbrad into the Plaguelands. It flows from a lake that is adjacent to Sorrow Hill; travel west up through the hills, steering clear of the adjacent tomb... one that is infested with the Scourge.",
+  "c": "He was a hero among heroes, Uther was.  I can't even begin to imagine the anguish of what he felt when Arthas - his greatest student and someone whom Uther loved like his own son - betrayed all of humanity.  Still, he rose to try and stop Arthas, and for that he will be forever remembered as a true paladin.  His fight was to the end, thinking only of those he might save.$B$BThank you, $N.  You've paid tribute to a great hero today, honoring his spirit and the spirit of the Harvest Festival."
+ },
+ {
+  "id": 8150,
+  "t": "Honoring a Hero",
+  "o": "Travel to Grom's Monument in the Demon Fall Canyon of Ashenvale and use Grom's Tribute at the base of the monument.  Return to Javnir Nashak outside Orgrimmar before the Harvest Festival is over.",
+  "d": "During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Horde acknowledges many heroes, but none exemplify strength and sacrifice more than Grom Hellscream.$B$BHelp us honor Grom by taking this offering to his monument in the Demon Fall Canyon of Ashenvale.  Place it at the base, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Grom his tribute.",
+  "p": "Have you made the journey to Grom's Monument and placed his tribute there?$b$bThe site where the monument is still touched by the taint of the Burning Legion. Should you be less experienced in the ways of adventuring, be on your toes when approaching the monument.",
+  "c": "Grom's full name - Grommash - means \"The Giant's Heart\"; it took that and more to stand alone against Mannoroth.  I think the Warchief said it best when the curse of the orcs began and ended with Grom.  Fitting that Grom's sacrifice - and perhaps redemption - would be the wellspring from which the Horde flows today.$B$BThank you, $N.  You've paid tribute to a great hero today, honoring his spirit and the spirit of the Harvest Festival."
+ },
+ {
+  "id": 8151,
+  "t": "The Hunter's Charm",
+  "o": "Speak to Ogtinc in Azshara.",
+  "d": "Ogtinc of Azshara has sent out a call for seasoned hunters such as yourself.  He is a furbolg hunter who has left his tribe to aid the Cenarion Circle.  His teachings are meant to enrich the wisdom of others who share his craft, and guide them toward maintaining a balance.  You would do well to speak with him.$b$bOgtinc resides atop the cliffs of Azshara, northeast from the Ruins of Eldarath.",
+  "p": "",
+  "c": "It is no longer my purpose to hunt, but to teach the $c.  That is what fate has handed to me.$B$BCraft with me a $c's charm -- a collection of trophies from fallen prey that will remind you of your past trials and triumphs.  In the end I will keep the charm, but reward you with something else."
+ },
+ {
+  "id": 8152,
+  "t": "REUSE",
+  "o": "Speak with Ogtinc in Azshara.",
+  "d": "$N,when you feel you are ready,there is a wisened furbolg hunter by the name of Ogtinc who resides in Azshara.  He may be able to enhance your teaching,and provide you with guidance.$b$bOgtinc is atop the cliffs northeast the Ruins of Eldarath in Azshara.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8153,
+  "t": "Courser Antlers",
+  "o": "Bring a pair of Perfect Courser Antlers to Ogtinc in Azshara.  Ogtinc resides atop the cliffs northeast of the Ruins of Eldarath.",
+  "d": "The courser wears the mightiest antlers in the known lands.  Such antlers are used to defend the courser, goring an attacker and often damaging the points.  Perfect, natural antlers are the sign of an animal spirit with supreme confidence.$b$bTo hold such antlers will bestow the same confidence in you.$b$bHunt the mosshoof courser, find the perfect antlers and bring them to me.",
+  "p": "Have you found the antlers?",
+  "c": "You must possess keen sight and great patience to have obtained these. Well done."
+ },
+ {
+  "id": 8154,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "Do you have the resource crate, $N? The League of Arathor can't fight a decent battle without them...",
+  "c": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.$B$BThank you, $N. Indeed, performing successful missions like the one you achieved are how wars are truly won."
+ },
+ {
+  "id": 8155,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "Do you have the resource crate, $N? The League of Arathor can't fight a decent battle without them...",
+  "c": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.$B$BThank you, $N. Indeed, performing successful missions like the one you achieved are how wars are truly won."
+ },
+ {
+  "id": 8156,
+  "t": "Arathi Basin Resources!",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Sergeant Maclear at Refuge Pointe.",
+  "d": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "p": "Do you have the resource crate, $N? The League of Arathor can't fight a decent battle without them...",
+  "c": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.$B$BThank you, $N. Indeed, performing successful missions like the one you achieved are how wars are truly won."
+ },
+ {
+  "id": 8157,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the League of Arathor has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by footman and field marshal alike."
+ },
+ {
+  "id": 8158,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the League of Arathor has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by footman and field marshal alike."
+ },
+ {
+  "id": 8159,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the League of Arathor has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by footman and field marshal alike."
+ },
+ {
+  "id": 8160,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8161,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8162,
+  "t": "Cut Arathor Supply Lines",
+  "o": "Win the battle for Arathi Basin, get an Arathi Resource Crate, and return it to Deathstalker Mortis at Hammerfall.",
+  "d": "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8163,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the Defilers has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by grunt and high warlord alike."
+ },
+ {
+  "id": 8164,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the Defilers has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by grunt and high warlord alike."
+ },
+ {
+  "id": 8165,
+  "t": "More Resource Crates",
+  "o": "",
+  "d": "",
+  "p": "$N, the Defilers has a standing mission for you to reenter Arathi Basin, procure more resource crates and bring them to me.",
+  "c": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.$B$BOnce again, thank you $N. Your contributions to our struggles are noticed by grunt and high warlord alike."
+ },
+ {
+  "id": 8166,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the mine, the lumber mill, the blacksmith and the farm, then return to Field Marshal Oslight in Refuge Pointe.",
+  "d": "$N, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.$B$BAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!$B$BWhen you have done this to all four points, return to me.",
+  "p": "",
+  "c": "I received reports of your exploits in Arathi Basin, $N.  Well done!  With those like you joining the struggles here, I have faith that we will one day retake our homelands."
+ },
+ {
+  "id": 8167,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the mine, the lumber mill, the blacksmith and the farm, then return to Field Marshal Oslight in Refuge Pointe.",
+  "d": "$N, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.$B$BAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!$B$BWhen you have done this to all four points, return to me.",
+  "p": "",
+  "c": "I received reports of your exploits in Arathi Basin, $N.  Well done!  With those like you joining the struggles here, I have faith that we will one day retake our homelands."
+ },
+ {
+  "id": 8168,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the mine, the lumber mill, the blacksmith and the farm, then return to Field Marshal Oslight in Refuge Pointe.",
+  "d": "$N, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.$B$BAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!$B$BWhen you have done this to all four points, return to me.",
+  "p": "",
+  "c": "I received reports of your exploits in Arathi Basin, $N.  Well done!  With those like you joining the struggles here, I have faith that we will one day retake our homelands."
+ },
+ {
+  "id": 8169,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",
+  "d": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!$B$BGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.$B$BGo, $N.  Report back to me when this task is complete.",
+  "p": "",
+  "c": "A Defiler scout came to me with a report of your success, $N.  Well done.$b$bAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured."
+ },
+ {
+  "id": 8170,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",
+  "d": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!$B$BGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.$B$BGo, $N.  Report back to me when this task is complete.",
+  "p": "",
+  "c": "A Defiler scout came to me with a report of your success, $N.  Well done.$b$bAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured."
+ },
+ {
+  "id": 8171,
+  "t": "The Battle for Arathi Basin!",
+  "o": "Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",
+  "d": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!$B$BGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.$B$BGo, $N.  Report back to me when this task is complete.",
+  "p": "",
+  "c": "A Defiler scout came to me with a report of your success, $N.  Well done.$b$bAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured."
+ },
+ {
+  "id": 8181,
+  "t": "Confront Yeh'kinya",
+  "o": "Speak with Yeh'kinya.",
+  "d": "My delvings into the Mosh'aru Tablets bear grim news, $N.  Hakkar's true form, the god himself, can be born again through the very egg into which you captured him.  Yeh'kinya told you it was to contain his evil, but it is to recreate it!  The troll has led you astray!$B$BGo to Yeh'kinya and demand the egg from him.  Pray that it is not too late to stop Hakkar's return!",
+  "p": "",
+  "c": "So, you have been speaking with that old dwarf Ironboot and uncovered the lost Mosh'aru Tablets, have you?  That meddling prospector...$B$BNo matter.  It is too late to save this world.  Hakkar has been reborn, and even now grows in power... deep in the ancient troll kingdom of Zul'Gurub!  He has come!  And he will rule in blood and terror!$B$BThank you, $N.  Your help has sped the return of the Soulflayer!"
+ },
+ {
+  "id": 8182,
+  "t": "The Hand of Rastakhan",
+  "o": "Speak with Molthor in Stranglethorn.",
+  "d": "$N, our worst fears have come.  Legend speaks of the Soulflayer ruling the ancient troll world through evil and terror, and his power was absolute.  If he cannot be stopped now, then his new reign may spread across all of Azeroth!$B$BThere is a contingent of Zandalarian trolls who may help us stem this tide of darkness.  They have camped on Yojamba Isle, off the coast of Stranglethorn, west of the ruins of Zul'Kunda.  Speak with their leader, Molthor, and pray he knows how to defeat Hakkar.",
+  "p": "",
+  "c": "You were sent by the prospector, Ironboot?  His kind are wise, and wiser still to bring you to me, for I and the Zandalarian trolls may know a way to defeat the Soulflayer.$B$BSpeak with the trolls of this isle, heed their words, and prepare yourself, $N, for the task before you is soaked in blood."
+ },
+ {
+  "id": 8183,
+  "t": "The Heart of Hakkar",
+  "o": "Bring the Heart of Hakkar to Molthor on Yojamba Isle.",
+  "d": "The Heart of Hakkar burns from within.  Although the Soulflayer is defeated, the kernel of his power yet remains in this cursed organ.",
+  "p": "$N, the reek of an evil soul surrounds you.  Have you been cursed by the Soulflayer?",
+  "c": "Ah, the Heart of Hakkar.  So the Soulflayer has been slain!  Our world is saved!$B$B$N, your service to us cannot be overstated.  You truly are a hero of this realm!"
+ },
+ {
+  "id": 8184,
+  "t": "Presence of Might",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8185,
+  "t": "Syncretist's Sigil",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8186,
+  "t": "Death's Embrace",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8187,
+  "t": "Falcon's Call",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8188,
+  "t": "Vodouisant's Vigilant Embrace",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8189,
+  "t": "Presence of Sight",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8190,
+  "t": "Hoodoo Hex",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8191,
+  "t": "Prophetic Aura",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well, $c. Show the Hakkari no mercy! "
+ },
+ {
+  "id": 8192,
+  "t": "Animist's Caress",
+  "o": "",
+  "d": "",
+  "p": "Bring me these things and I will create a powerful enchantment for you!",
+  "c": "Use it well $c. Show the Hakkari no mercy!"
+ },
+ {
+  "id": 8193,
+  "t": "Master Angler",
+  "o": "",
+  "d": "",
+  "p": "Today between 2pm and 4pm we have a contest to determine who the greatest angler of them all is! Just be the FIRST PERSON to bring me 40 Tastyfish fished from the Tastyfish schools found along the coast of Stranglethorn before anyone else does and you will be declared the Master Angler!$b$bIf you are not the first person to bring me 40 fish, my apprentice here will still reward you with money for each 5 Tastyfish you bring her.$b$bOh, and don't delay, Tastyfish go bad quickly!",
+  "c": "Hurry up and turn those in if you want to be declared the Master Angler!  I have been standing around here for HOURS with nothing to eat!   Hand those suckers over!"
+ },
+ {
+  "id": 8194,
+  "t": "Apprentice Angler",
+  "o": "",
+  "d": "",
+  "p": "Even though we already have a contest winner, I will still buy your Tastyfish from you at a reasonable price. Whadda ya say!",
+  "c": "This deal works for me if it works for you!"
+ },
+ {
+  "id": 8195,
+  "t": "Zulian, Razzashi, and Hakkari Coins",
+  "o": "",
+  "d": "",
+  "p": "I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.$B$BThere are nine distinct kinds to be found.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",
+  "c": "Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, $N, as well as the thanks of the tribe!"
+ },
+ {
+  "id": 8196,
+  "t": "Essence Mangoes",
+  "o": "",
+  "d": "",
+  "p": "The extremely potent essence mango grows across many of the islands in the South Seas. A single mango will refresh those who eat it,both physically and mentally. If you've never had one,you do yourself a disservice!$B$BWe have enough of a supply here on the isle to offer you a handful in exchange for a Zandalar Honor Token. Speak with Vinchaxa if you need to learn how to get tokens; otherwise, let's get to the business at hand!",
+  "c": "A fair trade, my friend - please enjoy the luscious fruits of the South Seas, with the tribe's blessing."
+ },
+ {
+  "id": 8201,
+  "t": "A Collection of Heads",
+  "o": "String 5 Channeler's Heads, then return the Collection of Troll Heads to Exzhal on Yojamba Isle.",
+  "d": "It is true.  Hakkar now dwells in Zul'Gurub, bathing in the power of our gods.  Enthralled high priests now channel the energies of our most sacred divinities into the Soulflayer, who will soon have a strength beyond any being of Azeroth.  He must be stopped!$B$BTake this sacred cord, and string through it the heads of the high priests responsible for channeling our gods' energy.$B$BWhen you have done this, return to me.",
+  "p": "Do you have the collection of heads, $N?  We must stop Hakkar from gaining more power!",
+  "c": "You gained the heads!  You have halted the plundering of our gods' power, and weakened Hakkar!$B$BYour actions are truly heroic, $N.  May the heads of these troll thralls plead to you for mercy long after their blood chills."
+ },
+ {
+  "id": 8221,
+  "t": "Rare Fish - Keefer's Angelfish",
+  "o": "",
+  "d": "",
+  "p": "*Whir* *Click*$b$bI seek rare fish for Fishmaster Bluegill to catalogue. If you bring me a Keefer's Angelfish, I will provide you with this fine reward.$b$b*Zzzap* *Whir*",
+  "c": "*Whir* $B$B Identification of Keefer's Angelfish complete. $B$B Your Reward is now available. $B$B *click-click* *Bzzzz*"
+ },
+ {
+  "id": 8222,
+  "t": "Glowing Scorpid Blood",
+  "o": "",
+  "d": "",
+  "p": "In all my time working the Faire, I've learned a lot of things about customers. Here's one of those nuggets of wisdom: customers love stuff that glows! It doesn't matter what it is - you could take a broken chair leg and make it glow, and every child will come from miles around to get one!$B$BSo, $N, I need glowing scorpid blood. You can find it from the scorpids of Sillithus, or the Blasted Lands, or the Burning Steppes.",
+  "c": "Great job, $N!  Thanks a lot!  I'm going to make paint from this blood and turn all kinds of cheap junk into glowing treasure!$B$BHere are your tickets, and thanks again!"
+ },
+ {
+  "id": 8223,
+  "t": "More Glowing Scorpid Blood",
+  "o": "",
+  "d": "",
+  "p": "That scorpid blood is working out great, $N! It's amazing how a little sparkle and shine can create a prized bauble out of an otherwise piece of junk. The patrons love the stuff, and love is what it's all about, don't you think...$B$BYou've been a big help to me, $N, and although I don't have a great need for more glowing scorpid blood, if you bring me more then I'll still trade you some tickets.",
+  "c": "Thanks again, $N.  Here are your tickets!"
+ },
+ {
+  "id": 8224,
+  "t": "Rare Fish - Dezian Queenfish",
+  "o": "",
+  "d": "",
+  "p": "*Whir* *Click*$b$bI seek rare fish for Fishmaster Bluegill to catalogue. If you bring me a Dezian Queenfish, I will provide you with this fine reward.$b$b*Zzzap* *Whir*",
+  "c": "*Whir* $B$B Identification of Dezian Queenfish complete. $B$B Your Reward is now available. $B$B *click-click* *Bzzzz*"
+ },
+ {
+  "id": 8225,
+  "t": "Rare Fish - Brownell's Blue Striped Racer",
+  "o": "",
+  "d": "",
+  "p": "*Whir* *Click*$b$bI seek rare fish for Fishmaster Bluegill to catalogue. If you bring me a Brownell's Blue Striped Racer, I will provide you with this fine reward.$b$b*Zzzap* *Whir*",
+  "c": "*Whir* Identification of Brownell's Racer complete. Your Reward is now available. *click* *click* *Bzzzz*"
+ }
+]

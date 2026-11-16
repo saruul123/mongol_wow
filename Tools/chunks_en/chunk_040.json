@@ -1,0 +1,962 @@
+[
+ {
+  "id": 9869,
+  "t": "The Throne of the Elements",
+  "o": "Elementalist Ioki wants you to travel to the Throne of the Elements and speak with Elementalist Sharvak.",
+  "d": "Greetings, $r. I am Ioki, elementalist of the Earthen Ring. I have come to Telaar to inform the Kurenai of the state of the elements.$B$BCould I ask a favor of you? Would you travel to the Throne of the Elements in the northern hills of Nagrand, beyond Skysong Lake, and tell elementalist Sharvak that I have arrived at Telaar safely? She will surely reward you for this small deed.",
+  "p": "",
+  "c": "Ah, thank you for the message. Perhaps you would not mind helping out the Earthen Ring? The elements are in flux. We can use all of the assistance that we can get."
+ },
+ {
+  "id": 9870,
+  "t": "The Throne of the Elements",
+  "o": "Elementalist Yal'hah wants you to travel to the Throne of the Elements and speak with Elementalist Sharvak.",
+  "d": "Greetings, $r. I am Yal'hah, elementalist of the Earthen Ring. I have come to Garadar to inform the Mag'har of the state of the elements.$B$BCould I ask a favor of you? Would you travel to the Throne of the Elements in the northern hills of Nagrand, beyond Skysong Lake, and tell elementalist Sharvak that I have arrived at Garadar safely? She will surely reward you for this small deed.",
+  "p": "",
+  "c": "Ah, thank you for the message. Perhaps you would not mind helping out the Earthen Ring? The elements are in flux. We can use all of the assistance that we can get."
+ },
+ {
+  "id": 9871,
+  "t": "Murkblood Invaders",
+  "o": "Take the Murkblood Invasion Plans to Arechron at Telaar in Nagrand.",
+  "d": "The parchment holds a crudely painted map of Nagrand. There is a big red 'X' where Telaar would be on the map. It would seem that these savages are planning an attack on the city. Take the Murkblood invasion plans to Arechron in Telaar.$B",
+  "p": "What is it?",
+  "c": "<Arechron slams his fist into his hand.>Ortor... Treacherous bastard! "
+ },
+ {
+  "id": 9872,
+  "t": "Murkblood Invaders",
+  "o": "Take the Murkblood Invasion Plans to Garrosh.",
+  "d": "The parchment holds a crudely painted map of Nagrand. There is a big red 'X' where Garadar would be on the map. It would seem that these savages are planning an attack on the city. Take the Murkblood invasion plans to Garrosh in Garadar.",
+  "p": "What is it?",
+  "c": "<Garrosh crumples up the map and throws it into the fire.>$B$BWhat's the use? They've been attacking us for weeks. This is nothing new.$B$BDon't you understand? We're done for... Greatmother Geyah is dying."
+ },
+ {
+  "id": 9873,
+  "t": "Ortor My Old Friend...",
+  "o": "Arechron at Telaar in Nagrand wants you to kill Ortor of Murkblood.",
+  "d": "These invasion plans were written by someone I once knew. Ortor of Murkblood, once a noble Broken, versed in the way of the elements, now a muck addled yes-man of Musel'ek the bog lord.$B$BThe plans state that they have taken over an orc village northwest of here known as Sunspring.$B$BTravel to Sunspring Post and rid the world of Ortor of Murkblood. What you do, you do for the good of us all...",
+  "p": "Remember, $N, Ortor is a shaman of great power.",
+  "c": "A thousand dead orcs you say? What could have triggered such an audacious advance into orc lands? It is good that he is dead but there is more to this than what meets the tentacle."
+ },
+ {
+  "id": 9874,
+  "t": "Stopping the Spread",
+  "o": "Otonbu the Sage at Telaar in Nagrand wants you to use the Torch of Liquid Fire to destroy 10 Sunspring Villager corpses. Return the Torch of Liquid Fire when the task is complete.$B",
+  "d": "I have just gotten word of a catastrophe of epic proportions, $N. The foul Murkblood have sacked the orc village of Sunspring Post, northwest of here, and murdered its residents. To make matters worse, they have begun dumping the bodies into Sunspring Lake. Should those bodies rot, our primary source of water in the region will be compromised.$B$BIt's a gruesome task that I give you next but it must be done. Take this enchanted torch and return to Sunspring. Burn all of the rotting orc corpses...",
+  "p": "The orcs will not understand what we are doing but it must be done. For the good of both orc and Broken. ",
+  "c": "<Otonbu sighs.>$B$BThis will set back any chance of peace with the orcs another 10 years. At least we will be around to see those years as opposed to what could have happened had those corpses been allowed to rot. "
+ },
+ {
+  "id": 9875,
+  "t": "Uncatalogued Species",
+  "o": "Bring the Uncatalogued Species to Lauranna Thar'well at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Lauranna must've missed this particular plant.  You're certain you've discovered a species not yet catalogued by Lauranna's work.  You'd best show it to her to see what she makes of it.",
+  "p": "You have something to show me?",
+  "c": "A new species!  Are you sure?$B$B<Lauranna flips through pages of notes and diagrams.>$B$BNice job, $N.  We'll have to add this one to our list.  How does \"Purple Leafed $Nrium\" sound to you?  It does have a ring to it."
+ },
+ {
+  "id": 9876,
+  "t": "Failed Incursion",
+  "o": "Ysiel Windsinger wants you to look for signs of Cenarion Expedition Druids near the entrance to Coilfang Reservoir in Zangarmarsh.",
+  "d": "I sent a small group of our druids to investigate the drain you discovered inside of Serpent Lake.  They were expected to return shortly after.  Needless to say, they did not.$B$BYou are amongst our most capable allies; I ask you to seek them and find out what became of them.",
+  "p": "",
+  "c": "Thank Cenarius you showed up.  My injuries prevented me from going back to the outside for help."
+ },
+ {
+  "id": 9878,
+  "t": "Solving the Problem",
+  "o": "Poli'lukluk the Wiser at Telaar in Nagrand wants you to kill 10 Murkblood Scavengers and 5 Murkblood Raiders.",
+  "d": "The appearance of the Murkblood in Nagrand has had a profound negative impact on our environment. The elementals are all in flux which has, in turn, greatly disturbed the wildlife. Worse yet, the razing of Sunspring Post has reignited the hatred that the orcs held for our people.$B$BWhile the Kurenai are a different tribe than the Murkblood, all an orc sees is Broken.$B$BWe must make an effort to solve this dilemma. Travel to Sunspring Post, northwest of here, and resolve the Murkblood problem.",
+  "p": "Murkblood are a nefarious tribe of Broken, $N. They may look like Kurenai but they are most assuredly savage, murdering beasts.",
+  "c": "It is doubtful that the orcs will understand or appreciate what you just did but Nagrand is better off for the deed. Thank you, problem solver..."
+ },
+ {
+  "id": 9879,
+  "t": "The Totem of Kar'dash",
+  "o": "Escort the Kurenai Captive out of Sunspring Post. Speak to Arechron at Telaar if you succeed.",
+  "d": "I would have been killed had you not come along, stranger. They have already murdered so many Kurenai in their search for a lost relic.$B$BWhat they seek is the totem of Kar'dash. Why they think that we would know anything about this totem, I cannot understand. Is a totem not an orcish implement by nature?$B$BThis information must be taken back to Arechron. Perhaps he knows why Murkblood are kidnapping Kurenai and torturing them for information regarding an orcish device.$B$BLet's go before more come.",
+  "p": "",
+  "c": "Yes, I know of the totem... but there is much more to this story. Alas, I lack the authority to reveal this information to you. Only the chosen may be privy to such knowledge. "
+ },
+ {
+  "id": 9882,
+  "t": "Stealing from Thieves",
+  "o": "Obtain 10 Oshu'gun Crystal Fragments and bring them to Gezhe at Aeris Landing in Nagrand.",
+  "d": "Nexus Prince Haramad has ordered us to not begin work inside of Oshu'gun as it might anger a certain powerful naaru.  Sort of puts a damper on our operation.$B$BI think I might've found a loophole, however.$B$BYou see, we're not the only ethereals drawn to this colossal diamond.  A thief called Gava'xi has led a band of rogue ethereals into Oshu'gun and they've begun to dislodge large fragments from it.$B$BYour job, $r, is to go there and retrieve what is rightfully ours.",
+  "p": "Have you retrieved the crystal fragments I asked of you, $N?",
+  "c": "Color me impressed.  These are in excellent condition, for the most part.$B$BI will make sure to put in a good word for you with our people."
+ },
+ {
+  "id": 9883,
+  "t": "More Crystal Fragments",
+  "o": "",
+  "d": "",
+  "p": "You've got more crystal fragments?  Make sure you're not taking any that are still attached to the mountain; we wouldn't want to stir up trouble with the naaru.",
+  "c": "Keep the crystal fragments coming, $N. We cannot let these thieves take our property.$B$BEven if it's not ours just quite yet. A technicality, of course."
+ },
+ {
+  "id": 9884,
+  "t": "Membership Benefits",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The Consortium is well known for taking good care of its friends. At the beginning of each month I'll have some gems ready for you as payment for your services.$B$BThe quality of the gems you get will depend on how loyal you've been to us. Here's to hoping you do the smart thing and stay with us."
+ },
+ {
+  "id": 9885,
+  "t": "Membership Benefits",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The Consortium is well known for taking good care of its friends. At the beginning of each month I'll have some gems ready for you as payment for your services.$B$BThe quality of the gems you get will depend on how loyal you've been to us. Here's to hoping you do the smart thing and stay with us."
+ },
+ {
+  "id": 9886,
+  "t": "Membership Benefits",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The Consortium is well known for taking good care of its friends. At the beginning of each month I'll have some gems ready for you as payment for your services.$B$BThe quality of the gems you get will depend on how loyal you've been to us. Here's to hoping you do the smart thing and stay with us."
+ },
+ {
+  "id": 9887,
+  "t": "Membership Benefits",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The Consortium is well known for taking good care of its friends. At the beginning of each month I'll have some gems ready for you as payment for your services.$B$BThe quality of the gems you get will depend on how loyal you've been to us. Here's to hoping you do the smart thing and stay with us."
+ },
+ {
+  "id": 9888,
+  "t": "The Impotent Leader",
+  "o": "Jorin Deadeye has asked that you find and speak with Kilrath.",
+  "d": "I have escaped certain death, surviving a cowardly nighttime attack by Boulderfist ogres upon my village.$B$BBut I ask you, stranger: For what?$B$B<Jorin points to Garrosh.>$B$BHe has refused to give us assistance. Ogres are rampaging through my town and he sits here, weeping into a fire. What has become of us? What will become of us?$B$BI've sent a scout, Kilrath, to the village, now the Bleeding Hollow Ruins. Will you find him and give him your assistance? He hides on the border of Nagrand and Terokkar.",
+  "p": "",
+  "c": "<Kilrath speaks in a hushed tone.>$B$BThese ogres are extremely peculiar. They are also extremely stupid. Look how the fat one makes the, um, lesser fat ones dance. It's mesmerizing."
+ },
+ {
+  "id": 9889,
+  "t": "Don't Kill the Fat One",
+  "o": "Kilrath in Terokkar Forest has asked that you kill 10 Boulderfist Invaders and beat Unkor the Ruthless until he talks.",
+  "d": "I have been watching these beasts for days. The fat one says that he is waiting for something. What he is waiting for, however, is a mystery.$B$BI have a plan but it is going to involve some violence on your part. You will need to kill several of his subordinates and then beat him within an inch of his life. Do this and I am certain he will tell us everything that we need to know.",
+  "p": "I submit! I submit!",
+  "c": "Let me live and I'll tell you whatever you want to know!"
+ },
+ {
+  "id": 9890,
+  "t": "Success!",
+  "o": "Take the information that you beat out of Unkor back to Kilrath in Terokkar Forest.",
+  "d": "For many years, Boulderfist ruled all ogres in the Outland. The ogres were united under Krol and content with the lands that they were given. In the past few months, we have lost many ogres to a new clan known as Warmaul. Warmaul has taken most of our land in Nagrand and killed many of our people.$B$BWe had no choice but to take this town. We are being exterminated...$B$BKrol has gone missing and Boulderfist is in turmoil. Lantresor of the Blade rules in his absence.$B",
+  "p": "",
+  "c": "Slow down, $N. I am but a lowly rogue. I have no idea what to do with such information."
+ },
+ {
+  "id": 9891,
+  "t": "Because Kilrath is a Coward",
+  "o": "Take the information that you beat out of Unkor to Jorin Deadeye at Garadar in Nagrand.",
+  "d": "Take what you have learned and tell Jorin at Garadar. I can assure you that he won't be happy to know that our village was destroyed and many of our people killed because the ogres needed more space.$B$BMay the ancestors watch over you... I will be hiding in the bushes if you need me for anything else.",
+  "p": "",
+  "c": "So they think that they are within their rights to displace and slaughter orcs on a whim, eh? I'm sure that this had nothing to do with our leader being an impotent whelp... If only he'd gotten a fraction of the passion that his father had..."
+ },
+ {
+  "id": 9892,
+  "t": "More Obsidian Warbeads",
+  "o": "",
+  "d": "",
+  "p": "Have you obtained any more warbeads? You'll find plenty of ogres to the far north, near the border with Zangarmarsh.",
+  "c": "We'll make a good profit on these, $N. I'll make sure Khoraazi hears about your work here."
+ },
+ {
+  "id": 9893,
+  "t": "Obsidian Warbeads",
+  "o": "Bring 10 Obsidian Warbeads to Gezhe at Aeris Landing in Nagrand.",
+  "d": "All this waiting around for Oshu'gun to be ready for digging is eating into our profits, $N.$B$BFortunately, I've devised an alternate source of income.  The ogres of Nagrand wear warbeads made of obsidian, a mineral that commands a hefty price in many other worlds.$B$BZerid already has had to take care a few of the brutes as a matter of security.  Think of the warbeads as an added bonus.  Or better yet, don't think about it too much and just bring them to me.",
+  "p": "How are those ogres treating you, $N? Tough bunch, aren't they?",
+  "c": "Excellent. This will keep us in business while we wait for the Sha'tar to finish whatever housekeeping it is they need to do inside Oshu'gun. "
+ },
+ {
+  "id": 9894,
+  "t": "Safeguarding the Watchers",
+  "o": "Kill Lord Klaq and return to Windcaller Blackhoof at the Cenarion Refuge.",
+  "d": "In your travels, you might have encountered some of the expedition's watchers. They do the majority of the field work: documenting the unique inhabitants of the marsh, collecting samples, and making contact with sentient species.$B$BThe safety of the watchers is paramount, $c. We've had to recall the watchers we sent to explore Funggor Cavern to the south, because of marshbeast attacks. Warden Hamoot believes that killing their leader, Lord Klaq, will bring a swift end to the attacks. ",
+  "p": "Have you located and dealt with Lord Klaq?",
+  "c": "You have my gratitude, $N, and that of the watchers. They will be heartened to hear that they can continue their work to the south without fear of attack."
+ },
+ {
+  "id": 9895,
+  "t": "The Dying Balance",
+  "o": "Locate and deal with Boglash, then return to Lethyn Moonfire at Cenarion Refuge.",
+  "d": "Have you observed your surroundings closely, $N? This is an ailing landscape, struggling to keep itself in balance and losing the fight.$B$BIf you know where to look, you can see the symptoms. Members of some species rapidly outgrow their peers and become more aggressive.$B$BA good example of this uncontrolled growth is the marshtrekker Boglash. If you wish to see it for yourself, look no further than the waterways south of the refuge.$B$BBe prepared to defend yourself. The creature knows no mercy.",
+  "p": "Have you encountered Boglash?",
+  "c": "Now that you've seen the symptoms of imbalance with your own eyes, be mindful of them in your travels. "
+ },
+ {
+  "id": 9896,
+  "t": "Blacksting's Bane",
+  "o": "Bring Blacksting's Stinger to Prospector Conall at Telredor.",
+  "d": "By Khaz'goroth's flaming navel, it's hot here! I can't blame the first party for leaving, but everyone knows 'twasn't the heat that drove them away. No, it was Blacksting, although they won't admit it.$B$BThey were camped just to the south of the glowing draenei towers to the west, just north of the Feralfen Village, when the giant wasp appears out of nowhere and attacks! I can't wait to see the looks on their faces when I bring the creature's stinger back to Ironforge and show it to them!",
+  "p": "Did you manage to get the stinger? Remember, it's useless to me if it's damaged.",
+  "c": "I can't thank you enough, $g lad:lass;. I'm going to enjoy this..."
+ },
+ {
+  "id": 9897,
+  "t": "I'm Saved!",
+  "o": "Give the Bundle of Skins to Harold Lane at the Nesingwary Safari in Nagrand.",
+  "d": "I don't mind sharing.  I'm just glad to be saved from that creep, Gankly!  And I collected tons of skins from Zangarmarsh, so it's no problem at all!",
+  "p": "Kristen is a very nice...<cough>... person to share her skins, wouldn't you agree?",
+  "c": "Well, I couldn't see if you helped out with saving Kristen, or not. But if she handed you one of her bundles of skins then you're alright in my book.Here's your reward."
+ },
+ {
+  "id": 9898,
+  "t": "Nothin' Says Lovin' Like a Big Stinger",
+  "o": "Bring Blacksting's Stinger to Reavij at Swamprat Post.",
+  "d": "She will be mine. Oh yes - she will be mine.$B$BIsn't Magasha the most beautiful troll you've ever seen? I have to find a way to win her heart. Sure, she has her eye on Zurai, but that is about to change. My foolproof plan will see to that.$B$BAll I need is a way to demonstrate my superior hunting skills, and that's where you come in my friend. There's a gigantic bog wasp known as Blacksting that roams the area south of the glowing draenei towers to the west. Bring me its stinger and I'll work my magic.",
+  "p": "My luck is about to change - I can feel it.",
+  "c": "Fantastic! I'll never forget how you helped me to win her heart. In fact, you can be a guest of honor at our wedding."
+ },
+ {
+  "id": 9899,
+  "t": "A Job Undone",
+  "o": "Magasha at Swamprat Post wants you to kill Sporewing.",
+  "d": "Someone needs to find a way to make Reavij come to his senses! He's ignoring his duty and instead, he's devoting all his energy to getting my attention. I've tried ignoring him and telling him to stop. Nothing seems to work.$B$BUntil he gets over this, I'm left cleaning up after him. He was supposed to have dealt with Sporewing, but I'll bet the monster is alive and well. If you have time, would you mind going to the western part of the Dead Mire and killing the bat? I'll deal with Reavij in the meantime.",
+  "p": "There's no changing his mind, I swear. I think I'm going to have to ask Shadow Hunter Denjai for a transfer back to Zabra'jin.",
+  "c": "At least someone is pulling $g his:her; weight around here. Thank you for taking care of that matter, $N. I need to have a word with Zurai about Reavij. His scheming and daydreaming have gone on long enough."
+ },
+ {
+  "id": 9900,
+  "t": "Gava'xi",
+  "o": "Slay Gava'xi near Oshu'gun and return to Zerid at Aeris Landing in Nagrand.",
+  "d": "The presence of rogue ethereals in this area might amuse Gezhe, who sees nothing but opportunity wherever we go, but it's a true threat to the security of our operations.$B$BTheir leader, Gava'xi, is a dangerous criminal and I've made it my top priority to see to it that he is neutralized.$B$BIf you're looking to make yourself useful, go and take care of Gava'xi.  I will see to it that you're rewarded properly.",
+  "p": "You've returned, $r.  Is Gava'xi dead?",
+  "c": "We won't have to worry about Gava'xi anymore, thanks to you.  Let us arrange for your reward now."
+ },
+ {
+  "id": 9901,
+  "t": "Unfinished Business",
+  "o": "Prospector Conall at Telredor wants you to kill Sporewing.",
+  "d": "The first expedition the league sent reported encountering a gigantic spore bat they'd taken to calling Sporewing. They had to leave in a hurry, so they didn't have the chance to kill him while they were here, so I figured I'd finish the job for them.$B$BWhat's left of their report suggests that the creature can be found in the southwestern parts of the Dead Mire. I think Vindicator Idaar mentioned that it's to the northeast of Telredor.",
+  "p": "Did you manage to track down Sporewing?",
+  "c": "Well done, $N. I think you and I have managed to outshine a whole team of prospectors. When I get back to Ironforge, I'm sure I'll get my choice of assignments."
+ },
+ {
+  "id": 9902,
+  "t": "The Terror of Marshlight Lake",
+  "o": "Slay Terrorclaw and return to Puluu at the Orebor Harborage.",
+  "d": "Traveling through naga-infested lands has shown me the cruel truth about how my less fortunate brethren are treated. At Marshlight Lake, to the southwest, I observed a particularly malicious taskmaster playing a deadly game. He orders his slaves out to the islands in Marshlight Lake when he knows that Terrorclaw, a giant bogstrok, is ready to feed.$B$BI needn't describe what results. We are too few to take on the naga directly, but we can deprive them of their amusement by killing their pet.",
+  "p": "I am ashamed that I cannot do more to help my enslaved brethren. but at least we have prevented more needless deaths.",
+  "c": "Thank you, $N. Perhaps with the help of the draenei, this marsh will one day be free of naga. I can't imagine what it must be like to be forced to serve them.$B$BHe doesn't talk about it often, but Maktu was once a slave."
+ },
+ {
+  "id": 9903,
+  "t": "The Biggest of Them All",
+  "o": "Slay Mragesh and return to Zurjaya in Zabra'jin.",
+  "d": "You've dealt with most of the little hydra, but I doubt Mragesh was impressed by your display. He's a cunning, ferocious beast and he's dogged many an angler in his time.$B$BI intend to be the last one he'll ever bother. He's bound to be hiding deep in the waters of Serpent Lake, to the northeast. He's a has-been; he just doesn't know it yet.",
+  "p": "Have you \"retired\" old Mragesh?",
+  "c": "I'm sure the old boy must've seen his days coming to an end. With all these new arrivals, the old order couldn't stand. It's just as well his spirit is at rest now."
+ },
+ {
+  "id": 9904,
+  "t": "Pursuing Terrorclaw",
+  "o": "Kill Terrorclaw and return to Zurjaya at Zabra'jin.",
+  "d": "I've caught every kind of fish that lives in the marsh, but there's one that eludes me. Sure, I've caught eels and mudfin frenzies. But the last time I was out on one of the islands in Marshlight Lake, I hooked a gigantic bogstrok that snapped my line and got away.$B$BTerrorclaw, he's called, and I won't rest until he's dead. He's too big for any fisherman to catch, so I suppose we'll just have to kill him the old-fashioned way.",
+  "p": "I take it Terrorclaw lives no more?",
+  "c": "At last! They say every great fisherman has a story of \"the one that got away,\" but I haven't yet met a creature I couldn't beat one way or another."
+ },
+ {
+  "id": 9905,
+  "t": "Maktu's Revenge",
+  "o": "Locate and kill Mragesh, then return to Maktu at the Orebor Harborage.",
+  "d": "Last time Maktu was out hunting hydras for hides at Serpent Lake, he was attacked by the biggest hydra he's ever seen. Maktu reached for his spear, but it was too late. He had just enough time to escape becoming hydra food.$B$BWho knows? Maybe next time, Maktu not be so lucky. Maktu wants to be there so there won't be a next time. Will you help Maktu get his revenge on Mragesh?",
+  "p": "Long time ago, Maktu might have used Mragesh's hide to make strong armor. Mragesh far too old for that now. Hide too soft for good armor.",
+  "c": "<Maktu nods approvingly.>$B$BMaktu is thankful for your help. Maktu's pride is satisfied. He will not be caught off guard again."
+ },
+ {
+  "id": 9906,
+  "t": "Message in a Battle",
+  "o": "Jorin Deadeye at Garadar in Nagrand has asked that you slay 8 Boulderfist Crushers and 8 Boulderfist Mystics.",
+  "d": "Ogres are moved by one thing: Might. If we expose ourselves to them as being weak, they will take advantage of that weakness and wipe us out.$B$BGarrosh might be ready to lie down and let the ogre dogs take our lands but I am not! I need you to deliver a message to the Boulderfist, $N. The only type of message that they are capable of understanding: Brutality.$B$BTravel to the Burning Blade Ruins, southeast of here and show them the might of the Mag'har.$B$BAnd $N, check in with the others before leaving.",
+  "p": "I'm sending out a small organized search party for the rest of the villagers.",
+  "c": "Our task is not yet finished. There are more that must be taught a lesson!"
+ },
+ {
+  "id": 9907,
+  "t": "An Audacious Advance",
+  "o": "Jorin Deadeye at Garadar in Nagrand has asked that you slay 10 Boulderfist Warriors and 10 Boulderfist Mages.",
+  "d": "Directly west of here you will find the Halaani Basin. Within the basin are the twin clefts of Nagrand: Northwind and Southwind. Boulderfist shock troops use the clefts to hide their ogre mounds.$B$BI need you to track down those troops and kill all that you encounter in the name of Mag'har.",
+  "p": "They must be reminded that we are a force to be reckoned with in this region.",
+  "c": "If this does not freeze the blood in their veins, nothing will. You have done the Mag'har justice, $N. And for justice, Mag'har rewards greatly."
+ },
+ {
+  "id": 9910,
+  "t": "Standards and Practices",
+  "o": "Elkay'gan the Mystic at Garadar in Nagrand wants you to use the Mag'har Battle Standard at the First Burning Blade Pyre, Second Burning Blade Pyre, and Third Burning Blade Pyre. Return the left-over Mag'har Battle Standards to him when you are finished.",
+  "d": "If you're venturing into the Burning Blade Ruins, I have a task for you. Take these Mag'har battle standards and place them at three distinct locations in the ogre compound. An area of high visibility is recommended. Look for the gigantic flaming pyres on the upper levels. Place a standard near the first, second, and third Burning Blade pyres.$B$BThe standard will leave a lasting impression upon any ogres who may have missed the battle.",
+  "p": "Respect from fear! It is as good as any other kind. ",
+  "c": "Perhaps you would like another task? A more delicate matter, eh? "
+ },
+ {
+  "id": 9911,
+  "t": "The Count of the Marshes",
+  "o": "Bring \"Count\" Ungula's Mandible to Watcher Leesa'oh at the Cenarion Outpost in Zangarmarsh.",
+  "d": "This bloody mandible comes from an unbelievably large creature. The nether ray that it belonged to has to be the largest ever seen in Zangarmarsh. Judging from the condition of the mandible, the count must've abandoned a diet of carrion in favor of living flesh.$B$BSurely the Cenarion Expedition would be interested in such a specimen. Watcher Leesa'oh has a small camp to the west of Quagg Ridge.",
+  "p": "<The watcher blinks several times in surprise.>$B$BWhere did you get that... thing?",
+  "c": "Are you sure that's real? I mean, I knew there was large wildlife in the marsh, but there are giant creatures and then there are GIANT bugs.$B$BCome to think of it, the sporelings did mention a story about a fearsome nether ray that used to terrorize them before the boglord incursion.$B$BWhat if the stories are true? Oh, dear. I'd better take that for safekeeping. The expedition will want to know about this."
+ },
+ {
+  "id": 9912,
+  "t": "The Cenarion Expedition",
+  "o": "Speak to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "The Cenarion Circle's main expeditionary force in Outland is known as the Cenarion Expedition.  Though it began as a small venture controlled directly by the Cenarion Circle, it's become a large and fairly autonomous body.$B$BThe expedition's leader, Ysiel Windsinger, has asked us to direct volunteers to her outpost.  Report to her at the Cenarion Refuge in eastern Zangarmarsh.  Take the main path to the west and it will lead you directly there.",
+  "p": "",
+  "c": "Welcome to Cenarion Refuge, $N.  I hope you've come to aid us in our mission.  We've much work ahead of us."
+ },
+ {
+  "id": 9913,
+  "t": "The Consortium Needs You!",
+  "o": "Report to Gezhe at Aeris Landing in Nagrand.",
+  "d": "My organization, the Consortium, is looking for a few resourceful individuals just like yourself.  You'll be hard pressed to find ethereals more honest, hard-working or pleasant to be around than us.$B$BAll we require is loyalty, dedication and a reasonable amount of moral flexibility.  If you're interested, speak to Gezhe, our ground operations leader.  You will find him at Aeris Landing, north of Oshu'gun.",
+  "p": "",
+  "c": "Are you ready to get to work, $R? I think I've got the perfect task for you."
+ },
+ {
+  "id": 9914,
+  "t": "A Head Full of Ivory",
+  "o": "Collect 3 Pair of Ivory Tusks and return them to Shadrek at Aeris Landing in Nagrand.",
+  "d": "Ivory is a much sought after prize.  I have many customers lined up in far off places to purchase it.$B$BI could be convinced to let you in on a cut of the profits.$B$BThe wild elekk roaming Nagrand have the high quality of tusks that I'm after.  Steer clear of the bull elekk; their ivory isn't in the condition that I desire.$B$BOh and don't worry, it's not poaching; I have an understanding with both the orcs and the draenei.$B$BDo you and I have an understanding?",
+  "p": "It's ivory that I'm after, not excuses.  Of course, if you'd rather, we can renegotiate your percentage of the profits.  I doubt that you'd be pleased with the result.",
+  "c": "Never doubted you for a second, friend.  Most of those look like fine specimens, if a bit dirty and scratched up.  Still, I think they're worth the value we agreed upon previously.$B$BI hope that we can continue to do business in the future."
+ },
+ {
+  "id": 9915,
+  "t": "More Heads Full of Ivory",
+  "o": "",
+  "d": "",
+  "p": "I still have a need for more pairs of ivory tusks from the wild elekk that roam this land.  Unfortunately, my budget will no longer handle your cut of the profits.  If you continue to provide me what I need, however, you will be ingratiating yourself with the Consortium.",
+  "c": "Excellent, more fine tusk specimens, though some look a bit dingy.You have the far-reaching gratitude of the Consortium, $N. "
+ },
+ {
+  "id": 9916,
+  "t": "Bleeding Hollow Supply Crates",
+  "o": "Elkay'gan the Mystic at Garadar in Nagrand wants you to recover 10 Bleeding Hollow Supply Crates.",
+  "d": "The Boulderfist have moved the supplies they stole from our village to the twin clefts of Nagrand, found west of here in the Halaani Basin.$B$BWhile you are in the area, keep your eye out for the supply crates. If we can get those back, it would ease much of the burden that has fallen upon the matrons of Garadar.",
+  "p": "The children might be able to go a day without feeling hunger pangs.",
+  "c": "Most of our possessions were destroyed or stolen in the attacks. I cannot offer you much, but there are some items that you may find useful..."
+ },
+ {
+  "id": 9917,
+  "t": "Do My Eyes Deceive Me",
+  "o": "Huntress Bintook at Telaar in Nagrand wants you to recover Boulderfist Plans.",
+  "d": "Do my eyes deceive me or is there an ogre hunting party over yonder? What could ogres be doing this far from their mound? I don't like this one bit, stranger. First Murkbloods and now ogres. We just don't have the manpower to handle all of these threats to our land.$B$BCould you investigate the ogre presence to the east for us? Their forward camp is about 200 paces east of here. You'll know you're at the right place if you see the Boulderfist hunters. Kill them to find the plans!",
+  "p": "Have you found any new information?",
+  "c": "<Bintook reads the plans.>BY THE LIGHT! Their penmanship is atrocious. From what I can gather, they're either planning to \"eat the blue skins and take their village\" or bake a blueberry pie. It really could go either way. We must get to the bottom of this! "
+ },
+ {
+  "id": 9918,
+  "t": "Not On My Watch!",
+  "o": "Huntress Bintook at Telaar in Nagrand wants you to speak to Lump. Return to Huntress Bintook when you have gathered the information that she requested.",
+  "d": "The battle plans were written up by an ogre lieutenant. His name is either Dump or Lump.$B$B<Bintook turns the parchment sideways and cocks her head.>$B$BIt could also be Billy.$B$BAnyhow, I think you should go back out there and have a word with Billy or Lump or Dumpy or whatever! Try to approach him diplomatically. If that doesn't work, try using some muscle.",
+  "p": "He'll probably be asleep on a ridge.",
+  "c": "Oh my! This is a small scouting and hunting party? You must tell Mo'mor what you have discovered."
+ },
+ {
+  "id": 9919,
+  "t": "Sporeggar",
+  "o": "Go to Sporeggar in Zangarmarsh, north of the Spawning Glen, and deliver the Salvaged Spore Sacs to Msshi'fn.",
+  "d": "You're a kind $r, $N.  Not like some of the others I've met.$B$BYou should meet the rest of my people; they'll be very grateful for your help.  Take these spore sacs to my leader, Msshi'fn.  You will find him in Sporeggar, north of here.",
+  "p": "You've something to show me, $N?",
+  "c": "You've helped protect the next generation of sporelings, $r.  We can only repay you by welcoming you into our homes.  Stay for a bit and meet the other sporelings.  They will have many questions, I hope you don't mind."
+ },
+ {
+  "id": 9920,
+  "t": "Mo'mor the Breaker",
+  "o": "Huntress Bintook at Telaar in Nagrand wants you to speak to Mo'mor the Breaker.",
+  "d": "You must seek out Mo'mor immediately! You will find him in the center of Telaar, by the fountain. Tell him exactly what the ogre told you.",
+  "p": "",
+  "c": "So, a new tribe of ogres is forcing the Boulderfist further and further south. This is quite troubling. We must first deal with the situation closest to home..."
+ },
+ {
+  "id": 9921,
+  "t": "The Ruins of Burning Blade",
+  "o": "Mo'mor the Breaker at Telaar in Nagrand wants you to kill 8 Boulderfist Crushers and 8 Boulderfist Mystics.",
+  "d": "These ogre hunting parties are a precursor to invasion. We must strike at them before they have a chance to amass an army big enough to take over our town.$B$BYou're going to need to get your hands dirty, $r.$B$BThe largest collection of Boulderfist in this region can be found at the Burning Blade Ruins, almost directly east of Telaar, near the border of Terokkar. Go there and show the Boulderfist that Telaar will not bend to their will!",
+  "p": "We have only recently taken back Telaar. We will not lose it again!",
+  "c": "Excellent. Did you happen to locate this Lantresor creature that the stupid one's letter mentioned?$B$BRegardless, we must press on. I have gotten reports of more ogre activity that must be dealt with at once!"
+ },
+ {
+  "id": 9922,
+  "t": "The Twin Clefts of Nagrand",
+  "o": "Mo'mor the Breaker at Telaar in Nagrand has asked that you slay 10 Boulderfist Warriors and 10 Boulderfist Mages.",
+  "d": "You made a strong showing, $N. Are you ready for more?$B$BI have received reports of a large contingent of Boulderfist ogres hidden in the twin clefts of Nagrand, northwest of here in the Halaani Basin.$B$BVenture forth to the clefts and deal with the remaining Boulderfist ogres.",
+  "p": "Beware the elementals in the basin, $N.",
+  "c": "Excellent work! I am currently researching the Warmaul tribe that the Boulderfist lieutenant mentioned. Now the tasks you have performed must be tested."
+ },
+ {
+  "id": 9923,
+  "t": "HELP!",
+  "o": "Find the Boulderfist Key and Free Corki. Speak with Arechron in Telaar should you succeed.$B",
+  "d": "HELP! They're gonna eat me! I just know it!$B$BFind the key, I know it has to be on one of these ogres.$B$BIf you get me out of here, my father will reward you handsomely! He's the leader of Telaar, Arechron.$B",
+  "p": "That boy...$B$B<Arechron shakes his head in disapproval.>$B$BHe'll be the death of me.",
+  "c": "I'm really sorry about this, $R. He's always getting himself into trouble. I just wish I could put a leash on him..."
+ },
+ {
+  "id": 9924,
+  "t": "Corki's Gone Missing Again!",
+  "o": "Arechron at Telaar has asked that you find and free Corki.",
+  "d": "<Arechron sighs.>$B$BThis is so embarrassing. Do you remember my boy, Corki? You rescued him from the Burning Blade Ruins recently. Well, his curiosity has gotten the best of him once more. He told me that he was going to investigate the Boulderfist menace for 'uncle' Mo'mor and ran off to the ogre mounds in the Halaani Basin, north of here.$B$BDo you think you could track him down? I would be eternally grateful.$B",
+  "p": "Did you find him?",
+  "c": "Thank you so much, $N. His mother will deal with him from now on."
+ },
+ {
+  "id": 9925,
+  "t": "Matters of Security",
+  "o": "Zerid at Aeris Landing in Nagrand wants you to kill 8 Voidspawn near Oshu'gun.",
+  "d": "Gezhe chose to base our operations as close to Oshu'gun as possible, without any regard for the safety of our crew.  Why?  Because he projected a ten percent increase in productivity by setting up shop here instead of in the mountains to the south.$B$BNever mind the crazed voidspawn wandering all of ten feet away from us.  That would be the security officer's problem, not Gezhe's.$B$BKill some voidspawn for me and I'll pay you a tenth of our security budget.  Don't get excited, it's not much of a budget.",
+  "p": "Did you take care of the voidspawn, $N?",
+  "c": "You bring a smile to my face, $N.  Or you would, rather, if I had a face.$B$BKeep it up and you and I are going to be the best of friends."
+ },
+ {
+  "id": 9927,
+  "t": "Ruthless Cunning",
+  "o": "Lantresor of the Blade at the Burning Blade Ruins in Nagrand wants you to drive 10 Warmaul Ogre Banners through the bodies of Kil'sorrow members at Kil'sorrow Fortress.$B$BReturn any unused Warmaul Ogre Banners.",
+  "d": "<Lantresor hands you a pack full of banners.>$B$BThese are Warmaul ogre banners that I recently acquired.$B$BI want you to travel to Kil'sorrow Fortress, directly south of here, and kill as many of the Kil'sorrow filth as you can find. Drive a Warmaul ogre banner through the heart of each fallen Kil'sorrow soldier. Return to me when you have completed this task and the other that this plan requires.",
+  "p": "<Lantresor's eyes open in bewilderment.>Is it done? ",
+  "c": "Can you imagine their puzzlement over what is happening, $R? This will be glorious. "
+ },
+ {
+  "id": 9928,
+  "t": "Armaments for Deception",
+  "o": "Lantresor of the Blade at the Burning Blade Ruins in Nagrand wants you to collect 10 Kil'sorrow Armaments.",
+  "d": "You will need to steal Kil'sorrow armaments from Kil'sorrow Fortress if my plan is to work.$B$BSearch the fortress for crates of Kil'sorrow armaments. Bring whatever you can find to me.$B$BKil'sorrow Fortress is located directly south and a little to the west of the Burning Blade Ruins.",
+  "p": "We will ignite a hatred heretofore unseen between the two clans! ",
+  "c": "Excellent! Our next target will be the Laughing Skull Ruins. "
+ },
+ {
+  "id": 9929,
+  "t": "The Missing Merchant",
+  "o": "Travel northwest along the road toward Shattrath and search for evidence of what happened to Dugar.",
+  "d": "I don't suppose you've been here long enough to know Dugar, have you? He's a merchant with contacts among the various factions in Shattrath.$B$BDon't ask me how he does it, but he manages to trade with them for some of the goods our quartermasters can't provide.$B$BHe set out for Shattrath three days ago and hasn't returned. He's normally able to make the entire trip in less than that. If you're going to be traveling in the forest, would you keep an eye out for him?",
+  "p": "",
+  "c": "Amid the wreckage of the merchant's cart and goods, sets of strange footprints are visible. The footprints appear to have come from an overgrown bird.$BRecalling what you know about the arakkoa, you conclude the print is large enough to belong to one of the sentient bird-people who make their homes in the forest. Why would they have taken to attacking Horde merchants?"
+ },
+ {
+  "id": 9930,
+  "t": "The Missing Merchant",
+  "o": "Travel northwest along the road toward Shattrath and search for evidence of what happened to Deirom.",
+  "d": "I don't suppose you've been here long enough to know Deirom, have you? He's a merchant with contacts among the various factions in Shattrath.$B$BDon't ask me how he does it, but he manages to trade with them for some of the goods our quartermasters can't provide.$B$BHe set out for Shattrath three days ago and hasn't returned. He's normally able to make the entire trip in less than that. Keep an eye out for him and report anything you find to the mercenary captain, Thander.",
+  "p": "",
+  "c": "Amid the wreckage of the merchant's cart and goods, sets of strange footprints are visible. The footprints appear to have come from an overgrown bird.$BRecalling what you know about the arakkoa, you conclude the print is large enough to belong to one of the sentient bird-people who make their homes in the forest. Why would they have taken to attacking Alliance merchants?"
+ },
+ {
+  "id": 9931,
+  "t": "Returning the Favor",
+  "o": "Lantresor of the Blade at the Burning Blade Ruins in Nagrand wants you to drive 10 Kil'sorrow Banners through the bodies of Warmaul ogres at the Laughing Skull Ruins.$B$BReturn any unused Kil'sorrow Banners.",
+  "d": "Now you must plant the seed of war in the fat, useless heads of the Warmaul. To the northwest, near the mountains, you will find the Laughing Skull Ruins.$B$B<Lantresor points into the crate of armaments you brought him.>$B$BDo you recognize those banners? They are Kil'sorrow banners. I want you to take a stack of Kil'sorrow banners and plant them on the corpses of Warmaul ogres. Remember, northwest is where you will find the ogres.",
+  "p": "Can you predict what will happen next? ",
+  "c": "The plan is perfect, $N. I am already seeing the fruits of your labor. "
+ },
+ {
+  "id": 9932,
+  "t": "Body of Evidence",
+  "o": "Lantresor of the Blade at the Burning Blade Ruins in Nagrand wants you to use the Damp Woolen Blanket at the Blazing Warmaul Pyre in the Laughing Skull Courtyard to signal his ogres.",
+  "d": "Your rampage through Kil'sorrow Fortress has provided us with a special opportunity. We have enough bodies to make it appear as if a great battle has taken place.$B$BTravel to the Laughing Skull Ruins and find the Laughing Skull Courtyard. There should be a blazing pyre in the courtyard. Make sure the area is secure and then use this blanket to send up smoke signals. When my ogres see the smoke, they will sneak in and plant the bodies of slain Kil'sorrow soldiers.$B$BThat should be the final straw!",
+  "p": "Do you now understand why you could never win a war against me? ",
+  "c": "I must admit, I have not felt this alive in decades. You have performed well, $N. "
+ },
+ {
+  "id": 9933,
+  "t": "Message to Telaar",
+  "o": "Take the Burning Blade Peace Offering to Arechron at Telaar in Nagrand.",
+  "d": "<Lantresor points to an unmarked crate.>$B$BTake it. It is my offering to your people. You have single-handedly saved my clan from extermination.$B$BYou may tell your leader that Lantresor of the Burning Blade and his Boulderfist ogres accept the offering of peace.$B$B<Lantresor bows.>$B",
+  "p": "Peace you say? ",
+  "c": "Please, $N, take from the peace offering whatever it is that you may desire. After all, without your efforts, this would not have been possible."
+ },
+ {
+  "id": 9934,
+  "t": "Message to Garadar",
+  "o": "Take the Burning Blade Peace Offering to Garrosh at Garadar.",
+  "d": "<Lantresor points to an unmarked crate.>$B$BTake it. It is my offering to your people. You have single-handedly saved my clan from extermination.$B$BYou may tell your leader that Lantresor of the Burning Blade and his Boulderfist ogres accept the offering of peace.$B$B<Lantresor bows.>",
+  "p": "<Garrosh seems unmoved by the offering.>",
+  "c": "<Garrosh kicks the crate aside.>$B$BYou waste your time, $R. Take whatever you desire from the crate. I nor Garadar have any need for these useless trinkets."
+ },
+ {
+  "id": 9935,
+  "t": "Wanted: Giselda the Crone",
+  "o": "Slay Giselda the Crone and any combination of 10 Kil'sorrow Agents. Return to Warden Bullrok at Garadar should you complete this task.",
+  "d": "Wanted: Dead or Alive$B$BGiselda the Crone of Kil'sorrow and her lackeys for murder, ritual sacrifice, communing with the Legion, kidnapping, and burglary.$B$BKnown to congregate at Kil'sorrow Fortress in southeastern Nagrand, near the border of Terokkar.$B$BLarge gold reward to be dispensed by Warden Bullrok at Garadar to anyone able to bring Giselda to justice.",
+  "p": "Are you here to collect a reward?",
+  "c": "The crone has been slain! This is wonderful news, $N. Here is your reward."
+ },
+ {
+  "id": 9936,
+  "t": "Wanted: Giselda the Crone",
+  "o": "Slay Giselda the Crone and any combination of 10 Kil'sorrow Agents. Return to Warden Moi'bff Jill at Telaar should you complete this task.",
+  "d": "Wanted: Dead or Alive$B$BGiselda the Crone of Kil'sorrow and her lackeys for murder, ritual sacrifice, communing with the Legion, kidnapping, and burglary.$B$BKnown to congregate at Kil'sorrow Fortress in southeastern Nagrand, near the border of Terokkar.$B$BLarge gold reward to be dispensed by Warden Moi'bff Jill at Telaar to anyone able to bring Giselda to justice.",
+  "p": "Are you here to collect a reward?",
+  "c": "The crone has been slain! This is wonderful news, $N. Here is your reward."
+ },
+ {
+  "id": 9937,
+  "t": "Wanted: Durn the Hungerer",
+  "o": "Slay Durn the Hungerer. Return to Warden Bullrok if you manage to complete this task.",
+  "d": "You have destroyed two of the biggest threats in Nagrand, $N. Are you ready to take on the scourge of the Spirit Fields?$B$BDurn the Hungerer lords over the area surrounding Oshu'gun, decimating all in his path. Thus far, none have been able to rid Nagrand of this ferocious gronn. Gather your allies and venture to the Spirit Fields, far southwest of here, near Oshu'gun, and track down Durn. Slay him and I assure you rewards commensurate with the difficulty of the task at hand.$B",
+  "p": "For the Mag'har!",
+  "c": "Durn's murderous grip has been loosed! Nagrand has a brighter tomorrow because of you, hero. Well done!"
+ },
+ {
+  "id": 9938,
+  "t": "Wanted: Durn the Hungerer",
+  "o": "Slay Durn the Hungerer. Return to Warden Moi'bff Jill if you manage to complete this task.",
+  "d": "You have destroyed two of the biggest threats in Nagrand, $N. Are you ready to take on the scourge of the Spirit Fields?$B$BDurn the Hungerer lords over the area surrounding Oshu'gun, decimating all in his path. Thus far, none have been able to rid Nagrand of this ferocious gronn. Gather your allies and venture to the Spirit Fields, west of here, and track down Durn. Slay him and I assure you rewards commensurate with the difficulty of the task at hand.",
+  "p": "Waste no time! Durn must be stopped!",
+  "c": "Durn's murderous grip has been loosed! Nagrand has a brighter tomorrow because of you, hero. Well done!"
+ },
+ {
+  "id": 9939,
+  "t": "Wanted: Zorbo the Advisor",
+  "o": "Slay Zorbo the Advisor, 5 Warmaul Shaman and 5 Warmaul Reavers. Return to Warden Bullrok if you manage to complete this task.",
+  "d": "Wanted: Dead or Alive$B$BZorbo the Advisor, wanted for numerous planned attacks on Garadar. Along with his reavers and shaman, Zorbo has slain countless orcs. Consider Zorbo as armed, dangerous, and merciless.$B$BZorbo makes his home in the Laughing Skull Ruins in the northern mountains of Nagrand.$B$BReward for Zorbo the Advisor's death or capture to be dispensed by Warden Bullrok at Garadar. ",
+  "p": "Are you here to collect a reward?",
+  "c": "This is a great victory for the people of Garadar! Well done, $N!"
+ },
+ {
+  "id": 9940,
+  "t": "Wanted: Zorbo the Advisor",
+  "o": "Slay Zorbo the Advisor, 5 Warmaul Shaman and 5 Warmaul Reavers. Return to Warden Moi'bff Jill if you manage to complete this task.",
+  "d": "Wanted: Dead or Alive$B$BZorbo the Advisor, wanted for numerous planned attacks on Telaar. Along with his reavers and shaman, Zorbo has slain countless Broken. Consider Zorbo as armed, dangerous, and merciless.$B$BZorbo makes his home in the Laughing Skull Ruins in the northern mountains of Nagrand.$B$BReward for Zorbo the Advisor's death or capture to be dispensed by Warden Moi'bff Jill at Telaar.",
+  "p": "Are you here to collect a reward?",
+  "c": "This is a great victory for the people of Telaar! Well done, $N!"
+ },
+ {
+  "id": 9941,
+  "t": "Tracking Down the Culprits",
+  "o": "Continue your search for signs of Deirom in the Arakkoa settlement north of the broken cart.",
+  "d": "The arakkoa tracks, accompanied by a pair of shallow ruts, lead north across the road. It seems the arakkoa dragged something away from the site of the battle, perhaps toward a nearby settlement.$B$BWhile the broken cart shows signs of a struggle, there's little information about Deirom's fate. Follow the arakkoa tracks north and continue your search for the merchant. If he was captured alive, there may still be a chance to rescue him. ",
+  "p": "",
+  "c": "Inspecting the printing on the sacks, you can make out Deirom's name. The arakkoa seem to have cared enough about the merchant's cargo to transport it away from the cart, but where is the missing merchant?"
+ },
+ {
+  "id": 9942,
+  "t": "Tracking Down the Culprits",
+  "o": "Continue your search for signs of Dugar in the Arakkoa settlement north of the broken cart.",
+  "d": "The arakkoa tracks, accompanied by a pair of shallow ruts, lead north across the road. It seems the arakkoa dragged something away from the site of the battle, perhaps toward a nearby settlement.$B$BWhile the broken cart shows signs of a struggle, there's little information about Dugar's fate. Follow the arakkoa tracks north and continue your search for the merchant. If he was captured alive, there may still be a chance to rescue him. ",
+  "p": "",
+  "c": "Inspecting the printing on the sacks, you can make out Dugar's name. The arakkoa seem to have cared enough about the merchant's cargo to transport it away from the cart, but where is the missing merchant?"
+ },
+ {
+  "id": 9943,
+  "t": "Return to Thander",
+  "o": "Return to Thander at the Allerian Stronghold with news of your findings.",
+  "d": "Deirom's cargo doesn't seem to have been harmed or even opened. The cargo clearly seemed of interest to them, but it seems their prisoner was more important. What the arakkoa hoped to gain from attacking and kidnapping Deirom remains unclear, but the merchant is certainly not being held here. $B$BWithout any further clues as to how to continue your search, you decide it might be a good time to report your findings to Thander.",
+  "p": "",
+  "c": "<Thander nods as you tell him about your findings in the arakkoa settlement.>$BThere's no doubt that they're involved, then. But why?$BDeirom has been making the trip to Shattrath without incident for some time. Why would the arakkoa choose this trip to take him captive?"
+ },
+ {
+  "id": 9944,
+  "t": "Missing Mag'hari Procession",
+  "o": "Search for the missing Mag'hari procession.",
+  "d": "Greatmother says that we must press on and serve our people. She says that we must serve as an example for Garrosh - to show that life goes on.$B$BI have so many matters to attend to here, especially with Greatmother having taken ill. Would you honor the Mag'har by helping one of their matrons?$B$BSeveral days ago we sent a funeral procession to the Ancestral Grounds and they have yet to return. Will you go search for them? They took the western road out of Garadar. Follow it around and avoid Halaa.",
+  "p": "",
+  "c": "Thirty orcs, $r! Of those original thirty, only Ungriz and I remain. We found the young orc, Saurfang, nearly dead near Sunspring. Apparently he was here for another reason...\n"
+ },
+ {
+  "id": 9945,
+  "t": "War on the Warmaul",
+  "o": "Elder Yorley at the Mag'hari Procession in Nagrand has asked that you slay 8 Warmaul Brutes and 8 Warmaul Warlocks.",
+  "d": "We were en route to the Ancestral Grounds when we were ambushed by Warmaul. They came from all sides, killing several of the procession guards and many of the others. They even desecrated the remains of the elder in the wagon.$B$BAnd for what? So they could humiliate us and display their power. Not even Boulderfist would have sunk so low.$B$BI am a spiritual orc, $N, but even I have limitations. Find the attackers at Warmaul Hill to the northwest and destroy them!",
+  "p": "This is merely one step in a long process. Ogres, like dogs, must be shown the difference between right and wrong. Telling them does no good.",
+  "c": "It is a good start, but their leader must be dealt with for your actions to have any lasting impact."
+ },
+ {
+  "id": 9946,
+  "t": "Cho'war the Pillager",
+  "o": "Elder Yorley at the Mag'hari Procession in Nagrand has asked that you slay Cho'war the Pillager and retrieve the Head of Cho'war.",
+  "d": "Have you ever seen an ogre king, $r? Few have and lived to tell the tale. Unfortunately, that is exactly what we are dealing with here.$B$BThe leader of these barbarians is an ogre named Cho'war. Rumor has it that Cho'war was the ogre responsible for forcing the gronn out of the cave. Cho'war then declared himself king and dissolved the ogre clans that served under the gronn. Thus, Warmaul was born.$B$BFind Cho'war deep in the caves of Warmaul Hill. Slay him and bring me his head.",
+  "p": "He will undoubtedly be heavily guarded.",
+  "c": "This head will be posted at the gates of Garadar for all to see. The ogres will think twice before interrupting sacred Mag'hari rituals."
+ },
+ {
+  "id": 9947,
+  "t": "Return to Rokag",
+  "o": "Return to Rokag at Stonebreaker Hold with news of your findings.",
+  "d": "Dugar's cargo doesn't seem to have been harmed or even opened. The cargo clearly seemed of interest to them, but it seems their prisoner was more important. What the arakkoa hoped to gain from attacking and kidnapping Dugar remains unclear, but the merchant is certainly not being held here. $B$BWithout any further clues as to how to continue your search, you decide it might be a good time to report your findings to Rokag.",
+  "p": "",
+  "c": "<Rokag nods as you tell him about your findings in the arakkoa settlement.>$BThere's no doubt that they're involved, then. But why?$BDugar has been making the trip to Shattrath without incident for some time. Why would the arakkoa choose this trip to take him captive?"
+ },
+ {
+  "id": 9948,
+  "t": "Finding the Survivors",
+  "o": "Elder Ungriz at the Mag'hari Procession in Nagrand has asked that you free 5 Mag'har Prisoners.",
+  "d": "If I know anything about ogres, it's that they like their food fresh. This means that the Mag'har that they captured are more than likely being kept alive until they are ready to serve. It's a sickening thought, I know, but one that we must use to our advantage.$B$BVenture to Warmaul Hill and search for Mag'har prisoners. If you find prisoners, then you will find keys to their cages on the nearby Warmaul ogres.$B$BKill ogres for their keys and release the prisoners.",
+  "p": "<Ungriz sighs.>$B$BI know it's a lot to ask for, $N; but bring them back alive...",
+  "c": "You have done what none thought was possible and brought back our missing brothers and sisters. You are a hero to the Mag'har, $N. All will know your name and the deeds that you have performed for us.\n\n"
+ },
+ {
+  "id": 9949,
+  "t": "A Bird's-Eye View",
+  "o": "Bring the Eye of Veil Skith, the Eye of Veil Shienor, and the Eye of Veil Reskk to Andarl at the Allerian Stronghold.",
+  "d": "With no further information to go on, we're in a difficult situation. I'm not going to give up on finding and rescuing Deirom. His abduction isn't an accident, $N.$B$BThe arakkoa are up to something, but what is it they're planning?$B$BAndarl, over in the mage tower, knows something of their peculiar magic. With the right tools, he can scare up some new information for us. He'll need the \"eye\" crystals from each of the arakkoa towns north of the Bone Wastes - Veil Skith, Veil Reskk, and Veil Shienor.",
+  "p": "",
+  "c": "Odd, these eyes are not exactly what I am used to working with. The manner in which the arakkoa use their magic is slightly different than ours.$B$BIt looks like we're going to need one more thing if I'm going to be able to scry for the information to locate Deirom."
+ },
+ {
+  "id": 9950,
+  "t": "A Bird's-Eye View",
+  "o": "Bring the Eye of Veil Skith, the Eye of Veil Shienor, and the Eye of Veil Reskk to Kurgatok at Stonebreaker Hold.",
+  "d": "With no further information to go on, we're in a difficult situation. I'm not going to give up on finding and rescuing Dugar. His abduction isn't an accident, $N.$B$BThe arakkoa are up to something, but what is it they're planning?$B$BKurgatok the warlock knows something of their peculiar magic. With the right tools, he can scare up some new information for us. He'll need the \"eye\" crystals from each of the arakkoa towns north of the Bone Wastes - Veil Skith, Veil Reskk, and Veil Shienor.",
+  "p": "Rokag has told me about his plan. You have the eyes?",
+  "c": "Odd, these eyes are not exactly what I am used to working with.  The way that the arakkoa use their magic is slightly different than our own.$B$BIt looks like we're going to need one more thing if I'm going to be able to scry for the information to locate Dugar."
+ },
+ {
+  "id": 9951,
+  "t": "It's Watching You!",
+  "o": "Kill Naphthal'ar and then return to Warden Treelos at the Cenarion Thicket in Terokkar Forest.",
+  "d": "Quick, hide!  The eyes of Naphthal'ar are upon you... upon us all!$B$BI dare not go to the top of the tower to speak with it, but you... you look as if you might know the right words to say.  Just be careful, it doesn't like jokes and will not suffer fools easily.$B$BIf you can, convince it to come down for tea.  But, by all means, get it to stop staring at me!",
+  "p": "We should never have invited them to dinner.  That much is certain!$B$BOr, at least, we should have insisted upon a couple of courses before the dessert that they brought.",
+  "c": "It's for the best, really.  If it cannot civilly accept an invitation then it has no business attending.$B$B<Warden Treelos looks momentarily confused.>$B$BWho are you and what are you doing here?  You must get out of here quickly before it is too late!"
+ },
+ {
+  "id": 9952,
+  "t": "Prospector Balmoral",
+  "o": "Locate and speak with Prospector Balmoral.",
+  "d": "So Andarl is certain Deirom is being held in Veil Shalas? That's the largest of the arakkoa settlements that we know of.$B$BVeil Shalas is in the far south of the forest, close to the eastern rim of the Bone Wastes. Unfortunately, I don't have much information on it, but there is an Explorers' League member camped down there who may be able to help you. Prospector Balmoral's camp is perched on the very edge of the land to the southwest of Veil Shalas. Consult him before making any move against the arakkoa.",
+  "p": "",
+  "c": "Aye, I'm familiar with Veil Shalas. Nasty piece of work, that. But if your friend is being held there, I suppose we're going to have to find a way around their defenses."
+ },
+ {
+  "id": 9953,
+  "t": "Lookout Nodak",
+  "o": "Locate and speak with Lookout Nodak.",
+  "d": "So Kurgatok is certain Dugar is being held in Veil Shalas? That's the largest of the arakkoa settlements that we know of.$B$BVeil Shalas is in the far south of the forest, close to the eastern rim of the Bone Wastes. Unfortunately, I don't have much information on it, but we have a scout camped down there who may be able to help you. Lookout Nodak's camp is perched on the very edge of the land to the southwest of Veil Shalas. Consult him before making any move against the arakkoa.",
+  "p": "",
+  "c": "The influence of Veil Shalas dominates these parts. If your friend is being held there, I suppose we're going to have to find a way around their defenses."
+ },
+ {
+  "id": 9954,
+  "t": "Corki's Ransom",
+  "o": "Arechron wants you to find Corki at Warmaul Hill.",
+  "d": "<Arechron shows you a grime covered letter.>$B$BI just received this letter. It's from a clan of ogres known as Warmaul that rule the northwestern lands of Nagrand. It says that they have Corki and if we don't cooperate, they're going to eat him. Admittedly, Corki is a moron, but he's still my blood. Will you rescue him, $N?$B$BI presume that he's locked up in a cage somewhere on Warmaul Hill. That should be your first stop.",
+  "p": "",
+  "c": "They've got me locked up good this time, $N. The Warmaul king, Cho'war, has the key."
+ },
+ {
+  "id": 9955,
+  "t": "Cho'war the Pillager",
+  "o": "Corki wants you to get Cho'war's Key so that you can free him from his cage. Return to Arechron at Telaar should you manage this task.",
+  "d": "They call him Cho'war the pillager, $N. He's the ogre that forced out the gronn that used to rule over these ogres. You better believe he's powerful!$B$BThe chef said that Cho'war lives in the big cave - wherever that may be... Get that key and get me out of here! If we live through this, my father will no doubt give you the big reward! As soon as I'm free, seek him out.",
+  "p": "Where's Corki?",
+  "c": "Thank you, $N. Corki's been sent away to live among the night elves in Blade's Edge. Hopefully they'll be able to keep him out of trouble.$B$BAbout that reward..."
+ },
+ {
+  "id": 9956,
+  "t": "The Ravaged Caravan",
+  "o": "Huntress Kima at Telaar in Nagrand wants you to recover 10 Telaar Supply Crates.",
+  "d": "I was part of a caravan taking supplies to the Orebor Harborage in Zangarmarsh. As we were nearing the border of the marsh, we were jumped by a vicious squad of Warmaul ogres. They killed the others and took me prisoner, along with all of our supplies.$B$BThankfully, they neglected to place a backing on my cage. When they fell asleep, I made my escape.$B$BIt's too late for my comrades but we could really use the supplies they stole. Warmaul Hill is in the northwestern mountains of Nagrand.",
+  "p": "I feel so stupid. Arechron's son, Corki, asked me what happened and I told him. Now he's gone missing again! ",
+  "c": "Amazing! How did you manage to carry all of that back by yourself? "
+ },
+ {
+  "id": 9957,
+  "t": "What's Wrong at Cenarion Thicket?",
+  "o": "Speak with one of the druids at the Cenarion Thicket in Terokkar Forest.",
+  "d": "We haven't heard from the druids at the Cenarion Thicket of Terokkar Forest in quite some time.$B$B$N, I'd like for you to go down there and check in with them to see what's happening.  There are several ways to get there, but the fastest is to head south along the path, and then take the road that branches east from Shattrath City once you're in the forest.",
+  "p": "",
+  "c": "I'm glad that the refuge sent you.  The druids of the thicket have been slain!  Only myself and one other have survived, and he's insane.$B$BI don't know what happened, but I intend to get to the bottom of it.  Whatever it was, it happened quickly and feels unnatural.$B$BWill you help me?"
+ },
+ {
+  "id": 9958,
+  "t": "Scouting the Defenses",
+  "o": "Approach Veil Shalas and observe the town's defenses.",
+  "d": "In my time out here, I've had a few interactions with the arakkoa, none of them friendly. They seem very territorial, but I suppose we're the same way, aren't we?$B$BThe arakkoa wield a kind of primal magic unknown to us on Azeroth and have used it to weave defenses for Veil Shalas. Before moving against them, it would be prudent to scout out their defenses so we know what we're up against.",
+  "p": "",
+  "c": "Their defenses are much more sophisticated than I'd thought, $N. That's a bad sign. Fortunately, for every good spell, there's a counterspell. It's just a question of getting our hands on that counter."
+ },
+ {
+  "id": 9959,
+  "t": "Scouting the Defenses",
+  "o": "Approach Veil Shalas and learn about the magic defending the settlement.",
+  "d": "In my time out here, I've had a few interactions with the arakkoa, none of them friendly. They seem very territorial, but I suppose we're the same way, aren't we? Not even the ancestors recorded any encounters with the bird-men.$B$BThe arakkoa wield a kind of primal magic unknown to our seers and have used it to weave defenses for Veil Shalas. Before moving against them, it would be wise to scout out their defenses so we know what we're up against.",
+  "p": "",
+  "c": "Their defenses are much more sophisticated than I'd thought, $N. That's a bad sign. Fortunately, for every good spell, there's a counterspell. It's just a question of getting our hands on that counter."
+ },
+ {
+  "id": 9960,
+  "t": "What's Wrong at Cenarion Thicket?",
+  "o": "Speak with one of the druids at the Cenarion Thicket in Terokkar Forest.",
+  "d": "Hey there, $c.  We haven't heard from the druids of the Cenarion Thicket in quite some time.$B$BI want you to go over there and check to see what's happening.  You can find it by heading northwest through the forest.",
+  "p": "",
+  "c": "I'm glad that Stonebreaker Hold sent you. The druids of the thicket have been slain! Only myself and one other have survived, and he's insane.$B$BI don't know what happened, but I intend to get to the bottom of it. Whatever it was, it happened quickly and feels unnatural.$B$BWill you help me?"
+ },
+ {
+  "id": 9961,
+  "t": "What's Wrong at Cenarion Thicket?",
+  "o": "Speak with one of the druids at the Cenarion Thicket in Terokkar Forest.",
+  "d": "$C, I have urgent business for you.  We haven't heard from the druids of the Cenarion Thicket in quite some time.  This is unusual as we usually hear from them at least once every few days.$B$BI want you to go up there and make sure that they're alright.  You can find the thicket by heading northwest through the forest.",
+  "p": "",
+  "c": "I'm glad that Stonebreaker Hold sent you. The druids of the thicket have been slain! Only myself and one other have survived. and he's insane.$B$BI don't know what happened, but I intend to get to the bottom of it. Whatever it was, it happened quickly and feels unnatural.$B$BWill you help me?"
+ },
+ {
+  "id": 9962,
+  "t": "The Ring of Blood: Brokentoe",
+  "o": "Defeat Brokentoe. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "So are you ready for your first battle? If you are, let me know and I'll get things started. All you have to do is go wait in the Ring of Blood for your opponent to arrive.$B$BThis fight is against Brokentoe, a ferocious clefthoof.$B$BGood luck! I hope you brought friends.$B$BAnd remember, the fight's over when either you or your opponent are lying face down on the arena floor.$B",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "Hrm, not bad. Not bad at all... You've got potential, kid. Here's a little gold to line your pockets with..."
+ },
+ {
+  "id": 9963,
+  "t": "Seeking Help from the Source",
+  "o": "Find Kokorek in Veil Lithic and speak with him.",
+  "d": "The wards you encountered are powerful magic, indeed. The techniques employed by the arakkoa are so far beyond our understanding that we can only hope to find a counter with their help.$B$BI know what's going through your mind. Why would an enemy help us to overcome their defenses? The answer is that they wouldn't, of course. Have you heard the tales of a crazy old arakkoa sage named Kokorek? They say he's hiding in Veil Lithic on the western edge of the Bone Wastes, waiting for the return of a lost age.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9964,
+  "t": "Seeking Help from the Source",
+  "o": "Find Kokorek in Veil Lithic and speak with him.",
+  "d": "The wards you encountered are powerful magic, indeed. The techniques employed by the arakkoa are so far beyond our understanding that we can only hope to find a counter with their help.$B$BI know what's going through your mind. Why would an enemy help us to overcome their defenses? The answer is that they wouldn't, of course. Have you heard the tales of a crazy old arakkoa sage named Kokorek? They say he's hiding in Veil Lithic on the western edge of the Bone Wastes, waiting for the return of a lost age.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9965,
+  "t": "A Show of Good Faith",
+  "o": "Bring Mug'gok's Head to Kokorek in Veil Lithic.",
+  "d": "I'd like to propose something of a trade: demonstrate your good intentions by helping me resolve a little problem, and I'll help you rescue your comrade.$B$BThe ogres are an ancient enemy of my people, and lately they have begun to filter back into our forest from the grasslands of Nagrand.$B$BOne particular ogre, Mug'gok, is quite an adventurous fellow, but none too bright. He goes back and forth between causing trouble for his friends at the Bleeding Hollow Ruins and trying to provoke us.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9966,
+  "t": "A Show of Good Faith",
+  "o": "Bring Mug'gok's Head to Kokorek in Veil Lithic.",
+  "d": "I'd like to propose something of a trade: demonstrate your good intentions by helping me resolve a little problem, and I'll help you rescue your comrade.$B$BThe ogres are an ancient enemy of my people, and lately they have begun to filter back into our forest from the grasslands of Nagrand.$B$BOne particular ogre, Mug'gok, is quite an adventurous fellow, but none too bright. He goes back and forth between causing trouble for his friends at the Bleeding Hollow Ruins and trying to provoke us.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9967,
+  "t": "The Ring of Blood: The Blue Brothers",
+  "o": "Defeat the Murkblood Twins that call themselves the Blue Brothers. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "This next battle involves a duo - twin brothers to be precise. They call themselves the \"Blue Brothers.\"$B$BIt's not too late to chicken out, $N. I'd certainly understand.$B$BBut if you're ready for some action, step in the Ring of Blood and wait for the Murkblood twins to arrive.$B$BLast one standing is the winner!",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "I'll admit that I didn't think you had a prayer, $N! That was amazing! So how 'bout another fight? Gurgthock's got the perfect match lined up."
+ },
+ {
+  "id": 9968,
+  "t": "Strange Energy",
+  "o": "Collect 4 Teromoth Samples and 4 Vicious Teromoth Samples.  Then return to Earthbinder Tavgren just outside of the Cenarion Thicket in Terokkar Forest.",
+  "d": "Something strange has changed the teromoths of the thicket.$B$BWhere once there was a diversity of life in there, now only the teromoths remain.  And while before they were at peace, now they are agitated and will not hesitate to attack you should you get close.$B$BI need to compare the vicious ones to the normal.  Collect for me a number of samples from both.  You'll find the unaffected teromoths both to the south and the north.$B$BI'm certain this is related to whatever killed all of the druids.",
+  "p": "Do you have my samples?",
+  "c": "Odd.  The samples from the vicious teromoths are infused with what feels to me to be pure mana.$B$BIt would seem that whatever caused all of this death also left behind that strong field of residual energy.  But for some reason the teromoths were not killed by it; instead being driven into an agitated state.$B$BIt seems apparent that this strange energy is the by-product of whatever attacked the thicket."
+ },
+ {
+  "id": 9969,
+  "t": "The Final Reagents",
+  "o": "Bring 5 Warp Hunter Essences and 30 Terokkar Chokeberries to Kokorek in Veil Lithic.",
+  "d": "I can create an item that will neutralize the ward spells protecting Veil Shalas, but be warned, $N. The magic will only work as long as your friend is held captive. I will not give you a means to attack my people at will.$B$BI have most of the materials I require to create the charm, but there are a couple that I'm going to need you to gather before I can finish the work. I'll need some warp hunter essence and a handful of Terokkar chokeberries. Both can be found in the area around the veil.",
+  "p": "",
+  "c": "Excellent. This will take just a moment."
+ },
+ {
+  "id": 9970,
+  "t": "The Ring of Blood: Rokdar the Sundered Lord",
+  "o": "Defeat Rokdar the Sundered Lord. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "This fight is gonna be painful, $N. Do you have any friends that are brave enough to help you out? The ogres managed to get a giant from Blade's Edge named Rokdar! Trust me, you're gonna need friends, he seems unbeatable! He's hard as a rock - literally!$B$BIf you still want to fight him, step into the Ring of Blood and he will come.",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "You've got the ogres sweatin', kid! Here's a little something extra this time - don't use 'em all in one place.$B$BAre you ready for another fight? Gurgthock's bettin' the bank on you!"
+ },
+ {
+  "id": 9971,
+  "t": "Clues in the Thicket",
+  "o": "Investigate the Strange Object next to the Broken Corpse to determine what might have befallen the Cenarion Thicket.  Then return to Earthbinder Tavgren just outside the thicket in Terokkar Forest.",
+  "d": "I have no idea what killed all of the druids here.  I've been away for a couple of days on a survey of the Bone Wastes to the south.$B$BPlease, you must help me to uncover what's behind this horrible tragedy.  Go into the thicket and look for a clue that might reveal something to us.  When I was in there briefly, I could have sworn I saw a dead Broken and a strange object next to him.$B$B And don't worry about Treelos - he might have been driven insane by what happened, but I think he's mostly harmless.",
+  "p": "Have you discovered anything yet?",
+  "c": "So, I was right.  That was the corpse of one of the Broken?  And you can confirm that there was a strange object on the ground next to him?$B$BThis doesn't make any sense.  What would one of the Broken be doing here?  And what is that thing it had with him?$B$BIs it what caused all of this death?"
+ },
+ {
+  "id": 9972,
+  "t": "The Ring of Blood: Skra'gath",
+  "o": "Defeat Skra'gath. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "You're murderin' 'em out there, kid! They got a ringer for the next match. They say he's a void lord or something... No way do they want you up against their champion. Did you here that palooka, Mogor, yapping at you? The bets are through the roof!$B$BGet in that ring and take this one out fast!",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "KID! KID THIS IS IT! The next fight is the big one! The championship!$B$BOk, keep it cool. We don't want the ogres to know that we got anything going on. I get a cut of all this, after all."
+ },
+ {
+  "id": 9973,
+  "t": "The Ring of Blood: The Warmaul Champion",
+  "o": "Defeat the Warmaul Champion. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "They had to ship the champion in from the Blade's Edge gladiator pits. He was training on mountain giants - three at a time.$B$BIf you win this one, you become the new champion. What do you think your odds are, kid? Do you have a shot? Just give me the word and I'll bet the house on you.$B$BNow get in there and win!",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "Oh boy. Mogor has invoked his right of battle as hero of the Warmaul. You have to fight him!$B$BNobody ever said the Warmaul were good sports... erm... ogres.\n"
+ },
+ {
+  "id": 9974,
+  "t": "The Final Reagents",
+  "o": "Bring 5 Warp Hunter Essences and 30 Terokkar Chokeberries to Kokorek at Veil Lithic.",
+  "d": "I can create an item that will neutralize the ward spells protecting Veil Shalas, but be warned, $N. The magic will only work as long as your friend is held captive. I will not give you a means to attack my people at will.$B$BI have most of the materials I require to create the charm, but there are a couple that I'm going to need you to gather before I can finish the work. I'll need some warp hunter essence and a handful of Terokkar chokeberries. Both can be found in the area around the veil.",
+  "p": "",
+  "c": "Excellent. This will take just a moment."
+ },
+ {
+  "id": 9975,
+  "t": "Primal Magic",
+  "o": "Use Kokorek's Talisman near the totems that guard the path to Veil Shalas, then speak with Prospector Balmoral.",
+  "d": "I've stored the spell inside this talisman. Unleash it while standing near the totems that guard the approach to Veil Shalas. It should be sufficient to unravel the wards.$B$B<You mention that the figure in the talisman doesn't especially resemble an arakkoa.>$B$BMy people weren't always as they appear now. We were once magnificent creatures, but we... we made many ill-advised choices and failed in our sacred task. It cost us our beauty, our power, and very nearly our lives. Do not repeat our mistakes, $N.",
+  "p": "",
+  "c": "If the talisman's spell worked, then you should be ready to venture into Veil Shalas. I hope your arakkoa sage was telling you the truth when he said that his magic was stronger than that ward's. If he's deceiving us, both you and Deirom are in trouble."
+ },
+ {
+  "id": 9976,
+  "t": "Primal Magic",
+  "o": "Use Kokorek's Talisman near the totems that guard the path to Veil Shalas, then speak with Lookout Nodak.",
+  "d": "I've stored the spell inside this talisman. Unleash it while standing near the totems that guard the approach to Veil Shalas. It should be sufficient to unravel the wards.$B$B<You mention that the figure in the talisman doesn't especially resemble an arakkoa.>$B$BMy people weren't always as they appear now. We were once magnificent creatures, but we... we made many ill-advised choices and failed in our sacred task. It cost us our beauty, our power, and very nearly our lives. Do not repeat our mistakes, $N.",
+  "p": "",
+  "c": "If the talisman's spell worked, then you should be ready to venture into Veil Shalas. I hope your arakkoa sage was telling you the truth when he said that his magic was stronger than that ward's. If he's deceiving us, both you and Dugar are in trouble."
+ },
+ {
+  "id": 9977,
+  "t": "The Ring of Blood: The Final Challenge",
+  "o": "Defeat Mogor, Hero of the Warmaul. Should you win, speak with Wodin the Troll-Servant to collect your reward.",
+  "d": "<Gurgthock is counting his massive pile of gold.>$B$BYou've made me a lot of money, kid. If you can defeat Mogor, I promise to make it worth your while. All that pain you suffered in the Ring of Blood is gonna end up paying off.$B$BNow get in there and show these ogres what you're made of!",
+  "p": "The fight's over when you or your opponent are dead on the floor.",
+  "c": "Gurgthock told you he'd make it worth your while, kid. Take your pick!"
+ },
+ {
+  "id": 9978,
+  "t": "By Any Means Necessary",
+  "o": "Find Empoor on the road between Tuurem and Shattrath City in Terokkar Forest. Convince him to tell you what he knows.",
+  "d": "I don't know what to make of all of this, but I do know how we can find more clues.$B$BEmpoor is a Broken merchant that traffics in all sorts of goods and information.  If you were to persuade him to talk, I'm sure he might have something interesting to say.$B$BHe travels the road here between Tuurem and Shattrath.  Watch out, though -- he travels with a bodyguard.",
+  "p": "",
+  "c": "Fine, fine... I'll tell you what I know, but it's not much!"
+ },
+ {
+  "id": 9979,
+  "t": "Wind Trader Lathrai",
+  "o": "Speak with Wind Trader Lathrai near the World's End Tavern in the Lower City section of Shattrath City.",
+  "d": "I was asked to pick up and deliver some boxes of goods from an ethereal in Shattrath City.$B$BLast I saw him, he was standing outside of the World's End Tavern in Lower City.  His name is Wind Trader Lathrai, and that's all that I know!$B$BWant more answers, go talk with him!",
+  "p": "",
+  "c": "Yes?  How may I help you today, $r?"
+ },
+ {
+  "id": 9980,
+  "t": "Rescue Deirom!",
+  "o": "Venture into Veil Shalas, kill Luanga, and free Deirom. Report to Lady Dena Kennedy at the Allerian Stronghold when you have completed your mission.",
+  "d": "Make your way to Veil Shalas with all haste, $N! Time is of the essence here. If the arakkoa discover what you've done to their defenses, they may attempt to move Deirom, or even kill him.$B$BIf you can, bring a friend or two with you. It's likely to be rough there. The bird-men have gone to great lengths to secure their prisoner and they're not likely to give him up easily. After you've found Deirom and dealt with his captor, return to the Allerian Stronghold and notify Thander.",
+  "p": "",
+  "c": "I must admit, $N, I'm pleasantly surprised. When Thander told me that Deirom was being held in Veil Shalas, I began to wonder whether he was lost to us for good.$B$BThis is one time I'm very happy to have been proven wrong.$B$BYou can bet we'll be keeping a closer eye on the activities of the arakkoa after this."
+ },
+ {
+  "id": 9981,
+  "t": "Rescue Dugar!",
+  "o": "Venture into Veil Shalas, kill Luanga, and free Dugar. Report to Rokag at Stonebreaker Hold when you have completed your mission.",
+  "d": "Make your way to Veil Shalas with all haste, $N! Time is of the essence here. If the arakkoa discover what you've done to their defenses, they may attempt to move Dugar, or even kill him.$B$BIf you can, bring a friend or two with you. It's likely to be rough there. The bird-men have gone to great lengths to secure their prisoner and they're not likely to give him up easily. After you've found Dugar and dealt with his captor, return to Stonebreaker Hold and notify Rokag.",
+  "p": "",
+  "c": "I must admit, $N, I'm surprised. When we found out that Dugar was being held in Veil Shalas, I began to wonder whether he was lost to us for good.$B$BThis is one time I'm happy to be proven wrong.$B$BYou can bet we'll be keeping a closer eye on the activities of the arakkoa after this."
+ },
+ {
+  "id": 9982,
+  "t": "He Called Himself Altruis...",
+  "o": "If you are looking to fight the Burning Legion, find Altruis the Sufferer in western Nagrand.",
+  "d": "A being riding atop a nether drake arrived in town late last week. He introduced himself as Altruis and then proceeded to ask us several questions about Nagrand.$B$BHe claimed that he was hunting Legion. That such insanity was actually his job. Can you imagine? A person that would willingly hunt demons?$B$BBefore he left, he asked that we let the would-be heroes in town know that he will be staying in western Nagrand for awhile and that should they seek a purpose, to find him.",
+  "p": "",
+  "c": "Does my appearance startle you? Do you know what I am?"
+ },
+ {
+  "id": 9983,
+  "t": "He Called Himself Altruis...",
+  "o": "If you are looking to fight the Burning Legion, find Altruis the Sufferer in western Nagrand.",
+  "d": "A being riding atop a nether drake arrived in town late last week. He introduced himself as Altruis and then proceeded to ask us several questions about Nagrand.$B$BHe claimed that he was hunting Legion. That such insanity was actually his job. Can you imagine? A person that would willingly hunt demons?$B$BBefore he left, he asked that we let the would-be heroes in town know that he will be staying in western Nagrand for awhile and that should they seek a purpose, to find him.",
+  "p": "",
+  "c": "Does my appearance startle you? Do you know what I am?"
+ },
+ {
+  "id": 9984,
+  "t": "Host of the Hidden City",
+  "o": "Take Luanga's Orders to Andarl at the Allerian Stronghold in Terokkar Forest.",
+  "d": "Although you cannot read the strange script on the scroll, the ornate seal at the bottom of the document implies that it was drafted by an arakkoa of high standing. Luanga may have masterminded the capture and interrogation of Deirom, but it seems he was taking orders from someone else.$B$BYou remember Thander mentioning that Andarl has studied the arakkoa. Perhaps he can decipher the scroll's contents.",
+  "p": "",
+  "c": "I can read most of this, enough to get a general idea. Whoever wrote this is praising the 'progress' made by Luanga and encouraging him to continue interrogating his 'guests.'$b$bMeanwhile, it says, 'the preparations in Skettis are proceeding as planned' and that they will 'soon be ready to reclaim their ancestral lands.'$b$bI'm not familiar with this 'Skettis' mentioned by the writer, but wherever it is, it sounds like the arakkoa are assembling an army there! Thander must be told about this immediately."
+ },
+ {
+  "id": 9985,
+  "t": "Host of the Hidden City",
+  "o": "Bring Luanga's Orders to Kurgatok at Stonebreaker Hold in Terokkar Forest.",
+  "d": "Although you cannot read the strange script on the scroll, the ornate seal at the bottom of the document implies that it was drafted by an arakkoa of high standing. Luanga may have masterminded the capture and interrogation of Dugar, but it seems he was taking orders from someone else.$B$BYou remember Rokag mentioning that Kurgatok has studied the arakkoa. Perhaps he can decipher the scroll's contents.",
+  "p": "",
+  "c": "I can read most of this, enough to get a general idea. Whoever wrote this is praising the 'progress' made by Luanga and encouraging him to continue interrogating his 'guests.'$b$bMeanwhile, it says, 'the preparations in Skettis are proceeding as planned' and that they will 'soon be ready to reclaim their ancestral lands.'$b$bI'm not familiar with this 'Skettis' mentioned by the writer, but wherever it is, it sounds like the arakkoa are assembling an army there! Rokag must be told about this immediately."
+ },
+ {
+  "id": 9986,
+  "t": "Stymying the Arakkoa",
+  "o": "Kill Ashkaz in Veil Reskk, Ayit in Veil Shienor, and Urdak in Veil Skith and return to Thander at the Allerian Stronghold.",
+  "d": "We need to show the arakkoa that they cannot attack our people with impunity. If we don't stop them here, the roads will no longer be safe for our merchants, couriers, or soldiers.$B$BMy scouts have identified the leaders of each of the major arakkoa settlements in the area. Seek out Ashkaz, Ayit, and Urdak, in Veil Reskk, Veil Shienor, and Veil Skith and kill them. ",
+  "p": "It's good to see you again, $N. Have you done as I asked?",
+  "c": "Well done, $N. We have enough to worry about without wondering when the arakkoa will accost our merchants and messengers again."
+ },
+ {
+  "id": 9987,
+  "t": "Stymying the Arakkoa",
+  "o": "Kill Ashkaz in Veil Reskk, Ayit in Veil Shienor, and Urdak in Veil Skith and return to Rokag at Stonebreaker Hold.",
+  "d": "We need to show the arakkoa that they cannot attack our people with impunity. If we don't stop them here, the roads will no longer be safe for our merchants, couriers, or soldiers.$B$BMy scouts have identified the leaders of each of the major arakkoa settlements in the area. Seek out Ashkaz, Ayit, and Urdak, in Veil Reskk, Veil Shienor, and Veil Skith and kill them. ",
+  "p": "Welcome back, $N. Have you dealt with the arakkoa leaders?",
+  "c": "Well done, $N. We have enough to worry about without wondering when the arakkoa will accost our merchants and messengers again."
+ },
+ {
+  "id": 9988,
+  "t": "A Dandy's Best Friend",
+  "o": "Bring 30 Arakkoa Feathers to Ros'eleth in the Allerian Stronghold.",
+  "d": "Don't let Thander and company fool you. They may look like a band of fearsome warriors, but underneath all that steel, they're nothing more than a troop of dandies!$B$BAnd they won't be seen in public without their hats. They're extravagant affairs made from felt and fur, complete with the gaudiest feathers you've ever seen.$B$BThe most desirable feathers come from any of the arakkoa, of course, and my supply is running low. I'll gladly pay you if you'll collect them for me.",
+  "p": "",
+  "c": "These will work, although I'm sure the men will start to complain about the lack of variety soon. Light forbid they should look the same!$B$B<Ros'eleth gasps in mock horror.>$B$BOh, no, we can't have that!"
+ },
+ {
+  "id": 9989,
+  "t": "Alien Spirits",
+  "o": "Bring 30 Arakkoa Feathers to Malukaz at Stonebreaker Hold.",
+  "d": "When I first came to Outland, and opened my ears to the voices of its spirits, I was amazed at what I heard. In time, I also came to notice which spirits I couldn't hear.$B$BFor all my attempts, I have never been able to make contact with the spirit of an arakkoa ancestor. Their magic is fundamentally different from ours, but I'm not convinced that their spirits are beyond my reach.$B$BBring me feathers from many arakkoa; perhaps having some token from them will provide the link I need.",
+  "p": "",
+  "c": "These will work well. The more individuals you collected them from, the more they will help me when I try to contact the arakkoa spirits. Thank you for your help, $N."
+ },
+ {
+  "id": 9990,
+  "t": "Investigate Tuurem",
+  "o": "Find the Sealed Box and then deliver it to Earthbinder Tavgren just outside of the Cenarion Thicket in Terokkar Forest.",
+  "d": "You know, come to think of it, I do recall selling several boxes of strange and exotic engineering parts to Empoor about a month ago.  I'm not sure what they'd be used for, but I know that they were delivered to Tuurem.$B$BPerhaps one or more of those boxes is still there?",
+  "p": "What news do you bring, $N?",
+  "c": "Ethereals?  Goods delivered to Tuurem?  Exotic engineering parts?  And a blood elf getting ready to deliver this last box to Firewing Point?$B$BWhat does all of this mean?!  How does it relate to what happened to the druids in the Cenarion Thicket?$B$BI think we should have a look inside that box."
+ },
+ {
+  "id": 9991,
+  "t": "Survey the Land",
+  "o": "Sit back and enjoy the ride. Speak to Altruis when the survey is complete.",
+  "d": "To be my eyes will require some diligence on your part. Nethrandamus will take you through the Legion camps, but you must catalog everything that you see. Even the smallest detail that you may think to be inconsequential could be useful for our purposes.$B$BPrimarily, I want you to note what structures are in the camps and what comprises the camps' defenses.$B$BNethrandamus is ready when you are, $N. Do not be afraid, he will keep you safe from harm.$B",
+  "p": "Never flown on the back of a nether drake, eh?",
+  "c": "Excellent work, $N! We now have a point from which we can plan our counter-attack."
+ },
+ {
+  "id": 9992,
+  "t": "Olemba Seeds",
+  "o": "Gather 30 Olemba Seeds and return them to Ros'eleth in the Allerian Stronghold.",
+  "d": "Aren't the trees in the forest beautiful? I've often wondered if they would survive on Azeroth.$B$BI'm hesitant to send back seedlings, though. It's a rough trip and they're much harder to transport than something like a sack of seeds. The seeds are stored in tough cones that fall from the tree's branches once they've reached maturity.$B$BIf you come upon some of those cones in your travels, would you mind bringing some of the seeds back to me?",
+  "p": "I've started a seed collection, but I'm going to need some help before I have enough to send back to the park in Stormwind.",
+  "c": "Thank you for bringing these seeds. I've almost got enough to send back the first batch!"
+ },
+ {
+  "id": 9993,
+  "t": "Olemba Seed Oil",
+  "o": "Bring 30 Olemba Seeds to Rakoria in Stonebreaker Hold.",
+  "d": "The oily seeds from the forest's olemba trees could prove very valuable. I'd like to gather a larger quantity of them, press them for their oil, and then see what I can do with it.$B$BJust think, there's a whole forest full of trees out there, producing a lot of seeds that go to waste. I don't care if it turns out to be cooking oil, lamp oil, or weapon oil, I won't let it go to waste!$B$BBring me any of the seeds that you happen to gather from the olemba cones. They're all over the place.",
+  "p": "Do you have any seeds for me?",
+  "c": "That's a good start, but we're going to need more than that if we're to press a respectable amount of oil!"
+ },
+ {
+  "id": 9994,
+  "t": "What Are These Things?",
+  "o": "Deliver the Box of Parts to Jenai Starwhisper at the Allerian Stronghold in Terokkar Forest.",
+  "d": "I don't know about you, but I have no idea what all of those things are.  I do know one thing though - they look dangerous!$B$B$N, I think you should take this box of parts to Jenai Starwhisper at the Allerian Stronghold to the southeast.  She may have some idea of what these are.",
+  "p": "You look concerned. What is it, $C?",
+  "c": "Oh no! That's horrible news! I can't believe that all but two of our Cenarion friends are dead.$B$BAlright, let me have a look at those parts. I'm just hoping they aren't what I suspect that they might be.$B$BYes, as I feared, I believe these are bomb parts. Our eyes and ears in Shattrath City have been feeding us information about some of the ethereals importing proscribed goods from other dimensions that they're in contact with."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 9499,
+  "t": "Falcon Watch",
+  "o": "Travel to Falcon Watch in the southwest of Hellfire Peninsula and report to Ranger Captain Venn'ren.",
+  "d": "What are you still doing here, $N?  Didn't you hear we built a proper sin'dorei outpost here in Hellfire Peninsula?$B$BSurely you'd rather be among fellow blood elves and away from all this... smell.  You'll find Falcon Watch in the southwest, beyond Hellfire Citadel.  Report to Ranger Captain Venn'ren; he will take care of you.$B$BThe road ahead is dangerous and heavily patrolled by Alliance scouts.  I would recommend travelling with companions.  Blood elves, preferably.",
+  "p": "",
+  "c": "Welcome to Falcon Watch, $Gbrother:sister;. Many other blood elves haven't been fortunate enough to make it this far.$B$BIt's a terrible shame; our work in Outland has just begun."
+ },
+ {
+  "id": 9500,
+  "t": "Call of Water",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "It's been a while since last you were tested.  Farseer Nobundo has been asking for you.  You must have grown greatly in wisdom because you are being called to learn the mysteries of the element of water.$B$BYou remember where to find him at the Crystal Hall inside of the Exodar, right?",
+  "p": "",
+  "c": "We meet again. I have been watching your progress from afar, $c, and I am pleased.$B$BThe time has come for you to commune with the element of water, to learn its mysteries and give yourself over to the water so that you might in turn learn to master it."
+ },
+ {
+  "id": 9501,
+  "t": "Call of Water",
+  "o": "Speak with Aqueous in the Hidden Reef at Bloodmyst Isle.",
+  "d": "A powerful water elemental named Aqueous has requested your presence.  It would seem that there is a great imbalance occurring in the water element on Bloodmyst Isle.  Not surprising given the unnatural predilections of the blood elves.$B$BYou will find Aqueous in a hidden reef under the waves off the northern shore of Bloodmyst Isle.$B$BTake this potion; it can help you to get to her once you get into the water near the reef.",
+  "p": "",
+  "c": "Do not fear, $N. While you are here we will speak using our minds.$B$BI am grateful to Farseer Nobundo for sending you to me. There is a great disturbance that is polluting the waters on and around Bloodmyst Isle. Not even the blind would fail to notice the effect this is having on its creatures and the environment.$B$BYou and I will work together to stop this corruption before it spreads further. "
+ },
+ {
+  "id": 9502,
+  "t": "Call of Water",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "It's been a while since last you were tested.  Farseer Nobundo has been asking for you.  You must have grown greatly in wisdom because you are being called to learn the mysteries of the element of water.$B$BYou remember where to find him at the Crystal Hall inside of the Exodar, right?",
+  "p": "",
+  "c": "We meet again. I have been watching your progress from afar, $c, and I am pleased.$B$BThe time has come for you to commune with the element of water, to learn its mysteries and give yourself over to the water so that you might in turn learn to master it."
+ },
+ {
+  "id": 9503,
+  "t": "Call of Water",
+  "o": "Collect 6 Foul Essences and return them to Aqueous in the Hidden Reef at Bloodmyst Isle.",
+  "d": "In balance with the other elements, water is the source and sustenance of all living things.  It gives and nurtures life, and all rely upon it for their existence.  Yet, when polluted, it also brings life to an end.$B$BWe must determine the extent of the damage that has been done.  To the southwest is one such contaminated body of water that has come to be known as the Foul Pool.  Travel there and extract the foul essence from the water spirits that inhabit the pool.",
+  "p": "Have you collected the foul essences of my unfortunate sisters so soon, $N? ",
+  "c": "Thank you, $c. These should be enough so that I can examine this corruption. Then we will have a better idea of how to proceed. "
+ },
+ {
+  "id": 9504,
+  "t": "Call of Water",
+  "o": "Fill the Empty Bota Bag and then return to Aqueous in the Hidden Reef at Bloodmyst Isle.",
+  "d": "It is worse than I feared. The corruption is very potent and if unchecked it could spread to the ocean currents and be carried throughout all of Azeroth!$B$BWe are going to need a sample of the purest water to counter this malignancy. There are ruins on the untainted portion of this island, to the southeast. Go there, where the Wrathscale naga reside, and take from their fountain.$B$BUse this bota bag to gather the sample. Hurry, $N!",
+  "p": "You have the pure water from the ruins? ",
+  "c": "Water parts easily, yet put enough of it together and it will create an unstoppable force. It washes away earth and fire, and easily pushes air out of the way.$B$BWe are that unstoppable force, $N, not those that have poisoned Bloodmyst Isle! "
+ },
+ {
+  "id": 9505,
+  "t": "The Prophecy of Velen",
+  "o": "Daedal wants you to travel south and seek out the people that the injured creature mentioned.",
+  "d": "The Prophet spoke of this day: That on this island, in this new world, our allies would find us.$B$B\"We will be tested. They will ask that we pay for the sins of our fathers...\"$B$BAt the time, I did not understand the meaning behind his words, but seeing this creature and her reaction to us, it is now coming into focus. The corruption of our people has been felt even here.$B$BVenture south. It is there that we found this being. Find its kin and tell them of our people.",
+  "p": "",
+  "c": "You say that you've found one of our crew and that she is injured? I will send one of my crewmen to your village immediately!"
+ },
+ {
+  "id": 9506,
+  "t": "A Small Start",
+  "o": "Admiral Odesyus at Odesyus' Landing wants you to recover the Nautical Compass and Nautical Map stolen by the Venture Co.",
+  "d": "I am Admiral Odesyus of Alliance Naval Command. Our ship was forced to port on your island due to an infestation of sorts. It's embarrassing to even talk about, but goblins somehow managed to stow away in the holds of both of my ships.$B$BLast night, while most of the ship's crew was asleep below deck, they struck!$B$BStranger still, they took our navigation gear and jumped ship!$B$BThey disappeared into the thicket, east of here. Will you go in search of our gear? It will make for a strong gesture.",
+  "p": "Any luck, stranger?",
+  "c": "You're a resourceful one! With our navigation gear, we can figure out just how far we've veered off course.$b$bBut wait, what's this? There's something rolled up in the map. Let me see...$b$bThese are orders from Mogul Razdunk of the Venture Company. According to these plans, they're here to strip-mine the island of the crystal wreckage, then hijack our ships once they're finished.$b$bBy Bronzebeard's bushy brow! This is why they forced us to land? How could they know of our plans?$b$bI smell a traitor..."
+ },
+ {
+  "id": 9507,
+  "t": "<DEPRECATED>From the Desk of Mogul Razdunk",
+  "o": "Take the Top Secret Venture Co. Plans to Admiral Odesyus at Odesyus' Landing.",
+  "d": "According to these plans,the goblins are here for the crystal wreckage of the Exodar. It would appear that the goblins are intent on strip-mining the island of the crystals and hijacking the two Alliance ships docked off-shore once their task is complete.$B$BYou should probably take these plans to Admiral Odesyus.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9508,
+  "t": "Call of Water",
+  "o": "Bring the Head of Tel'athion to Aqueous in the Hidden Reef at Bloodmyst Isle.",
+  "d": "I have determined where the corruption is coming from.  It is the by-product of some demented research and you're going to put an end to it!$B$BJust to the southwest of the Foul Pool is a small camp.  There you will find the 'research' of Tel'athion the Impure.  This is where he produces the filth that has been seeping into the island's water.$B$BUse the pure water you obtained from Ashenvale to destroy his cache of barrels.  That will be sure to bring him out.$B$BWe will have an end to this!",
+  "p": "Have you succeeded?",
+  "c": "It is done then!  The crisis is averted and you have put in motion the restoration of the water on Bloodmyst Isle.  Over time, the water, in conjunction with the other elements, will heal itself.$B$BIt is unfortunate that the blood elves cannot see that by contaminating their surroundings they're killing themselves off as well! "
+ },
+ {
+  "id": 9509,
+  "t": "Call of Water",
+  "o": "Take the Flask of Purest Water to Farseer Nobundo inside the Exodar on Azuremyst Isle.",
+  "d": "I held back a little of the water from Ashenvale, not because I doubted your ability to deal with the situation.  Rather, I knew that you would succeed, and I wanted to make sure that you had something special to take back to Nobundo.$B$BHere, $N, take this flask of pure water.  It will ensure that you receive a very powerful water totem.$B$BFarseer Nobundo awaits your return at the Exodar.",
+  "p": "The elements have spoken to me of the great deeds you have accomplished.  Come, let us speak.",
+  "c": "You have comported yourself with wisdom beyond your years, $N.  I can sense that the water element is pleased with your actions.  It will be my great honor to take the pure water that you bear and combine its essence into your new water totem.$B$BRemember well the lessons of water as you go forward and you will gain an even greater understanding and mastery of the element."
+ },
+ {
+  "id": 9510,
+  "t": "Bristlehide Clefthoof Hides",
+  "o": "Provisioner Braknar at Mag'har Post in Hellfire Peninsula wants you to bring him 5 Bristlehide Clefthoof Hides.",
+  "d": "So you're looking to make yourself useful?  We're in very short supply of clefthoof hides, $N.$B$BIf you go southwest of here you'll find bristlehide clefthoof in abundance near a place called Falcon Watch.  Their hides are ideal for leatherworking.  Bring me a stack of them and I'll reward you appropriately.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9511,
+  "t": "Kargath's Battle Plans",
+  "o": "",
+  "d": "<TXT>The documents you found on Kargath's body detail plans on what appears to be a massive invasion on Honor Hold.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9512,
+  "t": "Cookie's Jumbo Gumbo",
+  "o": "\"Cookie\" McWeaksauce at the Odesyus' Landing wants you to bring him 6 Skittering Crawler Meat.$B",
+  "d": "The Admiral be right, ye are a resourceful one. Mayhap ye could help Cookie out?$B$BIf I serve the crew chicken for dinner again, I'll be sent to the brig fer sure.$B$BI noticed that thar be crawlers all along the coastline - lots o' crawlers! Bring me crawler meats and I'll be forever indebted to ya.$B$BHelp a reformed pirate out?",
+  "p": "Arrr... Yarr... Shiver me timbers... Er, sorry $g lad:lass;, I gotta practice me pirate lest I forget it...",
+  "c": "Bless yer heart, stranger. This'll go a long ways in liftin' the morale o' the crew.\n"
+ },
+ {
+  "id": 9513,
+  "t": "Reclaiming the Ruins",
+  "o": "Priestess Kyleen Il'dinare at Odesyus' Landing on Azuremyst Isle wants you to kill 5 Wrathscale Myrmidons, 5 Wrathscale Naga and 5 Wrathscale Sirens.",
+  "d": "While some may look at our current predicament as an unfortunate turn of events, I sense that we are here for a reason. The invisible hand of fate has pushed us in this direction. The reason why will become evident in time.$B$BTo the west lies an ancient night elf city, now in ruin and overrun with naga. It would be remiss of me to sit idly by as the naga tainted my ancestral lands.$B$BYou have shown yourself a capable $c. Honor my people and cleanse the ruins of their unwelcome inhabitants.",
+  "p": "You do a good thing for my people, $N.",
+  "c": "Elune be praised! The restless spirits may find tranquility after all."
+ },
+ {
+  "id": 9514,
+  "t": "Rune Covered Tablet",
+  "o": "Take the Rune Covered Tablet to Priestess Kyleen Il'dinare at Odesyus' Landing on Azuremyst Isle.$B",
+  "d": "You cannot make out any of the symbols on the tablet. Perhaps the priestess would be able to decipher the mysterious runes.",
+  "p": "You've found something?",
+  "c": "I can't read these runes but I know someone who can..."
+ },
+ {
+  "id": 9515,
+  "t": "Warlord Sriss'tiz",
+  "o": "Priestess Kyleen Il'dinare at Odesyus' Landing on Azuremyst Isle wants you to kill Warlord Sriss'tiz.",
+  "d": "A naga invasion would be disastrous, $N. I've seen what naga can do and I would not want to see such a catastrophe befall any being. If I were to guess, this Warlord Sriss'tiz will be hidden in a cave - probably along the coast to the west.$B$BFind Warlord Sriss'tiz and put an end to his reign.",
+  "p": "Remain vigilant!",
+  "c": "With Warlord Sriss'tiz dead, the possibility of a naga invasion is now only a distant memory. We are safe, for the time being...$B$BI must admit, I was wrong to think badly of you, $N. You have shown that you are nothing like the filth that was Archimonde. Accept this as a gift from the night elves."
+ },
+ {
+  "id": 9516,
+  "t": "Destroy the Legion",
+  "o": "Slay 6 Mannoroc Lashers, 6 Felguards and 6 Searing Infernals, and then return to Vindicator Vedaar at Forest Song in Ashenvale.",
+  "d": "I will not tolerate their existence on this world!  The Burning Legion all but destroyed our race and we fell back to settle a new home on a new world.  Then they came again.  And we retreated, over and over.$B$BNo more!$B$BThere is a remnant of the Legion to the south in the regions known as Felfire Hill, Demon Fall Canyon and Demon Fall Ridge.  They are what is leftover from a force that once long ago invaded this world.$B$BGo and destroy as many as you can before it is too late!",
+  "p": "Are there demons yet standing?",
+  "c": "You have my respect and thanks, $c. Perhaps we'll be able to create a new home here without having to worry about the Burning Legion yet again."
+ },
+ {
+  "id": 9517,
+  "t": "A Shameful Waste",
+  "o": "Bring 15 pieces of Warsong Lumber and 5 Satyrnaar Fel Wood to Gnarl at Forest Song.",
+  "d": "Welcome to Forest Song, $c. Where you see tents, there will one day be buildings, but such ambitions require a steady stream of building materials. I cannot bring myself to order our workers to fell any of the ancient trees of this grove, but our neighbors to the south and west have no such reverence for the forest.$B$BWe shall relieve the Warsong loggers of their excess, and reclaim some of the tainted wood from the satyr stronghold to the west. Bring the wood to Gnarl, who will purify it for our use.",
+  "p": "<The ancient creaks as it turns toward you.>$B$BArchitect Nemos said that you might be bringing wood salvaged from the deforesters' encampment and befouled Satyrnaar.",
+  "c": "Wood cut with orcs' crude blades is warped as surely as that exposed to elemental extremes. Nothing sound can be built with it, but I shall purify it and return it to Architect Nemos and his men for their use. Some good will come from this tragedy, after all."
+ },
+ {
+  "id": 9518,
+  "t": "Agents of Destruction",
+  "o": "Sentinel Luciel Starwhisper at Forest Song wants you to kill Overseer Gorthak, 2 Warsong Shredders, 5 Horde Deforesters, and 10 Horde Scouts.",
+  "d": "The Warsong Lumber Camp is a blight upon an embattled landscape. Every time we make progress in halting their operations, Overseer Gorthak orders his loggers to redouble their efforts!$B$BNow, the orcs are cutting more wood than they can possibly use, leaving it to rot while their blades bite into fresh trees! This is an affront to all we stand for, $N, and we will show them that we'll not suffer further destruction of our lands!$B$BGo, and do not rest until Overseer Gorthak and his minions are dead!",
+  "p": "As long as Overseer Gorthak lives, I will oppose him. What news from the lumber camp?",
+  "c": "At last we have sent a message that the orcs won't dare ignore. Any overseer or foreman who sets foot within the camp to replace Gorthak will feel my wrath!$B$BWe must press our advantage, $N, and never rest until the Warsong Lumber Camp is a distant memory and a glade of trees stands upon that ground."
+ },
+ {
+  "id": 9519,
+  "t": "The Lost Chalice",
+  "o": "Bring the Chalice of Elune to Kayneth Stillwind at Forest Song.",
+  "d": "The area to our west, now called Satyrnaar, was once a prominent shrine built by my people. It housed a priceless relic, the Chalice of Elune, entrusted to the shrine's keepers by the priests of Elune. Pilgrims once traveled to the shrine to experience the healing powers the chalice was rumored to hold.$B$BThese stories might be nothing but old wives' tales, but if there is any truth to them, the relic may hold the key to rejuvenating the wounded forest. I must know, $N.",
+  "p": "Can you feel it, $N, the touch of corruption upon the wind? If we do nothing, it will continue to advance. That is why I seek the Chalice of Elune. Were you able to find it?",
+  "c": "Excellent work, $N. There is certainly a latent power here, one that not even constant exposure to the corruption of the satyr can dim. Do you see how it still shines, after all these years?"
+ },
+ {
+  "id": 9520,
+  "t": "Diabolical Plans",
+  "o": "Deliver the Diabolical Plans to Vindicator Vedaar at Forest Song in Ashenvale.",
+  "d": "The demon dropped this parchment, which is amazingly written in the Common tongue!  The ones mentioned in it, Diathorus and Gorgannon, are the two infamous dreadlords that control the demons hereabouts.$B$BThe plans detail preparations for a demonic attack on Forest Song to the north; the location where a new draenei settlement is being established.$B$BPerhaps Vindicator Vedaar at Forest Song would be interested in these?",
+  "p": "What do you have there, $gsir:ma'am;?",
+  "c": "By the Seven Crystals of Ata'mal, this cannot be!  They plan to attack us here at Forest Song?!$B$BNot on my watch!$B$B<Vindicator Vedaar crumples the demon-scrawled plans in his fist.>$B$BNo.  We will not allow this to happen!"
+ },
+ {
+  "id": 9521,
+  "t": "Report from the Northern Front",
+  "o": "Deliver Sentinel Luciel's report to Sentinel Farsong at Silverwing Grove.",
+  "d": "The battle against the Warsong Lumber Camp isn't being waged from Forest Song alone, $N. There's a more substantial Silverwing Sentinel presence at Silverwing Grove to the southwest, near the border with the Barrens. From the grove, Sentinel Farsong directs our efforts against those who would destroy our lands.$B$BI'm a bit late in sending my latest report to Sentinel Farsong, but also hesitant to leave Forest Song unattended. If your travels take you near Silverwing Grove, would you deliver my report?",
+  "p": "What's that you have there, $C?",
+  "c": "Thank you for delivering this report, $c. From what Sentinel Luciel writes, it seems our worst fears have come to pass. With each advance we make, the Horde appears more determined to do as much damage as possible.$B$BWe can't afford to back down; the fate of our ancestral lands hangs in the balance. With more people like you on the frontlines, I'm certain we could triumph. Will you join our fight?"
+ },
+ {
+  "id": 9522,
+  "t": "Never Again!",
+  "o": "Kill Gorgannon and Diathorus the Seeker, and then return to Vindicator Vedaar at Forest Song in Ashenvale.",
+  "d": "$N, it falls to you to see that this attack by the Burning Legion never comes to pass.  You must go and slay their leaders.  Without them the rest of the demons are essentially mindless.$B$BYou will find Gorgannon in Demon Fall Canyon south beyond Felfire Hill, near Mannoroth's floating, broken spear.$B$BDiathorus the Seeker resides somewhere in the barrow den atop Demon Fall Ridge.  To find the ridge, look for a ramp up from Demon Fall Canyon near the Horde's monument to Grom Hellscream.",
+  "p": "Our night elf scouts report that preparations for the attack may still be ongoing. Those dreadlords must die soon, $N!",
+  "c": "Never again will the Burning Legion threaten us here! You have delivered us from a fight we very likely would have lost, $c.$B$BI give you thanks and the deepest gratitude of the Hand of Argus. It honors me to have you at our side."
+ },
+ {
+  "id": 9523,
+  "t": "Precious and Fragile Things Need Special Handling",
+  "o": "Archaeologist Adamant Ironheart at Odesyus' Landing on Azuremyst Isle wants you to bring him 8 Ancient Relics.",
+  "d": "The priestess tells me that the ruins to the west are what's left of a night elf civilization. That got me thinking about what my pappy used to always say about night elf ruins, \"Sonny, whenever you see night elf ruins, night elf relics are sure to be close by.\"$B$BNow what kind of a dwarf would I be if I didn't hire the first person I saw to go digging up night elf relics for me? Now get going!",
+  "p": "Don't come back without some ancient relics.",
+  "c": "My pappy would be proud! His boy strikes it big at the first set of night elf ruins he comes across... With your help, of course. Yes, don't worry, I won't leave you out of the discovery. Your name is $N, right? They'll learn all about you in Ironforge.\n"
+ },
+ {
+  "id": 9524,
+  "t": "Imprisoned in the Citadel",
+  "o": "Rescue Captain Alina inside Hellfire Citadel before she is executed.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "Alliance, here?!  Listen carefully, $c.$B$BKargath has captured several of our soldiers.  Captain Alina, an important officer is among them.  You must try to save her before she is executed.$B$BDon't worry about me, I'll find a way out as soon as I catch my breath.",
+  "p": "",
+  "c": "I thank you, $N. I must admit I didn't expect a rescue party to be on its way.$B$BI will round up the remaining prisoners and lead them back to Honor Hold."
+ },
+ {
+  "id": 9525,
+  "t": "Imprisoned in the Citadel",
+  "o": "Rescue Captain Boneshatter inside Hellfire Citadel before he is executed.$B$BThis quest must be completed in Heroic dungeon difficulty.",
+  "d": "I was fortunate to escape Kargath's prison today, $N.  Several prisoners are scheduled to be executed, an important officer among them.$B$BIt would be a huge blow against our forces if Captain Boneshatter was slain.  You must do what you can to rescue him.  I'm too weak to go on...",
+  "p": "",
+  "c": "You've brightened my day, $c. When I die, I will make sure it's in the battlefield... covered in the blood of my opponents and taking them down with me."
+ },
+ {
+  "id": 9526,
+  "t": "Reclaiming Felfire Hill",
+  "o": "Plant 8 Tree Seedlings in the Fertile Dirt Mounds and then return to Gnarl at Forest Song in Ashenvale.",
+  "d": "Little one, to the south is an area of Nightsong Woods that has in recent times come to be called Felfire Hill.  It is very sad to see the demons crawling over it, spreading their corruption.$B$BWould you do something to help take back the land?$B$BI have a number of seeds that I have been saving for such a purpose.  Take them to Felfire Hill and plant them in the fertile dirt mounds.",
+  "p": "Surely you have not yet planted all of my seeds?",
+  "c": "Good. Though it may take a great deal of your years for the seedlings to grow into ancients, in the fullness of time they will aid us in our fight against the demons at Felfire Hill.$B$BGo in peace, little $Gbrother:sister;."
+ },
+ {
+  "id": 9527,
+  "t": "All That Remains",
+  "o": "Cowlen on Azuremyst Isle wants you to recover the Remains of Cowlen's Family.",
+  "d": "We had lived peacefully among the Owlbeasts of this island for many years. You can imagine my surprise when they stormed the beach and attacked us.$B$BI fought tooth and nail but was easily overpowered. As I blacked out from the vicious blows that I had been dealt, I prayed that my family not suffer.$B$BWhen I awoke, all was quiet. The sand was soaked red with blood - their blood. They were devoured whole.$B$BI care not for vengeance, $N. I only ask that their remains be returned to me for proper burial.",
+  "p": "My wife was named Thalrisa and my daughter, Magwin.",
+  "c": "Thank you, $N. Their spirits will be at peace now."
+ },
+ {
+  "id": 9528,
+  "t": "A Cry For Help",
+  "o": "Escort Magwin through the island to her home.",
+  "d": "My family was attacked by the murlocs and owlkin of this island several weeks ago. I managed to escape but I think that both my mother and father have been slain. I don't know what I'm going to do now, but I must try and get back to my home - or what's left of it... Will you help me get through the forest?",
+  "p": "Hail, $N.",
+  "c": "<Tears of joy stream down Cowlen's face.>$B$BHow can I ever repay you for this, $N? Please, take this heirloom. It symbolizes a sacred bond of friendship, trust and love amongst night elves. You are a $Gbrother:sister; to me - from this day until the end of time..."
+ },
+ {
+  "id": 9529,
+  "t": "The Stone",
+  "o": "Obtain a Voidstone from the Dead Scar.",
+  "d": "While I'm certain your imp has proven a useful and sometimes entertaining servant, it is time you mastered a more powerful demon: the voidwalker.$b$bTravel down the Dead Scar until it is crossed by the Elrendar River.  Just south of the river, locate one of the blue glowing stones and take it.  Your path will be revealed there.",
+  "p": "",
+  "c": "As you gaze into the stone, your vision begins to swirl..."
+ },
+ {
+  "id": 9530,
+  "t": "I've Got a Plant",
+  "o": "Admiral Odesyus at Odesyus' Landing on Azuremyst Isle wants you to bring him a Hollowed Out Tree and 5 Piles of Leaves.",
+  "d": "I've wondered about this for some time now, but this proves it to be true.$B$BThere is a traitor among us.$B$BThe plans left behind by the goblins document the conspiracy. Since I don't know who it could be, I'm going to need your help in finding the traitor. None of my crew can be trusted.$B$BIf this is going to work, I'm going to need a hollowed out tree and leaves. Search near the loggers north of us for the tree. You'll need to find the leaves by yourself. Check the forest.",
+  "p": "I love it when a plan comes together...",
+  "c": "I must warn you, what I ask of you next will be dangerous. I won't think less of you if you decide not to help me out, $N."
+ },
+ {
+  "id": 9531,
+  "t": "Tree's Company",
+  "o": "Admiral Odesyus at Odesyus' Landing on Azuremyst Isle wants you to observe the meeting that is to take place between Geezle and the traitor.$B$BReturn to him when you know the identity of the traitor.",
+  "d": "According to the plans, the traitor and the leader of the goblins, Geezle, are to meet at a cove on the western island. I need you to be at that meeting, $N.$B$BRemember the tree and leaves? You're going to wear them! It's a perfect disguise.$B$BGo to the cove and look for a naga flag. If the flag is there, it means a meeting is planned. Use the disguise kit when you see the flag and wait. Eventually the traitor will show up. Let the meeting finish then return to me with the identity of the scoundrel.",
+  "p": "That traitor is going to wish he never messed with Alliance Naval Command!",
+  "c": "I can't believe it!  It was the gnome all along...  I should have known!"
+ },
+ {
+  "id": 9532,
+  "t": "Find Keltus Darkleaf",
+  "o": "Locate Keltus Darkleaf.",
+  "d": "$n, one of our scouts has taken too strong an interest in his duties.  He surveys our enemies relentlessly, but sends no reports of his findings.$b$bYou must find this spy, Keltus Darkleaf, convince him to hand over his report and return it to me as swiftly as possible.  He can be found far to the southwest, where the Elrendar River forks and flows around Goldenmist Village.  The night elves of An'daroth are his quarry, and he won't be far from them.",
+  "p": "",
+  "c": "I hope you can see I am deep under cover... at least I was."
+ },
+ {
+  "id": 9533,
+  "t": "A Helping Hand",
+  "o": "Make your way to Forest Song and speak with Architect Nemos.",
+  "d": "My people have undertaken an important endeavor in the eastern part of Ashenvale, with support and cooperation from the kaldorei.$B$BUnder the supervision of Architect Nemos and Vindicator Vedaar, they are revitalizing an old night elf outpost. The task of building won't be easy, $N, for the challenges and enemies they face are many. I know Architect Nemos and his compatriots at Forest Song would appreciate any help they can get, and he has asked me to send any interested $g men:women; his way.",
+  "p": "",
+  "c": "It's good to see another new arrival here at Forest Song.$B$BVindicator Palanaar is sending as much help as she can muster and each set of hands is appreciated.$B$BTake a look around, $c. It may not be much now, but with time and help from our night elf allies, we'll build a settlement worthy of calling home. There is much to be done here and any help you can provide would be welcome."
+ },
+ {
+  "id": 9534,
+  "t": "Destroy the Legion",
+  "o": "Slay 6 Mannoroc Lashers, 6 Felguards and 6 Searing Infernals, and then return to Valusha at Splintertree Post in Ashenvale.",
+  "d": "The remains of the demonic Burning Legion have been making raids against our Warsong Lumber Camp!$B$BNo more!$B$BThe demons are attacking from the areas known as Felfire Hill, Demon Fall Canyon and Demon Fall Ridge to the east.$B$BGo and destroy as many as you can to bring glory to both yourself and the Horde!",
+  "p": "Are there not demons yet standing?  You call yourself a $r?  This is no time to be taking a break from the fighting!",
+  "c": "That's better! There's nothing quite like ridding our world of a demon. And they make for worthy opponents as well, unlike the weak races of the Alliance."
+ },
+ {
+  "id": 9535,
+  "t": "Diabolical Plans",
+  "o": "Deliver the Diabolical Plans to Valusha at Splintertree Post in Ashenvale.",
+  "d": "The demon dropped this parchment, which is amazingly written in the Orcish tongue!  The ones mentioned in it, Diathorus and Gorgannon, are the two infamous dreadlords that control the demons hereabouts.$B$BThe plans detail preparations for a demonic attack on Splintertree Post to the northwest.$B$BYou're certain that Valusha at Splintertree Post would be interested in these.",
+  "p": "What do you have there, scout?",
+  "c": "Dreadlords!  They plan to attack us here at Splintertree Post?!$B$BNot while I still draw breath!$B$B<Valusha crumples the demon-scrawled plans in her fist.>$B$BNo.  We will not allow this to happen!  They are a blight upon our world!"
+ },
+ {
+  "id": 9536,
+  "t": "Never Again!",
+  "o": "Kill Gorgannon and Diathorus the Seeker.",
+  "d": "$N, you will see to it that this attack by the Burning Legion never comes to pass!  Go and slay these dreadlords!  Without them the rest of the demons are essentially mindless.$B$BYou will find Gorgannon in Demon Fall Canyon south beyond Felfire Hill, near Mannoroth's floating, broken spear.$B$BDiathorus the Seeker resides somewhere in the barrow den atop Demon Fall Ridge.  To find the ridge, look for a ramp up from Demon Fall Canyon near the monument to Grom Hellscream.",
+  "p": "Those dreadlords must die soon, $N!",
+  "c": "Never again will the Burning Legion make slaves of the orcs, or any other race of the Horde!$B$BBravely fought, $c! You have the true heart of the Horde beating inside of you! You give us much honor!"
+ },
+ {
+  "id": 9537,
+  "t": "Show Gnomercy",
+  "o": "Admiral Odesyus at Odesyus' Landing wants you to recover the Traitor's Communication from Engineer \"Spark\" Overgrind.",
+  "d": "Spark must be brought to justice!$B$BI need you to go down to the beach and find that deceitful gnome. Once you find him, get whatever information you can out of him!$B$BIf a high ranking official of the Alliance has committed treasonous acts, who knows how many others are corrupt?$B$BAnd $N, use force if you have to...$B",
+  "p": "Did you find the lying dog?",
+  "c": "Incredible! This was all part of their master plan!$B$BThis information must reach the king and your own leaders. The implications are staggering."
+ },
+ {
+  "id": 9538,
+  "t": "Learning the Language",
+  "o": "Read the Stillpine Furbolg Language Primer that Aurren gave you and interact with the Totem of Akida at Azure Watch.",
+  "d": "I think I've cracked it, $N!$B$B<Aurren points to the totem.>$B$BAll that we need to know about the Stillpine furbolg language is imprinted on their totems. With just a rudimentary understanding of how their symbols work, we can study the totems and learn to communicate with the furbolgs.$B$BI've written down the basics of the symbol matrix on this parchment. Study it and then examine the totem. It should lead you to the next language totem.$B$BSpeak to Arugoo when you return an educated $r!",
+  "p": "You can hear a low-pitched hum emanating from the totem.",
+  "c": "The totem has various primal markings. You see owls, bears, wolves and stags carved into the surface.$B$BYou note a strange collection of symbols that makes your mouth form the word A-K-I-D-A."
+ },
+ {
+  "id": 9539,
+  "t": "Totem of Coo",
+  "o": "Find the Totem of Coo using the clues provided to you.",
+  "d": "You begin to read the totem, barely able to pronounce the awkward words and phrases. Slowly, words start to form in your head. You think that the totem is telling you to go up the nearby hill, to the northeast.",
+  "p": "",
+  "c": "The totem has various primal markings. You see owls, bears, wolves and stags carved into the surface of the totem.$B$BYou note a strange collection of symbols that makes your mouth form the word C-O-O."
+ },
+ {
+  "id": 9540,
+  "t": "Totem of Tikti",
+  "o": "Find the Totem of Tikti using the clues provided to you.",
+  "d": "You begin to read the totem, better able to pronounce the words and phrases. Words start to form in your head. You think that the totem is telling you to go across the Crystalbrook river to the east. Perhaps your destination is on the other side of the river.",
+  "p": "",
+  "c": "The totem has various primal markings. You see owls, bears, wolves and stags carved into the surface of the totem.$B$BYou note a strange collection of symbols that makes your mouth form the word T-I-K-T-I."
+ },
+ {
+  "id": 9541,
+  "t": "Totem of Yor",
+  "o": "Find the Totem of Yor using the clues provided to you.",
+  "d": "The symbols on this totem seem to translate much faster. The patterns and imagery all seem to blend into familiar words. You are fairly certain the totem is pointing you south, down the river. Something is at the bottom of the river itself.",
+  "p": "",
+  "c": "The totem has various primal markings. You see owls, bears, wolves and stags carved into the surface of the totem.$B$BYou note a strange collection of symbols that makes your mouth form the word Y-O-R."
+ },
+ {
+  "id": 9542,
+  "t": "Totem of Vark",
+  "o": "Find the Totem of Vark using the clues provided to you.",
+  "d": "You no longer see unrecognizable symbology in the totems. The totem of Yor reads to you just as easily as your native tongue.$B$BThe markings identify another furbolg den, due west of here. You are able to expertly decipher the language on the totem and know that your destination is Bristlelimb Village. Yor will guide you but if you get lost, you know that you are able to take the ancient elven road in the forest leading west to reach your destination.",
+  "p": "",
+  "c": "As you read the totem, your mouth forms the word V-A-R-K. You understand this to mean justice."
+ },
+ {
+  "id": 9543,
+  "t": "Atonement",
+  "o": "Speak to Amaan the Wise at the Temple of Telhamat in Hellfire Peninsula.",
+  "d": "Our history with the orcs is one of constant conflict, $N.  We were once near driven to extinction due to their bloodlust and have since then avoided them even when not under demonic influence.$B$BYet, this retaliation... it's not what Sedai would've wanted.  Speak with our elder, Amaan the Wise.  He will help shed light on these events.",
+  "p": "",
+  "c": "Can I offer you any assistance, $N?  You sound troubled."
+ },
+ {
+  "id": 9544,
+  "t": "The Prophecy of Akida",
+  "o": "Free 8 Stillpine Captives from cages found in Bristlelimb Village. Return to Arugoo of the Stillpine at Azure Watch when you have completed this task.",
+  "d": "The images on this totem depict a war between the Stillpine and the Bristlelimb furbolg tribes. The etchings show that the Bristlelimb have done unconscionable things to the furbolgs of Stillpine.$B$BAmidst the chaos, a prophecy has begun to unfold: A hero will rise - not of furbolg blood - and save the Stillpine tribe.$B$BSlay Bristlelimb furbolgs at Bristlelimb Village for their keys. Use the keys to free the Stillpine captives. Return to Arugoo of the Stillpine when you have freed them all!$B",
+  "p": "[Furbolg] So the prophecy of Akida is true... A hero has been delivered to us.",
+  "c": "[Furbolg] The prophecy spoke of one that would rise and deliver us from the oppressive grasp of Bristlelimb -- that the spirits themselves would herald the arrival of this hero.$B$BAnd now, you have come.$B$BI humble myself before you, great one."
+ },
+ {
+  "id": 9545,
+  "t": "The Seer's Relic",
+  "o": "Amaan the Wise at the Temple of Telhamat in Hellfire Peninsula wants you to return to Sedai's Corpse, northeast of the Temple of Telhamat, and use the Seer's Relic at that location.  Return to him after you've completed this task.",
+  "d": "The stubborn close their mind and convince themselves of one truth.  The wise keep an open mind to the different possibilities leading to and stemming from the present.$B$BTake this relic with you to where you found Sedai.  See not with your eyes, $N, but with your mind.",
+  "p": "Have you seen the vision yet, $N?",
+  "c": "I hope the vision you witnessed helped you gain some perspective on Sedai's death.  The relic showed you a likely series of events leading up to the present.  The truth may have been different, we'll never know for sure.$B$BWould you act differently knowing what you know now?$B$BWho can say whether our conflict with the orcs will continue?  What's important is to remain open to the possibilities."
+ },
+ {
+  "id": 9546,
+  "t": "Fulfilling a Promise",
+  "o": "Arugoo of the Stillpine has asked that you free 8 Stillpine Captives from cages found in Bristlelimb Village.",
+  "d": "The prophecy spoke of one that would rise and deliver us from the oppressive grasp of Bristlelimb -- that the spirits themselves would herald the arrival of this hero.$B$BAnd now,you have come.$B$BI humble myself before you,great one. I beg of you,save our younglings. They were taken by the Bristlelimb while our guard was down. You will find them in cages at Bristlelimb Village,to the southwest. The Bristlelimb furbolgs hold the keys to the cages. Strike them down and take their keys. Release my kin.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9547,
+  "t": "Call of Air",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "$N, Farseer Nobundo has been asking for you.  It must be time for you to learn the secrets of air, the last of the elements!$B$BI want you to know that I'm very proud of all that you have accomplished thus far.  I know that you have great things ahead of you.",
+  "p": "",
+  "c": "And finally we come to it, the last of the four great elements: air. Do you think yourself wise enough to continue, $N?"
+ },
+ {
+  "id": 9548,
+  "t": "Pilfered Equipment",
+  "o": "Bring Clopper's Equipment back to Clopper Wizbang, who is hiding in a beached turtle shell.",
+  "d": "Shh! Keep your voice down and don't call attention to me.$B$BIf the murlocs detect my presence, the experiment will be ruined! I've already come perilously close to contaminating my data.$B$BWhile I was foraging yesterday, one of them must've wandered too close and discovered my camp. I returned just in time to see two of them carrying off a crate with most of my equipment! It's bound to be in one of their settlements around here, but I can't risk revealing my presence. Are you willing to help?",
+  "p": "Did you manage to find my equipment?",
+  "c": "This is fantastic! The theft of my equipment has given me more insight into the nature of these murlocs than I could have possibly gained in weeks of observations!$B$BI know what I'm going to say in my report already.$B$B'When faced with the products of a technologically superior culture, the Blacksilt displayed none of the curiosity characteristic of emerging cultures in humanoid species.'$B$BIt's brilliant! The gentlemen in Ironforge are going to love it! I can't thank you enough, $N."
+ },
+ {
+  "id": 9549,
+  "t": "Artifacts of the Blacksilt",
+  "o": "Bring 3 Crude Murloc Idols and 6 Crude Murloc Knives to Clopper Wizbang, who is hiding in a beached turtle shell.",
+  "d": "My observations and writings about the Blacksilt murlocs are quite illuminating, $N, but they are just the beginning. I plan to return to Ironforge with items produced by the Blacksilts' rudimentary crafting skills.$B$BThe problem is that the Blacksilt carry these items with them at all times, and I can't have their blood on my conscience. If you're willing to help me gather the idols carried by Blacksilt seers and crude knives of the Blacksilt warriors and shorestrikers, I won't ask how you came by them.",
+  "p": "Do you have those samples for me to send back to Ironforge?",
+  "c": "Astounding, simply astounding! These are perfect, $N. I can already see them under the glass in the museum in Ironforge. The text for the display is virtually writing itself in my head!$B$BYour help has been invaluable in getting my studies back on track. How do you spell your name? I'll make sure it appears in my report as co-author.$B$BOne of the chaps on the ship gave me this 'treasure map' to cover a gambling debt, but mythology isn't my area of study. Superstitious lot, sailors. "
+ },
+ {
+  "id": 9550,
+  "t": "A Map to Where?",
+  "o": "Locate the pavilion described by the map and search for what the map's maker was trying to record.",
+  "d": "The crudely-drawn map reveals nothing of its maker, but it appears to have been drawn with an unsteady hand. Wavering lines and symbols depict a small pavilion with broken columns located to the west of a partially submerged tower. $B$BIf the map is to be believed, this cluster of ruins appears to be located on the eastern coast of the island. You have no idea what you'll find, but it was important enough for the map's creator to record.",
+  "p": "Perhaps this old journal is what the map is referencing.",
+  "c": "Examining the book carefully, you conclude that it must be a journal. Its pages are filled with an elegant script differing from that of the map. The text of many of the pages is obscured by drawings and writing in the mapmaker's hand.$B$BIt's nearly impossible to make out the text beneath the mapmaker's tales of drunken carousing during shore leave. "
+ },
+ {
+  "id": 9551,
+  "t": "Call of Air",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall inside the Exodar on Azuremyst Isle.",
+  "d": "$N, Farseer Nobundo has been asking for you.  It must be time for you to learn the secrets of air, the last of the elements!$B$BI want you to know that I'm very proud of all that you have accomplished thus far.  I know that you have great things ahead of you.",
+  "p": "",
+  "c": "And finally we come to it, the last of the four great elements: air. Do you think yourself wise enough to continue, $N?"
+ },
+ {
+  "id": 9552,
+  "t": "Call of Air",
+  "o": "Speak with Velaada at Wildwind Peak on Azuremyst Isle.",
+  "d": "The great spirit of air calls out to you, $N, and it is time for you to take heed.$B$BI wish for you to travel up the Wildwind Path on the north facing of the mountain that the Exodar has crashed into.  At its peak you will find a cave and within will be one of my most accomplished pupils, Velaada.$B$BPlease, listen to her wisdom and do as she bids.  When you return you will have a greater understanding of the element of air.",
+  "p": "",
+  "c": "It was whispered to me on the winds that you would be coming, $c.$B$BFarseer Nobundo thinks very highly of you, and from what I have heard of your travels, so do I."
+ },
+ {
+  "id": 9553,
+  "t": "Call of Air",
+  "o": "Speak with Susurrus at Wildwind Peak on Azuremyst Isle.",
+  "d": "While air may seem ethereal, it is an all pervasive force, covering and permeating everything around us.$B$BThough you cannot see it, the rocks of this cave are composed mostly of air, the waters of the oceans are saturated in it and without it, fire cannot be sustained.  Just don't let those elements hear you repeat that!$B$BWho you really wish to speak with for such wisdom is nearby.  At the northern edge of the precipice, Susurrus awaits you.  It is from him that you will gain understanding.",
+  "p": "",
+  "c": "I have been awaiting your arrival, $c. You come seeking wisdom, and something else I sense.$B$BVery well, let us begin."
+ },
+ {
+  "id": 9554,
+  "t": "Call of Air",
+  "o": "Return to Farseer Nobundo at the Exodar on Azuremyst Isle with the Whorl of Air.",
+  "d": "While my brothers and sisters of the other elements have demanded that you perform various tasks, I will not ask anything further of you.  I think that you have done enough to 'atone' for the accident of your ship falling to this place from my skies.  I can see that you have all the wisdom within you already to use the element of air wisely.$B$BTake this portion of my being back to Farseer Nobundo so that he might help you fashion your totem.  And when you're ready, I will fly you back down to the Exodar.",
+  "p": "Back so soon?  Your hair looks ruffled.$B$B<Nobundo grins knowingly.> ",
+  "c": "I am proud of you, $N.  You have persevered where others falter, and in the process you've gained a greater understanding of the elements and yourself.  Remember their lessons as you go through life and you will be the wiser for it.$B$BNow, hand me the whorl from Susurrus so that I may imbue it into your air totem.  As with the other totems, it will serve as both a focus and a reminder of the connection that you have forged with the elements. "
+ },
+ {
+  "id": 9555,
+  "t": "Call of Fire",
+  "o": "Speak with Farseer Nobundo at the Crystal Hall in the Exodar.",
+  "d": "I am thankful that you have chosen the difficult path of the shaman. Few enough do, but I foresee it as critical to our future that we learn shamanism from the Broken.$B$BThey are called that, but once they were draenei. Fel magics transformed them, and that is why they cannot call upon the power of the Light. Some disapprove of them and the shamanism they teach, but they are not evil.$B$BI wish you to speak with Farseer Nobundo. He is the wisest shaman I know and you will learn much with his guidance.",
+  "p": "",
+  "c": "Greetings. It is always heartening to meet a $R who is open to the way of shamanism. There are so few.$B$BYou have learned not to judge the flame for its outward appearance, just as you should not judge mine.$B$BYou are here because you are ready to create your fire totem."
+ },
+ {
+  "id": 9556,
+  "t": "To The Victor...",
+  "o": "Collect a bottle of Stratholme Holy Water from within the city of Stratholme and deliver it to the Lordaeron Mage within the Mage Quarter of Stormwind or the Undercity when your side is victorious in the Eastern Plaguelands.",
+  "d": "You've no doubt been fighting long and hard among the towers, $r. We would like to give something back to you in return for your defense of these lands, but first, you must prove to us you understand the weight of the tragedies that took place here.$b$bWalk the streets of Stratholme and find a vial of the holy water. Once you have it, travel to the mage quarter of Stormwind or the Undercity... There, if you are victorious within these lands, you will find my colleague.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9557,
+  "t": "Deciphering the Book",
+  "o": "Take the Ancient Journal to Anchorite Paetheus in Blood Watch.",
+  "d": "Lacking the means to read the book's contents, you think about who might be able to help you separate the author's words from the mapmaker's scrawl.$B$BRemembering Anchorite Paetheus's collection of artifacts from countless cultures, you wonder if his experienced eye might be able to help you decipher the book's contents.",
+  "p": "The Light shine upon you in all your endeavors, $c. What is it you have there?",
+  "c": "Hmm... this is most intriguing. Yes, I should be able to make out what the original author wrote in the pages of this book.$B$BI should have everything I need for the process. This should only take a moment."
+ },
+ {
+  "id": 9558,
+  "t": "The Longbeards",
+  "o": "Look for Gremni Longbeard northwest of the Den of Haal'esh, to the far west of Honor Hold in Hellfire Peninsula.",
+  "d": "We were having a problem with arakkoa bandits raiding many of our supply caravans, so I hired some dwarves to take care of them.$B$BThey were brothers; Gremni Longbeard was the oldest.$B$BI'm a little worried about them.  Those crazy dwarves packed more ale than food or ammunition!  Maybe you can go check up on them?$B$BThe arakkoa's hideout, the Den of Haal'esh, can be found to the far west of here - beyond the Great Fissure.  They set up camp northwest of there, south of Dustquill Ravine.",
+  "p": "",
+  "c": "How'd you find us, $c?  No matter, I imagine you were sent here to give us a hand.  Let's get to work then!"
+ },
+ {
+  "id": 9559,
+  "t": "Stillpine Hold",
+  "o": "Speak with High Chief Stillpine at Stillpine Hold.",
+  "d": "Promised one, you must travel north to the home of my people - Stillpine Hold. It is there that you will face your most daunting challenge.$B$BGo now, High Chief Stillpine awaits your arrival.",
+  "p": "",
+  "c": "For centuries, we lived in relative peace with the creatures of the land. Several months ago, Kurz began to see dark omens. The peace that we enjoyed for so long was to be lost. The extent of the catastrophe could not be known!$B$BSo it would be that the gods would shatter our land - turning both friend and foe against us. But there was something else... Amidst the chaos, a hero would rise: A hero not of Stillpine blood. The Promised One would deliver us from devastation.$B$BThat prophesied hero was you."
+ },
+ {
+  "id": 9560,
+  "t": "Beasts of the Apocalypse!",
+  "o": "Moordo at Stillpine Hold on Azuremyst Isle wants you to bring him 8 Ravager Hides. ",
+  "d": "My brother and I were hunting in the woods to the east when we were ambushed by strange, insect-like beasts. Such aberrations have never before been seen in Azuremyst! Could they be a sign of the coming apocalypse? The apocalypse that YOU are destined to prevent?$B$BIf you truly are the Promised One, you will strike the creatures of the apocalypse down... and bring me their hides. From their hides, I can fashion armor of great power!$B$BFind them to the east, beyond the road.",
+  "p": "They are ugly little creatures. Even the Blind Watcher could see them... and he's blind.",
+  "c": "Not only is the prophecy true, this armor is also amazing! Surely it is armor fit for a champion! And I will sell it to you at discounted prices, furless one.$B$BI jest... The first piece is complimentary."
+ },
+ {
+  "id": 9561,
+  "t": "Nolkai's Words",
+  "o": "Find the location described in Nolkai's journal and discover his long-buried possessions.",
+  "d": "The translation is ready now, $N.$B$B<Anchorite Paetheus points out a block of text at the end of his translation.>$B$B'The enemy is nearly upon us. We've gathered up all the survivors and retreated to the temple to the east. It's the last ground we truly hold on the island, and there is a sense among the survivors that we will make our last stand here. I've taken care to bury my last few possessions on the grounds of the temple, with the hope that someone will find them and know what happened here.'",
+  "p": "",
+  "c": "Grasses and shrubs cover an unnatural bulge in the earth.$B$BA few minutes spent digging reveals an old box, almost certainly the one mentioned in Nolkai's journal."
+ },
+ {
+  "id": 9562,
+  "t": "Murlocs... Why Here? Why Now?",
+  "o": "Gurf at Stillpine Hold on Azuremyst Isle wants you to recover 5 sacks of Stillpine Grain.",
+  "d": "These are dark days, Promised One. Even the murlocs are kicking our tails - literally. Unfortunately, more than just my ego has been bruised.$B$BWhile our relationship with the Siltfin murlocs had always been tenuous, never could we have imagined that they would have the gall to attack us and steal from our food stores! Travel west to the Silting Shore and recover our stolen food-stuffs!$B$BAnd if you see a dark-skinned murloc with a patch of white fur stuck in between his webbed toes... ",
+  "p": "A murloc kicked me in the behind and spit on me... in broad daylight!",
+  "c": "Mmmmm... Delicious grain... Parkat will be delighted!"
+ },
+ {
+  "id": 9563,
+  "t": "Gaining Mirren's Trust",
+  "o": "Mirren Longbeard wants you to bring him 1 Nethergarde Bitter.  You must also attain Friendly reputation with Honor Hold to complete this quest.",
+  "d": "So you want to gain our trust?  I don't trust many people these days.$B$BWe lost one of our own not long ago to the arakkoa.  It's got me a bit on edge.$B$BTell you what, if you can prove your loyalty to Honor Hold and... bring me a mug of Nethergarde Bitter... yes, that sounds rather good about now... I'll have a deal to offer you then.$B$BBernie at Nethergarde Keep keeps the bitter in stock.",
+  "p": "Having trouble finding the bitter?  Good old Bernie at Nethergarde Keep should stock barrels of it.$B$BUnless he's run out... that would be disastrous!",
+  "c": "Why, yes!  You seem to be quite an OK $r.  I suppose I can trust you."
+ },
+ {
+  "id": 9564,
+  "t": "Gurf's Dignity",
+  "o": "Return Gurf's Dignity to Gurf at Stillpine Hold on Azuremyst Isle.",
+  "d": "You recover the piece of fur that Gurf had \"lost\" in his struggle with the murlocs. Return the fur to Gurf and let him know that the fearsome Murgurgula has been slain.",
+  "p": "Is that what I think it is?",
+  "c": "<Gurf spits on the clump of fur and tries to affix it to the hairless patch on his backside.>$B$BThis will have to do for now! Hopefully one of the shaman will be able to repair the damage."
+ },
+ {
+  "id": 9565,
+  "t": "Search Stillpine Hold",
+  "o": "Search Stillpine Hold for clues.",
+  "d": "As High Chief, my immediate concern is the root of the corruption in Stillpine Hold.$B$BWhy did the wildkin - once our allies - attack us? Why have they taken residence in Stillpine Hold?$B$BPerhaps something inside will hold the answer. Search Stillpine Hold for clues as to the source of corruption.",
+  "p": "",
+  "c": "The blood crystal radiates a sickly aura that seeps into the water of the cave."
+ },
+ {
+  "id": 9566,
+  "t": "Blood Crystals",
+  "o": "Speak with High Chief Stillpine at Stillpine Hold.",
+  "d": "On the surface, the crystal appears to be a piece of the Exodar. Something has gone terribly wrong with this crystal, however, as it is blood red and rapidly dissolving into the water supply of the cave.$B$BThis may explain the unusually aggressive behavior of the creatures in Azuremyst. Return to High Chief Stillpine with this information.$B",
+  "p": "",
+  "c": "These blood crystals that you saw; my scouts have seen many more to the north.$B$BI thank you for aid but now ask that you leave me to confer with the elders. I will call for you once I have spoken with the other elders of the village."
+ },
+ {
+  "id": 9567,
+  "t": "Know Thine Enemy",
+  "o": "Find the Nazzivus Monument in Nazzivian and retrieve a Nazzivus Monument Glyph. Return to Vindicator Aalesia in Blood Watch when you have one of the glyphs.",
+  "d": "It's good to see another new face here in Blood Watch, $c. Although the blood elves are the most immediate threat, there are other sinister creatures that call Bloodmyst Isle home.$B$BThe Nazzivus satyr are of particular concern. They are foul, demonic creatures, commanding dark magics and feeding on the corruption created by the Exodar's crash.$B$BWe must hold them in check, but first we must learn more about them. Go southwest to Nazzivian and learn what you can from their grotesque monument.",
+  "p": "Were you successful in obtaining knowledge of the Nazzivus satyr?",
+  "c": "Well done, $N. Let me see what I can learn from this glyph, so we can plan our next move."
+ },
+ {
+  "id": 9568,
+  "t": "On the Offensive",
+  "o": "Vindicator Aalesia at Blood Watch wants you to kill 10 Nazzivus Satyr, 5 Nazzivus Rogues, and 5 Nazzivus Felsworn.",
+  "d": "It's worse than I had imagined, $N. We draenei know well what comes of selling one's soul to the Burning Legion in return for promises of power and immortality.$B$BThe satyr on this island, the Nazzivus, are descendents of that first, twisted creature who allied with the Legion. I fear that they will find a way to use the power of the Exodar's crystals against us.$B$BYou've seen what they've done to the land. Imagine what the satyr could do with them. Go southwest to Nazzivian and begin our offensive!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9569,
+  "t": "Containing the Threat",
+  "o": "Kill 5 Axxarien Shadowstalkers, 5 Axxarien Hellcallers, and Zevrax, then gather 5 Corrupted Crystals and return to Vindicator Aalesia in Blood Watch.",
+  "d": "Now that we have made our presence known to the satyr, we must send a message that we will not tolerate the Burning Legion's hounds in these lands.$B$BToo long have the draenei fled in the wake of the Legion and its minions, $N. Wherever they have found us, they have shown no mercy.$B$BWe must not permit the satyr to exploit the Exodar's crash and use the corrupted crystals as weapons. Go north to where their leader resides in Axxarien, destroy him, and recover the corrupted crystals he has been gathering!",
+  "p": "<Vindicator Aalesia seems to look through you rather than at you, her mind fixed on dealing with the satyr.>$B$BHave you moved against the satyr leader as I have asked?",
+  "c": "Without their leader, and with the recovery of the corrupted crystals underway, we can safely keep the satyr in check. Light knows how many more of these wretched creatures are out there.$B$BHarbinger Mikolaas and I are grateful for the help you've provided in dealing with the satyr before they could become a larger threat. Your work stands as a reminder that vigilance is the key to victory against the Legion and its minions."
+ },
+ {
+  "id": 9570,
+  "t": "The Kurken is Lurkin'",
+  "o": "Kurz the Revelator at Stillpine Hold on Azuremyst Isle wants you to kill the Kurken and bring back the Kurken's Hide.",
+  "d": "After the crystal storm had subsided, a beast of myth appeared in our village. Brought here by the invading wildkin, this beast, the Kurken, laid waste to our village. Many Stillpine were slain in defense of our lands by this fiend and many have since lost their lives attempting to subdue the beast.$B$BIn my visions, I have seen one defeat the Kurken. The one must be you, $N. You are our only hope. Enter Stillpine Hold and slay the Kurken. Bring me his hide as proof of deed.$B",
+  "p": "<Kurz grunts at you.>",
+  "c": "The Promised One has emerged victorious!$B$BThe prophecy is nearly complete. Now about that hide..."
+ },
+ {
+  "id": 9571,
+  "t": "The Kurken's Hide",
+  "o": "Deliver the Kurken's Hide to Moordo at Stillpine Hold.",
+  "d": "Take the Kurken's hide to Moordo, on the other side of the village. He will fashion the hide into an item of your choice.$B",
+  "p": "Hello, hero!",
+  "c": "This is the strongest armor I've ever made! Make good use of it, $N."
+ },
+ {
+  "id": 9572,
+  "t": "Weaken the Ramparts",
+  "o": "Slay Watchkeeper Gargolmar, Omor the Unscarred and the drake, Nazan.  Return Gargolmar's Hand, Omor's Hoof and Nazan's Head to Caza'rez at Thrallmar in Hellfire Peninsula.",
+  "d": "Quick, there isn't much time.  Thrallmar's existence balances on the razor's edge!$B$BWe're caught between Hellfire Citadel in the west and the Burning Legion to the east.  With the Legion's attention turned toward the Dark Portal we must take this opportunity to strike at the fel orcs of Hellfire Citadel.  The key to this is to first break through their ramparts!$B$BGo there, slay their leaders, and then bring back proof to Caza'rez across the room from me!",
+  "p": "$N, right?  Stok'ton told me to be expecting your report.$B$BI trust that you bring good news?",
+  "c": "It's a good start.  With those three dead their forces should be in disarray.  And with their artillery up there silenced we'll have an easier time getting close enough to take the citadel!$B$BBut there's more to this than meets the eye - I can feel it - so I'm going to have something else for you to do.$B$BFor the time being, though, you've done well.  Take your pick of any of these from the Thrallmar armory."
+ },
+ {
+  "id": 9573,
+  "t": "Chieftain Oomooroo",
+  "o": "Stillpine the Younger at Stillpine Hold on Azuremyst Isle wants you to slay Chieftain Oomooroo and 9 Crazed Wildkin.$B",
+  "d": "I am Stillpine the Younger, heir to the Stillpine legacy. As you can see, my defenders have set up a death trap for the raving wildkin that attack from inside Stillpine Hold. While we are able to hold them off out here, none of my defenders have been able to infiltrate the hold. If you could get inside and slay their leader, it might give us an opportunity to strike!$B$BFind Chieftain Oomooroo and destroy him. Slay any crazed wildkin that you encounter inside as well.",
+  "p": "Is the task complete?",
+  "c": "This may very well be the opportunity that we needed! I will send an attack at once! The Stillpine thank you for your service, $N!"
+ },
+ {
+  "id": 9574,
+  "t": "Victims of Corruption",
+  "o": "Bring 6 pieces of Crystallized Bark to Morae in Blood Watch.",
+  "d": "Bloodmyst Isle was forever changed by our arrival. The Exodar's crash scattered debris all over the islands and I think it's beginning to have an adverse effect on the wildlife.$B$BBefore I can be certain of my conclusion, I'll need to get a closer look. The crystals seem to have affected the trees the fastest, so it seems that the treants would be the most likely to show symptoms. If you bring me samples of bark from corrupted treants, I can begin my in-depth studies.",
+  "p": "Were you able to get the samples I need?",
+  "c": "There's more than enough here for my research. Thank you, $N. If you find any other evidence that the crystals are corrupting Bloodmyst's native creatures, let me know right away."
+ },
+ {
+  "id": 9575,
+  "t": "Weaken the Ramparts",
+  "o": "Slay Watchkeeper Gargolmar, Omor the Unscarred and the drake, Nazan.  Return Gargolmar's Hand, Omor's Hoof and Nazan's Head to Gunny at Honor Hold in Hellfire Peninsula.",
+  "d": "Quick, $c, there isn't much time.  Honor Hold's existence balances on the razor's edge!$B$BWe're caught between Hellfire Citadel in the west and the forces of the Burning Legion to the east.  With the Legion's attention turned toward the Dark Portal we must take this opportunity to strike at the fel orcs of Hellfire Citadel.  The key to this is to first break through their ramparts!$B$BGo there, slay their leaders, and then bring back proof to Gunny across the hall here from me!",
+  "p": "$N, right?  Chadwick told me to be expecting your report.$B$BWHAT are you doing in my presence?!  Is your assignment complete?  Are you a complete and utter lackwit?  You make me want to vomit!$B$BNow get your worthless hide up on those ramparts and do what you were instructed to do!  Do you hear me?!",
+  "c": "Do you know what I hate worse than being wrong? Losing gold on a bet that you couldn't pull it off, sweetheart.$B$BOutstanding!  With those three dead their forces should be in disarray.  And with their artillery up there silenced we'll have an easier time getting close enough to take the citadel!$B$BI have a feeling there's more to this than meets the eye, though - so I'm going to have something else for you to do.  Here, take one of these from the armory."
+ },
+ {
+  "id": 9576,
+  "t": "Cruelfin's Necklace",
+  "o": "Bring the Red Crystal Pendant to Morae at Blood Watch.",
+  "d": "Examining the crudely constructed pendant, you notice the crystal pulsating softly. Though it emits little light, you can almost feel the crystal radiating a sense of wrongness.$B$BYou're not quite sure what might have possessed Cruelfin to create this pendant, but the find is too important to ignore. You should probably show it to someone at Blood Watch.",
+  "p": "What is it you have there?",
+  "c": "This is most curious, $c. I don't believe we've ever seen the murlocs wearing any kind of adornment before.$B$BGiven the corrupting influence that the crystal shards are known to have, the murloc that wore this pendant must have believed it granted him power over his fellows. I wouldn't be surprised if he had rapidly outgrown his fellow murlocs and gained in strength."
+ },
+ {
+  "id": 9577,
+  "t": "DAILY TEST QUEST (PVP)",
+  "o": "Speak with <QUESTGIVER> in the <AREA>.",
+  "d": "<NYI>Seek <QUESTGIVER> in <LOCATION>.  S/he wishes for you to aid them in a difficult task.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9578,
+  "t": "Searching for Galaen",
+  "o": "Search for Morae's husband Galaen.",
+  "d": "Do you think often of your family, $N? There were a number of families aboard the Exodar, but I've heard of very few being reunited.$B$BI, myself, am looking for traces of my husband Galaen, who was a technician in the Cryo-Core. The wreckage of it is located to the west, and it's swarming with blood elves!$B$BI must find out what became of Galaen! Even news of his death is better than never knowing. My husband will be wearing a pendant identical to my own; they were a gift from my sister.",
+  "p": "",
+  "c": "The corpse appears to be dressed in the manner of an Exodar technician, but the pendant described by Morae is absent."
+ },
+ {
+  "id": 9579,
+  "t": "Galaen's Fate",
+  "o": "Bring Galaen's Amulet to Morae at Blood Watch.",
+  "d": "You have no means of identifying the corpse as Galaen with the information Morae gave you, but the clothing appears to have been torn in search of valuables.$B$BThe blood elves in the area would've claimed anything of value from the wreckage, including Galaen's jeweled amulet.$B$BAlthough her husband did not survive the crash, you believe that Morae would be grateful if you recovered her husband's amulet from the blood elves.",
+  "p": "<Morae looks at you hopefully.>$B$BDid your search turn up any trace of Galaen?",
+  "c": "<You tell Morae of your findings in the wreckage of the Cryo-Core.>$B$BSo... he's...$B$BI guess I knew on some level, but just wouldn't let myself believe it. It's not the news I was hoping for, but you have my deepest thanks for finding Galaen."
+ },
+ {
+  "id": 9580,
+  "t": "The Bear Necessities",
+  "o": "Bring 8 Elder Brown Bear Flanks to Tracker Lyceon in Blood Watch.",
+  "d": "As I'm sure you've seen in your time on Bloodmyst Isle, very little remains unchanged by our arrival. My training and experience has taught me that even the products of an environment like this one can be put to use.$B$BWith so few resources, we must rely on our ingenuity to provide for us. I've been supplementing our stores with meat from the bears that wander this island. With the proper preparation, it can safely be eaten. If you're going to be out in the field, why not help replenish our stocks?",
+  "p": "How goes the hunt, $N?",
+  "c": "This will keep us supplied for quite a while, and preparing it for consumption will certainly keep me busy. Thank you for your help, $N."
+ },
+ {
+  "id": 9581,
+  "t": "Learning from the Crystals",
+  "o": "Get an Impact Site Crystal Sample using the Crystal Mining Pick on the Impact Site Crystal and bring it to Harbinger Mikolaas in Blood Watch.",
+  "d": "Welcome to Blood Watch, $c. Seeing to the defenses of the outpost is my primary concern, but I've also been tasked with a variety of other duties by our leaders at the Exodar.$B$BThe problem is that it's hardly safe to send out large amounts of researchers when the island is this dangerous. I need someone to gather a series of crystal samples from various sites on the island.$B$BThe first sample I need must come from the ravager infested ship debris south of the town and across the bridge.",
+  "p": "Were you able to gather the first crystal sample?",
+  "c": "This crystal shard will give our researchers a baseline to compare against samples from other parts of the island, since it comes from one of Bloodmyst's less corrupted regions.$B$BI won't be able to send it off until we have a full set of samples, but this is a great start. If you're willing to help gather the other samples, I'll see to it that you're rewarded for your efforts."
+ },
+ {
+  "id": 9582,
+  "t": "Strength of One",
+  "o": "Unlock the Ravager Cage and kill the Death Ravager, then return to Ruada at Azure Watch in Azuremyst.",
+  "d": "When the ship crashed, our menagerie was scattered on the northeast beaches of this isle.  I have been handed a key that unlocks the cage holding one of the deadlier specimens, a death ravager.  The creature is little armored but resistant to most magic.  It must be killed by a simple blade.$b$bTake this key and release the creature from both its prison and its pain.  We cannot afford to have it escape and cause even more damage to the ecology than we already have.",
+  "p": "Have you put down the beast? ",
+  "c": "<Ruada nods solemnly.>$B$BThen it is done.$B$BYou are ready for your next lesson, $N, but I will not be the one to teach it to you. "
+ },
+ {
+  "id": 9583,
+  "t": "Omar's Test Quest",
+  "o": "Get Omar some cloth",
+  "d": "An honorable person gives me cloth",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9584,
+  "t": "The Second Sample",
+  "o": "Get an Altered Crystal Sample using the Crystal Mining Pick on the Altered Bloodmyst Crystal and bring it to Harbinger Mikolaas in Blood Watch.",
+  "d": "Now that we have the baseline crystal, we're going to need samples from more dangerous areas of the island to complete the set I'll be sending to the Exodar.$B$BThe next sample must come from the crystals controlled by the blood elves in the Bladewood area to the northwest of Blood Watch. I have heard reports that they alter and harvest the crystals for use in some magical apparatus. See if you can find one that has not yet been incorporated into one of their devices, and mine a sample from it.",
+  "p": "Do you have the second crystal sample?",
+  "c": "<Harbinger Mikolaas examines the crystal shard.>$B$BThis shard is much different from the initial sample.$B$B<Harbinger Mikolaas holds the crystal up to catch the light.>$B$BDo you see how it pulsates like that? That's worrisome. I'll make a note in my report of the alterations the blood elves appear to have made to this crystal. Thank you again for your help, $N."
+ },
+ {
+  "id": 9585,
+  "t": "The Final Sample",
+  "o": "Get an Axxarian Crystal Sample using the Crystal Mining Pick on the Axxarien Crystal and bring it to Harbinger Mikolaas in Blood Watch.",
+  "d": "There's just one sample remaining before I can send this set of crystals to the Exodar, $n. The final sample must come from the satyr stronghold of Axxarien to the northwest.$B$BI'm not certain what to expect from this crystal sample, but I'm sure there will be some signs of corruption. Take care to mine your shard from the crystal that looks like the ones you took your previous samples from, or else our researchers cannot make a valid comparison.",
+  "p": "Have you returned with the last sample for my set?",
+  "c": "<Harbinger Mikolaas accepts the last crystal from you.>$B$BThat rounds out the set. All that remains to be done is to box them and send them to the Exodar.$B$B<The harbinger seems glad to be done with the task.>$B$BDon't get me wrong, $N, I'm sure the research is valuable, but we're faced with a number of other pressing problems out here. "
+ },
+ {
+  "id": 9586,
+  "t": "Help Tavara",
+  "o": "Guvan at Azure Watch wants you to find Tavara and heal her wounds.",
+  "d": "Tavara, one of our herbalists, has been gone far too long in her search for herbs.  I fear she is hurt and in need of help, yet I cannot look for her myself.$b$bPlease find her and lend your healing if needed, fellow $c.  She was heading east towards some hot springs when she left Azure Watch.",
+  "p": "Have you found Tavara?",
+  "c": "Thank you for helping Tavara. So many are unfamiliar with these lands and find trouble where they least expect.$B$BIt would honor me if you were to wear these robes. They mark you as one of the protectors of Azure Watch and a devout follower of the Light."
+ },
+ {
+  "id": 9587,
+  "t": "Dark Tidings",
+  "o": "Take the Ominous Letter to Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula.",
+  "d": "Giving the lifeless form of Vazruden the Herald the once-over, you discover a rolled letter, its seal yet unbroken.  An elaborate \"I\" is pressed within the blood-red ink.  Cracking the note open, the message that you read is most disturbing.$B$BForce Commander Danath Trollbane back at Honor Hold will definitely want to take a look at this!",
+  "p": "What's that you have there, $g son : ma'am;?",
+  "c": "It's signed by Illidan you say?! Let me have that.$B$B<The commander reads the letter, and then again a second time, thinking a moment before going on.>$B$BThis news that you bring is ominous indeed. Knowing this, we must accelerate our plans against Hellfire Citadel and this Blood Furnace. Because you have shown that you can get the job done, I want you to head up those plans.$B$BGunny will give you your next mission, though I suspect it will be far deadlier than your first.$B$BLight be with you, $N!"
+ },
+ {
+  "id": 9588,
+  "t": "Dark Tidings",
+  "o": "Take the Ominous Letter to Nazgrel at Thrallmar in Hellfire Peninsula.",
+  "d": "Giving the lifeless form of Vazruden the Herald the once-over, you discover a rolled letter, its seal yet unbroken.  An elaborate \"I\" is pressed within the blood-red ink.  Cracking the note open, the message that you read is most disturbing.$B$BNazgrel back in Thrallmar will definitely want to take a look at this!",
+  "p": "What is that letter you have there, $C?",
+  "c": "It's signed by Illidan you say?! Let me have that.$B$B<Nazgrel reads the letter, and then again a second time, thinking a moment before going on.>$B$BThis news that you bring is ominous indeed. Knowing this, we must accelerate our plans against Hellfire Citadel and this Blood Furnace. Because you have shown that you can get the job done, I want you to head up those plans!$B$BCenturion Caza'rez will give you your next mission, though I suspect it will be far deadlier than your first.$B$BLok'tar ogar, $N!"
+ },
+ {
+  "id": 9589,
+  "t": "The Blood is Life",
+  "o": "Collect 10 Fel Orc Blood Vials and return them to Gunny at Honor Hold in Hellfire Peninsula.",
+  "d": "That letter is going to get folks all riled up around here.  They'll think there's something we might do about all those new fel orcs being created if only we knew how it was being done.  It's bad enough that we have to fight the Burning Legion to the east.$B$BSo, it's your lucky day, sweetness!  You get to take a stroll into what they call the Blood Furnace inside Hellfire Citadel.  Sounds hot!$B$BGet in there, kill some fel orcs and bring back samples of their blood.$B$BYou think you can handle that?",
+  "p": "You have that blood, darlin'?  Might be kind of important if we asked you to get it, you know?",
+  "c": "Out-frikkin-standing!  As of right now $T Civvy : Civvy; $N, you are my favorite person on the sorry remains of this sorry planet!$B$BI'm sure that the eggheads are going to wet themselves when I hand that blood over to them for study.  Who knows, maybe we'll find a new weapon in the fight against those damned fel orcs?"
+ },
+ {
+  "id": 9590,
+  "t": "The Blood is Life",
+  "o": "Collect 10 Fel Orc Blood Vials and return them to Centurion Caza'rez at Thrallmar in Hellfire Peninsula.",
+  "d": "That letter is disturbing, and not just because it comes from the Betrayer.  We must know how they are creating these new fel orcs if we're to defeat them!  It's bad enough that we must fight the Burning Legion on our eastern flank, but now a new army of fel orcs to the west!$B$BYou must infiltrate this Blood Furnace inside Hellfire Citadel.  Bring back samples of blood from the fel orcs that you find in there.",
+  "p": "Surely you have not collected all of the blood so quickly?",
+  "c": "I am impressed with your abilities, $N.  Not once, but twice now you have infiltrated Hellfire Citadel for us and accomplished what was asked of you.$B$BI will see to it that this blood is delivered to those who can unlock its mysteries.  Who knows, perhaps we can find a way to reverse the process?"
+ },
+ {
+  "id": 9591,
+  "t": "Taming the Beast",
+  "o": "Use the Taming Totem to befriend a Barbed Crawler and return to Huntress Kella Nightbow when you have succeeded.",
+  "d": "When the $c first begins $ghis:her; path, $ghe:she; learns only to kill.  Now it seems you are ready for more.$b$bThe Stillpine furbolgs have provided a means to master the skill of taming without months of study.  They are able to carve a totem into the likeness of an animal, which you can use to temporarily bond with a creature of that type.$b$bFor your first lesson, take this totem and use it on the barbed crawlers found along the western coast of the isle.",
+  "p": "Were you able to harness the magic of the totem to befriend a barbed crawler?  They are feisty little creatures! ",
+  "c": "I'm sure the first thing you learned was how unsympathetic the crawler was during the bonding process.  It's all claws until they know you aren't there to throw them into a boiling pot. "
+ },
+ {
+  "id": 9592,
+  "t": "Taming the Beast",
+  "o": "Use the Taming Totem to befriend a Greater Timberstrider and return to Huntress Kella Nightbow.",
+  "d": "The crawler was undoubtedly mean, but the timberstrider will test your resolve.  More powerful allies require more tenacity from the hunter.$b$bTake this taming totem and befriend a greater timberstrider.  They are found in the northern reaches of Azuremyst Isle.",
+  "p": "The timberstrider is a powerful bird, often misjudged by predators with dire results.",
+  "c": "Looks like the timberstrider didn't peck your eyes out.$B$B<Kella looks away for a moment.>$B$BNot that I thought that would happen, of course! "
+ },
+ {
+  "id": 9593,
+  "t": "Taming the Beast",
+  "o": "Use the Taming Totem to befriend a Nightstalker and return to Huntress Kella Nightbow.",
+  "d": "You probably noticed the big cats known as nightstalkers when you tamed the timberstrider.  They are efficient and deadly hunters... and allies.$b$bUse this taming totem to befriend a nightstalker.  Hunt with the vicious cat and keep it from harm.  When you are finished, return to me.",
+  "p": "The nightstalker is basically a big kitty with razor sharp claws and an appetite for flesh...",
+  "c": "I must say, $N, you have learned far more quickly than I first imagined.  Looks like we won't need to use this last taming totem.  And honestly, I'm not even sure what it is.  It appears to be some sort of monstrous lizard with wings and a long tail.  Oh well, perhaps another time!$B$BYou've experienced enough to try it on your own now, without the aid of a taming totem.  Good luck! "
+ },
+ {
+  "id": 9594,
+  "t": "Signs of the Legion",
+  "o": "Kill 8 Nazzivus Satyr and 8 Nazzivus Felsworn, then bring Tzerak's Armor Plate to Vindicator Aalesia in Blood Watch.",
+  "d": "The armor scrap is forged from a deep black metal that seems to absorb light. Although it doesn't appear to be enchanted, there is an unmistakable sense of wrongness about it.$B$BSuch armor is only used by one force - the Burning Legion. The Legion's presence here can only mean that they're intending to mobilize the island's satyr against the draenei.$B$BTake action against the local satyr, then return to Blood Watch and show this armor scrap to Vindicator Aalesia. ",
+  "p": "Yes, $C? What is it you have there?",
+  "c": "You've done well in bringing this to me, $N. This is, without a doubt, an armor fragment from a felguard.$B$BThen, it is as I feared. The Nazzivus satyr are renewing their contacts with the Burning Legion. If we don't stop them, the satyrs and their demonic allies will overrun us. I will notify Harbinger Mikolaas right away."
+ },
+ {
+  "id": 9595,
+  "t": "Control",
+  "o": "Kill Murlocs of the Silting Shore to summon a Quel'dorei Magewraith, then destroy it. Afterwards, speak with Bati at the Vault of Lights in the Exodar.",
+  "d": "You have chosen the path of the $c, and so you must learn control. Magic, when unchecked, can corrupt souls and destroy worlds.$b$bTo fully understand, you must face one who has been consumed by magic. Travel to the beaches on the northwest coast of Azuremyst Isle and use your spells to decimate the murlocs. The display of power will attract the attention of the evil force lurking there, a Quel'dorei magewraith. Defeat it.$b$bWhen you have finished, seek out Bati at the Vault of Lights in the Exodar.",
+  "p": "Have you faced your nightmares?",
+  "c": "With every spell you must steel yourself against its seductive lure, using it only as needed for the purposes of good. Hopefully the wraith granted a glimpse of what you might turn into should you become careless--a mindless slave to magic."
+ },
+ {
+  "id": 9596,
+  "t": "<DEPRECATED>Control",
+  "o": "<NYI>Log description.",
+  "d": "<NYI>Do something else,$c!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9597,
+  "t": "<UNUSED>",
+  "o": "<NYI>Log description.",
+  "d": "<NYI>Hey little man,do something worthy and talk to Jonathan LeCraft.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9598,
+  "t": "Redemption",
+  "o": "Study the Tome of Divinity and speak with Jol.",
+  "d": "I am responsible for putting paladins on the path to greater virtue as they devote themselves to the Light and defend our people from threats.$B$BThe time has come for you to take your first step towards being truly virtuous. If you accept it, I will give you a tome of divinity. In studying it, you shall learn some about the Light, and what is expected of you. If you understand it, and are capable, then you will succeed in attaining greater abilities.",
+  "p": "Welcome back, $N",
+  "c": "You've spent time reading the book, I hope?$B$BThen you should be prepared to have yourself tested. There are always tasks to be done in the wake of the Exodar's crash throughout these new lands: acts of compassion and understanding...people who need help...creatures to slay...$B$BBy proving you have the patience to help others, especially those who are less fortunate, you prove that you are a servant of the Light and of sound mind."
+ },
+ {
+  "id": 9599,
+  "t": "<UNUSED>",
+  "o": "Speak with Jol in the Exodar.",
+  "d": "In all things, paladins must reflect the Light, which supplements our strength. To strive to be divine for one of our kind does not mean we strive for godhood--we strive to be good in all actions.$B$BAlthough called upon to smite evil in these harsh times, you must always remember that it's aiding others that will truly set you apart from the other citizens. Compassion, patience, bravery--these things mean as much to a paladin as strength in battle.$B$BKnow this well, and never forget it.",
+  "p": "",
+  "c": "Thank you $N! I am glad that Young Furbolg Shaman is fine.$B$BYou truly are blessed with the Light! Therefore, you shall use it to brign back the light in everyone!"
+ },
+ {
+  "id": 9600,
+  "t": "Redemption",
+  "o": "Jol wants you to resurrect a Young Furbolg Shaman with the Symbol of Life and return to her.",
+  "d": "Your task then, $N, is to aid our new allies, the Stillpine furbolgs.$b$bSeveral of the younger Stillpine shaman stumbled across a Bristlelimb camp and were slaughtered to the last.  Take this Symbol of Life and resurrect one of the shaman.$b$bBristlelimb Enclave is located to the east of the road just after you cross the bridge spanning Azuremyst and Bloodmyst Isle.  Speak with me when you have done this.$B",
+  "p": "All life is worth saving, if it does not oppose us. Only our enemies should be laid to rest permanently.",
+  "c": "Do not distress the bewilderment shown by those you have helped. It is common for those recently brought back to the world of the living to experience disorientation, but imagine the shock of meeting with a strange being at the same time.$B$BThe young shaman is blessed to have survived such a harsh lesson thanks to you, and it is befitting you be allowed to call upon this power as you see fit."
+ },
+ {
+  "id": 9601,
+  "t": "To The Bulwark",
+  "o": "Speak with Mehlar Dawnblade at the Bulwark.",
+  "d": "The blood knight Mehlar Dawnblade has requested an audience with you, $n.  Mehlar can be found at the Bulwark, guarding the passage between Tirisfal Glades and the Western Plaguelands.$b$bHe is not known for his patience.  It would not be wise to keep him waiting.",
+  "p": "",
+  "c": "Ahh... it seems it is time.$B$B<Mehlar nods knowingly.>"
+ },
+ {
+  "id": 9602,
+  "t": "Deliver Them From Evil...",
+  "o": "Deliver the Traitor's Communication to Exarch Menelaous at Azure Watch.",
+  "d": "You must get this information to your people, $N. While your brave acts have certainly slowed down the plans of Kael'thas and his dark master, the attacks will undoubtedly continue.$B$BTake the traitor's communication to your leaders. They must see this for themselves. Perhaps they will be able to better understand some of what was written.",
+  "p": "You have returned!",
+  "c": "<Exarch Menelaous takes the letter from you and begins to read it.>$B$BDamn them... Damn them all to the Nether. They've had a spy watching everything that we've done! And for how long?$B$BI will notify Velen at once!$B$BYou've done us a great service, $N. Be on guard as I will be contacting you once the Prophet has given me instruction as to what to do."
+ },
+ {
+  "id": 9603,
+  "t": "Beds, Bandages, and Beyond",
+  "o": "Take Topher's List to Laando, the Hippogryph Master at Blood Watch.",
+  "d": "Welcome to Blood Watch, $c. Please excuse the disorder you see around you. It's easy to take simple things for granted, like a fully furnished and stocked inn, until you're forced to build one from nothing.$B$BWe've managed to salvage this pod for a building, but without the proper furnishings and first aid supplies, the inn is little more than a glorified tent. Nurguni at the Exodar has offered to put together a package to help with our most immediate needs, but I need someone to deliver this list to him.",
+  "p": "Good day, $N. Are you interested in renting a hippogryph?",
+  "c": "So you need to go to the Exodar?$B$BThat's going to be a long trip, but don't worry, I have a way to get you there very quickly."
+ },
+ {
+  "id": 9604,
+  "t": "On the Wings of a Hippogryph",
+  "o": "Purchase a hippogryph ride to the Exodar from Laando. When you land, take Topher's List to Nurguni in the Seat of the Naaru at the Exodar.",
+  "d": "For a small fee, you can rent one of my hippogryphs to fly you to the Exodar.$B$BTaking the hippogryph is a faster, not to mention safer, alternative for someone carrying an important message. If you'd like to take a ride, speak to me again and I'll make the arrangements.",
+  "p": "Greetings, friend. You look like you've come a long way. How can I help you?",
+  "c": "So you've brought Topher's list. Excellent! I was hoping to receive this today. Let's see what he needs.$B$B<Nurguni reads over the list and begins placing various items in a box.>$B$BThat's most of what he requested. The pieces for the beds are simply too large to be delivered by hippogryph, but I'll make arrangements to have them sent by wagon. "
+ },
+ {
+  "id": 9605,
+  "t": "Hippogryph Master Stephanos",
+  "o": "Find Stephanos outside the Exodar and purchase a hippogryph ride back to Blood Watch.",
+  "d": "Here's the box, $N. That should be enough for Topher to get the inn up and running. Let him know that he can keep sending in orders as the need arises. Blood Watch urgently needs a place to care for the wounded and put up any travelers they receive.$B$BWhen you're ready to return to Blood Watch, seek out Stephanos near the gates of the Exodar.",
+  "p": "Where are you headed, $C?",
+  "c": "So you're headed back to Blood Watch with this package? No problem at all, $c. Just speak with me again and we'll get you on your way with those supplies."
+ },
+ {
+  "id": 9606,
+  "t": "Return to Topher Loaal",
+  "o": "Speak with Stephanos to purchase a hippogryph ride back to Blood Watch. Once you have arrived, deliver Nurguni's Supplies to Caregiver Topher Loaal.",
+  "d": "If I remember correctly, Blood Watch's hippogryph master is Laando.  If you've spoken to him before, then you can take one of my hippogryphs to him.$B$BThat's a good lesson to know: hippogryphs are always trained to fly to their capital city, but they'll only take you to a remote hippogryph master after you've already been there.$B$BSince you arrived on one of Laando's hippogryphs, you can also use that route to return to Blood Watch with the caregiver's supplies.",
+  "p": "Welcome back, $N. Was Nurguni able to gather everything on the list? ",
+  "c": "<Handing Topher the box, you tell him that Nurguni is making arrangements to have the larger items delivered by wagon.>$B$BSplendid! Now, I'll finally be able to set up some beds and a first aid station so that we can better treat the wounded and any survivors we encounter.$B$BI can't thank you enough for your help, $N. You have my thanks and that of the Blood Watch's vindicators."
+ },
+ {
+  "id": 9607,
+  "t": "Heart of Rage",
+  "o": "Fully investigate the Blood Furnace and then report to Force Commander Danath Trollbane at Honor Hold in Hellfire Peninsula.",
+  "d": "$C, put together a force to investigate the Blood Furnace inside Hellfire Citadel at once!  And that means today, princess!$B$BThe magic we have at our disposal indicates that something unnatural is occurring in there.  But something more powerful inside is blocking any detailed arcane investigations.  It figures!$B$BYou can expect heavy resistance - no other mission that we've sent in there has yet to return!$B$BScout it entirely and then report back to the force commander with what you witness.",
+  "p": "Private, report! Have you scouted all of the Blood Furnace yet?",
+  "c": "THEY HAVE A PIT LORD?!$B$B<The force commander looks around at the stares of the others and then lowers his voice to a whisper.>$B$BThat seals it.  They must be using the blood from this pit lord to create new fel orcs that are somehow not aligned with the Burning Legion.  And if they can do this to the brown orcs, they can do it to the green ones too.  With all of the new Horde orcs streaming in through the Dark Portal, that's not good!$B$BWe must strike at the heart of their military might, and soon!"
+ },
+ {
+  "id": 9608,
+  "t": "Heart of Rage",
+  "o": "Fully investigate the Blood Furnace and then report to Nazgrel at Thrallmar in Hellfire Peninsula.",
+  "d": "$C, you must gather a group to investigate the Blood Furnace inside Hellfire Citadel at once!$B$BThe magical scrying that we have at our disposal indicates that something unnatural is occurring in there.  But a powerful force inside is blocking any detailed arcane investigations, so it must be very important.$B$BYou should expect heavy resistance - no other mission that we've sent in there has ever returned!$B$BScout it entirely and then report back to Nazgrel, advisor to Thrall, with what you witness.",
+  "p": "Have you scouted all of the Blood Furnace yet?  What do you have to tell me?",
+  "c": "THEY HAVE A PIT LORD?!$B$B<Nazgrel notices the glances of the others assembled and lowers his voice to a whisper.>$B$BThat seals it. They must be using the blood from this pit lord to create new fel orcs that are somehow not aligned with the Burning Legion. And if they can do this to the Mag'har brown orcs, they can do it to us!$B$BWe'll have to strike at the heart of their military might, and soon!"
+ },
+ {
+  "id": 9609,
+  "t": "Help Watcher Biggs",
+  "o": "Find Watcher Biggs in the Swamp of Sorrows.",
+  "d": "Magtoor has informed me that there's a stranded watcher nearby.  Apparently the caravan he was escorting from Darkshire was attacked by Lost Ones.  It sounds as if he's the sole survivor.$B$BHe's somewhere to the south.  Please, $c, lend him your aid.",
+  "p": "",
+  "c": "What? A draenei sent you here from the Harborage? How odd.$B$BWell, I'm not one to turn down assistance. Thanks for coming, $c!"
+ },
+ {
+  "id": 9610,
+  "t": "Pool of Tears",
+  "o": "Obtain 5 Atal'ai Artifacts and return them to Holaaru at the Harborage in the Swamp of Sorrows.",
+  "d": "I am interested in studying Azeroth's past and I'm wondering if you'd be willing to help?$B$BThere is a nearby place of historical significance within the swamp that I would like for you to venture to.  The Pool of Tears lies to the southeast.  It is said that upon its shores and within its depths are buried artifacts of the Atal'ai troll civilization.$B$BBut beware, it is guarded by Somnus, an ancient green dragon, and his dragonkin, as well as carnivorous fish in the pool itself!",
+  "p": "I look forward to you gathering enough of the Atal'ai artifacts so that I might begin to study them.  I'm eager to discover what happened to their once-great civilization.",
+  "c": "I thank you, $c.  The study of these artifacts should keep me occupied for some time.  How else are we Broken and draenei to fit in if we do not come to understand the history of your world?"
+ },
+ {
+  "id": 9612,
+  "t": "A Hearty Thanks!",
+  "o": "Speak with Exarch Menelaous at Azure Watch.",
+  "d": "You saved my life, $N! Thank you so much! That beast would have torn me to shreds if it weren't for you.$B$BIf you see the exarch at Azure Watch, tell him of what you did. I'm sure he'll be pleased to hear such news!",
+  "p": "",
+  "c": "Well done, $N. Well done indeed! You are turning out to be a special $R - a cut above the others of your age. Take this as a reward!"
+ },
+ {
+  "id": 9613,
+  "t": "Deprecated: Keanna's Will",
+  "o": "The Shattered Blade you found in Karazhan wants you to ask Koren to repair it.  You'll also need to attain Honored reputation with the Violet Eye to complete this quest.",
+  "d": "<As you touch the sword,you hear a female voice address you>$B$BOuch!  Don't do that!  Can't you see I'm in pieces?  It really hurts.$B$BI see that Karazahan hasn't trapped you.  You must know about Kadghar and the Violet Eye then.$B$BYou're going to need to find someone who can put me back together.  Koren... he was our agent once... he's nearby.  I hope you're on our good side.  If so,he can help!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9614,
+  "t": "Deprecated: Reforge a Short Blade",
+  "o": "Bring 40 Khorium Bars,1 Void Crystal and 8 Primal Fires to Koren inside Karazhan.",
+  "d": "This weapon has been broken into so many pieces... putting it back together won't be easy.$B$BI'm going to need khorium.  Lots of it.  I'll also need a void crystal and some primal fire.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9615,
+  "t": "Deprecated: Reforge a Long Blade",
+  "o": "Bring 40 Khorium Bars,1 Void Crystal and 8 Primal Fires to Koren inside Karazhan.",
+  "d": "This weapon has been broken into so many pieces... putting it back together won't be easy.$B$BI'm going to need khorium.  Lots of it.  I'll also need a void crystal and some primal fire.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9616,
+  "t": "Bandits!",
+  "o": "Take the Blood Elf Communication to Exarch Menelaous at Azure Watch.",
+  "d": "This appears to be a bounty ledger. You cannot understand the blood elf language but you note that there is a picture depicting a dead draenei, a smiling blood elf standing over the corpse, and a symbol of what you think is some sort of blood elf currency.$B$BThey've put a hit out on draenei! You must inform the exarch.",
+  "p": "Yes? I'm very busy, $N.",
+  "c": "By the beardless, geometric head of O'ros! It is good you brought this to me, $N. These blood elves are out for... well, blood. Velen will be informed at once! Take this as a reward."
+ },
+ {
+  "id": 9617,
+  "t": "Seek the Farstriders",
+  "o": "Speak with Lieutenant Dawnrunner at Farstrider Retreat.",
+  "d": "Lieutenant Dawnrunner at Farstrider Retreat has requested an audience with all able hunters.  It would greatly benefit you to seek her out, $N.  She is a beacon of wisdom for those of our calling.$b$bFarstrider Retreat lies south of Silvermoon City.",
+  "p": "",
+  "c": "$N, it is good you have come. Our list of allies grows thin, and even those who share our cause are not completely trusted. It is because of this that we, the rangers, turn to nature for aid.$B$BIn the allies of the forest we find a deep bond that does not know deceit."
+ },
+ {
+  "id": 9618,
+  "t": "Return the Reports",
+  "o": "Bring Keltus Darkleaf's Reports to Zelanis in Silvermoon City.",
+  "d": "Your sleight of hand was most impressive.  There's no question that I can trust you to take these reports to Zelanis.",
+  "p": "Were you able to locate Keltus? ",
+  "c": "All of these reports are from Keltus?  He's been quite busy, that's for sure.$B$BKeltus is a $c among rogues--he rarely follows orders to the letter, and often takes matters into his own hands!  Don't take that wrong, however, as he is one of my most trusted spies and we would be lost without him.$B$BYou've done an exemplary job today.  Please accept this blade and guide it into our enemy's back. "
+ },
+ {
+  "id": 9619,
+  "t": "The Rune of Summoning",
+  "o": "Use the Voidstone to summon a Voidwalker in Goldenmist Village, defeat it, and return to Talionia in Silvermoon City.",
+  "d": "The voidstone reveals a vision of a multi-story building haunted by ghostly figures.  As the scene sharpens and blurs, other buildings come into view, leading you to believe it is Goldenmist Village.$b$bRooftops and tree canopies suddenly flash by, revealing the way to Goldenmist by following the Elrendar River to the west.$b$bOnce there, use the voidstone near the rune of summoning atop the center building and defeat the summoned voidwalker.  Only then can you return to your teacher.",
+  "p": "Have you followed the path revealed by the voidstone?",
+  "c": "I'm impressed you are standing here, $N. Many an apprentice has perished to the voidwalker, or even the voidstone itself.$B$BThe voidwalker is now yours to command. Use your new servant well."
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 9620,
+  "t": "The Missing Survey Team",
+  "o": "Harbinger Mikolaas wants you to find the Survey Team he sent to the Ruins of Loreth'Aran and assist them in any way you can.",
+  "d": "As we've gotten ourselves established here at Blood Watch, I've been sending out survey teams to create more reliable maps of the island. In most cases, they returned unharmed with the data we need, but the team I sent east to the ruins hasn't reported back.$B$BI worry about what might have happened to them, but I can't spare the men to send another mission after them. Find them, $N, and lend them any assistance they require to return with their survey data.",
+  "p": "",
+  "c": "The bodies of the $R survey team are scattered all over the ground here, pierced by naga weaponry. The area is littered with the remains of their supplies and survey equipment, but their data crystals are nowhere to be seen."
+ },
+ {
+  "id": 9621,
+  "t": "Envoy to the Horde",
+  "o": "Bring the Letter from Lor'themar Theron to Lady Sylvanas Windrunner in Undercity, the Forsaken capital in Tirisfal Glades.",
+  "d": "There were doubts about our capabilities among our potential new allies.  Of what use could we be to them when perceived as unable to deal with our problems at home?$B$BThis changes everything.  No longer will our power be questioned.  We'll be able to join the Horde as equals.$B$BTake this letter to Sylvanas, ruler of the Forsaken.  She's already on our side but the news of Dar'Khan's death will be music to her ears.  Prepare for a long trip, $N.  If all goes well she will send you to Orgrimmar.",
+  "p": "Ah, a visitor from Quel'Thalas!  What news do you bring?",
+  "c": "It is done then.  The foul traitor got what he deserved.$B$BYou did this yourself?  An impressive feat that proves that your race remains worthy, $N.$B$BI see that Lor'themar has additional news that will greatly improve his relations with Thrall. "
+ },
+ {
+  "id": 9622,
+  "t": "Warn Your People",
+  "o": "Speak with Exarch Menelaous at Azure Watch.",
+  "d": "The Hold is saved and soon my people will make their way back to the ancestral home. The prophecy has come to pass and a new age of prosperity begins for the Stillpine.$B$BBut I fear that darkness looms ahead for your own people. There are questions left unanswered - visions of prophecy unseen.$B$BReturn to your leaders and tell them of what you have seen here.$B$BAnd Promised One, should you ever require the aid of Stillpine, you have merely to ask.",
+  "p": "",
+  "c": "Visions you say? Interesting... And this prophecy has come to pass?$B$BBut you say they saw the power core of the Exodar? And O'ros was also in the vision? What can it mean?"
+ },
+ {
+  "id": 9623,
+  "t": "Coming of Age",
+  "o": "Exarch Menelaous at Azure Watch has asked that you deliver the Exarch's Orders to Torallius the Pack Handler, standing outside of the Exodar.",
+  "d": "You have survived the wilds of our new home and shown yourself a cut above the others. I believe that you have come of age to assist those battling on the front lines of Bloodmyst. The Hand of Argus could use a $r like you. $B$BReport to Torallius the Pack Handler. You will find him outside the Exodar, tending to the elekk. Give him these orders so that he may direct you towards your new duties on Bloodmyst.",
+  "p": "<Torallius adjusts his eyepatch to look at you.>$B$BThis is the best we can offer the Hand of Argus?",
+  "c": "<Torallius sighs.>$B$BAlright, let me have a look at those orders."
+ },
+ {
+  "id": 9624,
+  "t": "A Favorite Treat",
+  "o": "Aonar at Kessel's Crossing wants you to bring him 10 Sand Pears.",
+  "d": "I've made a wonderful discovery, $c. On the uncorrupted part of the island grows a remarkable fruit called the sand pear. They're found near the bottoms of the trees.$B$BI've been preparing pies from them, but if I'm not careful, the elekk will start to wander over and steal my fruit. I've taken to gathering enough to share with the animals, but my stores are gone and the craving for pie has returned. Would you be willing to help gather the fruit I need for another batch of pies? I promise I'll share!",
+  "p": "The sand pears are getting harder to find and, of course, that means less pie and fewer treats for the elekk here. Were you able to gather all the fruit I'll need?",
+  "c": "Did you have a difficult time finding enough? It's been taking me longer with each trip.$B$BSoon, I'll have to stop altogether since I won't be able to spare the time. Thank you for gathering the pears for me, $N. It gives me a chance to make a last pie or two before the season's out."
+ },
+ {
+  "id": 9625,
+  "t": "Elekks Are Serious Business",
+  "o": "Speak with Vorkhan the Elekk Herder on Bloodmyst Isle.",
+  "d": "Is he crazy? Entrusting something like this to some no-named $r youngling!$B$BJust remember this kid: You'll never make it as a Hand of Argus! You don't have the guts!$B$BI guess I'll have to humor him this time. Speak with Vorkhan at Kessel's Crossing on Bloodmyst Isle. Just follow the road north from here, and when it forks, just keep on going north.",
+  "p": "",
+  "c": "Well ya made it this far! Let's put ya to work before you get too bloodied up."
+ },
+ {
+  "id": 9626,
+  "t": "Meeting the Warchief",
+  "o": "Lady Sylvanas Windrunner wants you to take the Letter Sealed by Sylvanas to Thrall in Orgrimmar, capital of Durotar.",
+  "d": "I haven't lost any love for my homeland or its people, as you know.  I've fought tooth and nail for Silvermoon to be allowed a place beside Undercity and Orgrimmar at the negotiating table.$B$BThis should silence any opposition. Take this letter to Thrall in Orgrimmar.  As leader of the Horde he will have the final say on accepting your race's pledge.$B$BI've added my own seal to the letter as a personal endorsement.  Go northwest of the city and board the zeppelin bound for Durotar at the tower.",
+  "p": "You've come to see me, $r?  Speak and be quick.  I've no time for the formalities of your race. ",
+  "c": "<Thrall begins to read the letter.>$B$BSylvanas is a persistent one.  So she's sent one of Silvermoon's own champions... how does this change anything?"
+ },
+ {
+  "id": 9627,
+  "t": "Allegiance to the Horde",
+  "o": "Return to Silvermoon City and report back to Lor'themar Theron.",
+  "d": "Your people suffered a great betrayal by the Alliance.  You've succeeded in fending off Darnassian attacks as well as spies from Ironforge.  Now you've defeated a powerful Scourge leader at the footsteps of your home.  Your worthiness is no longer in question.$B$BIt is now apparent that you need us and we need you.  Return to Lor'themar.  Tell him I received his message loud and clear.$B$B<The warchief crushes the letter inside his palm.>$B$BWelcome to the Horde, elf.",
+  "p": "",
+  "c": "Your work has helped advance our race's cause a tremendous deal. Not only does Thrall believe we're capable of handling ourselves in the face of the enemy, he also believes he can use our link with Outland as a means to reach his people.$B$BNot exactly the truth, but not a lie either.$B$BBrace yourself for great changes, $N. We are now officially part of the Horde."
+ },
+ {
+  "id": 9628,
+  "t": "Salvaging the Data",
+  "o": "Obtain the Survey Data Crystal from the Wrathscale near the dead cartographers and return it to Harbinger Mikolaas at Blood Watch.",
+  "d": "It's too late to assist the cartographers in completing their mission, but it appears they collected the data Harbinger Mikolaas was expecting. The crystal storing their survey information was not among their ransacked packs, so it must be in the hands of the Wrathscale naga.$B$BYou know that Harbinger Mikolaas will be saddened by the loss of the survey crew, but would want to salvage the survey data.",
+  "p": "Were you able to find out what was keeping the survey team from returning?",
+  "c": "<You tell Harbinger Mikolaas of the survey team's fate. He accepts the crystal from you, but remains silent for a long moment.>$B$BThey were good men, $N, and they knew their mission would be dangerous. I'm grateful for your help in locating the team and recovering the crystal.$B$B<The harbinger's fists clench.>$B$BWe've lost too many good men already, and our mission has only just begun."
+ },
+ {
+  "id": 9629,
+  "t": "Catch and Release",
+  "o": "Morae at Blood Watch wants you to 'mark' 6 Blacksilt Scouts using the Murloc Tagger. ",
+  "d": "The Blacksilt murlocs on the southwestern coast are curious creatures. In some ways, they act barely sentient, yet in others, they show a remarkable degree of organization.$B$BI have a few theories about that, but no real way to test them until recently. I've devised a method that will allow me to track the murlocs I'm interested in without doing any lasting harm or interfering with their natural behavior. If you're willing to help with the marking, I'll gladly pay you for your assistance.",
+  "p": "Did the device work? Have you marked the murlocs for my research?",
+  "c": "Well done, $N. I was worried that the marking device might malfunction, but it seems like everything went according to plan."
+ },
+ {
+  "id": 9630,
+  "t": "Medivh's Journal",
+  "o": "Archmage Alturus at Deadwind Pass wants you to go into Karazhan and speak to Wravien.",
+  "d": "Your name is getting around, $N.  You've made your way into and out of Karazhan - more than most mortals can claim.$B$BI need to ask a special favor of you.  As part of our research, the Violet Eye has been trying to track down Medivh's own journal.$B$BUnfortunately, none of the agents we've sent inside have come out.  Wravien was the last to be sent; see if you can find him and see about any leads on the journal.",
+  "p": "",
+  "c": "A vast wealth of information... I could spend years here!  I'm sure Dalaran will understand..."
+ },
+ {
+  "id": 9631,
+  "t": "A Colleague's Aid",
+  "o": "Take the Charred Bone Fragment to Kalynna Lathred at Area 52 in Netherstorm.",
+  "d": "There is a small detail I've forgotten to take into account.  The residue of Medivh's essence contained in this bone fragment is completely devoid of life - just like Arcanagos.$B$BThere is a way, however.  And I know just the person to help us.$B$BTravel to Area 52 in Netherstorm and show the bone fragment to Kalynna Lathred.  She will know just what to do.",
+  "p": "Alturus sent you. The stars spoke of your arrival.",
+  "c": "Alturus wants to raise a whole dragon back from the dead? Not an easy task by any stretch of the imagination.$B$BLet us discuss how we can be of mutual assistance, $N."
+ },
+ {
+  "id": 9632,
+  "t": "Newfound Allies",
+  "o": "Take the Letter of Introduction to Huntress Kella Nightbow in Azuremyst Isle.",
+  "d": "Harbinger Mikolaas has done a commendable job of safeguarding Blood Watch, $c, but our enemies are many and our resources few.$B$BOur weakness is well known to our enemies, but your contact with the forces of the Alliance is something they haven't accounted for. I have prepared a letter of introduction to the people of Auberdine, the closest Alliance settlement, proposing cooperation in the fight against our foes. Take it with you and seek out Huntress Kella Nightbow near the docks west of the Exodar.",
+  "p": "Greetings, $c. What have you there? ",
+  "c": "I can help you get to Auberdine. Fortunately, it's only a short boat trip away! "
+ },
+ {
+  "id": 9633,
+  "t": "The Way to Auberdine",
+  "o": "Take the boat from the dock near Huntress Kella Nightbow to Auberdine. Once you have arrived in Auberdine, take the Letter of Introduction to Thundris Windweaver.",
+  "d": "If you wait out on the dock, you'll see the boat arriving from the port of Auberdine in Darkshore. Once it has offloaded its passengers, you'll be able to board.$B$BAfter a short journey, the boat will put in at Auberdine and you'll be able to deliver your message.$B$BIt's probably best to take this to Thundris Windweaver, an old friend of mine and a well-respected citizen of the town. ",
+  "p": "Welcome to Auberdine, friend. What brings you to Darkshore?",
+  "c": "<Thundris accepts the letter from you and reads it quickly, nodding.>$B$BThe isles the $R call Azuremyst and Bloodmyst were inhabited long ago by my people. Some of the threats faced by Anchorite Paetheus and his brethren are ancient enemies of the night elves.$B$BI am certain that the people of Auberdine are willing to provide what aid we can to our new allies. As soon as I have spoken with the townspeople and the sentinels, I will send word to Paetheus."
+ },
+ {
+  "id": 9634,
+  "t": "Alien Predators",
+  "o": "Kill 10 Bloodmyst Hatchlings then return to Vorkhan the Elekk Herder at Kessel's Crossing on Bloodmyst Isle.",
+  "d": "One thing we've learned in our travels is that extreme care must be taken when introducing wildlife from one world to another. When the Exodar crashed, it was carrying specimens of various Outland species, including an insectoid predator called the ravager.$B$BSome of the specimens were lost, but many others survived and took to the wild. If we don't keep them in check, they will upset the natural balance here on the islands.$b$bYou'll find these ravagers to the west of Kessel's Crossing, near the coast.",
+  "p": "We must act before the ravager displaces Bloodmyst Isle's native predators. Have you begun culling the ravager population?",
+  "c": "Well done, $N. The ravager population will bear watching for some time to come, but we've made a good start."
+ },
+ {
+  "id": 9635,
+  "t": "The Zapthrottle Mote Extractor!",
+  "o": "Bring 15 Steam Pump Parts to Mack Diver at Zabra'jin in Zangarmarsh.",
+  "d": "The swamp gas is truly amazing, and can be very useful, mon!  But first, you gotta be able to suck it up, and that, my friend, requires a Zapthrottle Mote Extractor.$B$BNow, I could just give you the schematics, but I'll need something in return first.  How about some spare parts?  Last time I checked, there were plenty laying around near the broken steam pump at the Dead Mire, far to the northeast.$B$BI heard that the withered giants spread the pieces all over that dried-out lake bed.",
+  "p": "You got those parts yet?  I've got some diving to do.",
+  "c": "Alright!  Now if we only had a stretchy loop, a parchment clamp, a guzzle tube and some sticky duck ribbon.  Then we could really make something!$B$BOk, ok, I guess you've earned this, $N.  Have fun!"
+ },
+ {
+  "id": 9636,
+  "t": "The Zapthrottle Mote Extractor!",
+  "o": "Bring 15 Steam Pump Parts to K. Lee Smallfry at Telredor in Zangarmarsh.",
+  "d": "Have you seen the swamp gas?  Isn't it just shiny?$B$BIt takes a Zapthrottle Mote Extractor to suck 'em dry though.  I could give you the plans to make one, but I really need some spare parts to fix stuff 'round here.$B$BLast time I checked, there were plenty of parts laying around near the steam pump at the Dead Mire to the northeast.  I think the withered giants broke the pump out there.$B$BShall we help each other out?",
+  "p": "You got those parts yet?  I've got a compression coil to fix before Anchorite Ahuurn starts breathing down my neck!",
+  "c": "Shiny!  And really, what engineer ever has enough spare parts just hanging around?  Ooh, maybe I could sell off the extra and buy me some of that Tigule and Foror's Strawberry Ice Cream?!  I just love strawberries!  Do you think they have any around here?$B$BOk, ok, I guess you've earned this, $N. Have fun!"
+ },
+ {
+  "id": 9637,
+  "t": "Kalynna's Request",
+  "o": "Kalynna Lathred wants you to retrieve the Tome of Dusk from Grand Warlock Nethekurse in the Shattered Halls of Hellfire Citadel and the Book of Forgotten Names from Darkweaver Syth in the Sethekk Halls in Auchindoun.$B$BThis quest must be completed in Heroic difficulty.",
+  "d": "I left the Kirin Tor in pursuit of knowledge forbidden by those of my order; it is beyond ironic that I am now asked to assist them with that very same knowledge.$B$BIf I'm to perform this favor for you, you will have to do something for me first.  I want you to obtain two of the tomes I've been searching for.$B$BThe first one is called the Tome of Dusk and is owned by the orc warlock known as Nethekurse.  The second, known as the Book of Forgotten Names, belongs to the arakkoa known as Darkweaver Syth.",
+  "p": "Have you obtained the tomes I seek, $N?",
+  "c": "Excellent, $N. I've been trying to attempt these books for a very long time. It is fortunate that we were able to be of mutual assistance."
+ },
+ {
+  "id": 9638,
+  "t": "In Good Hands",
+  "o": "Speak to Gradav at the Guardian's Library in Karazhan.",
+  "d": "Was I supposed to be looking for this journal?  It can't be... I don't quite recall...$B$BOf course!  It is Gradav you're thinking of.  He was looking for the book when I got here.  Surely he must've found it by now; why don't you go ask him about it?$B$BI'd lend you a hand... but these books are just so... interesting!",
+  "p": "",
+  "c": "Can't you see I'm in the middle of something here? What do you want?"
+ },
+ {
+  "id": 9639,
+  "t": "Kamsis",
+  "o": "Speak to Kamsis at the Guardian's Library in Karazhan.",
+  "d": "Journal, what journal?  You're thinking of Kamsis, surely.$B$BGo and ask her about it.  I can't leave my project right now or all my work will be wasted!",
+  "p": "",
+  "c": "The journal you speak of... I was sent here to look for it wasn't I?"
+ },
+ {
+  "id": 9640,
+  "t": "The Shade of Aran",
+  "o": "Obtain Medivh's Journal and return to Kamsis at the Guardian's Library in Karazhan.",
+  "d": "Let me think for a second.  The Violet Eye... Medivh's Journal...  Why yes, it's all coming back to me now.$B$BI believe I had the journal you're looking for before I started to read these scrolls...$B$BAran... yes, Aran asked me for the book.  So nicely too.  I just had to give it to him.  He's Medivh's father after all, did you know?",
+  "p": "Weren't you looking for a journal or something?",
+  "c": "Did you find what you were looking for? You were looking for something, weren't you?"
+ },
+ {
+  "id": 9641,
+  "t": "Irradiated Crystal Shards",
+  "o": "Vindicator Boros at Blood Watch wants you to bring him 10 Irradiated Crystal Shards.",
+  "d": "The Exodar's crash scattered pieces of fouled crystals all over Bloodmyst Isle, corrupting the water and the landscape.$B$BWe've even begun finding pieces of the crystals inside the flesh of animals taken for meat. I've uncovered a way to purify the shard and turn them into functional crystals, so if you bring me enough shards, I'll trade one of my completed crystals for them. So far I've found the shards in the bodies of bears, ravagers, flutterers, and treants inhabiting the corrupted part of the island.",
+  "p": "Have you gathered crystal shards from the creatures of Bloodmyst?",
+  "c": "Well done. These will provide the raw materials for another batch of enhancement crystals.$B$BYou're welcome to choose from among the three kinds of crystals I can make. I find each of them useful for stalking different kinds of prey."
+ },
+ {
+  "id": 9642,
+  "t": "More Irradiated Crystal Shards",
+  "o": "",
+  "d": "",
+  "p": "If you have more of the irradiated crystal shards, I'd be happy to exchange them for another of my crystals.",
+  "c": "Very well, here are the crystals that I have, $N. Use them well."
+ },
+ {
+  "id": 9643,
+  "t": "Constrictor Vines",
+  "o": "Tracker Lyceon at Blood Watch wants you to bring him 6 Thorny Constrictor Vines.",
+  "d": "A good woodsman makes use of every available resource, $c. Even the most bizarre creatures possess attributes we can use to our advantage.$B$BWith Blood Watch under constant assault from the Sunhawks, we're looking to a variety of natural defenses including traps. The lasher's thorny vines are perfectly suited to the construction of the traps I have in mind. The combination of sharp spines and deadly toxin will fell unwary attackers. Bring me the vines of mutated constrictors so that I can begin my work.",
+  "p": "Did you manage to get the constrictor vines?",
+  "c": "These seem sturdy enough to do the job. Thank you for your help, $N. Your contribution to Blood Watch's defense will not be forgotten."
+ },
+ {
+  "id": 9644,
+  "t": "Nightbane",
+  "o": "Go to the Master's Terrace in Karazhan and touch the Blackened Urn to summon Nightbane.  Retrieve the Faint Arcane Essence from Nightbane's corpse and bring it to Archmage Alturus.",
+  "d": "You fulfilled your end of the deal.  I will now bind your essence to that of the dead blue dragon.$B$BThere is an urn in the Master's Terrace, should you touch that urn, you'll now release its energy anl bring life back to the charred remains of Arcanagos.  Defeat the creature and retrieve its essence immediately!  You will need to take it to Alturus.$B$BShould you fail, the stars predict you will have let a great terror loose upon the skies.$B$BA terror known as Nightbane!",
+  "p": "What news do you bring, $N?",
+  "c": "This is astounding! Not only have you brought back Medivh's Journal, but you've also retrieved a fragment of his very essence.$B$BAs faint as this lingering essence is, it will reveal to us vital information about Medivh. We will not forget this, $c."
+ },
+ {
+  "id": 9645,
+  "t": "The Master's Terrace",
+  "o": "Go to the Master's Terrace in Karazhan and read Medivh's Journal.  Return to Archmage Alturus with Medivh's Journal after completing this task.",
+  "d": "Journal?  What journal?$B$BOh, right.  That journal!  The Violet Eye sent me here for it.  It's all coming back now.$B$B<Kamsis points to a page in the journal.>$B$BThis is the page that Alturus is interested in.  Did you know that while other people's journals serve as a record of their memories, Medivh's is literally just that?$B$BTry it.  Go to the Master's Terrace and read the page; you'll see just what I mean.  Might as well report to Alturus while you're at it.  I'm afraid I'll be here for a while.",
+  "p": "You've returned! What news do you bring?",
+  "c": "It is a shame that the agents we sent succumbed to Karazhan's magic. At least you managed to obtain what they were after."
+ },
+ {
+  "id": 9646,
+  "t": "WANTED: Deathclaw",
+  "o": "Bring Deathclaw's Paw to Harbinger Mikolaas in Blood Watch.",
+  "d": "By order of Harbinger Mikolaas: A bounty of 18 silver to be paid to the brave soul who returns with proof of the marauding bear Deathclaw's demise.$B$BDeathclaw should be considered extremely dangerous and is responsible for the killing of a survey team on the coast to the northwest of Blood Watch. Travelers are advised to avoid the area.",
+  "p": "How can I help you, $c?",
+  "c": "Well done. From what I've heard, it couldn't have been an easy fight. You've more than earned your reward, $N."
+ },
+ {
+  "id": 9647,
+  "t": "Culling the Flutterers",
+  "o": "Tracker Lyceon at Blood Watch wants you to kill 10 Royal Blue Flutterers.",
+  "d": "When we first encountered flutterers, they showed few signs of mutation. As the corruption got progressively worse, the moths and other species began to show signs of contamination.$B$BIt has progressed to the point where they damage nearly everything they come in contact with. They're amplifying the damage being done by the crystal shards scattered by the Exodar's crash. We have no choice but to begin culling their population in the lands north of Blood Watch.",
+  "p": "Have you culled the moths?",
+  "c": "In time, we'll have to devise a plan for returning the species to its native state, but for now, periodically culling their numbers is about the best we can hope for. Thank you for your help, $N."
+ },
+ {
+  "id": 9648,
+  "t": "Mac'Aree Mushroom Menagerie",
+  "o": "Jessera of Mac'Aree at Blood Watch wants 1 Aquatic Stinkhorn, 1 Blood Mushroom, 1 Ruinous Polyspore, and 1 Fel Cone Fungus.",
+  "d": "Did you know mushroom hunting is far more dangerous than mushroom consumption? Mushroom hunters expose themselves to many unknowns - not including potential wildlife dangers!$B$BWhat would life be without a little danger? I am in need of mushrooms for my collection. Scattered throughout these unexplored wilds you will find four different types: An aquatic stinkhorn, a blood mushroom, a ruinous polyspore, and a fel cone fungus. They are each unique to various regions in Bloodmyst. Bring them to me.",
+  "p": "Remember, the mushrooms I requested are each unique to the different environments of Bloodmyst.",
+  "c": "Well, I did warn you - did I not? Hopefully this payment more than makes up for the mild discomfort that you may have suffered. Return to me when you have gained strength and perhaps I will have another job for you - mushrooms of course!"
+ },
+ {
+  "id": 9649,
+  "t": "Ysera's Tears",
+  "o": "Jessera of Mac'Aree at Blood Watch wants 2 Ysera's Tears.",
+  "d": "Good to see you again, $N! You were exceptionally efficient in completing the last task that I offered you. Perhaps you would be interested in another?$B$BTo the northeast lies Wyrmscar Island, home to a rare species of mushroom known as Ysera's tear - named after the green dragonlings that inhabit the island. I only require a small sampling of the mushroom, but I must warn you that the denizens of the island do not welcome visitors. Tread carefully.$B",
+  "p": "Back so soon?",
+  "c": "I hope this wasn't too strenuous a task, $N. Once again you have proven yourself a competent and considerate $r. I offer my gratitude and a small bit of monetary compensation.\r\r\n"
+ },
+ {
+  "id": 9650,
+  "t": "Deprecated: Magical Augmentation",
+  "o": "<TXT>",
+  "d": "<TXT>Yes,let's enhance my magical properties.  That makes sense.  I was,after all,a wizard in life.$B$BJust because one's physical vessel is a weapon does not automatically make someone a brute.$B$BI will need you to collect some materials.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9651,
+  "t": "Deprecated: Magical Augmentation",
+  "o": "<TXT>",
+  "d": "<TXT>Yes,let's enhance my magical properties.  That makes sense.  I was,after all,a wizard in life.$B$BJust because one's physical vessel is a weapon does not automatically make someone a brute.$B$BI will need you to collect some materials.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9652,
+  "t": "Deprecated: Physical Enhancement",
+  "o": "",
+  "d": "I wouldn't mind that.  We might as well make the best of our situation... in my case,being a weapon.  Might as well become the best weapon I can be.$B$BYes,let's do that.  A sharper edge,a sturdier hilt... I like the sound of that.$B$BI'll need you to gather a few things for me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9653,
+  "t": "Deprecated: Physical Enhancement",
+  "o": "",
+  "d": "I wouldn't mind that.  We might as well make the best of our situation... in my case,being a weapon.  Might as well become the best weapon I can be.$B$BYes,let's do that.  A sharper edge,a sturdier hilt... I like the sound of that.$B$BI'll need you to gather a few things for me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9654,
+  "t": "Deprecated: A Well Rounded Defense",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9655,
+  "t": "Deprecated: Healing Amplification",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9656,
+  "t": "Deprecated: Lethality First",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9657,
+  "t": "Deprecated: Offensive Channeling",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9658,
+  "t": "Deprecated: Offensive Channeling",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9659,
+  "t": "Deprecated: Healing Amplification",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9660,
+  "t": "Deprecated: Lethality First",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9661,
+  "t": "Deprecated: A Well Rounded Defense",
+  "o": "The Facet of Keanna stored inside Keanna's Will wants you to gather 20 Arcane Residues from the Arcane Anomalies in Karazhan.",
+  "d": "Offensive magic was my area of expertise... that much I can remember.  I'll do my best to add my arcane channeling powers to yours.$B$BI'll need more raw power than I possess right now,however.  The arcane anomalies that roam the upper levels of the guardian's library would make excellent targets.  Gather their arcane residue,we'll need lots of it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9662,
+  "t": "Deprecated: Keanna's Freedom",
+  "o": "Defeat Malchezar in Karazhan while equipped with Keanna's Will.  Facet of Keanna must survive.",
+  "d": "My memories... I remember everything now!  My mind feels like a puzzle falling into place all of a sudden.$B$BI was one of the first sent to investigate Karazhan after it changed.  The demon Malchezaar discovered my intrusion.$B$BI quickly realized that I was no match for him.  I began to feel my soul become trapped by his magic.$B$BAt the last moment I hid a fraction of myself... of my memories inside the only place I could think of: my weapon.  Malchezaar has my soul.  You must help me recover it!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9663,
+  "t": "The Kessel Run",
+  "o": "Kessel at Kessel's Crossing wants you to warn High Chief Stillpine at Stillpine Hold, Exarch Menelaous at Azure Watch and Admiral Odesyus at Odesyus' Landing of the imminent blood elf invasion. Return to Kessel when you complete this task. You have 15 minutes. (Be sure to keep it out of water.)",
+  "d": "You're just in time, $N. Blood elf activity in this area has doubled in the past week. Our agents have informed us that the blood elves that call themselves Sunhawks plan to launch an offensive upon Azuremyst soon. I need you to get a warning out to our allies and compatriots.$B$BWarn High Chief Stillpine at Stillpine Hold, Exarch Menelaous at Azure Watch and Admiral Odesyus at Odesyus' Landing.$B$BTime is of the essence so I am lending you my elekk. Be sure to keep it out of water.",
+  "p": "This is no time to relax!",
+  "c": "Well done, $N. This was a difficult test of your abilities, but you have passed with flying colors. To become a soldier of the Hand of Argus, you must pass many such tests."
+ },
+ {
+  "id": 9664,
+  "t": "Establishing New Outposts",
+  "o": "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Whitebeard at Light's Hope Chapel.",
+  "d": "Welcome to the Plaguelands, $n. As you know, the Forsaken and their allies hold the lands to the west of here against our best efforts. The Alliance commanders have decided that here in the east, we will establish new fortifications to tighten the noose around our enemies.$b$bTowers long abandoned since the days of Lordaeron are to be seized and rebuilt for this purpose. These lands are dangerous, and we could use your help.",
+  "p": "When the towers are under our control, we will soon be able to surround the Forsaken. After that, it is only a matter of time before we can crush them.",
+  "c": "Very good, $N. It will be important for us to hold these towers against future attacks, and for that we may need your assistance until reinforcements can be brought in to secure the area."
+ },
+ {
+  "id": 9665,
+  "t": "Bolstering Our Defenses",
+  "o": "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Gormok at Light's Hope Chapel.",
+  "d": "Agents of the Forsaken uncovered an Alliance plot to establish new bases here in the Eastern Plaguelands, at abandoned towers throughout the area.$b$bIt is imperative that we not allow them to establish a significant presence on our eastern borders, and so we must stave off this Alliance incursion. Our current plans are to drive them out of any towers they may have already seized, and occupy those that we have under our control against further attacks.",
+  "p": "They must be fools to think that we would allow them to establish bases so close to one of our capitals.$B$BWe will bleed their numbers until they turn tail and retreat back to the south.",
+  "c": "This is good news, $N. It will be a constant struggle here in the Plaguelands until we have fully driven back the forces of the Alliance.$B$BUntil that day, I hope that we will have your continued assistance."
+ },
+ {
+  "id": 9666,
+  "t": "Declaration of Power",
+  "o": "Kessel at Kessel's Crossing on Bloodmyst Isle wants you to kill Lord Xiz at Wrathscale Lair and drive the Draenei Banner through his dead body.",
+  "d": "Have you seen the serpent men? The ones that call themselves naga?$B$B<Kessel spits.>$B$BThey dared make an advance upon this camp under cover of darkness only three nights ago. Can you believe the audacity of those primitive beasts?$B$BI need you to deliver a message to their leadership, $N. To the northeast is Wrathscale Lair, home to Lord Xiz. Find him, slay him where he stands and drive this banner through his corpse.$B$BLet them know fear whenever they should see our standard!",
+  "p": "Is it done?",
+  "c": "I am sorry that you had to do that, $N. Heavy-handed violence is not the $R way, but sometimes it is the only way.$B$BThis is one of life's truths that many do not understand until it is too late. So it was for our people, when we were slaughtered at the hands of the orcs.$B$BBecoming a Hand of Argus is a process of rebirth. And with birth comes pain..."
+ },
+ {
+  "id": 9667,
+  "t": "Saving Princess Stillpine",
+  "o": "Release Princess Stillpine from her cage and then speak with Stillpine Ambassador Frasaboo at Blood Watch.$B$BYou must kill High Chief Bristlelimb for the key that opens the cage.",
+  "d": "Help me, $N! The Bristlelimb captured me and are planning to sacrifice me to their foul gods!$B$BHigh Chief Bristlelimb holds the key that opens the cage. To force him to appear, you must slaughter the evil Bristlelimb furbolgs that inhabit the enclave, just two camps to the west of this camp. If you kill enough of them, he will surely come for vengeance! When he shows up, kill him and get the key!$B$BMy father will richly reward you if you can save me!",
+  "p": "I don't have much longer, $N. They will kill me soon...",
+  "c": "Once again you have proven yourself to be all that was prophesied. You have the eternal gratitude of the high chief $N -- and these Stillpine relics to choose from..."
+ },
+ {
+  "id": 9668,
+  "t": "Report to Exarch Admetius",
+  "o": "Speak with Exarch Admetius at Blood Watch.",
+  "d": "A Hand of Argus soldier is many things: Obedient, brave, intelligent, and above all, honorable. You may yet exhibit some of these traits, $c.$B$BReport to Exarch Admetius at Blood Watch if you are still interested in joining the Hand. He and his subordinates will further train you in the ways of the draenei soldier.$B$BAnd remember this, $N: Honorable people do not always perform honorably. Sometimes they cannot.$B$BYou will find Blood Watch just up this road, to the north.",
+  "p": "",
+  "c": "I had a feeling that you would make it this far, $c. If you are willing to go further, I am willing to teach you..."
+ },
+ {
+  "id": 9669,
+  "t": "The Missing Expedition",
+  "o": "Kill 8 Myst Spinners, 8 Myst Leechers and their leader, Zarakh. Return to Achelus at Blood Watch when the task is complete.",
+  "d": "About a week ago, my research team and I were out exploring the western wilds of Bloodmyst when we were attacked by bloodthirsty spiders. The effect of the crystal contamination was clearly evident as these spiders were massive and extremely aggressive.$B$BI managed to escape but my team wasn't so lucky. We must not let the same fate befall others. Go west to the Amberweb Pass and destroy the spiders and their matriarch, Zarakh.",
+  "p": "It was a terrible mess... ",
+  "c": "Incredible! Did you find any survivors?$B$B<Achelus lowers his voice to a whisper.>$B$BI'll be honest, $N; nobody else was willing to take on this mission. You are a brave $c..."
+ },
+ {
+  "id": 9670,
+  "t": "They're Alive! Maybe...",
+  "o": "Researcher Cornelius has asked that you free 5 Expedition Researchers.",
+  "d": "It was a bloody mess, $N. We were ambushed by a large pack of these spiders. Their progenitor descended upon us with incredible speed and wrapped us up in cocoons.$B$BAfter we were webbed, she began to lay eggs near us. We were to be food for her young! FOOD!$B$BI managed to cut my way out and escape but I will not leave the others behind. So far I've been unsuccessful in nearing the pass. Would you lend a hand?$B$BDestroy those cocoons! Hopefully some of our team is still alive!$B",
+  "p": "Any luck?",
+  "c": "You rescued over half the team! Word of your deed will definitely get back to Blood Watch and the exarch. Thanks again, $N."
+ },
+ {
+  "id": 9671,
+  "t": "Urgent Delivery",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you $N? It's about time! I'd just about given up on finding you!$B$BThere's an urgent message waiting for you at the mailbox. The person that gave it to me was a human admiral from Azuremyst. Admiral Odesy-something... the name escapes me. He said you would know who he was.$B$B<Hermesius shrugs.>"
+ },
+ {
+  "id": 9672,
+  "t": "The Bloodcurse Legacy",
+  "o": "Admiral Odesyus has asked that you find and speak with Captain Edward Hanes.",
+  "d": "Dear friend,$B$BMy hand trembles as I ink this letter. I pray that it reaches you in time.$B$BLast night, Edward Hanes, captain of the ship 'Lost Hope', appeared before me in my tent. The same Edward Hanes that died of scurvy 20 years ago.$B$BThis apparition told me a tale that made my heart tremble. A tale that I need you to hear and a mission that I need you to accomplish. Will you do it? Will you seek out Edward on Wyrmscar Island, northeast of your base?$B$BRegards,$B$BAdmiral Odesyus$B",
+  "p": "",
+  "c": "Have you heard of the bloodcurse, landlubber? No, of course you haven't. The bloodcurse is what sunk all these ships. The spoiled, desecrated part of the water here is known as Bloodcursed Reef - a part of the world you never want to visit. I've been here myself for 20 years.$B$BScurvy my foot! I died on these wild shores as food for the dragons... Ah, but that's another story for another time. Right now, we have to help the poor souls that are trapped in that reef."
+ },
+ {
+  "id": 9673,
+  "t": "Beast Training",
+  "o": "Speak with Halthenis in Silvermoon City.",
+  "d": "Beyond bonding with your chosen pet, there remains the intricacies of caring and training it.  For this, Halthenis the beast trainer of Silvermoon City can show you the way.$b$bHe always shows the utmost respect for my students, if they do the same for him.  Do not disappoint me.",
+  "p": "",
+  "c": "So you've learned a bit, have you?$B$B<Halthenis looks at you carefully.>$B$BYou'll serve the city, and our greater cause, well with your newly-learned skills. Allow me a moment to show you how to train your pet to do some interesting tricks, like disemboweling your enemy, and you can be on your way."
+ },
+ {
+  "id": 9674,
+  "t": "The Bloodcursed Naga",
+  "o": "Captain Edward Hanes on Wyrmscar Island wants you to kill 10 Bloodcursed Naga.$B",
+  "d": "They say when the world was sundered, this land cried the loudest. It was here that thousands of night elves faded into oblivion and in their place rose terrible creatures of hate - the naga.$B$BObedient to their twisted queen, Azshara, they would destroy all that would dare pass through their sea. It would remain this way for thousands of years - until now.$B$BThe first order of business is to remove the bloodcursed naga from the reef.",
+  "p": "They're nasty creatures...",
+  "c": "A good start, but there's much more to be done!"
+ },
+ {
+  "id": 9675,
+  "t": "Beast Training",
+  "o": "Speak with Ganaar at the Traders Tier of the Exodar.",
+  "d": "Oh, one more thing!  You'll want to speak with Ganaar at the Exodar.  He'll be able to teach you the last bits of knowledge necessary to care for your pet and train it.$b$bYou can find him in the southwest corner of the Traders Tier.",
+  "p": "",
+  "c": "Knowing how to feed and revive your pet from death is not just an extra \"tidbit\" as your last teacher so mildly put it. Even more so, training allows your pet to improve in ways they couldn't have on their own.$B$BI've already learned much from the furbolgs, so pay attention and I'll pass the knowledge on to you."
+ },
+ {
+  "id": 9676,
+  "t": "Paladin Training",
+  "o": "Speak with Jesthenis Sunstriker - the Paladin class trainer - inside the Sunspire on Sunstrider Isle.",
+  "d": "As you advance within your class, you will want to take advantage of the training that your class trainer can provide you.  For young paladins here on Sunstrider Isle, your trainer is Jesthenis Sunstriker. Speak with Jesthenis and see what training he has available for you.  The things he will teach do have a cost, so bring some coin with you.$B$BYour trainer - as with all the trainers on Sunstrider Isle - is inside the Sunspire on the lower level.",
+  "p": "",
+  "c": "I am heartened by your initiative to speak with me. In the past I was responsible for the training of young paladins as they entered our order. This is a duty and privilege that I humbly take up once more. Your name has been mentioned as one who seeks to do good in the name of the Light. It would be my honor to guide you in your first steps as a $c.$B$BShall we begin?"
+ },
+ {
+  "id": 9677,
+  "t": "Summons from Knight-Lord Bloodvalor",
+  "o": "Speak with Knight-Lord Bloodvalor in Farstriders' Square in Silvermoon City.",
+  "d": "$N, you have excelled in your early training and distinguished yourself among those who would become Blood Knights. You are ready to undertake the next phase of your training and, to that end, Knight-Lord Bloodvalor himself has asked to speak with you.$B$BI have no doubt that Knight-Lord Bloodvalor wishes to set a trial for you to test your abilities and training. You will find him in the Blood Knight headquarters in Silvermoon City's Farstriders' Square. I wish you well, $N.",
+  "p": "",
+  "c": "Welcome, young initiate. That you have answered my summons so promptly bodes well for you.$B$BLet us dispense with pleasantries, then, as they are best left to courtiers and their ilk.$B$BYour rapid progress has caught my attention, $N. We will see if you have taken your lessons to heart."
+ },
+ {
+  "id": 9678,
+  "t": "The First Trial",
+  "o": "Travel to the island Knight-Lord Bloodvalor described, find the cave, and light the brazier. When the First Trial is over, return to Knight-Lord Bloodvalor in Silvermoon City.",
+  "d": "You have learned much of combat and bloodshed, initiate, but there is much more to our order.$B$BMastery of the Light requires a focused mind and tremendous willpower. Without these, you are little better than a street thug.$B$BThere is an island in the northeastern reaches of the Ghostlands, called the Isle of Tribulations, that we use to hone these skills. You will find a brazier within a shallow cave there. Kneel before the brazier, light it, and focus on what you see before your eyes.",
+  "p": "May the Light bend to your will in all endeavors.",
+  "c": "I know what must be going through your mind.$B$BYes, I sent Stillblade to kill you.$B$BDo not take offense, $N; it was a necessary test. The Blood Knights are a brotherhood, but we must ensure that our brothers are alert and prepared at all times. Was it necessary to take Stillblade's life to make the point to you?$B$BYes, and that is as much a part of your training as any sword drill."
+ },
+ {
+  "id": 9679,
+  "t": "<NYI>Return to Knight-Lord Bloodvalor",
+  "o": "Report to Knight-Lord Bloodvalor in Silvermoon City.",
+  "d": "Your assailant has died,but his words make it seem as though his presence here is no accident. It can only be meant as part of the test Knight-Lord Bloodvalor spoke about.$B$BHaving survived your ordeal and done as the Knight-Lord asked,you should make your way back to Silvermoon City and report to him.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9680,
+  "t": "Digging Up the Past",
+  "o": "Archmage Alturus wants you to go to the mountains south of Karazhan in Deadwind Pass and retrieve a Charred Bone Fragment.",
+  "d": "Kamsis was right!  This information is extremely important.$B$BIf Medivh weaved his own essence into the magic he used to defeat the dragon, it is quite possible we could retrieve even a faint residue of that essence from the dragon's remains.  What great insight may lie beneath the ashes of Deadwind Pass, awaiting discovery.$B$BGo to the mountains south of Karazhan and bring me back a bone fragment of seemingly draconic origin.",
+  "p": "Have you retrieved the bone fragment I require, $N?",
+  "c": "Excellent! Though small in size, this fragment is teeming with energy, I can feel it!"
+ },
+ {
+  "id": 9681,
+  "t": "A Study in Power",
+  "o": "Speak with Magister Astalor Bloodsworn in the hidden chamber beneath Blood Knight headquarters.",
+  "d": "Do not think me unduly harsh, $N. Stillblade knew well what he was being sent to do. He understood and accepted his duty and is an example for all aspiring Blood Knights.$B$BMy words are no eulogy, $N. Stillblade's service to us is far from over and you will be the instrument of his resurrection.$B$BYour education in the order's ways has just begun. With the betrayal of Kael'thas and the loss of our power source, you must learn new methods of wielding the Light. Seek out Magister Astalor Bloodsworn.",
+  "p": "",
+  "c": "Welcome, young $c.$B$BThe power of the Blood Knights is taken from a being of immense power.$B$B<The magister gestures to the large, captive being in the center of the room.>$B$BIsn't it magnificent? 'Twas a gift from our beloved Prince Kael'thas, and it is the foundation of the Blood Knights' mastery of the Light. This creature begrudges us its power, so we have devised a method for claiming it on our own terms."
+ },
+ {
+  "id": 9682,
+  "t": "The Hopeless Ones...",
+  "o": "Captain Edward Hanes on Wyrmscar Island wants you to recover 4 Bloodcursed Souls.",
+  "d": "On a ledge of the reef, deeper than where you found the bloodcursed naga, you will find the hopeless ones: The bloodcursed voyagers, ghosts of those taken by the bloodcurse.$B$BIt is regrettable, what I ask of you now... but they must be destroyed and their cursed shells brought back to me.$B$BTheir souls must be put to rest. Return to me when you have done as asked and I shall give you one final task.",
+  "p": "Do not mourn their demise, $N.",
+  "c": "You have done the hopeless ones a great service, $N. There is but one final task: Destroy the leader of the Bloodcursed."
+ },
+ {
+  "id": 9683,
+  "t": "Ending the Bloodcurse",
+  "o": "Captain Edward Hanes on Wyrmscar Island wants you to destroy the Statue of Queen Azshara and kill Atoph the Bloodcursed.",
+  "d": "To the south you will find Bloodcurse Isle. Atop the island you will find a shrine dedicated to the beloved queen of the naga, Azshara. Destroy the statue - burn it in effigy! This will surely draw the ire of Atoph, the Bloodcursed leader.$B$BSlay Atoph and return to me!",
+  "p": "Atoph must be lured out!",
+  "c": "You did it! Hundreds of souls are grateful for all that you have done.$B$BAllow me to make an offering..."
+ },
+ {
+  "id": 9684,
+  "t": "Claiming the Light",
+  "o": "Use the Shimmering Vessel on the Blood Elf Magisters to fill it and return to Knight-Lord Bloodvalor in Silvermoon City.",
+  "d": "Take this vessel, $N. The enchantment it bears will allow you to draw the last vestiges of the Light surrounding these magisters. They once tended the captive naaru and some of its energy yet remains within them.$B$BIt will be just enough to restore your comrade to life.$B$BDo not worry about the magisters, $N. I have seen to their care, and Lord Solanar assures me that Lady Liadrin seeks a new source of power even now.",
+  "p": "Have you spoken with Magister Astalor Bloodsworn?",
+  "c": "Well done, $N. The powers granted by the Light will never come 'naturally' to the Blood Knights, but we are not so naive as to be thwarted by the will of a single being, however powerful.$B$BOur mastery of the arcane has unlocked this path and these powers for you, initiate. Few have the stomach or the aptitude to wield them, but I know you will not disappoint the order."
+ },
+ {
+  "id": 9685,
+  "t": "Redeeming the Dead",
+  "o": "Take the Filled Shimmering Vessel to Silvermoon City's inn and use its magic to resurrect Sangrias Stillblade.",
+  "d": "While you were preparing the vessel, I sent a group of initiates to retrieve Sangrias Stillblade. You will find him on the top level of Silvermoon's inn with an attendant. Make your way there with all haste and unleash the vessel's magic to restore him to life.$B$BTime is of the essence, $N. Once he has been dead for too long, not even the Light can bring him back to us. Return to me once you have resurrected Stillblade.",
+  "p": "",
+  "c": "Welcome back, initiate. Now that you know the truth about the source of our power and you have demonstrated your skill in wielding it, I will grant you the ability to resurrect the fallen in the field.$B$BStay true to the order and excel at your training and you will only continue to grow in power."
+ },
+ {
+  "id": 9686,
+  "t": "The Second Trial",
+  "o": "Complete the Second Trial by defeating Champion Bloodwrath, Champion Lightrend, Champion Swiftblade, and Champion Sunstriker in the pavilion near Master Kelerun Bloodmourn.",
+  "d": "You stand on the verge of adept status in the order, $N. First, you must prove your worthiness by undertaking another trial.$B$BThe Second Trial differs from the first in that there will be no surprises this time. The challenge before you is simple; you must face and best four Blood Knight champions in combat.$B$BWhen you accept the challenge, a crystal will appear in the middle of the pavilion. Touch it to begin your trial and do not stray far from the building.$B$BAre you prepared?",
+  "p": "A Blood Knight would rather die than submit to the enemy. Remember that, $N.",
+  "c": "Well done, $N! You have proven yourself worthy of full membership in the Blood Knights and elevation to adept status. However, there are a few more tasks that remain before your induction can take place."
+ },
+ {
+  "id": 9687,
+  "t": "Restoring Sanctity",
+  "o": "Prince Toreth on Wyrmscar Island wants you to recover 8 Dragon Bones.",
+  "d": "Not long ago, the once tranquil owlkin of the region appeared on the shores of this island. One by one they would come to steal the bones of the fallen dragons. I do not know what would cause these creatures such distress or why they would want the bones of the deceased, but the spirits of the brood have grown restless due to this sacrilege.$B$BTo the west, across the Crimson Reach, you will find Ragefeather Ridge. Venture to the owlkin encampments and recover the pilfered dragon bones.",
+  "p": "The dragon wars have long since passed. All that remains are bones and the agitated remnants of Ysera's brood.",
+  "c": "A ritual? The owlkin had lived in harmony with the land for thousands of years. Such a thing is an aberration!$B$BSuch a pity..."
+ },
+ {
+  "id": 9688,
+  "t": "Into the Dream",
+  "o": "Prince Toreth at Wyrmscar Island has asked that you slay 5 Viridian Whelps and 5 Viridian Broodlings.",
+  "d": "The whelps that you see on this island are the agitated spirits of the green dragonflight. Like me, they are bound to the land, unable to ascend to their final resting place in the Dream.$B$BRecovering the bones of the fallen has settled them somewhat but you must take further action.$B$BDestroy their ethereal manifestations. I cannot leave this place until it is done. They must be released!",
+  "p": "It pains me to watch. Please, let us not speak of this any further.",
+  "c": "As reprehensible as your task was, it had to be done. Now you must look into the face of evil."
+ },
+ {
+  "id": 9689,
+  "t": "Razormaw",
+  "o": "Prince Toreth at Wyrmscar Island has asked that you slay Razormaw.",
+  "d": "Many of the black dragonflight were slain during the attacks. One of them, a lieutenant of Deathwing himself, still haunts this place. If you look to the heavens, you can see his spectral countenance circling the skies. His hatred is so great that he remains even in death.$B$BTake the bones that you gathered for me earlier to the top of the mountain on this island and place them in the ever-burning pyre. This act should signal Razormaw to descend. When he does, slay his undead form.",
+  "p": "I recommend that you bring allies, $N.",
+  "c": "How long has it been? A thousand years? Ten-thousand perhaps? You have done me and the memory of my people a great service, $N. Please accept this item of power as a token of appreciation from Loreth'Aran - in honor of your deeds."
+ },
+ {
+  "id": 9690,
+  "t": "The Second Trial",
+  "o": "Report to Master Kelerun Bloodmourn.",
+  "d": "Initiate $N, you have worked hard to master the powers of the Light won by our magisters. You have learned the source of our abilities and of the duties of a Blood Knight.$B$BThe time has come for you to undergo the Second Trial, and contest for status as an adept among the Blood Knights. The trial will be administered by Master Kelerun Bloodmourn at a location north of the city. Travel north through the Ruins of Silvermoon and take the east path immediately before the bridge to Sunstrider Isle.",
+  "p": "",
+  "c": "When you are ready, I will tell you more about the trial you are to undergo. Make your preparations and speak to me again when you wish to begin."
+ },
+ {
+  "id": 9691,
+  "t": "Return to Silvermoon",
+  "o": "Return to Knight-Lord Bloodvalor in Silvermoon City.",
+  "d": "Return to Silvermoon City and report to Knight-Lord Bloodvalor promptly. Your arrival will tell him all he needs to know about the outcome of the trial.$B$BHe will tell you of your remaining tasks on the road to becoming an adept. Hold your head high, $N. Many undertake this trial, but very few return to tell of their success.",
+  "p": "",
+  "c": "I knew you had the potential to pass the trial, $N. Your remaining duties are mostly ceremonial, but they are no less dangerous than staring down one of our champions with his weapon drawn. Listen closely, and I will tell you what else you must do to claim your new rank."
+ },
+ {
+  "id": 9692,
+  "t": "The Path of the Adept",
+  "o": "Bring a Corrupted Kor Gem, a Crate of Bloodforged Ingots, a quantity of Blood of the Wrathful, and a Blood Knight Insignia to Knight-Lord Bloodvalor in Silvermoon City.",
+  "d": "Before a newly-minted adept can be accepted into the ranks of the Blood Knights, $g he:she; must procure the resources  to create our order's distinctive weapon, the blood-tempered ranseur.$B$BYou must also earn the right to wear our order's insignia. When the order was founded, a set number were forged and distributed, so each new adept inherits $g his:hers; from a veteran. Your insignia will come from a fallen knight who bravely led an assault on Deatholme.$B$BI have prepared a set of notes to guide you.",
+  "p": "Have you done all that was asked of you?",
+  "c": "Excellent, $N. It's all here. All that remains is to forge the weapon."
+ },
+ {
+  "id": 9693,
+  "t": "What Argus Means to Me",
+  "o": "Exarch Admetius at Blood Watch has told you to speak with Vindicator Boros.",
+  "d": "What does Argus mean to you, $N? Many draenei probably do not know or remember our home planet. It is there that we split from the man'ari: the twisted demonic reflections of ourselves that were 'gifted' by Sargeras. Or as they call themselves, eredar.$B$BEredar... this word once held meaning.$B$B<Admetius smacks his lips as if to taste the word.>$B$BDisgusting.$B$BLet us not waste anymore time. Find Vindicator Boros to begin your training.",
+  "p": "",
+  "c": "Ah, $N... I've heard about you. You're the one that made the Kessel Run in under 15 minutes, right? Bah, probably not.$B$BAre you ready to spill some blood in the name of the Light? For Velen? For Argus?$B$B<Boros laughs.>$B$BI'll slow down."
+ },
+ {
+  "id": 9694,
+  "t": "Blood Watch",
+  "o": "Vindicator Boros at Blood Watch wants you to slay 10 Sunhawk Spies.",
+  "d": "Blood Watch is one of two forward bases operated by the Hand of Argus. You have already been to the other base, Azure Watch; things are completely different in Bloodmyst. When we first got here, the land was as beautiful as Azuremyst. We even called it Silvergale but now sickness is spreading across the land, worse yet, the blood elves that we were battling on the Exodar survived the crash. This brings me to your assignment: Venture northwest into Bladewood and terminate any blood elves that you find.",
+  "p": "There are so many of them that I cannot help but think that they are somehow multiplying.",
+  "c": "You have returned - and in one piece!$B$BI have some good news, $N. We have received some new information about the possible location of more survivors. A new crash site has been discovered! When I am done attending to those matters, I will call for you."
+ },
+ {
+  "id": 9695,
+  "t": "The Sun King's Command",
+  "o": "Take the Sun King's Command to Vindicator Boros at Blood Watch.\r\n",
+  "d": "This document looks to be important. Unfortunately,it is written in Thalassian,a language that you cannot understand.$B$BPerhaps Vindicator Boros will know what to do with the letter.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9696,
+  "t": "Translations...",
+  "o": "Take the Sunhawk Missive to Interrogator Elysia at Blood Watch.",
+  "d": "Our chief interrogator, Elysia, is fluent in Thalassian. Take the document to her and see what she has to say.",
+  "p": "I'm a bit busy here, agent $N. This better be important. ",
+  "c": "<Elysia reads from the document.>$B$BIf what this document says is true, the blood elves have opened a portal to the Outland! It would certainly explain their seemingly endless numbers..."
+ },
+ {
+  "id": 9697,
+  "t": "Watcher Leesa'oh",
+  "o": "Speak with Watcher Leesa'oh at the Cenarion Watchpost in Zangarmarsh.",
+  "d": "There's important research to be conducted into the ecology of the local creatures, especially the sporelings and bog lords of the marsh.  And trust me, once you get out into the field, you'll find the work to be challenging.$B$BSeek out Watcher Leesa'oh at the Cenarion Watchpost in the western region of the marsh toward the south.  Follow the path west and you will eventually find her.  She can be a bit -- studious -- but don't let that get to you.$B$BOh, and watch out for her cat.",
+  "p": "",
+  "c": "Oh, good... help finally!  There's just so much to do, and I need to stay here to organize it all.$B$BI hope that you're ready to get your hands dirty."
+ },
+ {
+  "id": 9698,
+  "t": "Audience with the Prophet",
+  "o": "Take the Translated Sunhawk Missive to Prophet Velen at the Exodar.",
+  "d": "I need you to deliver the translated documents to Velen personally, $N. I don't trust that deranged messenger.$B$BExplain to the Prophet that the blood elves are receiving reinforcements from the Outland and that they have a spy amongst the draenei at the Exodar. Velen resides in the Vault of Lights inside the Exodar.$B$BMake haste!$B",
+  "p": "<Velen smiles.>$B$BGreetings, $N. I have been expecting you.",
+  "c": "<Velen begins to read the document.>$B$BInteresting... This does indeed explain much."
+ },
+ {
+  "id": 9699,
+  "t": "Truth or Fiction",
+  "o": "Take Velen's Orders to Vindicator Boros at Blood Watch.",
+  "d": "I thank you for the timely delivery, $N. You are turning out to be one of the Hand's better agents.$B$BIf only we knew who they reported to in Bloodmyst and more importantly, where this sun portal was... They seem to have it tightly guarded - wherever it may be.$B$BWould you be interested in some reconnaissance work?$B$BIf so, take these orders back to Vindicator Boros. He will give you your next mission.",
+  "p": "Well?",
+  "c": "It's a good plan, but a dangerous one. I'm sure you'll be fine."
+ },
+ {
+  "id": 9700,
+  "t": "I Shoot Magic Into the Darkness",
+  "o": "Vindicator Boros at Blood Watch wants you to locate the Sun Portal Site and slay 5 Void Anomalies.",
+  "d": "Velen states that if the blood elves have been opening rifts between this island and the Outland, there will be residue or anomalies left in the areas where the portals have been opened. You must search the island for locations that exhibit or display these anomalies.$B$BBe warned, $N; some of these anomalies will be creatures from the void itself. Should you find void anomalies, slay them! Report back to me with any new information that you may find. Begin your search to the north, near the Warp Piston.$B",
+  "p": "I've been hearing reports of strange creatures appearing in the area. Whether they are mutated indigenous animals or true void anomalies is something that you need to find out.",
+  "c": "How many did you say you saw at the Warp Piston? Just how many times have they opened up this sun portal? This is very bad news...$B$BAlas, you have learned all that I am able to teach you, $N. Kuros will call for you when it is time."
+ },
+ {
+  "id": 9701,
+  "t": "Observing the Sporelings",
+  "o": "Investigate the Spawning Glen in Zangarmarsh, and then report back to Watcher Leesa'oh at the Cenarion Watchpost in Zangarmarsh with your findings.",
+  "d": "We need to learn all that we can of the sporelings at Sporeggar and their relationship to the creatures around them.  One way to do that is what I'm doing; passive observation while making a note of their interactions.$B$BI need you to head over to the Spawning Glen to the west.  Investigate the whole area and then return to tell me what you saw.",
+  "p": "Back so soon? Your observation of the Sporeggar sporelings is critical to my research. I hope you aren't the type to rush things. Show patience and make certain that you have explored the entirety of the Spawning Glen before giving me your final report.",
+  "c": "What?!  The bog lords of Quagg Ridge are EATING the sporelings' pods?  This isn't good!"
+ },
+ {
+  "id": 9702,
+  "t": "A Question of Gluttony",
+  "o": "Collect 10 pieces of Discarded Nutriment and then return to Watcher Leesa'oh at the Cenarion Watchpost in Zangarmarsh.",
+  "d": "I was wondering why the bog lords were crossing the road to go to the Spawning Glen - they must be starving for some reason.  This just will not do!$B$BI mean, normally I wouldn't get involved, but if they continue to eat all of the sporeling pods they'll wipe them out!$B$BHere's what we'll do: I'll stay here and you head to the Quagg Ridge to the east and look for dietary clues as to why they're raiding the sporelings.",
+  "p": "Be sure that you collect all of the evidence carefully, $c!  We're fitting the pieces of a giant puzzle together here.  A mistake on your part could lead us to the wrong conclusions.$B$BThen where would we be in our understanding of Zangarmarsh's ecology?",
+  "c": "This is what you found?  That's odd.  These husked mushroom remains are both unusual and somehow look familiar.$B$BI have to think on this a moment.  Don't go anywhere!"
+ },
+ {
+  "id": 9703,
+  "t": "The Cryo-Core",
+  "o": "Vindicator Kuros at Blood Watch wants you to recover 12 boxes of Medical Supplies.",
+  "d": "We have others pursuing leads on the sun portals, $N. I need you to focus on the task at hand.$B$BBoros has received new reports of another crash site. What we've since discovered is that the crash site is actually the Exodar's cryo-core. This is a pod holding area that houses pods exactly like the ones we draenei crawled out of in Ammen Vale.$B$BThis area also holds medical supplies. Head to the Cryo-Core, directly west of Blood Watch. Search for supplies and search for survivors.$B",
+  "p": "Was the information accurate?",
+  "c": "Just blood elves? No survivors? This is troubling. I'll need some time to think this through, $N. Perhaps Aesom or Boros have an assignment for you to complete."
+ },
+ {
+  "id": 9706,
+  "t": "Galaen's Journal - The Fate of Vindicator Saruan",
+  "o": "Take Galaen's Journal to Vindicator Kuros at Blood Watch.$B",
+  "d": "Your hands tremble as you pick up the book. Kuros must be told about this tragedy. Return the book to him.",
+  "p": "What have you got there, $N? Is that a journal?",
+  "c": "<Kuros' face turns pale as he reads the journal; tears stream down his face.>$B$BSaruan was my master... my teacher... my mentor... I took his place among the Triumvirate only recently - after we had given up searching for him.$B$B<Kuros' face contorts in anger.>$B$BMatis..."
+ },
+ {
+  "id": 9707,
+  "t": "Forging the Weapon",
+  "o": "Take the Crate of Materials to Bemarrin in Silvermoon City.",
+  "d": "Once again, you have proven yourself worthy before the order and your peers. It is with great pleasure that I bestow upon you the rank of adept, $N. Prince Kael'thas himself would be proud of you.$B$BAny of us would be honored to fight by your side on the field of battle. Continue to serve as an example for those who aspire to join us. Show neither mercy nor weakness, defend your people and your brothers tirelessly, and hone your mastery of the Light.$B$BNow, claim the weapon befitting your new rank.",
+  "p": "Congratulations, $N. Achieving the rank of adept is no mean feat, believe me. I've seen the number of people who enter that building, and how few of them last long enough to visit me bearing these materials.",
+  "c": "It looks like you've got everything I'll need. Let's get started!"
+ },
+ {
+  "id": 9708,
+  "t": "Familiar Fungi",
+  "o": "Collect 15 Mushroom Samples and return them to Watcher Leesa'oh at the Cenarion Watchpost in Zangarmarsh.",
+  "d": "Yes, that's it, I knew I had seen this particular phylum of mushroom elsewhere in the marsh!$B$BTo the north is a place known as the Hewn Bog.  Odd name for the place if you ask me, but I've never been there.  I'll need samples of those mushrooms to confirm my hypothesis.$B$BJust be careful, $c.  I'd heard that ogres have moved in to the area, so you'll have to get the samples from them.  Could that be why the bog lords are no longer going there for their food?",
+  "p": "Do you have those samples yet?",
+  "c": "We definitely have a match here.  And the presence of the ogres and what they were doing there explains everything.  Now I get why it's called the Hewn Bog, duh!$B$BWe have to do something about this situation, but what?  We can't just wipe out all of those ogres; they have every bit as much a right to be here as any of the other creatures in the marsh!"
+ },
+ {
+  "id": 9709,
+  "t": "Stealing Back the Mushrooms",
+  "o": "Collect 10 Boxes of Mushrooms and return them to Watcher Leesa'oh at the Cenarion Watchpost in Zangarmarsh.",
+  "d": "$C, I've got an idea.   I want you to head north again, this time into the heart of ogre territory!$B$BNorthwest of the Hewn Bog there is a place named Ango'rosh Stronghold, which sits on a floating island across a large mushroom bridge.$B$BThe ogres must be storing the harvested mushrooms there.  I bet you'll find them all over the place, and probably on the ogres themselves, too!$B$BBring me a sufficient number and I will try to do something about providing the bog lords with a new source of nourishment.",
+  "p": "You have all of the mushrooms that we need to create a new garden for the bog lords?",
+  "c": "These are perfect!  Oh, thank you, $c!$B$BYou've been ever so careful not to disturb the natural order of things, and we've gathered so much information in such a short amount of time!$B$BNow, let's see if our little plan to grow a new food supply for the bog lords is going to work."
+ },
+ {
+  "id": 9710,
+  "t": "The Blood-Tempered Ranseur",
+  "o": "Wait while Bemarrin forges your weapon.",
+  "d": "I've got everything prepared, $N. Very soon you will have a weapon befitting your new status.",
+  "p": "",
+  "c": "Here it is, $N. Use it well in the service of Silvermoon and your order."
+ },
+ {
+  "id": 9711,
+  "t": "Matis the Cruel",
+  "o": "Vindicator Kuros at Blood Watch wants you to capture Matis the Cruel.",
+  "d": "Matis will be brought to justice, $N; and I want you to be the one to find him and bring him back to the Triumvirate.$B$BScour the island for this killer. Should you find him, use this flare gun. When my trackers see the flare, they'll come and assist in capturing Matis. Return to me after he's been captured.",
+  "p": "",
+  "c": "The Triumvirate has decided to try Matis immediately. You have brought an arch-criminal to justice on this day, young $r.$B$BYou have performed admirably for two of three; only Aesom remains.\r\r\n"
+ },
+ {
+  "id": 9712,
+  "t": "The Thalassian Warhorse",
+  "o": "Talk to Knight-Lord Bloodvalor to learn how to summon your Thalassian Warhorse.",
+  "d": "You have distinguished yourself in the service of the order, $N. Your skill in wielding the Light energies granted by Magister Astalor and his fellows has proven you worthy to receive a new kind of knowledge.$B$BWith the Light at your command, it is possible to summon a fearsome warhorse that will serve as your faithful mount.$B$BContinue to serve with dedication and honor, $N, and even greater boons await you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9714,
+  "t": "Bring Me Another Shrubbery!",
+  "o": "",
+  "d": "",
+  "p": "We can still use more of the sanguine hibiscus from the shamblers, bog giants and underbats of the Underbog at Coilfang Reservoir.  Bring them to me in bunches of five and I will be most grateful.",
+  "c": "These will do nicely, but we can always use more.  Perhaps you will find yourself in the Underbog again soon?"
+ },
+ {
+  "id": 9715,
+  "t": "Bring Me A Shrubbery!",
+  "o": "Collect 5 Sanguine Hibiscus and return them to Gzhun'tt at Sporeggar in Zangarmarsh.",
+  "d": "We must replenish our supply of sanguine hibiscus, which we use for a number of purposes.  They used to grow thick as shrubs, but the lowering of the marsh's water levels means that they can only be found now in the Underbog at Coilfang Reservoir, under Serpent Lake.$B$BIt is said that the shamblers, bog giants, and underbats there consider them a delicacy.  So, if you are to help us, you must retrieve the flowers from them.",
+  "p": "Do you have all of the hibiscus that I asked you to gather?",
+  "c": "These will do nicely, but we can always use more.  Perhaps you will find yourself in the Underbog again soon?"
+ },
+ {
+  "id": 9716,
+  "t": "Disturbance at Umbrafen Lake",
+  "o": "Investigate the cause of the water depletion at Umbrafen Lake.  Then return to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "We came to Outland expecting to find small pockets of life.  What we discovered in Zangarmarsh was a lush environment with a thriving ecosystem.$B$BOur initial assessment of the area was deceiving, however.  The water levels at the lakes and marshes have consistently been going down since we started taking measurements.$B$BThe impact this could have on the local animal and plant life is disastrous.  Go to Umbrafen Lake, southwest of here, and look for clues related to this water depletion.",
+  "p": "Did you discover anything, $N?",
+  "c": "The naga are behind this!  But why?  From what you describe, that steam pump must be part of the cause for the water levels dropping in the marsh!$B$BNo matter - this explains their open hostility towards us.  Let's not waste any time, I need you to perform another task for us."
+ },
+ {
+  "id": 9717,
+  "t": "Oh, It's On!",
+  "o": "Gather an Underspore Frond and return it to T'shu at Sporeggar in Zangarmarsh.",
+  "d": "While we are a peaceful people, we are at war with the spore giants, whether we like it or not.  And there is a saying amongst us that all is fair in mushrooms and war!$B$BOne of the leaders of the spore giants, Hungerfen, has been tending a very special plant, known as the Underspore, to perfection for millennia.  It would break his spirit if something were to happen to that plant.$B$BTravel to the Underbog in Coilfang Reservoir and steal a frond off of it for us.  Trust me, he'll notice.",
+  "p": "The Underbog is a very dangerous place.  I would not consider you a coward if you were to balk at going there.  I also wouldn't be appreciative of you if you did not return with what I've asked for.",
+  "c": "<The sporeling makes a sound that is vaguely reminiscent of snorting laughter.>$B$BPerfect!  No doubt the morale of the spore giants will be at an all time low once they realize what you've done.$B$BEither that, or they'll be so incensed that they'll attack us again soon.$B$B<T'shu makes a shrugging motion.>"
+ },
+ {
+  "id": 9718,
+  "t": "As the Crow Flies",
+  "o": "Ysiel Windsinger wants you to use the Stormcrow Amulet to explore the major lakes in Zangarmarsh.",
+  "d": "We must determine how widespread the naga's activity truly is and react accordingly.$B$BExploring each body of water in Zangarmarsh could be a lengthy undertaking.  If you allow me to, I will use my magic to mold your shape to one more suited to scouting the marsh.$B$BHold this amulet above the balcony near me when you're ready to begin.  I will guide your way back to safety after we're done.",
+  "p": "Hail, $N.",
+  "c": "It is as I suspected.  The naga have set up pumping stations at all the major lakes in Zangarmarsh. $B$BThey must be stopped if the marsh is to have a future."
+ },
+ {
+  "id": 9719,
+  "t": "Stalk the Stalker",
+  "o": "Bring the Brain of the Black Stalker to Khn'nix at Sporeggar in Zangarmarsh.",
+  "d": "Historically the greatest danger to my people has been from the marsh walkers.  With the new problems we are facing from spore giants, we cannot afford another attack from our ancient enemies.$B$BYou have proven yourself to be capable, $c.  Do you think that you'd be able to journey to the Underbog in Coilfang Reservoir and eliminate the great mother of the marsh walkers, known as The Black Stalker?!$B$BBring me her brain as proof.",
+  "p": "You have returned.  Does this mean that The Black Stalker is no more?",
+  "c": "The Black Stalker is dead!  Normally I would not revel in such butchery, but the pain that the great mother and her brood have put my people through over the centuries is unspeakable.$B$BIt is unfortunate that now another of her progeny will transform to replace her, but that will take time and give us some breathing room so that we will not have to worry about the marsh walkers for a while."
+ },
+ {
+  "id": 9720,
+  "t": "Balance Must Be Preserved",
+  "o": "Ysiel Windsinger wants you to use the Ironvine Seeds on the Steam Pump Controls at Serpent Lake, Umbrafen Lake, Marshlight Lake and the Lagoon.  Then return to her at the Cenarion Refuge in Zangarmarsh with any leftover seeds you have.",
+  "d": "I cannot begin to comprehend why the naga would drain the water out of their own habitat.  What I do understand is a need to put a stop to their operations.$B$BThese seeds carry with them the rage of the earth.  Take them to the steam pumps operated by the naga and use them on their controls.$B$BThe vines that grow from the seeds will be as thick as your arm and as strong as iron.  Go, $N.  Restore the balance that the naga have upset.",
+  "p": "Is it done, $c?",
+  "c": "It is done, then.  The marsh has been saved for now.$B$BDon't think for a second that this will be the last we hear of the naga.  We must remain vigilant of our enemy as we continue with our mission in Outland.  "
+ },
+ {
+  "id": 9721,
+  "t": "A Summons from Lord Solanar",
+  "o": "Speak with Lord Solanar Bloodwrath in Silvermoon City.",
+  "d": "Your dedication to our order and advancement through the ranks has not gone unnoticed. In fact, Lord Solanar Bloodwrath, Lady Liadrin's right hand and a hero in his own right, has asked to speak with you.$B$BThis is a rare honor, $N. Normally, Lord Solanar leaves the management of the order's rank-and-file to me, but he has taken a personal interest in you. Do not tarry, $N.",
+  "p": "",
+  "c": "We will discuss the purpose for your visit soon. First. let me say that I am indeed impressed by your service and your skill in wielding the Light."
+ },
+ {
+  "id": 9722,
+  "t": "The Master's Path",
+  "o": "Speak with Lord Solanar Bloodwrath again to accept his offer of sponsorship.",
+  "d": "Within the ranks of our order, there exists an inner circle of elite knights. Members of the circle represent the most dedicated, skilled, and trustworthy of all Blood Knights and are handpicked by the leadership. Most simply know the masters by their thalassian charger mounts.$B$BEach candidate for membership must have a sponsor within the circle and must demonstrate their dedication to the order's central tenets.$B$BI have chosen to sponsor you for standing as a Blood Knight master, if this is your wish.",
+  "p": "",
+  "c": "That you have chosen to accept my offer speaks well of you, $N. I wish you luck in the tasks I am about to set for you, but I'm certain you'll prove yourself more than capable.$B$BI will present the tasks in order from easiest to most difficult and we may begin when you are prepared."
+ },
+ {
+  "id": 9723,
+  "t": "A Gesture of Commitment",
+  "o": "Bring 40 Runecloth, 6 Arcanite Bars, 10 Sungrass, 5 Dark Runes, and 150 Gold to Lord Solanar Bloodwrath in Silvermoon City.",
+  "d": "A Blood Knight's loyalty does not stop at the end of $g his:her; blade, $N. The order asks more of its members than mere drilling and combat. A true knight contributes to all of the order's activities, even the ones that may not seem glorious on the surface.$B$BThis first task is neither combat intensive, nor glorious, but without such contributions, the order would fall apart. I will give you a list of items Magister Astalor Bloodsworn's men require to keep us supplied with Light energy for our magics.",
+  "p": "Have you returned with the materials Magister Astalor requires?",
+  "c": "Excellent. It appears everything is here.$B$BDon't worry. your next task will include plenty of opportunities to wield your weapon again, I promise.$B$BI'll have an initiate bring it all to Magister Astalor. There's no need to send you on such a trivial errand when there are more important things to be done."
+ },
+ {
+  "id": 9724,
+  "t": "Warning the Cenarion Circle",
+  "o": "Speak to Amythiel Mistwalker at Cenarion Post in Hellfire Peninsula.",
+  "d": "The Cenarion Expedition has become a large organization with a good degree of autonomy.  These events are important enough that we need to warn the Cenarion Circle.$B$BDo not worry, I will not ask you to travel back to Moonglade; we have emissaries as nearby as Hellfire Peninsula.",
+  "p": "",
+  "c": "The news you bring about the naga activity in Zangarmarsh is dire.  Ysiel was wise in sending word to us.  She hasn't forgotten that the Expedition cannot exist without the Circle's support."
+ },
+ {
+  "id": 9725,
+  "t": "A Demonstration of Loyalty",
+  "o": "Lord Solanar Bloodwrath in Silvermoon City wants you to destroy 3 Scourge Meat Wagons and kill 15 Scourge Siege Engineers.",
+  "d": "We Blood Knights are bound to defend Quel'Thalas, $N. This is a central part of your training. Our enemies are fierce and unrelenting. Silvermoon and its people remain free by our efforts and the support of our allies.$B$BI have received some disturbing reports of a renewed Scourge presence to the southeast of our border with the Eastern Plaguelands. A company of Scourge siege engineers and their equipment appear to be staging for an attack on the Ghostlands. They must not be permitted to succeed.",
+  "p": "Welcome back, $N. Have you beaten back the Scourge and their meatwagons?",
+  "c": "You have done well in demonstrating your loyalty to your homeland and dedication to the needs of the order, $N. I have one last task for you before you may lay claim to the title of master."
+ },
+ {
+  "id": 9726,
+  "t": "Now That We're Friends...",
+  "o": "Kill 12 Bloodscale Slavedrivers and 6 Bloodscale Enchantresses, and then return to Gzhun'tt at Sporeggar in Zangarmarsh.",
+  "d": "The naga of the Bloodscale Enclave to the northeast have begun to kill our people.  We cannot allow this to continue, $c!$B$BWe suggest that you teach them a lesson as proof of our friendship.",
+  "p": "Have you paid the naga a visit yet?",
+  "c": "<Gzhun'tt nods to you.>$B$BWe are pleased that you have affirmed our friendship, $N.  Perhaps the naga heathens will think twice about harassing us in the future now that we have such a powerful ally?"
+ },
+ {
+  "id": 9727,
+  "t": "Now That We're Still Friends...",
+  "o": "Kill 12 Bloodscale Slavedrivers and 6 Bloodscale Enchantresses, and then return to Gzhun'tt at Sporeggar in Zangarmarsh.",
+  "d": "Reports have come in that the naga of the Bloodscale Enclave to the northeast continue to kill our people.  We thought that you had dealt with this, $c!$B$BI suggest that you to teach them a lesson as proof of our continued friendship.",
+  "p": "Have you paid the naga a visit yet?",
+  "c": "<Gzhun'tt nods to you.>$B$BWe are pleased that you have reaffirmed our friendship, $N. Surely now that you have made our point clear multiple times, their senseless attacks upon our people will cease?"
+ },
+ {
+  "id": 9728,
+  "t": "A Warm Welcome",
+  "o": "Warden Hamoot at the Cenarion Refuge wants you to bring him 30 Naga Claws.",
+  "d": "While the druids from the expedition have made themselves busy studying plants and researching the lakes, I've made it my business to deal with the hostiles in the area.$B$BEver since we set foot in Zangarmarsh, the naga have launched lethal attacks against us without warning.  We've done our best to keep them at bay, but our resources are limited.$B$BI want you to go to the various naga strongholds in Zangarmarsh and show them that we're not to be crossed.  Bring me their claws as proof of your victories.",
+  "p": "It's good to see you again, $N.  How's your hunt for the naga going?",
+  "c": "Good job, $N.  You'd do well to shed any feelings of remorse you might harbor.  These naga are vicious creatures - even more so than the Azerothian ones."
+ },
+ {
+  "id": 9729,
+  "t": "Fhwoor Smash!",
+  "o": "Escort Fhwoor into the area of the Marshlight steam pump to retrieve the Ark of Ssslith.  Bring Fhwoor and the ark back safely and then report back to Gzhun'tt at Sporeggar in Zangarmarsh.",
+  "d": "Little naga make Fhwoor angry!  Sporelings good friend to Fhwoor, so Fhwoor get naga ark.$B$BWe go into nearby naga village.  You help?  Bring friends!",
+  "p": "Is Fwhoor alright? Have you recovered the ark?",
+  "c": "Fhwoor's a good giant. We saved him from the naga a while ago and he's stayed here helping us with things ever since.$B$BWe can only hope that the naga will take the hint and realize that if we can infiltrate their village and steal their most prized possession, we can do much worse. Perhaps now they will return to their reservoir and leave us in peace?"
+ },
+ {
+  "id": 9730,
+  "t": "Leader of the Darkcrest",
+  "o": "Slay Rajah Haghazed at the Lagoon and return to Warden Hamoot at the Cenarion Expedition in Zangarmarsh for a reward.",
+  "d": "A bounty is hereby declared by the Cenarion Expedition on Rajah Haghazed, leader of the Darkcrest naga.  Haghazed was last sighted by Cenarion scouts at the Lagoon, in the central southern region of Zangarmarsh.$B$BThe Darkcrest have been linked to numerous attacks against the Cenarion Expedition and their leader is considered extremely dangerous.$B$BThose seeking to claim the bounty are advised to report to Warden Hamoot.",
+  "p": "You want to talk about the bounty for Haghazed?  Well, is he dead?  There isn't much else to talk about!",
+  "c": "I didn't like the naga in Azeroth and I like them less here.  It's a real shame our mission could not remain a peaceful one, but you won't see me shedding tears for dead naga.$B$BHere's your reward for taking care of the Darkcrest leader, $N."
+ },
+ {
+  "id": 9731,
+  "t": "Drain Schematics",
+  "o": "Search Serpent Lake for signs of a drain.  Return to Ysiel Windsinger at the Cenarion Refuge with news of your discovery.",
+  "d": "The schematics you've obtained show an underground system of drains and pumps that connect the lakes in the region to Serpent Lake.$B$BIf the schematics are correct, there is a giant drain in the center of Serpent Lake.  Confirm this and bring the news to Cenarion Refuge.",
+  "p": "What news do you bring, $N?",
+  "c": "The naga have turned Serpent Lake into a giant water sink for the rest of Zangarmarsh.  What could they possibly be doing?$B$BYou've done well in bringing this news to us, $N.  We will send a team to investigate this drain you've discovered.  I have a different task for you in the meanwhile."
+ },
+ {
+  "id": 9732,
+  "t": "Return to the Marsh",
+  "o": "Return to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Return to Ysiel and let her know that help will be extended to her as soon as it is possible.$B$BAffairs in Moonglade and Silithus have kept our members occupied, but we will do our best to send the necessary resources to the Cenarion Refuge.  ",
+  "p": "",
+  "c": "You are a welcome sight, $N.  Matters at the Cenarion Refuge have only gotten worse since you left."
+ },
+ {
+  "id": 9733,
+  "t": "Warning the Cenarion Circle",
+  "o": "Speak to Mahuram Stouthoof at Thrallmar in Hellfire Peninsula.",
+  "d": "The Cenarion Expedition has become a large organization with a good degree of autonomy.  These events are important enough that we need to warn the Cenarion Circle.$B$BDo not worry, I will not ask you to travel back to Moonglade; we have emissaries as nearby as Hellfire Peninsula.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9734,
+  "t": "Return to the Marsh",
+  "o": "Return to Ysiel Windsinger at the Cenarion Refuge in Zangarmarsh.",
+  "d": "Return to Ysiel and let her know that help will be extended to her as soon as it is possible.$B$BAffairs in Moonglade and Silithus have kept our members occupied, but we will do our best to send the necessary resources to the Cenarion Refuge.  ",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9735,
+  "t": "True Masters of the Light",
+  "o": "Lord Solanar Bloodwrath in Silvermoon City wants you to bring him a vial of Tyr's Hand Holy Water.",
+  "d": "A Blood Knight master possesses incredible skill at wielding and weaving the Light in a way that other so-called 'paladins' can never comprehend. It doesn't stop them from despising us for unleashing the Light's true potential.$B$BWe must send them a message and show them that we are not to be trifled with. What I have in mind will be neither brief nor easy, but if you are committed, the first step will be to infiltrate the library wing of the Tyr's Hand Abbey and procure a vial of Tyr's Hand holy water.",
+  "p": "Were you able to get the water?",
+  "c": "Hmm... this is a rather small amount. but if we're careful. it should be sufficient. You see. the Scarlet Crusade believes itself dedicated to the Light. I suppose they still are, in a twisted sort of way, and that's exactly what I'm hoping to capitalize on.$B$BTheir misguided zeal has even tainted the blessing spoken over this water, making it ideal for my purpose."
+ },
+ {
+  "id": 9736,
+  "t": "True Masters of the Light",
+  "o": "Lord Solanar Bloodwrath in Silvermoon City wants you to bring him 1 Arcane Catalyst, 1 Crepuscular Powder, 1 Azerothian Diamond, and 1 Pristine Black Diamond.",
+  "d": "Now that we have the water, we're going to need a number of reagents in precise quantities. Some of these substances are rare and expensive, $N, but I have located sources for two.$B$BYou should be able to purchase some arcane catalyst from Zalle, the reagent vendor in one of the shops on the plaza near the Dead Scar. Darlia, the poison merchant near the rogue trainers on Murder Row, stocks crepuscular powder.$B$BTo complete my mixture, I'll also need an azerothian diamond and a pristine black diamond.",
+  "p": "Have you gathered the reagents I'll need?",
+  "c": "Now that we have all the reagents, I can prepare the mixture.$B$B<A slow smile spreads across Lady Liadrin's face.>$B$BIt's all coming together perfectly, $N. When this is finished, I'll give you the details about what remains to be done."
+ },
+ {
+  "id": 9737,
+  "t": "True Masters of the Light",
+  "o": "Use the Extinguishing Mixture near the eternal flame in the Alonsus Chapel to remove the Light's protection. Be prepared to fight anyone who may attempt to defend the chapel.",
+  "d": "Ours is the true way of utilizing the Light, $N. To show others that would call themselves 'paladins' the folly of their ways, I intend to send an unmistakable message.$B$BThe Alonsus Chapel, where the Order of the Silver Hand was founded, seems immune to the destruction of Stratholme. The chapel's eternal flame affords it the Light's protection, but when you use this mixture to extinguish the flame, that protection will be no more. It will burn, and our dominion over the Light will be proven to the world.",
+  "p": "Have you done as I asked and delivered my message? The false paladins of the world must surely know their time has come to an end.",
+  "c": "Well done, $N. All who would oppose us would do well to heed the warning you delivered. Our foes should know that they are in peril, from the lowest foot soldier to the mightiest $Ghero:heroine;.$B$BYou have earned your place in the ranks of the masters. Your dedication and prowess serve as an example for all Blood Knights. As a symbol of your new status, I grant you the ability to summon and command the thalassian charger."
+ },
+ {
+  "id": 9738,
+  "t": "Lost in Action",
+  "o": "Discover what happened to Earthbinder Rayge, Naturalist Bite, Weeder Greenthumb, and Windcaller Claw.  Then, return to Watcher Jhang at Coilfang Reservoir in Zangarmarsh.",
+  "d": "You have to help me!  We were sent here by Ysiel to investigate the mystery of the steam pumps and why they're being used to drain the water from the marsh.  But my friends split up and went on recklessly without me.$B$BThose four can be such jerks sometimes, but I love them anyway.$B$BThat is why I need you to discover what became of them, though I fear the worst.  Seek them in both the Slave Pens and the Underbog.$B$BThank you, $c.",
+  "p": "Have you discovered the whereabouts of my four companions yet?",
+  "c": "I'm glad that some of my friends yet live, but it breaks my heart to hear of the fate of others.  <sigh>$B$BAt least they died doing what they loved most in life.  You have my eternal gratitude for helping me with this, $N.$B$BPlease, take one of these as a sign of gratitude."
+ },
+ {
+  "id": 9739,
+  "t": "The Sporelings' Plight",
+  "o": "Fahssn at the Spawning Glen wants you to collect 10 Mature Spore Sacs.",
+  "d": "You there!  You must help us!$B$BThe fungal giants are devouring all of our spore sacs!  You must do something, or we'll lose our young!$B$BThe spore sacs start out large and become smaller as the air inside them is depleted.  Look for the small, mature spore sacs and save as many of them as you can!",
+  "p": "The spore sacs!  Did you get them?",
+  "c": "You've done it!  You have my people's thanks.$B$BI hope you understand... this is where our young ones come from.  We can't let these beasts devour the sacs!"
+ },
+ {
+  "id": 9740,
+  "t": "The Sun Gate",
+  "o": "Vindicator Aesom at Blood Watch wants you to destroy the Sun Gate.",
+  "d": "Thanks to you and the work you did, my scouts were able to find the sun gate. The elves keep the portal location mobile so that they can move it at a moment's notice. That's why the site you investigated was empty.$B$BThe strength of such a system is also its greatest weakness. The sun gate is stabilized by portal controllers. If we can take down the controllers, the portal will be ours to destroy. The current sun gate location can be found west of here, south of the Vector Coil. Find it and destroy it!",
+  "p": "You must take out their portal controllers before you can destroy the gate itself!",
+  "c": "Smashing! We've cut off their supply line. Now all that we need to do is finish them off! "
+ },
+ {
+  "id": 9741,
+  "t": "Critters of the Void",
+  "o": "Kill 12 Void Critters and report to Vindicator Aesom at Blood Watch.$B",
+  "d": "Aesom sent my squad out on a reconnaissance mission to search for the sun gate a few days ago. Needless to say, we found it...$B$B<Loryi points at Jorli.>$B$BWhatever those fool elves are transporting through that portal is causing void energy to be released. The area is teaming with void critters. $B$BWe must destroy them before they have a chance to grow into void anomalies. You'll find the source of the creatures southwest of here, near the sun gate. Kill them and report back to Aesom when you're done.",
+  "p": "Void critters grow into void anomalies. Truth be told, we really don't know what these creatures are... the name is more of a classification.",
+  "c": "It's a real mess up there, eh? You've done well, $N. I'll send some anchorites out to help Loryi and Jorli.\r\r\n"
+ },
+ {
+  "id": 9742,
+  "t": "More Spore Sacs",
+  "o": "",
+  "d": "",
+  "p": "Have you rescued any more spore sacs, $R?",
+  "c": "Yes! You've saved more spore sacs.$B$BYou're different than the other outsiders. I'll let my people know about your deeds!$B$B<This quest is repeatable up to friendly reputation.>"
+ }
+]

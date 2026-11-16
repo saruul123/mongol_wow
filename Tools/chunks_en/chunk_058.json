@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12083,
+  "t": "Atop the Woodlands",
+  "o": "Obtain the Ley Line Focus Control Amulet and use it to gain information from the Ley Line Focus in the Lothalor Woodlands.$B$BThen, return to the Image of Archmage Modera at Stars' Rest.",
+  "d": "I'm convinced that there must be more of those foci, each of them in-turn redirecting the ley line energies. We still don't know precisely what they're doing with all of that power, though.$B$BMy guess is that you'll find another one atop the Lothalor Woodlands to the southeast. Once again you'll need to find the person in charge and take whatever controlling device they have in their possession as I'm sure that each focus has its own.$B$BBe careful, $N, those woods are very dangerous.",
+  "p": "What did you find up in the woods?",
+  "c": "They're empowering their forces with it? That doesn't make any sense; the mage hunters aren't that powerful.$B$BThis must mean that they're only using the magic at the terminus of wherever they've redirected the ley line to.$B$BWe're going to need more information if we're to have a chance at finding and stopping them!"
+ },
+ {
+  "id": 12084,
+  "t": "Atop the Woodlands",
+  "o": "Obtain the Ley Line Focus Control Amulet and use it to gain information from the Ley Line Focus in the Lothalor Woodlands.$B$BThen, return to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "I'm convinced that there must be more of those foci, each of them in-turn redirecting the ley line energies. We still don't know precisely what they're doing with all of that power, though.$B$BMy guess is that you'll find another one atop the Lothalor Woodlands to the south. Once again you'll need to find the person in charge and take whatever controlling device they have in their possession as I'm sure that each focus has its own.$B$BBe quick about your business, $c. I feel that time may be running out.",
+  "p": "What did you find up in those woods?",
+  "c": "They're empowering their forces with it? That doesn't make any sense at all; the mage hunters aren't that powerful!$B$BThis must mean that they're only using the magic at the terminus of wherever they've redirected the ley line to.$B$BWe're going to need more information if I'm to devise a plan to stop them!"
+ },
+ {
+  "id": 12085,
+  "t": "A Letter for Home",
+  "o": "Deliver Lieutenant Ta'zinni's Letter to Overlord Agmar at Agmar's Hammer.",
+  "d": "You find a letter secreted in the lining of his robes. It reads:$B$B\"Deino,$B$BTa'zinni sorry for disappearing on ya. If you're reading this letter, then I be dead.$B$BI been forced to work for Malygos's armies under threat that the family would be killed if I didn't. Ta'zinni wasn't gonna let that happen!$B$BDon't worry about me, just keep your kids safe. I have them fooled and I'm sabotaging them from the inside.$B$BI love you, sistah!$B$BTa'zinni\"$B$BOverlord Agmar is sure to want to see this!",
+  "p": "What's this? You think you're going to mail a letter?$B$BAll mail goes through me first. There are spies and traitors amongst us!$B$B<The overlord gives you the once over and you wonder if he's going to have you killed on the spot.>$B$BVery well, be quick about it. But if I don't like what I read, I'm going to feed you to my worgs.$B$B<Agmar grins as both Gar'mak and Lak'tuk turn and look at you like you're their next meal.>",
+  "c": "Ahahahaha... boo hoo, how touching.$B$B<The condescension in the overlord's deep-throated laughter is palpable.>$B$BWhat did I say? Traitors! Still, I knew Deino once upon a time. She at least is a troll with honor!$B$BI'll see to it that she finds out what happened to her brother. I'll even forget to tell her that you're the one that killed him.$B$B<Agmar fixes you with a calculated stare.>$B$BBut I own you now, $c!"
+ },
+ {
+  "id": 12086,
+  "t": "The Son of Karkut",
+  "o": "Go east to Death's Stand, just beyond Unu'pe.",
+  "d": "The man you seek went far to the east, to a place near the coast called Death's Stand, beyond Unu'pe.$B$BBe careful if you go in search of him, $N.  He bore the mark of Karkut... he who watches over the dead.",
+  "p": "",
+  "c": "Thassarian?  Yeah he was here... what of it?  We have more pressing problems right now, my friend."
+ },
+ {
+  "id": 12087,
+  "t": "A Little Help Here? DEPRECATED",
+  "o": "Corporal Venn at Death's Stand wants you to kill 8 Ziggurat Defenders.",
+  "d": "We were sent here to take over the Howling Ziggurat, due north.  We weren't expecting to make it back alive.... hell, we already lost half our crew.$B$BTassarian was on point and the higher ups... well, they didn't like something about him.$B$BHe took off this morning... he might've gone to the ziggurat on his own.  But right now we have more pressing matters to worry about.  The Scourge keeps getting closer and closer to the camp, we need to take care of them -- now!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12088,
+  "t": "Thassarian, the Death Knight",
+  "o": "Look for Thassarian inside the Wailing Ziggurat, north of Death's Stand.",
+  "d": "Well, $N, you helped us out... so I figure it's only fair that we help you out as well.$B$BYou're looking for Thassarian?  He disappeared this morning.  We think he went off north to the Wailing Ziggurat.  If we hadn't fought side by side by him we'd even think he was a traitor.$B$BSee, he's a Death Knight... and I know they're on our side and all... but it wasn't too long ago they were servants of Arthas.$B$BBut not Thassarian, he's a good guy.  Go to the Wailing Ziggurat, see if he's doing okay.",
+  "p": "",
+  "c": "Leryssa... is looking for me?  You must help me, $N.  We must finish this before she gets hurt."
+ },
+ {
+  "id": 12089,
+  "t": "Wanted: Magister Keldonus",
+  "o": "Slay Magister Keldonus and return to Captain Gort at Agmar's Hammer in the Dragonblight.",
+  "d": "By decree of Overlord Agmar:$B$BTarget: Magister Keldonus$B$BCrime: Treason$B$BStatus: Alive$B$BMagister Keldonus, once mage commander of Agmar's Hammer, is to be killed on sight in the name of the Horde.$B$BKeldonus was last seen traveling southwest towards Moonrest Gardens to join the Blue Dragonflight in their campaign against magic.$B$BApproach with caution as Keldonus is a powerful magus. Do not engage solo!$B$BAll bounties are paid out by Captain Gort at Agmar's Hammer.",
+  "p": "Come to collect on a bounty?",
+  "c": "He wasn't the first of those sissy spell casters to betray us, and he certainly won't be the last. Damned shame, too... He was one of our best mages. He'd summon a buffet that would make your mouth water and your heart jump for joy...$B$BBAH!"
+ },
+ {
+  "id": 12090,
+  "t": "Wanted: Gigantaur",
+  "o": "Slay Gigantaur and return to Captain Gort at Agmar's Hammer in the Dragonblight.$B",
+  "d": "By decree of Overlord Agmar:$B$BTarget: Gigantaur$B$BCrime: Attacks upon the Horde; \"Bein' ugly\"$B$BStatus: Alive$B$BThe magnataur lord, Gigantaur, is wanted in relation to a number of attacks against Horde soldiers and installations in the Dragonblight.$B$BGigantaur was last seen wandering the woods and roads south by southeast of Agmar's Hammer.$B$BGigantaur should be considered armed and extremely dangerous. Do not engage solo!$B$BAll bounties are paid out by Captain Gort at Agmar's Hammer.",
+  "p": "Come to collect on a bounty?",
+  "c": "You got that ugly son-of-a-horse, eh? Well that's one less nuisance our soldiers will have to deal with out in the frozen wastes."
+ },
+ {
+  "id": 12091,
+  "t": "Wanted: Dreadtalon",
+  "o": "Slay Dreadtalon and return to Captain Gort at Agmar's Hammer in the Dragonblight.",
+  "d": "By decree of Overlord Agmar:$B$BTarget: Dreadtalon$B$BCrime: Attacks upon the Horde$B$BStatus: Alive$B$BDreadtalon is wanted for numerous attacks upon Horde caravans traveling to and from Venomspite.$B$BDreadtalon makes his home on a bluff overlooking the Ruby Dragonshrine, east of Agmar's Hammer. He should be approached with extreme caution. Do not engage solo!$B$BAll bounties are paid out by Captain Gort at Agmar's Hammer.",
+  "p": "Come to collect on a bounty?",
+  "c": "About time someone put a stop to that filthy beast's killing spree! A job well done, $N."
+ },
+ {
+  "id": 12092,
+  "t": "Strengthen the Ancients",
+  "o": "Use the Bark of the Walkers to strengthen 3 Lothalor Ancients and then return to Sarendryana at Stars' Rest.",
+  "d": "It's not only the $r race that has been impacted by what the blue dragonflight forces have done. The ancients of the Lothalor Woods to the southeast have been affected as well.$B$BSome have been corrupted-- avoid them at all costs--but most can still be saved. However, the treants of the woods seem to be immune to the magic seeping through the land and the arcane wyrms that have come with it.$B$BAsk the treants for their bark and feed it to the ancients. Hopefully that will be enough to save them.",
+  "p": "An added benefit of saving the ancients may turn out that they will consider assisting the Alliance with its hardships. Regardless, it is the right thing to do.$B$BNow, how many were you able to strengthen, $c?",
+  "c": "Thank you, $r! We've lost so much already. You've ensured that we won't lose the most majestic of Northrend's children.$B$BI'll soon leave to speak with the ancients you saved and see if they will help us in our time of need."
+ },
+ {
+  "id": 12093,
+  "t": "Runes of Compulsion",
+  "o": "Gavrock, at the Ruins of Tethys, wants you to neutralize the four Runes of Compulsion by defeating Overseer Durval, Overseer Korgan, Overseer Lochli, and Overseer Brunon.",
+  "d": "Even as Kurun attacks Thor Modan, the iron dwarves work their magics against our brothers. Summoning our brothers from the earth, then binding them with runes, the sons of iron force them to war against the children of stone.$B$BAlong the Eastwind Shore, they use runes of compulsion to send enslaved giants to the battlefields of the north.$B$BFind the four runes of compulsion and force their overseers to appear by defeating the rune-weavers who man each rune. Without the overseers, the runes are useless.",
+  "p": "Have you neutralized the runes on the coast?",
+  "c": "Good. Now, we must act swiftly, before the sons of iron realize that their runes have been rendered harmless."
+ },
+ {
+  "id": 12094,
+  "t": "Latent Power",
+  "o": "Charge the Shard of Gavrock at the First Ancient Stone, the Second Ancient Stone, and the Third Ancient Stone, then return to Gavrock at the Ruins of Tethys.",
+  "d": "While the runes of compulsion are dormant, there is a chance we can release the runed giants.$B$BI will give you a piece of stone that has been part of me since my creation. If properly imbued, it can be used to free the bound giants.$B$BTwo ancient stone markers sit atop places of power between the Path of Iron and the forest's edge -- locations your people would call the intersections of ley lines. The other is on an island at the southern end of these ruins. Charge the shard at each stone and return.",
+  "p": "Did you find the ancient stones?",
+  "c": "I can detect the power you've imbued in the shard and I hope it will be enough to break the runic magic."
+ },
+ {
+  "id": 12095,
+  "t": "To Dragon's Fall",
+  "o": "Speak with Rokhan at Dragon's Fall in the Dragonblight.",
+  "d": "East of here, in the heart of the Dragonblight, is a field full of nothing but dragon bones and snow. The Scourge have set up multiple camps in the central tundra and are raising frostwyrms to send against our forces at the Wrathgate. While most of these frostwyrms are easily dealt with by Rokhan and his dragon hunters, one of them is proving to be a bit problematic.$B$BGo northeast and seek out Rokhan at Dragon's Fall. Help him and his men put down Sarathstra and you'll be rewarded handsomely!",
+  "p": "",
+  "c": "What make you tink dat you succeed where Rokhan fail?"
+ },
+ {
+  "id": 12096,
+  "t": "Strengthen the Ancients",
+  "o": "Use the Bark of the Walkers to strengthen 3 Lothalor Ancients and then return to Earthwarden Grife at Agmar's Hammer.",
+  "d": "The ancients of the Lothalor Woods to the south are being corrupted by arcane wyrms... wyrms which have risen out of the ground!$B$BThose that are already corrupted are deadly and of no use to us, but most can still be saved. Luckily, the treants of the woods seem to be immune to everything happening up there.$B$BAsk the treants for their bark and when you get some, feed it to the ancients. This should strengthen them.$B$BNow leave me to my business! I have to keep an eye on these apothecaries.",
+  "p": "If we can save the ancients before the dryads and night elves of Stars' Rest, perhaps they will consider allying with the Horde.$B$BOr at least, perhaps they'll think twice about attacking us.$B$BNow, how many have you managed to save so far?",
+  "c": "You have my thanks, $c.$B$BAs soon as I am done observing what these disgusting apothecaries are up to, I'll head to the woods and see if I can convince these ancients to side with us.$B$BOr, if nothing else, I'll convince them not to attack those that saved them!"
+ },
+ {
+  "id": 12097,
+  "t": "Sarathstra, Scourge of the North",
+  "o": "Speak with Rokhan to call down the frostwyrm, Sarathstra.$B$BKill Sarathstra and deliver Sarathstra's Frozen Heart to Captain Gort at Agmar's Hammer.",
+  "d": "Me hunters be dead or frozen, $N. Just you and whatever allies you bring wit ya is all da help you get. You still want to do dis? Just say da word and me call for da dragon once more.$B$BIf ya kill it, take da beast's frozen heart back to Agmar's Hammer and present it to Gort. He sure to reward you good, mon.",
+  "p": "<Gort raises an eyebrow.>$B$BBack so soon?",
+  "c": "HA! You did it! The soldiers at the Wrathgate are indebted to you, $N! This'll surely buy a few of them another day above ground."
+ },
+ {
+  "id": 12098,
+  "t": "Search Indu'le Village",
+  "o": "Search for the commander of the mage hunter forces at Indu'le Village and Lake Indu'le.",
+  "d": "I'm certain that you'll find the next ley line focus somewhere in the remains of Indu'le Village to the southeast. The problem is, we've had absolutely no reports of there being one there.$B$BIf you would, please investigate the village for any signs of the focus or the mage hunters and their commander in the area.$B$BDon't forget to search in the lake if you have to.",
+  "p": "",
+  "c": "You find the corpse of the mage hunter commander here.$B$BJudging by his appearance, and the condition of the forces around him, you would guess that they didn't drown. Rather, when they summoned the focus in, they didn't expect the elementals that arose from the rents in the lake bed to attack.$B$BIt would appear that the mage hunter forces were the architects of their own demise."
+ },
+ {
+  "id": 12099,
+  "t": "Free at Last",
+  "o": "Use Gavrock's Runebreaker to free 4 Runed Giants, then return to Gavrock at the Ruins of Tethys.",
+  "d": "The rock shard you imbued should be powerful enough to break the runic magic binding my brothers.$B$BTake it with you and find the runed giants walking north along the Eastwind Shore. Unleash the power stored in the stone and observe the results.$B$BIf it works, the runed giants should return to their senses and stop obeying the iron dwarves. If the stone fails to work, the giants may attack in a weakened state. But, what choice do we have? If we do not try, they will remain enslaved without hope.",
+  "p": "Were you able to free any of my brothers?",
+  "c": "So it's an uncertain thing? I wish it was not a matter of chance, but at least we're on the right path. Without your help, this wouldn't have ever been possible. Should you learn any more about the machinations of the iron dwarves and their plans toward the children of stone, seek us out and we will hear you, $N."
+ },
+ {
+  "id": 12100,
+  "t": "Containing the Rot",
+  "o": "Soar Hawkfury at Agmar's Hammer in the Dragonblight wants you to kill 15 Infected Wildlife and recover a Rot Resistant Organ.",
+  "d": "With Scourge comes death and disease. We often overlook that the wildlife of a Scourge infested area is ravaged and ultimately destroyed by rot and contagion.$B$BFor most of the indigenous beasts of the Dragonblight it is too late. The festering disease that the Scourge brings has already infected the beasts and they are now rabid and rotting.$B$BYou must venture west, towards the Pit of Narjun, and cull the infected wildlife. Check their corpses for a preserved organ as we need one to devise a vaccine.",
+  "p": "Kill the beasts to prevent the spread and bring me a rot resistant organ.",
+  "c": "It pains me to put animals down, but it is a service that must be performed. Now we must move on to the next step: Inoculation."
+ },
+ {
+  "id": 12101,
+  "t": "The Good Doctor...",
+  "o": "Deliver the Rot Resistant Organ to Doctor Sintar Malefious at Agmar's Hammer.$B",
+  "d": "Our Forsaken allies have sent their apothecary core here to assist us in destroying the Scourge at the Wrathgate. One among them, Doctor Sintar Malefious, is well versed in the Scourge rot and methods of containing the spread. I had previously worked out a deal with him in regards to devising a vaccine for wildlife. He's since been waiting on the organ.$B$BDeliver this rot resistant organ to Dr. Malefious and let him know it's from me. He'll direct you on your next task.",
+  "p": "What now?",
+  "c": "The oafish man-cow actually acquired a rot resistant organ? Curses... I was certain that task would keep his malformed mind occupied well into the next millennium.$B$BWell give it here, $Gboy:girl;. I have much to do without your feeble needs getting in the way."
+ },
+ {
+  "id": 12102,
+  "t": "In Search of the Ruby Lilac",
+  "o": "Doctor Sintar Malefious at Agmar's Hammer in the Dragonblight wants you to collect 1 Ruby Lilac.",
+  "d": "How fortuitous it is that the Ruby Dragonshrine lays just to the east. It is there that you will find a flower called the ruby lilac. This lifegiving plant is all that I need to concoct a vaccine for the untainted beasts of this region.$B$BTravel east and search the Ruby Dragonshrine for the lilac.$B$BJust one thing: The dragonshrine, like all the dragonshrines in this blasted wasteland, is beset by the Scourge. Watch your step. We wouldn't want you to be devoured by an emberwyrm.$B$B<Sintar laughs.>",
+  "p": "Do you have the ruby lilac?",
+  "c": "That wasn't so difficult, now was it?$B$BNow give me a moment to prepare the vaccine."
+ },
+ {
+  "id": 12103,
+  "t": "DEPRECATED",
+  "o": "Captain Derrick at Amberpine Lodge wants you to slay 8 Silverbrook Villagers and 8 Silverbrook Trappers.",
+  "d": "I've heard enough, $N.  We must make sure whatever's happening at Silverbrook doesn't spread to the rest of the continent.$B$BI don't care if it's the water, the altitude or an ancient troll curse that's driven these villagers murderously insane... return to Silverbrook and put an end to them.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12104,
+  "t": "Return to Soar",
+  "o": "Deliver Sintar's Vaccine to Soar Hawkfury at Agmar's Hammer.",
+  "d": "<Doctor Malefious hands you a vial full of murky liquid.>$B$BHere you are then, $r. Take this back to the cow and let him know that all debts have been paid. We are officially \"square.\"$B$BNow leave me before I set Jennings upon you.",
+  "p": "Have you got the vaccine?",
+  "c": "<Soar holds the vial up to the sky and examines its contents.>$B$BOnly one thing left to do now."
+ },
+ {
+  "id": 12105,
+  "t": "Descent into Darkness",
+  "o": "Bring Mikhail's Journal to Lieutenant Dumont in Amberpine Lodge.",
+  "d": "The journal was written by a denizen of Silverbrook named Mikhail.  It details the arrival of a shadow-worshipping group called the \"wolfcult.\"$B$BThe villagers were reluctant to embrace the cult at first, but sympathizers sprung up gradually among town residents.$B$BUnsettled by this, Mikhail sent his daughter Sasha away from Silverbrook while he attempted to reason with the other villagers.$B$BMikhail's last entry mentions a meeting of local town leaders to discuss unspecified events in Hollowstone Mine.",
+  "p": "What's that you've got there?",
+  "c": "I imagined there would be more to this than just an isolated town of hostiles.$B$BWe have men near Hollowstone Mine, perhaps it would be in our interest to do a little research."
+ },
+ {
+  "id": 12106,
+  "t": "Search Indu'le Village",
+  "o": "Search for the commander of the mage hunter forces at Indu'le Village and Lake Indu'le.",
+  "d": "I'm certain that you'll find the next ley line focus somewhere in the remains of Indu'le Village to the southeast. The problem is, I've had absolutely no reports of there being one there.$B$BI need you to go investigate the village for any signs of the focus or the mage hunters and their commander in the area.$B$BSearch in the lake if you have to!",
+  "p": "",
+  "c": "You find the corpse of the mage hunter commander here.$B$BJudging by his appearance, and the condition of the forces around him, you would guess that they didn't drown. Rather, when they summoned the focus in, they didn't expect the elementals that arose from the rents in the lake bed to attack.$B$BIt would appear that the mage hunter forces were the architects of their own demise."
+ },
+ {
+  "id": 12107,
+  "t": "The End of the Line",
+  "o": "Use the Ley Line Focus Control Talisman to gain information from the Ley Line Focus under Lake Indu'le. Then, head east to the Azure Dragonshrine near south central Dragonblight and observe what is occurring there from the western ledge.$B$BAfterward, return to the Image of Archmage Modera at Stars' Rest.",
+  "d": "Within his robes you find two things of interest.$B$BOne is a talisman, which is clearly a focus controlling device. The other is a set of orders from someone named Sidragos, which were ultimately intended for the leader back at the Moonrest Gardens.$B$BThe water-soaked parchment informs Goramosh that he is to move all mage hunter forces east to the Azure Dragonshrine.$B$BPerhaps you should get what information you can from the focus and head east to observe the dragonshrine from its western ledge.",
+  "p": "What is it, $N? You look flushed.$B$BTake a moment to catch your breath.",
+  "c": "WHAT?!$B$B<The image before you distorts for a moment as the archmage attempts to regain her composure.>$B$BOf course, we should have guessed that this was what they were up to all along. Quickly, there's no time to waste.$B$BWyrmrest must be warned!"
+ },
+ {
+  "id": 12108,
+  "t": "DEPRECATED",
+  "o": "Bring Mikhail's Note to Cartographer Tobias at Amberpine Lodge.",
+  "d": "The dirt mound is, indeed, a hastily dug grave.  The body beneath is unrecognizable but you find a note that identifies that man as Mikhail.$B$BThe note mentions Hollowstone Mine once again.  Perhaps someone back at Amberpine Lodge might be familiar with the area.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12109,
+  "t": "Report to Gryan Stoutmantle... Again",
+  "o": "Speak to Captain Gryan Stoutmantle at the Westfall Brigade Encampment.",
+  "d": "The Westfall boys were sent east to look for a path into the northern territories.  Their secondary objective is to secure strategic resource points, so I'm sure they wouldn't mind investigating a mine.$B$BLook for the Westfall Brigade encampment far to the northeast and seek out Gryan Stoutmantle.  You might remember him if you ever spent any time in Westfall.  Make sure to tell him I sent you.$B$BHe'll be more than happy to let you claim a functioning mine for the king.",
+  "p": "",
+  "c": "Dumont sent you?  Very well.  Let's see what you can do for us."
+ },
+ {
+  "id": 12110,
+  "t": "The End of the Line",
+  "o": "Use the Ley Line Focus Control Talisman to gain information from the Ley Line Focus under Lake Indu'le. Then, head east to the Azure Dragonshrine near south central Dragonblight and observe what is occurring there from the western ledge$B$BAfterward, return to the Image of Archmage Aethas Sunreaver at Agmar's Hammer.",
+  "d": "Within his robes you find two things of interest.$B$BOne is a talisman, which is clearly a focus controlling device. The other is a set of orders from someone named Sidragos, which were ultimately intended for the leader back at the Moonrest Gardens.$B$BThe fragile water-soaked parchment informs Goramosh that he is to move all mage hunter forces east to the Azure Dragonshrine.$B$BPerhaps you should get what information you can from the focus and head east to observe the dragonshrine from its western ledge.",
+  "p": "What is it, $N? You look flushed.$B$BTake a moment to catch your breath.",
+  "c": "WHAT?!$B$B<The image before you distorts for a moment as the archmage attempts to regain her composure.>$B$BOf course, we should have guessed that this was what they were up to all along. Quickly, there's no time to waste.$B$BWyrmrest must be warned!"
+ },
+ {
+  "id": 12111,
+  "t": "Where the Wild Things Roam",
+  "o": "Soar Hawkfury at Agmar's Hammer in the Dragonblight wants you to use the Pack of Vaccine to vaccinate 5 Snowfall Elk and 5 Arctic Grizzlies.",
+  "d": "Inside this pack are several vials containing the vaccine that Sintar created. I now want you to search the nearby woods for Snowfall elk and arctic grizzlies. When you locate the animals, find a safe distance and throw a vial in their general direction. The vial will shatter and release a fine gas that will act as the inoculating agent. The beasts merely have to step inside the gas and they will be vaccinated - ultimately saved.$B$BInoculate as many of the beasts as you can and return to me.$B",
+  "p": "",
+  "c": "You have done an honorable thing, $N. Please, choose a reward."
+ },
+ {
+  "id": 12112,
+  "t": "Stiff Negotiations",
+  "o": "Locate Zort in the center of the Crystal Vice, northeast of Nozzlerust Post.",
+  "d": "Well it seems you were of a bit of use after all. It's not been my experience to meet many a $r that are.$b$bWe don't have any more use for you here. Head into the Vice and see if my brother Zort could use a hand. He went to see if he could con the giants into laying down their lives so that we don't have to. He certainly wasn't known for having the brains in the family.  ",
+  "p": "",
+  "c": "I can think of some uses for you, go ahead and stay for a bit."
+ },
+ {
+  "id": 12113,
+  "t": "Nice to Meat You",
+  "o": "Harkor at Harkor's Camp wants you to collect 10 pieces of Fibrous Worg Meat from Duskhowl Prowlers and 10 Shovelhorn Steaks from Longhoof Grazers.",
+  "d": "G'day to ya, $c! Have yerself a seat by me fire, eh?$b$bI'd offer to share a nice hot meal, only I ain't got one. I'm stuck here waitin' on an associate, or I'd be out tryin' to remedy that situation meself.$b$bSay, you seem to have nuthin' but time on yer hands and there be plenty o' meat in these parts. What say ya lend a hand and round up some grub? ",
+  "p": "Me belly be rumblin, $r. You manage to round up some food? ",
+  "c": "Outstanding!$b$bNuthin' better with a pint than a hot morsel of meat."
+ },
+ {
+  "id": 12114,
+  "t": "Therapy",
+  "o": "Harkor at Harkor's Camp wants you to kill 10 Drakkari Protectors and 10 Drakkari Oracles outside Drakil'jin Ruins.",
+  "d": "Trolls... me hates 'em all! <Harkor spits.>$b$bI once got meself captured by a band o' tha beasts... came this close ta gettin' me head shrunk!$b$bMe friends tell me to just move on and put it all behind me, but that just ain't sittin' right.$b$bWanna know what would make me feel better, $r? Seein' a pile of their corpses so high it blots out the sun! I've got good gold to spend if ya can make that happen.",
+  "p": "How goes the troll hunt?",
+  "c": "Thankyeh, $c.$b$bWhen time allows I'll git up and have meself a look around."
+ },
+ {
+  "id": 12115,
+  "t": "Koltira and the Language of Death",
+  "o": "Take the Flesh-Bound Tome to Koltira Deathweaver.",
+  "d": "There is one who recently joined our cause that might be able to decipher this tome. An unbound death knight known as Koltira Deathweaver has temporarily taken residence here at Agmar's Hammer. As he was once a death knight of Arthas and member of the Scourge, he might be able to translate the language of the dead.$B$BTake the flesh-bound tome to Koltira and ask him to translate the pages.$B",
+  "p": "What is it, $r?",
+  "c": "There are only two things in life that interest me, peon, and neither of them involve translating a Scourge tome for you.$B$BHowever... perhaps we could work something out that would benefit the both of us.$B$B<Koltira unsheathes his weapon.>$B$BThis is my runeblade, Byfrost. Byfrost thirsts for the blood of the Lich King and his minions, but first I must etch upon it runes of power: symbols of frost, blood, and shadow. Bring me suitable sources of power and I will translate your tome."
+ },
+ {
+  "id": 12116,
+  "t": "It Takes Guts....",
+  "o": "Kraz at Harkor's Camp wants you to enter Drakil'jin Ruins and collect 5 Drakkari Canopic Jars.",
+  "d": "Greetings, $c. It is kind of you to stop and listen to Kraz's tale.$b$bFor many years Kraz has strained to hear the spirits and do their bidding.$b$bRecently,  many voices have been crying to Kraz from these ruins. They seek for a peace they cannot find on their own.$b$bIf you would help the spirits of those who have come before, enter this crypt and collect something that once belonged to those tormented souls.",
+  "p": "What have you found in the crypt for Kraz, $c?",
+  "c": "Entrails? An interesting choice, $r.$b$bKraz shall see what is to be learned from them. Thank you for braving the depths of that place."
+ },
+ {
+  "id": 12117,
+  "t": "Travel to Moa'ki Harbor",
+  "o": "Travel to Moa'ki Harbor in the Dragonblight and speak with Elder Ko'nani.",
+  "d": "$R, word just arrived from Moa'ki Harbor. Something very bad happened over there this morning!$B$BYou've been very helpful to us here. Would you consider using the boat from Unu'pe to travel to the great Dragonblight?$B$BBy the sound of things, Elder Ko'nani could certainly use your assistance.",
+  "p": "",
+  "c": "What's that you say, $r? Hotawa sent you?$B$BGood, good... there's much to do. We can use all of the help that we can get!"
+ },
+ {
+  "id": 12118,
+  "t": "Travel to Moa'ki Harbor",
+  "o": "Travel to Moa'ki Harbor in the Dragonblight and speak with Elder Ko'nani.",
+  "d": "$R, word just came in off the boat from Moa'ki Harbor. Something very bad happened over there this morning!$B$BYou've been very helpful to us here. Would you consider using the boat to travel to the great Dragonblight?$B$BBy the sound of things, Elder Ko'nani could certainly use your assistance.",
+  "p": "",
+  "c": "What's that you say, $r? Anuniaq sent you?$B$BGood, good... there's much to do. We can use all of the help that we can get!"
+ },
+ {
+  "id": 12119,
+  "t": "Gaining an Audience",
+  "o": "Deliver your Letter of Introduction to Wyrmrest Temple to Tariolstrasz at Wyrmrest Temple.",
+  "d": "$N, you must travel as swiftly as you can to Wyrmrest Temple and present this letter to the steward, Tariolstrasz.$B$BThe temple sits in the center of the Dragonblight. Follow the road east until it ends, and then cross The Dragon Wastes to get to it.$B$BI'm sure that when the steward reads your introduction, he'll see to it that you gain an audience with Queen Alexstrasza. We can only hope that we're not too late.$B$BThank you for all that you have done on our behalf. Safe journeys!",
+  "p": "Yes, what can I do for you, $r?",
+  "c": "A letter of introduction to meet with the queen? Let me see that.$B$BWhatever your business is, I hope that it's important.  The skies are full of attacking blues today!"
+ },
+ {
+  "id": 12120,
+  "t": "Drak'aguul's Mallet",
+  "o": "Kraz at Harkor's Camp wants you to slay Drak'aguul outside Drakil'jin Ruins and return with the Drakil'jin Mallet.",
+  "d": "Corruption....$b$bEven before you delivered these jars, Kraz could sense it. This corruption fills the ancient Drakkari spirits with great angst and prevents them from entering the rest they seek.$b$bKraz will not lie, $c. Cleansing this place will require great sacrifice, but we shall speak of that at another time.$b$bThere is one among the living here who holds the key to its cleansing. Seek out Drak'aguul and return to Kraz with the mallet he carries.",
+  "p": "You find the mallet, $n?",
+  "c": "You have done well thus far, $N, but now comes the true test."
+ },
+ {
+  "id": 12121,
+  "t": "See You on the Other Side",
+  "o": "Kraz at Harkor's Camp wants you to use the Drakil'jin Mallet on the gongs outside Drakil'jin Ruins. Once you have been slain, you are to enter the ruins and speak with the spirit of Gan'jo while you are dead.",
+  "d": "These Drakkari have met you with nothing but savage hostility. You owe them nothing. Few indeed would carry out the task that Kraz asks of you today.$b$bTo cleanse this place and send the spirits to their eternal rest, you must join them in death.$b$bThere is one inside the crypt who awaits you - on the other side. He holds the knowledge we seek, $n.$b$bUse the mallet on the gongs. The spirit of he who corrupts this place will surely deliver you to the spirit world.$b$bKraz awaits your return.",
+  "p": "",
+  "c": "Your coming has been foretold, friend. It was good of you to come."
+ },
+ {
+  "id": 12122,
+  "t": "Gaining an Audience",
+  "o": "Deliver your Letter of Introduction to Wyrmrest Temple to Tariolstrasz at Wyrmrest Temple.",
+  "d": "$N, you must travel as swiftly as you can to Wyrmrest Temple and present this letter to the steward, Tariolstrasz.$B$BThe temple sits in the center of the Dragonblight. Follow the road east until it ends, and then cross The Dragon Wastes to get to it.$B$BI'm sure that when the steward reads your introduction, he'll see to it that you gain an audience with Queen Alexstrasza. We can only hope that we're not too late.$B$BThank you for all that you have done on our behalf. Safe journeys!",
+  "p": "Yes, what can I do for you, $r?",
+  "c": "A letter of introduction to meet with the queen? Let me see that.$B$BWhatever your business is, I hope that it's important. The skies are full of attacking blues today!"
+ },
+ {
+  "id": 12123,
+  "t": "Informing the Queen",
+  "o": "Deliver your Letter of Introduction to Wyrmrest Temple to Alexstrasza the Life-Binder at Wyrmrest Temple.",
+  "d": "<The dragon steward pulls your letter of introduction out of his sleeve.>$B$BYes... yes, I think that you are ready to see the queen now.$B$BWhen you are ready, speak to me again and I will see to it that one of these drakes delivers you safely to the top of the temple. You will need to present your letter in person to Queen Alexstrasza.",
+  "p": "It is good to finally meet you in person, $N. I have known you since before you were born.",
+  "c": "You are very courageous to bring us this information. I was beginning to wonder why the blue dragonflight had so boldly initiated an attack upon the temple itself. Now we know that they are using enormous amounts of the very magic they view as such a threat to Azeroth.$B$B<The queen shakes her head in seeming resignation.>$B$BHypocritical, but so be it. If Malygos will not come to his senses, we have no choice but to take action in response to their assault."
+ },
+ {
+  "id": 12124,
+  "t": "Informing the Queen",
+  "o": "Deliver your Letter of Introduction to Wyrmrest Temple to Alexstrasza the Life-Binder at Wyrmrest Temple.",
+  "d": "<The dragon steward pulls your letter of introduction out of his sleeve.>$B$BYes... yes, I think that you are ready to see the queen now.$B$BWhen you are ready, speak to me again and I will see to it that one of these drakes delivers you safely to the top of the temple. You will need to present your letter in person to Queen Alexstrasza.",
+  "p": "It is good to finally meet you in person, $N. I have known you since before you were born.",
+  "c": "You are very courageous to bring us this information. I was beginning to wonder why the blue dragonflight had so boldly initiated an attack upon the temple itself. Now we know that they are using enormous amounts of the very magic they view as such a threat to Azeroth.$B$B<The queen shakes her head in seeming resignation.>$B$BHypocritical, but so be it. If Malygos will not come to his senses, we have no choice but to take action in response to their assault."
+ },
+ {
+  "id": 12125,
+  "t": "In Service of Blood",
+  "o": "Koltira Deathweaver at Agmar's Hammer in the Dragonblight wants you to use the Blood Gem on a Deranged Indu'le Villager and return to him with a Filled Blood Gem.",
+  "d": "The blood of innocents was once used to sate the thirst of the blade. Alas, such options are no longer available to me.$B$B<Koltira pauses to think.>$B$BWe must improvise. South of here, upon the high bluffs, is the tuskarr village of Indu'le. Having been recently overrun by the Blue Dragonflight's chaotic magic, the resident tuskarr of Indu'le have gone mad.$B$BTake this blood gem and use it on a deranged villager. If I cannot take the blood of innocents, I shall have the blood of the meek!",
+  "p": "Bring the blood of the meek to me.",
+  "c": "A simple task for a simpleton. You have performed within my expectations."
+ },
+ {
+  "id": 12126,
+  "t": "In Service of the Unholy",
+  "o": "Koltira Deathweaver at Agmar's Hammer in the Dragonblight wants you to use the Unholy Gem on Duke Vallenhal and return to him with a Filled Unholy Gem.",
+  "d": "The power of the unholy is coveted among my kind. It makes up the very fiber of our existence, granting death to those that dare make a mockery of it! Thankfully there is a font from which I may draw from in my time of need.$B$BTake this unholy gem and make your way to the Ruby Dragonshrine, east of here. It is there that you will find Duke Vallenhal, death knight of Arthas. Weaken his resolve in battle and unleash the power of the gem upon him. It will finish him off and steal his unholy energy!$B",
+  "p": "Fill the gem with the power of the unholy!",
+  "c": "<Koltira's eyes widen.>$B$BImpressive. You bested a deathknight of Arthas... Clearly you were not alone... but still..."
+ },
+ {
+  "id": 12127,
+  "t": "In Service of Frost",
+  "o": "Koltira Deathweaver at Agmar's Hammer in the Dragonblight wants you to use the Frost Gem on Ice Revenants and return to him with a Filled Frost Gem.",
+  "d": "The biting cold protects the death knight while repelling his enemies. He that commands the power of frost can incite chaos and destruction!$B$BTake this frost gem and travel far across the open tundra of the Dragonblight until you come upon the Mirror of Dawn, east of Wyrmrest Temple. It is there that you are to battle the legions of ice revenants that dwell upon the lakes surface and take from them the essence of frost. Utilize the power of the gem when they are weak, $N!",
+  "p": "We are all in service of frost here in Northrend.",
+  "c": "I can already feel the cold coursing through me, $N."
+ },
+ {
+  "id": 12128,
+  "t": "Check Up on Raegar",
+  "o": "Speak with Raegar Breakbrow at Prospector's Point.",
+  "d": "With all the excitement about the army trying to move through Thor Modan, I'd almost forgotten about Raegar's crew down at Prospector's Point.$B$BI sent Raegar and his assistants, along with a mountaineer friend, down to establish a small post near Dun Argol, at the southern end of the Eastwind Shore.$B$BThey were to investigate the iron dwarf presence in the southern hills, but I haven't received any reports yet. Could you check up on them if you're going down that way?",
+  "p": "",
+  "c": "Hmm... you don't look like a research assistant, which is just as well. The iron dwarves look to be preparing for war, and my research team hasn't returned. We could use some help around here."
+ },
+ {
+  "id": 12129,
+  "t": "The Perfect Plan",
+  "o": "Bring the completed War Golem Blueprint to Raegar Breakbrow at Prospector's Point.",
+  "d": "The iron dwarves are making no secret of the fact that they're preparing for war. With their giants, golems, and lightning elementals, they'd have a technological advantage against the Westfall Brigade. If they don't find passage north in time, the irons could take them by surprise.$B$BWe've got to tie them up here, and I've got just the way to do it. Dun Argol is full of rune-smiths churning out war golems. They carry plans for specific pieces, so you'll need to find and assemble all the parts.",
+  "p": "Were you able to get those plans from the rune-smiths?",
+  "c": "You got all of them? Brilliant! I can't wait to see the looks on their faces when the golem's done."
+ },
+ {
+  "id": 12130,
+  "t": "Why Fabricate When You Can Appropriate?",
+  "o": "Bring 8 War Golem Parts to Raegar Breakbrow at Prospector's Point.",
+  "d": "We've got the blueprints, but we can't do anything with them without parts! We don't have access to a foundry, much less materials, but there's a whole load of parts up in Dun Argol.$B$BYour job?$B$BGive them a new home.$B$BThey're likely to be scattered around any of the buildings where the iron rune-smiths are working, and I wouldn't blame the irons for being cranky when you try to filch their handiwork. The more parts you can bring, the better we can make this golem.",
+  "p": "I see you made it out in one piece. Do you have the parts?",
+  "c": "<Raegar wipes his forehead with the back of his hand.>$B$BOh, no. This is going to be harder than I thought. These things don't have serial numbers or anything, do they?$B$BNever a gnome around when you need one..."
+ },
+ {
+  "id": 12131,
+  "t": "We Have the Power",
+  "o": "Bring Durar's Power Cell and Kathorn's Power Cell to Raegar Breakbrow at Prospector's Point.",
+  "d": "We're almost there, but the war golem won't run without power cells. From the information I was able to collect in Dun Argol before we were discovered, both Rune-Smith Durar and Rune-Smith Kathorn each create one power cell.$B$BWe'll need one power cell from each of the rune-smiths before our golem will work.$B$BYou should be able to find each rune-smith in his workshop on the central level of Dun Argol.",
+  "p": "Well, did you get those power cells?",
+  "c": "<Raegar takes the batteries from you.>$B$BExcellent! We should be all ready to go."
+ },
+ {
+  "id": 12132,
+  "t": "The Power to Destroy",
+  "o": "Koltira Deathweaver at Agmar's Hammer in the Dragonblight wants you to enter the world of shadows and defeat 6 Shadowy Tormentors.$B$BSpeak to Koltira Deathweaver should you need to re-enter the world of shadows.",
+  "d": "While you have done much for me, one task remains.$B$BBeside the world you know exists another world. It is from that world, the world of shadows, that my tormentors assault me. While I am powerless to face my own demons, you could end their reign of terror. You have the strength, I have seen it with my own eyes.$B$BEnter the world of shadows and face the demons that torment me!$B$BDo this and I will translate the tome, as promised.",
+  "p": "",
+  "c": "The power I hold comes at a great cost, $N. Many knights, light and dark alike, lost their lives in the final battle at Light's Hope. The prospect of the future looks grim, but at least now I know what I face. The Lich King will never release his grasp and for that alone he must die!"
+ },
+ {
+  "id": 12133,
+  "t": "Smash the Pumpkin",
+  "o": "Give the Scorched Holy Symbol to the Costumed Orphan Matron.",
+  "d": "This large jack-o'-lantern rests in the middle of the village.  It eyes those who look upon it, betraying a dark menace within.$B$BSmashing the pumpking reveals an old, scorched holy symbol.",
+  "p": "Yes, $N?",
+  "c": "You found this inside the Headless Horseman's jack-o-lantern?  It is an old symbol of the Light.  If must have been the Horseman's, before he was cursed and turned into the monster he is today.  Thank you, $N.  This symbol deserves to be with paladins.  I will make sure they get it.$B$BOh, and I almost forgot!  You have a secret admirer...$B$BOne of the children wanted you to have this.  She was too shy to give it to you herself."
+ },
+ {
+  "id": 12134,
+  "t": "Sasha's Hunt",
+  "o": "Sasha wants you to kill 12 Solstice Hunters in Solstice Village.",
+  "d": "This thing... this curse... that's affecting Silverbrook and Solstice Village... it makes beasts out of people.$B$BMy father tried to warn them, but they all listened to the wolfcult instead.$B$BThey're too far gone now, it's time to put them down... for their own sake.",
+  "p": "Have you taken care of the hunters in the village yet, $N?",
+  "c": "Killing these monsters won't bring my father back... but that's not the point now, is it?"
+ },
+ {
+  "id": 12135,
+  "t": "\"Let the Fires Come!\"",
+  "o": "The Costumed Orphan Matron wants you to help put out all the village fires after the Headless Horseman lights them.  When they are out, speak again to the Costumed Orphan Matron.",
+  "d": "You must help us!  The Headless Horseman will attack the village at any moment!  Fires will be everywhere!  The children aren't safe!$B$BPlease, $n, will you face the fires of the Headless Horseman?  When he comes, you must join the fire brigade.  Grab a bucket and toss it on the fires, or pass it to a friend who's closer to the blaze.  If you put out all the fires then we may yet be saved!",
+  "p": "$N, you promised to save the children!",
+  "c": "Oh, thank you! May the Light bless your good works, kind $Gsir:lady;. The shadow of the Dark Horseman yet looms, but at least, for now, the village is safe from his flames."
+ },
+ {
+  "id": 12136,
+  "t": "The Translated Tome",
+  "o": "Deliver the Translated Flesh-bound Tome to Captain Gort at Agmar's Hammer.",
+  "d": "Here it is, $N. I have translated everything printed upon the pages of the tome. Inside it you will find a list of the names of Cult of the Damned members spanning the entire continent.$B$BTheir network of spies and operatives is impressive, to say the least.$B$BFarewell, friend. May the book serve you and your people well.",
+  "p": "It's about time! Where have you been?",
+  "c": "<Gort takes the tome from you and begins reading.>$B$BWHAT! This can't be right. I've known some of these orcs for years!$B$BLeave me, $N. I have much work to do and many traitors to execute.$B$BTake one of these items for your trouble. You've done a great service for the Horde this day."
+ },
+ {
+  "id": 12137,
+  "t": "Chill Out, Mon",
+  "o": "Gan'jo wants you to collect the Snow of Eternal Slumber from his chest in the Drakil'jin Ruins.$b$bYou are to use the Snow on the Ancient Drakkari Spirits there and take their Drakkari Spirit Particles back to Kraz at Harkor's Camp.",
+  "d": "It be as the prophecies said, mon. A $r $c be comin' to set our spirits to rest. We been waitin' for a long time now!$b$bThe Drakkari have become a lost people, fierce and savage.$b$bBut here we suffer by no fault of our own, mon. This place need cleansin' and only the living can do it.$b$bSpeak to me when ya be ready to rejoin your body. Then take the snow from the chest near me here and put my bruddas to sleep.$b$bTake their remnants to your spirit guide. He be knowin' what to do next.",
+  "p": "Have you completed your task in the crypt, $c?",
+  "c": "You have done well.$b$bPlease, sit and listen. There are many things we must discuss."
+ },
+ {
+  "id": 12138,
+  "t": "... Or Maybe We Don't",
+  "o": "Charge your War Golem with the energy from 10 Lightning Sentries and return to Raegar Breakbrow at Prospector's Point.",
+  "d": "You'd think the guys making the power cells would've thought to power them up, but no, they've got to make it difficult for us.$B$BFine, we'll charge those cells the hard way. There's enough power in them to run the golem for a short time, but don't expect it to be any good in combat.$B$BYou see the lightning sentries that the irons have posted around the perimeter of Dun Argol? Bring the golem with you, take it close to them, and use the golem to absorb the power as the sentries die.",
+  "p": "",
+  "c": "Finally, it's ready. I only hope it holds together long enough to get the job done. If we don't take out the thane leading Dun Argol, Captain Gryan'll be in for a nasty surprise."
+ },
+ {
+  "id": 12139,
+  "t": "\"Let the Fires Come!\"",
+  "o": "The Masked Orphan Matron wants you to help put out all the village fires.  When they are out, speak again to the Masked Orphan Matron in town.",
+  "d": "The Headless Horseman will attack the village at any moment!  Fires will be everywhere!$B$B$n, will you face the fires of the Headless Horseman?  When he comes, you must join the fire brigade.  Grab a bucket and toss it on the fires, or pass it to a friend who's closer to the blaze.  If you put out all the fires then we may yet be saved!",
+  "p": "",
+  "c": "The fires are out! You and your fire brigade were victorious! Hah!$B$BThe Headless Horseman's attack has failed, but until he and his head are destroyed together, he will return.$B$BUntil then, however, let's take comfort in the safety you brought our children. I am honored to have watched your brave work today."
+ },
+ {
+  "id": 12140,
+  "t": "All Hail Roanauk!",
+  "o": "Seek out Roanauk Icemist at Agmar's Hammer and initiate him as a member and leader of the Horde forces.$B$BReturn to Overlord Agmar with the Blood Oath of the Horde when you complete this task.$B",
+  "d": "Like the tauren, Forsaken, trolls and blood elves, so too do the taunka need a leader born of their own blood. The one you saved from Icemist, Roanauk, will be this leader.$B$B<Overlord Agmar hands you a parchment.>$B$BI give to you something familiar - the blood oath of the Horde.$B$BTake the oath to Roanauk Icemist and initiate him into the Horde as leader of the taunka.$B$BLet us not keep him waiting.$B$B<Agmar nods.>$B",
+  "p": "Do not waste time, $N. Angrathar awaits!",
+  "c": "With the aid of such a powerful shaman, we are sure to be victorious at the Wrathgate!"
+ },
+ {
+  "id": 12141,
+  "t": "A Diplomatic Mission",
+  "o": "Speak to Karuk at Riplash Strand, southwest of Valiance Keep.",
+  "d": "I see that you are very eager to help, $N.  You didn't come all the way to Northrend to stay holed up in a city!  I've just the task for you... something that'll take you far away from here.$B$BWe've long sought to gain the favor of the tuskarr native to Northrend.  Recently a young tuskarr came to us seeking help, something we couldn't offer at the time.$B$BNow that you're around, maybe you can lend him a hand.  Look for Karuk near the Riplash Strand, southwest of here, and see what you can do to help.  ",
+  "p": "",
+  "c": "You've come to my aid?  I thank you, $N."
+ },
+ {
+  "id": 12142,
+  "t": "Pest Control",
+  "o": "Duane at the 7th Legion Front wants you to kill 10 Snowplain Snobolds and 3 Dragonblight Magnataur at the magnataur camps surrounding Wyrmrest.",
+  "d": "Ugh! One of those little snobold runts trashed our camp while we were busy with that last dragon. They've been plaguing us whenever we turn our backs... I've had enough!$B$BTo the south you'll find the snobolds hiding under the skirts of some of the local magnataur. Go slaughter them.$B$BIf the magnataur interfere on behalf of their slaves, kill them as well.",
+  "p": "Did you finish off those pests?",
+  "c": "Good riddance."
+ },
+ {
+  "id": 12143,
+  "t": "Canyon Chase",
+  "o": "Duane wants you to chase the snobolds down the canyon northeast of 7th Legion Front and deal with their leader.",
+  "d": "I can't believe this! Another band of those vermin just tried to take off with more of our supplies. They're scurrying off towards that north canyon, get after them and deal with whoever they're going to!",
+  "p": "Is it done?",
+  "c": "Chilltusk, eh?  I've heard his name before.  That's some good work, $c.  Hopefully we can turn our attention back to the dragon menace now.  "
+ },
+ {
+  "id": 12144,
+  "t": "Pest Control",
+  "o": "Kontokanis at Dragon's Fall wants you to kill 10 Snowplain Snobolds and 3 Dragonblight Magnataur at the magnataur camps surrounding Wyrmrest.",
+  "d": "Oi, mon! One of dose little snobold runts trashed our camp during da last dragon attack. Dey've been houndin us wheneva we turn our backs and I've had enough. $b$bTo da east you'll find da snobolds hiding under da skirts of some of da local magnataur. Go slaughter dem. If da magnataur interfere on behalf of deir slaves, kill dem as well.",
+  "p": "",
+  "c": "Good riddance, mon."
+ },
+ {
+  "id": 12145,
+  "t": "Canyon Chase",
+  "o": "Kontokanis wants you to chase the snobolds down the canyon south of Dragon's Fall and deal with their leader.",
+  "d": "I can't believe dis! Another band of dose vermin just tried ta take off with more of our supplies. Dey're scurrying down da canyon now, get after dem and deal with whoever dey're going to!",
+  "p": "You not a real mon til you killed a dragon... mon.",
+  "c": "Icefist, eh?  I've heard his name before.  Dat's some good work, mon.  Hopefully we Darkspear can turn our attention back to dat dragon menace now.  "
+ },
+ {
+  "id": 12146,
+  "t": "Disturbing Implications",
+  "o": "Bring the Emblazoned Battle Horn to Wyrmrest and seek out someone who might be interested in assessing the potential threat.",
+  "d": "The underside of the horn boasts an emblazoned seal with a hammer and a lightning bolt. Something about the horn seems extremely out of place on a Magnataur.$b$bTake the horn south down the Path of the Titans to Wyrmrest and seek out someone who might be interested in these threatening implications.",
+  "p": "Yes, $r?",
+  "c": "It is indeed strange for any magnataur to carry an item such as this... and very concerning. I am glad that you have shown this to me. "
+ },
+ {
+  "id": 12147,
+  "t": "Disturbing Implications",
+  "o": "Bring the Emblazoned Battle Horn to Wyrmrest and seek out someone who might be interested in assessing the potential threat.",
+  "d": "The underside of the horn boasts an emblazoned seal with a hammer and a lightning bolt. Something about the horn seems extremely out of place on a Magnataur. $b$bTake the horn east across the Dragon Wastes to Wyrmrest and seek out someone who might be interested in these threatening implications.",
+  "p": "Yes, $r?",
+  "c": "It is indeed strange for any magnataur to carry an item such as this... and very concerning. I am glad that you have shown this to me."
+ },
+ {
+  "id": 12148,
+  "t": "One of a Kind",
+  "o": "Find and kill Bonesunder in or near the canyon northwest of the Azure Dragonshrine. Bring any evidence you find back to Aurastrasza at Wyrmrest Temple.",
+  "d": "Such a strange seal to see among magnataur... it suggests an unusual amount of organization.$B$BMagnataur rarely put aside their aggressive natures to cooperate with each other.  I suspect they have their eyes set on raiding a large settlement.$b$bI very much doubt that this horn is unique, I need you to prove me wrong. In the canyon northwest of the Azure Dragonshrine you will find Bonesunder. Go challenge him and bring me back any evidence you find that might confirm my concerns.",
+  "p": "Did you find anything?",
+  "c": "So it is true. They could not have chosen better timing for such an attack... between the Scourge and the blue flight, it is unlikely that anyone else has noticed yet."
+ },
+ {
+  "id": 12149,
+  "t": "Mighty Magnataur",
+  "o": "Hunt down and kill Bloodfeast, Iceshatter, and Drakegore east of Wyrmrest$B$BBloodfeast resides in the southeastern corner of the Dragon Wastes, just north of the Emerald Dragonshrine. Iceshatter patrols the northern edge of the Mirror of Dawn. Drakegore wanders at the bottom of the cliffs west of the Bronze Dragonshrine.$B$BReturn to Aurastrasza at Wyrmrest once the magnataur have been slain.",
+  "d": "Magnataur are hideously violent creatures... this is the main reason we rarely see them come together in any real numbers without killing each other. A powerful leader has stepped up somewhere among them and we need to hunt him down if we are to stop this threat. $B$BI will start asking around. I need you to disrupt them as much as possible in the meantime.$B$BEast of here there are 3 torches erected. Near them, there are 3 dominant Magnataur - put them down to buy us some time to hunt down this leader.",
+  "p": "Have you defeated the magnataur?",
+  "c": "Excellent work. No one could tell me who this leader might be, but I was able to uncover the name of someone who will have our answer."
+ },
+ {
+  "id": 12150,
+  "t": "Reclusive Runemaster",
+  "o": "Locate Dregmar Runebrand near his cave on the path to the cliffs overlooking the Mirror of the Dawn. Challenge him and uncover the name of the magnataur leader by any means necessary. Return to Aurastrasza at Wyrmrest once the information is obtained.",
+  "d": "Dregmar Runebrand is a magnataur runemaster... a rare breed. He's generally solitary, but has been known to associate with the more powerful and influential magnataur in Dragonblight for quite some time. He will know who this new leader is. $b$bIt is unlikely we will gain any aid with the increasing concerns with the Scourge and the blue flight, so I need you to procure the information from Dregmar by any means necessary.$B$BI was told he can be found amongst the cliffs overlooking the Mirror of the Dawn.",
+  "p": "Did you get the name?  Do you know who the magnataur warlord is?",
+  "c": "Grom'thar the Thunderbringer. Good. Let's end any threat these magnataur might pose here and now."
+ },
+ {
+  "id": 12151,
+  "t": "Wanton Warlord",
+  "o": "Travel to the ring of torches south of the Azure Dragonshrine and blow the Emblazoned Battle Horn. Defeat Grom'thar the Thunderbringer and bring his head back to Aurastrasza at Wyrmrest.",
+  "d": "There's no reason to suspect Dregmar's words are anything but true. Whether Grom'thar defeats you or is defeated by you, he can wash his hands of this.$b$bFollow his instructions... take the horn that you brought me earlier, travel to the ring of torches south of the Azure Dragonshrine, and blow it to announce your challenge.$B$BWhen Grom'thar the Thunderbringer arrives, kill him and bring me his head.",
+  "p": "Did you end this threat for good?",
+  "c": "You are formidable indeed.$B$BWith Grom'thar the Thunderbringer gone, we can leave the remaining Magnataur to fight among themselves and turn our attentions back towards more prominent threats.$B$BImpressive work, $c. "
+ },
+ {
+  "id": 12152,
+  "t": "Jin'arrak's End",
+  "o": "Kraz at Harkor's Camp wants you to collect the Sacred Drakkari Offering from the Drakil'jin Ruins and use the Drakkari Spirit Dust on it. You must use the Infused Drakkari Offering at the gongs outside of Drakil'jin Ruins.",
+  "d": "It is good to see you back among the living. Many who travel the path of the dead do not return to speak of it.$b$bWhile you were away, a vision appeared to Kraz revealing what remains to be done.$b$bA sacred offering lies somewhere inside the crypt. Take this spirit dust fashioned from the remnants you collected and use it on the offering.$b$bThe infused offering will bring an end to the corrupted warlord and will release the many tormented souls.$b$bMay the spirits guide your actions, $n.",
+  "p": "Has Jin'arrak been defeated, $N?",
+  "c": "It is done.$b$bYour selflessness has brought eternal peace to many souls, ending eons of misery.$b$bMay this act lighten your own soul and lessen your burdens, for I see that there are yet many perils you must face.$b$bFarewell, $N."
+ },
+ {
+  "id": 12153,
+  "t": "The Iron Thane and His Anvil",
+  "o": "Using the abilities of your War Golem, defeat Iron Thane Furyhammer, then return to Raegar Breakbrow at Prospector's Point.",
+  "d": "Now that you've charged up your war golem, we're going to put all that energy to good use. Activate the golem inside Dun Argol to take control of it.$B$BOur  information about Dun Argol's leader, Iron Thane Furyhammer, suggests his bodyguard protects him from all harm.$B$BThat bodyguard is the construct he travels with, called The Anvil. Disable the construct, and his protection will disappear.$B$BThe thane stays in the building at the top of Dun Argol and supervises production from the bottom level.",
+  "p": "Were you able to get past the iron thane's defenses?",
+  "c": "It worked?$B$B<Raegar clears his throat.>$B$BI mean... of course it worked! This is incredible!$B$BYears from now, Explorers' League initiates will hear the story of how Raegar Breakbrow, $N, and some hunk o' junk golem defeated the thane of Dun Argol!"
+ },
+ {
+  "id": 12154,
+  "t": "Blackout",
+  "o": "Use Raegar's Explosives to destroy the Runic Power Core at Dun Argol, then report to Raegar Breakbrow at Prospector's Point.",
+  "d": "The large hall at the top of Dun Argol houses the power source for the entire area. If you can destroy the power core, it will cripple Dun Argol for some time.$B$BNo power means no golems, no sentries, and no more lightning armaments.$B$BWhen we were sent up here, they told us these explosives were for excavation, but thanks to Iron Thane Furyhammer, the research has been scrapped. We may as well get some use out of them, though. They're the only thing we have on hand capable of destroying the power core.",
+  "p": "Have you disabled the power source for their runeforges?",
+  "c": "<Raegar nods approvingly.>$B$BI can't stand to see explosives go to waste and it'll set our enemies back for sure."
+ },
+ {
+  "id": 12155,
+  "t": "Smash the Pumpkin",
+  "o": "Give the Scorched Holy Symbol to the Masked Orphan Matron.",
+  "d": "This large jack-o'-lantern rests in the middle of the village.  It eyes those who look upon it, betraying a dark menace within.$B$BSmashing the pumpking reveals an old, scorched holy symbol.",
+  "p": "Yes, $N?",
+  "c": "You found this inside the Headless Horseman's jack-o-lantern?  It is an old symbol of the Light.  If must have been the Horseman's, before he was cursed and turned into the monster he is today.  Thank you, $N.  This symbol deserves to be with paladins.  I will make sure they get it.$B$BOh, and I almost forgot!  You have a secret admirer...$B$BOne of the children wanted you to have this.  She was too shy to give it to you herself."
+ },
+ {
+  "id": 12156,
+  "t": "DEPRECAED",
+  "o": "Escort the Alliance Envoy to the town of Silverbrook.  Report to Lieutenant Dumont at the Amberpine Lodge when you've completed this task.",
+  "d": "I was meant to set off for Silverbrook, northwest of here, about an hour ago.  My military escort appears to be running late.$B$BI'll be damned if this diplomatic mission gets sidetracked because some new recruit overslept.$B$BWe're negotiating a deal with the locals and timeliness is essential.  What do you say?  If you come with me, you'll be well compensated for your troubles.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12157,
+  "t": "The Lost Courier",
+  "o": "Speak to Courier Lanson at Star's Rest in Dragonblight.",
+  "d": "We're lucky we made it this far, $N.  We were ambushed by Scourge as soon as we landed.$B$BOne of our men turned out to be a spy for the Cult of the Damned.  Thassarian appears to have more evidence of cultist infiltration.  Apparently it goes all the way to the top.$B$BI've sent one of my best couriers to our outpost in western Dragonblight, but he has not yet returned. I fear he may have fallen to the Scourge. Will you go to Dragonblight and search for him? Courier Lanson is his name.$B",
+  "p": "",
+  "c": "As I crossed the bridge into Dragonblight a small group of Anub'ar ambushed me! I was surrounded! Those monsters knew I was coming. I barely made it out of there with my flesh intact. This list I hold must be taken to Wintergarde Keep, but I am too badly injured to make the journey."
+ },
+ {
+  "id": 12158,
+  "t": "Hollowstone Mine",
+  "o": "Look for clues inside Hollowstone Mine northwest of the Westfall Brigade Encampment.",
+  "d": "I've been meaning to send some of our lads to check out Hollowstone Mine.  Haven't had a chance to yet -- we've had our hands full between the Horde on the west and the iron dwarves to the east.$B$BIf Dumont sent you, though, the least I can do is point you in the right direction.$B$BYou'll find the mine entrance to the northwest, not far from here.  See if you think operations there can be salvaged.  We sure could use the additional resources until our mine in Farshire is operational again. ",
+  "p": "",
+  "c": "You've come to help me, haven't you!"
+ },
+ {
+  "id": 12159,
+  "t": "Souls at Unrest",
+  "o": "Petrov at Hollowstone Mine wants you to use the Miner's Lantern to burn the corpses of 8 Hollowstone Miners.",
+  "d": "<Petrov looks deeply disturbed, breathing heavily and shifting his gaze nervously around the mine.>$B$BMy comrades... we must put their souls to rest!  I kill them and kill them but.. they just come back!$B$BI've had an idea for a while but I just don't have the heart to do it myself.$B$BMaybe you can do this for me?  Take this lantern and use its oil to burn their remains so they never get up again.$B$BI'll answer your questions later.  Help my friends first!",
+  "p": "Have you put my friends to rest yet, $N?",
+  "c": "Rest in peace friends!  Do not worry -- I will tell everyone that we never gave up!"
+ },
+ {
+  "id": 12160,
+  "t": "A Name from the Past",
+  "o": "Return to Captain Gryan Stoutmantle at the Westfall Brigade Encampment.",
+  "d": "It worked!  It worked!  My comrades can finally enjoy their well-earned rest...$B$BI'll stay here and finish the job.  We Hollowstone miners always finish the job -- we never give up!$B$BThat's why Arugal made an example of us.  We wouldn't fall in line, you see?  We wouldn't join his wolfcult!",
+  "p": "",
+  "c": "Curse our luck.  We find the one functioning mine this side of the hills and it's full of Scourge.$B$BNo offense, friend.  But that survivor you found sounds like he's been a little traumatized due to losing his friends.  Arugal's been dead for years... I even saw his grave once."
+ },
+ {
+  "id": 12161,
+  "t": "Ruuna the Blind",
+  "o": "Speak to Ruuna the Blind at Ruuna's Camp near Vordrassil Pass.",
+  "d": "Hey there.  I overheard what you were saying to the captain and I just want you to know...  things aren't that simple in Northrend.$B$BJust because someone's dead it doesn't mean they're out of the picture.$B$BSouthwest of here, near Vordrassil Pass, lives a blind woman who goes by the name Ruuna the Blind.  They say she speaks to the dead and has visions of the past and future.$B$BI haven't heard your whole story but it sounds like she'd be right up your alley.",
+  "p": "",
+  "c": "You seek knowledge beyond your reach so you've come to me.  I must warn you, stranger, the answers I provide might not be to your liking."
+ },
+ {
+  "id": 12164,
+  "t": "Hour of the Worg",
+  "o": "Sasha at the White Pine Trading Post wants you to go to  Bloodmoon Isle and slay Selas, Varlam, Goremaw and the Shade of Arugal.",
+  "d": "It is time, then, $N.  Arugal must be defeated.$B$BGet a couple of people you can trust and head for Bloodmoon Isle.  It's just off the coast, east of here.$B$BWe'll hit them fast.  Take out Arugal's lieutenants -- I'll catch up with you when it's time to take out the monster himself.",
+  "p": "It's good to see you, $N.",
+  "c": "We got him good, $N.  But not good enough.$B$BOne thing's for sure... we won't be seeing him around these parts any longer."
+ },
+ {
+  "id": 12165,
+  "t": "An Intriguing Plan",
+  "o": "Bring the completed War Golem Blueprints to Prospector Rokar at Camp Oneqwah.",
+  "d": "Prospector Rokar has decided to help us. He's concocted a plan to use the iron dwarves' strength against them.$B$BI must admit, our new 'friend' is more insightful than I'd given him credit for. He's correct in that our numbers are too few for a direct attack.$B$BTravel to Dun Argol, in the snowy regions to the southeast, and capture all the parts of their war golem blueprints from the iron rune-smiths there. Bring the assembled blueprint to Rokar and we'll see if his plan has any merit.",
+  "p": "Do... do you have those blueprints I asked for?",
+  "c": "So Tormak's going to go ahead with the plan? I suppose he wouldn't have sent you if he didn't.$B$BOh, bother... Now how am I going to figure out how to put this together under all this pressure?"
+ },
+ {
+  "id": 12166,
+  "t": "The Liquid Fire of Elune",
+  "o": "Warden Jodi Moonsong at Stars' Rest has asked you to use the Liquid Fire of Elune to cleanse the corpses of 6 Blighted Elk and 6 Rabid Grizzlies.",
+  "d": "$R will you assist me?$B$BThe Scourge have moved into Icemist to the north. Wherever they go, they spread their taint, and the creatures of the land suffer.$B$BTake this vial, which is filled with the liquid fire of Elune from the moonwell. Please, use the liquid to cleanse the corpses of the blighted wildlife that you find.",
+  "p": "It is a shame that we cannot heal the bears and elk that have fallen victim to the Scourge presence.$B$BAt least we can prevent the taint from spreading further.",
+  "c": "We have done what we can for the creatures of the land. Now we must take direct action against those that have caused this!"
+ },
+ {
+  "id": 12167,
+  "t": "Kill the Cultists",
+  "o": "Collect 5 Functional Cultist Suits for Warden Jodi Moonsong at Stars' Rest.",
+  "d": "The Anub'ar cultists are indirectly responsible for the plaguing of the beasts, and we must put an end to it!$B$BThe fumes that emit from the cultists' suits seep into everything they come near, poisoning and corrupting their surroundings.$B$BYou must go north to Icemist Village and slay them. Bring back any of their suits that survive your assault and I will see to it that they are properly disposed of.",
+  "p": "The cultists are a blight upon creation!",
+  "c": "Well done.$B$BI will dispose of these filthy garments by cleansing them in the moonwell and destroying them through the power of the goddess!"
+ },
+ {
+  "id": 12168,
+  "t": "The Favor of Zangus",
+  "o": "Deliver the Favor of Zangus to Warden Jodi Moonsong at Stars' Rest.",
+  "d": "An inscription on the back of the favor reads,$B$B\"To my favorite pupil,$B$BIf you continue to show promise, I will teach you wonders beyond your imaginings.$B$BIf you do not, I will have you destroyed!$B$BAs ever,$B$BHigh Cultist Zangus\"$B$BNo doubt the warden at Stars' Rest will want to see this.",
+  "p": "I sense something foul is near.$B$BIt is upon your person! What is it, $N?",
+  "c": "So, the leader of the cultists has revealed himself. We have a name.$B$BVanity and pride will be his downfall!"
+ },
+ {
+  "id": 12169,
+  "t": "The High Cultist",
+  "o": "Warden Jodi Moonsong at Stars' Rest has asked you to slay High Cultist Zangus.",
+  "d": "I have dreamed of Zangus before but without the context that you have discovered, I knew not what it meant. You have brought clarity to the vision that the goddess has bestowed upon me, and now I know that he can be found within the Pit of Narjun to the north.$B$BYou know your target, $N. If there's to be an end to the suffering of the land, the high cultist must die!",
+  "p": "I sense that High Cultist Zangus yet lives.$B$BIs there something wrong, $N? Perhaps you need to rest first?",
+  "c": "With the high cultist destroyed, the rest of his forces can be mopped up and the land and its creatures will recover.$B$BThank you, $N. May the goddess illuminate your path."
+ },
+ {
+  "id": 12170,
+  "t": "Blackriver Brawl",
+  "o": "Raider Captain Kronn wants you to slay 10 Alliance units or players at the Blackriver Logging Camp.",
+  "d": "The Venture Company abandoned operations shortly after we showed up.  Clearly they were afraid of what we were going to do to their greedy little hides.$B$BWith them gone, their logging camps are up for grabs.  Our war machine is a hungry beast... without renewing our supplies we won't make it to Icecrown.$B$BUnfortunately the Alliance seems to have the same idea and we must make sure we're the ones that prevail.  Head into the logging camp and help us fight the Alliance scum.",
+  "p": "Have you slain the Alliance dogs? Victory must be ours!",
+  "c": "Well done, $N. Our control over the logging camp might not be complete yet, but thanks to you we're one step closer to smashing these Alliance worms."
+ },
+ {
+  "id": 12171,
+  "t": "Of Traitors and Treason",
+  "o": "Show the Alliance Missive to Palena Silvercloud at Stars' Rest.",
+  "d": "The list I hold must be delivered to High Commander Halford Wyrmbane. He commands the 7th Legion, stationed at Wintergarde Keep on the eastern borders of Dragonblight.$B$BIf any of the traitors on this list are stationed at Wintergarde... it could be catastrophic.$B$BHurry, $N. Show the document to Palena Silvercloud here at Stars' Rest and explain the nature of your mission. She will put you on her fastest hippogryph to Wintergarde!",
+  "p": "Hello, $r.",
+  "c": "<Palena reads the note.>$B$BYou will take my fastest hippogryph, $r! This information must be delivered to High Commander Wyrmbane at once!"
+ },
+ {
+  "id": 12172,
+  "t": "Attunement to Dalaran",
+  "o": "The Image of Archmage Modera at Stars' Rest has asked you to become Attuned to the Ley Lines of Northrend.",
+  "d": "Welcome, mage.$B$BBy now you must be wondering where Dalaran is and how to get there. I will help you.$B$BBut before I can teach you how to teleport to our great city, you must attune yourself to the ley lines of Northrend. Otherwise, you risk destroying yourself in the process.$B$BTake this attunement crystal and use it in the pit under the surge needle at the Moonrest Gardens to the west. Then you will be ready to learn the spell.",
+  "p": "Are you attuned? You mustn't lie about this, $N.$B$BIf you fail to prepare yourself properly, and I teach you the spell, the first time that you cast it will be the last time anyone will ever see you!",
+  "c": "Very well. If you are ready, then so am I."
+ },
+ {
+  "id": 12173,
+  "t": "Attunement to Dalaran",
+  "o": "The Image of Archmage Aethas Sunreaver at Agmar's Hammer has asked you to become Attuned to the Ley Lines of Northrend.",
+  "d": "Hello, mage.$B$BBy now you must be wondering where Dalaran is and how to get there. I can help you with this if you can survive a simple test.$B$BBefore I teach you how to teleport to our great city, you must attune yourself to the ley lines of Northrend. Otherwise, you will destroy yourself in the process!$B$BTake this attunement crystal and use it in the pit under the surge needle at the Moonrest Gardens to the southwest. Then you will be ready to learn what I have to teach.",
+  "p": "",
+  "c": "Very well. If you think you are ready, then let's not waste anymore of my time."
+ },
+ {
+  "id": 12174,
+  "t": "High Commander Halford Wyrmbane",
+  "o": "Deliver the Alliance Missive to High Commander Halford Wyrmbane at Wintergarde Keep in eastern Dragonblight. $B",
+  "d": "<Palena hands the missive back to you.>$B$BSnowstorm will take you to Wintergarde, $N. I guarantee you that it will be the fastest flight you've ever taken. Go now!$B",
+  "p": "What have you got there, soldier?",
+  "c": "<The High Commander reads the missive and then crumples it up.>$B$BDo you know where the people on this list are now? Take a look outside, near the front gate. They're the ones hanging from the arches.$B$BGhoul bait..."
+ },
+ {
+  "id": 12175,
+  "t": "Gray Worg Hides",
+  "o": "Hidetrader Jun'ik in Conquest Hold wants you to get 3 Gray Worg Hides from Graymist Hunters in the woods to the north.",
+  "d": "Let me tell you something, mon.  When you get put in charge of outfittin' the armies of the Horde, you go through a lot of hides!$B$BConqueror Krenna, the she-wolf runnin' this place, she gave me a tight deadline.  If I don't outfit her whole regiment by week's end she's gonna have me wrestling bears in the pit.$B$BHelp me out and I'll pay you top price.  I'll be needin' hides from graymist hunters.$B$BYou'll find them all around in pockets to the north, hunting stag.  Remember, mon.  Top price!",
+  "p": "You get dose hides, mon?",
+  "c": "You're a life saver, $Gbrother:sister;. If you're interested in more work, there's more where that came from."
+ },
+ {
+  "id": 12176,
+  "t": "A Minor Substitution",
+  "o": "Hidetrader Jun'ik wants you to bring him 6 Grizzly Hides.",
+  "d": "Krenna, she be wantin' worg hides for all the outfits.  There's not gonna be enough worg hides for her army, though.  Not now, not ever.$B$BThose worgs -- they be skinny, mon!  Here's what we're gonna do... if you can keep a secret that is.$B$BEast of Voldrune there be grizzly bears as fat as an ogre.  Those large hides -- those we can use!$B$BHurry, $g brother:sister;.  Krenna's not known for her patience.",
+  "p": "You get those hides, mon?",
+  "c": "I'm in your debt, mon. Take this as payment."
+ },
+ {
+  "id": 12177,
+  "t": "Jun'ik's Coverup",
+  "o": "Bring 1 piece of Coal and 5 Simple Flour to Hidetrader Jun'ik at Conquest Hold in Grizzly Hills.",
+  "d": "Ah, we have a small problem.  Grizzly hides... they be brown, mon!$B$BThink... think!$B$BI got it, mon!  Is like this: gray is black an' white all mixed up.  You get me some coal an' some flour, I'll grind it all up and dust the hides with it.  No one will know the better!$B$BBlacksmiths sell coal for smeltin' an' you can get flour from the provisioner. ",
+  "p": "You get the stuff, mon?",
+  "c": "Hope for the best, mon."
+ },
+ {
+  "id": 12178,
+  "t": "Delivery to Krenna",
+  "o": "Take the Bundle of Hides to Krenna in Conquest Hold.",
+  "d": "This is it, mon.  Let's take these hides to Krenna and see if they pass the test.$B$BLet's hope for both our sakes Krenna doesn't notice anything.",
+  "p": "Do you have any idea who you're talking to?",
+  "c": "Just who do you take me for? These hides smell of flour!$B$BThis is a complete insult to the Horde!"
+ },
+ {
+  "id": 12179,
+  "t": "Specialization 1 [PH]",
+  "o": "LOG: Complete this quest for Specialization 1.",
+  "d": "DESCRIPTION: Complete this quest for Specialization 1.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12180,
+  "t": "The Captive Prospectors",
+  "o": "Free Prospector Gann, Prospector Torgan, and Prospector Varana, then return to Mountaineer Kilian at Prospector's Point.",
+  "d": "Raegar sent a team of prospectors into Dun Argol to search for artifacts and information about the history of the settlement. Raegar's team never expected Dun Argol to be this heavily populated.$B$BThey're being held captive while the iron dwarves prepare for war. We haven't the men to charge in after them, and Raegar's too busy fantasizing about defeating the irons to be of much help.$B$BIt falls to you, $N. Any of the irons or their servants could be carrying the keys to the cages holding our men.",
+  "p": "Did you locate the missing prospectors?",
+  "c": "<Mountaineer Kilian listens as you relate what the captive prospectors told you.>$B$BThey mentioned Kronus and a war against stone giants? You're certain?$B$BSo Raegar's instincts were right. We have to find a way to get in there and learn more about their plans."
+ },
+ {
+  "id": 12181,
+  "t": "Give it a Name",
+  "o": "Show the Blight Specimen to Tobias Sarkhoff at New Agamand.$B",
+  "d": "My, my, how long has it been? How long have we been working on this damned plague? Finally, after an eternity of failure, we are blessed with perfection. This... It doesn't even have a proper name yet! This blight... That's it, BLIGHT! This blight will tear down the very fabric of life!$B$B<Harris hands you a vial.>$B$BNow, find the bat handler, Tobias, and show him the specimen. He'll get you on your way to Venomspite.$B",
+  "p": "Highly lethal poisonous gas delivery to Venomspite? Step right up!",
+  "c": "Uh, yea, you can go ahead and hold on to that vial, friend. I trust you."
+ },
+ {
+  "id": 12182,
+  "t": "To Venomspite!",
+  "o": "Deliver the Blight Specimen to Chief Plaguebringer Middleton at Venomspite in eastern Dragonblight.",
+  "d": "I got a special bat all lined up for you, buddy. Fastest and smoothest ride I've got. He'll take you right to Venomspite - in style.$B$BJust hand that vial over to Chief Plaguebringer Middleton once you land. ",
+  "p": "You are the delivery $g boy:girl;?",
+  "c": "Oh joyous day! And look, just beyond the mountain to the northeast creeps a whole field of Scourge for us to obliterate!"
+ },
+ {
+  "id": 12183,
+  "t": "Looking the Part",
+  "o": "Bring an Overseer's Uniform to Mountaineer Kilian at Prospector's Point.",
+  "d": "If, as Prospector Varana said, only certain irons are permitted to communicate with this Loken, it'll probably be the overseers who have the privilege.$B$BWe have to get you in there to see what all this is about, but it won't be easy. The first step will be to get a proper uniform for you.$B$BThen, we'll worry about doing your makeup.$B$BFind one of the overseers at Dun Argol, kill him, and bring back his uniform. If you get blood on it, you'll have only yourself to blame.",
+  "p": "Did you get the uniform?",
+  "c": "<Kilian takes the uniform from you.>$B$BThis should do. I won't have time to sew on a little patch with '$N' embroidered on it or anything, but anyone looking closely at you should be convinced that you're an overseer by the time we're done with you."
+ },
+ {
+  "id": 12184,
+  "t": "Cultivating an Image",
+  "o": "Use Kilian's Camera to record the images of 8 Iron Dwarves in Dun Argol, then return to Mountaineer Kilian at Prospector's Point.",
+  "d": "Now that we've got the uniform, we've got to get enough information to complete your camouflage.$B$BRaegar brought along this camera to document the team's finds, but I have a different use in mind. I want you to take it with you to Dun Argol and use it to capture the images of iron dwarves.$B$BOf course, your models aren't going to be a cooperative lot, so you may have to, err... subdue them first. Bring back the camera and the images when you're done.",
+  "p": "Did you get those snapshots?",
+  "c": "Good, these should do. Now, to create a kit to pass you off as a convincing iron dwarf."
+ },
+ {
+  "id": 12185,
+  "t": "Put on Your Best Face for Loken",
+  "o": "Disguise yourself as an Iron Rune Overseer, intercept the message from Loken, then report to Mountaineer Kilian at Prospector's Point.",
+  "d": "Using the images you've captured, I've created everything you need for your overseer disguise kit. You'll make a fine iron dwarf, if I do say so myself.$B$BTake the kit with you to Dun Argol, use it to disguise yourself, then go to the easternmost building on the broad middle tier of the city.$B$BThere, you should see a pedestal where the thane and overseers receive their orders from this Loken. Activate it while disguised and learn all you can from the communication.",
+  "p": "Did the disguise work?",
+  "c": "Could it be that Kronus isn't really exaggerating? The titans' stone and iron sons fighting against each other for control of the ancient city of Ulduar. This is madness, $N and it could destroy our only chance to learn the true history of dwarvenkind!"
+ },
+ {
+  "id": 12188,
+  "t": "The Forsaken Blight and You: How Not to Die",
+  "o": "Chief Plaguebringer Middleton at Venomspite in Dragonblight wants you to bring him 10 Ectoplasmic Residue.",
+  "d": "The details behind the functionality of the blight are hardly important. All you need to know is that it does the job it was designed to do. I have managed to synthesize a strain of the blight that is inert.$B$B<Middleton uncorks a vial and inhales.>$B$BSee, my body is still, mostly, intact. Now mix this with a reactive agent and we'd all be turned to shapeless piles of goo.$B$BOn the beach south of here you will find pathetic specters of Alliance soldiers past. Slay them and bring me ectoplasmic residue.",
+  "p": "The residue will be used as the reactive agent to activate the blight!",
+  "c": "This will do nicely, $N. Did those pathetic whelps put up a fight or did they just shower you with ghostly tears of sorrow?$B$BAh, they get so emotional..."
+ },
+ {
+  "id": 12189,
+  "t": "Imbeciles Abound!",
+  "o": "Travel to Venomspite in Dragonblight and speak with Chief Plaguebringer Middleton.$B",
+  "d": "The shipment from New Agamand was to arrive at Venomspite last week and then be delivered to me after some simple field tests. It is a Horde imperative - the last piece of the \"victory puzzle.\"$B$B<Sintar sighs.>$B$BIt is quite disheartening to know that you are surrounded by imbeciles and incompetent boobs!$B$BYou must travel to Venomspite, near the eastern border of Dragonblight. Find that buffoon, Middleton, and let him know that I am waiting on the package.",
+  "p": "",
+  "c": "We ran into a little - MINOR - problem. Everyone that tried handling the blight vaporized. We're working on adjusting the formula a tad so it doesn't instantly kill you for looking at it sideways. The good news is that I think I've almost got it!"
+ },
+ {
+  "id": 12190,
+  "t": "Say Hello to My Little Friend",
+  "o": "Prigmon wants you to bring Harkor's Ingredients to Harkor at Harkor's Camp.",
+  "d": "Harkor's gunna drop a gold brick when he sees these choice ingredients. All that be left is gettin' them to him.$b$bHe's camped out on the eastern coast near dem haunted ruins - Drakil'jin, dey be called.$b$bYou'll likely be makin' it there before I can finish up with these corpses... unless, ya think you'd rather try your hand at embalming?",
+  "p": "What can I do fer ya?",
+  "c": "Well now! Good ol' Prigmon sent ya did he?$b$bThis should make fer some mighty fine eatin'. Needs just a couple things..."
+ },
+ {
+  "id": 12191,
+  "t": "Chug and Chuck!",
+  "o": "Use the Complimentary Brewfest Sampler to hit S.T.O.U.T. 5 times, then talk to Bizzle Quicklift.",
+  "d": "Those pesky Dark Irons are back!  We need to make sure that you can defend yourself if needed.  More importantly, we need to know that you can defend our property!$b$bS.T.O.U.T. here is ready for action, are you?  Drink from the Complimentary Brewfest Samplers then throw the mug at S.T.O.U.T.!  Hit the target 5 times then talk to me.",
+  "p": "Chug from the mug, then chuck the mug at S.T.O.U.T. I think he can withstand the pounding. I wouldn't have stol.. er... built him if he couldn't!",
+  "c": "Wow...  S.T.O.U.T. didn't break... Hmm... Who would have guessed?$b$bI mean, hey, you did it!  Your aim is true, or at least true enough to help guard the camp.  I think you're ready now to take on the Dark Irons if they show up again."
+ },
+ {
+  "id": 12192,
+  "t": "This One Time, When I Was Drunk...",
+  "o": "Talk to Bizzle Quicklift in the Brewfest camp.",
+  "d": "The Dark Irons took a beating!  As they rushed back to the Grim Guzzler, a portion of their transport fell off.  More importantly, you managed to keep the camp safe... today.$b$bHead over to Bizzle and explain your heroic triumph over the Dark Iron dwarves.",
+  "p": "",
+  "c": "So you managed to stop the Dark Irons... While drunk too? That, $c, is truly the spirit of Brewfest! I guess in keeping with the spirit of Brewfest you want your prize tokens.$B$BThanks for your help, $N. Enjoy the rest of Brewfest."
+ },
+ {
+  "id": 12193,
+  "t": "Say, There Wouldn't Happen to be a Souvenir This Year, Would There?",
+  "o": "Redeem the Brewfest Stein Voucher with Belbi Quikswitch in the Brewfest camp.",
+  "d": "Brewfest isn't just about racing rams, it's also about drinking!  When you have a moment, take this voucher to Belbi Quikswitch.  She's near the back of the Brewfest camp.  If you can't see her, don't worry, she'll be sure to see you.$b$bIn any case, take this voucher to her to get your free Brewfest stein.  She'll also be more than happy to handle any and all other Brewfest transactions.",
+  "p": "What's happening hot stuff?  Got something for me?",
+  "c": "Aww, it's just a stein voucher... Maybe you're just playing hard to get. So here's this year's stein for you.$b$bBut I suspect I'll be seeing a lot more of you. After all, if you want any Brewfest tokens redeemed, I'm your girl...$b$bOr maybe I'm his girl...$b$bOooohhh... or his..."
+ },
+ {
+  "id": 12194,
+  "t": "Say, There Wouldn't Happen to be a Souvenir This Year, Would There?",
+  "o": "Redeem the Brewfest Stein Voucher with Blix Fixwidget in the back of the Brewfest camp.",
+  "d": "Not only are we supplying brew to everyone, we also have steins to give out!  Beautiful, commemorative steins all obtained by the most legal of means!  Here's a voucher for one.$b$bTalk to Blix near the back of the Brewfest camp.  He's pretty strange, even more so now that he's always wearing those goggles.  He'll handle the voucher for you, and any other Brewfest transaction.",
+  "p": "What's happening hot stuff?  Got something for me?",
+  "c": "What's this? A stein voucher? So you like drinking? Great! After I give you this stein, go have a few drinks! Then a few more. Maybe have a few more after that... Then, now this is important, come see me.$b$bLook, I know you'll be back eventually. If you want your Brewfest tokens redeemed you have to see me.$b$bAnyways, here's the stein, and remember to talk to me later."
+ },
+ {
+  "id": 12195,
+  "t": "The Unexpected 'Guest'",
+  "o": "Bring 5 Mature Stag Horns to Tormak the Scarred at Camp Oneqwah.",
+  "d": "A recent hunting expedition brought back more than just game.$B$BThey encountered a wounded dwarf fleeing the iron dwarf stronghold of Dun Argol. He may have information we can use to strike at our ancient enemy, but before he's of any use to us, we must bring down his fever.$B$BThe horns of the silvercoat stags, who roam the nearby forest, have long been used to make healing poultices. If you can bring enough of the horns to me, we'll see if the poultice can bring our 'guest' around.",
+  "p": "Did you bring the horns?",
+  "c": "These should serve. Now, let's see if it works."
+ },
+ {
+  "id": 12196,
+  "t": "From the Ground Up",
+  "o": "Bring 8 War Golem Parts to Prospector Rokar at Camp Oneqwah.",
+  "d": "We don't have enough time for me to forge the parts myself, but the foundries over at Dun Argol, to the southeast, are working day and night to churn out golem parts.$B$BI think you should go back there and pick up enough of them for me to make a golem from this blueprint.$B$BThey're probably scattered around any of the buildings where the iron rune-smiths are working.$B$BPlease hurry, $N. That Tormak looks like he's just waiting for an excuse to carry out his threat!",
+  "p": "D-did you b-b-bring those golem parts?",
+  "c": "<Rokar wipes his forehead with the back of his hand.>$B$BOh, thank the Light. He was threatening not to feed me until you returned. Let's sort through this pile of parts and see what we can make."
+ },
+ {
+  "id": 12197,
+  "t": "We Have the Power",
+  "o": "Bring Durar's Power Cell and Kathorn's Power Cell to Prospector Rokar at Camp Oneqwah.",
+  "d": "Well, we've got the shell of a golem, but that's not good enough for Tormak. He doesn't realize that these things don't just come together and miraculously start working! We're going to need power cells to animate it.$B$BWhen I was in Dun Argol, I noticed that Rune-Smith Durar and Rune-Smith Kathorn were the ones who manufactured the cells. We'll need one from each to power our golem.$B$BYou should be able to find each rune-smith in his workshop on the central level of Dun Argol.",
+  "p": "Do you have those power cells?",
+  "c": "<Rokar takes the batteries from you.>$B$BThese are low, but they'll be enough to start up the golem. He's nowhere near ready for battle, though."
+ },
+ {
+  "id": 12198,
+  "t": "... Or Maybe We Don't",
+  "o": "Charge your War Golem with the energy from 10 Lightning Sentries and return to Prospector Rokar at Camp Oneqwah.",
+  "d": "The golem's cells have just enough power to run it at the lowest levels, but it can't power any of its combat systems.$B$BThe good news is that the perimeter of Dun Argol is patrolled by lightning sentries. We should be able to use their power to charge up the golem's weapon systems.$B$BBring the golem with you, take it close to them, it will absorb the power as the sentries die.",
+  "p": "",
+  "c": "Well, now Tormak can't complain anymore. This baby's as ready as I can make it.$B$BAfter you tear your way through Dun Argol with it, that overgrown cow'll have to release me."
+ },
+ {
+  "id": 12199,
+  "t": "Bringing Down the Iron Thane",
+  "o": "Using the abilities of your War Golem, defeat Iron Thane Furyhammer, then return to Tormak the Scarred at Camp Oneqwah.",
+  "d": "Now that the golem is fully charged, it can be used against the leader at Dun Argol.$B$BWhen I observed Iron Thane Furyhammer, he was always guarded by a personal golem that shielded him from all harm.$B$BThat construct called The Anvil, can be disrupted, causing him to drop the shield. Use your golem's EMP ability to do just that. You'll be able to activate and take control of your golem inside Dun Argol.$B$BThe thane is in the main plant at the top and supervises production from the bottom level.",
+  "p": "Please tell me it worked...",
+  "c": "So the prospector made good on his promises? Good. I was beginning to wonder if all of this scrounging for bits of metal and stealing building materials would amount to anything.$B$BIt's a shame he's of no further use to us."
+ },
+ {
+  "id": 12200,
+  "t": "Emerald Dragon Tears",
+  "o": "Chief Plaguebringer Middleton at Venomspite in Dragonblight wants you to collect 8 Emerald Dragon Tears.",
+  "d": "With an inert specimen of the blight compound complete and the activating agent in hand there only remains a need for a suitable shell to house the components.$B$BSouthwest of here, on the shores of central Dragonblight, is where you will find the Emerald Dragonshrine. Within the shrine you will find the hardened remnants of a green dragon's tear drop. I don't know the whole story, but apparently they cry a lot right before they die. Go figure.$B$BGo to the Emerald Dragonshrine and gather tears.",
+  "p": "Fortunate it is that we have a location nearby holding a surplus of emerald dragon tears. I would have had to send you to Feralas otherwise.",
+  "c": "I do believe that the blight is now ready for a field test. Fortuitously, the dread citadel, Naxxramas, is laying siege to Wintergarde Keep. From beneath the very earth that Wintergarde was built upon rise the living dead, eager to do the bidding of Kel'Thuzad.$B$BThe Alliance are, of course, outmanned and outgunned. The people laid to rest in the Wintergarde Mausoleum awaken, hungering for flesh!$B$BPerhaps we shall give them a taste of the blight, yes?"
+ },
+ {
+  "id": 12201,
+  "t": "The Overseer's Shadow",
+  "o": "Bring an Overseer's Uniform to Scout Vor'takh at Camp Oneqwah.",
+  "d": "It sounds like this Loken is the mastermind behind the sudden preparations for war on the part of the iron dwarves.$B$BOnly the highest ranking irons are likely to have access to him, so we'll have to make you into an overseer to find out what's going on in there.$B$BI have a plan, for that, but we'll need some supplies.$B$BFind one of the iron rune overseers at Dun Argol, to the southeast, kill him, and bring back his uniform. ",
+  "p": "Did you get the uniform?",
+  "c": "This should work, but there's still the matter of the rest of your disguise. Even those dimwitted metal dwarves will recognize an impostor with a stolen suit."
+ },
+ {
+  "id": 12202,
+  "t": "Cultivating an Image",
+  "o": "Use Rokar's Camera to record the images of 8 Iron Dwarves in Dun Argol, then return to Scout Vor'takh at Camp Oneqwah.",
+  "d": "Now we have to finish the job of making you as repulsive as those iron dwarves.$B$BThe best way to do that is to base your disguise on the ugly mugs of real iron dwarves.$B$BWhen Tormak's hunting party discovered that wayward prospector, they took the camera he carried. Now, I suppose, we'll get the chance to use it.$B$BTake it with you to Dun Argol, kill some iron dwarves, and record their likenesses in this device. Bring it back once you have enough examples.",
+  "p": "Did you get those snapshots?",
+  "c": "These should serve. By Garrosh, these creatures are ugly."
+ },
+ {
+  "id": 12203,
+  "t": "Loken's Orders",
+  "o": "Disguise yourself as an Iron Rune Overseer, intercept the message from Loken, then report to Scout Vor'takh at Camp Oneqwah.",
+  "d": "I've created everything else you'll need for your overseer disguise kit. Try not to retch when you put it on. I took pains to make it as true to reality as possible.$B$BTake the kit with you southeast to Dun Argol, use it to disguise yourself, then go to the easternmost building on the broad middle tier of the city.$B$BThere, you should see a pedestal where the thane and overseers receive their orders from this Loken. Activate it while disguised and learn all you can from the communication.",
+  "p": "What did you learn of Loken?",
+  "c": "So he means to foment civil war between the factions of the titans' creation? Why does this titan city of Ulduar mean so much to him? I suppose this is what Kurun and his giants are hoping to prevent.$B$BWell, I doubt we're in a position to keep the giants from fighting each other, but we can find a way to use this to our advantage. I must inform our leaders at once."
+ },
+ {
+  "id": 12204,
+  "t": "In the Name of Loken",
+  "o": "Speak with Hugh Glass and Gavrock about Loken, then report your findings to Scout Vor'takh at Camp Oneqeah.",
+  "d": "The iron dwarves stand as one of the fiercest and most coordinated foes in Northrend. Wherever we have traveled, they have battled us with the name of Loken on their lips.$B$BWe must learn who this Loken is and what he seeks. The locals may be of help.$B$BTo the northeast, at the Redwood Trading Post, a human named Hugh Glass peddles his wares. Further east, at the Ruins of Tethys, you'll find a stone giant named Gavrock. Ask them about this Loken. They've got to know something of use.",
+  "p": "What did you find?",
+  "c": "So he is the mastermind behind the iron dwarves? We must find out what he has been ordering the iron dwarves of Dun Argol to do."
+ },
+ {
+  "id": 12205,
+  "t": "Wanted: The Scarlet Onslaught",
+  "o": "Kill 20 members of the Scarlet Onslaught and report to High Executor Wroth at Venomspite.",
+  "d": "By order of High Executor Wroth all members of the illegal organization known as the Scarlet Onslaught are to be put to death immediately.$B$BNo quarter is to be offered, and those proceeding to action upon this decree should be aware that any who are captured by the humans will be left to die, or worse!$B$BIn the High Executor's words, \"Paint the snow red with their blood!\"",
+  "p": "Are you here to waste my time, $Gboy:girl;, or did you fulfill my vendetta against the Scarlet Onslaught?",
+  "c": "Very well done, $r. I trust that you were cleverly vicious in your slaying?$B$BLet's see, how much I can offer you from the coffins... er, excuse me, coffers?"
+ },
+ {
+  "id": 12206,
+  "t": "Blighted Last Rites",
+  "o": "Apothecary Vicky Levine at Venomspite has asked you to test the Flask of Blight upon the Scarlet Onslaught Prisoner.",
+  "d": "Have you read the wanted poster? What is the high executor thinking?!$B$B<Vicky looks around and continues in hushed tones.>$B$BWe can't very well have those Scarlet Onslaught idiots being raised by their priests, or worse, rising as the Scourge, now can we?$B$BNo, I'm in total agreement with you, we have to do something about the corpses.$B$BI have just the thing. Take this blight that we just created and test it on the prisoner in the cage right here.$B$BNo muss, no fuss, no returning enemies.",
+  "p": "Did you do it?$B$BHey, I forgot to tell you that you probably shouldn't let any of that stuff get on you! It's nasty, and you'll never get the stains out, let alone have a hell of a time healing the bubbled-away fleshy bits.",
+  "c": "WHAT?! That's impossible! We've perfected the blight. It has a one-hundred percent lethality.$B$B<The apothecary wrings her hands, concern crossing her unliving visage. Clearly frustrated, she continues in an angry tone.>$B$BThis is just really odd. Hand me that flask, $c. I'm not going to be known as the apothecary that ruined everything!"
+ }
+]

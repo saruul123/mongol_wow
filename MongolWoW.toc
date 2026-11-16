@@ -13,4 +13,6 @@ Fonts.lua
 UI.lua
 Data\Quests_mn.lua
 Quests.lua
+Tooltips.lua
+Chat.lua
 Options.lua

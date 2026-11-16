@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12329,
+  "t": "Fate and Coincidence",
+  "o": "Speak to Sasha at the White Pine Trading Post.",
+  "d": "There are two types of people in this world, $N.  Those who believe in coincidence and those who don't.$B$BOn the day I lost my eyesight I was given the gift of clairvoyance.  I suppose you can guess what sort of person I am.$B$BEarlier today, a young woman named Sasha was granted the same vision you were.  You will want to talk to her.$B$BYou'll find her directly east of here at the White Pine Trading Post, on the way to Solstice Village.",
+  "p": "",
+  "c": "I was wondering when you'd turn up.  Think you can give me a hand here?"
+ },
+ {
+  "id": 12330,
+  "t": "Anatoly Will Talk",
+  "o": "Sasha at the White Pine Trading Post wants you to take the Tranquilizer Dart and use it on Tatjana in Solstice Village.  Bring Tatjana back to the White Pine Trading Post.",
+  "d": "My sister is here somewhere, and I can't seem to get this monster to talk.$B$BHe doesn't seem to care about his own well-being, but I've an idea.  I knew Anatoly's wife, Tatjana, from before the wolfcult arrived -- she was a horse-handler.$B$BTake this tranquillizer dart.  Bring her back alive, we're going to need her if we're to have any leverage with Anatoly.$B$BI will help you find the person behind all this once we save my sister.",
+  "p": "I'm glad to see you in one piece.",
+  "c": "That... that was close.$B$BWe need to save Anya.  Now!"
+ },
+ {
+  "id": 12331,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12332,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12333,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12334,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12335,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12336,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12337,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12338,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12339,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12340,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12341,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12342,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12343,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12344,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12345,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12346,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12347,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12348,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12349,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12350,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12351,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12352,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12353,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12354,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12355,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12356,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12357,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12358,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12359,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12360,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12361,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12362,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12363,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12364,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12365,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12366,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12367,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12368,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12369,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12370,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12371,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12372,
+  "t": "Defending Wyrmrest Temple",
+  "o": "Afrasastrasz at Wyrmrest Temple has asked you to slay 3 Azure Dragons, slay 5 Azure Drakes, and to destabilize the Azure Dragonshrine while riding a Wyrmrest Defender into battle.",
+  "d": "Emboldened by the overabundance of magic now flowing through the Azure Dragonshrine, the blue dragonflight has dared to attack Wyrmrest Temple itself!$B$BI ask that you ride one of our defenders into battle to slay their dragons and drakes, and to attack the eruption of ley line energies at the dragonshrine itself in order to destabilize it.$B$BOutside on the east and west terraces are wyrmrest defenders. Speak with one to ride it into battle.$B$BWithout your help, $N, we will surely lose.",
+  "p": "How fares the fight? Are we pushing them back?",
+  "c": "Incredible! Let me just say that I continue to be amazed by what you younger races seem capable of.$B$BWe are indebted to you. Will you come back and help us again tomorrow?"
+ },
+ {
+  "id": 12373,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12374,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12375,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12376,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12377,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12378,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12379,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12380,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12381,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12382,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12383,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12384,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12385,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12386,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12387,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12388,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12389,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12390,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12391,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12392,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12393,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12394,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12395,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12396,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12397,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12398,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12399,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12400,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12401,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12402,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12403,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12404,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12405,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12406,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12407,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12408,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12409,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12410,
+  "t": "Candy Bucket",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Candy buckets like this are located in inns throughout the realms. Go ahead... take some!"
+ },
+ {
+  "id": 12411,
+  "t": "A Sister's Pledge",
+  "o": "Look for Anya in the Duskhowl Den near Solstice Village.",
+  "d": "Please, $N.  I know it is Arugal you're after.  I swear on my father's memory I will help you take him down.$B$BBut I must beg you... Anya is completely innocent, we cannot leave her with these savages.$B$BHelp me rescue my sister and you'll have me at your side when you face Arugal.$B$BI know the den Anatoly spoke of.  We'll find it on the other side of this hill.  Let's go, my sister's in danger.",
+  "p": "",
+  "c": "I don't want to be here anymore.  The worgen-men are mean."
+ },
+ {
+  "id": 12412,
+  "t": "My Enemy's Friend",
+  "o": "Conqueror Krenna in Conquest Hold wants you to slay 8 Silverbrook Hunters and their leader, Vladek, at the Forest's Edge Post.",
+  "d": "If there is one thing I can get through your head, let it be this: the Alliance will be crushed in the Grizzly Hills.$B$BThere is far too much lumber, ore, game and strategic territory for us to give up on any single battlefront here.$B$BSo far we've been successful... but there's something that could tip the scales in our enemy's favor.$B$BFar to the east  of here, at the Forest Edge's Post, local trappers seek to join the Alliance.  Slaughter them before they have the chance to do so.",
+  "p": "Did you complete your task? If not, what are you doing here?",
+  "c": "You're back. And you're alive.$b$bNow what's this nonsense about worgen?"
+ },
+ {
+  "id": 12413,
+  "t": "Attack on Silverbrook",
+  "o": "Conqueror Krenna at Conquest Hold wants you to slay 8 Silverbrook Defenders in the Silverbrook Hills.",
+  "d": "A few hours ago, the trappers were nothing but peasants threatening to add their number to the Alliance's.$B$BNow they've become something else... an uncertainty.  I do not like uncertainties.  Go to the hills outside their main town in northern Grizzly Hills, Silverbrook, and help my men crush them.",
+  "p": "Have you completed your task yet, $N?",
+  "c": "Not bad, $N. You might be slightly more useful than I initially thought."
+ },
+ {
+  "id": 12414,
+  "t": "Mounting Up",
+  "o": "Ride 5 Highland Mustangs back to Squire Percy at the Westfall Brigade Encampment.",
+  "d": "Cap'n Stoutmantle left most of our calvary... cavlary... uh, horsemen at the fight for Venture Bay.$B$BWe chose a good place to put the camp 'cause there are tons of highland mustangs running around near here and in the Boulder Hills to the northeast. The Cap'n put me in charge of capturing some of 'em.$B$BWill you help? I've got a stick and some string, and there are loads of wild carrots growing near the camp. Pick the carrots and use them with the stick to lure in the mustang, then ride it back here.",
+  "p": "Did you get all the mustangs we'll need?",
+  "c": "Wow! These sure are good horses! I think the Cap'n will be real pleased with our work."
+ },
+ {
+  "id": 12415,
+  "t": "The Horse Hollerer",
+  "o": "Scare 15 Highland Mustangs and return to Soulok Stormfury at Camp Oneqwah.",
+  "d": "The Alliance's 'Westfall Brigade' is camped far to the north, near Thor Modan. They have foolishly divided their forces to contest our control of Venture Bay, and they have been left without cavalry.$B$BThey're now trying to capture and tame the wild highland mustangs that roam the area around the Westfall Brigade Encampment and Boulder Hills. We must stop them before they're able to replace their lost mounts. Take this and throw it near the horses to drive them away.",
+  "p": "",
+  "c": "<Soulok nods in approval.>$b$bWell done, $N. We must not let the Alliance gain any kind of advantage."
+ },
+ {
+  "id": 12416,
+  "t": "Heated Battle",
+  "o": "Aid Captain Iskandar in holding the canyons by participating in the death of 12 Frigid Ghoul Attackers, 8 Frigid Geist Attackers, and 1 Frigid Abomination Attacker.$B$BReturn to Ceristrasz once you have finished this task.",
+  "d": "The Scourge have overrun the shrine. The shrine's keeper, Dahlia Suntouch, is nowhere to be found. The red wyrms that fell in the shrine's defense now beset us in the form of twisted skeletal emberwyrms. The situation is dire, $r.$B$BCaptain Iskandar leads a group of your kind in stemming the flow of the Scourge out of the shrine.$B$BGo to his aid... but please stay behind his men. The flow of Scourge is endless and I don't want to lose you in one of those scarred canyons.",
+  "p": "I'm glad you're still with us, $r.",
+  "c": "It is a disgusting task, but I thank you dearly for doing it.$B$BThe Scourge cannot be permitted to push any further towards Wyrmrest or we are sure to lose it."
+ },
+ {
+  "id": 12417,
+  "t": "Return to the Earth",
+  "o": "Enter the Ruby Dragonshrine through one of the northern or southern passes and search for Ruby Acorns.  Use the Ruby Acorns on the fallen red dragons to return their bodies to the earth.  Return to Ceristrasz once the task is complete.",
+  "d": "I have another task that needs attention. I have brothers who are falling in the battle overhead and if we do not act quickly, they will only bolster the emberwyrm ranks.$B$BGet into the shrine through one of the other passes to the south or north... the Scourge presence should be lighter there.$B$BSearch the shrine for ruby acorns that have fallen from the tree and plant them near the bodies of my fallen brood. Through this, they can give new life... a proud fate for any of my kind.",
+  "p": "I started to worry that the Scourge in the shrine had claimed you. It is good that you yet live.",
+  "c": "In the earth, my brothers can grant life anew. You have saved them from a fate far worse than death.$B$BI don't know a word in your tongue that could express how much this means to my kind. Thank you, $r."
+ },
+ {
+  "id": 12418,
+  "t": "Through Fields of Flame",
+  "o": "Enter the Ruby Dragonshrine through one of the northern or southern passes, then kill 6 Frigid Necromancers and eliminate the source of the corruption under the shrine. Return to Ceristrasz once the task is complete.",
+  "d": "I have one final task for you, $r... one that should turn the tide of this fight.$B$BReturn to the shrine and kill the necromancers that are fueling this onslaught. With them dead, we should be able to beat these forces back and eventually retake the shrine.$B$BI also need you to find the source of the corruption under the shrine and put an end to it.$B$BI know I have asked a lot of you, but if you do this for me, we will win this battle.",
+  "p": "You've returned! Have you don as I've asked of you?",
+  "c": "Dahlia... they turned her?$B$BDahlia has been loyal to us for a very long time... if they can corrupt a being of her devotion, it does not bode well for the rest of the young races. Thank you for freeing her. I hope she has found some peace.$B$BYou have honored us with your selfless assistance today, $r. I will send word to the council of what your kind have accomplished here. Go with our blessing."
+ },
+ {
+  "id": 12419,
+  "t": "The Fate of the Ruby Dragonshrine",
+  "o": "Bring Dahlia Suntouch's Ruby Brooch to Krasus in the Ruling Council Chamber at Wyrmrest and inform him of Dahlia's fate.",
+  "d": "As you pick up the brooch, its faint glow brightens slightly.$B$BKrasus will want to know of Dahlia's fate. Take the brooch to him at Wyrmrest.",
+  "p": "Hello, $r. I sense the presence of my Ruby Brooch. Hand it here.$B$BWhat has become of Dahlia?",
+  "c": "Dahlia was taken by the Scourge? This is a sad day for all of us.$B$BI will look to finding a new keeper once the shrine is retaken. Thank you for your efforts... the Ruby Dragonshrine is a sacred place to us, and the sacrifices your kind have made will not be easily forgotten.$B$BIt is good to know there are still heroes such as you - I will call upon you one day. Until that day comes, may your adventures be fruitful."
+ },
+ {
+  "id": 12420,
+  "t": "Brew of the Month Club",
+  "o": "Bring the \"Brew of the Month\" club membership form to Larkin Thunderbrew in the Stonefire Tavern in Ironforge.",
+  "d": "Membership has its privileges.  Being part of the \"Brew of the Month\" club means knowing where to get the latest and greatest brew.$b$bBring your \"Brew of the Month\" club membership form to Larkin Thunderbrew in the Stonefire Tavern in Ironforge.",
+  "p": "Do you have your membership forms filled out?",
+  "c": "Your paperwork looks to be in order. Welcome to the club, $N!$B$BYou can expect to get our mail at the start of every month. If you like what you got, stop by and we can sell you some more. This is the club that keeps on giving."
+ },
+ {
+  "id": 12421,
+  "t": "Brew of the Month Club",
+  "o": "Bring the \"Brew of the Month\" club membership form to Ray'ma in the Darkbriar Lodge in Orgrimmar's Valley of Spirits.",
+  "d": "There is strength in numbers, $n.  Being part of the \"Brew of the Month\" club means knowing you and your brethren will always have access to the best brew.$b$bBring your \"Brew of the Month\" club membership form to Ray'ma in the Darkbriar Lodge in Orgrimmar's Valley of Spirits.",
+  "p": "Do ya have your membership forms filled out?",
+  "c": "So you be joinin' our ranks, $N?  We treat ya nice here.  You only get the best when you part of dis club!$b$bWe be sendin' out brew to you at da start of every month.  If you like what you got, and you be wantin' more, head back over here.  We make sure you get more of da brew you like."
+ },
+ {
+  "id": 12422,
+  "t": "Tactical Clemency",
+  "o": "Deliver the Letter of Amnesty to the Captured Trapper in Silverbrook Hills.",
+  "d": "Listen, $N.  I need you to act with discretion and speed.$B$BOne of Krenna's top sergeants has captured a trapper outcast outside of Silverbrook.  Now, if things turn out the way they usually do, the prisoner is going to be executed before the day is over.$B$BWe can't let that happen.  You see, the prisoner matches the description of Mikhail's older daughter in his diary.$B$BIf we set her loose and follow her closely, she'll lead us to whoever's controlling the trappers.  Take this letter to her.",
+  "p": "Are you here to kill me?",
+  "c": "You're going to let me go... just like that? Listen, I don't want any trouble with you... these monsters killed my father and took my sister. I have other things on my mind right now."
+ },
+ {
+  "id": 12423,
+  "t": "Mikhail's Journal",
+  "o": "Bring Mikhail's Journal to Conqueror Krenna in Conquest Hold.",
+  "d": "From what you can gather, this journal was written by a denizen of Silverbrook named Mikhail.$B$BIt is written in some variant of the common human tongue.  Perhaps you should bring this back to Conqueror Krenna.",
+  "p": "What's that you've got there?",
+  "c": "Hah! Is this some sort of joke?$B$BI barely have any use for books I can actually understand."
+ },
+ {
+  "id": 12424,
+  "t": "Gorgonna",
+  "o": "Bring Mikhail's Journal to Gorgonna in Conquest Hold.",
+  "d": "This book is written in the pig-tongue the humans use.  It needs to be burned immediately.$B$BHand it to my sister Gorgonna and do not waste my time.",
+  "p": "You have something to show me?",
+  "c": "Could it be? The man who wrote this journal feared for his daughters' lives so he sent them away from Silverbrook.$B$BWe just captured an outcast in the outskirts of town about the same age as the eldest daughter.$B$BListen, $N. There's more happening here than meets the eye... we can't just burn this diary."
+ },
+ {
+  "id": 12425,
+  "t": "Ruuna the Blind",
+  "o": "Speak to Ruuna the Blind at Ruuna's Camp near Vordrassil Pass.",
+  "d": "This trapper business has the potential to be more important than we've accounted for.$B$BIf they're not with the Alliance, there's a good chance they're with the Scourge, which could mean trouble.$B$BOur previous efforts might've paid off, though.  We spotted our former captive meeting with a fortune teller of some sort before we lost track of her.$B$BI'm almost certain now that she will take us to their leader if we can find her again.  Find Ruuna the Blind and see what you can find out.",
+  "p": "",
+  "c": "You seek knowledge beyond your reach so you've come to me. I must warn you, stranger, the answers I provide might not be to your liking."
+ },
+ {
+  "id": 12427,
+  "t": "The Conquest Pit: Bear Wrestling!",
+  "o": "Defeat Ironhide inside the Conquest Pit and speak to Bookie Vel'jen for a reward.",
+  "d": "So you're interested in the fights, eh?  Well, Krenna has outlawed pit-fighting for all enlisted combatants.  But you, my friend, are technically a free agent and are not included in this prohibition.$B$BNice loophole, eh?$B$BAnyway, if you're interested I can start you off with something easy, a measly bear.  I'll even let you bring friends along!",
+  "p": "It's not over until you or the bear tips over, friend!",
+  "c": "Nice work, mon! Here's your cut."
+ },
+ {
+  "id": 12428,
+  "t": "The Conquest Pit: Mad Furbolg Fighting",
+  "o": "Defeat Torgg Thundertotem inside the Conquest Pit and speak to Bookie Vel'jen for a reward.$B",
+  "d": "You're not bad.  Not bad at all.$B$BThink you can take a furbolg?  What about one of those extra-large crazed Northrend furbolgs?$B$BGood, good.  Get your crew together, and head to the ring.  Let's give these folks a show... maybe we can earn some more coin while we're at it.",
+  "p": "",
+  "c": "Those were some sharp moves, friend! Lots of bets against you, which is good news cash-wise!"
+ },
+ {
+  "id": 12429,
+  "t": "The Conquest Pit: Blood and Metal",
+  "o": "Defeat Rustblood inside the Conquest Pit and speak to Bookie Vel'jen for a reward.$B",
+  "d": "It's nice to have a real fighter around these parts... we'd only had prisoners and caged beasts for the past few weeks.  The people get bored, ya know?$B$BAnyhow, your next challenge is a genuine iron golem stolen from the depths of Thor Modan... think you can swing it?",
+  "p": "",
+  "c": "My heart nearly skipped a beat there! Thought that mound of metal was gonna get ya, mon!"
+ },
+ {
+  "id": 12430,
+  "t": "The Conquest Pit: Death Is Likely",
+  "o": "Defeat Horgrenn Hellcleave inside the Conquest Pit and speak to Bookie Vel'jen for a reward.$B",
+  "d": "I'm gonna shoot straight with ya, kid.  This next contender's a murderer.$B$BLiterally.$B$BHe was to be executed last week, but he strangled the hangman with his left hand, so Krenna's guards sort of let me have him.$B$BFeel free to pass on this one.  I wouldn't blame ya.",
+  "p": "",
+  "c": "Fancy footwork, fancy footwork. You really made quick work of that crazy orc, friend.$B$BOdds were against you seven-to-one; made some nice coin on that one!"
+ },
+ {
+  "id": 12431,
+  "t": "The Conquest Pit: Final Showdown",
+  "o": "Defeat Krenna in the Conquest Pit and speak to Gorgonna for a reward.",
+  "d": "You must've really upset Krenna.  She and Gorgonna have had a spat and you're wanted in the pit immediately.$B$BThere are some wild rumors that it's a fight to the death!  That would be bad news for you, but great news for our business venture!$B$BAt any rate, you can't run away from fate... best get in there on the quick and get it over with.",
+  "p": "",
+  "c": "What happened today... had to happen. It doesn't mean I have to be happy about it.$B$BI've freed my people from a tyrant, but I've also lost a sister. I thank you for your help, $N. I wish to be alone now."
+ },
+ {
+  "id": 12432,
+  "t": "Riding the Red Rocket",
+  "o": "General Gorlok at the lighthouse in Venture Bay wants you to destroy the Alliance Lumber Boat.$b$bGeneral Gorlok will only be present at the lighthouse when the Horde has it in their possession.",
+  "d": "You there, $r! Get your lousy carcass over here!$b$bThe Alliance have a shipment of lumber all ready for transport just northeast of here. Since getting our hands on that wood is out of the question, there's only one thing to do - destroy it!$b$bThe goblin at the end of the dock here has some torpedoes all ready to go. He's got all the fuel for them on the docked goblin ship to the north.$b$bGet some fuel, then commandeer one of the torpedoes and ride it into their ship.$b$bDismissed!",
+  "p": "Has that Alliance lumber been burned yet, $c?",
+  "c": "Ha hah! What a ride, eh $c?$B$BIf we can't control the resources here, then no one can!$B$BWhen will those puny Alliance pests realize that they are no match for the might of the Horde?"
+ },
+ {
+  "id": 12433,
+  "t": "Seeking Solvent",
+  "o": "Gurtor at the Venture Bay Horde base wants you to bring him a canister of Element 115.",
+  "d": "Gah! Not again. Another blown gasket....$b$bEvery time one of these goes, lubricant gums up all of the gears. Without solvent, it takes hours to clean.$b$bTell ya what, $r. There's some fancy rocket fuel on the Venture Company barge in the dock there - element 115 I think they call it. That stuff makes for a great solvent.$b$bGet me one of those and I'll make it worth your trouble.",
+  "p": "You got some of that element 115, $N?",
+  "c": "Ahh yes. That'll save me hours.$B$BTake this for your trouble, friend. And keep an eye out for more element 115. I'll take all you can find."
+ },
+ {
+  "id": 12435,
+  "t": "Report to Lord Afrasastrasz",
+  "o": "Speak with Lord Afrasastrasz at Wyrmrest Temple.",
+  "d": "I abhor the loss of life... any life. But I will not stand idly by and allow Malygos to kill us and defile the temple!$B$BI have appointed Lord Afrasastrasz as the commander of Wyrmrest's defenses.$B$BSpeak with Torastrasza to ride a drake down to him.$B$BPlease lend him your aid, $N. Your involvement with the defense of Wyrmrest will be critical to us prevailing against the blue dragonflight.",
+  "p": "",
+  "c": "You must be $N. The queen informed me that you would be coming.$B$BIf you are willing, we are in great need of your assistance."
+ },
+ {
+  "id": 12436,
+  "t": "Supplemental Income",
+  "o": "Provisioner Lorkran at Conquest Hold wants you to obtain 5 Succulent Venison from  the nearby Tallhorn Stag.",
+  "d": "Hail, $c.  You'll find that here at Conquest Hold, we buy and sell what Krenna wants us to buy and sell... at the price that Krenna wants us to buy and sell.$B$BAll this is stifling business.  I'm hoping to make a little bit of coin on the side and feed our grunts at the same time.  Why don't you go hunt down some stag and bring me the venison?$B$BThey're numerous in the area, so bring me only the best meat.",
+  "p": "You get that venison yet, $N?",
+  "c": "Nice job, $N. These will feed two or three grunts each. Not bad."
+ },
+ {
+  "id": 12437,
+  "t": "Riding the Red Rocket",
+  "o": "Commander Howser at the lighthouse in Venture Bay wants you to destroy the Horde lumber shipment.$b$bCommander Howser will only be present at the lighthouse when the Alliance has it in their possession.",
+  "d": "Listen, $n. This battle is as much over resources as tactical supremacy.$b$bI have a mission that could turn the tide in our struggle against the Horde here.$b$bThere are torpedoes at the end of the dock that we can use to take down the Horde's lumber ship to the northwest.$b$bYou'll need to get some of the fuel that's stored on the docked goblin ship just north of here, then ride one of the torpedoes into their transport!",
+  "p": "Has that Horde lumber ship been burned yet, $N?",
+  "c": "Good to see that you survived that impact. Quite the explosion!$B$BWe can't afford for the Horde to make off with all that lumber.$B$BWell done, $c."
+ },
+ {
+  "id": 12438,
+  "t": "Wanted: Kreug Oathbreaker",
+  "o": "Kill Kreug Oathbreaker and return to Highlord Leoric Von Zeldig at Wintergarde Keep in Dragonblight to collect your reward.",
+  "d": "Posted by: Illusia Lune$B$BThe Scourge flesh giant known as Kreug Oathbreaker was responsible for the deaths of my husband, children and my dear friends, the Whisperveils. Those brave enough to take on this bounty will find Kreug in the southeastern reaches of the Carrion Fields.$B$BI demand justice! Kill Kreug Oathbreaker!$B$BIn the event that Kreug is slain, I have pooled money and items together and given them to Highlord Leoric Von Zeldig to give out as a reward.$B$BPlease vindicate us!",
+  "p": "Are you here to collect a bounty, ally?",
+  "c": "Well done, $N. I will notify Illusia that a hero has heard her call for help and risen to meet the challenge! Here is your reward."
+ },
+ {
+  "id": 12439,
+  "t": "A Disturbance In The West",
+  "o": "Speak to Rodney Wells at Wintergarde Keep to secure a ride to Stars' Rest in western Dragonblight.",
+  "d": "Another force threatens to destroy all that we have worked for, $N. You must head westward to Stars' Rest. Archmage Modera has sensed a great disturbance in the magical ley lines of our world that must be dealt with immediately!$B$BGo now, $N! Speak to Rodney Wells at the gryphon station here in Wintergarde and let him know the nature of your mission. He will place you on his fastest gryphon to deliver you to Stars' Rest. Speak with Archmage Modera when you arrive.",
+  "p": "",
+  "c": "We definitely don't want another sundering, friend. I'll do all that I can to help you on your mission."
+ },
+ {
+  "id": 12440,
+  "t": "To Stars' Rest!",
+  "o": "Speak with the Image of Archmage Modera at Stars' Rest in western Dragonblight.$B",
+  "d": "When you are ready I will place you on my fastest gryphon to Stars' Rest. Once you get there, find and speak with Archmage Modera.$B$BGood luck, ally!",
+  "p": "",
+  "c": "Vas heard my distress call then, eh? Not a moment too soon, friend."
+ },
+ {
+  "id": 12441,
+  "t": "Wanted: High Shaman Bloodpaw",
+  "o": "Kill High Shaman Bloodpaw and return to Highlord Leoric Von Zeldig at Wintergarde Keep in Dragonblight to collect your reward.",
+  "d": "Posted by: Drolfy$B$BWhile out in the Eldritch Heights with my cousins, Skrotee and Brote, a vicious band of wolvar from the Bloodpaw tribe attacked us. We attempted to flee, but I fear they got Skrotee and Brote.$B$BI demand retribution! Is there someone brave enough to venture to the southeastern reaches of Dragonblight, to the Eldritch Heights, and kill High Shaman Bloodpaw and his cronies?$B$BI have given a hefty sum of gold to Highlord Leoric Von Zeldig to disperse to anyone that claims this bounty!",
+  "p": "Have you faced Bloodpaw?",
+  "c": "Outstanding work, $N! I will notify Drolfy that a hero did rise to meet his challenge and that the cruel Bloodpaw is no more!"
+ },
+ {
+  "id": 12442,
+  "t": "Wanted: Onslaught Commander Iustus",
+  "o": "Kill Onslaught Commander Iustus and return to Highlord Leoric Von Zeldig at Wintergarde Keep in Dragonblight to collect your reward.$B",
+  "d": "Posted by: Highlord Leoric Von Zeldig$B$BUpon the northeastern path from Wintergarde a battalion of 7th Legion were ambushed and slain by Onslaught Commander Iustus and an army of mindless Scarlet Onslaught zealots. Such cold and calculated actions must be met with force!$B$BWintergarde demands justice! Seek out Onslaught Commander Iustus at Onslaught Base Camp to the northeast and end his miserable existence.$B$BI will hand out the reward for this bounty to any who would dare take up the task!$B",
+  "p": "<Leoric grits his teeth.>$B$BIs that pompous fool dead?",
+  "c": "At least for now the Scarlet Onslaught suffers a setback in their nefarious plans. You have done Wintergarde a great service, $N.\n"
+ },
+ {
+  "id": 12443,
+  "t": "Seeking Solvent",
+  "o": "Barblefink at the Alliance base in Venture Bay wants you to bring him a canister of Element 115.",
+  "d": "Gah! Not again. Another blown gasket....$b$bEvery time one of these goes, lubricant gums up all of the gears. Without solvent, it takes hours to clean.$b$bTell ya what, $r. There's some fancy rocket fuel on the Venture Company barge in the dock there - element 115 I think they call it. That stuff makes for a great solvent.$b$bGet me one of those and I'll make it worth your trouble.",
+  "p": "You got some of that element 115, $N?",
+  "c": "Ahh yes. That'll save me hours.$B$BTake this for your trouble, friend. And keep an eye out for more element 115. I'll take all you can find."
+ },
+ {
+  "id": 12444,
+  "t": "Blackriver Skirmish",
+  "o": "Scout Captain Carter wants you to kill 10 Horde units or players in the Blackriver Logging Camp.",
+  "d": "The Venture Company's on its way out of Grizzly Hills.  They used to run logging operations here, but things got a little too dangerous for them.$B$BTheir abandoned sites are up for grabs and we sure as hell can't let the Horde get their hands on them.$B$BThe Blackriver Logging Camp is the smallest of the three logging sites in this zone, but we still need it.  Do your part and fend off the Horde forces.  Any lumber they get here will be made into weapons to be used against us elsewhere.",
+  "p": "How's the hunt going?",
+  "c": "Nice work, $N.  We could use a few more folks like you up here.  We could really show the Horde not to mess with us."
+ },
+ {
+  "id": 12447,
+  "t": "The Obsidian Dragonshrine",
+  "o": "Travel to the Obsidian Dragonshrine Northwest of Wymrest and just West of the Wrath Gate. Locate Serinar inside of the shrine and offer him your aid.",
+  "d": "The Scourge come. Korialstrasz calls upon his allies in a futile attempt to save their Ruby Dragonshrine, but it seems the good graces of the red flight don't extend to saving the shrines of the other flights.$B$BSurprised? I'm not.$B$BThere is another of my brood who has left to clear our Obsidian Dragonshrine of the undead vermin that now infest it. All it would take to prove yourself more noble and righteous than Alexstrasza herself is a quick jaunt over there and a few swings of a blade.$B$BI'm amused.",
+  "p": "",
+  "c": "I'm trying to decide at which I'm more surprised... that you actually came to the aid of a Black Dragon or that you're still in one piece after speaking with Nalice.$B$BHer words drip venom, but I suppose Wyrmrest can keep even our kind in check sometimes.$B$BOr perhaps it's just the armies of the red dragonflight that are massed around her."
+ },
+ {
+  "id": 12448,
+  "t": "Heated Battle",
+  "o": "Aid Captain Drayzen in holding the canyons by participating in the death of 12 Frigid Ghoul Attackers, 8 Frigid Geist Attackers, and 1 Frigid Abomination Attacker.$B$BReturn to Vargastrasz once you have finished this task.",
+  "d": "The Scourge have overrun the shrine. The shrine's keeper, Dahlia Suntouch, is nowhere to be found. The red wyrms that fell in the shrine's defense now beset us in the form of twisted skeletal emberwyrms. The situation is dire, $r.$B$BCaptain Drayzen leads a group of your kind in stemming the flow of the Scourge out of the shrine.$B$BGo to his aid... but please stay behind his men. The flow of Scourge is endless and I don't want to lose you in one of those scarred canyons.",
+  "p": "",
+  "c": "It is a disgusting task, but I thank you for doing it.$B$BThe Scourge cannot be permitted to push any further out of the shrine lest all of these lands be overrun."
+ },
+ {
+  "id": 12449,
+  "t": "Return to the Earth",
+  "o": "Enter the Ruby Dragonshrine through the southern pass and search for Ruby Acorns.  Use the Ruby Acorns on the fallen red dragons to return their bodies to the earth.  Return to Vargastrasz once the task is complete.",
+  "d": "I have another task that needs attention. I have brothers who are falling in the battle overhead and if we do not act quickly, they will only bolster the emberwyrm ranks.$B$BGet into the shrine through the pass in the south... the Scourge presence should be lighter there.$B$BSearch the shrine for ruby acorns that have fallen from the tree and plant them near the bodies of my fallen brood. Through this, they can give new life... a proud fate for any of my kind.",
+  "p": "",
+  "c": "In the earth, my brothers can grant life anew. You have saved them from a fate far worse than death.$B$BI don't know a word in your tongue that could express how much this means to my kind. Thank you, $r."
+ },
+ {
+  "id": 12450,
+  "t": "Through Fields of Flame",
+  "o": "Enter the Ruby Dragonshrine through the southern pass, then kill 6 Frigid Necromancers and eliminate the source of the corruption under the shrine. Return to Vargastrasz once the task is complete.",
+  "d": "I have one final task for you, $r... one that should turn the tide of this fight.$B$BReturn to the shrine and kill the necromancers that are fueling this onslaught. With them dead, we should be able to beat these forces back and eventually retake the shrine.$B$BI also need you to find the source of the corruption under the shrine and put an end to it.$B$BI know I have asked a lot of you, but if you do this for me, we will win this battle.",
+  "p": "You've returned! Have you done as I've asked of you?",
+  "c": "Dahlia... they turned her?$B$BDahlia has been loyal to us for a very long time... if they can corrupt a being of her devotion, it does not bode well for the rest of the young races. Thank you for freeing her. I hope she has found some peace.$B$BYou have honored us with your selfless assistance today, $r. Perhaps not all of the Horde bear the black hearts of their ancestors. I will send word to the council of what your kind have accomplished here."
+ },
+ {
+  "id": 12451,
+  "t": "Onward to Camp Oneqwah",
+  "o": "Speak with Scout Vor'takh at Camp Oneqwah.",
+  "d": "While we build Conquest Hold, I sent Scout Vor'takh to make contact with our taunka allies in the east. They're based in Camp Oneqwah, which is in the easternmost part of Grizzly Hills, beyond Grizzlemaw.$B$BMake the journey there, hear Vor'takh's report and offer your assistance with anything he and the local chieftain may need. Your contributions to Conquest Hold have been exemplary and I know Vor'takh will be grateful for the assistance.",
+  "p": "",
+  "c": "<You offer a short introduction, explaining you were sent by Sergeant Nazgrim.>$B$BAh, so you're something in the way of reinforcements, then. Good.$B$BTormak and his men have need of your blade."
+ },
+ {
+  "id": 12452,
+  "t": "zzOLD The Fate of the Ruby Dragonshrine",
+  "o": "Bring Dahlia's Ruby Broach to Ceristrasz and inform him of her fate.",
+  "d": "",
+  "p": "",
+  "c": ""
+ }
+]

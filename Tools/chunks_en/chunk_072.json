@@ -1,0 +1,962 @@
+[
+ {
+  "id": 14181,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "Arathi Basin is on the verge of being lost to Alliance forces.  We must send reinforcements at this very moment or all our efforts will have been in vain.$B$BDo not delay, $c, go to Arathi Basin and crush the enemy.  Victory to the Horde!",
+  "p": "You're back already. Do you bring news of victory?",
+  "c": "You've brought great honor to the Horde, $N. Your victory today will ensure a thousand victories tomorrow!"
+ },
+ {
+  "id": 14182,
+  "t": "Call to Arms: Eye of the Storm",
+  "o": "Win an Eye of the Storm battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran,  or Shattrath.",
+  "d": "We will fight and crush the enemy wherever we find them.  Azeroth, Outland, the place makes no difference.$B$BWe cannot allow the Alliance to establish superiority in the Eye of the Storm.  Take the battle to them today... tomorrow it might be too late!",
+  "p": "You're back! Do you bring news of victory?",
+  "c": "You bring honor to us all, $N. We must show the enemy that we will fight them wherever we find them."
+ },
+ {
+  "id": 14183,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The Alliance is an insidious enemy, $N.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.$B$BToday we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
+  "p": "You're back! Do you bring news of victory?",
+  "c": "The Horde is in your debt, $N. You've made your people proud with your courage in defending our lands."
+ },
+ {
+  "id": 14199,
+  "t": "Proof of Demise: The Black Knight",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with a Fragment of the Black Knight's Soul.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "My counterpart, Archmage Timear, has asked me to warn you of something dire. Soon, you will be participating in the Trial of the Champions at the Argent Coliseum in Icecrown. You must beware of interference from one known only as the Black Knight.$B$BBring me a fragment of his soul that the Kirin Tor will know he is dealt with. I am told that failing to do so will be your own undoing.",
+  "p": "Did the Black Knight appear unexpectedly as Timear foresaw?",
+  "c": "It is good to see that you have emerged victorious from the trial. Truly, you are a champion, not only of the Argent Crusade, but indeed of the Kirin Tor as well.$b$bOne can only hope that you have dealt the final blow to that dark villain and that's the last that we will see of him."
+ },
+ {
+  "id": 14203,
+  "t": "Waterlogged Recipe",
+  "o": "Bring the Waterlogged Recipe to Christi Stockton in the Dalaran city.",
+  "d": "This appears to be the remains of a mixture for potent wine.  Perhaps the proprietor of One More Glass in Dalaran would be interested in it....",
+  "p": "Wine is only as fine as the person drinking it, I always say.",
+  "c": "This is quite a find, <name>. I can't have you selling this to anyone else, so I'm willing to offer generously."
+ },
+ {
+  "id": 14349,
+  "t": "The Call to Command",
+  "o": "Travel to the Undercity and speak with Lady Sylvanas Windrunner.",
+  "d": "The order has come down, $c. Sylvanas herself has requested that I send my most 'capable' agents back to the Undercity for a highly sensitive tactical operation.$B$BUnfortunately, my most capable agents were killed over three years ago. In their stead I have a collection of brain dead riff-raff.$B$B<Nathanos stares coldly at you.>$B$BTravel to the Undercity at once and report to the Dark Lady. Do not embarrass me, $c!",
+  "p": "",
+  "c": "The Grand Crusader sits safely in the Scarlet Bastion while his forces pour into our lands, desecrate our structures and monuments and murder our people.$B$BThe time has come to deal with this pest. You will become the instrument of our reckoning."
+ },
+ {
+  "id": 14350,
+  "t": "The Crimson Courier",
+  "o": "Return to Eastern Plaguelands and track down the Crimson Courier. Kill the Courier and recover the Grand Crusader's Command.$B$BTake the command to Nathanos Blightcaller for further instruction.",
+  "d": "We cannot attack the Scarlet Crusade's command directly; they are too well defended. But there's more than one way to skin a cat. They'll be nothing without their main force.$B$BThe Deathstalkers have been collecting data on the activity of the Crusade outside of Stratholme. Each day, a report is sent from their central command to Tyr's Hand. This report is the key, $r! Find the Crimson Courier and recover that report. Bring it to Nathanos.",
+  "p": "Succeed now and you will have almost earned my respect, $C.",
+  "c": "<Nathanos laughs.>$B$BExcellent! Finally! An opportunity to destroy the Scarlet Oracle!"
+ },
+ {
+  "id": 14351,
+  "t": "Battle of Hillsbrad",
+  "o": "Take Darthalia's Sealed Commendation to Bragor Bloodfist in the Undercity.",
+  "d": "Because you fought with such valor and perseverance in the Battle of Hillsbrad, I have written this commendation, extolling your heroics in combat for the high command to recognize.$b$bTake this sealed commendation to Bragor Bloodfist in the Undercity.  Go with pride, $c.",
+  "p": "Why aren't you out on the battlefield, $c?",
+  "c": "So you're the $c who tore through the Alliance forces in the Hillsbrad Foothills? I've heard your name already. Word travels fast.$B$BThe Horde can use someone like you if you keep this up, $N.$B$BWe need to keep our eyes on all threats around us, but with that king leading them, the humans will continue to be a problem. You've confirmed that there's strength enough in the Horde to end that threat in time."
+ },
+ {
+  "id": 14352,
+  "t": "An Unholy Alliance",
+  "o": "Take the Small Scroll to Bragor Bloodfist in the Undercity.",
+  "d": "My Lady,$B$BYou know very well what it is we are offering. The opportunity for you to take the Barrens and the lands beyond is a great one. We simply want your aid in return. By aid we mean nothing more than your giving us the freedom to take action in the area.$B$BPlease, allow us to discuss this further. We have great power and are willing to share with those wise enough to join us. I will remain outside Razorfen Downs for the time being.$B$BBest Regards,$BAmbassador Malcin",
+  "p": "What do you want, $N?  This had better be important.",
+  "c": "I've seen the insignia on this scroll before during my time in Northrend. You say this was on that crone who leads the pigs in Razorfen Kraul?$b$bI'll be damned if I'm going to let the Scourge get a foothold here. The one who wrote this - this Malcin - is one of the Lich King's servants, obviously, and that makes him a target. Your target.$b$bThey're not going to take Kalimdor.$b$b"
+ },
+ {
+  "id": 14353,
+  "t": "An Unholy Alliance",
+  "o": "Bring Ambassador Malcin's Head to Bragor Bloodfist in the Undercity.",
+  "d": "Supposedly this Malcin is outside Razorfen Downs. There's no question - he has to die.$b$bMy contacts in Orgrimmar tell me their scouts have found signs of the Plague down there. The quilboar are showing signs of being plagued, too; they're much more powerful. Whatever the Scourge are doing down there needs to end. Now.$b$bFind this Malcin and kill him. Report back here when he's dead.",
+  "p": "Supposedly this Malcin is outside Razorfen Downs. There's no question - he has to die.$b$bMy contacts in Orgrimmar tell me their scouts have found signs of the Plague down there. The quilboar are showing signs of being plagued, too; they're much more powerful. Whatever the Scourge are doing down there needs to end. Now.$b$bFind this Malcin and kill him. Report back here when he's dead.",
+  "c": "Good work, $c!$b$bYou've done the Horde proud by stopping the Scourge from setting down roots on our soil. An act like that deserves a reward, and the Forsaken have enough lying around that I'm sure they can spare a few things.$b$bWe may not know everything they've done in the Downs, but we'll find out. They can't slink around in the dark forever."
+ },
+ {
+  "id": 14355,
+  "t": "Into The Scarlet Monastery",
+  "o": "Kill High Inquisitor Whitemane, Scarlet Commander Mograine, Herod, the Scarlet Champion and Houndmaster Loksey and then report back to Bragor Bloodfist in the Undercity.",
+  "d": "One of my duties while I'm stationed here is to help the Forsaken take care of their borders, and that, $c, is exactly what you're going to do for me.$b$bI might live and breathe, but the Scarlet Crusade will cut down my people as quickly as they will one of the undead. They're a problem here, a big one, and you're going to do something about it.$b$bGo to the Monastery and slay High Inquisitor Whitemane and her lieutenants.",
+  "p": "",
+  "c": "I'm sure Sylvanas will be glad to have that problem taken care of, $N. The task I gave you wasn't easy, but here you stand, victorious. That commands respect, and what you've done won't be forgotten."
+ },
+ {
+  "id": 14356,
+  "t": "The Power to Destroy...",
+  "o": "Bring the books Spells of Shadow and Incantations from the Nether to Bragor Bloodfist in Undercity.",
+  "d": "Listen up, $c.$b$bYou may not know this, but Orgrimmar's got a problem. Deep in Ragefire Chasm, a sect of the Shadow Council called the Searing Blade performs their sinister work. They're mainly orcs, and I can't trust sensitive information in the hands of the grunts there. That's where you come in.$b$bThey should have two books in their possession. I want them kept out of the hands of the Searing Blade and the Forsaken alike. Bring them to me directly.",
+  "p": "Did you secure the books? They need to be kept out of the wrong hands.",
+  "c": "Good, $c. You've done well. I'll keep these safe from prying eyes; the last thing we need is a strong Shadow Council rising up again.$B$BCheck back with me in the future; there's always something that needs doing around here, apparently, and I might need another able body."
+ },
+ {
+  "id": 14409,
+  "t": "A Cautious Return",
+  "o": "Bring Daros' Journal to Mordent Evenshade in Darnassus.",
+  "d": "A moment of your time, $c.$b$bChange is coming. It has drawn us out of the ruins of Eldre'Thalas and into the wide world once more. I have come to research this city and cannot stray from it, but if you are inclined, I have an errand for you.$b$bMy colleague set out for Darnassus to speak with the High Priestess there, that we might come to an understanding. Take this journal to Mordent Evenshade in the temple. It may help in his diplomacy mission.",
+  "p": "It seems I have time to talk. What is this regarding?",
+  "c": "Ah, the writings of Daros. He always was meticulous about tracking progress. His words may aid in explaining how far we've come.$b$bYou have my thanks for bringing this to me, $r. Perhaps we will see more of each other once it is understood we mean no harm."
+ },
+ {
+  "id": 14418,
+  "t": "The Deathstalkers",
+  "o": "Deliver Andron's Ledger to Aleric Hawkins in the Hall of the Dark Lady in the Undercity.",
+  "d": "The Syndicate? I would never have suspected. It seems the lords of Alterac have fallen far in the years since their betrayal.$b$bHawkins will be pleased to learn of this, and as you were so instrumental in this discovery, it would be fitting if you were the one to deliver it to him.$b$bAh, and how could I forget?$b$bWelcome to the Deathstalkers.",
+  "p": "Yes?",
+  "c": "Hmm, this is interesting. The Deathstalkers have performed their duties admirably in ferreting this out.$B$BFrom what I understand, you also deserve commendation for your performance. I hope that this will become routine for you, $N, my Deathstalkers always have use of a good man."
+ },
+ {
+  "id": 14419,
+  "t": "The Deathstalkers",
+  "o": "Speak with Andron Gant in the Undercity.",
+  "d": "The letter of introduction should be enough to convince Andron that you are the messenger he's been waiting for. I've met Andron before, he doesn't quite have the mental capacity to be that suspicious.$b$bOur leader suspects that Andron has been providing aid to some other group. He wishes to know what organization this is and requires proof of it.$b$bI want you to speak with Andron, and obtain this information. You'll find him at his shop near the Apothecarium.",
+  "p": "Hello. Something I can do for you?",
+  "c": "Ah, yes, I've been expecting you. I have no doubt our mutual acquaintances are pleased with the information that I have provided so far?$B$BI suppose there's no point in asking you, I doubt they would burden you with this knowledge. Why place so much trust in the messenger, hm?"
+ },
+ {
+  "id": 14420,
+  "t": "The Deathstalkers",
+  "o": "Get Astor's Letter of Introduction and return it to Mennet Carkad in the Rogues' Quarter.",
+  "d": "If you wish to join the Deathstalkers, the Dark Lady's elite guard, you will have to prove your worth.$b$bI will not lie to you, $n, this task could mean your death.$b$bI have some things that need attending to. I require the personal effects of Astor Hadren, a messenger who travels between Silverpine and the Undercity. I will leave the method of procurement to your discretion.$b$bIt will be better for you if you know less of the nature of this business. Succeed and I shall tell you more.",
+  "p": "Success to report?",
+  "c": "Well done, $N. You've passed the first part of this test. Hopefully Andron will not have caught wind of your activities, and we will be able to convince him that you are, in fact, the messenger he is expecting."
+ },
+ {
+  "id": 14421,
+  "t": "The Deathstalkers",
+  "o": "Bring Andron's Ledger to Mennet Carkad in the Rogues' Quarter of Undercity.",
+  "d": "You'll find the ledger with the information your employers seek on the bookshelf behind me. Deliver it with my regards, and tell them that I would prefer it if they sent you, if they find enough value that they should wish to continue our arrangement.",
+  "p": "Success, $N?",
+  "c": "Well, this is certainly more information than I suspected to get out of Andron. Give me a moment to peruse it, before I set you to your next task."
+ },
+ {
+  "id": 14436,
+  "t": "Dwarven Digging",
+  "o": "Collect 5 Prospector's Picks.$B$BAt a forge, smash the Prospector's Picks to create Broken Tools.$B$BBring 5 Broken Tools to Ahmo Thunderhorn in Bloodhoof Village.",
+  "d": "There are dwarves preparing a dig site to the northwest.  They think secrets lie in the earth, and that is true, but hollowing and defiling the land is no way to earn its teachings.$B$BCollect the dwarven tools of digging, smash them, and return to me with the dwarves' broken tools.$B$BYou can smash the tools at a forge.  You will find one in Thunder Bluff, but any forge -- even a forge at the dwarven camp -- will suffice.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14437,
+  "t": "Rites of the Earthmother",
+  "o": "Take the Totem of Hawkwind to Ahmo Thunderhorn in Bloodhoof Village. Follow the road out of Camp Narache.",
+  "d": "For you to continue with the Rites of the Earthmother you must pass two more tests. It is time for you to broaden your experience, $n.$b$bTravel to Bloodhoof Village and seek out the Ahmo Thunderhorn. There you may continue your journey and earn the acceptance of the elders of Thunder Bluff.$b$bTake this totem to Ahmo. He will recognize my carvings and help you on your path.$b$bFollow the road out of Camp Narache and travel with haste. Do not stray or you will lose your way.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14438,
+  "t": "Sharing the Land",
+  "o": "Kill 10 Palemane Tanners, 8 Palemane Skinners, and 5 Palemane Poachers, then return to Ahmo Thunderhorn in Bloodhoof Village.",
+  "d": "$N, there are many conflicts that wound this land. It is my hope that you will not bear witness to as many of them as our elders have. Yet there is one that I would ask you to seek. It will give you some sense of how terrible, if left unchecked, even a small threat can be to the land.$B$BPalemane gnolls have settled to the south of Bloodhoof and in a cave to the west. They disrespect our attempts to communicate with them, and they slay the wildlife of Mulgore unbridled.$B$BWords are no longer the answer.",
+  "p": "",
+  "c": "$N, it is good you've taken the task seriously. Respect of the land and its creatures is important. Death and life are a circle... a necessity. One cannot exist without the other. Take time to ponder this and do well to never forget it."
+ },
+ {
+  "id": 14439,
+  "t": "Journey into Thunder Bluff",
+  "o": "Speak with Baine Bloodhoof in Thunder Bluff.",
+  "d": "You will now be revered within our great city. Any $r worthy of completing the Rites of the Earthmother earns that honor.$b$bFor your final quest, seek out our young leader, Baine Bloodhoof, who dwells atop the highest mesa in Thunder Bluff.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14440,
+  "t": "Rites of the Earthmother",
+  "o": "Baine Bloodhoof in Thunder Bluff wants you to bring him the Horn of Arra'chea.",
+  "d": "You have passed the Rites of the Earthmother and earned your place in Thunder Bluff.$b$bBut in order to maintain the spot that you strived so hard to achieve, you must continue to prove your worth to your people.$b$bWe are hunters, $n. Down below in Mulgore there is a mighty kodo named Arra'chea. Show me your skills in the ways of tracking and hunting by bringing me the Horn of Arra'chea.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14441,
+  "t": "Garrosh's Autograph",
+  "o": "Travel to Orgrimmar to see about getting Garrosh Hellscream's autograph for your ward.",
+  "d": "They say that Garrosh Hellscream is one of the greatest heroes in the Horde! When I grow up, I want to be a hero of the Horde too!$B$BDo you know Garrosh, $N? Could you do me a favor, please? Could you get his autograph for me? I dunno how to ask him, and he probably wouldn't listen to someone like me... but you! You're an adventurer, like him! I bet he'd give you his autograph easy!$B$BPlease?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 14443,
+  "t": "The Battered Hilt",
+  "o": "Bring the Battered Hilt to Caladis Brightspear at Quel'Delar's rest, south of the Argent Tournament Grounds.",
+  "d": "This battered old sword hilt has seen better days. Before the hilt was snapped from the blade, it must've been a magnificent example of the blacksmith's art.$B$BThe graceful symbols and exotic gemstones decorating the hilt suggest that the weapon may have belonged to a powerful person. Surely, the Silver Covenant members would be interested in hearing about the recovery of such an artifact. Seek out their representative at Quel'Delar's Rest, south of the Argent Tournament Grounds.",
+  "p": "What is it that you have there?",
+  "c": "<Caladis takes the hilt from you and slowly turns it over in his hands.>$B$BThis seems somehow familiar, as though I should know its origins. You say you recovered this in the citadel? Most intriguing.$B$BThere are few who possess the ability to make such a blade. Perhaps they can tell us something about your find."
+ },
+ {
+  "id": 14444,
+  "t": "What The Dragons Know",
+  "o": "Speak to Krasus at the top of Wyrmrest Temple.",
+  "d": "There's no mistaking it - this hilt comes from a powerful, ancient weapon, but which one? I do not recall seeing or hearing of a sword with these markings, but that doesn't mean that all is lost.$B$BKorialstrasz, better known as Krasus, has long been a friend to the quel'dorei and the Kirin Tor. With his vast knowledge and resources, he's certain to know something. Travel to the top of Wyrmrest Temple and seek his counsel, then report to Arcanist Tybalin inside the Silver Enclave in Dalaran.",
+  "p": "",
+  "c": "We can't let that book remain in Sunreaver hands. If we hope to identify the sword and use it to our advantage, we have to find a way to capture the book Krasus lent them."
+ },
+ {
+  "id": 14457,
+  "t": "The Sunreaver Plan",
+  "o": "Obtain the Sunreaver Orders.",
+  "d": "One of my contacts in the Underbelly caught sight of a Sunreaver agent buying reagents from a dealer in the Black Market area. The Sunreavers normally aren't known for their interest in what goes on down in the sewers, so that's a big indication that they're planning something.$B$BHead into the Underbelly, find this Sunreaver agent, and take care of him. Search the body for any information that might give us a lead on the location of that tome from Wyrmrest. We can't let them get it back to Icecrown first.",
+  "p": "Did you find anything of use on that agent?",
+  "c": "<Arcanist Tybalin examines the captured orders.>$B$BThe agent you intercepted was supposed to transport the Wyrmrest Tome to Icecrown, after meeting with one Magister Hathorel in Sunreaver's Sanctuary. We have to get that book, $N, and this is our chance. It's not going to be easy, though."
+ },
+ {
+  "id": 14483,
+  "t": "Something is in the Air (and it Ain't Love)",
+  "o": "Bring the Faded Lovely Greeting Card to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "The inside of the card is scribbled with mad, detailed plans to infect most of Azeroth.  You should show this to one of Steamwheedle's investigators immediately!",
+  "p": "Did you take care of those no-good scheming villains?",
+  "c": "What've you got there?$B$BOh hey, this is big. Real big. Most of the crazy details in one little package. Thanks - you really helped us reel this all in. Good working with ya."
+ },
+ {
+  "id": 14488,
+  "t": "You've Been Served",
+  "o": "Serve the Court Subpoena to Apothecary Hummel in Shadowfang Keep.",
+  "d": "You made it, huh? Good. I've been waiting for help. No time like the present to act, right?$b$bTake this kit and head deeper inside to serve papers to the leader of that scumbag chemical company, Hummel. The paper's inside. So's a little something to protect you from any chemical tricks they might pull. Use one of the neutralizers when the time comes, all right?",
+  "p": "I don't remember ordering a cleaning service... why yes, I am Apothecary Hummel.$b$b...wait, what is the meaning of this? You think these meaningless papers can stop me? Hah!",
+  "c": "What we do here is none of your business..."
+ },
+ {
+  "id": 20438,
+  "t": "A Suitable Disguise",
+  "o": "Obtain a Borrowed Tabard from Shandy Glossgleam.",
+  "d": "Getting you inside the Sunreaver's Sanctuary will be tougher than it appears. Only those who possess Sunreaver tabards are permitted entry to sanctuary. If we can get our hands on one, a simple enchantment will do the rest of the work.$B$BOn the balcony above Threads of Fate, you'll find Shandy Glossgleam. I've helped him a few times in the past, so he owes me a favor. He handles laundry for a wide variety of people in the city. Maybe he can find a way to 'lend' you a tabard for a while.",
+  "p": "Was Shandy able to help you get a Sunreaver tabard?",
+  "c": "I knew Shandy would find a way to come through for us. Let me get this enchanted and ready for you to use. The sooner you get done with the tabard, the sooner we can get it back to Shandy and the better the chances that its owner will never have missed it."
+ },
+ {
+  "id": 20439,
+  "t": "A Meeting With The Magister",
+  "o": "Retrieve the Ancient Dragonforged Blades tome from Magister Hathorel.",
+  "d": "I've placed an enchantment on the tabard that should allow you to slip past the Sunreaver Sanctuary's defenses for a short period of time. You should have enough time to find your way into The Filthy Animal and meet up with the Sunreaver contact there, one Magister Hathorel.$B$BObtain the copy of Ancient Dragonforged Blades that his men borrowed from Wyrmrest while your disguise holds, and return it to me.",
+  "p": "Have you recovered that book?",
+  "c": "Excellent work. Now that this is in our hands, we must get it to Caladis Brightspear as soon as possible. We can't risk the book falling back into Sunreaver hands.$BI'll ensure that Shandy Glossgleam gets his tabard back without incident, along with a healthy reward for his help"
+ },
+ {
+  "id": 24216,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The Alliance is an insidious enemy, $N.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.$B$BToday we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
+  "p": "",
+  "c": "The Horde is in your debt, $N. You've made your people proud with your courage in defending our lands."
+ },
+ {
+  "id": 24217,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The Alliance is an insidious enemy, $N.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.$B$BToday we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
+  "p": "",
+  "c": "The Horde is in your debt, $N. You've made your people proud with your courage in defending our lands."
+ },
+ {
+  "id": 24218,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.$B$BTheir need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
+  "p": "",
+  "c": "Excellent work, $N. The integrity of our borders must be preserved at all costs!"
+ },
+ {
+  "id": 24219,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.$B$BTheir need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
+  "p": "",
+  "c": "Excellent work, $N. The integrity of our borders must be preserved at all costs!"
+ },
+ {
+  "id": 24220,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle of Arathi Basin that demands immediate reinforcements.$B$BReturn to me with news of victory, $N.  We cannot allow the Horde scum to secure the resources that are rightfully ours!",
+  "p": "",
+  "c": "Excellent news, $c!  If our tactical deployments continue to be this successful, the Horde will be in full retreat before long."
+ },
+ {
+  "id": 24221,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "Arathi Basin is on the verge of being lost to Alliance forces.  We must send reinforcements at this very moment or all our efforts will have been in vain.$B$BDo not delay, $c, go to Arathi Basin and crush the enemy.  Victory to the Horde!",
+  "p": "",
+  "c": "You've brought great honor to the Horde, $N. Your victory today will ensure a thousand victories tomorrow!"
+ },
+ {
+  "id": 24222,
+  "t": "Call to Arms: Eye of the Storm DEPRECATED",
+  "o": "Win an Eye of the Storm battleground match and return to a Horde Warbringer at any Horde capital city,Wintergrasp,Dalaran, or Shattrath.",
+  "d": "We will fight and crush the enemy wherever we find them.  Azeroth,Outland,the place makes no difference.$B$BWe cannot allow the Alliance to establish superiority in the Eye of the Storm.  Take the battle to them today... tomorrow it might be too late!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 24223,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle of Arathi Basin that demands immediate reinforcements.$B$BReturn to me with news of victory, $N.  We cannot allow the Horde scum to secure the resources that are rightfully ours!",
+  "p": "",
+  "c": "Excellent news, $c! If our tactical deployments continue to be this successful, the Horde will be in full retreat before long."
+ },
+ {
+  "id": 24224,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.$B$BTheir need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
+  "p": "",
+  "c": "Excellent work, $N. The integrity of our borders must be preserved at all costs!"
+ },
+ {
+  "id": 24225,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The Alliance is an insidious enemy, $N.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.$B$BToday we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
+  "p": "",
+  "c": "The Horde is in your debt, $N. You've made your people proud with your courage in defending our lands."
+ },
+ {
+  "id": 24226,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "Arathi Basin is on the verge of being lost to Alliance forces.  We must send reinforcements at this very moment or all our efforts will have been in vain.$B$BDo not delay, $c, go to Arathi Basin and crush the enemy.  Victory to the Horde!",
+  "p": "",
+  "c": "You've brought great honor to the Horde, $N. Your victory today will ensure a thousand victories tomorrow!"
+ },
+ {
+  "id": 24227,
+  "t": "DEPRECATED",
+  "o": "Win an Eye of the Storm battleground match and return to an Alliance Brigadier General at any Alliance capital city,Wintergrasp,Dalaran,or Shattrath.",
+  "d": "The fight against the Horde knows no boundaries,$N.  Even in Outland,territorial disputes and old hatreds are enough to tip the scales in favor of war.$B$BGo into the Eye of the Storm and make sure the Alliance prevails in Outland just like it has in Azeroth.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 24426,
+  "t": "Call to Arms: Alterac Valley",
+  "o": "Win an Alterac Valley battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran or Shattrath.",
+  "d": "We've recently come extremely close to driving the Stormpike invaders from Alterac Valley.  As a result we're redirecting all our reinforcements to aid the Frostwolf Clan.$B$BA decisive victory there would free up the resources we need to crush the Alliance scum on all the other battlefronts.$B$BGo, $N.  Earn great honor by heeding the call of the brave Frostwolf warriors.",
+  "p": "",
+  "c": "There is no greater honor than driving invaders from Horde territories. We salute your great courage in aiding our forces today!"
+ },
+ {
+  "id": 24427,
+  "t": "Call to Arms: Alterac Valley",
+  "o": "Win an Alterac Valley battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran or Shattrath.$B",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle for Alterac Valley that's in most need of brave combatants.$B$BGo now, $N, and aid the Stormpike Expedition.  We cannot allow the Frostwolf Clan to get away with the violence they've inflicted on our brethren!",
+  "p": "",
+  "c": "Just what I wanted to hear! A victory in Alterac Valley - even a temporary one - is crucial to our overall strategy against the Horde."
+ },
+ {
+  "id": 24428,
+  "t": "A Most Puzzling Circumstance",
+  "o": "Take the Head of Onyxia to Zardeth of the Black Claw in the basement of the Slaughtered Lamb.",
+  "d": "You have accomplished the truly impossible. The brood mother of the Black Dragonflight lies dead at your feet. Seize her head and deliver it to Zardeth of the Black Claw.",
+  "p": "By Nozdormu's teeth!",
+  "c": "What? How did you get this? Isn't she... Never mind the details, I suppose. You'll be wanting one of these baubles as recompense, no doubt."
+ },
+ {
+  "id": 24429,
+  "t": "A Most Puzzling Circumstance",
+  "o": "Take the Head of Onyxia to Neeru Fireblade in the Cleft of Shadow.",
+  "d": "You have accomplished the truly impossible. The brood mother of the Black Dragonflight lies dead at your feet. Seize her head and deliver it to Neeru Fireblade.",
+  "p": "What is the meaning of this?!",
+  "c": "You've brought me the head of someone who is... No, best not to think about it too hard. You'll be wanting recompense for your heroic deeds, no doubt."
+ },
+ {
+  "id": 24431,
+  "t": "Waterlogged Recipe",
+  "o": "Bring the Waterlogged Recipe to Christi Stockton in the Dalaran city.",
+  "d": "This appears to be the remains of a mixture for potent wine.  Perhaps the proprietor of One More Glass in Dalaran would be interested in it....",
+  "p": "Wine is only as fine as the person drinking it, I always say.",
+  "c": "This is quite a find, $N.  I can't have you selling this to anyone else, so I'm willing to offer generously."
+ },
+ {
+  "id": 24442,
+  "t": "Battle Plans Of The Kvaldir",
+  "o": "Recover the Heart of the Mists and bring it and the Kvaldir Attack Plans to Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "Looking over the captured attack plans, you find a map of the Eastern Kingdoms and Kalimdor with major settlements marked. Reading over the orders, you learn that  Kvaldir captains have drafted plans for a series of devastating raids.$B$BAccording to the orders, the attacks are to begin after Mistcaller Yngvar \"consults the Heart of the Mists.\" Perhaps you could delay the attacks by capturing the omen from the Mistcaller's Cave on the western side of Hrothgar's Landing and notify Justicar Mariel Trueheart.",
+  "p": "What is it that you've found, $N?",
+  "c": "<Mariel accepts the orders and the captured seeing crystal and examines both.>$B$BGood work, $N, and quick thinking. I'm sure the theft of this trinket won't slow them down for long, but I think you've bought us time to warn the leaders of the Horde and Alliance about the impending attacks."
+ },
+ {
+  "id": 24451,
+  "t": "An Audience With The Arcanist",
+  "o": "Retrieve the Ancient Dragonforged Blades tome from Arcanist Tybalin.",
+  "d": "I've placed an enchantment on the tabard that should allow you to slip past the Silver Enclave's defenses for a short period of time. You should have enough time to find your way up to the top level of the Silver Enclave and meet up with the Silver Covenant's man there, known as Arcanist Tybalin.$B$BWhile disguised, obtain the copy of Ancient Dragonforged Blades that his men borrowed from Wyrmrest, and return the book to me.",
+  "p": "Have you recovered that book?",
+  "c": "Excellent work. Now that this is in our hands, we must get it to Myralion Sunblaze as soon as possible. We can't risk the Silver Covenant taking the book from us again.$BI'll get that tabard back to Shandy and see that he's well compensated for his assistance. Once the book is in Myralion's hands, the Silver Covenant won't be a threat anymore."
+ },
+ {
+  "id": 24454,
+  "t": "Return To Caladis Brightspear",
+  "o": "Bring Ancient Dragonforged Blades to Caladis Brightspear at Quel'Delar's Rest.",
+  "d": "We must get this book to Caladis Brightspear immediately. Would you bring it to him? I cannot rely on anyone else to transport the book and you have proven adept at keeping the Sunreavers at bay.$B$BTake it with you to Quel'Delar's rest, south of the Argent Tournament Grounds in Icecrown. Caladis and the sword will be waiting. The sooner we can identify the blade, the sooner we can claim it.",
+  "p": "We've been expecting your return. What has kept you?",
+  "c": "<Caladis accepts the heavy book and begins leafing through it.>$B$BI knew the symbols on the blade were familiar. The weapon was most certainly forged by the dragons and gifted to one of the mortal races, but which blade is this, and how did it come to rest in Icecrown?"
+ },
+ {
+  "id": 24461,
+  "t": "Reforging The Sword",
+  "o": "Obtain 5 Infused Saronite Bars and the Forgemaster's Hammer and use them to make the Reforged Quel'Delar.",
+  "d": "We cannot allow Quel'Delar to remain broken and disgraced. Take the remnants of the sword, along with the battered hilt you discovered, and venture into the Pit of Saron within Icecrown Citadel.$B$BIn the pit, the Lich King uses slaves to mine, process, and transform saronite ore. This infused saronite is what we will use to rebuild Quel'Delar.$B$BYou must gather bars of infused saronite and capture the forgemaster's hammer, then bring them to the forgemaster's anvil and reforge the sword.",
+  "p": "Were you able to reconstruct Quel'Delar?",
+  "c": "You have remade the blade of Quel'Delar, although Blood-Queen Lana'thel proclaimed we could not! The blade must still be tempered, but she and her master will not stand in our way!"
+ },
+ {
+  "id": 24476,
+  "t": "Tempering The Blade",
+  "o": "Temper the Reforged Quel'Delar in the Crucible of Souls.",
+  "d": "At last, the pieces of Quel'Delar are rejoined and the blade is whole, but it cannot see battle until you have tempered it. That jagged saronite edge is brittle and will shatter the moment it strikes anything.$B$BDeep in Icecrown Citadel's Forge of Souls is a place where the blade can safely be tempered. Take Quel'Delar with you to the abode of the Devourer of Souls and look for the crucible. Plunge the blade into the crucible to temper it and bring it back to me in The Frozen Halls.",
+  "p": "Until the sword is tempered, it will be useless.",
+  "c": "I... I don't understand. Tempering the sword should've restored the blade to its original condition. What has happened here?"
+ },
+ {
+  "id": 24480,
+  "t": "The Halls Of Reflection",
+  "o": "Bring your Tempered Quel'Delar to Sword's Rest inside the Halls of Reflection. ",
+  "d": "You have reforged and tempered the sword, yet it sits quietly in its sheath, showing no signs of the power it should possess. You say the sword pulls you, as though it possesses a will?$B$BDare you bring it where it wishes to go? It's not right that the sword should be this silent and this insistent, yet I fear that if you do not take the sword to its destination, we will never learn why. Take it into Icecrown Citadel's Halls of Reflection, but be on your guard! I'll be waiting for you in The Frozen Halls.",
+  "p": "What happened inside the Halls of Reflection?",
+  "c": "I had not thought it possible for evil to take hold in such a sword, but I suppose it was naive of me. If the greatest of dragonkind's creations could be corrupted and turned against them, why not a mere sword?$B$BUther's advice is wise, $N, and I would urge you to heed it quickly."
+ },
+ {
+  "id": 24498,
+  "t": "The Path to the Citadel",
+  "o": "Free 15 Alliance Slaves and kill Forgemaster Garfrost.",
+  "d": "They've put our captured soldiers to work in the quarry! Kill their captors and set them free, hero, and do it quickly. We will need their aid when we confront Scourgelord Tyrannus.",
+  "p": "",
+  "c": "You've done well this day. With many of the slaves freed and now with access to the forges, it will not be long before I have a strong force to aid in delivering us from Scourgelord Tyrannus and this foul pit."
+ },
+ {
+  "id": 24499,
+  "t": "Echoes of Tortured Souls",
+  "o": "Kill Bronjahm and the Devourer of Souls to secure access to the Pit of Saron.",
+  "d": "I cannot thank you enough for coming. We're severely undermanned to be risking a venture into the citadel, but opportunities like this are too rare to pass up.$B$BI'm awaiting the arrival of champions from the coliseum, but if your reputation holds true, you should be more than equipped to fight through the forge yourself. Clear the way to the far side and secure the passage to the Pit of Saron. We will need to hold it to move our men further into the citadel.$B$BPlease hurry, $n. We're counting on you.",
+  "p": "",
+  "c": "Just in time! Thank you, $N.$B$BThe Pit of Saron lies ahead, and if our scouts are correct, past that will be the Halls of Reflection. It is there that Arthas lets his guard down, and it is there that we hope to find a clue to his weakness... or maybe, just maybe, his redemption."
+ },
+ {
+  "id": 24500,
+  "t": "Wrath of the Lich King",
+  "o": "Find Lady Jaina Proudmoore and escape the Halls of Reflection",
+  "d": "Uther knew a great deal about how Arthas might be defeated. It's hard to believe that there is much hope of defeating Arthas upon the steps of his own throne. And who will take up the crown of Lich King if it comes to that?$B$BMany questions remain, but the answers that you've uncovered may be critical to ensuring Arthas' defeat. You need to find Jaina and escape the Lich King while there's still time.",
+  "p": "We need to get this information to the Alliance! It may well be the key to Arthas' defeat.",
+  "c": "<Jaina is still catching her breath.>$B$BI can barely believe we're still alive. It was foolish of me to follow him. I've made that mistake too many times.  And you... it was reckless of you to come after me instead of escaping with the information! But... well... thank you. You truly are a hero.$B$BWith Uther's guidance, we may stand a chance at defeating Arthas. All the lives lost today were not in vain."
+ },
+ {
+  "id": 24506,
+  "t": "Inside the Frozen Citadel",
+  "o": "Enter The Forge of Souls from the side of Icecrown Citadel and locate Lady Sylvanas Windrunner.",
+  "d": "$C! Come close quickly, I must have a word!$B$BMy queen, the Lady Sylvanas Windrunner, has uncovered a hole in the defenses of Icecrown Citadel into a place she referred to as \"The Forge of Souls.\" She sent word before she left for me to find fierce fighters to send her way. I think you'll do.$B$BGo to her within the entrance to the forge, $c.",
+  "p": "",
+  "c": "Good. $N, I know of you. You'll be perfect for these tasks.$B$BWe've been afforded a rare chance to delve into Icecrown Citadel, but we must move quickly if we're to avoid Arthas' notice."
+ },
+ {
+  "id": 24507,
+  "t": "The Path to the Citadel",
+  "o": "Free 15 Horde Slaves and kill Forgemaster Garfrost.",
+  "d": "They've put our captured soldiers to work in the quarry. Kill their captors and set them free, $c, and do it quickly. We will need their aid when we confront Scourgelord Tyrannus.",
+  "p": "",
+  "c": "You've done well this day. With many of the slaves freed and now with access to the forges, it will not be long before I have a strong force to aid in delivering us from Scourgelord Tyrannus and this foul pit."
+ },
+ {
+  "id": 24510,
+  "t": "Inside the Frozen Citadel",
+  "o": "Enter The Forge of Souls from the side of Icecrown Citadel and find Lady Jaina Proudmoore.",
+  "d": "$C! Come close quickly, I must have a word!$B$BMy patron, the Lady Jaina Proudmoore, has uncovered a hole in the defenses of Icecrown Citadel into a place she referred to as \"The Forge of Souls.\" She sent word before she left for me to find any help that I could... and, well, I was hoping that might be you.$B$BPlease, find her there as soon as you can.",
+  "p": "",
+  "c": "$N! I'm so glad you've come.$B$BWe've been afforded a rare chance to delve into Icecrown Citadel, but we must move quickly if we're to avoid Arthas' notice."
+ },
+ {
+  "id": 24511,
+  "t": "Echoes of Tortured Souls",
+  "o": "Kill Bronjahm and the Devourer of Souls to secure access to the Pit of Saron.",
+  "d": "I'm glad we have someone capable to aid us in this. Delving into the citadel with so few is risky at best, but opportunities like this are too rare to pass up.$B$BI'm awaiting the arrival of champions from the coliseum, but if your reputation holds true, you should be more than equipped to fight through the forge yourself. Clear the way to the far side and secure the passage to the Pit of Saron. We will need to hold it to move our men further into the Citadel.$B$BBe quick about it, $n. Time is short.",
+  "p": "",
+  "c": "Well timed, $c!$B$BThe Pit of Saron lies ahead, and if our scouts are correct, past that will be the Halls of Reflection. It is there that Arthas lets his guard down, and it is there that we hope to find a clue to his weakness... and a route to vengeance long overdue."
+ },
+ {
+  "id": 24522,
+  "t": "Journey To The Sunwell",
+  "o": "Speak with Halduron Brightwing at the entrance to the Sunwell Plateau on the Isle of Quel'Danas.",
+  "d": "Take Quel'Delar to the Sunwell as quickly as possible, $N. Trust in Uther's words when he says that you will not always be able to control the blade while it is subject to the evil of the Lich King's influence. You must travel to the Isle of Quel'Danas, and there, seek entry to the Sunwell itself, where you can cleanse the sword.$B$BThe guardians of the Sunwell will not simply allow you to walk in, so you must find Halduron Brightwing, who will be inspecting the guards there.",
+  "p": "What brings you here?",
+  "c": "Admit you to the Sunwell? That's impossible! The Sunwell is the most sacred and important site of our people. We have only recently reclaimed it with the help of the Shattered Sun Offensive. It is not a place for tourists or travelers."
+ },
+ {
+  "id": 24535,
+  "t": "Thalorien Dawnseeker",
+  "o": "Visit Thalorien Dawnseeker's Remains and obtain his blessing to wield Quel'Delar.",
+  "d": "If you truly bear Quel'Delar, $N, I might be able to admit you to the Sunwell. If you know the blade's history, you recall that it was borne by Thalorien Dawnseeker in defense of the Sunwell against the Scourge. He fell in what is now the Dead Scar, buying time for his men to make their own preparations. You will find his remains near the southern end of the Dead Scar on this isle. Visit them, and if his spirit gives you its blessing, I will allow you to enter the Sunwell.",
+  "p": "Did you visit the ground where Thalorien fell defending the Sunwell?",
+  "c": "I confess that I did not expect Thalorien's spirit to recognize you as the heir to Quel'Delar, but I defer to his judgment. You may enter the Sunwell, but I remind you that you are a guest in our most sacred of precincts, and you should act accordingly."
+ },
+ {
+  "id": 24536,
+  "t": "Something Stinks",
+  "o": "Use Snagglebolt's Air Analyzer to test the air around 6 heavily perfumed guards, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "Get a load of these guys, would ya? Steamwheedle's been handling the business of holidays for years, and all of a sudden, these guys bust into the market. They're not Steamwheedle; the cartel hired me to get to the bottom of this. Something stinks here and it ain't just perfume.$B$BTake this device I brought and go analyze the perfume clouds around the guards. I want to know what they're putting in that stuff. Things ain't natural.",
+  "p": "You analyze that reek yet, kid?",
+  "c": "Hey, thanks, kid. Give it over, let's take a look.$B$B<He takes the device from you and fiddles with it.>$B$BOh, that ain't good."
+ },
+ {
+  "id": 24541,
+  "t": "Pilfering Perfume",
+  "o": "While disguised as a package-runner, go to the Crown Chemical Company's stockpile outside the gates of Orgrimmar, then return the package they toss you to Detective Snap Snagglebolt in Orgimmar.",
+  "d": "I knew they were up to no good! There's some sort of mind-affecting chemical in here, but I can't get a handle on it with such a small sample. I need the real stuff.$B$BDon't just go over there and buy it! I don't want you giving these scumbags one copper. Nah, you gotta get it from the source, discreet-like.$B$BI'll disguise you as a package runner. I saw a stockpile guarded by their goons outside the gates. Go run by, and DON'T stop, or they'll make you! They'll toss you a crate. Bring it back here.",
+  "p": "Did they toss ya a crate to deliver?",
+  "c": "You got it, huh? Good job, kid. Top notch. Let's see what we what we got here.$B$B<He cracks open the crate and rummages around inside."
+ },
+ {
+  "id": 24545,
+  "t": "The Sacred and the Corrupt",
+  "o": "Place Light's Vengeance, 25 Primordial Saronite, Rotface's Acidic Blood, and Festergut's Acidic Blood in Highlord Mograine's runeforge in Icecrown Citadel.$B$BRotface's Acidic Blood and Festergut's Acidic Blood may only be obtained in the 25 person difficulty setting of Icecrown Citadel.",
+  "d": "It is against my judgment that I present you this errand, $r, as it will likely end in your undoing.$b$bIgnore my counsel and embark on the endeavor, and I shall provide you with the knowledge and resources to see it through.$b$bYou must return to Frostmourne Cavern and recover Light's Vengeance, Arthas' discarded hammer. Reforged with saronite and etched with the acidic blood of the Lich King's abominations, it will provide the foundation for our work.",
+  "p": "As you draw near, the forge's flame seems to burn even more ravenously...",
+  "c": "A deep sense of dread washes over you as the flame devours the items."
+ },
+ {
+  "id": 24548,
+  "t": "The Splintered Throne",
+  "o": "Highlord Darion Mograine wants you to collect 50 Shadowfrost Shards.$B$BShadowfrost Shards may only be obtained in the 25 person difficulty setting.",
+  "d": "The Lich King's throne once served as his prison. Kil'jaeden himself crafted the vessel of icy crystals from the twisting nether, its sole purpose to hold Ner'zhul's vengeful spirit.$b$bWhen Arthas struck the crystal with Frostmourne, he released Ner'zhul's soul, allowing it to merge with his own. Splinters from that impact are now scattered throughout the citadel.$b$bI shall require those shards, held only by the Lich King's most powerful servants, to seal the power contained in your blade.",
+  "p": "Have you obtained the shards of the frozen throne, $C?",
+  "c": "These should suffice, $c.$b$bSpeak to me when Shadow's Edge has been thoroughly empowered and I will attempt its completion."
+ },
+ {
+  "id": 24549,
+  "t": "Shadowmourne...",
+  "o": "Highlord Darion Mograine wants you to bring him Shadow's Edge.",
+  "d": "",
+  "p": "",
+  "c": "Congratulations, $c.$b$bAgainst insurmountable odds, you have weathered the storm.$b$bI trust that you shall find your reward proportionate to your conviction..."
+ },
+ {
+  "id": 24553,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tempered Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.",
+  "d": "I admit, I was skeptical that you had actually re-forged Quel'Delar and I did not expect Thalorien's spirit to reveal itself to you. You cannot understand what it means to me and to the rest of my people that Quel'Delar has been recovered.$B$BAs promised, I will admit you to the Sunwell and you will find the leaders of Silvermoon within. Carry the sword to the chamber of the Sunwell and immerse it. The blade will bond to you. When that happens, carry it to Caladis Brightspear at Quel'Delar's Rest.",
+  "p": "What happened during your time in the Sunwell?",
+  "c": "This is unbelievable, $N. You've really done it! All of the quel'dorei have heard of Thalorien Dawnseeker and Quel'Delar, but no one ever thought the sword would be restored."
+ },
+ {
+  "id": 24554,
+  "t": "The Battered Hilt",
+  "o": "Bring the Battered Hilt to Myralion Sunblaze at Quel'Delar's Rest, south of the Argent Tournament Grounds.",
+  "d": "This battered old sword hilt has seen better days. Before the hilt was snapped from the blade, it must've been a magnificent example of the blacksmith's art.$B$BThe graceful symbols and exotic gemstones decorating the hilt suggest that the weapon may have belonged to a powerful person. Surely, the Sunreavers would be interested in hearing about the recovery of such an artifact. Seek out their representatives at Quel'Delar's Rest, to the south of the Argent Tournament Grounds.",
+  "p": "What have you discovered?",
+  "c": "<Myralion takes the hilt from you and scrutinizes the artifact.>$B$BThis came from the citadel? What was it doing there? This blade is certainly not of Scourge manufacture.$B$BWeapons of this quality can only be crafted by a few of Azeroth's creatures. We will have to consult them and see if they can help us identify it."
+ },
+ {
+  "id": 24555,
+  "t": "What The Dragons Know",
+  "o": "Speak to Krasus at the top of Wyrmrest Temple.",
+  "d": "There's no mistaking it - this hilt comes from a powerful, ancient weapon, but which one? I do not recognize these particular markings, but we haven't hit a dead end yet.$B$BKorialstrasz, better known as Krasus, has long been a friend to the quel'dorei and the Kirin Tor. With his vast knowledge and resources, he's certain to know something. Travel to the top of Wyrmrest Temple and seek his counsel, then report to Magister Hathorel inside Sunreaver's Sanctuary in Dalaran.",
+  "p": "",
+  "c": "We must recover that book from the Silver Covenant. Without that book from Krasus, we stand little chance of solving the mystery of the sword in Icecrown or unlocking its power."
+ },
+ {
+  "id": 24556,
+  "t": "A Suitable Disguise",
+  "o": "Obtain a Borrowed Tabard from Shandy Glossgleam.",
+  "d": "Getting you inside the Silver Enclave will be tougher than it appears. Only those who possess Silver Covenant tabards are permitted entry to sanctuary. If we can get our hands on one, a simple enchantment will do the rest of the work.$B$BOn the balcony above Threads of Fate, you'll find Shandy Glossgleam. I've helped him a few times in the past, so he owes me a favor. He handles laundry for a wide variety of people in the city. Maybe he can find a way to 'lend' you a tabard for a while.",
+  "p": "Was Shandy able to help you get a Silver Covenant tabard?",
+  "c": "I knew Shandy would find a way to make it work. Let me get this enchanted and ready for you to use. With any luck, the tabard's owner won't even know it's missing and Shandy will cover the rest of our tracks."
+ },
+ {
+  "id": 24557,
+  "t": "The Silver Covenant's Scheme",
+  "o": "Capture the Silver Covenant Orders.",
+  "d": "One of my contacts in the Underbelly caught sight of a Silver Covenant agent gathering information at the Cantrips and Crows Tavern. Silver Covenant members aren't normally found in the sewers, so they must be plotting something.$B$BGo into the Underbelly, find this Silver Covenant agent, and eliminate him. Search the body for any information that might give us a lead on the location of that tome from Wyrmrest. We can't let those simpering Silver Covenant weaklings get it back to Icecrown before we do.",
+  "p": "Did you find anything of use on that agent?",
+  "c": "<Magister Hathorel reads the captured orders.>$B$BThe agent you intercepted was supposed to deliver the Wyrmrest tome to Icecrown, after meeting with one Arcanist Tybalin inside the Silver Enclave. We have to reclaim that book, $N, and we only have one chance before it leaves the city. We have to work quickly."
+ },
+ {
+  "id": 24558,
+  "t": "Return To Myralion Sunblaze",
+  "o": "Bring Ancient Dragonforged Blades to Myralion Sunblaze at Quel'Delar's Rest.",
+  "d": "We must get this book to Myralion Sunblade. Would you bring it to him? I cannot rely on anyone else to transport the book and you have proven adept at evading the Silver Covenant's men.$B$BTake it with you to Quel'Delar's Rest, south of the Argent Tournament Grounds in Icecrown. Myralion will be waiting for you. If he can identify that blade, we may be able to claim it in the name of Aethas Sunreaver and show Dalaran and the Alliance that we will lead the charge against the Lich King.",
+  "p": "We've been expecting your return. What has kept you?",
+  "c": "<Myralion accepts the heavy book and begins leafing through it.>$B$BThose symbols on the blade seemed familiar and now there's little wonder why. This is certainly a dragon blade, gifted to one of the mortal races, but which blade is this, and how did it come to rest in Icecrown?"
+ },
+ {
+  "id": 24559,
+  "t": "Reforging The Sword",
+  "o": "Obtain 5 Infused Saronite Bars and the Forgemaster's Hammer, then combine them with the Remnants of Quel'Delar to create the Reforged Quel'Delar.",
+  "d": "We cannot allow Quel'Delar to remain broken and disgraced. Take the remnants of the sword, along with the battered hilt you discovered, and venture into the Pit of Saron within Icecrown Citadel.$B$BIn the pit, the Lich King uses slaves to mine, process, and transform saronite ore. This infused saronite is what we will use to rebuild Quel'Delar.$B$BYou must gather bars of infused saronite and capture the forgemaster's hammer, then bring them to the forgemaster's anvil and reforge the sword.",
+  "p": "Were you able to reconstruct Quel'Delar?",
+  "c": "You have remade the blade of Quel'Delar in defiance of that Blood-Queen Lana'thel's pronouncement! Now, the blade must be tempered before we can show her the folly of her words."
+ },
+ {
+  "id": 24560,
+  "t": "Tempering The Blade",
+  "o": "Temper the Re-forged Quel'Delar in the Crucible of Souls.",
+  "d": "At last, the pieces of Quel'Delar are rejoined and the blade is whole, but it cannot see battle until you have tempered it. That jagged saronite edge is brittle and will shatter the moment it strikes anything.$B$BDeep in Icecrown Citadel's Forge of Souls is a place where the blade can safely be tempered. Take Quel'Delar with you to the abode of the Devourer of Souls and look for the crucible. Plunge the blade into the crucible to temper it and bring it back to me. I'll be waiting in The Frozen Halls.",
+  "p": "Until the sword is tempered, it will be useless.",
+  "c": "Tempering the sword should've restored the blade. Why hasn't it worked?"
+ },
+ {
+  "id": 24561,
+  "t": "The Halls Of Reflection",
+  "o": "Bring Quel'Delar to Sword's Rest inside the Halls of Reflection.",
+  "d": "You have re-forged and tempered the sword, yet it sits quietly in its sheath, little different from a mundane blade. You say the sword pulls you, as though it possesses a will?$B$BDare you bring it where it wishes to go? It is not right that the sword should be this silent and this insistent, yet I fear that if you do not take the sword to its destination, we will never learn why. Bear it with you to Icecrown Citadel's Halls of Reflection, but be on your guard. I will wait for you in The Frozen Halls.",
+  "p": "What happened inside the Halls of Reflection?",
+  "c": "How can evil take root in such a sword? I would not have thought it possible if the evidence wasn't here before my eyes. If the greatest of dragonkind's creations could be corrupted and turned against them, why not a mere sword?$B$BI believe Uther is right. You must heed his advice quickly, $N."
+ },
+ {
+  "id": 24562,
+  "t": "Journey To The Sunwell",
+  "o": "Speak with Halduron Brightwing at the entrance to the Sunwell Plateau on the Isle of Quel'Danas.",
+  "d": "Take Quel'Delar to the Sunwell as quickly as possible, $N. Trust in Uther's words when he says that you will not always be able to control the blade while it is subject to the evil of the Lich King's influence. You must travel to the Isle of Quel'Danas, and there, seek entry to the Sunwell itself, where you can cleanse the sword.$B$BThe guardians will try to stop you from entering the Sunwell Plateau, but make yourself known to Halduron Brightwing, who will be inspecting the guards there.",
+  "p": "What brings you here?",
+  "c": "I hope you understand that I can't just admit you to the Sunwell, $N. This is the most sacred place known to the sin'dorei and we have only recently regained control over it.$B$BYou would raise the hopes of our people with tales of Quel'Delar? Without proof of the truth of your claims, I see no reason to take you at your word."
+ },
+ {
+  "id": 24563,
+  "t": "Thalorien Dawnseeker",
+  "o": "Visit Thalorien Dawnseeker's Remains and obtain his blessing to wield Quel'Delar.",
+  "d": "You are the one working with Myralion Sunblaze, arent you? I know of a way we can test the sword.$B$BIf you know the blade's history, you recall that it was borne by Thalorien Dawnseeker in defense of the Sunwell against the Scourge. He fell in what is now the Dead Scar, buying time for his men to make their own preparations. You will find his remains near the southern end of the Dead Scar on this isle. Visit them, and if his spirit gives you its blessing, I will allow you to enter the Sunwell.",
+  "p": "",
+  "c": "You truly do carry Quel'Delar. This is a great day for all of Quel'Thalas and the sin'dorei. You have my leave to enter the Sunwell and finish the sword's restoration. Keep your head high, $N. The children of Silvermoon have dreamt of this day for years."
+ },
+ {
+  "id": 24564,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tempered Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.$B",
+  "d": "The Sunwell and the end of Quel'Delar's exile await, $N.$B$BYou will find Lor'themar Theron, the regent of Quel'Thalas, and Grand Magister Rommath standing within. Be wary and do not allow them to entrap you in their political scheming.$B$BInstead, remain focused on your task here. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell. Immerse the reformed Quel'Delar in the Sunwell to complete the restoration. Afterward, show the blade to Myralion Sunblaze at Quel'Delar's Rest.",
+  "p": "What happened inside the Sunwell?",
+  "c": "Am I truly laying my eyes upon the weapon of Thalorien Dawnseeker? This is a wondrous day for the Sunreavers and for all sin'dorei!"
+ },
+ {
+  "id": 24576,
+  "t": "A Friendly Chat...",
+  "o": "Go to the zeppelin tower outside Orgrimmar and question Snivel Rustrocket about the supplies. Return with any evidence he gives you.",
+  "d": "<Roka listens with disgust as you tell her why you're trying to track down Snivel.>$B$BYou mean I've been under the spell of an alchemist all this time? I can't believe I fell for that fraud! If I ever get my hands on that conniving little goblin, I'll tear him apart!$B$BIf he's finished his errands, he's on his way down to the zeppelin tower east of Orgrimmar's gates! Whatever you do, $N, you can't let him board that zeppelin and get away with all this!$B$BHurry to the zeppelin tower before you miss him!",
+  "p": "Did you find the guy, or did he crawl under a rock?",
+  "c": "You got his ledger? Really? That's great, $N. There's probably loads of good information in here."
+ },
+ {
+  "id": 24581,
+  "t": "Noth the Plaguebringer Must Die!",
+  "o": "Kill Noth the Plaguebringer.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Noth the Plaguebringer, traitor and coward! Second only to the Lich King himself for the number of souls that have been Scourged!$B$BMake haste to Naxxramas. You will find him within the Plague Quarter hiding behind his undead minions.$B$BDestroy him! The Council of Six has decreed that Noth must die!",
+  "p": "",
+  "c": "That's one less thorn in our side. With Noth destroyed, Scourge research into refining the means of creating the undead will grind to a halt."
+ },
+ {
+  "id": 24582,
+  "t": "Instructor Razuvious Must Die!",
+  "o": "Kill Instructor Razuvious.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Instructor Razuvious smugly struts about the Military Quarter of Naxxramas. It is said that only a death knight personally trained by him could possibly even withstand the prowess of his blade.$B$BYou and your group are going to prove everyone wrong.$B$BThe Council of Six has decreed that Razuvious must die!",
+  "p": "",
+  "c": "Well done, $c. The Scourge military command out of Naxxramas has been thrown into disarray by Razuvious's demise."
+ },
+ {
+  "id": 24584,
+  "t": "Malygos Must Die!",
+  "o": "Kill Malygos.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Our resources are strained. Malygos, the Spell-Weaver, is draining all of the magic out of the world, consolidating it in the Eye of Eternity. Without magic, we are doomed.$B$B$C, the Nexus War must be brought to an end. The Council of Six has decreed that Malygos must die!",
+  "p": "",
+  "c": "With Malygos defeated, the Nexus War should come to a swift conclusion. You have the gratitude of the Kirin Tor, $N."
+ },
+ {
+  "id": 24585,
+  "t": "Flame Leviathan Must Die!",
+  "o": "Kill Flame Leviathan.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Within the Formation Grounds sits Ulduar's first line of defense: Flame Leviathan.$B$BThe Kirin Tor have been provided with information suggesting that this Keeper-created machine is soon to be transported to an undisclosed location and let loose to wreak havoc upon the mortals of Azeroth.$B$BThis must not come to pass. The Council of Six has decreed that Flame Leviathan must die!",
+  "p": "",
+  "c": "I never cease to be amazed by the horrors that can be created through the use of technology."
+ },
+ {
+  "id": 24586,
+  "t": "Razorscale Must Die!",
+  "o": "Kill Razorscale.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Razorscale normally keeps to her aerie near the Colossal Forge in Ulduar. Of late, however, she has been spotted reigning fire down upon lands outside of the titan complex.$B$BThough the broodmother's is a sad tale, she poses an imminent threat to all of Northrend. The Council of Six has decreed that Razorscale must die!",
+  "p": "",
+  "c": "Now Veranus can finally rest in peace."
+ },
+ {
+  "id": 24588,
+  "t": "XT-002 Deconstructor Must Die!",
+  "o": "Kill XT-002 Deconstructor.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Yet another strange construct of Mimiron, the XT-002 Deconstructor actually thinks that it is the keeper's son. Do not be fooled by its feigned innocence. It is a deadly machine!$B$BYou will find the Deconstructor within Ulduar's Scrapyard. The Council of Six has decreed that XT-002 Deconstructor must die!",
+  "p": "",
+  "c": "The greatest weakness of Ulduar is its masters' blind faith in their inventions to protect it."
+ },
+ {
+  "id": 24589,
+  "t": "Lord Jaraxxus Must Die!",
+  "o": "Kill Lord Jaraxxus.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Archmage Timear has foreseen a horrible event, which is about to transpire. A foolish gnome warlock is about to accidentally summon an Eredar lord of the Burning Legion into the middle of the Trial of the Crusader.$B$BYou must be there when it happens, $c. If Lord Jaraxxus escapes, he will open a portal and the Burning Legion will spill forth into our world once more.$B$BThe Council of Six has decreed that Lord Jaraxxus must die!",
+  "p": "",
+  "c": "All of Azeroth is fortunate that Timear foresaw the Eredar lord's arrival and that you were there in time to slay him."
+ },
+ {
+  "id": 24590,
+  "t": "Lord Marrowgar Must Die!",
+  "o": "Kill Lord Marrowgar.$B$BThis quest can be completed with any difficulty or size raid.",
+  "d": "Lord Marrowgar is the guardian of the Frozen Throne within the Spire Chamber. Pieced together by the Lich King from the bones of a thousand vanquished adventurers, Marrowgar wields the power of the throne itself.$B$BWithout the destruction of this bone wraith, there is no hope of taking Icecrown Citadel.$B$BThe Council of Six has decreed that Lord Marrowgar must die!",
+  "p": "",
+  "c": "The Frozen Throne is without its chief guardian thanks to you. Our attacks upon the Lich King's forces will be all the more successful now."
+ },
+ {
+  "id": 24594,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tainted Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.$B",
+  "d": "The Sunwell and the end of Quel'Delar's exile await, $N.$B$BYou will find Lor'themar Theron, the regent of Quel'Thalas, and Grand Magister Rommath standing within. Be wary of them and do not allow them to entrap you in their political scheming.$B$BInstead, remain focused on your task here. Speak to a Warden of the Sunwell to enter the Sunwell Plateau. Immerse the reformed Quel'Delar in the Sunwell to complete the restoration. Show the blade to Myralion Sunblaze at Quel'Delar's Rest once it is restored.",
+  "p": "You have returned from the Sunwell?",
+  "c": "Am I truly laying my eyes upon the weapon of Thalorien Dawnseeker? This is a wondrous day for the Sunreavers and for all sin'dorei!"
+ },
+ {
+  "id": 24595,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tainted Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.",
+  "d": "I admit, I was skeptical that you had actually re-forged Quel'Delar and I did not expect Thalorien's spirit to reveal itself to you. You cannot understand what it means to my people that Quel'Delar has been recovered.$B$BAs promised, I will admit you to the Sunwell and you will find the leaders of Silvermoon within. Carry the sword to the chamber of the Sunwell and immerse it. Once the blade is restored, return with it to Caladis Brightspear at Quel'Delar's Rest.",
+  "p": "Tell me of what happened in the Sunwell, $N.",
+  "c": "This is unbelievable, $N. You've really done it! All of the quel'dorei have heard of Thalorien Dawnseeker and Quel'Delar, but no one ever thought the sword would be restored."
+ },
+ {
+  "id": 24596,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tainted Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.",
+  "d": "The Sunwell and the end of Quel'Delar's exile await, $N.$B$BYou will find Lor'themar Theron, the regent of Quel'Thalas, and Grand Magister Rommath standing within. Be wary of them and do not allow them to entrap you in their political scheming.$B$BInstead, remain focused on your task here. Immerse the reformed Quel'Delar in the Sunwell to complete the its restoration, then speak with Myralion Sunblaze at Quel'Delar's Rest. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.",
+  "p": "What happened during your visit to the Sunwell?",
+  "c": "Am I truly laying my eyes upon the weapon of Thalorien Dawnseeker? This is a wondrous day for the Sunreavers and for all sin'dorei!"
+ },
+ {
+  "id": 24597,
+  "t": "A Gift for the King of Stormwind",
+  "o": "Present a Lovely Charm Bracelet to King Varian Wrynn in Stormwind.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the king of Stormwind? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24598,
+  "t": "The Purification of Quel'Delar",
+  "o": "Immerse your Tempered Quel'Delar in the Sunwell. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.$B",
+  "d": "The Sunwell and the end of Quel'Delar's exile await, $N.$B$BYou will find Lor'themar Theron, the regent of Quel'Thalas, and Grand Magister Rommath standing within. Be wary of them and do not allow them to entrap you in their political scheming.$B$BInstead, remain focused on your task here. Immerse the reformed Quel'Delar in the Sunwell to complete its restoration, then show it to Myralio Sunblaze at Quel'Delar's Rest. Speak to a Warden of the Sunwell when you are ready to enter the Sunwell Plateau.",
+  "p": "What news do you bring from the Sunwell?",
+  "c": "Am I truly laying my eyes upon the weapon of Thalorien Dawnseeker? This is a wondrous day for the Sunreavers and for all sin'dorei!"
+ },
+ {
+  "id": 24609,
+  "t": "A Gift for the Lord of Ironforge",
+  "o": "Present a Lovely Charm Bracelet to King Magni Bronzebeard in Ironforge.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the Lord of Ironforge? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24610,
+  "t": "A Gift for the High Priestess of Elune",
+  "o": "Present a Lovely Charm Bracelet to Tyrande Whisperwind in Darnassus.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the High Priestess of Elune? I'm sure she'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24611,
+  "t": "A Gift for the Prophet",
+  "o": "Present a Lovely Charm Bracelet to Prophet Velen in the Exodar.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the Prophet of the Exodar? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24612,
+  "t": "A Gift for the Warchief",
+  "o": "Present a Lovely Charm Bracelet to Thrall in Orgrimmar.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the Warchief? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24613,
+  "t": "A Gift for the Banshee Queen",
+  "o": "Present a Lovely Charm Bracelet to Lady Sylvanas Windrunner in Undercity.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the Banshee Queen? I'm sure she'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24614,
+  "t": "A Gift for the High Chieftain",
+  "o": "Present a Lovely Charm Bracelet to Cairne Bloodhoof in Thunder Bluff.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the High Chieftain? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24615,
+  "t": "A Gift for the Regent Lord of Quel'Thalas",
+  "o": "Present a Lovely Charm Bracelet to Lor'themar Theron in Silvermoon City.",
+  "d": "Did you want to make a Lovely Charm Bracelet for the Regent Lord of Quel'Thalas? I'm sure he'd be thrilled.$B$BDo you already have a Lovely Charm Collector's Kit?",
+  "p": "Well met, $c. Did you have something for me?",
+  "c": "My thanks for this Lovely Charm Bracelet."
+ },
+ {
+  "id": 24629,
+  "t": "A Perfect Puff of Perfume",
+  "o": "Spray 10 people with the Crown Perfume Sprayer.",
+  "d": "You look like a real go-getter, $c. How about we work out a little win-win scenario?$B$BCrown's looking to offer samples of our latest holiday-themed products to as many potential customers as possible. Help us share the love, and we'll give you discounts on some great Crown merchandise!$B$BYour time, our money, friend. What do you say?",
+  "p": "That perfume's not going to spray itself, you know.$B$BGet going!",
+  "c": "Great work, $N! People will come running to buy Crown perfumes now that they've had a chance to sample their wonders.$B$BHere's a little something for helping us out."
+ },
+ {
+  "id": 24635,
+  "t": "A Cloudlet of Classy Cologne",
+  "o": "Spray 10 people with the Crown Cologne Sprayer.",
+  "d": "You seem the enterprising sort, $c. How about we make a little deal?$B$BCrown wants to offer samples of our latest holiday-themed products to as many potential customers as we can. Help us share the love while earning some fantastic Crown merchandise!$B$BYour time, our money, friend. What do you think?",
+  "p": "The cologne isn't going to give itself out, you know.$B$BGet spraying!",
+  "c": "Nice work, $N! People will be buying Crown colognes by the crate-load now that they've had a chance to try them.$B$BHere's a little something for helping us out."
+ },
+ {
+  "id": 24636,
+  "t": "Bonbon Blitz",
+  "o": "Toss 10 people samples from the Crown Chocolate Sampler.",
+  "d": "I can see you've got an eye for opportunity, $c. What do you say we make a little coin together?$B$BCrown needs to push samples of our latest holiday-themed products to every potential customer in the city. Help us share the love, and we'll share some of that amazing Crown merchandise with you!$B$BYour time, our money, friend. We got a deal?",
+  "p": "You know, those chocolates aren't going to fling themselves at people.$B$BYou need to get to work!",
+  "c": "Lovely work, $N! People will be tripping over one another to get Crown chocolates now that they've had a chance to taste those sweet, romantic treats.$B$BHere's a little something for helping us out."
+ },
+ {
+  "id": 24638,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Lackeys and use Snagglebolt's Khorium Bomb to damage one Chemical Wagon just west of Orgrimmar's gates in Durotar, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's right outside Orgrimmar's gates, to the west! That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24645,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Thugs and use Snagglebolt's Khorium Bomb to destroy one chemical wagon outside of Ambermill in Silverpine Forest, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's just outside Ambermill in Silverpine Forest. That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24647,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Dusters and use Snagglebolt's Khorium Bomb to destroy one chemical wagon just outside of Hillsbrad Village in Hillsbrad Foothills, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's just outside the village of Hillsbrad in -- you guessed it -- Hillsbrad Foothills. That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24648,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Hoodlums and use Snagglebolt's Khorium Bomb to destroy one chemical wagon outside of Theramore in Dustwallow Marsh, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's near Sentry Point, just outside Theramore in Dustwallow. Don't give me that look, okay? This is a problem for us, too. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24649,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Agents and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Aerie Peak in the Hinterlands, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's to the east of Aerie Peak in the Hinterlands. Don't give me that look, okay? This is a problem for the Horde, too. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24650,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Sprinklers and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Everlook in Winterspring, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's in Winterspring, just east of Everlook. Oh, now this is personal. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24651,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Underlings and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Shattrath City in Terokkar Forest, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it looks like it's just east of Shattrath, in Terokkar Forest. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24652,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Sprayers and use Snagglebolt's Khorium Bomb to destroy one chemical wagon in the Forlorn Woods of Crystalsong Forest, then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it looks like it's in the Forlorn Woods of Crystalsong, northwest of the Mirror of Twilight. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24655,
+  "t": "Something Stinks",
+  "o": "Use Snagglebolt's Air Analyzer to test the air around 6 heavily perfumed guards, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "Get a load of these guys, would ya? Steamwheedle's been handling the business of holidays for years, and all of a sudden, these guys bust into the market. They're not Steamwheedle; the cartel hired me to get to the bottom of this. Something stinks here and it ain't just perfume.$B$BTake this device I brought and go analyze the perfume clouds around the guards. I want to know what they're putting in that stuff. Things ain't natural.",
+  "p": "You analyze that reek yet, kid?",
+  "c": "Hey, thanks, kid. Give it over, let's take a look.$B$B<He takes the device from you and fiddles with it.>$B$BOh, that ain't good."
+ },
+ {
+  "id": 24656,
+  "t": "Pilfering Perfume",
+  "o": "While disguised as a package-runner, go to the Crown Chemical Company's stockpile outside the gates of Stormwind, then return the package they toss you to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "I knew they were up to no good! There's some sort of mind-affecting chemical in here, but I can't get a handle on it with such a small sample. I need the real stuff.$B$BDon't just go over there and buy it! I don't want you giving these scumbags one copper. Nah, you gotta get it from the source, discreet-like.$B$BI'll disguise you as a package runner. I saw a stockpile guarded by their goons outside the gates. Go run by, and DON'T stop, or they'll make you! They'll toss you a crate. Bring it back here.",
+  "p": "Did they toss ya a crate to deliver?",
+  "c": "You got it, huh? Good job, kid. Top notch. Let's see what we what we got here.$B$B<He cracks open the crate and rummages around inside."
+ },
+ {
+  "id": 24657,
+  "t": "A Friendly Chat...",
+  "o": "Go to Stormwind Harbor and question Snivel Rustrocket about the supplies. Return with any evidence he gives you.",
+  "d": "<Marion listens with horror as you tell her why you're trying to track down Snivel.>$B$BYou mean, he might've used some kind of chemical on me? Ew! I can't believe I fell for that fraud!$B$BIf he's finished all of his errands, he's on his way down to the docks to catch a ship to the South Seas! Whatever you do, $N, you can't let him get away with this.$B$BHurry down to Stormwind Harbor before you miss him!",
+  "p": "Did you find the guy, or did he crawl under a rock?",
+  "c": "You got his ledger? Really? That's great, $N. There's probably loads of good information in here."
+ },
+ {
+  "id": 24658,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Lackeys and use Snagglebolt's Khorium Bomb to damage one Chemical Wagon northeast of Westbrook Garrison in Elwynn Forest, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's northeast of Westbrook Garrison right outside in Elwynn! That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24659,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Thugs and use Snagglebolt's Khorium Bomb to destroy one chemical wagon south of the Grove of the Ancients in Darkshore, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's just south of the Grove of the Ancients in Darkshore. That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24660,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Dusters and use Snagglebolt's Khorium Bomb to destroy one chemical wagon just outside of Hillsbrad Village in Hillsbrad Foothills, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's just outside the village of Hillsbrad in -- you guessed it -- Hillsbrad Foothills. That can't be good. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24661,
+  "t": "REUSE ME",
+  "o": "Kill 5 Crown Lackeys and use Snagglebolt's Khorium Bomb to damage one Chemical Wagon just west of Orgrimmar's gates in Durotar,then return to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "This ledger is full of locations,and I need you to investigate and take action,pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's right outside Orgrimmar's gates,to the west! That can't be good. Get out there and rough 'em up.$b$bOh,and if you see something big and dangerous enough that it needs destroying,toss this bomb at it.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 24662,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Hoodlums and use Snagglebolt's Khorium Bomb to destroy one chemical wagon outside of Theramore in Dustwallow Marsh, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's near Sentry Point, just outside Theramore in Dustwallow. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24663,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Agents and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Aerie Peak in the Hinterlands, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's to the east of Aerie Peak in the Hinterlands. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ }
+]

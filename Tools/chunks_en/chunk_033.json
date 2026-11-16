@@ -1,0 +1,962 @@
+[
+ {
+  "id": 8905,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Wildheart Bracers to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8906,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Beaststalker's Bindings to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8907,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Magister's Bindings to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8908,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Lightforge Bracers to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8909,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with 1 set of Devout Bracers to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8910,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Shadowcraft Bracers to Deliana in Ironforge.$B",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8911,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Dreadmist Bracers to Deliana in Ironforge.$B",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8912,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Winterspring Blood Samples and 20 gold and bring them along with a set of Bracers of Valor to Deliana in Ironforge.",
+  "d": "Well met, $c.  I've something that might interest you.$B$BI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality.  I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.$B$BThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment.  Bring me a sizeable sample of it along with the bracers and a small amount of gold.  You shall find the effort worth your while.$B",
+  "p": "Have you brought me what I requested of you, $N?",
+  "c": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.$B$BIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces."
+ },
+ {
+  "id": 8913,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Wildheart Bracers to Mokvar in Orgrimmar.",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8914,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Beaststalker's Bindings to Mokvar in Orgrimmar.",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bindings were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8915,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Magister's Bindings to Mokvar in Orgrimmar.$B",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bindings were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8916,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Devout Bracers to Mokvar in Orgrimmar.$B",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.$B",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8917,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Shadowcraft Bracers to Mokvar in Orgrimmar.$B",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8918,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Bindings of Elements to Mokvar in Orgrimmar.$B",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. That old goblin shall be quite happy with this blood.$B$BThose bindings were part of a larger armor set. If you're interested in providing me with further assistance I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8919,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Dreadmist Bracers to Mokvar in Orgrimmar.",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8920,
+  "t": "An Earnest Proposition",
+  "o": "Acquire 15 Silithus Venom Samples and 20 gold and bring them along with a set of Bracers of Valor to Mokvar in Orgrimmar.$B",
+  "d": "Hail, $c!  I can tell by your demeanor that you've seen and done much in this world.  Yet I'm willing to wager you haven't seen a piece of armor like this.$B$BPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.$B$BI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus.  Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "p": "Have you obtained the items I require, $N?",
+  "c": "Ah, yes. Mux will be quite happy with this.$B$BThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it."
+ },
+ {
+  "id": 8921,
+  "t": "The Ectoplasmic Distiller",
+  "o": "Return to Mux Manascrambler in Gadgetzan with 1 Delicate Arcanite Converter, 4 Greater Eternal Essence, 10 Stonescale Oil, 25 Volcanic Ash and 40 gold.",
+  "d": "Ah, you're in need of my latest project... the extra-dimensional ghost revealer!  Unfortunately I've run out of funds and manpower.$B$BYou're willing to help?  Excellent!  Our first task is to build a device to harvest the very fabric of death!  Building an ectoplasmic distiller won't be an easy task, $N.$B$BI'll need you to bring me an arcanite converter, some greater eternal essences and stonescale oil. I'll also need some volcanic ash from the lava pools in the Burning Steppes to build a filter.",
+  "p": "I understand the materials are a bit pricey... but I promise you every last one of them shall be necessary!",
+  "c": "These are precisely the materials I needed. Quite timely too, $N!$B$BIn mere moments I will have your distiller ready to go! In the meantime, take this as a reward for aiding me in my project."
+ },
+ {
+  "id": 8922,
+  "t": "A Supernatural Device",
+  "o": "Bring the Sealed Blood Container to Mux Manascrambler inside Gadgetzan in Tanaris.",
+  "d": "I must find a way to speak with Anthion Harmon... or more specifically, his ghost!$B$BI know of an engineer with a queer interest in the supernatural.  He claims he can build a machine that allows him to speak with the dead!$B$BThe blood you collected was intended for him; travel to Gadgetzan and bring it to him as payment for his services! ",
+  "p": "You've something for me?",
+  "c": "Excellent! Just as I was running low!$B$BYou say Deliana sent you?"
+ },
+ {
+  "id": 8923,
+  "t": "A Supernatural Device",
+  "o": "Take the Sealed Venom Container to Mux Manascrambler in Gadgetzan.",
+  "d": "You must be quite brave to have stuck around after that.  That or I've piqued your interest with the piece of armor I gave you.  There is more from where that came from, if you're still interested in aiding me.$B$BThe venom samples you collected are for an acquaintance of mine, Mux Manascrambler, an engineer with an interest in the supernatural.  His latest project consists of a device that allows you to communicate with the dead!  My last hope is to contact Anthion and find out more about my situation.",
+  "p": "You wish to speak to me?",
+  "c": "Excellent! Just as I was running low!$B$BYou say Mokvar sent you?"
+ },
+ {
+  "id": 8924,
+  "t": "Hunting for Ectoplasm",
+  "o": "Use the Ectoplasmic Distiller near incorporeal undead to collect 12 Scorched Ectoplasms in Silithus, 12 Frozen Ectoplasms in Winterspring and 12 Stable Ectoplasms in the Eastern Plaguelands.  Bring them along with the Ectoplasmic Distiller back to Mux Manascrambler in Gadgetzan.",
+  "d": "A fine piece of engineering, if I do say so myself!  You will need to travel a bit, I'm afraid, in order to find the incorporeal undead we require.$B$BYou see, different climates lend different consistencies to the spectral fabric of the dead.  The tortured night elves of Silithus, the spirits of the highborne from Winterspring and the ghosts and banshees of the Eastern Plaguelands should give us the different types of ectoplasm we need.  Be sure to place the distiller nearby before you harvest them!",
+  "p": "Have you gathered the ectoplasm yet, $R?",
+  "c": "Yes, these will do great!$B$BBy tapping into the otherworldly energies contained within these substances we'll be able to reach out to those whose souls haven't quite left this world yet!"
+ },
+ {
+  "id": 8925,
+  "t": "A Portable Power Source",
+  "o": "Find Magma Lord Bokk in the Burning Steppes, obtain his Magma Core and bring it to Mux Manascrambler in Gadgetzan.",
+  "d": "Next we shall need to find a stable and portable source of energy to keep the ectoplasm active.  I've heard rumors of a mighty elemental called Magma Lord Bokk, whose heart is a powerful magma core - an endless supply of heat!$B$BIt's said he can be found in the Burning Steppes, south of Blackrock Mountain.  Bring the magma core to me and we shall have enough juice to power the extra-dimensional ghost revealer!",
+  "p": "Have you found the Magma Lord, $N?",
+  "c": "You've done it! This will certainly provide enough energy to power up the extra-dimensional ghost revealer!"
+ },
+ {
+  "id": 8926,
+  "t": "Just Compensation",
+  "o": "Bring a Wildheart Belt and a set of Wildheart Gloves Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gloves that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8927,
+  "t": "Just Compensation",
+  "o": "Bring a Wildheart Belt and a set of Wildheart Gloves to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8928,
+  "t": "A Shifty Merchant",
+  "o": "Search for an imp inside a cave at the entrance of Darkwhisper Gorge in southern Winterspring, purchase a Fel Elemental Rod and return to Mux Manascrambler in Gadgetzan.",
+  "d": "The core will provide us with enough juice to power our device; now we just have to build a rod that can channel that energy without melting.$B$BI met an imp in Winterspring that sold all manner of exotic goods.  He had an elemental rod that would do perfectly.  I'm kicking myself in the head right now for not having bought it.$B$BHe lives inside a cave in the entrance to Darkwhisper Gorge.  Sneak in there and try to find him.$B$BMake sure he only charges you forty gold; that's the price he quoted me!",
+  "p": "Have you had any luck finding the imp in Darkwhisper Gorge?",
+  "c": "You did it! This rod will do perfectly. Now to put it all together..."
+ },
+ {
+  "id": 8929,
+  "t": "In Search of Anthion",
+  "o": "Use the Extra-Dimensional Ghost Revealer at the entrance to Stratholme and speak with the ghost of Anthion Harmon.",
+  "d": "Well, nothing left for us to do but try out the goblin's invention.  Word has it that Anthion was mowed down by the undead legions of Stratholme as he tried to enter its gates.$B$BTry using the device there and find out whatever Anthion knew.",
+  "p": "",
+  "c": "Deliana had you contact me? I'll do my best to help you, but first I must ask a great favor of you."
+ },
+ {
+  "id": 8930,
+  "t": "In Search of Anthion",
+  "o": "Use the Extra-Dimensional Ghost Revealer at the entrance to Stratholme and speak with the ghost of Anthion Harmon.",
+  "d": "Very well, $N.  All that remains is to put the goblin's invention to the test.  Word has it that Anthion was slain by the undead legions of Stratholme as he tried to enter its gates.$B$BTry using the device there and see if, indeed, you can speak with the dead!",
+  "p": "",
+  "c": "Mokvar had you contact me? I'll do my best to help you, but first I must ask a great favor of you."
+ },
+ {
+  "id": 8931,
+  "t": "Just Compensation",
+  "o": "Bring a Beaststalker's Belt and a set of Beaststalker's Gloves to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me an ordinary belt and a set of gloves that you wish to upgrade.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8932,
+  "t": "Just Compensation",
+  "o": "Bring a Magister's Belt and a set of Magister's Gloves to Deliana in Ironforge.$B",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me an ordinary belt and a set of gloves that you wish to upgrade.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8933,
+  "t": "Just Compensation",
+  "o": "Bring a Lightforge Belt and a set of Lightforge Gauntlets to Deliana in Ironforge.$B",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gauntlets that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8934,
+  "t": "Just Compensation",
+  "o": "Bring a Devout Belt and a set of Devout Gloves to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gloves that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8935,
+  "t": "Just Compensation",
+  "o": "Bring a Shadowcraft Belt and a set of Shadowcraft Gloves to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gloves that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8936,
+  "t": "Just Compensation",
+  "o": "Bring a Dreadmist Belt and a set of Dreadmist Wraps to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gloves that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8937,
+  "t": "Just Compensation",
+  "o": "Bring a Belt of Valor and a set of Gauntlets of Valor to Deliana in Ironforge.",
+  "d": "You kept your word and brought the device built by Mux.  I believe a reward is in order if I'm to keep you interested in saving my skin.  Bring me the belt and set of gauntlets that you wish to upgrade.  I promise the ones I give you in return will be far superior.",
+  "p": "You're ready to perform the trade?",
+  "c": "You've kept your end of the bargain, I shall keep mine.$B$BJust remember that I'm holding on to the best pieces until your work is finished."
+ },
+ {
+  "id": 8938,
+  "t": "Just Compensation",
+  "o": "Bring a Beaststalker's Belt and a set of Beaststalker's Gloves to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8939,
+  "t": "Just Compensation",
+  "o": "Bring a Magister's Belt and a set of Magister's Gloves to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8940,
+  "t": "Just Compensation",
+  "o": "Bring a Devout Belt and a set of Devout Gloves to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8941,
+  "t": "Just Compensation",
+  "o": "Bring a Shadowcraft Belt and a set of Shadowcraft Gloves to Mokvar in Orgrimmar.",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8942,
+  "t": "Just Compensation",
+  "o": "Bring a Cord of Elements and a set of Gauntlets of Elements to Mokvar in Orgrimmar.$B",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gauntlets.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8943,
+  "t": "Just Compensation",
+  "o": "Bring a Dreadmist Belt and a set of Dreadmist Wraps to Mokvar in Orgrimmar.$B",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gloves.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8944,
+  "t": "Just Compensation",
+  "o": "Bring a Belt of Valor and a set of Gauntlets of Valor to Mokvar in Orgrimmar.$B",
+  "d": "You've proven to be a very reliable individual, $N.  As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.$B$BFor now I will exchange your belt and gauntlets.  If we both see this through I shall make the rest of the pieces available to you.",
+  "p": "You're ready to perform the exchange?",
+  "c": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power."
+ },
+ {
+  "id": 8945,
+  "t": "Dead Man's Plea",
+  "o": "Go into Stratholme and rescue Ysida Harmon from Baron Rivendare.",
+  "d": "I'll provide you the information you ask for, $N.  But more pressing matters are at hand.$B$BMy beloved wife has been taken prisoner by Rivendare's undead scum.$B$BI strongly objected to her joining the Argent Dawn's foolish crusade, yet that's not of importance anymore.  You must finish what I attempted to do, you must rescue Ysida from the clutches of the Baron!",
+  "p": "Tell me, is Ysida alive?",
+  "c": "Thank you for rescuing me... I feared for my life. Please accept this as a small token of my gratitude.$B$BAnthion is... no... he can't be..."
+ },
+ {
+  "id": 8946,
+  "t": "Proof of Life",
+  "o": "Bring Ysida's Locket to Anthion Harmon in Eastern Plaguelands.",
+  "d": "It is the cruelest of fates that my beloved has perished while trying to rescue me.  Yet, you claim to possess the ability to converse with him.$B$BBring him this locket as proof that I am well.  He must not linger in this world; my heart would not be able to bear it.$B$BFarewell, $N.  I shall be in your debt always.",
+  "p": "Ysida... is she alive?",
+  "c": "That locket... you found her! I can rest in peace at long last.$B$BI shall now answer any questions you might have, $N. But make haste, my time in this world is not long."
+ },
+ {
+  "id": 8947,
+  "t": "Anthion's Strange Request",
+  "o": "Bring 3 Dark Iron Bars, 20 Enchanted Leather, 3 Mooncloth and 4 Cured Rugged Hides to Anthion Harmon in the Eastern Plaguelands.",
+  "d": "We didn't realize the importance of Valthalak's medallion, so it was divided along with the rest of the spoils.  The first piece was taken by a dwarf named Theldren.  I tried to retrieve it from him and he beat me within an inch of my life.  You shall have to take the fragment by force.$B$BLast I heard of him, he'd become a gladiator for the Dark Iron dwarves.  Getting him to fight you is going to present a bit of a challenge, though.$B$BGather the following materials for me.  You're going to need them.",
+  "p": "Did you obtain the materials I asked for, $N?",
+  "c": "Excellent. I shall transmute these into something more suitable to our needs."
+ },
+ {
+  "id": 8948,
+  "t": "Anthion's Old Friend",
+  "o": "Take the incomplete Banner of Provocation to Falrin Treeshaper at the library in Dire Maul.",
+  "d": "Theldren is not one to willingly participate in a fair fight.  I've shaped this banner to display his family colors.$B$BWith some additional sorcery, this banner shall provoke him in a way he won't be able to resist.$B$BAn old acquaintance of mine named Falrin knows the exact procedure required.  He has a particular way of... aggravating people.  You shall find him at the library in Dire Maul.",
+  "p": "Speak up stranger, can't you see I'm busy?",
+  "c": "Anthion sent you, you say? I thought he was dead. I guess I've heard stranger things in my life.$B$BVery well, then.  What is it you want me to do with this banner?"
+ },
+ {
+  "id": 8949,
+  "t": "Falrin's Vendetta",
+  "o": "Collect 25 Ogre Warbeads from Ogres inside Dire Maul or Blackrock Spire and return to Falrin Treeshaper inside the Athenaeum in Dire Maul.",
+  "d": "Yes, it is true that I am familiar with this enchantment you require, $c.  Yet I'm not one to give out favors freely, even if you were sent here by an old friend.$B$BI hold nothing but hatred and contempt for our brutish ogre neighbors.  And not only them, I hate the followers of Omokk just as much as I hate those that follow King Gordok.$B$BI want you to kill them.  Kill lots of them!  Bring me the beads they carry around their neck as proof of your work.  Do this and we shall talk about your request.",
+  "p": "Have you performed the favor I asked of you, $N?",
+  "c": "Hmmm... strangely enough I don't feel any better about my brother's death at the hands of those brutes.$B$BWell, you held your end of the bargain. Let's see what I can do for you."
+ },
+ {
+  "id": 8950,
+  "t": "The Instigator's Enchantment",
+  "o": "Bring the following to Falrin Treeshaper inside Dire Maul: 1 Jeering Spectre's Essence, 4 Dark Runes and 8 Large Brilliant Shards.",
+  "d": "I can place the enchantment you require on the banner quite easily, $N.  Unfortunately I don't have the materials I need as it is very rarely that someone asks for this sort of charm.$B$BI will require the essence of one of the Eldreth ghosts that haunt these halls, a handful of Scholomance dark runes and some large brilliant shards.  Bring me these reagents and I shall perform this task for you.",
+  "p": "Have you gathered the materials I require, $N?",
+  "c": "Yes, these will do just fine. After I'm done, no force in the world will be able to stop your victim from accepting your challenge."
+ },
+ {
+  "id": 8951,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Wildheart Boots, a Wildheart Kilt and Wildheart Spaulders.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8952,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Beaststalker's Boots, Beaststalker's Pants and Beaststalker's Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8953,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Magister's Boots, Magister's Leggings and Magister's Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8954,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Lightforge Boots, Lightforge Legplates and Lightforge Spaulders.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8955,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Devout Sandals, Devout Skirt and Devout Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8956,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Shadowcraft Boots, Shadowcraft Pants and Shadowcraft Spaulders.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8957,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Boots of Elements, Kilt of Elements and Pauldrons of Elements.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 8958,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Dreadmist Sandals, Dreadmist Leggings and Dreadmist Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8959,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Deliana in Ironforge with a set of Boots of Valor, Legplates of Valor and Spaulders of Valor.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.  Speak to her about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You're back, $N. You must tell me all about what you've found out. But first let us arrange for your reward.",
+  "c": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?$B$BWell, you've done your job so let's get your reward out of the way."
+ },
+ {
+  "id": 8960,
+  "t": "Bodley's Unfortunate Fate",
+  "o": "Travel to Blackrock Mountain and use the Extra-Dimensional Ghost Revealer to find Bodley near Blackrock Spire.",
+  "d": "So we need to recover the rest of the medallion?  Finding Bodley's going to be a bit of a headache.  He went back to Blackrock Mountain to attempt to re-enter Blackrock Spire and never came back.$B$BI'd suggest taking the goblin's ghost revealing device with you, as I fear the worst might have happened.",
+  "p": "",
+  "c": "I am so glad that you can see me. Finally someone to talk to!$B$BWill you help us, $N? Help to undo the wrong that we perpetrated and put things to right? If it's true that you already have the Top Piece of Lord Valthalak's Amulet, then I think I can point you in the right direction to acquire the other two parts, reunite them and put an end to all of this.$B$BOh, by the way, hello, my name is Bodley. Nice to meet you!"
+ },
+ {
+  "id": 8961,
+  "t": "Three Kings of Flame",
+  "o": "Gather the Incendicite of Incendius, the Ember of Emberseer and the Cinder of Cynders, along with a Hallowed Brazier, and return them to Bodley inside Blackrock Mountain.",
+  "d": "In order to summon Lord Valthalak we're first going to need to gather the other two-thirds of the amulet. To do that we need to get a brazier and some special coals to burn in it.$B$BThere are three nobles of fire, Lord Incedius in Blackrock Depths, Pyroguard Emberseer in Blackrock Spire and The Duke of Cynders in Silithus, with what we need. Collect from each a piece of their remains, and then return to me with a Hallowed Brazier, which can be purchased from the Argent Dawn if you are honored by them.",
+  "p": "It was our folly... our doom that we took that last job. If only we hadn't inadvertently stolen Lord Valthalak's spirit, which was contained in the amulet; if only there weren't those in our mercenary group that had been so greedy and divided it up amongst themselves. I'd be alive today, maybe tossing back a beer, or tossing one of my kids into the air.$B$B$N, don't let the avarice of the ignoble in our old mercenary company be your doom as well.",
+  "c": "I'm impressed, $c, but there's no time to lose. I will give you your next task, because you will still need to acquire a few more important components before we can proceed.$B$BSpeak to me again when you feel that you are ready for the challenge that lies ahead."
+ },
+ {
+  "id": 8962,
+  "t": "Components of Importance",
+  "o": "Acquire Druidical Remains and return them to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the remains into the brazier.$B$BNow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him."
+ },
+ {
+  "id": 8963,
+  "t": "Components of Importance",
+  "o": "Acquire a Starbreeze Village Relic and return it to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the relic into the brazier.$B$BNow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it."
+ },
+ {
+  "id": 8964,
+  "t": "Components of Importance",
+  "o": "Retrieve a Brilliant Sword of Zealotry and return it to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.$B$BThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the sword into the brazier.$B$BNow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within."
+ },
+ {
+  "id": 8965,
+  "t": "Components of Importance",
+  "o": "Obtain Soul Ashes of the Banished and return them to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the ashes into the brazier.$B$BNow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him."
+ },
+ {
+  "id": 8966,
+  "t": "The Left Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Mor Grayhoof and slay him. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "My friend, Mor Grayhoof, was the first to fall victim to possession of a piece of Lord Valthalak's amulet, and the corrupting spirit fragment that it contains. After stealing Valthalak's spellbook and amulet, we fled for our lives from the upper portion of Blackrock Spire. Along the way, Mor fell into the lower portion of the spire.$B$BLater, we discovered that he survived the fall, only to be captured and tortured by War Master Voone. A few spectral assassins snuck in and slew him right in front of Voone.",
+  "p": "Then it is done? You have retrieved the left piece of Lord Valthalak's amulet and finally put to rest the spirit of my old companion, Mor Grayhoof?",
+  "c": "You have done a great thing, $N. One spirit rests in peace, but there is still much work to be done before we can put all of this behind us.$B$BUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece."
+ },
+ {
+  "id": 8967,
+  "t": "The Left Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Isalien and slay her. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "It became known to us in later days, as we were doing what we could ourselves to survive, that Isalien, a night elf priestess of our company, had gone to the night elvic ancestral city, now known as Dire Maul. From what we gathered, she went there both for personal reasons and also to unlock the secrets of the piece of the amulet that she had in her possession.$B$BShe didn't quite make it, though. Word got back to us that she was ambushed at the Shrine of Eldretharr by Alzzin the Wildshaper and his forces.",
+  "p": "Surely you haven't already dealt with the salvation of Isalien's spirit and the retrieval of the left piece of Lord Valthalak's amulet, $N?",
+  "c": "Thank you, $N, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. But, there is still a great deal of work ahead of us if we are to get out of this fine pickle we find ourselves in.$B$BUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece."
+ },
+ {
+  "id": 8968,
+  "t": "The Left Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth Jarien and Sothos and slay them. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the left piece of Lord Valthalak's amulet with them. Good riddance, I say, but we need that piece back.$B$BFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.$B$BIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",
+  "p": "Does this mean then, $C, that you've already put the souls of those two fools to rest and retrieved the left piece of Lord Valthalak's amulet?",
+  "c": "I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and that is definitely a good thing!$B$BUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece."
+ },
+ {
+  "id": 8969,
+  "t": "The Left Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Kormok and slay him. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "Now we have what we need, so it's time to discuss who it is that you'll be summoning.$B$BKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.$B$BBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",
+  "p": "I commend you, $N, if you have returned with the left piece of the amulet. If not, however, please take care of that as there is no time to waste, I assure you!",
+  "c": "Good work, $N! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. But, there is more work ahead of us.$B$BUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece."
+ },
+ {
+  "id": 8970,
+  "t": "I See Alcaz Island In Your Future...",
+  "o": "Gather 20 Bloodkelp from the Strashaz naga and then return to Bodley inside Blackrock Mountain.",
+  "d": "As I was saying, $c, in my living years I flirted with becoming a diviner. But, there really wasn't as much profit in it as you might imagine, mostly because it's dangerous and the reagents are rare and expensive. However, I do know enough to be able to pinpoint the final piece of the amulet, and the spirit of my former comrade along with it.$B$BThis is where you come in, $N. I need you to go to Alcaz Island off the coast of Dustwallow Marsh and collect Bloodkelp from the Strashaz naga that live there.",
+  "p": "Bloodkelp, $N, a big stack of it, that's what I need to power my divinatory spells. You're likely to need to take at least a couple of friends along with you to Alcaz Island to gather it up... those Strashaz are a nasty lot!",
+  "c": "To be honest, $N, I'm surprised you made it back in one piece. Then again, I guess Alcaz Island is the least of your worries right now.$B$BOk, give me a moment here... divination isn't something that you can just snap your fingers and expect accurate answers from."
+ },
+ {
+  "id": 8977,
+  "t": "Return to Deliana",
+  "o": "Bring the Extra-Dimensional Ghost Revealer  to Deliana in Ironforge.",
+  "d": "It's been great working with you, $N.  Here is the finished product.$B$BI hope it helps you in your current endeavors.  And hey, if you don't mind, help spread the word.  I wouldn't mind having more customers!",
+  "p": "You've returned?",
+  "c": "Excellent! You've done well, $N. I'm not sure I trust the goblin's craftsmanship, but I'm left with no other choice."
+ },
+ {
+  "id": 8978,
+  "t": "Return to Mokvar",
+  "o": "Return to Mokvar in Orgrimmar with the Extra-Dimensional Ghost Revealer.",
+  "d": "It's been great working with you, $N.  Here is the finished product.$B$BI hope it helps you in your current endeavors.  And hey, if you don't mind, help spread the word.  I wouldn't mind having more customers!",
+  "p": "You've returned with the device?",
+  "c": "You've returned with the device! I'm impressed by your dedication, $N. Excellent work."
+ },
+ {
+  "id": 8979,
+  "t": "Fenstad's Hunch",
+  "o": "Bring 1 Cologne Bottle and 1 Perfume Bottle to Apothecary Zinge in the Undercity's Apothecarium.",
+  "d": "I believe I know the cause of this recent behavior. Have you smelled the new fragrance on the wind, over the stink of the canals? The new colognes and perfumes that have come into fashion?$b$bOur thinking has been clouded by some foul alchemy.$b$bThere is only one way to be sure - bring a bottle of cologne and perfume to my friend, Apothecary Zinge. The Royal Apothecary Society will find the truth.$b$b I will reimburse you for their purchase when you return.",
+  "p": "How may I serve you?",
+  "c": "Another one of Fenstad's obsessions, I see. Does he think that the Royal Apothecary Society has nothing better to do than to perform his little investigations?$B$BVery well, I will humor him once again."
+ },
+ {
+  "id": 8980,
+  "t": "Zinge's Assessment",
+  "o": "Return to Fenstad Argyle outside the bank in the Undercity.",
+  "d": "This is unexpected. It looks like Fenstad might be on to something after all. I found traces of substances used in mind control potions.$b$bIt isn't unheard of for perfumes to have some of this, but a few of the ingredients I detected... This is serious alchemy, along the abilities of a member of the Royal Apothecary Society.",
+  "p": "",
+  "c": "So, I was right. We must waste no time. We must determine the source of these tainted fragrances.$B$BHere, to repay you for the purchase of the cologne and perfume."
+ },
+ {
+  "id": 8982,
+  "t": "Tracing the Source",
+  "o": "Speak with Innkeeper Norman in the Undercity.",
+  "d": "We must find who the supplier is. I noticed Apothecary Katrina with a bottle of the perfume tucked in her pack. She told me that she purchased it from Norman, the innkeeper.",
+  "p": "",
+  "c": "Ah yes, I just recently received stock of the perfume and cologne. I don't know how long I can keep it on the shelves - seems like no one can get enough of it.$B$BIf you ask me, I don't see what the big deal is."
+ },
+ {
+  "id": 8983,
+  "t": "Tracing the Source",
+  "o": "Speak with Mara Rennick at the tailor's shop in the Undercity's Magic Quarter.",
+  "d": "Something's wrong with my product? Well, I've never seen so many people wanting something so badly.$b$bI bought my supply from a merchant named Mara Rennick. She's new in town.$b$bShe mentioned she had some goods she had to deliver to the tailor in the Magic Quarter.",
+  "p": "",
+  "c": "I'm afraid I sold my entire supply of perfume and cologne to Norman, the innkeeper. If you'd like some, you should speak with him - assuming he has any left.$B$BYou shouldn't waste any time, though. I think you'll find the cologne  irresistible."
+ },
+ {
+  "id": 8984,
+  "t": "The Source Revealed",
+  "o": "Find Apothecary Staffron Lerent in the Hillsbrad Foothills past Ravenholdt Manor.",
+  "d": "Look, the actions of a rogue apothecary are not my concern. If he's undermining our efforts, then let me be the first to point you in the right direction.$b$bIf he's innocent, then he's got nothing to hide, right?$b$bI purchased the goods from Apothecary Staffron Lerent. He's working in a secluded area past Ravenholdt Manor in the hills over Hillsbrad. To be honest with you, I thought he was a little odd.",
+  "p": "",
+  "c": "Yes, I made those fragrances. Wonderful smell, isn't it? Irresistible.$B$BOnce the warriors of Alliance and Horde alike are smitten with these feelings of love, they will be powerless to stop the rise of the Shadow Council.$B$BThey will be weakened, unprepared. As they worry for their loved ones, they will lose their edge.$B$BThe solution was so simple. Why did it take me so long to come upon it? The weakness of all is through the heart. And there is nothing you can do to stop the inevitable."
+ },
+ {
+  "id": 8985,
+  "t": "More Components of Importance",
+  "o": "Acquire a Starbreeze Village Relic and return it to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the relic into the brazier.$B$BNow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it.$B$BOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!"
+ },
+ {
+  "id": 8986,
+  "t": "More Components of Importance",
+  "o": "Acquire Druidical Remains and return them to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the remains into the brazier.$B$BNow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him.$B$BOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!"
+ },
+ {
+  "id": 8987,
+  "t": "More Components of Importance",
+  "o": "Retrieve a Brilliant Sword of Zealotry and return it to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.$B$BThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.$B",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the sword into the brazier.$B$BNow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within.$B$BOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!"
+ },
+ {
+  "id": 8988,
+  "t": "More Components of Importance",
+  "o": "Obtain Soul Ashes of the Banished and return them to Bodley inside Blackrock Mountain.",
+  "d": "$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.$B$BAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",
+  "p": "Have you returned already then, $C, with what I sent you out to gather?",
+  "c": "A job well done, $N. I will imbue the essence of the ashes into the brazier.$B$BNow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him.$B$BOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!"
+ },
+ {
+  "id": 8989,
+  "t": "The Right Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Mor Grayhoof and slay him. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "My friend, Mor Grayhoof, was the first to fall victim to possession of a piece of Lord Valthalak's amulet, and the corrupting spirit fragment that it contains. After stealing Valthalak's spellbook and amulet, we fled for our lives from the upper portion of Blackrock Spire. Along the way, Mor fell into the lower portion of the spire.$B$BLater, we discovered that he survived the fall, only to be captured and tortured by War Master Voone. A few spectral assassins snuck in and slew him right in front of Voone.",
+  "p": "Then it is done? You have retrieved the right piece of Lord Valthalak's amulet, recombined the amulet into one whole, and finally put to rest the spirit of my old companion, Mor Grayhoof?",
+  "c": "Thank you for helping Mor Grayhoof, $N. Another spirit rests in peace, and we now have the reassembled amulet! But we still have the hardest test ahead of us.$B$BIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here."
+ },
+ {
+  "id": 8990,
+  "t": "The Right Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Isalien and slay her. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "It became known to us in later days, as we were doing what we could ourselves to survive, that Isalien, a night elf priestess of our company, had gone to the night elvic ancestral city, now known as Dire Maul. From what we gathered, she went there both for personal reasons and also to unlock the secrets of the piece of the amulet that she had in her possession.$B$BShe didn't quite make it, though. Word got back to us that she was ambushed at the Shrine of Eldretharr by Alzzin the Wildshaper and his forces.",
+  "p": "Surely you haven't already dealt with the salvation of Isalien's spirit and the retrieval of the right piece of Lord Valthalak's amulet, $N? Be sure to recombine the pieces of the amulet before handing it to me.",
+  "c": "Thank you, $N, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. And, we have the reassembled amulet, as well! But we still have the hardest test ahead of us.$B$BIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here."
+ },
+ {
+  "id": 8991,
+  "t": "The Right Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth Jarien and Sothos and slay them. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the right piece of Lord Valthalak's amulet with them. Good riddance, I say, but we need that piece back.$B$BFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.$B$BIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",
+  "p": "Does this mean then, $C, that you've already put the souls of those two fools to rest and recombined the pieces of Lord Valthalak's amulet?",
+  "c": "I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and now the amulet is reassembled! But we still have the hardest test ahead of us.$B$BIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here."
+ },
+ {
+  "id": 8992,
+  "t": "The Right Piece of Lord Valthalak's Amulet",
+  "o": "Use the Brazier of Beckoning to summon forth the spirit of Kormok and slay him. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",
+  "d": "Now we have what we need, so it's time to discuss who it is that you'll be summoning next.$B$BKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.$B$BBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",
+  "p": "I commend you, $N, if you have returned with the completed amulet. If not, however, please take care of that as there is no time to waste, I assure you!",
+  "c": "Good work, $N! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. And now we have the completed amulet! But we still have the hardest test ahead of us.$B$BIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here."
+ },
+ {
+  "id": 8993,
+  "t": "Gift Giving",
+  "o": "",
+  "d": "",
+  "p": "Have you come to deliver a present of love and adoration to your favorite leader?",
+  "c": ""
+ },
+ {
+  "id": 8994,
+  "t": "Final Preparations",
+  "o": "Gather 40 Blackrock Bracers and acquire a Flask of Supreme Power. Return them to Bodley inside Blackrock Mountain.",
+  "d": "We're nearly there, $c. All that is left is to retrieve a few more components so that I can attune the brazier and enable it to beckon forth Lord Valthalak.$B$BTo begin I must ask you to journey forth into Blackrock Spire and slay the orcs therein. They wear bracers that contain trace metals that I will need, so I'll need more than a few to extract the right amount out of them. Then, to complete the imbuing process, you'll need to bring me a Flask of Supreme Power.$B$BGood luck, $N!",
+  "p": "We've come a long way, $N, and I just wanted to say that no matter what happens, thank you! You've put yourself in mortal danger to try to help the surviving members of our mercenary company, The Veiled Blade, and as far as I'm concerned, you're one of us now.",
+  "c": "That's it then. I'll extract the metal from the bracers and imbue the brazier with these final components. Then it will be ready for you to summon Lord Valthalak, and finally return his spirit amulet to him.$B$BYou've come quite a distance, $N, don't falter now that the end is in sight!"
+ },
+ {
+  "id": 8995,
+  "t": "Mea Culpa, Lord Valthalak",
+  "o": "Use the Brazier of Beckoning to summon Lord Valthalak. Dispatch him, and use Lord Valthalak's Amulet on the corpse. Then, return Lord Valthalak's Amulet to the Spirit of Lord Valthalak.",
+  "d": "All is now ready, $N.$B$BWhen alive, Lord Valthalak used to inhabit what is now The Beast's chamber. Go there and use the Brazier of Beckoning to summon forth Lord Valthalak. It will reincorporate him, so he'll have to be killed again. I'd take care of The Beast first, and be sure take enough friends along to survive the upper portion of Blackrock Spire.$B$BOnce you've dispatched Valthalak, use the amulet on his corpse. With his spirit reunified, he'll likely want his amulet back, as well.$B$BGood luck!",
+  "p": "$C, you dare disturb my rest!",
+  "c": "How fortunate for you that I know you're not part of the original group that stole this from me.$B$BI'll take back what is mine now, mortal! Give the amulet to me!"
+ },
+ {
+  "id": 8996,
+  "t": "Return to Bodley",
+  "o": "Return to Bodley inside Blackrock Mountain and give him the Brazier of Beckoning.",
+  "d": "I will ignore your impertinence this time, $c, because you have done a noble thing today; returning the rest of my stolen spirit to me. Despite your obviously weak nature, $r, you have shown courage where those that stole from me did not, and probably never could!$B$BReturn to them, before I change my mind and slay you where you stand. Go back and tell them that they are safe... for now.",
+  "p": "$N, you're back and still alive! Well, at least that makes one of us.$B$BYou're going to have to tell me all about it!",
+  "c": "He really said all of that? Wow, I can't believe he's going to call off the spectral assassins and stalkers, even if he did hint at causing my living companions further harm in the future.$B$BThis is a great day, $N! You've accomplished what few ever could, and absolved us, at least in part, of some of our past sins.$B$BThank you! As a sign of appreciation, I'd like to give you this. You can use it to summon forth spirits at the same haunted locations that you already have, and a few others, too."
+ },
+ {
+  "id": 8997,
+  "t": "Back to the Beginning",
+  "o": "Speak with Deliana at The High Seat in Ironforge.",
+  "d": "I suppose that this is goodbye then, my friend. But, I'll always be here if you want to come back and talk with me from time to time. Probably while you're loitering around waiting for your buddies to join you for a raid on Blackrock Spire.$B$BGo, before I start to cry. Go back to Deliana in Ironforge and tell her what's happened.",
+  "p": "",
+  "c": "I am very happy to see you return to me safely, $N. You look well, if not a bit worse for the wear.$B$BCome, tell me of all that has transpired."
+ },
+ {
+  "id": 8998,
+  "t": "Back to the Beginning",
+  "o": "Speak with Mokvar at Grommash Hold in Orgrimmar's Valley of Wisdom.",
+  "d": "I suppose that this is goodbye then, my friend. But, I'll always be here if you want to come back and talk with me from time to time. Probably while you're loitering around waiting for your buddies to join you for a raid on Blackrock Spire.$B$BGo, before I start to cry. Go back to Mokvar in Orgrimmar and tell him what's happened.",
+  "p": "",
+  "c": "I am pleased to see that you have survived, $N. You look well, if not a bit more seasoned.$B$BCome, tell me of all that has transpired."
+ },
+ {
+  "id": 8999,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Wildheart Cowl and Wildheart Vest.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Wildheart pieces in exchange for your new Feralheart Cowl and Vest?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9000,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Beaststalker's Cap and Beaststalker's Tunic.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Beaststalker pieces in exchange for your new Beastmaster's Cap and Tunic?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9001,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Magister's Crown and Magister's Robes.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Magister's pieces in exchange for your new Sorcerer's Crown and Robes?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9002,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Lightforge Helm and Lightforge Breastplate.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Lightforge pieces in exchange for your new Soulforge Helmet and Breastplate?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9003,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Devout Crown and Devout Robe.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Devout pieces in exchange for your new Virtuous Crown and Robe?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9004,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Shadowcraft Cap and Shadowcraft Tunic.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Shadowcraft pieces in exchange for your new Darkmantle Cap and Tunic?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9005,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Dreadmist Mask and Dreadmist Robe.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Dreadmist pieces in exchange for your new Deathmist Mask and Robe?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9006,
+  "t": "Saving the Best for Last",
+  "o": "Give Deliana your Helm of Valor and Breastplate of Valor.",
+  "d": "That's an amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.$B$BAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "p": "As per our deal, are you ready to hand over your Valor pieces in exchange for your new Helm and Breastplate of Heroism?",
+  "c": "I'm going to miss you, $N. I owe you such a debt of gratitude; I think I'll never be able to repay it.$B$BI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come."
+ },
+ {
+  "id": 9007,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Wildheart Cowl and Wildheart Vest.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Wildheart pieces in exchange for your new Feralheart Cowl and Vest?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9008,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Beaststalker's Cap and Beaststalker's Tunic.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Beaststalker pieces in exchange for your new Beastmaster's Cap and Tunic?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9009,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Devout Crown and Devout Robe.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Devout pieces in exchange for your new Virtuous Crown and Robe?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9010,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Shadowcraft Cap and Shadowcraft Tunic.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Shadowcraft pieces in exchange for your new Darkmantle Cap and Tunic?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9011,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Coif of Elements and Vest of Elements.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Elements pieces in exchange for your new Coif and Vest of The Five Thunders",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9012,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Dreadmist Mask and Dreadmist Robe.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Dreadmist pieces in exchange for your new Deathmist Mask and Robe?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9013,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Helm of Valor and Breastplate of Valor.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Valor pieces in exchange for your new Helm and Breastplate of Heroism?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9014,
+  "t": "Saving the Best for Last",
+  "o": "Give Mokvar your Magister's Crown and Magister's Robes.",
+  "d": "A truly amazing story, $N! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.$B$BAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "p": "As per our deal, are you ready to hand over your Magister's pieces in exchange for your new Sorcerer's Crown and Robes?",
+  "c": "I will truly miss you, $N. There is a debt that I owe you, which I may never be able to repay.$B$BEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!"
+ },
+ {
+  "id": 9015,
+  "t": "The Challenge",
+  "o": "Travel to the Ring of the Law in Blackrock Depths and place the Banner of Provocation in its center as you are sentenced by High Justice Grimstone.  Slay Theldren and his gladiators and return to Anthion Harmon in the Eastern Plaguelands with the first piece of Lord Valthalak's amulet.",
+  "d": "Heed me well, $N.  For the banner to work in the desired way, you will need to step into the Ring of the Law in Blackrock Depths.  Allow yourself to be sentenced by High Justice Grimstone and place the banner firmly on the ground in a sign of defiance.$B$BYour victim will not be able to restrain himself and shall enter the fray filled with a desire to fight you.  Once you obtain that which you seek, go back to Anthion.",
+  "p": "You're back, $N!",
+  "c": "You've recovered part of the medallion, $N?"
+ },
+ {
+  "id": 9016,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Wildheart Boots, a Wildheart Kilt and Wildheart Spaulders.$B",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9017,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Beaststalker's Boots, Beaststalker's Pants and Beaststalker's Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9018,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Magister's Boots, Magister's Leggings and Magister's Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9019,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Devout Sandals, Devout Skirt and Devout Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9020,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of  Shadowcraft Boots, Shadowcraft Pants and Shadowcraft Spaulders.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9021,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Dreadmist Sandals, Dreadmist Leggings and Dreadmist Mantle.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N.  Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9022,
+  "t": "Anthion's Parting Words",
+  "o": "Return to Mokvar in Orgimmar with a set of Boots of Valor, Legplates of Valor and Spaulders of Valor.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the amulet back together.  Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces.  Speak to him about any rewards you've arranged for.$B$BI, for once, shall rest in peace.  I wish you the best of luck; you shall need every bit of it!",
+  "p": "You've returned and I see in your eyes that you've much to tell me, $N. Let us take care of your reward first.",
+  "c": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.$B$BWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward."
+ },
+ {
+  "id": 9023,
+  "t": "The Perfect Poison",
+  "o": "Dirk Thunderwood at Cenarion Hold wants you to bring him Venoxis's Venom Sac and Kurinnaxx's Venom Sac.",
+  "d": "My brother and I run the poison operations out of the manor Ravenholdt.$B$BLord Ravenholdt tasked me to track down a new and extremely effective poison compound that can be crafted from the venom sacs of the inhabitants of Zul'Gurub and the Ruins of Ahn'Qiraj.$B$BThere are two particularly venomous beasts residing in those blasted ruins that possess what it is that we might be looking for, $c. Bring me a venom sac from the beasts Kurinnaxx and Venoxis and we would be eternally grateful.",
+  "p": "This ain't no smash and grab job, $N. You're gonna need to bring friends.",
+  "c": "Ravenholdt thanks you, hero! Take your pick!"
+ },
+ {
+  "id": 9024,
+  "t": "Aristan's Hunch",
+  "o": "Bring 1 Cologne Bottle and 1 Perfume Bottle to Morgan Pestle in the Trade District of Stormwind.",
+  "d": "I've got it! Have you smelled the new fragrance on the wind? The new colognes and perfumes that have come into fashion? Our guards wouldn't neglect their duties so easily.$b$bThat is, unless their thinking has been clouded by some foul alchemy.$b$bThere is only one way to be sure - bring a bottle of cologne and perfume to Morgan Pestle, and tell him my suspicions. I will reimburse you for their purchase when you return.",
+  "p": "Something I can help you with?",
+  "c": "I understand Aristan's concerns, but I really think he's overreacting. Let young men and women do what they will. I think Aristan has forgotten what it means to be young and in love.$B$BBut it would be better not to tell him that. We'll humor him."
+ },
+ {
+  "id": 9025,
+  "t": "Morgan's Discovery",
+  "o": "Return to Aristan Mottar outside the bank in Stormwind's Trade District.",
+  "d": "Well, I'll be. It looks like Aristan might be on to something after all. I found traces of substances used in love potions and insidious mind-altering draughts.$b$bIt isn't unheard of for perfumes to have some of them, but a few of the ingredients I detected... Smells funny.",
+  "p": "",
+  "c": "While I thought this would be the case, finding out that my suspicions were correct is still unsettling. We must carefully consider our next move.$B$BHere, to repay you for the purchase of the cologne and perfume."
+ },
+ {
+  "id": 9026,
+  "t": "Tracing the Source",
+  "o": "Speak with Innkeeper Allison at The Gilded Rose in Stormwind's Trade District.",
+  "d": "We've got to find the source. I've seen a lot more people than usual - guards included - going in and out of The Gilded Rose. Talk to Allison. If she's selling them, she can tell you where they came from.",
+  "p": "",
+  "c": "Oh yes, I just got the perfume and cologne in stock recently. It's been selling so well, I don't know how long I can keep it on the shelves.$B$BIf you ask me, it's kind of boring. Everyone smelling the same? It smells great, but still."
+ },
+ {
+  "id": 9027,
+  "t": "Tracing the Source",
+  "o": "Speak with Evert Sorisam at The Finest Thread along Stormwind's Canals.",
+  "d": "Something funny about the cologne? It's possible. I've never seen so many people after one product like this.$b$bLook, if there's something wrong with it, I want to know, too. I bought my supply from a merchant named Evert Sorisam. He's new in town.$b$bHe mentioned he had some goods he was going to deliver to The Finest Thread.",
+  "p": "",
+  "c": "Yes, of course. Those fragrances are the hottest items this season. You must be the fifth or sixth person this hour to inquire about them.$B$BI'm afraid my supplies are all sold out. If you'd like some, you should speak with Allison, the innkeeper of The Gilded Rose.$B$BYou shouldn't waste any time, though. I think you'll find the perfume will be irresistible."
+ },
+ {
+  "id": 9028,
+  "t": "The Source Revealed",
+  "o": "Find Apothecary Staffron Lerent in the Hillsbrad Foothills behind Ravenholdt Manor.",
+  "d": "What? Treason? No, no. I assure you, my intentions are completely harmless.$b$bIs it so wrong to help those who wish to ease the painful ritual of courtship? Come, that is no crime.$b$bAnd to prove that I mean no harm, I will even tell you my source.$b$bThey were shipped to me by a Staffron Lerent, an apothecary of some sort. I never spoke with him.$b$bOur goblin middle man said that he worked in the foothills over Hillsbrad past that mysterious Ravenholdt Manor. I wish you luck in finding him.",
+  "p": "",
+  "c": "Yes, I made those fragrances. Wonderful smell, isn't it? Irresistible.$B$BOnce the warriors of Alliance and Horde alike are smitten with these feelings of love, they will be powerless to stop the rise of the Shadow Council.$B$BThey will be weakened, unprepared. As they worry for their loved ones, they will lose their edge.$B$BThe solution was so simple. Why did it take me so long to come upon it? The weakness of all is through the heart. And there is nothing you can do to stop the inevitable."
+ },
+ {
+  "id": 9029,
+  "t": "A Bubbling Cauldron",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "A pleasant smell wafts up from the cauldron."
+ },
+ {
+  "id": 9030,
+  "t": "Anthion's Parting Words",
+  "o": "Speak to Deliana in Ironforge.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.$B$BI, for once, shall rest in peace.  I wish you the best of luck, and you shall need it!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 9031,
+  "t": "<TXT>Anthion's Parting Words",
+  "o": "Speak to Mokvar in Orgrimmar.",
+  "d": "Valthalak's soul was stored in this amulet.  In our greed we foolishly split it into three parts, not knowing the curse that would await us.$B$BThe only way to stop Valthalak's spell is to put the medallion back together.  Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces.$B$BI, for once, shall rest in peace.  I wish you the best of luck, and you shall need it!",
+  "p": "",
+  "c": ""
+ }
+]

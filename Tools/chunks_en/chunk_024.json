@@ -1,0 +1,962 @@
+[
+ {
+  "id": 6846,
+  "t": "Begin the Attack!",
+  "o": "",
+  "d": "",
+  "p": "My troops are supplied and ready to assault.  We just need orders from Noreg Stormpike and I'll send them into the fray!",
+  "c": "Ah, the orders! They say I'm to assault at will, and my will says... now!"
+ },
+ {
+  "id": 6847,
+  "t": "Master Ryson's All Seeing Eye",
+  "o": "Recover Master Ryson's All Seeing Eye from the Winterax caves and return it to Master Ryson.$B$BBe warned, it is said that Master Ryson's All Seeing Eye carries with it a terrible curse!",
+  "d": "Your war in the heart of Alterac means nothing to the Syndicate, $c. We will do as we have always done: Wait until a clear victor rises from the ashes and rubble of this madness and then strike.$B$BThat, however, is not why we are here now. The All Seeing Eye has been lost - taken by the Winterax trolls of the region.$B$BRecover the Eye and our services shall be yours - for whatever time remains for your side.$B$BReturn to me once you acquire the eye so that I may examine you.$B$B<Master Ryson grins.>",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 6848,
+  "t": "Master Ryson's All Seeing Eye",
+  "o": "Recover Master Ryson's All Seeing Eye from the Winterax caves and return it to Master Ryson.$B$BBe warned, it is said that Master Ryson's All Seeing Eye carries with it a terrible curse!",
+  "d": "Your war in the heart of Alterac means nothing to the Syndicate, $c. We will do as we have always done: Wait until a clear victor rises from the ashes and rubble of this madness and then strike.$B$BThat, however, is not why we are here now. The All Seeing Eye has been lost - taken by the Winterax trolls of the region.$B$BRecover the Eye and our services shall be yours - for whatever time remains for your side.$B$BReturn to me once you acquire the eye so that I may examine you.$B$B<Master Ryson grins.>",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 6861,
+  "t": "Zinfizzlex's Portable Shredder Unit",
+  "o": "Master Engineer Zinfizzlex wants you to bring him the following:$B$B*30 Thorium Bars.$B$B*50 Mithril Bars.$B$B*75 Iron bars.$B$B*1 Steamsaw.$B",
+  "d": "I'm as anxious as you are to try out my portable shredder unit, $r, but before I can make the kit, I'm going to need materials - lots of materials!$B$BTo be exact, I'm going to need a mountain of thorium, mithril, and iron. I will also need one steamsaw per unit. You'll have to get those at the lumber mill.$B$BWhen I was nosing around in here (before my capture) I noticed a pile of steamsaws at the Stormpike lumber camp.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 6862,
+  "t": "Zinfizzlex's Portable Shredder Unit",
+  "o": "Master Engineer Zinfizzlex wants you to bring him the following:$B$B*30 Thorium Bars.$B$B*50 Mithril Bars.$B$B*75 Iron bars.$B$B*1 Steamsaw.$B",
+  "d": "I'm as anxious as you are to try out my portable shredder unit, $r, but before I can make the kit, I'm going to need materials - lots of materials!$B$BTo be exact, I'm going to need a mountain of thorium, mithril, and iron. I will also need one steamsaw per unit. You'll have to get those at the lumber mill.$B$BWhen I was nosing around in here (before my capture) I noticed a pile of steamsaws at the Frostwolf lumber camp.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 6881,
+  "t": "Ivus the Forest Lord",
+  "o": "",
+  "d": "",
+  "p": "The Frostwolf Clan is protected by a taint of elemental energy. Their shaman meddle in powers that will surely destroy us all if left unchecked.$b$bThe damage has grown too great for the Circle to control! Ivus must be called to our aid.$b$bThe Frostwolf soldiers carry elemental charms called storm crystals. We can use the charms to conjure Ivus. Venture forth and claim the crystals, $n!",
+  "c": "Well done, $N. I will use the power of this charm to augment the magic that has already been gathered. When enough power has been amassed, I shall focus the collected energies and call upon the Forest Lord to aid our cause."
+ },
+ {
+  "id": 6901,
+  "t": "Launch the Attack!",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It's about time! Now we can show the Alliance their folly in coming to Alterac Valley!"
+ },
+ {
+  "id": 6921,
+  "t": "Amongst the Ruins",
+  "o": "Bring the Fathom Core to Je'neu Sancrea at Zoram'gar Outpost, Ashenvale.",
+  "d": "The Twilight's Hammer has moved into the Moonshrine Ruins of Blackfathom Deeps.  Their presence can only serve to coerce the elements into working against us.  If left unchecked, this region will be theirs for good.$B$B$N, go into Blackfathom and find the ruin's fathom stone; it should be somewhere close in the water.  In it is a fathom core - a device that when properly read it will relate a history of all elemental activity.  If I have it, I and the Earthen Ring can maybe do something to stop them!",
+  "p": "Have you been successful in locating the fathom core?  Without it we'll have no idea what the Twilight's Hammer is exactly up to down there.",
+  "c": "This is exactly what I need! A fathom core is an incredible well of information that we will be able to draw much good from. Whatever the Twilight's Hammer is up to in there - and believe me when I say it is no good - my comrades and I will now uncover.$b$bYou've done well here today; the Earthen Ring looks upon you warmly for assisting us. You've also helped the Horde as a whole, and for that you should be proud."
+ },
+ {
+  "id": 6922,
+  "t": "Baron Aquanis",
+  "o": "Bring the Strange Water Globe to Je'neu Sancrea at Zoram'gar Outpost, Ashenvale.",
+  "d": "The defeated water elemental has left behind a strange water globe.  You surmise that the object somehow fed the beast energy.  Inside the globe, a putrid-looking form of water sloshes about.  The globe itself seems impervious to any sort of physical force.$B$BIf anyone can make any sense of this item, it would be Je'neu Sancrea of the Earthen Ring.  He is located at the Horde's Zoram'gar Outpost in Ashenvale.",
+  "p": "Ah, hello again $N.  I was just reading the waves the sea, much like I always do.  What brings you to the outpost?",
+  "c": "This... this is quite the find, $N.$B$BYou acquired this from Baron Aquanis in Blackfathom, you say?  Baron Aquanis has long been thought of as a corrupted elemental power; this globe will prove what exactly had corrupted him.  While it would be no surprise if it turned out to be the Twilight's Hammer, our studies will also show how they did it as well.$B$BYou did well in bringing this to me.  Please - take this, along with the Earthen Ring's warmest regards."
+ },
+ {
+  "id": 6941,
+  "t": "Call of Air - Vipore's Fleet",
+  "o": "",
+  "d": "",
+  "p": "The elite Frostwolf units that guard the lines must be dealt with, soldier! I'm tasking you with thinning out that herd of savages. Return to me with medals from their lieutenants and legionnaires. When I feel that enough of the riff-raff has been dealt with, I'll deploy the air strike.",
+  "c": "The flight will be ready soon. Continue your efforts!"
+ },
+ {
+  "id": 6942,
+  "t": "Call of Air - Slidore's Fleet",
+  "o": "",
+  "d": "",
+  "p": "My gryphons are poised to strike at the front lines but cannot make the attack until the lines are thinned out.$b$bThe Frostwolf warriors charged with holding the front lines wear medals of service proudly upon their chests. Rip those medals off their rotten corpses and bring them back here.$b$bOnce the front line is sufficiently thinned out, I will make the call to air! Death from above!",
+  "c": "Keep em coming, soldier! The Aerie gryphons will be ready to strike in no time at all!"
+ },
+ {
+  "id": 6943,
+  "t": "Call of Air - Ichman's Fleet",
+  "o": "",
+  "d": "",
+  "p": "Their spirits are low, soldier. After our last failed air strike against the Horde, they refuse to fly! It is up to you to bolster their morale.$B$BReturn to the battlefield and strike at the heart of the Frostwolf's command. Take down their commanders and guardians. Return to me with as many of their medals as you can stuff in your pack! I promise you, when my gryphons see the bounty and smell the blood of our enemies, they will fly again! Go now!",
+  "c": "Can you see it? Look at them, soldier! They're coming around... Soon, Ichman's flight will once again strike at the heart of the valley! Stormpike will rule the skies!"
+ },
+ {
+  "id": 6961,
+  "t": "Great-father Winter is Here!",
+  "o": "Speak with Greatfather Winter; he is located near the Smokywood Pastures vendor area in Orgrimmar.",
+  "d": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!$B$BAlso, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "p": "",
+  "c": "Ho ho hello.  I am Greatfather Winter, and I - courtesy of the fine folks of Smokywood Pastures... \"Fresh from our farm to your plate, it's Smokywood Pastures wholesome goodness\" - would like to wish you a fantastic Feast of Winter Veil.$B$BIf you've been good this year, maybe you will receive treats from Smokywood Pastures as your treat for the Feast of Winter Veil.  Huzzah."
+ },
+ {
+  "id": 6962,
+  "t": "Treats for Great-father Winter",
+  "o": "Bring 5 Gingerbread Cookies and an Ice Cold Milk to Greatfather Winter in Orgrimmar.",
+  "d": "Hey, can you do Greatfather Winter a favor, um, little $g boy : girl;?$B$BNot to needlessly talk about myself in the third person, but Greatfather Winter has been at this all day and he could use a treat himself.  Some gingerbread cookies and ice cold milk to wash them down with would really hit the spot.  Think you could be a friend to the Greatfather and fetch some for me?",
+  "p": "All this talk of treats has given me a hankering for some myself.  Mmmm... gingerbread cookies and milk...",
+  "c": "You're quite the helper to ol' Greatfather Winter there, $N.  Have a great Feast of Winter Veil.$B$BHere's a little something... you know, for the effort."
+ },
+ {
+  "id": 6963,
+  "t": "Stolen Winter Veil Treats",
+  "o": "Locate the Smokywood Pastures investigator that has gone missing in the snowy regions of the Alterac Mountains.",
+  "d": "Listen... not to shatter the magic of the season here, but Smokywood Pastures could use some assistance - the kind you adventuring types are known to give.$B$BWe're missing an important shipment of treats that was restocking us for the season, and now we're missing the agent of Smokywood Pastures that we sent out to the field to find it!  Please - the shipment was last reported in the Alterac Mountains, and that's where our man went to look for it.$B$BSee if both are out there, safe and sound!",
+  "p": "",
+  "c": "Y-y-you can h-h-hear me!  Thank the b-b-bottom line!$B$BI'm not really a s-s-snowman - my n-n-name is Sacks, and I w-w-work for the Orgrimmar b-b-branch of Smokywood Pastures... I g-g-got sent out here to look for a m-m-missing package, when I was attacked by a c-c-creature I have never seen b-b-before!$B$BSo v-v-very cold..."
+ },
+ {
+  "id": 6964,
+  "t": "The Reason for the Season",
+  "o": "Speak with Sagorne Creststrider in the Valley of Wisdom of Orgrimmar about the Feast of Winter Veil.",
+  "d": "Gifts, treats, presents... bah, I say!$B$BThose goblins pollute the true meaning of this season - the Feast of Winter Veil.  This is a time of renewal; the land slumbers under a blanket of snow brought forth by Greatfather Winter, who is NOT the bumbling fool over there in the red suit!$B$BIf you're interested in learning what the Feast is all about for yourself, ask Sagorne Creststrider.  I'm sure he'll be surprised that someone cares about history rather than getting presents.",
+  "p": "",
+  "c": "The Feast of Winter Veil, you say?  Alas, in times past it held a more substantial meaning to us tauren.  Nowadays, it seems as though others have turned the legend of this season of renewal into something that helps to sell candies and presents.$B$BIt's no surprise that Furmund is bitter about that sort of change.  He and other tauren like him cling to our past like a banner of war.  While I think a little celebration is always good, it is important to remember the origins of the Feast."
+ },
+ {
+  "id": 6981,
+  "t": "The Glowing Shard",
+  "o": "Travel to Ratchet to find someone that can tell you more about the glowing shard.$B$BThen, deliver the shard as you are directed.",
+  "d": "The shard is a brilliant green, and although solid, what looks like smoke swirls just below the surface. You can't help staring into the depths of the crystal; at the same time, you know there is something very disturbing about it.$B$BMaybe you should see if anyone in Ratchet can tell you more about this strange shard.",
+  "p": "Hello, $R. What can I do for you?",
+  "c": "Oh... I have never seen anything like this..."
+ },
+ {
+  "id": 6982,
+  "t": "Coldtooth Supplies",
+  "o": "Bring 10 Coldtooth Supplies to the Alliance Quartermaster in Dun Baldar.",
+  "d": "The Coldtooth mine is a storage depot for the Horde.  I can't stomach the food they give their troops, and the state of their arms and armor is atrocious!  But... in times like these when supplies are so important, we can use what they have.$B$BEnter the Coldtooth mine and bring me back their supplies.  That will help keep the Alliance in fighting shape, and remove much needed equipment from the Horde's warriors.$B$BGood luck, $N.  The mine is to the distant south, deep in Horde territory.",
+  "p": "Have you been to the Coldtooth mine, $N? Do you have the supplies I asked for?",
+  "c": "Ah, you got them. Good work, $N! These supplies are a little musty from sitting in that dark mine for so long, but we'll make use of them nonetheless.$B$BThank you, $N. Your deeds are vital to the maintenance of our fighting forces."
+ },
+ {
+  "id": 6983,
+  "t": "You're a Mean One...",
+  "o": "Locate and return the Stolen Treats to Kaymard Copperpinch in Orgrimmar.  It was last thought to be in the possession of the Abominable Greench, found somewhere in the snowy regions of the Alterac Mountains.",
+  "d": "A c-c-creature called \"The Abominable Greench\" is the one w-w-who stole our shipment of t-t-treats, $N.  Be c-c-careful though!  He is t-t-the one who turned me into this s-s-snowy mess!$B$BYou're g-g-gonna need some help in f-f-facing him.  I've seen him w-w-wander all around where the y-y-yeti are; he's s-s-surely here s-s-somewhere!  F-f-find the treats $N, take them b-b-back to Smokywood Pastures in Orgrimmar, and t-t-tell them I n-n-need to be unfrozen!",
+  "p": "$N - our Feast of Winter Veil will be ruined without those treats to restock!  Graccu himself will miss out on sharing his delicious meat pies with all the good boys and girls this season...",
+  "c": "You found it!  You've saved Smokywood Pasture's Feast of Winter Veil!$B$BPoor Sacks... we'll be sure to send a team out there and figure out a way to unfreeze him.  Hopefully, he'll be back in time for the day of the Feast; he'll need to make up missed time working though.  Still, this wouldn't even be possible if it weren't for you!"
+ },
+ {
+  "id": 6984,
+  "t": "A Smokywood Pastures' Thank You!",
+  "o": "Speak with Great-father Winter in Orgrimmar.",
+  "d": "We at Smokywood Pastures appreciate the recovery of the stolen treats, $N.  For that, we'd like to offer you a special gift... presented by none other than Great-father Winter himself!$B$BPlease, speak with Great-father Winter, and he will give you your Feast of Winter Veil gift from us here at Smokywood Pastures.  From our farm to your plate, it's always Smokywood Pastures wholesome goodness... thanks to you, of course!",
+  "p": "",
+  "c": "Ho ho hello, adventurer!$B$BThe goblins told me that you have earned a special gift this holiday season, and I am pleased to give it to you.  Here you go - have a wondrous Feast of Winter Veil this and every season in the future."
+ },
+ {
+  "id": 6985,
+  "t": "Irondeep Supplies",
+  "o": "Bring 10 Irondeep Supplies to the Horde Quartermaster in Frostwolf Keep.",
+  "d": "The Stormpike dwarves are using the Irondeep mine as a storage depot.  I want you to raid that mine and bring me its supplies.  This will curtail the Stormpikes' efforts in Alterac Valley, and will provide us with needed equipment!$B$BBe wary, $N.  The Irondeep mine is deep in Alliance territory, and control of the mine is as shifting as the snows of Alterac.",
+  "p": "Did you enter the Irondeep mine, $N? Did you raid its supplies?",
+  "c": "You got them! Nicely done, $N! And I hope you saw a few dwarves during your raid, and shed their blood for the Frostwolves!"
+ },
+ {
+  "id": 7001,
+  "t": "Empty Stables",
+  "o": "Locate a Frostwolf in Alterac Valley. Use the Frostwolf Muzzle when you are near the Frostwolf to 'tame' the beast. Once tamed, the Frostwolf will follow you back to the Frostwolf Stable Master. Speak with the Frostwolf Stable Master to earn credit for the capture.",
+  "d": "The war in the valley has taken its toll on our soldiers. We must revitalize our forces!$B$BIf we can fill up the stables, the Wolf Riders will once more be able to ride out into the field of battle.$B$BTake this muzzle and track down the frostwolves that inhabit the nearby forest. Once you find a wolf, use the muzzle to tame the beast. Bring the tamed beast back to me so that I may place it in the stable.$B$BWhen we have enough wolves stabled, the Wolf Riders will rejoin their patrol on our front lines.",
+  "p": "Without your help, the Frostwolf Wolf Riders would not have mounts to ride into battle. You do us a great service!",
+  "c": "I can only hope that those charged with collecting ram hides are as determined as you, $N.$B$BAt this rate, we will have the stables full in a matter of hours!"
+ },
+ {
+  "id": 7002,
+  "t": "Ram Hide Harnesses",
+  "o": "",
+  "d": "",
+  "p": "While some of our soldiers are busy capturing wolves for the stable master, others must provide for the simple necessities that riding requires. I am speaking of riding harnesses, of course.$B$BYou must strike at the indigenous rams of the region. The very same rams that the Stormpike cavalry uses as mounts!$B$BSlay them and return to me with their hides. Once we have gathered enough hides, we will fashion harnesses for the riders. The Frostwolf Wolf Riders will ride once more!",
+  "c": "Well done, soldier. I will notify you when I have stockpiled enough of the hides.$B$BCarry on!"
+ },
+ {
+  "id": 7003,
+  "t": "Zapped Giants",
+  "o": "Use Zorbin's Ultra-Shrinker to zap any kind of giant found in Feralas into a more manageable form.  Bring 15 Miniaturization Residues found on the zapped versions of these giants to Zorbin Fandazzle at the docks of the Forgotten Coast, Feralas.",
+  "d": "I'm going to have to do something about the giants if I stay out here!  They're certainly not good for business, now are they?$B$BI've been working on a variant of a gnomish shrinking ray, but I'm using superior GOBLIN technological advances in its construction!  In an effort to avoid inconveniences for myself such as death, I'd like for you to try it out on any of the giants in Feralas.  You should find miniaturization residue on them after you shrink them - bring me back some!",
+  "p": "Miniaturization residue, I assure you, is a valuable commodity when it comes to engineering!  Well, it is valuable in that it helps me make sure the zapper won't do something as disappointing as explode on the user.$B$BOh, I mean for the zappers other than the one I gave you.  Absolutely!",
+  "c": "Splendifimous!  Not only am I glad to see that you've returned with the residue, but also with all your major appendages intact!  That is, well, there was never any danger in using the Ultra-Shrinker, now was there!$B$BI do appreciate your effort on my behalf, $N.  Truly, you are a friend to goblins everywhere.  Accept this as a token of my appreciation!"
+ },
+ {
+  "id": 7021,
+  "t": "Great-father Winter is Here!",
+  "o": "Speak with Greatfather Winter; he is located near the Smokywood Pastures vendor area in Orgrimmar.",
+  "d": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter, who's currently in Orgrimmar!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!$B$BAlso, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "p": "",
+  "c": "Ho ho hello. I am Greatfather Winter, and I - courtesy of the fine folks of Smokywood Pastures... \"Fresh from our farm to your plate, it's Smokywood Pastures wholesome goodness\" - would like to wish you a fantastic Feast of Winter Veil.$B$BIf you've been good this year, maybe you will receive treats from Smokywood Pastures as your treat for the Feast of Winter Veil. Huzzah."
+ },
+ {
+  "id": 7022,
+  "t": "Greatfather Winter is Here!",
+  "o": "Speak with Greatfather Winter; he is located near the Smokywood Pastures vendor area in Ironforge.",
+  "d": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!$B$BAlso, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "p": "",
+  "c": "Ho ho hello. I am Greatfather Winter, and I - courtesy of the fine folks of Smokywood Pastures... \"Fresh from our farm to your plate, it's Smokywood Pastures wholesome goodness\" - would like to wish you a fantastic Feast of Winter Veil.$B$BIf you've been good this year, maybe you will receive treats from Smokywood Pastures as your treat for the Feast of Winter Veil. Huzzah."
+ },
+ {
+  "id": 7023,
+  "t": "Greatfather Winter is Here!",
+  "o": "Speak with Greatfather Winter; he is located near the Smokywood Pastures vendor area in Ironforge.",
+  "d": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter, who's currently in Ironforge!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!$B$BAlso, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "p": "",
+  "c": "Ho ho hello.  I am Greatfather Winter, and I - courtesy of the fine folks of Smokywood Pastures... \"Fresh from our farm to your plate, it's Smokywood Pastures wholesome goodness\" - would like to wish you a fantastic Feast of Winter Veil.$B$BIf you've been good this year, maybe you will receive treats from Smokywood Pastures as your treat for the Feast of Winter Veil.  Huzzah."
+ },
+ {
+  "id": 7024,
+  "t": "Great-father Winter is Here!",
+  "o": "Speak with Greatfather Winter; he is located near the Smokywood Pastures vendor area in Orgrimmar.",
+  "d": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter, who's currently in Orgrimmar!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!$B$BAlso, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "p": "",
+  "c": "Ho ho hello. I am Greatfather Winter, and I - courtesy of the fine folks of Smokywood Pastures... \"Fresh from our farm to your plate, it's Smokywood Pastures wholesome goodness\" - would like to wish you a fantastic Feast of Winter Veil.$B$BIf you've been good this year, maybe you will receive treats from Smokywood Pastures as your treat for the Feast of Winter Veil. Huzzah."
+ },
+ {
+  "id": 7025,
+  "t": "Treats for Greatfather Winter",
+  "o": "Bring 5 Gingerbread Cookies and an Ice Cold Milk to Greatfather Winter in Ironforge.",
+  "d": "Hey, can you do Greatfather Winter a favor, um, little $g boy : girl;?$B$BNot to needlessly talk about myself in the third person, but Greatfather Winter has been at this all day and he could use a treat himself.  Some gingerbread cookies and ice cold milk to wash them down with would really hit the spot.  Think you could be a friend to the Greatfather and fetch some for me?",
+  "p": "All this talk of treats has given me a hankering for some myself.  Mmmm... gingerbread cookies and milk...",
+  "c": "You're quite the helper to ol' Greatfather Winter there, $N.  Have a great Feast of Winter Veil.$B$BHere's a little something... you know, for the effort."
+ },
+ {
+  "id": 7026,
+  "t": "Ram Riding Harnesses",
+  "o": "",
+  "d": "",
+  "p": "The Stormpike Brigade cannot charge into battle bareback! We require harnesses for our mounts, after all, we are not savages.$B$BWhile we could easily slay the rams that roam near our base for the leather required to fashion a harness, doing so would be idiotic. We need those rams for mounts.$B$BYou must strike at our enemy's base, slaying the frostwolves they use as mounts and taking their hides. Return their hides to me so that harnesses may be made for the cavalry. Go!",
+  "c": "Well done, soldier. I will notify you when I have stockpiled enough of the hides.$B$BCarry on!"
+ },
+ {
+  "id": 7027,
+  "t": "Empty Stables",
+  "o": "Locate an Alterac Ram in Alterac Valley. Use the Stormpike Training Collar when you are near the Alterac Ram to 'tame' the beast. Once tamed, the Alterac Ram will follow you back to the Stable Master. Speak with the Stable Master to earn credit for the capture.$B",
+  "d": "Just look at the stables, $N! Empty! The Stormpike Brigade has no rams to ride - the cavalry is defunct.$B$BYou must help us, soldier. Take this training collar and enter the wilds of this valley. Locate the Alterac rams that roam throughout the area and use the collar to snare one. When you have captured a ram, return it to me and I shall place it in our stable.$B$BWhen we have enough rams, the ram rider commander will be notifed. With your help, the cavalry will be reborn!",
+  "p": "Without your help, the Stormpike Ram Riders would not have mounts to ride into battle. You do us a great service!",
+  "c": "The stables will be full in no time at all. Keep up the good work!"
+ },
+ {
+  "id": 7029,
+  "t": "Vyletongue Corruption",
+  "o": "Fill the Coated Cerulean Vial at the orange crystal pool in Maraudon.$B$BUse the Filled Cerulean Vial on the Vylestem Vines to force the corrupted Noxxious Scion to emerge.$B$BHeal 8 plants by killing these Noxxious Scion, then return to Vark Battlescar in Shadowprey Village.",
+  "d": "A satyr known as Vyletongue has corrupted the caverns of Maraudon, stunting the growth of many of the plants inside.$B$BTake this vial, $N. Fill it at the orange crystal pool found inside the caverns; the coating inside the vial will counter the toxins, turning it into a healing agent.$B$BFind the Vylestem vines inside the orange caverns, and use the purified liquid on them. The corruption will be purged from the plant, but do know that Vyletongue will still control it. He may use it against you...",
+  "p": "If you are able to heal the plant, it will again begin to grow. We must do what we can, $N...",
+  "c": "Thank you for returning this, $N. With the remaining liquid you brought me, I can continue my studies.$b$bWhile there is still much to do, you have helped to heal some of the corruption that Vyletongue spread through Maraudon. Please take this with my gratitude."
+ },
+ {
+  "id": 7041,
+  "t": "Vyletongue Corruption",
+  "o": "Fill the Coated Cerulean Vial at the orange crystal pool in Maraudon.$B$BUse the Filled Cerulean Vial on the Vylestem Vines to force the corrupted Noxxious Scion to emerge.$B$BHeal 8 plants by killing these Noxxious Scion, then return to Talendria in Nijel's Point.",
+  "d": "A satyr known as Vyletongue has corrupted the caverns of Maraudon, stunting the growth of many of the plants inside.$B$BTake this vial, $N. Fill it at the corrupted orange pool found inside the caverns; the coating inside the vial will counter the toxins, turning it into a healing agent.$B$BFind the Vylestem vines inside the orange caverns, and use the purified liquid on them. The corruption will be purged from the plant, but do know that Vyletongue will still control it. He may use it against you...",
+  "p": "If you are able to heal the plant, it will again begin to grow. We must do what we can, $N...",
+  "c": "Thank you for returning this, $N. With the remaining liquid you brought me, I can continue my studies.$b$bWhile there is still much to do, you have helped to heal some of the corruption that Vyletongue spread through Maraudon. Please take this with my gratitude."
+ },
+ {
+  "id": 7042,
+  "t": "Stolen Winter Veil Treats",
+  "o": "Locate the Smokywood Pastures investigator that has gone missing in the snowy regions of the Alterac Mountains.",
+  "d": "Listen... not to shatter the magic of the season here, but Smokywood Pastures could use some assistance - the kind you adventuring types are known to give.$B$BWe're missing an important shipment of treats that was restocking us for the season, and now we're missing the agent of Smokywood Pastures that we sent out to the field to find it!  Please - the shipment was last reported in the Alterac Mountains, and that's where our man went to look for it.$B$BSee if both are out there, safe and sound!",
+  "p": "",
+  "c": "Y-y-you can h-h-hear me! Thank the b-b-bottom line!$b$bI'm not really a s-s-snowman - my n-n-name is Sacks, and I w-w-work for the Ironforge b-b-branch of Smokywood Pastures... I g-g-got sent out here to look for a m-m-missing package, when I was attacked by a c-c-creature I have never seen b-b-before!$b$bSo v-v-very cold..."
+ },
+ {
+  "id": 7043,
+  "t": "You're a Mean One...",
+  "o": "Locate and return the Stolen Treats to Wulmort Jinglepocket in Ironforge.  It was last thought to be in the possession of the Abominable Greench, found somewhere in the snowy regions of the Alterac Mountains.$B",
+  "d": "A c-c-creature called \"The Abominable Greench\" is the one w-w-who stole our shipment of t-t-treats, $N.  Be c-c-careful though!  He is t-t-the one who turned me into this s-s-snowy mess!$B$BYou're g-g-gonna need some help in f-f-facing him.  I've seen him w-w-wander all around where the y-y-yeti are; he's s-s-surely here s-s-somewhere!  F-f-find the treats $N, take them b-b-back to Smokywood Pastures in Ironforge, and t-t-tell them I n-n-need to be unfrozen!",
+  "p": "$N - our Feast of Winter Veil will be ruined without those treats to restock!  Graccu himself will miss out on sharing his delicious meat pies with all the good boys and girls this season...",
+  "c": "You found it!  You've saved Smokywood Pasture's Feast of Winter Veil!$B$BPoor Sacks... we'll be sure to send a team out there and figure out a way to unfreeze him.  Hopefully, he'll be back in time for the day of the Feast; he'll need to make up missed time working though.  Still, this wouldn't even be possible if it weren't for you!"
+ },
+ {
+  "id": 7044,
+  "t": "Legends of Maraudon",
+  "o": "Recover the two parts of the Scepter of Celebras: the Celebrian Rod and the Celebrian Diamond.$B$BFind a way to speak with Celebras.",
+  "d": "A dark satyr called Lord Vyletongue spread his evil through these twisting caves, poisoning the minds of all inside. He still resides beyond the purple crystals.$B$BVyletongue also created a living symbol of his corruption called Noxxion that dwells beyond the orange crystals. Together, they have stolen the two parts of my brother's scepter. Celebras, my brother... he wanders blindly inside, cursed by corruption.$B$BYou must help him! Find the pieces, and speak to my brother... somehow.",
+  "p": "I have awoken from a nightmare that seemed it would never end...",
+  "c": "Now that you have recovered the two parts of my scepter, I have hope that Maraudon may one day be rid of the Vyle corruption."
+ },
+ {
+  "id": 7045,
+  "t": "A Smokywood Pastures' Thank You!",
+  "o": "Speak with Greatfather Winter in Ironforge.",
+  "d": "We at Smokywood Pastures appreciate the recovery of the stolen treats, $N.  For that, we'd like to offer you a special gift... presented by none other than Greatfather Winter himself!$B$BPlease, speak with Greatfather Winter, and he will give you your Feast of Winter Veil gift from us here at Smokywood Pastures.  From our farm to your plate, it's always Smokywood Pastures wholesome goodness... thanks to you, of course!",
+  "p": "",
+  "c": "Ho ho hello, adventurer!$b$bThe goblins told me that you have earned a special gift this holiday season, and I am pleased to give it to you. Here you go - have a wondrous Feast of Winter Veil this and every season in the future."
+ },
+ {
+  "id": 7046,
+  "t": "The Scepter of Celebras",
+  "o": "Assist Celebras the Redeemed while he creates the Scepter of Celebras.$B$BSpeak with him when the ritual is complete.",
+  "d": "My scepter was once a source of hope for me. It once granted me power over these caverns. I had hoped to bring peace to the spirit of my uncle...$B$BFor the two parts to once again become one, I will need your assistance in performing the ritual. Please follow me, and listen to my instructions while I channel the energy required to reunite the rod with the diamond.$B$BTogether, we shall create the Scepter of Celebras once again!",
+  "p": "If you wish to restart the ritual, please abandon our first attempt and then speak to me again.",
+  "c": "Please take this, and know that the power allotted to you now must be used for good. Continue your journey through the caverns, and with hope, you will find the remains of my uncle. Much danger awaits you, $N.$B$BSpeak with me again should the need arise."
+ },
+ {
+  "id": 7061,
+  "t": "The Feast of Winter Veil",
+  "o": "Feel free to read the book, \"The Feast of Winter Veil\", to learn more about the holiday.  When you are finished with the book, deliver it to Cairne Bloodhoof in Thunder Bluff.",
+  "d": "Here - if you are interested in learning more about the Feast of Winter Veil, read this book.  While I think our recognition of the legend is the appropriate one, I'm enough of a student of legends to appreciate the collection of all information into a single source.$B$BWhen you're done, take the book to Cairne Bloodhoof in Thunder Bluff.  I know for a fact he'd be interested in hearing that others have taken an interest in the lore of our people.  ",
+  "p": "I bid you welcome to Mulgore and our humble community of Thunder Bluff, friend.  I always take an interest in those who choose to take an interest in the kingdom, its people, and its lore.  Is this why you are standing before me?",
+  "c": "The legends and lore surrounding the Winter Veil are ones that have faded from the forefront of public though over the years.  Yes, I know that the goblins are helping to revive the season for their own ends, the fact that our people reflect upon it at least in some form does good to keep such lore alive.$B$BYour desire to go beyond the material and learn about our past is an admirable trait, young $c.  I salute your wisdom."
+ },
+ {
+  "id": 7062,
+  "t": "The Reason for the Season",
+  "o": "Speak with Historian Karnik at the Explorer's League in Ironforge about the Feast of Winter Veil.",
+  "d": "Gifts, treats, presents... bah, I say!$B$BThose goblins pollute the true meaning of this season - the Feast of Winter Veil.  This is a time of renewal; the land slumbers under a blanket of snow brought forth by Greatfather Winter, who is NOT the bumbling fool over there in the red suit!$B$BIf you're interested in learning what the Feast is all about for yourself, ask Historian Karnik at the Explorer's League.  I'm sure he'll be surprised that someone cares about history rather than getting presents.",
+  "p": "",
+  "c": "The Feast of Winter Veil, you say?  Alas, in times past it held a more substantial meaning to us dwarves.  Nowadays, it seems as though others have turned the legend of Greatfather Winter into something that helps to sell candies and presents.$B$BIt's no surprise that Goli is bitter about that sort of change.  He and other dwarves like him cling to our past like a banner of war.  While I think a little celebration is always good, it is important to remember the origins of the Feast."
+ },
+ {
+  "id": 7063,
+  "t": "The Feast of Winter Veil",
+  "o": "Feel free to read the book, \"The Feast of Winter Veil\", to learn more about the holiday.  When you are finished with the book, deliver it to King Magni Bronzebeard in Ironforge.",
+  "d": "Here - if you are interested in learning more about the Feast of Winter Veil, read this book.  While I think our recognition of the legend is the appropriate one, I'm enough of a scholar to appreciate the collection of all information into a single source.$B$BWhen you're done, take the book to King Magni Bronzebeard.  I know for a fact he'd be interested in hearing that others have taken an interest in the older legends.  ",
+  "p": "I bid you welcome to the Kingdom of Ironforge, friend.  I always take an interest in those who choose to take an interest in the kingdom, its people, and its lore.  Is this why you are standing before me?",
+  "c": "The legends and lore surrounding the Winter Veil are ones that have faded from the forefront of public thought over the years.  While I recognize that the goblins are helping to revive the season for their own ends, the fact that the citizenry thinks about it at least in some form does good to keep such lore alive.$B$BYour desire to go beyond the material and learn about our past is an admirable trait, young $c.  I salute your erudite nature."
+ },
+ {
+  "id": 7064,
+  "t": "Corruption of Earth and Seed",
+  "o": "Slay Princess Theradras and return to Selendra near Shadowprey Village in Desolace.",
+  "d": "Deep in Maraudon lives an evil creature of chaos--Princess Theradras is an elemental force of earth related to the Old Gods. Ages ago, she and Zaetar, first son of Cenarius, began a relationship. The offspring of their time together became known to the people of Kalimdor as centaur. Ever-thankful creatures, the centaur killed Zaetar, and now hold Zaetar's remains. My quest here is to find those powerful enough to slay Theradras so we may recover Zaetar's remains before returning to Stonetalon.",
+  "p": "I would prefer to fight this battle on our own, but we are left with no other options--we need those more powerful, and the races of Azeroth have proven without a doubt they can overcome such things when they work together. So it is to you we turn for help.$B$BI only hope it is enough.$B$BZaetar, brother to Remulos, brought many pains to this world, and ultimately it caused his own death. I just hope I have not caused more death by asking you to aid us.",
+  "c": "This is most wonderful news, $N! Thank you!$b$bI will speak with Marandis and ask his wisdom on the topic of Zaetar's remains, but at least you have overcome the hardest of the tasks.$b$bI was told that if we were successful in our mission, I had permission to reward those who aided us. I was given these items as tokens from our people--you may choose one."
+ },
+ {
+  "id": 7065,
+  "t": "Corruption of Earth and Seed",
+  "o": "Slay Princess Theradras and return to Keeper Marandis at Nijel's Point in Desolace.",
+  "d": "In the depths of Maraudon lives a creature of chaos and evil, $N. Princess Theradras is an elemental force of earth related somehow to the Old Gods. Ages ago, she was sought out by Zaetar, first son of Cenarius. The offspring of their... relationship are the creatures known as centaur. Ever-thankful creatures, the centaur killed Zaetar, and now Theradras keeps his remains. My quest here is to find those powerful enough to slay Theradras so we may recover Zaetar's remains before returning to Stonetalon.",
+  "p": "I feel the weight of imposing my plea on the mortal races, but we are left with no other options. The races of Azeroth have proven without a doubt they can overcome such things when they work together, so it is to them I ask for help.$B$BI only hope it is enough.$B$BZaetar, brother to Remulos, brought many pains to this world, and ultimately it caused his own death. There is a lesson there to all of us if we are wise enough to see it.",
+  "c": "This is most wonderful news, $N! Thank you!$B$BAlthough it concerns me that you were not able to bring back Zaetar's remains, who am I to question the will of Cenarius' first born. Perhaps now the will of the centaur will break and their thirst for blood will lesson--we can only hope.$B$BIf successful in our mission, I was given these items to reward any who aided us. You may choose one as a token of thanks."
+ },
+ {
+  "id": 7067,
+  "t": "The Pariah's Instructions",
+  "o": "Read the Pariah's Instructions. Afterwards, obtain the Amulet of Union from Maraudon and return it to the Centaur Pariah in southern Desolace.",
+  "d": "Though exiled as a heretic, my beliefs still ring true--that alone drives me onward. But for my destiny to be complete, I need the aid of an outsider... one not of any centaur tribe.$B$BThe task requires someone to enter the holy halls of Maraudon--a tomb my people protect, and only the most devout are ever allowed to enter.$B$BIf you agree to aid me, then you need only nod. I will pass you a parchment with my instructions on it. Read it over and consider my words.",
+  "p": "What did you decide, $N? Can you help me? Will you set foot on holy ground to help me forge one great centaur tribe!?",
+  "c": "This is it, $R! This is it! Now I can begin the great task of uniting the tribes. Thank you.$b$bTake this for your efforts, please. I hope when next we meet, it will be on much different terms."
+ },
+ {
+  "id": 7068,
+  "t": "Shadowshard Fragments",
+  "o": "Collect 10 Shadowshard Fragments from Maraudon and return them to Uthel'nay in Orgrimmar.",
+  "d": "Strong magics be found in the centaur holy place... the holy place of Maraudon. The Desolace tribes of centaur protect that place wit' their lives, but they canna stop us from takin' what we need.$B$BYou, you head to this Maraudon place and find the rock creatures made of shadowshard. You bring me the purple crystals, and Uthel'nay make you somethin' for your time.$B$BThe place be dangerous, so maybe you be bringing some friends.",
+  "p": "You find the crystals yet? Rituals of power, spells of great strength - those shadowshards maybe very helpful in all kind of arcane magics.",
+  "c": "Ah, these be perfect for me magics. Here, you take one of these trinkets and be on your way... me got much studyin' to do."
+ },
+ {
+  "id": 7070,
+  "t": "Shadowshard Fragments",
+  "o": "Collect 10 Shadowshard Fragments from Maraudon and return them to Archmage Tervosh in Theramore on the coast of Dustwallow Marsh.",
+  "d": "I've recently begun testing various crystals and their arcane properties. Lady Proudmoore has given me leave to ask travelers heading into Desolace to seek out a place called Maraudon. Within the ruined temple are great elementals composed of purplish stones I've named shadowshards.$B$BIf you decide to head that direction and find some of the crystals, I would be very thankful. I could even fashion you a trinket from them if you so desired.",
+  "p": "Have you made the trip yet? I realize it'd be quite dangerous, but if you were successful, it would very much be worth it.",
+  "c": "These are perfect, $N. I actually had other adventurers return from there also and from them I was able to fashion these... please, feel free to take one for your hard work. And thank you again for more samples to study."
+ },
+ {
+  "id": 7081,
+  "t": "Alterac Valley Graveyards",
+  "o": "Assault a graveyard, then return to Sergeant Durgen Stormpike in the Alterac Mountains.",
+  "d": "The graveyards in Alterac Valley are prized territories.  Both the Horde and the Alliance fight savagely for these sacred grounds.  Are you, $N, ready to join that fight?$B$BI want you to assault an enemy graveyard.  Find a graveyard with a Horde banner in its midst, and pull it from the ground!  Do that, and your task will be complete....$B$BBut if you can also hold the graveyard for a few minutes, then our troops will soon come to relieve you.",
+  "p": "$N, you have not yet assaulted a graveyard. Return to me when this task is complete!",
+  "c": "Well done! Graveyards are vital to our control of Alterac Valley. When you capture one, you help ensure the Alliance's sovereignty here.$B$BGo now, $N. Reenter the battle, and if you see a graveyard under the Horde's control... you know what to do!"
+ },
+ {
+  "id": 7082,
+  "t": "The Graveyards of Alterac",
+  "o": "Assault a graveyard, then return to Corporal Teeka Bloodsnarl in the Alterac Mountains.",
+  "d": "The battle lines of Alterac Valley are ever shifting.  Territories swing back and forth as we meet our opponents in deadly combat.  And graveyards, $N, are where battles rage most fierce.$B$BI want you to attack an Alliance held graveyard!  Find a graveyard with an Alliance banner in its midst and pull it from the ground.$B$BDo that and your task for me will be complete, but... if you hold the graveyard for a few minutes, then it will be ours and troops will come and relieve you.",
+  "p": "Attack a graveyard held by the Alliance!",
+  "c": "Well done, $N! With each graveyard under our control, the spirits of our enemies will wander more lost and aimless."
+ },
+ {
+  "id": 7101,
+  "t": "Towers and Bunkers",
+  "o": "Capture an enemy tower, then return to Corporal Teeka Bloodsnarl in the Alterac Mountains.",
+  "d": "Towers and bunkers are important positions, and we must capture and hold them all!  So to that end, I want you to attack a bunker that is controlled by the enemy.$B$BTo do that, enter one with an Alliance banner.  You will see another banner inside.  Pull out that banner, and a white Horde banner will appear in its place.  Well done!$B$BAt that point your task for me will be complete, but if you hold the place long enough, and if the Alliance doesn't take it back, then it will be destroyed!",
+  "p": "You haven't yet assaulted a bunker, $N! Are you waiting for others to claim your glory?",
+  "c": "I heard of your mission's success! That pleases me...$B$BOur troops can now charge forward with impunity, and show the Alliance that Alterac Valley is no place for them!"
+ },
+ {
+  "id": 7102,
+  "t": "Towers and Bunkers",
+  "o": "Destroy the banner at an enemy tower or bunker, then return to Sergeant Durgen Stormpike in the Alterac Mountains.",
+  "d": "Towers and bunkers are key defensive positions, and so we must hold as many as possible!  I want you to attack a tower or a bunker in Alterac Valley.$B$BTo do that, enter a tower with a Horde banner atop it.  You will see another enemy banner inside.  Pull out that banner, and a white Alliance banner will appear in its place.  Well done!$B$BAt that point your mission for me will be complete, but hold the area long enough, and if the Horde doesn't take it back, then it will be destroyed!",
+  "p": "You haven't yet assaulted a tower, $N! What are you waiting for?",
+  "c": "I received a field report stating you helped secure an enemy banner. Well done, $N! With their ranged troops out of position we can move the line of battle forward!"
+ },
+ {
+  "id": 7121,
+  "t": "The Quartermaster",
+  "o": "Speak with the Stormpike Quartermaster.",
+  "d": "$N, our quartermaster charged me to direct new recruits to him.  He needs supplies from caches stored in the mines of Alterac, and he'll probably send you to get them.$B$BFollow the road.  You'll find our quartermaster to the west.",
+  "p": "",
+  "c": "It's good to see fresh troops here, $N, but with a little luck you'll get into some action and won't be fresh for long!$B$BSpeak with me again.  I have tasks I must discuss with you...."
+ },
+ {
+  "id": 7122,
+  "t": "Capture a Mine",
+  "o": "Capture a mine that the Stormpike does not control, then return to Sergeant Durgen Stormpike in the Alterac Mountains.",
+  "d": "The mines in Alterac Valley hold more than just minerals.  Both the Frostwolf and Stormpike have cached excess supplies in the Irondeep and Coldtooth mines... that's not a bad idea, if we could only maintain control of them!$B$BCapture a mine, then return to me.  To capture a mine, enter one that we do not control and kill its leader.  When you do that, the mine will be ours, and we'll send troops to protect it!",
+  "p": "You haven't captured the mine yet, $N!$B$BAfter we control a mine, it will be much easier to gather minerals and supplies from it.",
+  "c": "You did it! Well done, $N!$B$BWhen we control a mine and have troops stationed there, it's much easier to gather minerals and supplies from it."
+ },
+ {
+  "id": 7123,
+  "t": "Speak with our Quartermaster",
+  "o": "Speak with the Frostwolf Quartermaster.",
+  "d": "$N, the Frostwolf Quartermaster is looking for recruits, for tasks that lead into the mines of Alterac Valley.  Speak with him; he will tell you more.$B$BFollow the road west into the bunker, then take the west exit and you'll find our quartermaster.",
+  "p": "",
+  "c": "Hail, $N! It is good to see a $c like yourself, eager to do his part for the Horde. Speak with me again, for I have vital tasks for you..."
+ },
+ {
+  "id": 7124,
+  "t": "Capture a Mine",
+  "o": "Capture a mine, then return to Corporal Teeka Bloodsnarl in the Alterac Mountains.",
+  "d": "As battle rages over the landscape of Alterac Valley, so too does it rage through the Coldtooth and Irondeep mines.  Both are rich sources of minerals and both are used to store supplies; it's no wonder they are so highly valued!$B$BHelp our war effort, $N!  Capture one of the mines for the Horde!  To capture a mine, enter one that we do not control and kill its leader.  When that is done, the mine will be ours and we'll send troops to protect it!",
+  "p": "You haven't yet captured a mine, $N! Find one that we do not control and defeat it's leader! ",
+  "c": "You captured a mine! With our own warriors protecting it, it will be much simpler to extract minerals from its depths, or gather supplies that have been cached there.$B$BWell done, $n. The deed you have done is a great boon to our battle efforts."
+ },
+ {
+  "id": 7141,
+  "t": "The Battle of Alterac",
+  "o": "Enter Alterac Valley, defeat the Horde general Drek'thar, and then return to Prospector Stonehewer in the Alterac Mountains.",
+  "d": "The Explorers' League believes there are artifacts in Alterac Valley, but the Frostwolf orcs won't let us explore.  We can't allow the Horde to stop our scholarly pursuits!  Defeat the Frostwolf general, Drek'Thar.  With him dead, the orcs will lose their edge.$B$BDrek'Thar is in Frostwolf Keep, in the south of Alterac Valley.  Vanquish him, and then return to me.",
+  "p": "Go, $N.  Go to Alterac Valley and defeat the orc general!",
+  "c": "Well done, $N!  With the Horde's nose bloodied after the death of their general, we'll have the breathing room we need to explore!"
+ },
+ {
+  "id": 7142,
+  "t": "The Battle for Alterac",
+  "o": "Enter Alterac Valley and defeat the dwarven general, Vanndar Stormpike.  Then, return to Voggah Deathgrip in the Alterac Mountains.",
+  "d": "The Stormpike dwarves and their allies have invaded Alterac Valley, and we must drive them out!  To win the battle for Alterac, we must defeat their general, Vanndar Stormpike!$B$BYou will find Vanndar in Dun Baldar, in the north of Alterac Valley.$B$BDestroy him, $N, and then return to me.",
+  "p": "",
+  "c": "Well done, $N!  Stormpikes have no hope in this foolish invasion.$B$BHah!  So far, all they've done is get their general killed!"
+ },
+ {
+  "id": 7161,
+  "t": "Proving Grounds",
+  "o": "Travel to the Wildpaw cavern located southeast of the main base in Alterac Valley and find the Frostwolf Banner. Return the Frostwolf Banner to Warmaster Laggrond. ",
+  "d": "Hail, $c. It has been a long time since we have had the chance to answer the call of battle. The old feelings are slow to rise but once awakened, the blood does rush. The battle rage returns...$B$BAll newcomers to the Valley must first complete the rite of battle.$B$BDeep within the Wildpaw gnoll cave is a banner of the Frostwolf. Venture forth and recover the banner. Return it to me and I shall grant you the Frostwolf initiate's insignia.",
+  "p": "Wake up! Wake up, $N! This is not a dream. You really are entrenched in the midst of a raging battle!",
+  "c": "That burning sensation you feel is your soul being awakened. Your spirit has accepted the call to arms.$B$BYou are now one of the Frostwolf, $N. Congratulations.$B$BCarry this insignia with you at all times. As you advance among the ranks of Frostwolf, I will replace the insignia with other, more powerful insignias.$B$BPerhaps someday you will be exalted among the Frostwolf Clan. Should that day ever come, you will be granted the Eye of Command."
+ },
+ {
+  "id": 7162,
+  "t": "Proving Grounds",
+  "o": "Travel to the Icewing Caverns located southwest of Dun Baldar in Alterac Valley and recover the Stormpike Banner. Return the Stormpike Banner to Lieutenant Haggerdin in the Alterac Mountains.",
+  "d": "You've arrived just in time, $c. These Frostwolf savages just won't give up! We must show them the might of the Stormpike. They must bow to our superiority.$B$BBefore you make your way to the field of battle, you will want to join the rank of Stormpike.$B$BSouthwest of Dun Baldar, you will find the Icewing Caverns. Planted deep within the caverns is a Stormpike Banner. Venture forth and recover that banner. Return it to me, and you will have earned a Stormpike initiate's insignia.",
+  "p": "Beware the harpies of the region, $C. They'll not think twice to rip out your throat!",
+  "c": "Take and wear this insignia with pride, $N. As your rank among the Stormpike grows, so too will the insignia. Return to me as you gain honor with Stormpike, and I shall replace your insignia with other, more powerful insignias.$B$BPerhaps someday you will grow to be a legend on this field of battle. Should that day ever come, you will be granted the Eye of Command."
+ },
+ {
+  "id": 7163,
+  "t": "Rise and Be Recognized",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "This new insignia reflects your rank amongst the Frostwolf. Keep it on you at all times.$B$BAnd mage... Die with honor!"
+ },
+ {
+  "id": 7164,
+  "t": "Honored Amongst the Clan",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "<Warmaster Laggrond salutes.>$B$BGo, $N! Continue your defense of the Frostwolf. This war must be won! For Drek'Thar! For the Warchief!"
+ },
+ {
+  "id": 7165,
+  "t": "Earned Reverence",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "When we first met, I would have never guessed that a hero was in the making. Carry on, soldier!"
+ },
+ {
+  "id": 7166,
+  "t": "Legendary Heroes",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Soon, all on the field of battle will be under your watchful eye. Command of the Valley and its troops will be yours!"
+ },
+ {
+  "id": 7167,
+  "t": "The Eye of Command",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Channel the power of the insignia. Let the enemy hear your words. The might of the Horde is unquestionable!"
+ },
+ {
+  "id": 7168,
+  "t": "Rise and Be Recognized",
+  "o": "",
+  "d": "",
+  "p": "Most do not live long enough to rise above their own mediocrity. You have proven yourself to be an exemplary soldier, $c. The time has come.$B$BPresent your insignia.",
+  "c": "Let our enemies see that a soldier of rank has struck them down! Fight for the glory of Stormpike!"
+ },
+ {
+  "id": 7169,
+  "t": "Honored Amongst the Guard",
+  "o": "",
+  "d": "",
+  "p": "The base buzzes with news of your exploits in the Field of Strife! You have struck mighty blows against our enemy - crushing their morale! For this, you have earned a rank of honor among the Stormpike.$B$BPresent your insignia.",
+  "c": "The king has been made aware of your battlefront heroics, $c. Continue in your stalwart defense of the Stormpike Guard!"
+ },
+ {
+  "id": 7170,
+  "t": "Earned Reverence",
+  "o": "",
+  "d": "",
+  "p": "I must know, $n. When you look directly into the eyes of the enemy, do you see fear? Do they now cower in your presence? They must realize that they are defeated!$B$BYou have earned reverence among the Guard. Present your insignia!",
+  "c": "When we first met, I would have never guessed that a hero was in the making. Carry on, soldier!"
+ },
+ {
+  "id": 7171,
+  "t": "Legendary Heroes",
+  "o": "",
+  "d": "",
+  "p": "Before me stands an exalted hero of the Alliance.$B$B<Lieutenant Haggerdin salutes.>$B$BFew have earned such a rank among the Stormpike. I have watched the enemy fall before you. I have seen their resolve crumble in your presence. When you enter the fray, you become the beacon of hope for our forces!$B$BPresent your insignia.",
+  "c": "Soon, all on the field of battle will be under your watchful eye. Command of the Valley and its troops will be yours!"
+ },
+ {
+  "id": 7172,
+  "t": "The Eye of Command",
+  "o": "",
+  "d": "",
+  "p": "Let them hear your voice, commander $n! Let them know fear. Show them what power the Stormpike holds in their rank!$B$BPresent your insignia.",
+  "c": "It is you who must lead our troops to victory, Commander! The soldiers are under your command. They will follow your direct orders. Lead them... Crush the Frostwolf."
+ },
+ {
+  "id": 7181,
+  "t": "The Legend of Korrak",
+  "o": "According to legend, the leader of the mighty Winterax trolls appears at will to wreak havoc on the denizens of Alterac Valley.$B$BShould Korrak make himself known, destroy him and return to Warmaster Laggrond.",
+  "d": "The invading Stormpike are not the only threat in the region, soldier. The war in the Valley is waged on two fronts. The cannibal Winterax trolls also vie for power.$B$BThey are lead by Korrak the Bloodrager - a cruel and cunning beast.$B$BA strike against Korrak could prove to be a crushing blow to the Winterax clan. Slay the beast and be rewarded!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7201,
+  "t": "The Last Element",
+  "o": "Travel to Blackrock Depths and recover 10 Essence of the Elements. Your first inclination is to search the golems and golem makers. You remember Vivian Lagrave also muttering something about elementals.$B",
+  "d": "There is work to be had for those venturing into the depths, $N.$B$BThe Dark Irons have mastered creation of extremely powerful golems.$B$BInitial reports from our spies indicate that the dwarves use a unique power source to give their creations incomparable killing power.$B$BJust imagine what we could do with our abominations if we could get our hands on this essence of the elements! Turn that city upside down if you must, but do not return until you have found the essence! Payment will be worth the risk.",
+  "p": "Show them to me!",
+  "c": "Wonderful! I will have these sent by courier to the Undercity at once!$B$BAs for you - here is payment, as promised. Keep the change, you filthy beast!"
+ },
+ {
+  "id": 7202,
+  "t": "Korrak the Bloodrager",
+  "o": "According to legend, the leader of the mighty Winterax trolls appears at will to wreak havoc on the denizens of Alterac Valley.$B$BShould Korrak make himself known, destroy him and return to Lieutenant Haggerdin in the Alterac Mountains.",
+  "d": "The indigenous Winterax trolls of the region are ruthless savages that would love nothing more than to have our bones added to their foul stew.$B$BWe must show them our might!$B$BWe have recovered tomes from their caves that detail their leadership hierarchy. The artifacts indicate that their leader, Korrak the Bloodrager, tends to remain hidden until given a reason to make his presence known.$B$BDeath to Korrak would mean death to Winterax Clan! Slay him and return.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7221,
+  "t": "Speak with Prospector Stonehewer",
+  "o": "Speak with Prospector Stonehewer in the Dun Baldar garrison.",
+  "d": "Ah, $N, reporting for duty are you?  Great, the Stormpikes can use everyone we can muster!$B$BSpeak with Prospector Stonehewer in Dun Baldar.  She's recruiting for a vital mission into enemy territory.  You'll find Stonehewer in the bottom of the Dun Baldar garrison.$B$BAnd keep an eye out as you go through Dun Baldar.  There's plenty to do for a hardworking $c who's not afraid to get $ghis:her; hands dirty.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7222,
+  "t": "Speak with Voggah Deathgrip",
+  "o": "Speak with Voggah in Frostwolf Keep.",
+  "d": "A $c?  Good!  We are glad to see you in Alterac, $N.  Interloping dwarves and their allies invade our valley, and we welcome all in the Horde to join us in righteous slaughter!$B$BSpeak with Voggah Deathgrip.  He is looking for agents for an important mission into the Alliance's stronghold in Alterac Valley!$B$BYou will find Voggah in Frostwolf Keep.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7223,
+  "t": "Armor Scraps",
+  "o": "Bring 20 Armor Scraps to Murgot Deepforge in Dun Baldar.",
+  "d": "Battles rage constantly in Alterac Valley, and the supplies we get from Ironforge are not enough to outfit our experienced troops.$B$BIf you find armor scraps from the battlefield, aid the war effort and bring those scraps to me!",
+  "p": "Did you bring any armor scraps, $N?",
+  "c": "These are some good pieces, $N. I can use them to fashion new equipment for our troops.$B$BIf my supply level gets high enough, then maybe our seasoned fighting units will enter the field!"
+ },
+ {
+  "id": 7224,
+  "t": "Enemy Booty",
+  "o": "Bring 20 Armor Scraps to Smith Regzar in Frostwolf Village.",
+  "d": "When you fight the enemy, gather the scraps of their armor and bring them to me.  I'll use those scraps to make armor for our own troops!",
+  "p": "How goes the hunting, $N. Do you have any armor scraps for me?",
+  "c": "These will do nicely. I'll melt them down and patch them up and you'll never know they came from those Stormpike cowards!$B$BThanks, $N. And let me polish up that armor of yours..."
+ },
+ {
+  "id": 7241,
+  "t": "In Defense of Frostwolf",
+  "o": "Venture to Alterac Valley, located in the Alterac Mountains. Find and speak with Warmaster Laggrond - who stands outside the tunnel entrance - to begin your career as a soldier of Frostwolf. You will find Alterac Valley north of Tarren Mill at the base of the Alterac Mountains.",
+  "d": "The drums of war sound off in a distant land, $c. The favored clan of your Warchief is under attack from the nefarious Stormpike Guard of Ironforge.$B$BBy the looks of you, I can discern that you are indeed battle hardy and prepared to take on the cause of the Frostwolf.$B$BIt is you who must now take the next step in your evolution.$B$BNorth of Tarren Mill, in Alterac,  you will find the entrance to Alterac Valley. It is there that you will find Warmaster Laggrond. Hurry $c, for the battle is upon us!",
+  "p": "",
+  "c": "To become a soldier of Frostwolf, one must first be tested..."
+ },
+ {
+  "id": 7261,
+  "t": "The Sovereign Imperative",
+  "o": "Travel to Alterac Valley in the Hillsbrad Foothills. Outside of the entrance tunnel, find and speak with Lieutenant Haggerdin.$B$BFor the glory of Bronzebeard!",
+  "d": "We are fighting a brutal battle in the valleys of Alterac. The savage Frostwolf Clan challenges the might of the Stormpike! They must be exterminated in the name of King Magni Bronzebeard! The taking, culling, and turning of that land is a sovereign and territorial imperative to the kingdom of Ironforge.$B$BAlas, soldiers do not grow on trees! Report to Lieutenant Haggerdin outside Alterac Valley to begin your tour of duty and honor amongst the Stormpike.",
+  "p": "",
+  "c": "Let's get to work!"
+ },
+ {
+  "id": 7281,
+  "t": "Brotherly Love",
+  "o": "Travel into Stormpike territory and slay Commander Karl Philips. Return to Commander Louis Philips when the task is complete.$B",
+  "d": "Tragic... My brother faces me on the field of battle: A commander for the Stormpike.$B$BOf the four Stormpike Commanders, he is undoubtedly the most dangerous. Perhaps if he is slain, the Banshee Queen could turn him as she did me - show him the error of his ways...$B$BDeep within enemy territory you will find my brother. Slay him and return to me. I trust that you are capable of completing this mission, soldier.$B$BAnd soldier, do not go alone.",
+  "p": "How it must pain him to remain as one of the living while his beloved brother has ascended to perfection.",
+  "c": "Your heroics will not go unnoticed, $N.$B$BI must waste no time if he is to be saved. Sylvanas must be contacted!"
+ },
+ {
+  "id": 7282,
+  "t": "Brotherly Love",
+  "o": "Travel into Frostwolf territory and slay Commander Louis Philips. Return to Commander Karl Philips when the task is complete.$B",
+  "d": "He must be put out of his misery, soldier! He knows not what he does. He has become a mindless servant of the dreaded Banshee Queen.$B$BVenture forth, across the Field of Strife, to the depths of Frostwolf territory. Find my brother and destroy him. His torment must come to an end.",
+  "p": "It is with heavy heart that I give such an order, soldier.",
+  "c": "You did remember to burn the corpse, didn't you?"
+ },
+ {
+  "id": 7301,
+  "t": "Fallen Sky Lords",
+  "o": "Travel to Frostwolf territory and search for Wing Commander Slidore, Wing Commander Vipore, and Wing Commander Ichman. Return to Commander Duffy should you complete your mission.",
+  "d": "We got them held prisoner, $r. I'm talking about their Wing Commanders. It was a furious battle in the skies but they finally fell! Unfortunately, our best pilots were shot down in a counterattack against Frostwolf Keep. You gotta find out what happened to them.$B$BSearch Tower Point West and Frostwolf Keep. These were their last known locations. Search these areas thoroughly.",
+  "p": "Anything I would care to hear?",
+  "c": "Unbelievable! You did free them, right? Right??? Well at the very least we know where they were held."
+ },
+ {
+  "id": 7302,
+  "t": "Fallen Sky Lords",
+  "o": "Find out what became of Wing Commander Guse, Wing Commander Jeztor, and Wing Commander Mulverick. Return to Commander Mulfort should you complete your mission.",
+  "d": "Our air support is in shambles, $N. The Wing Commanders were shot down over enemy territory. You must find out what became of them so that we can attempt a rescue!$B$BGuse was last seen flying over the Icewing Bunker. Jeztor's War Rider was spotted near the Stormpike lumber mill. Mulverick... that reckless fool was seen crashing near the Dun'Baldar North Bunker.$B$BThat's all the information I have. Move out! Search through the areas thoroughly.",
+  "p": "Status of the hunt, soldier?",
+  "c": "Well done! The information you recovered will be invaluable to our cause."
+ },
+ {
+  "id": 7321,
+  "t": "Soothing Turtle Bisque",
+  "o": "Bring 10 pieces of Turtle Meat to Christoph Jeffcoat in Tarren Mill.",
+  "d": "Who says that the undead don't know anything about cooking? Take my secret recipe for Turtle Bisque, for example. I've known folks that would come back from the dead just to enjoy a bowl! Heh, heh...$B$BSpeaking of which, I haven't been able to make any lately.  I used to head over to Lake Lordamere myself to hunt snapjaws, the nasty things, but I can't pull myself away from my work here.$B$BIf you bring me some Turtle Meat from the snapjaws, I'll show you how it's done!",
+  "p": "Any luck finding the ingredients?  I'll tell you, the alliance maggots are far too numerous in this area now... In my opinion, they have come far too close already...",
+  "c": "My soothing turtle bisque will keep you warm on a cold night... if you care about that kind of thing."
+ },
+ {
+  "id": 7341,
+  "t": "A Fair Trade",
+  "o": "",
+  "d": "",
+  "p": "Greetings, $r. I am Kolark, Bounty Hunter from Thunderbluff. Much of the world I have traveled and much I have seen.$B$BMy journeys across the South Seas led to the discovery of these wonderous thorium headed arrows. Alas, I have an endless supply of the arrows but have exhausted my supply of shells. Bah, no self respecting Tauren would ever be caught dead using a flimsy bow. The arrows are useless!$B$BI will offer a trade: An even exchange of thorium shells for my thorium headed arrows. Deal?",
+  "c": "Excellent! I am a Tauren of my word, $r. The arrows are yours."
+ },
+ {
+  "id": 7342,
+  "t": "Arrows Are For Sissies",
+  "o": "",
+  "d": "",
+  "p": "Can you believe this rubbish?! The last shipment of ammunition from Kharanos was botched! All we have for ammo now are these flimsy, good for nothing arrows! What in the world am I going to do with 500,000 thorium headed arrows?$b$bI'll tell you what, kid. If you can bring me thorium shells, I'll trade you thorium headed arrows - straight up! Deal?",
+  "c": "A done deal if I ever saw one! The arrows are yours."
+ },
+ {
+  "id": 7361,
+  "t": "Favor Amongst the Darkspear",
+  "o": "You have been tasked with slaying opposing night elf players in Alterac Valley.$B$BKill a night elf and return to Najak Hexxen at Frostwolf Keep with a Severed Night Elf Head.",
+  "d": "<Najak snarls.>$B$BBefore the night elves existed there was troll. It was from troll that the night elves came.$B$BTheir mutinous attacks against my people will not be tolerated. Staghelm seeks to wipe us out - to leave no trace of those that bore him and his ilk. It will not happen!$B$BFor every night elf that you slay and decapitate, Najak will grant you favor amongst the Darkspear. Word of your deeds will be spread across Kalimdor and the Eastern Kingdoms. Go now and serve the Darkspear!",
+  "p": "They seek to exterminate us? It is they who shall be exterminated.",
+  "c": "$N, it is but one of thousands. A job well done nonetheless."
+ },
+ {
+  "id": 7362,
+  "t": "Ally of the Tauren",
+  "o": "You have been tasked with slaying opposing gnome players in Alterac Valley.$B$BKill a gnome and return to Ravak Grimtotem at Frostwolf Keep with a Tuft of Gnome Hair.",
+  "d": "The Elder Crone has sent me to this warzone to research the other races. More specifically, I am to collect gnome samples. Magatha is primarily interested in their survivability. Aye, the gnomes - while pitifully weak and miniscule - exude great resilience both in and out of combat.$B$BFortunately for you, I am looking for ruffians to do Magatha's bidding. Return to me with tufts of gnome hair and you shall be known to the tauren as an ally.",
+  "p": "I don't care where the hair comes from, $R.",
+  "c": "Aye, this is definitely gnome. Well done, $R, but there is more work to be done."
+ },
+ {
+  "id": 7363,
+  "t": "The Human Condition",
+  "o": "You have been tasked with slaying opposing human players in Alterac Valley.$B$BKill a human and return to Commander Louis Philips (who wanders between the front lines and Frostwolf keep) with a  Human Bone Chip.$B$BA cure for the human condition is close at hand!",
+  "d": "Humans are so utterly detestable.$B$B<Commander Philips grimaces.>$B$BWhile it is true that I am a soldier of Frostwolf, I remain a servant of Sylvanas.$B$BDuring my tour of duty, I do extra work on the side for the Dark Apothecaries of the Undercity.$B$BI have been tasked with collecting human bone chips that are to be used in curing the human condition.$B$BI am authorized to pass that task on to my subordinates.$B$BFind them. Kill them. Return their bone chips to me.",
+  "p": "Yes, it is true. My brother is a human. Shameful... A stain upon my nearly immaculate record.",
+  "c": "It would be easier if they just accepted their illness and gave in to your healing touch. It would also probably be less fun. Carry on! We'll cure them, one way or another."
+ },
+ {
+  "id": 7364,
+  "t": "Gnomeregan Bounty",
+  "o": "You have been tasked with slaying opposing tauren players in Alterac Valley.$B$BKill a tauren and return to Dirk Swindle at Dun'Baldar with a  Tauren Hoof.",
+  "d": "The High Tinkerer himself has sent me to this field of battle to defend my gnomish brothers and sisters. We have received word that the tauren are singling out and slaying gnomes. Worst of all, they are removing tufts of glorious gnome hair from the corpses of the fallen. These atrocities must be stopped. We must reciprocate!$B$BI want them de-hoofed, $c. Bring me their hooves! Show yourself as an ally of the gnomes.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7365,
+  "t": "Staghelm's Requiem",
+  "o": "You have been tasked with slaying opposing troll players in Alterac Valley.$B$BKill a troll and return to Athramanis at Dun'Baldar with Darkspear Troll Mojo.",
+  "d": "Staghelm has given the order. All trolls on the field of battle must be exterminated. Their preposterous claims of birthing night elves must be met with force and due prejudice.$B$BSlay them and return to me with their mojo. To reiterate: I want you to steal their mojo.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7366,
+  "t": "The Archbishop's Mercy",
+  "o": "You have been tasked with slaying opposing Forsaken players in Alterac Valley.$B$BKill a Forsaken and return to Commander Karl Philips (who wanders between the lumber mill and the mine) with a Forsaken Heart.",
+  "d": "The Archbishop is as kind as he is wise. For a man to look mercifully on such a wretched lot...$B$B<Commander Philips shakes his head in disbelief.>$B$BToo kind... Just too kind.$B$BThe Archbishop asks that we take pity on the undead and grant them swift and permanent deaths. For this grand display of mercy, we merely require their black, disease ridden hearts.$B$BBring me the hearts of the Forsaken so that they may be ceremoniously incinerated at the Cathedral of Light. Make haste, $N!",
+  "p": "Benedictus! I am but a speck in the shadow of his grandeur. Praise him!",
+  "c": "Praise be to Benedictus! Another lost soul, soon to be saved by the white hot flames of the Light!$B$BGo ye, oh soldier of Light! More must be saved!"
+ },
+ {
+  "id": 7367,
+  "t": "Defusing the Threat",
+  "o": "Find the Frostwolf Explosives Expert and kill him. Return to the Stormpike Explosives Expert when the task is complete.",
+  "d": "The Frostwolf have their front lines and bases booby trapped, $c. You have to watch your step when invading enemy territory.$B$BIf you want to make a solid strike against them, you must destroy their source of anti personnel munitions - I'm talking about their explosives expert. If you kill him, you are safe to disarm the mines. As long as he is kept down, the mines will also stay down.$B$BYou will probably find him in a tower near the Iceblood Garrison. Good luck!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7368,
+  "t": "Defusing the Threat",
+  "o": "Find the Stormpike Explosives Expert and kill him. Return to the Frostwolf Explosives Expert when the task is complete.",
+  "d": "I know all about landmines. I'm the one that lays all the mines on the front lines here, after all.$B$BIf you want to defuse the Stormpike mine fields, all you have to do is kill their explosives expert. That dwarven coward is no doubt hiding in the first tower on the Field of Strife. Take him out and those landmines won't come back after they've been disarmed.$B$BIf you do happen to kill him, come back here and let me know. No good deed should go unrewarded.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7381,
+  "t": "The Return of Korrak",
+  "o": "Should Korrak the Bloodrager make a return to the Field of Strife, seek him out and destroy him.$B$BReturn the Skull of Korrak to Warmaster Laggrond in the Hillsbrad Foothills.",
+  "d": "While it is true that Korrak has been slain, one question remains: Will he remain dead? Trolls are notorious for their other-worldly tribal magics. I would not be surprised if the fallen leader was raised from the dead to once more rule over his clan.$B$BYou know what to do should this ever occur.$B$B<Warmaster Laggrond makes a cutting motion across his neck with his index finger.>$B$BAnd  this time, I want his skull. Just keep your eyes peeled, soldier.$B$BDismissed!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7382,
+  "t": "Korrak the Everliving",
+  "o": "Should Korrak the Bloodrager make a return to the Field of Strife, seek him out and destroy him.$B$BReturn the Skull of Korrak to Lieutenant Haggerdin in the Hillsbrad Foothills.$B",
+  "d": "There's something not quite right about all of this... Did anybody think to burn Korrak's corpse? Those trolls will stop at nothing to revive their fallen leader - as blue skinned pagan man-beasts often do.$B$BJust keep your eyes out, $N. Don't be alarmed if Korrak makes a surprise appearance; and if he does, I want him executed - his corpse burned to ashes.$B$BFor good measure, lop off his head and bring me his skull before you ignite the lifeless mass.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7383,
+  "t": "Crown of the Earth",
+  "o": "Fill the Amethyst Phial and bring it back to Corithras Moonrage in Dolanaar.",
+  "d": "All was not well with Teldrassil, however. Staghelm's carefully made plans for the new World Tree had borne out as he had hoped, but there was one small problem, a problem to which many of the troubles on Teldrassil may be attributed.$b$bHowever, I will not get into that yet. You must visit the last moonwell, to the northwest in the Oracle Glade. Under the boughs of the Oracle Tree lies the first and most powerful of our wells. Retrieve a phial of its water and return to me.",
+  "p": "Along with the druids, the Oracle Tree and the Arch Druid have been carefully monitoring the growth of Teldrassil. But though we have a new home, our immortal lives have not been restored.",
+  "c": "To be in the presence of the Oracle Tree... it is almost to feel wisdom take form. Let me continue the telling...$B$BWith Teldrassil grown, the Arch Druid approached the dragons for their blessings, as the dragons had placed upon Nordrassil in ancient times. But Nozdormu, Lord of Time, refused to give his blessing, chiding the druid for his arrogance. In agreement with Nozdormu, Alexstrasza also refused Staghelm, and without her blessing, Teldrassil's growth has been flawed and unpredictable..."
+ },
+ {
+  "id": 7384,
+  "t": "<nyi> <txt> The Scale Crafters",
+  "o": "Collect some scales for Karana in the Harborage in Swamp of Sorrows.",
+  "d": "Give me some scales.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7385,
+  "t": "A Gallon of Blood",
+  "o": "",
+  "d": "",
+  "p": "You have the option of offering larger quantities of the blood taken from our enemies. I will be glad to accept gallon sized offerings, $n.",
+  "c": "The blood of our enemies has been shed. I shall mix this blood with the rest that has been gathered. Once the offering is complete, the Ice Lord shall show these Stormpike dogs the full wrath of the Frostwolf Clan!"
+ },
+ {
+  "id": 7386,
+  "t": "Crystal Cluster",
+  "o": "",
+  "d": "",
+  "p": "There are times which you may be entrenched in battle for days or weeks on end. During those longer periods of activity you may end up collecting large clusters of the Frostwolf's storm crystals.$B$BThe Circle accepts such offerings, $n.",
+  "c": "Well done, $N. I will use the power of these charms to augment the magic that has already been gathered. When enough power has been amassed, I shall focus the collected energies and call upon the Forest Lord to aid our cause."
+ },
+ {
+  "id": 7401,
+  "t": "Wanted: DWARVES!",
+  "o": "You have been tasked with slaying opposing Dwarf players in Alterac Valley.$B$BKill a Dwarf and rip out their spine. Take the Dwarf Spine to Sergeant Yazra Bloodsnarl at Frostwolf Keep.",
+  "d": "By order of Sergeant Yazra Bloodsnarl, all dwarves on the field of battle are to be killed on sight.$B$BShould you slay a dwarf in combat, rip out their spine, leaving a spineless heap of stink and rot to serve as a warning to any and all that dare oppose the might of the Frostwolf.$B$BReturn to Sergeant Yazra Bloodsnarl with proof of your heroics.",
+  "p": "I deal in wholesale irony, soldier.",
+  "c": "You now have license to decimate dwarves by the dozen, $c!$B$B<Yazra stares off into the distance for a moment.>$B$BYou never forget your first de-spining..."
+ },
+ {
+  "id": 7402,
+  "t": "Wanted: ORCS!",
+  "o": "You have been tasked with slaying opposing Orc players in Alterac Valley.$B$BKill an Orc and take their Orc Tooth back to Corporal Noreg Stormpike at Dun Baldar.",
+  "d": "By order of Corporal Noreg Stormpike, all able bodied soldiers of Stormpike are required to slay any opposing orcs that they meet upon the field of battle.$B$BSoldiers are required to remove a tusk or tooth from the maw of the enemy and present said tooth as proof of their accomplishment.$B$BWear protective gloves.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7424,
+  "t": "What the Hoof?",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "*Dirk throws the hoof in a pile behind him.*"
+ },
+ {
+  "id": 7429,
+  "t": "Free Knot!",
+  "o": "",
+  "d": "",
+  "p": "It's called the Gordok Shackle Key - well, that's what these \"tons o' fun\" keep calling it. I think any of the ogres might have it, but I'm not sure if any specific ones do. Maybe the guards have a better chance of having one...$b$bWhat am I talking about - you have it already, don't you?! Is that it there??!",
+  "c": "Oh, thank you for freeing me! You - ranked number one. Everyone else - ranked number two or lower.$b$bI knew my life was destined for more than just being an appetizer to some ogre!"
+ },
+ {
+  "id": 7441,
+  "t": "Pusillin and the Elder Azj'Tordin",
+  "o": "Travel to Dire Maul and locate the Imp, Pusillin. Convince Pusillin to give you Azj'Tordin's Book of Incantations through any means necessary.$B$BReturn to Azj'Tordin at the Lariss Pavilion in Feralas should you recover the Book of Incantations.",
+  "d": "I had let my guard down for only one moment, stranger. In my haste to escape the grip of the fallen Prince, I was robbed. A most foul demon, the imp Pusillin, pilfered my book of incantations and the key to the once great halls of Eldre'Thalas.$B$BI no longer hold interest in the key, as I have exchanged my immortality for freedom, but I desperately need my book of incantations.$B$BFind the imp, Pusillin, and recover my book.$B$BSearch the Warpwood Quarter of Dire Maul for Pusillin.",
+  "p": "I regret nothing, stranger. The Queen has long since passed. The works of the Shen'Dralar have been marred by the madness of Prince Tortheldrin. I seek only freedom... Escape...",
+  "c": "You have found it! A curse upon that miserable imp. Alas, my material possessions are meager at best. You may choose from what I have to offer."
+ },
+ {
+  "id": 7461,
+  "t": "The Madness Within",
+  "o": "You must destroy the guardians surrounding the 5 Pylons that power the Prison of Immol'thar. Once the Pylons have powered down, the force field surrounding Immol'thar will have dissipated.$B$BEnter the Prison of Immol'thar and eradicate the foul demon that stands at its heart. Finally, confront Prince Tortheldrin in Athenaeum.$B$BReturn to the Shen'dralar Ancient in the courtyard should you complete this quest.",
+  "d": "Have you heard enough? Are you a $g man:woman; of action?$B$BThis madness must come to an end. The age of the immortals has long since passed. Destroy the guardians surrounding the pylons to lower the force field. When this is done, destroy Immol'thar. With the Prince's power greatly reduced, attack and end him. Lay the spirits of this city to rest, adventurer.",
+  "p": "Be wary, adventurer. The Prince is... persuasive.",
+  "c": "We thank you, hero."
+ },
+ {
+  "id": 7462,
+  "t": "The Treasure of the Shen'dralar",
+  "o": "Return to the Athenaeum and find the Treasure of the Shen'dralar. Claim your reward!",
+  "d": "In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",
+  "p": "",
+  "c": "You open the chest to find..."
+ },
+ {
+  "id": 7463,
+  "t": "Arcane Refreshment",
+  "o": "Travel to the Warpwood Quarter of Dire Maul and slay the water elemental, Hydrospawn. Return to Lorekeeper Lydros in the Athenaeum with the Hydrospawn Essence.",
+  "d": "A $r mage! How wonderous. I have not seen one of your kind for... oh what is it going on now? 500 years!$B$BI have something that will quench your thirst, but first you must do a task for me.$B$B<Lydros snickers.>$B$BThere is an anomaly in Eldre'Thalas. A water elemental has taken residence in the east wing. His presence must be catalogued!$B$BVenture to the Warpwood Quarter and extract a portion of the elemental essence of the Hydrospawn. Return it to me and I shall teach you a useful cantrip.",
+  "p": "Yes? Do I know you?",
+  "c": "Wonderful! Who are you again? Oh it matters not. What was I supposed to give you? Hrm... well you are a $c, perhaps you will find this useful."
+ },
+ {
+  "id": 7481,
+  "t": "Elven Legends",
+  "o": "Search Dire Maul for Kariel Winthalus. Report back to Sage Korolusk at Camp Mojache with whatever information that you may find.",
+  "d": "Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.$B$BOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.$B$BWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).$B$BYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",
+  "p": "My associate, the night elf scholar, Runethorn, is recruiting her allies for this task.",
+  "c": "A shame... a tragedy. The items are lost you say? No trace of him, eh?"
+ },
+ {
+  "id": 7482,
+  "t": "Elven Legends",
+  "o": "Search Dire Maul for Kariel Winthalus. Report back to Scholar Runethorn at Feathermoon with whatever information that you may find.",
+  "d": "Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.$B$BOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.$B$BWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).$B$BYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",
+  "p": "My associate, the night elf scholar, Runethorn, is recruiting her allies for this task.",
+  "c": "A shame... a tragedy. The items are lost you say? No trace of him, eh?"
+ },
+ {
+  "id": 7483,
+  "t": "Libram of Rapidity",
+  "o": "Bring a Libram of Rapidity, 1 Pristine Black Diamond, 2 Large Brilliant Shards, and 2 Blood of Heroes to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Rapidity.",
+  "d": "Master Winthalus lost the Libram of Rapidity in the east wing. The Libram will allow for a minor haste cantrip to be placed upon your equipment. Parlor tricks, really...$B$BRegardless, if you are interested, you will need to present the Libram along with some basic reagents.$B$BHrm... I believe it also requires blood of heroes, a pristine black diamond, and large brilliant shards. I could be wrong!$B$B<Lydros shrugs.>",
+  "p": "What is it? I have much cataloguing to do!",
+  "c": "<Lydros yawns.>$B$BAs promised, the Arcanum of Rapidity. Don't spend it all in once place.$B$B<Lydros snickers.>"
+ },
+ {
+  "id": 7484,
+  "t": "Libram of Focus",
+  "o": "Bring a Libram of Focus, 1 Pristine Black Diamond, 4 Large Brilliant Shards, and 2 Skin of Shadow to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Focus.",
+  "d": "This libram almost aroused interest in one of the younger Lorekeeper's familiars. Poor thing, it was only a few weeks old.$B$BThose among you who are more magically inclined might find this item interesting.$B$BThe Libram of Focus was lost in this wing. I can only assume one of the Highborne spirits holds it in their possession.$B$BBring the Libram along with some large brilliant shards, skin of shadow, and a pristine black diamond and I shall conjure the Arcanum.",
+  "p": "You again? What could you possibly want now?",
+  "c": "Don't hurt yourself when applying the enchantment, $R."
+ },
+ {
+  "id": 7485,
+  "t": "Libram of Protection",
+  "o": "Bring a Libram of Protection, 1 Pristine Black Diamond, 2 Large Brilliant Shards, and 1 Frayed Abomination Stitching to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Protection.",
+  "d": "He wept like an infant at the loss of this libram. Mind you, I myself have wept over texts - there is no greater loss than that of knowledge and history - but to cry over this nearly useless jumbling of incantations? Preposterous! It left me to believe that the Prince was doing him a favor in flaying the flesh from his bones.$B$BBring the Libram along with a pristine black diamond, large brilliant shards, and a frayed abomination stitching and I shall recreate the Arcanum.$B$BOh, and check the north wing.",
+  "p": "My patience prevents your suffering.",
+  "c": "Yes, yes... Calm yourself. As promised, here is your Arcanum."
+ },
+ {
+  "id": 7486,
+  "t": "A Hero's Reward",
+  "o": "Claim your reward from Hydraxis' Coffer.",
+  "d": "$N, your services to the Warlords surpassed all we could expect from the denizens of this world.$B$BWe do not understand your people's notions of gratitude, or rewarding good works, but in this case... perhaps a reward is warranted.$B$BUnder the surf at the southern base of this island, you will find a coffer.  In it you will find your... reward.$B$BGo, $N.  Claim your reward.",
+  "p": "",
+  "c": "Hydraxis' voice descends from the waters' surface...$B$B\"Choose that which best suits you, $N.  May it protect you against the foes of the Waterlords.\""
+ },
+ {
+  "id": 7487,
+  "t": "Attunement to the Core",
+  "o": "Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",
+  "d": "Rifts stir, tear, and collapse all around us, $r. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.$B$BSurprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.$B$BI assure you, the portal is there and access is possible.$B$BI've piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",
+  "p": "You must attune your soul with the Molten Core before access is granted.",
+  "c": "I am now able to transport you to the Molten Core. Ask and it shall be done."
+ },
+ {
+  "id": 7488,
+  "t": "Lethtendris's Web",
+  "o": "Bring Lethtendris' Web to Latronicus Moonspear at the Feathermoon Stronghold in Feralas.",
+  "d": "The mage Lethtendris, a vicious blood elf whose brutality is matched only by her twisted addiction to magic, has fled into Dire Maul.  She has created a device, a web to ensnare the magical energies of that place and we fear that, if left unchecked, she will cause irreparable damage to our world!$B$BStop her, $N.  Find her and retrieve her web.  She is likely near the satyrs in Warpwood Quarter of Dire Maul.  Bring the web to me so that its power may be released safely back into the wilds...",
+  "p": "Do you have the web, $N?  Its concentrated magical energy must be dissipated!",
+  "c": "You retrieved the web!  Well done, $N!  Lethtendris, like many elves of her ilk, are blind to the dangers the abuse of magic can cause to our world.  They believe they are masters of magic; they do not realize that they are slaves to their own addiction.  Her death saddens me, but it was necessary.$B$BThank you, $N.  I will have the energies within the web released safely over a wide area, and then I'll destroy it to prevent future magical exploits."
+ },
+ {
+  "id": 7489,
+  "t": "Lethtendris's Web",
+  "o": "Bring Lethtendris's Web to Talo Thornhoof at Camp Mojache in Feralas.",
+  "d": "The blood elf Lethtendris has overstepped her bounds.  So eager was she to gather magical power that she defied her brethren and created a device of insidious design, a web meant to siphon the tainted magical energies of Dire Maul.  Even now she gathers those energies and plans to release them against her enemies.$B$BLethtendris must be stopped.  Find her within the Warpwood Quarter of Dire Maul, defeat her and bring her web to me so that it might be returned to more clear-headed blood elves for study.",
+  "p": "$N, do you have Lethtendris's Web?",
+  "c": "You have done well, $N. This web holds within it vast stores of the magic of Dire Maul, and I fear what damage may be unleashed if those energies were harnessed by one so irresponsible as Lethtendris. I am saddened by her death, but I know that she could never part with her web while alive.$b$bThank you, $N. I will send the web to students of magic more responsible than Lethtendris. They will be the new wardens of its power."
+ },
+ {
+  "id": 7490,
+  "t": "Victory for the Horde",
+  "o": "Take the Head of Onyxia to Thrall in Orgrimmar.",
+  "d": "You have accomplished the impossible. The brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to your Warchief.",
+  "p": "<Thrall's stoic demeanor changes for a split second when he sees the enormous head of Onyxia. The mighty Doomhammer was nearly unsheathed.>",
+  "c": "This is a great victory for the Horde, $N. So many times you have honored your Warchief. It is time for the Warchief to honor you."
+ },
+ {
+  "id": 7491,
+  "t": "For All To See",
+  "o": "Seek out Overlord Runthak in the Valley of Strength.",
+  "d": "Overlord Runthak awaits your arrival in the Valley of Strength.$B$B<Thrall salutes you.>$B$BDo not keep your public waiting, hero.",
+  "p": "",
+  "c": "Choose your reward and let the celebration of your glorious victory begin."
+ },
+ {
+  "id": 7492,
+  "t": "Camp Mojache",
+  "o": "Speak with Talo Thornhoof at Camp Mojache in Feralas.",
+  "d": "Talo Thornhoof, a Tauren elder in Feralas, sends a request for aid.  He offered few details, but he did say that he needs agents for a matter both delicate... and dire.$B$BServe the Horde, $N.  Go to Camp Mojache in Feralas and speak with Talo.",
+  "p": "",
+  "c": "Ah, it is good to see a $c heed my summons. I have need of your services, $N, and fear they will take you down a dangerous path...$b$bA path into Dire Maul."
+ },
+ {
+  "id": 7493,
+  "t": "The Journey Has Just Begun",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "A dragon slayer and a seasoned leatherworker? You do not cease to astonish, hero. I am humbled.$B$BPlease accept what I am about to teach you. This knowledge will prove to be invaluable if you are to destroy what remains of the Black Dragonflight.$B$BCreate the cloak from the scales of the brood mother. It will protect you and your allies against the incendiary breath of the Lord of Blackrock... Nefarian."
+ },
+ {
+  "id": 7494,
+  "t": "Feathermoon Stronghold",
+  "o": "Speak with Latronicus Moonspear at the Feathermoon Stronghold in Feralas.",
+  "d": "$N!  Your aid is needed in Feralas!$B$BAn outlaw mage, Lethtendris, has fled to the ancient elven ruins Eldre'thalas, now called Dire Maul.  It is believed she has an item of dangerous magical energy which must be recovered.$B$BLatronicus Moonspear requests agents to enter Dire Maul and retrieve the item from Lethtendris.$B$BServe the Alliance!  Seek out Latronicus at the Feathermoon Stronghold in Feralas.",
+  "p": "",
+  "c": "Hail, $N.  I am pleased to see you, but regret that our meeting is not under more pleasant conditions.$B$BListen close, for I have a vital task for you..."
+ }
+]

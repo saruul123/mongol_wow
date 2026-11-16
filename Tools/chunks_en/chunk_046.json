@@ -1,0 +1,962 @@
+[
+ {
+  "id": 10611,
+  "t": "The Art of Fel Reaver Maintenance",
+  "o": "Kill Doctor Maleficus and obtain the Doctor's Key. Use the key to open the Doctor's Strongbox to retrieve The Art of Fel Reaver Maintenance and deliver the book to Nakansi at Invasion Point Cataclysm.",
+  "d": "The best way to destroy the rest of the Legion's supplies is to use their own weapons against them. I've been working on a rig that will let you take control of one of those Fel Reaver Sentinels below.$B$BThere are a couple things I need to work out, yet. For that, I'll need the manual that Doctor Maleficus keeps locked in a chest near the bottom of the ramp. He probably won't give up the key without a fight, so you'll need to capture it. Bring the fel reaver manual back to me and I'll do the rest.",
+  "p": "Did you get that manual?",
+  "c": "This has the information I'm looking for. Just a couple more tweaks, and we'll have you taking control of a fel reaver in no time."
+ },
+ {
+  "id": 10612,
+  "t": "The Fel and the Furious",
+  "o": "Use a Fel Reaver Control Console to take control of a Fel Reaver Sentinel. Destroy 60 Deathforged Infernals before your fel reaver fails. When your mission is complete, report to Plexi at Invasion Point: Cataclysm.",
+  "d": "<Plexi leafs through the manual.>$B$BWell, this has everything we need, but there's just one problem. Fel Reavers aren't really built to respond to remote control.$B$BWe can modify one for you to use for a short time, but you'll have to work fast, or there's no telling what might happen! I wouldn't be surprised if your little stunt with the fel reaver catches the attention of the Legion's lackeys, either. Keep an eye out, and whatever you do, don't forget to destroy as much as you can!",
+  "p": "You're back, so I'll assume the operation went well. What've you got to report?",
+  "c": "Amazing! You've managed to do what all the gryphonriders in Wildhammer Stronghold couldn't! You've broken the back of the Burning Legion's advance and spared us from annihilation at the hands of their infernals. You have our deepest gratitude for your service, $N."
+ },
+ {
+  "id": 10613,
+  "t": "The Fel and the Furious",
+  "o": "Use a Fel Reaver Control Console to take control of a Fel Reaver Sentinel. Destroy 60 Deathforged Infernals before your fel reaver fails. When your mission is complete, report to Nakansi at Invasion Point: Cataclysm.",
+  "d": "<Nakansi leafs through the manual.>$B$BAll the information is here, but be warned. These things weren't built to be controlled remotely.$B$BWe can modify one for you to use for a short time, but you'll have to work fast, or there's no telling what might happen! I wouldn't be surprised if your little stunt with the fel reaver catches the attention of the Legion scum, either. Try to keep yourself safe, but remember, the mission and the safety of Shadowmoon Village come first!",
+  "p": "You're back, so I'll assume the operation went well. What've you got to report?",
+  "c": "I'll admit it, $N. I'm impressed by all you've managed to accomplish. Destroying the Legion's ability to make war in Shadowmoon will give us the opportunity to turn the tide elsewhere."
+ },
+ {
+  "id": 10614,
+  "t": "Whispers on the Wind",
+  "o": "Speak with Leoroxx at the Mok'Nathal Village in the Blade's Edge Mountains.",
+  "d": "I have chased rumors of the Mok'Nathal across Outland with nothing to show for it. Finally, we may have found their home.$b$bBut now that the moment is here, I am filled with unease. Unease that has kept me awake deep into the nights during my search. Will they accept me?$b$bI... know their leader's name: Leoroxx. Seek him out. You must be my eyes in this.",
+  "p": "",
+  "c": "What brings you to our village?"
+ },
+ {
+  "id": 10615,
+  "t": "Ruuan Weald",
+  "o": "Speak with Timeon at Evergrove, which is in the Ruuan Weald in the Blade's Edge Mountains.",
+  "d": "The information you have helped me reveal about the nature of the arakkoa here will be of great interest to another.$b$bWe were visited by members of the Cenarion Expedition, who have also become concerned with the arakkoa's intentions here in the Blade's Edge Mountains.$b$bYou should seek him out. His name is Timeon, and you will find him at Evergrove in Ruuan Weald. Follow the road west from here, then north when it forks in Razor Ridge. Finally, follow the road west when it splits in the Bladed Gulch.",
+  "p": "",
+  "c": "Ah, yes, Dertrok. We spoke briefly about the arakkoa. I must say that our... interests in them vary quite significantly."
+ },
+ {
+  "id": 10617,
+  "t": "Silkwing Cocoons",
+  "o": "Collect 8 Silkwing Cocoons from Silkwing Larva.$b$bKill the Larva quickly or they will turn into Silkwings, ruining their cocoons.",
+  "d": "The silk from the cocoons of the silkwings are used for all manner of things in the village. We can never get enough, and we never have enough.$b$bIt is difficult to harvest the cocoons from the larva once they begin the process of metamorphosis.$b$bOur warriors are occupied with the assault on our village. If you could gather these for us, that would be helpful.",
+  "p": "A swift and sure hand is needed for the harvesting. I hope you will be successful.",
+  "c": "Good quality cocoons, these. I can see you've gotten the hang of harvesting them.$B$BWe have experimented with trying to raise our own silkwing larva, but unfortunately the small ones do not produce enough silk to be of use to us."
+ },
+ {
+  "id": 10618,
+  "t": "The Softest Wings",
+  "o": "Collect 12 Iridescent Wings.",
+  "d": "Hunting silkwing larva is a difficult challenge for our young warriors, but luckily, even if they fail to harvest the cocoon from the larva, we can still use the wings of hatched silkwings.$b$bIn fact, we use the wings for much more than the cocoons, and we can never have too many.$b$bIf you'll be out there, it would be a great help if you could bring me some.",
+  "p": "The wings are quite delicate, but can be inlaid as a decorative element in many of our designs.",
+  "c": "Thank you, $N. We will use these sooner than you might think."
+ },
+ {
+  "id": 10619,
+  "t": "The Ashtongue Tribe",
+  "o": "Vindicator Aluumen wants you to go to the Ruins of Baa'ri and slay 3 Ashtongue Handlers, 4 Ashtongue Warriors and 6 Ashtongue Shaman.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "The Ashtongue tribe is feared among all Broken.  It consists of the most vicious and bloodthirsty individuals, handpicked by Akama himself.  They are as fierce and ruthless as any naga, demon or blood elf in Illidan's army and they have been deployed in large numbers at the Ruins of Baa'ri, southwest of here.  Go there and put a dent in their numbers before they get a chance to mount an attack on us.",
+  "p": "Have you completed the task I requested of you, $N?",
+  "c": "Glory to the naaru, $N.  You've done the Light's bidding by defeating those who follow Illidan."
+ },
+ {
+  "id": 10620,
+  "t": "Ridgespine Menace",
+  "o": "Slay 10 Ridgespine Stalkers.",
+  "d": "We hired on to help Toshley when he decided to move to Outland, and we've been on the move ever since.$B$BNow it looks like we've finally put down some roots.  All of the crazy scientists have their projects going, and us Roughriders are here to protect them.$B$BWhat we need right now is for you to go north into Razor Ridge, or east to the Scalewing Shelf, and keep them clear by killing the stalkers.  They're stealthy spiders that live amongst the rock outcroppings, and jump unsuspecting passersby.",
+  "p": "Those stalkers cleared out yet? We've had a few of our people who headed north disappear.$B$BIf it's because of the stalkers, I want to make sure that it doesn't happen again.",
+  "c": "Pretty good for a rookie. As it turns out, we've got a small group of eggheads that want to go 'observe' the ethereals and their technology up north. They'll be thrilled to know that you cleared the way for them.$B$BHere, take some of these. We don't have many, but maybe they'll help you out in the future."
+ },
+ {
+  "id": 10621,
+  "t": "Illidari-Bane Shard",
+  "o": "Bring the Illidari-Bane Shard to Ordinn Thunderfist at Wildhammer Stronghold.",
+  "d": "The shard appears to be a piece of a larger weapon. Sharp-looking runes etched into the metal glow with a menacing light.$B$BThe weapon's intended purpose isn't clear to you, but it's hard to ignore. Most of the mo'arg at Legion Hold seem to be working with fragments of the same metal you hold in your hand. Perhaps one of the weaponsmiths at Wildhammer Stronghold might be able to tell you more about it.",
+  "p": "What have you got there?",
+  "c": "<Ordinn accepts the weapon fragment from you.>$B$BI haven't seen something like this in a long time. Sure, it's made from a rare ore, but this is destined for no mundane weapon, $N. It's infused with a magic intended to destroy demons. If you obtained this from the Legion, it must be some kind of 'secret weapon' they're planning to deploy against Illidan. What a find!"
+ },
+ {
+  "id": 10622,
+  "t": "Proof of Allegiance",
+  "o": "Slay Zandras at the Warden's Cage in Shadowmoon Valley and return to Sanoru.",
+  "d": "Akama has been tracking your progress quite closely, $N.$B$BThe Ashtongue you've slain at the Ruins of Baa'ri are amongst the most evil Broken known among us... carefully hand-picked by Akama himself to maintain the facade we need to present to Illidan.  The Deathsworn, however, know of Akama's true intentions.$B$BFirst things first.  We need to know that you are not with Illidan.  A Satyr known as Zandras watches over us from above the prison walls on his behalf.  Slay him as proof of your allegiance.",
+  "p": "Have you done what I asked of you, $N? Trust is not easily found around these parts.",
+  "c": "Very well, $N. Your allegiance is no longer in question. You may see Akama now."
+ },
+ {
+  "id": 10623,
+  "t": "Illidari-Bane Shard",
+  "o": "Bring the Illidari-Bane Shard to Grokom Deatheye at Shadowmoon Village.",
+  "d": "The shard appears to be a piece of a larger weapon. Sharp-looking runes etched into the metal glow with a menacing light.$B$BThe weapon's intended purpose isn't clear to you, but it's hard to ignore. Most of the mo'arg at Legion Hold seem to be working with fragments of the same metal you hold in your hand. Perhaps one of the weaponsmiths at Shadowmoon Village might be able to tell you more about it.",
+  "p": "What have you got there?",
+  "c": "<Grokom accepts the weapon fragment from you.>$B$BI haven't seen this in years. Not only is it made from a rare ore. but it's not about to be used in an ordinary weapon, $N.$B$BThese runes imbue the blade with the power to obliterate demons. This shows how much the Legion hates Illidan, if they're willing to arm their own troops with demon-destroying weapons. We could use this to our advantage."
+ },
+ {
+  "id": 10624,
+  "t": "A Haunted History",
+  "o": "Chief Apothecary Hildagard at Shadowmoon Village in Shadowmoon Valley wants you to bring her 15 Ever-burning Ash samples.",
+  "d": "Have you felt the cold chill? Perhaps what you thought was a hand on your shoulder? That was not your mind playing tricks on you, $r. The land is haunted. Ghosts litter the landscape, stuck here for all eternity.$B$BWould you like to see them? Are you sure about that? These types of things tend to change a person - and not for the better.$B$BVery well, I will need you to collect for me the ever-burning ash that is found near any of the fel lava pools of western Shadowmoon. Anywhere near green lava...$B",
+  "p": "What do you mean? I'm going to make something out of the ash - obviously.",
+  "c": "Your world is about to change, $N.$B$B<Hildagard begins crafting something out of the ash.>"
+ },
+ {
+  "id": 10625,
+  "t": "Spectrecles",
+  "o": "Chief Apothecary Hildagard at Shadowmoon Village in Shadowmoon Valley wants you to slay 12 Shadowmoon Zealots.",
+  "d": "I call them \"Spectrecles.\" Clever, no? When you equip these goggles, you will be able to see the spirits of Shadowmoon Valley.$B$BBefore I let you have them, though, you must promise me that you will help us clear out the ghosts at the village.$B$BTake the goggles and destroy any and all spirits that you see wandering about Shadowmoon Village. Hopefully, destroying these spirits will force any that remain to move elsewhere.",
+  "p": "If you lose your goggles, let me know and I will craft another pair.",
+  "c": "Gorefiend? T... Teron Gorefiend? But... How?$b$bHow could Gorefiend be here? This is impossible!$b$bThe legend of Teron Gorefiend is one that causes even the Forsaken to tremble in fear. By all accounts, Gorefiend was a warlock of Gul'dan - extremely powerful in his own right. When Gorefiend was slain by Orgrim Doomhammer, Gul'dan took the soul of the fallen warlock and placed it inside the broken shell of a slain knight of Stormwind. And so was born the first death knight of the Horde."
+ },
+ {
+  "id": 10626,
+  "t": "Capture the Weapons",
+  "o": "Ordinn Thunderfist at Wildhammer Stronghold wants you to bring him Mazakradon's Glaive and Morgroron's Glaive.",
+  "d": "With a larger supply of this material, we might be able to forge a weapon for you to use.$B$BThe two pit lords at Legion Hold, Makazradon and Morgroron, have already been equipped with these anti-demon weapons. We have no way of knowing how many more the Legion intends to produce, but if we can capture these prototypes, there should be enough for our project.$B$B<Ordinn grins.>$B$BThere's a certain amount of satisfaction in using the Legion's own 'secret weapons' against them, don't you think?",
+  "p": "Did you capture those prototypes?",
+  "c": "These should work nicely. Now, let's forge them into a more useful form."
+ },
+ {
+  "id": 10627,
+  "t": "Capture the Weapons",
+  "o": "Grokom Deatheye at Shadowmoon Village wants you to bring him Mazakradon's Glaive and Morgroron's Glaive.",
+  "d": "With a larger supply of this material, I can forge a weapon suitable for you.$B$BThe two pit lords at Legion Hold, Makazradon and Morgroron, have already been equipped with these anti-demon weapons. Capturing those two weapons should provide us with enough material to make your weapon, and then some.$B$BI can't wait to bring the battle to the enemy using these weapons. That'll teach the Legion to trifle with anti-demon magics.",
+  "p": "Did you capture those prototypes?",
+  "c": "These should work nicely. Now, let's forge them into a more useful form."
+ },
+ {
+  "id": 10628,
+  "t": "Akama",
+  "o": "Speak to Akama inside the hidden chamber in the Warden's Cage.",
+  "d": "You've proven what side you're on.  I will reveal to you our leader's hideout.$B$BFollow the halls beyond; there will be an underground passage hidden by stagnant water on your right.$B$BI must warn you, $N.  You are not to speak to anyone of what you see there.",
+  "p": "",
+  "c": "Hail, $N. There is much we need to talk about.$B$BI hope your mind is an open one. The decisions I make are not understood by many. Only my closest collaborators have understanding of the portents I see and the signs I await.$B$BWhen I joined forces with Illidan it was based on visions foretelling that otherwise my race would have been destroyed. I've waited patiently for other signs and visions to come to pass... Velen's exodus... the opening of the Dark Portal... and now... your arrival."
+ },
+ {
+  "id": 10629,
+  "t": "Shizz Work",
+  "o": "Use the Felhound Whistle to summon a Fel Guard Hound.  Take the Fel Guard Hound for a walk and kill some Deranged Helboars.  Search for the Shredder Keys in the Fel Guard Hound's \"leavings.\"  Return the Shredder Keys to Foreman Razelcraz by the mine northwest of Thrallmar.",
+  "d": "I finally got my shredder working but I seem to have lost the keys.  I keep a pack of felhounds to protect my camp.  They don't do a very good job and they like to bite me a lot.  They also like shiny things.  I think this one felhound I have may have eaten my shredder keys.  I'll pay you if you'll take my felhound on a walk.  Kill some helboars and let him eat.  He'll do his business.  When he's done, see if you can't find the keys in his \"leavings.\"",
+  "p": "Did you manage to find my keys?  I'm sure one of my felhounds ate them.  It's probably the one I sent with you.  Probably.",
+  "c": "You smell terrible.  But you found my keys!  Thank you so much.  Now I can get my shredder started and make some money.  Pretty soon I will have enough money to leave Outland.  I don't know why you stay, I hate this place.  Wouldn't you rather be back in Booty Bay?$B$BMaybe do some fishing?"
+ },
+ {
+  "id": 10630,
+  "t": "Beneath Thrallmar",
+  "o": "Kill Urga'zz and return to Foreman Razelcraz by the mine northwest of Thrallmar.",
+  "d": "I'm almost back in business.  Problem is all these gan'arg are in my mine.  I can't send my peons in and even once I fix this shredder I wouldn't want to risk it in combat. Deep down in the mine the gan'arg have a leader.  If you kill him maybe the gan'arg will leave.  Then I could make some money and buy my way out of here. ",
+  "p": "Is he dead yet? I'm too scared to look.",
+  "c": "All those gan'arg are sure to clear out now.  I'll be back in Booty Bay within a week.  I can't wait to go fishing again.  Coming to Outland was a mistake.  If you'll take my advice, you'll head back the way you came.  Spend some time in Stranglethorn, or maybe, if you feel adventurous, head to Un'Goro Crater.  Just don't stay here.  "
+ },
+ {
+  "id": 10631,
+  "t": "Back In Business",
+  "o": "Get some ore.",
+  "d": "Take my shredder.  Go into the mine and get some ore.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10632,
+  "t": "Cutting Your Teeth",
+  "o": "Collect 5 Extra Sharp Daggermaw Teeth.",
+  "d": "It's nice that you've been helping out Toshley and his scientists.  I, however, do not have the luxury of indulging in my 'personal' interests.$B$BIf you want to make a difference around here, you'll do what I ask of you, and right now, I need weapons.$B$BOur guns are effective at range, but when the bugs get in close, we need to have powerful melee weapons as a backup.$B$BThe teeth of the daggermaw lashtails in the northern part of the Razor Ridge make for great vibro-weapon blades.  Scare me up some.",
+  "p": "How's that collection of teeth coming along?$B$BI'm sure that you're going to do a fine job of getting them for us. While you're doing that, we'll just hold down the outpost here.",
+  "c": "Good work, kid. All of the pain is worth it if even one of my soldiers' lives is saved by your efforts.$B$BI think you should benefit from your sweat and tears, too. Since we're going to have a new batch of weapons soon, why don't you take one of mine?"
+ },
+ {
+  "id": 10633,
+  "t": "Teron Gorefiend - Lore and Legend",
+  "o": "Chief Apothecary Hildagard at Shadowmoon Village in Shadowmoon Valley wants you to find the Ancient Shadowmoon Spirit.$B$BIf you lose your Spectrecles, Chief Apothecary Hildagard can make you a new pair.",
+  "d": "Stories abound about the life of Teron Gorefiend, but most are just that - stories. We do not know what happened to Gorefiend after he returned to Draenor.$B$BThe only thing we are certain of is that he has already died once.$B$BI have heard the scouts here speaking of an ancient orc spirit that resides at the Altar of Shadows, far to the southeast, across the Netherwing Fields and through Netherwing Pass. Take the Spectrecles and track this orc down. He will surely have more information on Gorefiend.",
+  "p": "",
+  "c": "Gorefiend? Why, I have not heard that name in ages!$B$BAfter the Second War, Gorefiend returned here, along with his death knights. Unable to cope with the terrible nature of his new form and without the support of his beloved leader, Gul'dan, Gorefiend killed himself.$B$BIf he walks these lands now as a spirit, it is news to me. Yet, perhaps I can divine such knowledge with your assistance."
+ },
+ {
+  "id": 10634,
+  "t": "Divination: Gorefiend's Armor",
+  "o": "The Ancient Shadowmoon Spirit at the Altar of Shadows in southeast Shadowmoon Valley wants you to recover Gorefiend's Armor.",
+  "d": "In life, Gorefiend was a monster, but in death, Gorefiend was an unmitigated terror.$B$BTo the southeast you will find Netherwing Ledge. What was once part of the mainland of Shadowmoon is now a floating island in the sky.$B$BVhel'kur, spawn of Deathwing, once called it his home, but now knows it as his grave. He flies an endless circle above the island, seething at his defeat to Gorefiend.$B$BIf you are to recover the Gorefiend's armor, it is Vhel'kur that you must defeat.",
+  "p": "Fly to Netherwing Ledge to recover the piece.",
+  "c": "I must have all of the pieces before I am able to divine the fate of Gorefiend."
+ },
+ {
+  "id": 10635,
+  "t": "Divination: Gorefiend's Cloak",
+  "o": "The Ancient Shadowmoon Spirit at the Altar of Shadows in southeast Shadowmoon Valley wants you to recover Gorefiend's Cloak.",
+  "d": "Many a cruel act he committed but none so cold as the slaughter of the clerics of Karabor.$B$BAfter Gul'dan's Horde defeated the draenei of Karabor, the surviving clerics of Karabor were marched out, told that they were to be taken to Hellfire Citadel as prisoners of war.$B$BGorefiend, not yet a death knight, murdered each and every last one of them in cold blood. They now roam in front of the Black Temple with vengeance in their hearts.$B$BIt is the clerics of Karabor that hold the cloak of Gorefiend.",
+  "p": "You must use the Spectrecles if you wish to see the spirits of Shadowmoon.",
+  "c": "When I have all three of the pieces in my possession, I will be able to divine the whereabouts of Gorefiend."
+ },
+ {
+  "id": 10636,
+  "t": "Divination: Gorefiend's Truncheon",
+  "o": "The Ancient Shadowmoon Spirit at the Altar of Shadows in southeast Shadowmoon Valley wants you to recover Gorefiend's Truncheon.",
+  "d": "One by one they knelt before him, offering their lives as a show of allegiance. Gorefiend hoisted his sickle and cut clean their heads. Shortly after this slaughter, Gorefiend took his own life.$B$BBut this was no act of contrition! No, Gorefiend sought immortality! From the corpses of the fallen death knights rose the Ghostriders of Karabor.$B$BThey now ride the roads encircling the Hand of Guldan, awaiting the day that their master returns. It is they who hold the truncheon of Gorefiend. Retrieve it...",
+  "p": "You must use the Spectrecles if you wish to see the spirits of Shadowmoon.",
+  "c": "Only with all three united may I divine the secrets you so desperately seek!"
+ },
+ {
+  "id": 10637,
+  "t": "A Necessary Distraction",
+  "o": "Exarch Onaala wants you to return to the Ruins of Karabor and find a way to unleash Azaloth on his captors.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "The weapons are authentic, as we feared.  Illidan is training demon hunters at the Ruins of Karabor and we must put an end to it.$B$BDo not be fooled by their name, $N, their power will be used against us as often as against any demon.$B$BTheir warlocks summon and subdue demons to be used as part of the initiates' training.  A pit lord named Azaloth has proven too strong to be used in training and is kept banished.  Find a way to let him loose on his captors.  That should buy us the time we need.",
+  "p": "Have you completed the task I asked of you?",
+  "c": "Let us hope that distraction bought us the time we need to fully learn what we need of the training grounds at Karabor."
+ },
+ {
+  "id": 10638,
+  "t": "NOT A QUEST",
+  "o": "Seek <NAME> in the <DISTRICT> of Silvermoon City.",
+  "d": "Seek your trainer in Silvermoon City.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10639,
+  "t": "Teron Gorefiend, I am...",
+  "o": "The Ancient Shadowmoon Spirit has used you as a pawn! Now that you have collected the items he required, he has revealed himself to be Teron Gorefiend. To break free of his possession, you must do his bidding and slay Karsius the Ancient Watcher.$B$BIf you succeed, return to Chief Apothecary Hildagard at Shadowmoon Village.",
+  "d": "With Gorefiend's items restored, there is but one last piece to this puzzle: A host.$B$B<The ancient shadowmoon spirit's lips curl up  to form a wicked grin.>$B$BSurely you did not believe the fairy tale that I told you. The Altar of Shadows is my prison. Without your help, I would have been stuck here for all eternity. Now, I will take over your body and you will destroy my captors and break these bonds. Refuse and we will both be stuck here forever.$B$BTeron Gorefiend will be free!",
+  "p": "",
+  "c": "You did what? FOOL!$B$BYou must right this wrong. After all, it is your fault. Take one of these helmets. They are each infused with the ever-burning ash that you retrieved for me. More importantly, they will allow you to see the ghosts of Shadowmoon, including Teron Gorefiend.$B$BShould you ever find Teron Gorefiend, destroy him."
+ },
+ {
+  "id": 10640,
+  "t": "Altruis",
+  "o": "Travel to western Nagrand and find Altruis the Sufferer.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "It is rare in this day and age to hear of those who follow the path of the demon hunter.  It is rarer still to find someone who does and has no allegiance to Illidan.$B$BThere are rumors of one such individual here in Outland.  One name is said to be feared in the Legion fields of Nagrand more than any army of Aldor vindicators.  That name is Altruis.$B$BGo to western Nagrand and find him.  He might be willing to shed some light on these new demon hunter training grounds.",
+  "p": "",
+  "c": "You've come a long way, stranger. I'm surprised whoever sent you has heard of me."
+ },
+ {
+  "id": 10641,
+  "t": "Against the Legion",
+  "o": "Altruis the Sufferer wants you to obtain Freshly Drawn Blood from a Wrath Priestess at Forge Base: Gehenna in Netherstorm.  Spill it on the ground and slay the Avatar of Sathal.  Return to Altruis when you've completed this task.",
+  "d": "The Burning Legion has proven its capacity to corrupt mortal souls time and again.  If I'm to entrust you with the knowledge you seek, I must have proof of your allegiance.$B$BA demoness known as Sathal has eluded me for a long time as she's gifted with an incorporeal form.$B$BShe watches over the wrath priestesses as they do her bidding at Forge Base: Gehenna.  Slay one of her minions and spill her blood on the ground.  This affront should cause Sathal to materialize temporarily.  Slay her while you can.",
+  "p": "Have you slain the demoness?",
+  "c": "You've proven you're not tainted by the Legion's touch and the enemy of my enemy is my friend."
+ },
+ {
+  "id": 10642,
+  "t": "A Ghost in the Machine",
+  "o": "Zorus the Judicator at Wildhammer Stronghold in Shadowmoon Valley wants you to bring him 15 Ever-burning Ash samples.",
+  "d": "I fear that these dwarves do not understand what they have built upon. This area was once the ancestral grounds for the Shadowmoon orcs. I speak of spirits, $r.$B$BFor nearly twenty years they have laid dormant beneath the Wildhammer Stronghold, but recently, something has riled them up.$B$BVenture beyond the gates of Wildhammer and seek out the pools and rivers of fel lava found across this land. Near the lava will be ever-burning ash. Bring me this ash so that I may craft something that will help us.$B",
+  "p": "Aye, a duality exists... I can feel it.",
+  "c": "<Zorus begins to craft something out of the ash samples.>$B$BIt is done. Behold, Spectrecles!"
+ },
+ {
+  "id": 10643,
+  "t": "Harbingers of Shadowmoon",
+  "o": "Zorus the Judicator at Wildhammer Stronghold in Shadowmoon Valley wants you to slay 12 Shadowmoon Harbingers.",
+  "d": "Let it be known that Zorus does have a sense of humor.$B$BEnough small talk. Don the Spectrecles so that you are able to see the Shadowmoon orc spirits that wander this stronghold. Do not be frightened as we are truly the invaders here. Alas, they must be destroyed, for their time has long since passed.$B$BDestroy the Shadowmoon harbingers infesting Wildhammer Stronghold and return to me.",
+  "p": "If you lose your goggles, let me know and I will craft another pair.",
+  "c": "You claim to have heard the ghosts whisper to you? And they mentioned Teron Gorefiend?$B$B<Zorus shudders.>$B$BYes... I know Teron Gorefiend. Rather, I knew of him. He has long been thought dead. What could these ghosts be speaking of?"
+ },
+ {
+  "id": 10644,
+  "t": "Teron Gorefiend - Lore and Legend",
+  "o": "Zorus the Judicator at Wildhammer Stronghold in Shadowmoon Valley wants you to find the Ancient Shadowmoon Spirit.$B$BIf you lose your Spectrecles, Zorus the Judicator can make you a new pair.$B",
+  "d": "Stories abound about the life of Teron Gorefiend, but most are just that - stories. We do not know what happened to Gorefiend after he returned to Draenor.$B$BThe only thing we are certain of is that he has already died once.$B$BI have heard the scouts here speaking of an ancient orc spirit that resides at the Altar of Shadows, far to the east, across the Netherwing Fields and through Netherwing Pass. Take the Spectrecles and track this orc down. He will surely have more information on Gorefiend.",
+  "p": "",
+  "c": "Gorefiend? Why, I have not heard that name in ages!$B$BAfter the Second War, Gorefiend returned here, along with his death knights. Unable to cope with the terrible nature of his new form and without the support of his beloved leader, Gul'dan, Gorefiend killed himself.$B$BIf he walks these lands now as a spirit, it is news to me. Yet, perhaps I can divine such knowledge with your assistance."
+ },
+ {
+  "id": 10645,
+  "t": "Teron Gorefiend, I am...",
+  "o": "The Ancient Shadowmoon Spirit has used you as a pawn! Now that you have collected the items he required, he has revealed himself to be Teron Gorefiend. To break free of his possession, you must do his bidding and slay Karsius the Ancient Watcher.$B$BIf you succeed, return to Zorus the Judicator at Wildhammer Stronghold.",
+  "d": "With Gorefiend's items restored, there is but one last piece to this puzzle: A host.$B$B<The ancient shadowmoon spirit's lips curl up  to form a wicked grin.>$B$BSurely you did not believe the fairy tale that I told you. The Altar of Shadows is my prison. Without your help, I would have been stuck here for all eternity. Now, I will take over your body and you will destroy my captors and break these bonds. Refuse and we will both be stuck here forever.$B$BTeron Gorefiend will be free!",
+  "p": "What's that you say?",
+  "c": "You did what? FOOL!$B$BYou must right this wrong. After all, it is your fault. Take one of these helmets. They are each infused with the ever-burning ash that you retrieved for me. More importantly, they will allow you to see the ghosts of Shadowmoon, including Teron Gorefiend.$B$BShould you ever find Teron Gorefiend, destroy him."
+ },
+ {
+  "id": 10646,
+  "t": "Illidan's Pupil",
+  "o": "Listen to Altruis's story.",
+  "d": "You've proven your allegiance, $N.  You must forgive my caution, but in this world things are not what they appear.$B$BI will tell you about Varedis when you're ready.",
+  "p": "",
+  "c": "You know the story now. Only one thing remains to be done."
+ },
+ {
+  "id": 10647,
+  "t": "Wanted: Uvuros, Scourge of Shadowmoon",
+  "o": "Slay Uvuros and recover Uvuros's Fiery Mane. Return it to Warcaller Sardon Truslice at Shadowmoon Village in Shadowmoon Valley.",
+  "d": "Wanted - DEAD:$B$BUvuros, scourge of Shadowmoon Valley.$B$BBy order of Overlord Or'barokh, the fel beast, Uvuros, is to be killed on sight and his mane stripped from his carcass as proof of deed. Return the fiery mane of the beast to Warcaller Sardon Truslice should you succeed.$B$BUvuros was last seen at the Hand of Gul'dan, located in the heart of Shadowmoon Valley - east of Shadowmoon Village.",
+  "p": "Here ta collect a reward, mon?",
+  "c": "Quite da haul you got der, mon. Well done! An' ya be getting' yer reward. Don't ya worry!"
+ },
+ {
+  "id": 10648,
+  "t": "Wanted: Uvuros, Scourge of Shadowmoon",
+  "o": "Slay Uvuros and recover Uvuros's Fiery Mane. Return it to Warcaller Beersnout at Wildhammer Stronghold in Shadowmoon Valley.",
+  "d": "Wanted - DEAD:$B$BUvuros, scourge of Shadowmoon Valley.$B$BBy order of Thane Yoregar, the fel beast, Uvuros, is to be killed on sight and his mane stripped from his carcass as proof of deed. Return the fiery mane of the beast to Warcaller Beersnout should you succeed.$B$BUvuros was last seen at the Hand of Gul'dan, located in the heart of Shadowmoon Valley - northeast of Wildhammer Stronghold.",
+  "p": "I hope you've done somethin' special, $Glad:lass;. Otherwise, buzz off!",
+  "c": "Yep, here's your reward. Don't go spendin' it all in once place."
+ },
+ {
+  "id": 10649,
+  "t": "The Book of Fel Names",
+  "o": "Venture inside the Shadow Labyrinth in Auchindoun and obtain the Book of Fel Names from Blackheart the Inciter.  Return to Altruis in Nagrand once you've completed this task.",
+  "d": "I sympathize with your intentions of stopping Varedis and his followers, but you won't stand a chance against him.  That is, unless you find the artifact that gave him his power.$B$BThe Book of Fel Names is rumored to be in the possession of Blackheart the Inciter inside the Shadow Labyrinth in Auchindoun.  Obtaining it will be your only hope against Varedis.",
+  "p": "Have you obtained the book, $N? ",
+  "c": "I was able to sense the book's power from yards away. The temptation to keep it is... very strong."
+ },
+ {
+  "id": 10650,
+  "t": "Return to the Aldor",
+  "o": "Speak with Exarch Onaala at the Altar of Sha'tar in Shadowmoon Valley.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "This book... I could use it to increase my power tenfold...  No!  It would end up corrupting my very soul, this I am sure of.  Return to those who sent you here, $N.$B$BYou now have the means to stop Varedis.  Wait until he manifests his demonic form through metamorphosis, at that point you will need to burn the book in his presence.  That will be the only way you can deprive him of his power.",
+  "p": "",
+  "c": "You bring this abomination of a book to this holy site? You'd better have a very good explanation, $N?"
+ },
+ {
+  "id": 10651,
+  "t": "Varedis Must Be Stopped",
+  "o": "Exarch Onaala wants you to go to the ruins of Karabor and slay Alandien, Theras, Netharel and Varedis.  Use the Book of Fel Names when Varedis uses Metamorphosis to weaken him.  Return to Exarch Onaala with the Book of Fel Names after you've completed this task.$B$BCompleting quests for the Aldor will cause your Scryers reputation to decrease.",
+  "d": "We must dispose of this foul artifact, but not before we use it to dispose of Varedis's powers.$B$BWe need to permanently shut down the Ruins of Karabor training grounds, which will mean killing not only Varedis but also the three night elf masters that assist him: Alandien, Theras and Netharel.$B$BGather a suitable force and return to the Ruins of Karabor.  Follow Altruis's instructions for defeating Varedis.  For all of our sakes, I hope they work.",
+  "p": "Have you completed what I asked of you, $N?",
+  "c": "Excellent work, $N! Your victory over Varedis will have a tremendous impact on our war against Illidan.$B$BYou've proven yourself not just to the Aldor but to all of Outland. Allow me to destroy what remains of that horrible book."
+ },
+ {
+  "id": 10652,
+  "t": "Behind Enemy Lines",
+  "o": "Speak to Veronia when you're ready to depart to Manaforge Coruu.  Once there, speak to Caledis Brightdawn.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "All arrangements have been made to take you to where our spies are hiding.  Just come see me when you're ready and we'll get you on your way.",
+  "p": "",
+  "c": "Welcome, $c. Try not to give our position away.$B$BWe wouldn't last long if Kael's cronies sniff us out."
+ },
+ {
+  "id": 10653,
+  "t": "Marks of Sargeras",
+  "o": "Bring 10 Marks of Sargeras to Adyen the Lightwarden in Shattrath City.$B$BCompleting quests for the Aldor will cause your Scryers reputation level to decrease.",
+  "d": "By now it should be clear to you why we oppose the Burning Legion and those who serve them.$B$BIf you wish to prove yourself to the Aldor, bring me the insignias of high-ranking Legion and their Shadow Council followers.  The highest-ranking Legion can be found in Netherstorm and Shadowmoon Valley.",
+  "p": "Do you bear any of our enemies' insignias, $N?",
+  "c": "Facing the demons of the Burning Legion and the mad cultists that worship them is no small feat, $N.  You've shown great dedication and courage.  Keep it up and your renown among the Aldor will continue to grow."
+ },
+ {
+  "id": 10654,
+  "t": "More Marks of Sargeras",
+  "o": "",
+  "d": "",
+  "p": "Do you bear more of our enemies' insignias, $C?  The Burning Legion continues to be a threat and we continue to pursue them anywhere that we find them.",
+  "c": "You continue to prove your worth, $N.  Fight the enemies of the Light wherever you may find them; your actions will be well-rewarded."
+ },
+ {
+  "id": 10655,
+  "t": "Single Mark of Sargeras",
+  "o": "",
+  "d": "",
+  "p": "I'll take any leftover marks you might have.  Do not worry; your actions will be duly noted.",
+  "c": "You continue to prove your worth, $N.  Fight the enemies of the Light wherever you may find them; your actions will be well-rewarded."
+ },
+ {
+  "id": 10656,
+  "t": "Sunfury Signets",
+  "o": "Magistrix Fyalenn in Shattrath City wants you to bring her 10 Sunfury Signets.$B$BPerforming quests for the Scryers will cause you Aldor reputation level to decrease.",
+  "d": "As you might know, the Scryers and the armies of Kael'thas are at war.  Kael sees us as a threat to his influence over other blood elves and has tried to crush us time and again.$B$BIf you wish to aid us in our battle against Kael'thas, there are plenty of targets for you to go after.  Kael's highest ranking soldiers wear Sunfury signets to mark their ranks.  You will find them all over Netherstorm and Shadowmoon Valley.",
+  "p": "Go on, $N.  Speak.",
+  "c": "Kael's Sunfury army is extremely well-trained.  Very impressive job, $N."
+ },
+ {
+  "id": 10657,
+  "t": "Ride the Lightning",
+  "o": "Use the Repolarized Magneto Sphere to absorb 25 lightning strikes from the Scalewing Serpents.  Also, collect 5 Scalewing Lightning Glands.",
+  "d": "We haven't kept the use of the Zephyrium Capacitorium under budget.  But, it occurs to me that the serpents of the Scalewing Shelf to the east have a lightning breath and glands that we can make use of.$B$BI've repolarized the magneto collector to absorb lightning strikes and I want you to head up there, activate it on yourself, and get us some cheap fuel from those serpents.",
+  "p": "The trick to using the repolarized magneto sphere is to know when to turn it off before you end up getting truly fried.$B$BOf course, you need to balance that against how many of those flying serpents you want to have to face.$B$BSpeaking of which, have you managed to charge up the sphere?",
+  "c": "Woo hoo, it worked! To be honest I wasn't sure... I calculated a twenty-three point seven two chance that you'd implode by the third strike.$B$B<Toshley grins innocently.>$B$BSo, now we know that the sphere works, we should have no problem meeting our energy needs for the Zephyrium Capacitorium. Well, that is if we can find more volunteers to go out there and get zapped.$B$BStill, you've pioneered our efforts and deserve something in return!"
+ },
+ {
+  "id": 10658,
+  "t": "More Sunfury Signets",
+  "o": "",
+  "d": "",
+  "p": "What have you done for us lately, $N?  The war against Kael'thas is not going to fight itself, you know?",
+  "c": "Excellent! That'll show Kael'thas not to underestimate our power."
+ },
+ {
+  "id": 10659,
+  "t": "Single Sunfury Signet",
+  "o": "",
+  "d": "",
+  "p": "Even the smallest contribution to our cause is noted, $N. Our enemies are many, but we shall prevail!",
+  "c": "Kael's army will soon fall."
+ },
+ {
+  "id": 10660,
+  "t": "What Strange Creatures...",
+  "o": "Researcher Tiorus at Shadowmoon Village in Shadowmoon Valley wants you to recover 8 Felfire Spleens.",
+  "d": "I am interested in learning more about the strange reptiles that mill about the lava flows of Shadowmoon Valley. Never have I seen beasts able to withstand the searing heat of molten lava!$B$BOutside of Shadowmoon Village, where the ground has ruptured and lava flows through the cracks, you will find felfire diemetradons. Slay them and bring me their spleens. From their spleens I will be able to begin preliminary analysis of their resistance to heat.$B$BBegin your search to the southeast.$B",
+  "p": "Spleens! I need spleens!",
+  "c": "This may take a while. Take these coins for your hard work."
+ },
+ {
+  "id": 10661,
+  "t": "Spleendid!",
+  "o": "Gnomus at Wildhammer Stronghold in Shadowmoon Valley wants you to recover 8 Felfire Spleens.",
+  "d": "Have you ever heard of food that cooks itself and stays hot forever? Dare to dream, I say!$B$BBut maybe it's not a dream at all! Outside the fortress, near the lava pools and streams, you can find beasts that thrive in the sizzling heat. They're called felfire diemetradons.$B$BThe dwarves around here tell me that those diemetradons have the tastiest spleens ever and that the spleens practically come pre-cooked! Bring me those spleens and I'll give you some coin.$B$BStart your search directly east of here.",
+  "p": "Spleens! I need spleens!",
+  "c": "<Gnomus hungrily grabs at the spleens.>$B$BHere's your coin as promised. I'll call for you if I need more spleens.$B$BSo delicious... I dare say that they are 'spleendid!'"
+ },
+ {
+  "id": 10662,
+  "t": "The Hermit Smith",
+  "o": "Bring the Box of Ingots to David Wayne at Wayne's Refuge in Terokkar Forest.",
+  "d": "<Ordinn examines the results from his attempt at smithing the metal and shakes his head.>$B$BThis is beyond my ability, but that's not to say the weapon can't be recreated for your use.$B$BThere was a talented smith who accompanied the Sons of Lothar to Draenor, David Wayne. He was a remarkable blacksmith, but chose to leave the expedition. These days, he lives in a small camp on a peninsula east of Firewing Point in Terokkar Forest. Take the ingots to him and see if he can help you with the weapon.",
+  "p": "What brings you here, $C? I don't get many visitors.",
+  "c": "Ordinn sent you with these?$B$B<The smith examines the ingots.>$B$BHe was right. Most of the magic is gone, but I can still sense traces of it. With some work and a few 'exotic' resources, I can forge you a powerful anti-demon sword from this metal."
+ },
+ {
+  "id": 10663,
+  "t": "The Hermit Smith",
+  "o": "Bring the Box of Ingots to David Wayne at Wayne's Refuge in Terokkar Forest.",
+  "d": "<The orc shakes his head at his failure.>$B$BThis is beyond my ability, but that's not to say the weapon can't be recreated.$B$BIt pains me to suggest this, but your only hope may be a human smith by the name of David Wayne. It's true he was once a member of the Alliance's expedition, but that was a long time ago and he has since left the Sons of Lothar. These days, he lives in a small camp on a peninsula east of Firewing Point in Terokkar Forest. Take the ingots to him and see if he can help you.",
+  "p": "What brings you here, $C? I don't get many visitors.",
+  "c": "<The smith frowns and examines the ingots.>$B$BI'll be frank with you, $c. I'm a relic of an age when cooperation with the Horde was unthinkable.$B$BI am not so blind as to see that we do not have common enemies. I will help you to reforge the anti-demon weapon but it's going to take a lot of hard work and a few 'exotic' resources."
+ },
+ {
+  "id": 10664,
+  "t": "Additional Materials",
+  "o": "David Wayne at Wayne's Refuge wants you to bring him an Adamantite Frame, 4 Heavy Knothide Leather, and a Demon Warding Totem.",
+  "d": "The ingots that you brought contain most of the metal I'll need to forge the sword's blade, but I'll need a variety of things to create other parts of the weapon.$B$BLet's see, among the things I don't have here are an adamantite frame, some heavy knothide leather, and a demon warding totem. Skilled crafters should be able to produce the first two, but the third is only sold by the reagent vendor in Shattrath's Lower City, Fantei. You'll find him with the other tradesmen.",
+  "p": "Did you get those materials?",
+  "c": "<The smith accepts the materials, nodding approvingly.>$B$BThese will suffice. The remainder of the materials I'll need won't be quite so easy to come by."
+ },
+ {
+  "id": 10665,
+  "t": "Fresh from the Mechanar",
+  "o": "David Wayne at Wayne's Retreat wants you to bring him an Overcharged Manacell.",
+  "d": "Working with the ingots you brought is going to require a lot of heat -- rather more than a conventional forge can supply.$B$BI'm going to need a supplemental heat source for the forge and there are very few things in Outland that can supply that kind of power.$B$BThe Mechanar area of Tempest Keep turns out manacells containing an incredible amount of power. Find one of the overcharged manacells from the stacks around Mechano-Lord Capacitus and bring it back here.",
+  "p": "Were you able to smuggle a manacell out of the Mechanar.",
+  "c": "This is even more potent than I expected! With this much power, I could forge a dozen blades!"
+ },
+ {
+  "id": 10666,
+  "t": "The Lexicon Demonica",
+  "o": "Obtain the Lexicon Demonica from Grandmaster Vorpil and bring it to David Wayne at Wayne's Refuge.",
+  "d": "Recreating the enchantments on the blade requires several spells to be spoken in demonic.$B$BIt's not something I was taught during my training as an apprentice, but there's no way around it. There's a book, called the Lexicon Demonica, that will provide most of the words I need, but it's in the hands of a powerful Shadow Council warlock.$B$BDeep in the halls of Auchindoun's Shadow Labyrinth, it is held by Grandmaster Vorpil. Do whatever you must to secure the book and bring it to me. ",
+  "p": "Have you retrieved the book?",
+  "c": "<David leafs through the book's pages, shuddering.>$B$BThis is not something to be trifled with, $N. After the weapon is created, I will destroy it. There is enough demonic power about in the world without this text out in the open."
+ },
+ {
+  "id": 10667,
+  "t": "Underworld Loam",
+  "o": "Get a Vial of Underworld Loam from Hydromancer Thespia and bring it to David Wayne at Wayne's Refuge.",
+  "d": "The frame that you brought me earlier will not be sufficient to hold molten metal without reinforcement. A rare kind of earth can be used to cool and imbue the frame, giving the adamantite an unnatural strength.$B$BUnderwold loam, as the earth is known, is accorded great value among the naga. Few enough of them possess it, and in Outland, I know of only one naga who uses it -- Hydromancer Thespia, who resides in the Steamvault of Coilfang Reservoir.",
+  "p": "Have you secured the underworld loam?",
+  "c": "This should do the trick. I'd hoped for a bit more, but to be honest, we were lucky to get our hands on any at all out here."
+ },
+ {
+  "id": 10668,
+  "t": "Against the Illidari",
+  "o": "Altruis the Sufferer wants you to slay Lothros at Illidari Point in Shadowmoon Valley.",
+  "d": "I still have respect for Illidan.  Without him I would not have found my path.$B$BHe is not who he once was, however.  His soul has been corrupted by power, his mind has been twisted by defeat.  He has become what I am sworn to destroy and his pet servants, the Illidari, are as much of an abomination as any demon of the Burning Legion.$B$BHis grasp on Outland is slipping yet his reach is still vast.  Prove you're not with him by slaying his lieutenant Lothros at Illidari Point in Shadowmoon Valley.",
+  "p": "Is the Illidari lieutenant dead?",
+  "c": "So you're not with Illidan. You're one step closer to gaining my full trust."
+ },
+ {
+  "id": 10669,
+  "t": "Against All Odds",
+  "o": "Altruis the Sufferer wants you to take the Imbued Silver Spear and use it at Portal Clearing near Marshlight Lake in Zangarmarsh to awake Xeleth.  Return to Altruis after you've slain the demon.",
+  "d": "Some demons pledge allegiance to no one but themselves.  A true enemy of demons finds and destroys his prey regardless of affiliation, however.$B$BThe demon Xeleth - a Legion defector - was once worshipped as a god by primitive swamp creatures in Zangarmarsh.  When Draenor was nearly destroyed, he retreated into a slumber deep beneath Marshlight Lake.  Find the portal at the lake and plant this spear into the ground.$B$BXeleth will awake - be ready to slay him and prove you're an enemy to all demons.",
+  "p": "You've returned.  Has Xeleth been slain?",
+  "c": "Well done, $N.  He still remembered the day I drove this spear into him?  That was so long ago..."
+ },
+ {
+  "id": 10670,
+  "t": "Tear of the Earthmother",
+  "o": "Recover the Tear of the Earthmother from Warbringer O'mrogg and return it to David Wayne at Wayne's Refuge.",
+  "d": "The sword's enchantments must be contained within a powerful focus, such as a gem. I know of a gem that we can use for this purpose, for there are few that can play host to such powerful magics without shattering.$B$BThe gem we need is called the tear of the earthmother. It's a powerful artifact in the hands of the ogres who created it, and Warbringer O'mrogg, who currently holds the gem, has many powerful allies in Hellfire Citadel's Shattered Halls. Take care in retrieving the tear, $N.",
+  "p": "Were you able to wrest the gem from the grip of O'mrogg?",
+  "c": "<David Wayne holds the gem up, to the light, admiring it.>$B$BIt's aboslutely flawless, and that's exactly what we'll need. A flawed gem would endanger the weapon's wielder, twisting the magic against them."
+ },
+ {
+  "id": 10671,
+  "t": "More than a Pound of Flesh",
+  "o": "Collect 5 Ether-Energized Flesh.",
+  "d": "$N, I've got something else for you to do.  One of the eggheads wants to study the fiendling flesh beasts that can be found at Razaan's Landing, north of the Razor Ridge.$B$BMore to the point, they want to study the flesh of the flesh beasts that are there.$B$B<Dizzy makes a disgusted face.>$B$BBut, of course, they aren't willing to get their hands dirty, and they only want the ether-energized flesh, which it's not likely that all of them have.$B$BI say, beggars can't be choosers, but what can you do?",
+  "p": "You have my pound of flesh? What, you didn't think that was funny?",
+  "c": "These ought to do nicely. Don't they stink, though?$B$BI hope that this is worth your troubles... I'm just glad that it was you collecting this stuff instead of me!"
+ },
+ {
+  "id": 10672,
+  "t": "Frankly, It Makes No Sense...",
+  "o": "Researcher Tiorus at Shadowmoon Village in Shadowmoon Valley wants you to travel to the lava flow near the Ruins of Baa'ri and use the Arcano Control Unit to control an Arcano-Scorp, swim in the lava with the Arcano-Scorp, and tag 8 Greater Felfire Diemetradons.",
+  "d": "We must study these creatures further.$B$BFar to the east - near the huge lava flow beneath the ruins of Baa'ri - you will find arcano control units. These controllers were crafted by a genius named Gnomus for the sole purpose of exploring lava via mechanical scorpion.$B$BHe has long since lost his mind and is now only interested in eating the hottest food known to gnome-kind.$B$B<Tiorus gives you a funny look.>$B$BI want you to use the control and tag the diemetradons of the lava flow for further study.$B",
+  "p": "Listen, I do not have the time nor the inclination to explain what any of this means. Just tag those diemetradons.",
+  "c": "Listen, there is no time to spare. I've been watching the tagged diemetradons and have discovered that they all report to a gigantic, nay, ENORMOUS, diemetradon named Felspine the Greater."
+ },
+ {
+  "id": 10673,
+  "t": "Felspine the Greater",
+  "o": "Researcher Tiorus at Shadowmoon Village in Shadowmoon Valley wants you to kill Felspine the Greater and recover Felspine's Hide.$B",
+  "d": "Gnomus knows about the massive diemetradon and plans to eat it! He must have been able to see what I could see through the eyes of his arcano-scorp. Look, there's no time to explain. He's crazy and that craziness is going to cost us the closest thing we've got to a fireproof jumpsuit.$B$BGet back to the lava flow near Baa'ri and track down Felspine the Greater. Once you find it, kill it and bring me back its hide.$B$BDon't try and reason with me, $N. I'm well past that point.",
+  "p": "Snap to it! That gnome's appetite knows no limit!",
+  "c": "At last! Total protection against lava is mine! Of course you get a cut of this technology too, $N. You've earned it!"
+ },
+ {
+  "id": 10674,
+  "t": "Trapping the Light Fantastic",
+  "o": "Use the Light Trap to collect 15 Razaani Light Orbs.",
+  "d": "The Razaani ethereals have been playing with some interesting technology at Razaan's Landing to the north.$B$BI'm sure they won't mind if you use this trap to take a few samples of their little pink floating light orbs?  They're probably only for decoration anyway.$B$BThe trap has a special property to it that when opened should attract one of the floating balls towards it.  Of course, it'll probably also alert the Razaani to your presence.",
+  "p": "I take it that since we're speaking, you have the light orbs from the Razaan's Landing? It'll be interesting to take a look at them and see what the ethereal are up to.",
+  "c": "Hey! Wait just one damned minute!!$B$BThis doesn't look good..."
+ },
+ {
+  "id": 10675,
+  "t": "Show Them Gnome Mercy!",
+  "o": "Collect the Collection of Souls.",
+  "d": "<The blood drains out of Toshley's face.>$B$BThese orbs are made up of both nether energy and souls, some of them gnome souls!$B$BHow dare they!  Were they the ones killing our people that traveled north?!$B$B$N, you must put a stop to this, and the only way to do that is to finish off their leader, Nexus-Prince Razaan.$B$BYou'll have to coax him out of hiding though.  I'm guessing that you can do that by killing a lot of his Razaani ethereal.$B$BBring me the collection of souls that he no doubt has.",
+  "p": "Have you dealt with that soul-stealing bastard, Razaan yet?",
+  "c": "Good riddance to him! Thank you for putting an end to their macabre twisting of magic and technology.$B$BAs a true hero of gnomes everywhere, I hereby bequeath unto you our highest honor... some power converters and your pick of any of these.$B$BI know that you'll put them to good use!"
+ },
+ {
+  "id": 10676,
+  "t": "Bane of the Illidari",
+  "o": "Wait for David Wayne to finish forging a sword for you.",
+  "d": "<David gathers his smithing supplies.>$B$BYou've done well in getting everything we'll need to reforge the anti-demon blade. Your hard work and dedication is about to be repaid.$B$BThe time has come to forge the sword.",
+  "p": "",
+  "c": "<David mops sweat from his brow.>$B$BThe bulk of the work is done, but to set the magics, the blade must now be quenched."
+ },
+ {
+  "id": 10677,
+  "t": "The Second Course...",
+  "o": "Gnomus at Wildhammer Stronghold in Shadowmoon Valley wants you to recover 1 Overdeveloped Felfire Gizzard.",
+  "d": "I remember seeing larger diemetradons east of the Hand of Gul'dan, near the lava flows around the Ruins of Baa'ri. What I want you to get for me now is one overdeveloped felfire gizzard from the beasts around that area. You might have to kill several to find a gizzard like the one I described. Keep at it! One of them is bound to have my next meal.",
+  "p": "Special of the day: Gizzard.",
+  "c": "This is fantastic but I just received some incredible news!"
+ },
+ {
+  "id": 10678,
+  "t": "The Main Course!",
+  "o": "Gnomus at Wildhammer Stronghold in Shadowmoon Valley wants you to recover Felspine's Hide.",
+  "d": "Long story short, I used to work with a blood elf named Tiorus. My partnership with Tiorus dissolved once I got into gourmet living. He decided to take it upon himself to continue our research using MY inventions. Anyhow, he had some of his Horde goons using my arcano-scorp probes at the Ruins of Baa'ri lava flow and discovered the mother of all diemetradons!$B$BI need you to get there before he does and kill the diemetradon, Felspine, and bring his hide back to me.$B$BHurry up!",
+  "p": "Special of the day: Felspine's hide.",
+  "c": "I'll need some alone time now, $N. Thanks for all the help!"
+ },
+ {
+  "id": 10679,
+  "t": "Quenching the Blade",
+  "o": "Travel to the Scalding Pools located near the top of the Hand of Gul'dan and use the Forged Illidari-Bane Blade to quench it in the lava pools. Once you have the Quenched Illidari-Bane Blade, return to David Wayne at Wayne's Refuge.",
+  "d": "The blade is nearly finished!$B$BYou can almost feel the magic beginning to coalesce inside the steel, but one thing remains to be done.$B$BYou must take the forged blade to the Scalding Pools near the top of the Hand of Gul'dan in Shadowmoon Valley and plunge it into the lava pools to quench the sword. When you have quenched the sword, return.",
+  "p": "Have you quenched the sword in the lava of the Hand of Gul'dan?",
+  "c": "Well done!$B$B<The smith examines the blade closely.>$B$BI'd say it's a fair improvement over the crude Legion weapons you started with. Not only will this blade cut down Illidari demons, but it will work against the Legion's minions as well."
+ },
+ {
+  "id": 10680,
+  "t": "The Hand of Gul'dan",
+  "o": "Speak with Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley.",
+  "d": "The elements need your help, $r! Shadowmoon Valley has been subject to unspeakable evils. The spirits remain tortured to this day. Many are enraged and unwilling to commune with the Earthen Ring.$B$BHelp this world heal, friend.$B$BDirectly northeast of Wildhammer Stronghold you will find an area known as the Altar of Damnation. Make your way there and speak with Earthmender Torlok.",
+  "p": "",
+  "c": "It is good that you came, $R. We have much work to do."
+ },
+ {
+  "id": 10681,
+  "t": "The Hand of Gul'dan",
+  "o": "Speak with Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley.",
+  "d": "The elements need your help, $r! Shadowmoon Valley has been subject to unspeakable evils. The spirits remain tortured to this day. Many are enraged and unwilling to commune with the Earthen Ring.$B$BHelp this world heal, friend.$B$BSoutheast of Shadowmoon Village - in the heart of Shadowmoon Valley - you will find an area known as the Altar of Damnation. Make your way there and speak with Earthmender Torlok.",
+  "p": "",
+  "c": "It is good that you came, $R. We have much work to do."
+ },
+ {
+  "id": 10682,
+  "t": "A Time for Negotiation...",
+  "o": "Negotiate with Overseer Nuaar.",
+  "d": "When we arrived in the Ruuan Weald, the wyrm cultists were keeping themselves to Blackwing Coven, through the tunnel to the west.  But now, they are encroaching upon us here.$B$BI need you to find the wyrmcultists' overseer.  He's known to make a regular patrol between their various camps in the Ruuan Weald.$B$BNegotiate with him.  Let him know that there's room for compromise, but that we will not condone or allow the wholesale slaughter of the wildlife, nor the felling of all of the trees.",
+  "p": "Is everything okay?",
+  "c": "WHAT?!  They dismissed you and our proposals out of hand?$B$BThis is outrageous!  We go to them in good faith, and they turn you away without even trying to come to a compromise?$B$BWell, we'll see about that!"
+ },
+ {
+  "id": 10683,
+  "t": "Tablets of Baa'ri",
+  "o": "Arcanist Thelis at the Sanctum of the Stars wants you to collect 12 Baa'ri Tablets from the ground and from Ashtongue Workers at the Ruins of Baa'ri.$B$BCompleting quests with the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "The Ashtongue Broken have been ordered by Illidan to excavate the Ruins of Baa'ri, to the far north.  They're in search of draenei artifacts, no doubt - Baa'ri was home to many Baa'ri relics before Gul'dan buried the town under a volcanic explosion.  We must use this opportunity to recover the Tablets of Baa'ri, an ancient text rumored to hold the secrets of the Temple of Karabor... a place you might know as the Black Temple.",
+  "p": "Have you found the tablets yet, $N?",
+  "c": "The Baa'ri tablets! Yes, this might provide us with very useful information."
+ },
+ {
+  "id": 10684,
+  "t": "Oronu the Elder",
+  "o": "Arcanist Thelis at the Sanctum of the Stars wants you to obtain the Orders from Akama from Oronu the Elder at the Ruins of Baa'ri.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "According to the tablets, an artifact known as a Medallion of Karabor was kept at Baa'ri.  Only the highest-ranking draenei priests were granted these, as they allowed unfettered access into the Temple of Karabor.$B$BWe must find out whether the Ashtongue have recovered the medallion that was kept at Baa'ri yet.  Its power would provide great aid in our fight against Illidan.$B$BAkama's lieutenant at Baa'ri, Oronu the Elder, receives written orders from him daily.  Obtain them and bring them to me.",
+  "p": "Any news yet, $N? Time is not on our side.",
+  "c": "It matches Akama's handwriting... let us see what we can learn."
+ },
+ {
+  "id": 10685,
+  "t": "The Ashtongue Corruptors",
+  "o": "Obtain the four medallion fragments from Haalum, Eykenen, Lakaan and Uylaru and return to Arcanist Thelis at the Sanctum of the Stars in Shadowmoon Valley.$B$BPerforming quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "According to Akama's letter, four fragments of the medallion were unearthed and given to the Ashtongue Corruptors.  These dreaded Broken were once powerful shaman who now defile the very elements they revered.$B$BHaalum, Corruptor of Air, can be found at Netherwing Pass.  Eykenen and Uylaru, Corruptors of Earth and Fire, were last seen at the Fel Pits near the Hand of Gul'dan.  Lakaan, Corruptor of Water, is rumored to be near Coilskar Point.$B$BFind them and obtain the medallion fragments.",
+  "p": "Have you obtained the four medallion fragments, $N?",
+  "c": "Yes! The four fragments of the medallion. Now to put them together..."
+ },
+ {
+  "id": 10686,
+  "t": "The Warden's Cage",
+  "o": "Arcanist Thelis wants you to enter the Warden's Cage, south of the Ruins of Baa'ri and interrogate Sanoru on Akama's whereabouts.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "The fragments you obtained are only half of the medallion.  The Ashtongue leader, Akama, must have kept the other half.$B$BI dread to ask this of you, as Akama is both evil and cunning.$B$BHe and the Ashtongue Deathsworn - the vilest and most brutal of the tribe - are rumored to run a torture chamber inside the Warden's Cage.$B$BI want you to find that dreaded prison,  and find the whereabouts of Akama.  His second in command at the location is a Broken known as Sanoru - interrogate him if you have to.",
+  "p": "",
+  "c": "We've been expecting you, $N. Akama said you would arrive sooner or later."
+ },
+ {
+  "id": 10687,
+  "t": "Karabor Training Grounds",
+  "o": "Larissa Sunstrike at the Sanctum of the Stars wants you to obtain 8 Sunfury Glaives from the Demon Hunter Supplicants and Demon Hunter Initiates at the Ruins of Karabor, northeast of the Sanctum of the Stars.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "Our scouts have reported a massive influx of Sunfury blood elf recruits heading to the Ruins of Karabor.  Normally this would represent a purely military threat, however we believe something else is amiss.$B$BDescriptions of their attire and fighting style are suspiciously close to that of Illidan himself.  I do not want to become alarmed without good reason, so I would like you to go there and bring me back their weapons.  We will then determine whether my fears are unfounded or not.",
+  "p": "Have you completed the task I asked of you, $N?",
+  "c": "Let's take a closer look at these weapons, $N. Hmmm... this is rather unsettling."
+ },
+ {
+  "id": 10688,
+  "t": "A Necessary Distraction",
+  "o": "Larissa Sunstrike wants you to return to the Ruins of Karabor and find a way to unleash Azaloth on his captors.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "The weapons are authentic, as we feared.  Illidan is training demon hunters at the Ruins of Karabor and we must put an end to it.$B$BDo not be fooled by their name, $N, their power will be used against us as often as against any demon.$B$BTheir warlocks summon and subdue demons to be used as part of the initiates' training.  A pit lord named Azaloth has proven too strong to be used in training and is kept banished.  Find a way to let him loose on his captors.  That should buy us the time we need.",
+  "p": "Have you completed the task I asked of you?",
+  "c": "That should buy us some time... hopefully it will be enough for us to obtain more information."
+ },
+ {
+  "id": 10689,
+  "t": "Altruis",
+  "o": "Travel to western Nagrand and find Altruis the Sufferer.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "You don't see many demon hunters nowawdays.  They're viewed with suspicion by their own people and it's very rare to find one that doesn't have some sort of allegiance to Illidan.$B$BThere are rumors of one such demon hunter out in Nagrand.  His name is Altruis.  He hates all demons with a passion and will help us if you can convince him that you share his goals.$B$BGo to western Nagrand and find him.  He might be willing to shed some light on these new demon hunter training grounds.",
+  "p": "",
+  "c": "You've come a long way, stranger. I'm surprised whoever sent you has heard of me."
+ },
+ {
+  "id": 10690,
+  "t": "The Den Mother",
+  "o": "Slay Rema.",
+  "d": "WANTED!$B$BRema, the den mother and primary defender of the Jagged Ridge south of Thunderlord Stronghold.$B$BFind her by heading east out of town and across the bridge that traverses the Bloodmaul Ravine.  She keeps herself secluded in the tunnel at the southern edge of the ridge.$B$BReturn with news of her demise to Commander Skyshadow of Sylvanaar.",
+  "p": "What can I do for you today?",
+  "c": "Unbelievable. Did you slay Rema all by yourself?$B$BBy the looks of you, I'd say that you could. You know, we're looking for a young, strong $c, such as yourself, to help out around here, especially with the problems we continually have with the ogres. Make sure that you follow-up with me on that possibility.$B$BWell, you've definitely earned the bounty that I put on that wanted poster.$B$BPlease, take your pick."
+ },
+ {
+  "id": 10691,
+  "t": "Return to the Scryers",
+  "o": "Speak with Larissa Sunstrike at the Sanctum of the Stars in Shadowmoon Valley.$B$BCompleting quests for the Scryers will cause your Aldor reputation level to decrease.",
+  "d": "This book... I could use it to increase my power tenfold...  No!  It would end up corrupting my very soul, this I am sure of.  Return to those who sent you here, $N.$B$BYou now have the means to stop Varedis.  Wait until he manifests his demonic form through metamorphosis, at that point you will need to burn the book in his presence.  That will be the only way you can deprive him of his power.",
+  "p": "",
+  "c": "Many would pay a great price for the book you carry with you. It is a shame we'll have to destroy it."
+ },
+ {
+  "id": 10692,
+  "t": "Varedis Must Be Stopped",
+  "o": "Larissa Sunstrike wants you to go to the ruins of Karabor and slay Alandien, Theras, Netharel and Varedis.  Use the Book of Fel Names when Varedis uses Metamorphosis to weaken him.  Return to Larissa Sunstrike with the Book of Fel Names after completing this task.$B$BCompleting quests for the Scryers will cause your Aldor reputation to decrease.",
+  "d": "Of course we must destroy this book, but not before we use it to destroy Varedis.$B$BIf we're to shut down this academy of Illidan imitators, we'll have to deal not just with Varedis but also the three night elf masters that assist him: Alandien, Theras and Netharel.$B$BGather a suitable force and return to the Ruins of Karabor.  Follow Altruis's instructions for defeating Varedis.  Hopefully his plan will work - otherwise... it'll have been a pleasure working with you.",
+  "p": "Have you completed what I asked of you, $N?",
+  "c": "You've done well, $N. By slaying Varedis you've put an end to one of Illidan's most dangerous projects.$B$BYour name will definitely get around after this.$B$BAllow me to take what remains of the Book of Fel Names. I will make sure it's properly... disposed of."
+ },
+ {
+  "id": 10701,
+  "t": "Breaking Down Netherock",
+  "o": "Slay Netherock and then report in with Rocket-Chief Fuselage at Area 52 in the Netherstorm.",
+  "d": "To whomever cares about the timely construction of the X-52 Nether-Rocket --$B$BThe king of the local mountain giants, Netherock, has been terrorizing the Crumbling Wastes.  He's been interfering with operations all along the south ledge of the island!$B$BTake your friends and deal with him!  Then, return to me here in Area 52.$B$BRocket-Chief Fuselage",
+  "p": "What? What?! Be quick about it... there's so much to do around here.$B$BI want to get this thing off the ground some day, you know?",
+  "c": "Oh! Oh... you took care of Netherock. Good news that!$B$BWith that troublesome mountain giant out of the picture, we should have an easier time of exploi... er, husbanding the resources of the Crumbling Wastes.$B$BGlad to hear that those poor, innocent elementals down there won't be getting squished by him.$B$BHow ever can I repay you?"
+ },
+ {
+  "id": 10702,
+  "t": "A Grunt's Work...",
+  "o": "Overlord Or'barokh at Shadowmoon Village in Shadowmoon Valley wants you to kill 20 Shadowmoon Valley Wildlife.$B$BThese creatures include Felboars, Vilewing Chimaera, and Scorchshell Pincer. Any combination will be sufficient.",
+  "d": "All Horde forces in this region have been dispatched to handle the attacks from the Burning Legion. This means that we are short-handed for grunt work.$B$BOur supply caravans are in constant danger from the wildlife of the region. We can't veer 15 feet off the road without running into a chimaera, felboar, or abnormally large scorpion.$B$BGet out there and clear Shadowmoon Valley of its sadistic wildlife! Just kill 'em all!",
+  "p": "Return to me when the wilds are safe for our caravans to traverse.",
+  "c": "Fantastic! Should I have any other grunt work that needs to be done, I'll find you."
+ },
+ {
+  "id": 10703,
+  "t": "Put On Yer Kneepads...",
+  "o": "Thane Yoregar at Wildhammer Stronghold in Shadowmoon Valley wants you to kill 20 Shadowmoon Valley Wildlife.$B$BThese creatures include Felboars, Vilewing Chimaeras, and Scorchshell Pincers. Any combination will be sufficient.",
+  "d": "It's time to get down in the muck and get dirty. What were you expectin'? You gotta learn to walk before you can crawl, right? Er, reverse that...$B$BAnyway, we got all hands on deck fer killin' the garbage being thrown at us by the Burning Legion. That leaves you with the honor of cleaning up the crazed wildlife of Shadowmoon Valley.$B$BGrab a sword, staff, whatever it is that makes you happy, and kill as much of the wildlife as you can see. That'll clear a way out for our supply caravans!",
+  "p": "Return to me when the wilds are safe for our caravans to traverse.",
+  "c": "Aye, good work! Here's some coin for your efforts. If we be needin' more garbage taken out, I'll know who to call."
+ },
+ {
+  "id": 10704,
+  "t": "How to Break Into the Arcatraz",
+  "o": "A'dal has tasked you with the recovery of the Top and Bottom Shards of the Arcatraz Key.  Return them to him, and he will fashion them into the Key to the Arcatraz for you.",
+  "d": "A message was embedded in the ata'mal crystal that you recovered.  Nexus-Prince Haramad has given us information vital to our campaign against Tempest Keep.$B$BHe tells us that there are two pieces, shards to a key, which, when combined, will unlock the keep's Arcatraz satellite.$B$BOne half is possessed by an ancient in the Botanica known as Warp Splinter.  The other is held by Pathaleon the Calculator inside the Mechanar.$B$BBring both shards to me and I will combine them into the Arcatraz key.",
+  "p": "<A'dal's voice vibrates melodically through your mind.>$B$BYou have returned.  Do you bring with you the two shards of the Arcatraz key?",
+  "c": "I am impressed, $N, though I should expect nothing less of the hero who returned the ata'mal crystal to us.$B$BGive over the two shards and I will see to it that they are combined into their final form.  Then you will have access to the Arcatraz."
+ },
+ {
+  "id": 10705,
+  "t": "Seer Udalo",
+  "o": "Find Seer Udalo inside the Arcatraz in Tempest Keep.",
+  "d": "I hope you're not shocked when I reveal to you that the pieces of the Medallion of Karabor you obtained from my minions are mere replicas.$B$B<Akama shows you an identical medallion in his open palm.>$B$BMy Deathsworn and I have kept the secret from Illidan for as long as possible.   We are however, still missing the final piece.$B$BUdalo came to me in dreams  to announce he had found it.  Unfortunately he is held by Kael'thas inside the Arcatraz in Tempest Keep.  Find him and see what he knows.",
+  "p": "",
+  "c": "The Ashtongue Seer has been long dead.  As you turn over his body, you spot writing scrawled on the floor."
+ },
+ {
+  "id": 10706,
+  "t": "A Mysterious Portent",
+  "o": "Return to Akama at the Warden's Cage in Shadowmoon Valley.",
+  "d": "Before he died, Udalo appears to have written a single word on the floor beneath him.  The writing is barely legible but you recognize the word Atam'al.$B$BPerhaps Akama will understand the meaning of his brethren's message.",
+  "p": "",
+  "c": "Yes... of course! It all becomes clear now."
+ },
+ {
+  "id": 10707,
+  "t": "The Ata'mal Terrace",
+  "o": "Go to the top of the Ata'mal Terrace in Shadowmoon Valley and obtain the Heart of Fury.  Return to Akama at the Warden's Cage in Shadowmoon Valley when you've completed this task.",
+  "d": "It has been known to us that the fel orcs, under Illidan's command, have guarded an Ata'mal crystal known as the Heart of Fury at the Ata'mal Terrace.  They cloud its presence with dark magic, to keep it from the Sha'tar.$B$BFight your way to the Ata'mal Terrace outside the Black Temple and turn your eyes to the sky.  Shadowlord Deathwail will circle the terrace, beyond your reach.  You will have to slay him and his warlocks before you can obtain the crystal.$B$BIt won't be easy, $N.  I wish you luck.",
+  "p": "You've returned, $N.",
+  "c": "The crystal! Its power... now in my hands!"
+ },
+ {
+  "id": 10708,
+  "t": "Akama's Promise",
+  "o": "Bring the Medallion of Karabor to A'dal in Shattrath City.",
+  "d": "<Akama inserts the crystal into the medallion in his hand.>$B$BI am not as strong as I once was, $N.  Being so close to evil itself all these years - I do not know if I can trust myself with an artifact as powerful as this.$B$BTake this as my promise to you that when the time comes and you face Illidan, I will be on your side.  Take it to the one being we know we can trust with its power.  Take the medallion to A'dal in Shattrath City.",
+  "p": "",
+  "c": "<As you give the medallion to A'dal, it disappears into his being in a flash of light.>$B$B<You are briefly shown a glimpse of a moment... perhaps in the future. You see Akama and Maiev coming out of the Warden's Cage, fighting their way to the Dark Temple. A third figure shrouded in shadows is aiding them. Upon closer inspection you notice that the figure is you.>"
+ },
+ {
+  "id": 10709,
+  "t": "Reunion",
+  "o": "Speak with Rexxar at Thunderlord Stronghold in the Blade's Edge Mountains.",
+  "d": "So you come from the world beyond the Portal? And you know of Rexxar. Oh yes, I am quite familiar with him.$b$bYou see, he is my son.$b$bBut he made his choice a lifetime ago. He is not one of us, and he is not welcome here. We have enough troubles with the Bloodmaul ogres.$b$bKnow this: being born a half-breed does not make you Mok'Nathal.",
+  "p": "",
+  "c": "So my father does live. I did not expect him to forgive - that was never his way. But I had hoped that the years had dulled the anger he must have felt at my departure.$B$BThirty years ago, I left the Mok'Nathal to follow the Horde to Azeroth. Leoroxx was staunchly against it, but then, he never gave me any reason to stay. Still, a better welcome for this I had hoped for.$B$BHe wanted a Mok'Nathal for a son and he has one now, even if he will not know it.$B$BI must open his eyes."
+ },
+ {
+  "id": 10710,
+  "t": "Test Flight: The Singing Ridge",
+  "o": "Sign Tally's Waiver, then speak with Rally Zapnabber to use the Zephyrium Capacitorium.",
+  "d": "I've been fiddling with the Zephyrium Capicitorium and I'm ready to perform another test!  Do you want to help?$B$BThis next flight should be short, but fast!$B$BUm... and although I'm sure there's no danger... I have this, uh, waiver that I'd like  you to sign.  It's just a formality, I assure you!$B$BBest of luck!  Talk to Rally to launch yourself, and come back to me after the experiment is over!",
+  "p": "Don't worry, $n! Worry never got anyone anywhere!",
+  "c": "Wow! Again, you survived! I'm a much better engineer than I give myself credit for!$B$BHere's your pay! And check back with me later... I'll have more experiments that'll need more test subjects!"
+ },
+ {
+  "id": 10711,
+  "t": "Test Flight: Razaan's Landing",
+  "o": "Speak with Rally Zapnabber to use the Zephyrium Capacitorium.",
+  "d": "$n, I raised the efficiency of the Zephyrium Capacitorium by 30 percent.  That will launch a test subject of your weight and wind drag ratio to new heights!  Want to test my theory?  This experiment ought to send you near Razaan's Landing.$B$BSpeak with Rally... he'll get you prepared for launch.",
+  "p": "What? You don't want to perform the experiment? Don't fret, $n! I'm behind you all the way!",
+  "c": "Oh, gosh! You're back so soon! I saw you take off and you shot up like a rocket! I was sure it would take at least a month of convalescing to mend the broken legs from that flight! You're tough, and brave, and foolhardy! But mostly... you're brave!"
+ },
+ {
+  "id": 10712,
+  "t": "Test Flight: Ruuan Weald",
+  "o": "Speak with Rally Zapnabber to use the Zephyrium Capacitorium.  While flying to Ruuan Weald, spin the Nether-weather Vane.  Deliver the Spinning Nether-weather Vane to O'Mally Zapnabber in Evergrove.",
+  "d": "Hey, $N.  I'm glad I caught you!  I have a very important mission!$B$BHere is a nether-weather vane.  I need you to take some in flight readings for me and deliver them to my cousin in Ruuan Weald.$B$BSpeak with Rally and take a Zephyrium Capacitorium flight to Ruuan Weald.  While you're flying, spin the vane!$B$BAfter you land, bring the spinning vane to O'Mally Zabnabber.$B$BGood luck, $n.  And don't delay!",
+  "p": "Hello hello! My clo-... I mean, my cousin Tally told me you'd be dropping in. Do you have something for me?",
+  "c": "Oh, you took readings from the nether-weather vane? Splendid! The data gained from this instrument -- coupled with my measurements of druid magic -- will bear much fruit!$B$BOh, the applications will boggle the mind, I assure you!"
+ },
+ {
+  "id": 10713,
+  "t": "...and a Time for Action",
+  "o": "Slay 10 Wyrmcult Hewers.",
+  "d": "We will not stand idly by while they decimate the Ruuan Weald around us.  Our first priority must be to the trees.$B$B$C, I want you to go back out into the Weald and deliver a very different message for us.  I want you to slay every one of their hewers that you come into contact with!$B$BIf they will not listen to reason, perhaps they will listen to a more assertive method of persuasion!",
+  "p": "Have you protected the trees? Are the hewers cut down?",
+  "c": "Thank you, $N.$B$BWhile we'll see to it that the wildlife will replenish itself in quick order, regrowing the trees, especially in a natural fashion, is a much more time-intensive process."
+ },
+ {
+  "id": 10714,
+  "t": "On Spirit's Wings",
+  "o": "Find a Bloodmaul Taskmaster and a Bloodmaul Soothsayer engaged in conversation, then use Rexxar's Whistle to summon Spirit to spy on them.",
+  "d": "If the Mok'Nathal are tormented by the Bloodmaul ogres, then I will stop them and their followers. Ogres are simple creatures, and there is little profit they could gain from harassing the Mok'Nathal.$b$bThere must be something more to this. $n, take Spirit, my hawk, and spy upon the conversations of the Bloodmaul's leaders. He may go undetected where we cannot.",
+  "p": "What have you learned, $N?",
+  "c": "<Spirit perches upon Rexxar's shoulder, while Rexxar listens intently.>$B$BSo it is the sons of Gruul that are behind the ogres' actions. They command the Bloodmaul ogres to destroy the Mok'Nathal to gain their favor."
+ },
+ {
+  "id": 10715,
+  "t": "Into the Churning Gulch",
+  "o": "Collet 7 Crust Burster Venom Glands.",
+  "d": "So, your Rexxar would have me fashion a poison for him? I'll give him what he desires, but there will be a price. Even for friends, there must be a price. Free things destroy friendships.$B$BFirst, you must venture a short distance to the southwest to the Churning Gulch.$B$BTherein mill some of the most poisonous creatures in all of Outland, or anywhere. I speak of the crust bursters, and this poison will require gathering their glands for me.",
+  "p": "You have all of the venom glands? If not, begone and waste no more of my time until you do.",
+  "c": "Very well. A simple, if mundane, task has been completed. Now, hand me the glands and I will do the difficult part."
+ },
+ {
+  "id": 10716,
+  "t": "Test Flight: Raven's Wood <needs reward>",
+  "o": "Speak with Rally Zapnabber to use the Zephyrium Capacitorium.  Return to Tally Zapnabber at Toshley's Station.",
+  "d": "The Zephyrium Capacitorium is ready for its longest launch yet!  What do you say, $N?  Do you want to fly one more time?$B$BI've been boosting the proplusion system but, until I get all the variables hammered out, the capicitorium will need added fuel to give it the necessary kick!  Speak with Rally before the flight -- he has the details.$B$BBest of luck, $N.  This flight will take you to distant Raven's Wood.  If you survive the flight -- and the wood's ogres and arakkoa -- come back and we'll celebrate!",
+  "p": "",
+  "c": "I'm glad you survied! You're the first!"
+ },
+ {
+  "id": 10717,
+  "t": "Poaching from Poachers",
+  "o": "Collect 5 Wyrmcult Nets.",
+  "d": "Pardon me, but I couldn't help but overhear your conversation with Chawn.  I'd like to help.$B$BI'm studying the Blackwing Coven, and helping the druids in their dealings with them.$B$BI am very interested in acquiring a few of their dragon whelps; it would help us to gauge exactly what we're up against by understanding that which they revere.$B$BBut first, we're going to need to acquire some nets.  I noticed that the wyrmcult poachers out in the Ruuan Weald have an abundance of them.",
+  "p": "How's the procurement of nets coming along?  From what I've seen, those nets that the poachers use should be strong enough for the task at hand.",
+  "c": "Oh, those look splendid.  These cultists certainly have an eye for craftsmanship.$B$BToo bad for them that it's misdirected.$B$BAnd now that we have the nets, would you be willing to help little old me with a thing or two?"
+ },
+ {
+  "id": 10718,
+  "t": "The Spirits Have Voices",
+  "o": "Speak with Rexxar at Thunderlord Stronghold in the Blade's Edge Mountains.",
+  "d": "$N, now that you can see me, there is something you must tell Rexxar. I know that he seeks his people, and I know where they are.$B$BThe Mok'Nathal, as they are known, have a village to the east beyond the Razor Ridge.$B$BGo, give Rexxar this news. His people are in danger, and I know that he will want to come to their aid.",
+  "p": "",
+  "c": "What is this you speak of?$B$BGarm Wolfbrother? He was the last chieftain of the Thunderlord clan. If you have communed with his spirit, then it must be true."
+ },
+ {
+  "id": 10719,
+  "t": "Did You Get The Note?",
+  "o": "Deliver the Meeting Note to Tree Warden Chawn at Evergrove in the Blade's Edge Mountains.",
+  "d": "The cultist dropped this note, which apparently was to be delivered to Overseer Nuaar.  It is signed by someone named Kolphis Darkscale.$B$BIt is likely that Tree Warden Chawn will be interested in looking at this.",
+  "p": "What's that you have there?  Is that a blood stain on that note?",
+  "c": "This is interesting, but disturbing.  I wonder if Samia knows who this Kolphis Darkscale is?"
+ },
+ {
+  "id": 10720,
+  "t": "The Smallest Creatures",
+  "o": "Use the Kodohide Drum at the Marmot Den. While controlling the Marmot, poison the three kegs in the Bloodmaul Camp.",
+  "d": "The ogres, simple as they are, would notice you dispersing this poison throughout their camp. Thus, I will teach you how to enlist the help of one of nature's smallest creatures to do this task.$b$bBy playing a simple rhythm on this drum, you can coax a marmot to follow your commands.$b$bThere is a den of marmots near the Bloodmaul camp, to the north, down in the Daggermaw Canyon past the Circle of Blood.$B$BOnce you have a marmot's aid, use it to disperse the poison to the Bloodmaul's kegs.",
+  "p": "Is it done?",
+  "c": "For many long years I have concentrated my efforts on perfecting the ways of communicating with nature. This is but a small part of the untapped potential that beasts can bring to you."
+ },
+ {
+  "id": 10721,
+  "t": "A Boaring Time for Grulloc",
+  "o": "Collect Grulloc's Sack.",
+  "d": "$N, I have a pet boar named Huffer. He wants to help you to have some fun with one of the nearby sons of Gruul.$B$BGrulloc inhabits a place known as the Cursed Hollow. When you get there, let Huffer loose. The gronn will have a fine time chasing him around, and you will retrieve the bag that he guards and deliver it to Baron Sablemane.$B$BTo get to the Cursed Hollow, head down the northern ramp and east through Dragons' End. The hollow is on the eastern edge.",
+  "p": "Back so soon? Have you come to deliver that which Rexxar owes me?",
+  "c": "<Baron Sablemane peers inside the gronn's sack and seems satisfied.>$B$BVery well, you have upheld your end of the bargain. With that price paid, I will give Rexxar what he seeks."
+ },
+ {
+  "id": 10722,
+  "t": "Meeting at the Blackwing Coven",
+  "o": "Collect enough Costume Scraps from wyrmcultists to create an Overseer Disguise.  Use the disguise to attend the meeting with Kolphis Darkscale.",
+  "d": "I know what must be done!  $N, you must pose as Overseer Nuaar and attend that meeting!$B$BThe wyrmcultists at the coven all have a standard outfit that they wear, so go collect scraps from them, and when you have enough, put together a disguise.$B$BPose as Overseer Nuuar and speak with Kolphis Darkscale to see what he has to say, and then return to Tree Warden Chawn.$B$BYou'll find the coven by heading through the Wyrmskull Tunnel and following the path past the Raven's Wood and Grishnath to its end.",
+  "p": "What news do you bring? Do you know what the wyrmcultists are up to?",
+  "c": "Attack us? Wipe us out? I think not!$B$BThis Blackwing Coven has a great deal to learn if they think the Cenarion Expedition is so easily dealt with!$B$BWhat is it that they say? Turnabout is fair play!"
+ },
+ {
+  "id": 10723,
+  "t": "Gorgrom the Dragon-Eater",
+  "o": "Collect 3 Grisly Totems from the Boulder'mok ogres. Then, use Sablemane's Trap at Gorgrom's Altar to set the trap and summon and kill Gorgrom the Dragon-Eater.$b$bWhen Gorgrom is dead, place the 3 Grisly Totems near his corpse.",
+  "d": "The gronn we seek is Gorgrom the Dragon-Eater. With Sablemane's trap, you will make short work of the gronn. You will find him accepting sacrifices from the ogres of Boulder'mok.$b$bFollow the road north from the Circle of Blood, then west at Ruuan Weald. Go northwest through the tunnel.$b$bFirst, kill the ogres for their heads. We will send a message. Set the trap at his altar. When he is dead, plant the grisly totems near him - none can mistake that message.$b$bTake the bear.$b$b<Misha growls.>",
+  "p": "The Bloodmaul ogres will trouble us no longer when this task is done.",
+  "c": "The ogres of Bloodmaul and their master, Gorgrom, will trouble the Mok'Nathal no longer.$B$BHowever, I worry about the effect our actions will have on the other gronn. I believe we must end this fight once and for all."
+ },
+ {
+  "id": 10724,
+  "t": "Prisoner of the Bladespire",
+  "o": "Slay Bladespire ogres to get the Wyvern Cage Key. Once you have it, go to the Wyvern Cage and use Spirit's Whistle to summon Spirit, who will unlock the cage to free Leokk.",
+  "d": "Shortly after my arrival in the mountains, I came under attack by a group of Bladespire ogres.$b$bThough I fought free of them, and slew many, they took my wyvern, Leokk, captive. Spirit has found him, locked in a cage in the heart of the Bladespire encampment outside of Gruul's lair.$b$bOne of the ogres must carry his key. Find it and Spirit can use it to unlock Leokk's cage.$B$BYou will find the encampment at the north end of the Daggermaw Canyon down below.",
+  "p": "It will be good to have Leokk's aid once again.",
+  "c": "Leokk has brought to us the head from one of the black dragons at Dragon's End. With this, we will be able to infuriate Goc, the gronn that captured him, and lure him into battle."
+ },
+ {
+  "id": 10725,
+  "t": "Eminence Among the Violet Eye",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Exalted reputation with the Violet Eye.",
+  "d": "Your services have gone above and beyond what is expected of you, $N.  You are but a step away from achieving the highest honor available to non-citizens of Dalaran.$B$BContinue to prove your loyalty to us and I will empower your signet to its full capacity.",
+  "p": "",
+  "c": "The signet you now hold is as powerful as that of any Archmage of the Council. Wear it wherever you go so that the initiated may recognize your allegiance. Wear it wherever you go so its power may serve you as you've served us!"
+ },
+ {
+  "id": 10726,
+  "t": "Eminence Among the Violet Eye",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Exalted reputation with the Violet Eye.",
+  "d": "Your services have gone above and beyond what is expected of you, $N.  You are but a step away from achieving the highest honor available to non-citizens of Dalaran.$B$BContinue to prove your loyalty to us and I will empower your signet to its full capacity.",
+  "p": "",
+  "c": "The signet you now hold is as powerful as that of any Archmage of the Council. Wear it wherever you go so that the initiated may recognize your allegiance. Wear it wherever you go so its power may serve you as you've served us!"
+ },
+ {
+  "id": 10727,
+  "t": "Eminence Among the Violet Eye",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Exalted reputation with the Violet Eye.",
+  "d": "Your services have gone above and beyond what is expected of you, $N.  You are but a step away from achieving the highest honor available to non-citizens of Dalaran.$B$BContinue to prove your loyalty to us and I will empower your signet to its full capacity.",
+  "p": "",
+  "c": "The signet you now hold is as powerful as that of any Archmage of the Council. Wear it wherever you go so that the initiated may recognize your allegiance. Wear it wherever you go so its power may serve you as you've served us!"
+ },
+ {
+  "id": 10728,
+  "t": "Eminence Among the Violet Eye",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Exalted reputation with the Violet Eye.",
+  "d": "Your services have gone above and beyond what is expected of you, $N.  You are but a step away from achieving the highest honor available to non-citizens of Dalaran.$B$BContinue to prove your loyalty to us and I will empower your signet to its full capacity.",
+  "p": "",
+  "c": "The signet you now hold is as powerful as that of any Archmage of the Council. Wear it wherever you go so that the initiated may recognize your allegiance. Wear it wherever you go so its power may serve you as you've served us!"
+ },
+ {
+  "id": 10729,
+  "t": "Path of the Violet Mage",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N? This is not a decision you ought to take lightly.$B$BThe Violet Signet will grow in power as you continue to prove yourself to the Violet Eye."
+ },
+ {
+  "id": 10730,
+  "t": "Path of the Violet Restorer",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N? This is not a decision you ought to take lightly.$B$BThe Violet Signet will grow in power as you continue to prove yourself to the Violet Eye."
+ },
+ {
+  "id": 10731,
+  "t": "Path of the Violet Assassin",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N? This is not a decision you ought to take lightly.$B$BThe Violet Signet will grow in power as you continue to prove yourself to the Violet Eye."
+ },
+ {
+  "id": 10732,
+  "t": "Path of the Violet Protector",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you certain of your choice, $N? This is not a decision you ought to take lightly.$B$BThe Violet Signet will grow in power as you continue to prove yourself to the Violet Eye."
+ },
+ {
+  "id": 10733,
+  "t": "Down the Violet Path",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Honored reputation with the Violet Eye.",
+  "d": "You've chosen your path, $c.  Now it is up to you to travel the path to wherever it may lead.$B$BYou will find that having friends among the Archmages of Dalaran has its advantages.  Serve us well and your deeds will not go unrewarded.",
+  "p": "",
+  "c": "You honor us with your service, $N. Behold as I unleash the power contained in your signet!"
+ },
+ {
+  "id": 10734,
+  "t": "Down the Violet Path",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Honored reputation with the Violet Eye.",
+  "d": "You've chosen your path, $c.  Now it is up to you to travel the path to wherever it may lead.$B$BYou will find that having friends among the Archmages of Dalaran has its advantages.  Serve us well and your deeds will not go unrewarded.",
+  "p": "",
+  "c": "You honor us with your service, $N. Behold as I unleash the power contained in your signet!"
+ },
+ {
+  "id": 10735,
+  "t": "Down the Violet Path",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Honored reputation with the Violet Eye.",
+  "d": "You've chosen your path, $c.  Now it is up to you to travel the path to wherever it may lead.$B$BYou will find that having friends among the Archmages of Dalaran has its advantages.  Serve us well and your deeds will not go unrewarded.",
+  "p": "",
+  "c": "You honor us with your service, $N. Behold as I unleash the power contained in your signet!"
+ },
+ {
+  "id": 10736,
+  "t": "Down the Violet Path",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Honored reputation with the Violet Eye.",
+  "d": "You've chosen your path, $c.  Now it is up to you to travel the path to wherever it may lead.$B$BYou will find that having friends among the Archmages of Dalaran has its advantages.  Serve us well and your deeds will not go unrewarded.",
+  "p": "",
+  "c": "You honor us with your service, $N. Behold as I unleash the power contained in your signet!"
+ },
+ {
+  "id": 10737,
+  "t": "The Master's Touch",
+  "o": "Go into the Caverns of Time and convince Medivh to enable your Restored Apprentice's Key.",
+  "d": "I've put together the very key I used as an apprentice.  It looks completely functional as far as keys go.  In regards to opening Karazhan, however, this might as well be a piece of scrap metal.$B$BWithout Medivh's consent, the key is worthless.  Yes, of course I know Medivh is dead.  This merely makes things difficult, not impossible$B$BThere is a place in Azeroth called the Caverns of Time, guarded by the bronze dragonflight.  Find a way inside, travel back in time and get Medivh to enable the key.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 10738,
+  "t": "Distinguished Service",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Revered reputation with the Violet Eye.",
+  "d": "You have not disappointed us, $N.  We continue to have very high hopes for you, however.$B$BContinue to serve the Violet Eye and you will be appropriately rewarded.",
+  "p": "",
+  "c": "Your services have not gone unnoticed, $N. Your signet may look the same, but its powers grow as you continue to prove your loyalty."
+ },
+ {
+  "id": 10739,
+  "t": "Distinguished Service",
+  "o": "Bring your Violet Signet to Archmage Leryda at Deadwind Pass after obtaining Revered reputation with the Violet Eye.",
+  "d": "You have not disappointed us, $N.  We continue to have very high hopes for you, however.$B$BContinue to serve the Violet Eye and you will be appropriately rewarded.",
+  "p": "",
+  "c": "Your services have not gone unnoticed, $N. Your signet may look the same, but its powers grow as you continue to prove your loyalty."
+ }
+]

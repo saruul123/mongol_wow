@@ -1,0 +1,962 @@
+[
+ {
+  "id": 11228,
+  "t": "Hell Has Frozen Over...",
+  "o": "Speak with Vice Admiral Keller at Valgarde Port.",
+  "d": "Fordragon's got another thing coming if he thinks the group of green-gilled scrubs he sent to defend this port can hold out much longer.$B$B<Macalroy raises an eyebrow as he examines your equipment.>$B$BYou, however, might fare a bit better.$B$BThe importance of holding this port cannot be stated enough; and with those monsters flying overhead, the situation around here has gone from bad to worse.$B$BReport to Vice Admiral Keller just northwest of here and let him know that you're all out of bubble gum.",
+  "p": "",
+  "c": "The dwarf speaks the truth. We can't afford to lose this port. It's one of two safe harbors that the Alliance has on this chunk of frozen hell - the other being a few hundred miles west of here on the coast of the Borean Tundra."
+ },
+ {
+  "id": 11229,
+  "t": "The Windrunner Fleet",
+  "o": "Speak to Bat Handler Camille at Vengeance Landing and obtain passage to the Windrunner.  Report to Captain Harker aboard the ship.",
+  "d": "We have the Windrunner, the Queen's Reprisal and the Oblivion stationed just east of the Derelict Strand.  Send orders to the fleet's commander, Captain Harker, that they're to destroy the Alliance's cannons.$B$BSpeak to our bat handler, Camille, and ask for passage to the fleet's location.  Be quick, $N, every minute we spend fighting the Alliance is a minute we could've spent fighting Arthas.",
+  "p": "",
+  "c": "I hope you're ready to fight, $N. The Queen's fleet needs you!"
+ },
+ {
+  "id": 11230,
+  "t": "Ambushed!",
+  "o": "Captain Harker aboard the Windrunner wants you to kill 15 North Fleet Marines.",
+  "d": "This should have been a walk in the park.  Their forces are hungry, injured and ill equipped.  Yet somehow, we walked right into their trap.$B$BWe approached these reefs from the south to gain cover and were immediately boarded by the Alliance dogs.$B$BI'm sorry to say, if you want our cannons to fire at anything, you're going to have to help us take our ships back.",
+  "p": "",
+  "c": "Nice work paring those mongrels down to size. My men will be able to clean up the rest."
+ },
+ {
+  "id": 11231,
+  "t": "Of Keys and Cages",
+  "o": "Father Levariol has asked you to collect enough Gjalerbron Cage Keys to free 10 Gjalerbron Prisoners. Return to him at Westguard Keep when you manage to do so.",
+  "d": "The captain may not care, but from the little we know, the vrykul are conducting heinous rites in some sort of 'awakening' ritual up north in Gjalerbron.$B$BThey're using living sacrifices to fuel their unholy rituals!$B$B$C, you must put a stop to this! It matters not who or what is in those cages, they must be freed. I'd bet that the vrykul hold the keys.$B$BThe Light knows the last thing we need is more of those strange vrykul walking about, or worse yet, them wakening something even more evil!",
+  "p": "With the prisoners at Gjalerbron freed, the vrykul will be unable to continue their unholy rites.$B$BYou're our only hope of stopping them.",
+  "c": "Bless you child! With your help, the Light shines even in the darkest of places.$B$BPlease, take this as just compensation for your good deeds. I shall see to the salvation of those you freed; at least, those truly within the Light, and the Alliance, who returned here to the keep."
+ },
+ {
+  "id": 11232,
+  "t": "Guide Our Sights",
+  "o": "Use the Smoke Flares at the location of the Alliance Cannons on the northern wall of the Derelict Strand.  Report to Dark Ranger Lyana at the Bleeding Vale after you've completed this task.",
+  "d": "We should be able to kill our way back to our guns.  Unfortunately, visibility is less than desirable so you will have to mark our targets from the ground.$B$BTake these smoke flares with you and use them to mark the locations of the cannons along the northern wall in the Derelict Strand, west of here, where the Alliance are holding out.$B$BLet Lyana know as soon as the way is clear for the ground troops.  We can take care of ourselves over here.",
+  "p": "The cannons, $n. Is someone going to take care of them?",
+  "c": "Excellent. I will signal our ground troops to make their move."
+ },
+ {
+  "id": 11233,
+  "t": "Landing the Killing Blow",
+  "o": "Dark Ranger Lyana south of the Vengeance Landing wants you to kill Captain Olster, Lieutenant Celeyne, and Sergeant Lorric at the Derelict Strand.",
+  "d": "You've proven yourself in the field of battle, $N.  You might very well have changed the tides in our favor.$B$BI've an important assignment for you now.  I'm not sure how much longer the weakness we've exposed is going to last, so we must use the element of surprise to our advantage.$B$BI want you to use the confusion created by our attack and go behind enemy lines to assassinate their leaders.  In order of rank, they are: Captain Olster, Lieutenant Celeyne and Sergeant Lorric.  Good luck, $c.",
+  "p": "Are the Alliance leaders dead, $N? Do not return until they are.",
+  "c": "This marks undisputable victory for our forces. Anselm will be most glad to hear about this."
+ },
+ {
+  "id": 11234,
+  "t": "Report to Anselm",
+  "o": "Report back to High Executor Anselm at Vengeance Landing in Howling Fjord.",
+  "d": "Let's send word back to old Anselm then.  Victory has come later than expected, but better late than never.  Tell him it will take our forces a few hours at most to finish off the stragglers here.$B$BGlory to the Banshee Queen!",
+  "p": "",
+  "c": "It was about time. The Alliance has been a thorn in our side for a long time now.$b$bThere's no time to celebrate, however. Look to the west, it appears we have visitors."
+ },
+ {
+  "id": 11235,
+  "t": "Dealing With Gjalerbron",
+  "o": "Captain Adams has asked you to kill 15 Gjalerbron Warriors, 8 Gjalerbron Rune-casters, and 8 Gjalerbron Sleep-watchers. Afterward, return to him at Westguard Keep.",
+  "d": "And now we have a different problem. My scouts that have lived to return have informed me that the vrykul are up to no good at their main fortress to the north.$B$BThey call the place Gjalerbron, though you'd pronounce the 'Gj' as if it were an 'Sh'. Odd creatures.$B$BBut that's not important; what is, is that you get up there and put an end to the lives of as many of those creatures as you can while trying to figure out what they're up to.$B$BI know that I can count on you, $N.",
+  "p": "",
+  "c": "Good work, $N, and good riddance.$B$BBut, what you say about that place troubles me still, and I think our culling is not quite at an end!"
+ },
+ {
+  "id": 11236,
+  "t": "Necro Overlord Mezhen",
+  "o": "Kill Necro Overlord Mezhen. Then, return to Captain Adams at Westguard Keep.",
+  "d": "The Scourge are at Gjalerbron and they have necromancers with them! They must be working to bring the vrykul into Arthas' fold.$B$BI want the leader of these necrolords eliminated!$B$BDo whatever it takes, $N, but see to it that Necro Overlord Mezhen, and whatever he's attempting to accomplish, is neutralized.$B$BI will not see the vrykul successfully allied with the Scourge!$B$BLook for Mezhen on the platform in the rear right section of Gjalerbron.",
+  "p": "Are you sure that you killed Mezhen and his necrolords, $c?",
+  "c": "<The captain breathes a sigh of relief.>$B$BWell, that should take some of the pressure off of us.$B$B$N, time and again you have proven yourself invaluable to Westguard Keep and the Alliance at large. Pick something from the treasury, $g boy : girl;! It's the least we can do!"
+ },
+ {
+  "id": 11237,
+  "t": "Gjalerbron Attack Plans",
+  "o": "Deliver the Gjalerbron Attack Plans to Mage-Lieutenant Malister at Westguard Keep.",
+  "d": "These plans detail an imminent attack upon Westguard Keep. It would appear that the frost wyrm, Glacion, who circles overhead is to be used for the offensive.$B$BSurely Mage-Lieutenant Malister would be of some assistance in this matter. Deliver the plans to him at the keep to the south.",
+  "p": "What?! Plans for an attack upon the keep?$B$BA FROST WYRM?!!!",
+  "c": "$N, we can't let this come to pass!"
+ },
+ {
+  "id": 11238,
+  "t": "The Frost Wyrm and its Master",
+  "o": "Slay Wyrmcaller Vile and use the Wyrmcaller's Horn to call down and slay Glacion. Then, return with the horn to Mage-Lieutenant Malister at Westguard Keep.",
+  "d": "You were right to bring this to me, $N. You must take help back north with you to Gjalerbron and slay that wyrm and its master, Wyrmcaller Vile!$B$BEven now, as we speak here, the frost wyrm may be on its way.$B$BHowever, if I'm reading these plans correctly, blowing the wyrmcaller's horn on his platform, outside in the rear left area of Gjalerbron, will call Glacion back. When the creature lands, destroy it!$B$BAnd $N, please bring me the horn. We wouldn't want it falling back into the wrong hands.",
+  "p": "Is the attack averted? Are the frost wyrm and its master destroyed?$B$BDid you retrieve the horn?",
+  "c": "Wow, that horn is cold!$B$BOnce again you've saved Westguard Keep from certain doom. What a curious $g man : woman; you are, $N. If only there were more of you.$B$BWell, this certainly calls for a reward. Which do you prefer?"
+ },
+ {
+  "id": 11239,
+  "t": "In Service to the Light",
+  "o": "Slay 10 Deathless Watchers, 4 Fearsome Horrors, and 2 Putrid Wights. Afterward, inform Father Levariol at Westguard Keep of your success.",
+  "d": "Your service has been exemplary, $N, but there is something that is troubling me: the Scourge.$B$BThe Light cannot abide their presence, and neither shall we. I hope that it is not asking you too much, but I would have you return north to Gjalerbron and crush the unholy Scourge in that vile lair! Be sure to check for them in the Waking Halls beneath Gjalerbron as well.$B$BPurification is the key to salvation, my child. Make us proud!",
+  "p": "The Holy Light moves through your actions and in all things.$B$BNo creature, no place, no matter how wicked, can escape its wrath!",
+  "c": "<The priest quietly mouths a benediction for you.>$B$BBless you, $N, you have answered my prayers. Stand proudly in the Light, chin held high with the knowledge that your actions were most holy!$B$BI'm certain that the church's coffers can yield up something of use to you."
+ },
+ {
+  "id": 11240,
+  "t": "Leader of the Deranged",
+  "o": "Slay Squeeg Idolhunter and then report back to Sapper Steelring at Westguard Keep.",
+  "d": "So, I hate to say it, pal, but while you were out, the captain took a keener interest in that place.$B$BLooks like he wants my old Explorers' League boss in there dead. My guess would be that we're gearing up for an offensive to clear out the rest of them, and the captain wants their head lopped off, as it were.$B$BDo me a favor? Head back into Whisper Gulch and put an end to Squeeg Idolhunter. From what I remember, my guess would be that he's in the cave in the northwest corner.",
+  "p": "",
+  "c": "<The sapper grumbles as if he wishes that you hadn't succeeded.>$B$BThe captain will be pleased to hear of your success.$B$BYou know, since you've been such a good sport in dealing with this Whisper Gulch business, why don't you take your pick of one of these?"
+ },
+ {
+  "id": 11241,
+  "t": "Trail of Fire",
+  "o": "Escort Apothecary Hanes out of the Derelict Strand.  Report to Apothecary Lysander at Vengeance Landing in Howling Fjord when you've completed this task.",
+  "d": "Thanks for bailing me out of this mess, $N.  I was not looking forward to what these Alliance scumbags had in store for me.$B$BLet's get out of here and see if we can get back at them somehow.  Is that a campfire over there?",
+  "p": "",
+  "c": "Apothecary Hanes is alive? You burned the Alliance supplies to the ground? He must've gotten a real kick out of that.$b$bAt any rate, the Royal Apothecary Society is in your debt, $N. We thank you from the bottom of our black, black hearts."
+ },
+ {
+  "id": 11242,
+  "t": "Free at Last!",
+  "o": "Take the Tome of Thomas Thomson to the Costumed Orphan Matron in Goldshire, Kharanos or Azure Watch.",
+  "d": "Rage was my prison, $N, and you have freed me.  Though I thought I did right, my soul now weeps for the terror and the death I have caused the good people of Azeroth.$B$BThank you for leading me back to the Light.  May I never again lose my way.$B$BTake this torn prayer book to an orphan matron, so the children may know that I will haunt them no more.",
+  "p": "You have something for me, good $N?",
+  "c": "What is this? The tome of Thomas Thomson? But that is the name of the Horseman before he was cursed! Does this mean that he is finally free? Does this mean he will no longer torment the good people of Azeroth?$B$BWhat a joyous day! $N, your feat will live long with us. The children, and their children, will sing your name!"
+ },
+ {
+  "id": 11243,
+  "t": "If Valgarde Falls...",
+  "o": "Vice Admiral Keller at Valgarde Port in the Howling Fjord wants you to slay 12 Dragonflayer Invaders or Dragonflayer Worgs.$B",
+  "d": "If Valgarde falls, our primary supply line into Northrend will cease to exist. From there it'll only be a matter of time before we're all servants of the Lich King. Now I don't know about you, but I've got a wife and three kids back in Elwynn and I'll be damned if I'll go down without a fight.$B$BThe situation here is critical and we can use all the manpower you're able to muster. Get to the front gate and help the guards defend the city against the invading monsters!",
+  "p": "The fate of the world may very well rest with us.",
+  "c": "You gave our defenders the extra support they needed, $N. Morale is higher than ever now, thanks to you. I think they'll be able to handle the remaining onslaught on their own. I've got bigger plans for you..."
+ },
+ {
+  "id": 11244,
+  "t": "Rescuing the Rescuers",
+  "o": "Vice Admiral Keller at Valgarde Port in the Howling Fjord wants you to rescue 8 Valgarde Scouts that have been impaled and left for dead.",
+  "d": "We'd been here for a month when those malformed giants appeared out of thin air. We were ill-prepared for any sort of attack and paid dearly for our complacency. An entire archaeology team was lost and several townsfolk were abducted and taken to the ruins. We've been on the defensive ever since.$B$BTo make matters worse, the scouts we sent to rescue our people have been harpooned by the vrykul and left for dead in the forest directly north of Valgarde. Dislodge those harpoons and free our scouts!$B",
+  "p": "Find those scouts!",
+  "c": "What the vrykul did to our scouts was a gruesome display of savagery. It was a scare tactic, meant to weaken our resolve... to send us running in fear for our lives.$B$BIt failed.$B$BWe are going to show those monsters what it means to wage war against the Alliance!"
+ },
+ {
+  "id": 11245,
+  "t": "Towers of Certain Doom",
+  "o": "The Westguard Sergeant has informed you that using the Sergeant's Flare to target all four of the towers at Skorn for cannon volleys would be advisable.",
+  "d": "$G Sir : Ma'am;, as we move through Skorn, we have to bring down those towers!$B$BIf you have a look at them, you'll notice that their tops are lined with casters. Getting too close to them would mean certain doom for us!$B$BHowever, we do have it within our means to call in cannon volleys from Westguard Keep. To do so, we need to get close enough so that you can lob a smoke flare atop of them.$B$BJust don't get too close!",
+  "p": "Getting too close to those towers is certain death as long as those casters are up there.",
+  "c": "Excellent targeting, $g sir : ma'am;! I'll have to remember to buy a round for the cannoneers back at the keep."
+ },
+ {
+  "id": 11246,
+  "t": "Gruesome, But Necessary",
+  "o": "The Westguard Sergeant has asked you to use The Sergeant's Machete to dismember 20 Vrykul of the Winterskorn tribe at Skorn.",
+  "d": "We've had reports that these vrykul can rise from the dead; not unlike the Scourge, but a different kind of undeath.$B$BLet's not take any chances.$B$BHere, take my machete. As we move through this place, you'll need to carve up the remains of the vrykul that we take down. I'd do it, but I have a sensitive stomach.$B$B<The sergeant smirks.>$B$BI spent all morning sharpening it, so it should do the job.",
+  "p": "One thing that I know for certain is that I don't want to see any of these bigguns standing back up after we've knocked 'em down!",
+  "c": "Well, $g sir : ma'am;, I have to say that you went about that particular business with a bit of zeal.$B$B<The sergeant looks at you warily.>$B$BAnyway, if you don't mind, I'll be taking my machete back now. It looks dull and we wouldn't want you to accidentally slip and carve me up, too."
+ },
+ {
+  "id": 11247,
+  "t": "Burn Skorn, Burn!",
+  "o": "The Westguard Sergeant has orders that you should use the Sergeant's Torch to set fire to the Northeast and Northwest Longhouses and the Barracks at Skorn.",
+  "d": "Captain Adams gave me strict instructions to make sure that a good deal of infrastructure damage was inflicted on this site.$B$BHowever, since you're in charge out here, that's at your discretion, $g sir : ma'am;.$B$BMay I suggest that we burn down the two longhouses and the barracks that are in the lower area of Skorn? All we have to do is get inside each and throw this torch.",
+  "p": "May I suggest that when we set the buildings ablaze, we not tarry too long inside of them?",
+  "c": "Very good, $g sir : ma'am;. That couldn't have been done without your help.$B$BI'm sure that the captain will be pleased with my report on the matter once we're done here."
+ },
+ {
+  "id": 11248,
+  "t": "Operation: Skornful Wrath",
+  "o": "Captain Adams has asked you to use the Westguard Command Insignia at Skorn, and then to speak with the Westguard Sergeant.",
+  "d": "$N, I must now ask you to undertake an operation so hazardous, so deadly, that only you can see it through.$B$BThe vrykul fortress, Skorn, sits on our eastern border. My scouts inform me that those 'giants' are poised to strike us, and with my forces scattered all over the fjord, I don't have the men to take the place by force.$B$BInstead, you're going to use your cunning. I've sent a sergeant ahead with the details. Show this command insignia at Skorn and he'll reveal himself and follow your orders.",
+  "p": "",
+  "c": "A pleasure to meet you, $g sir : ma'am;! I look forward to working with you.$B$BSpeaking of which, we have a great deal to do."
+ },
+ {
+  "id": 11249,
+  "t": "Stop the Ascension!",
+  "o": "Present the Vrykul Scroll of Ascension near the Thane's Pyre to call him out and slay him. Afterward, due to the nature of the ritual, you're sure that Father Levariol at Westguard Keep will be interested in seeing the scroll.",
+  "d": "This huge scroll is made from dragon skin. Unfurling its more-than-ten-foot length, you can see that the images painted upon its scaly surface depict a mysterious vrykul ritual.$B$BA vrykul thane, surrounded by angelic-looking beings, ascends into the heavens. A mysterious, darkened figure looms large in the picture's background.$B$BA tingling in your gut tells you that the thane of Skorn is about to do this. You must stop it! A large pyre sits at the top of Skorn in front of the thane's lodge.",
+  "p": "Yes? How may I help you, my child?",
+  "c": "Yes, $g my son : my daughter;, that is ominous-looking, and you obviously had the right of it.$B$BThank you for bringing this scroll to me. I am very keen to study its implications. If I were to hazard a guess, I would say that these vrykul have a way to transcend death; at least those that are worthy.$B$BBy defeating the Winterskorn thane, you proved him unworthy. The Light only knows what he would have become, and what terror he might have rained down upon us, had you not slain him."
+ },
+ {
+  "id": 11250,
+  "t": "All Hail the Conqueror of Skorn!",
+  "o": "Return the Westguard Command Insignia to Captain Adams at Westguard Keep.",
+  "d": "We -- well, you -- have done everything that we were sent here to accomplish $g sir : ma'am;. I must say that it's been a pleasure taking orders from such a fine, young $r.$B$BThe captain is sure to want to hear of your success, but if you decide to stay out here for whatever reason, I am at your disposal.",
+  "p": "I gather that since you're here, Skorn is no more?",
+  "c": "That's unbelievably good news! I knew that you could pull it off, $N!$B$BAt least someone around here can produce results!$B$BWell, this calls for a reward. Go ahead, take your pick; the treasury is open to you."
+ },
+ {
+  "id": 11251,
+  "t": "Fresh Legs",
+  "o": "Scout Valory wants you to investigate the sounds of battle coming from the northeast of Wyrmskull Village.",
+  "d": "It's come at great cost, but we've completed our inspection of the site.$b$bThe news isn't good. Nearly everyone has been slain or captured. Only a few veteran guards remain unaccounted for.$b$bThe scouts have done all we can here. You must pick up where we've left off.$b$bSounds of a skirmish are coming from up the hill to the northeast. Have a look, $c. We can only hope there are some who have survived, and that they may have some intel we can use against this enemy.",
+  "p": "",
+  "c": "Late though ye may be, it's good to see a friendly face.$b$bNow stop standin' around with yer thumb up yer nose. there's work to be done!"
+ },
+ {
+  "id": 11252,
+  "t": "Into Utgarde!",
+  "o": "Defender Mordun has tasked you with the execution of Ingvar the Plunderer who resides deep in Utgarde.$b$bYou are then to bring his head to Vice Admiral Keller.",
+  "d": "Listen up, youngster. I've put down me share of these creatures - and your share too fer that matter. Here be what ya need to know....$b$bThe vrykul are fearless in a fight. Seems they actually yearn fer a death in battle. With their numbers and that ferocity, we're doomed - plain and simple.$b$bThere's one they esteem though, goes by the name of Ingvar. I dunno why they be seekin' his praise, but bring him down and you'll deal a mighty blow to their spirit.$b$bThen, perhaps, we'll have a chance....",
+  "p": "Good to see you're well, $n.$b$bWe've had about as many casualties as we can handle.",
+  "c": "Outstanding!$b$bThis could be the turn of luck we've all been hoping for.$b$bWell done, $N!"
+ },
+ {
+  "id": 11253,
+  "t": "Sniff Out the Enemy",
+  "o": "Use the Plaguehound Leash near the plaguehound cages at Vengeance Landing and look for clues at the location you're led to by the Plaguehound Tracker.",
+  "d": "Now that this rascal's belly's full, maybe he will be more willing to cooperate.  Here's his leash, just come get him from his cage whenever you're ready to take him.$B$BI don't know what Anselm expects you to find, but look for clues wherever it is that the dog takes you.",
+  "p": "",
+  "c": "This scaly scroll is covered in stark painted images. You've a feeling this is the sort of thing the kennel keeper had in mind when he asked you to look for clues."
+ },
+ {
+  "id": 11254,
+  "t": "The Dragonskin Map",
+  "o": "Bring the Dragonskin Map to High Executor Anselm in Vengeance Landing.",
+  "d": "Upon closer inspection, the scroll appears to be a heavily-illustrated map of the fjord.  The location of various villages are depicted in what seem to be tribal symbols.$B$BThe location of Vengeance Landing is marked with a disproportionately large skull.$B$BThis map will almost certainly be of military value to High Executor Anselm.",
+  "p": "You've something to show me, $c?",
+  "c": "<The high executor looks at the map intently, occasionally looking up at landmarks around the Fjord.>$b$bHere's the eastern coastline over here. The Dragonflayer and Winterskorn villages are here and here... and this must be us over here, marked for death."
+ },
+ {
+  "id": 11255,
+  "t": "Prisoners of Wyrmskull",
+  "o": "Vice Admiral Keller at Valgarde Port in the Howling Fjord wants you to rescue 3 Captured Valgarde Prisoners.",
+  "d": "This battle is far from over, $N. If our people are still alive inside that village, someone has to go and get 'em.$B$B<Vice Admiral Keller nods at you.>$B$BHead north and enter Wyrmskull Village. Once there, look for our people. If they are imprisoned you'll need to find a way to break them out.$B$BMaybe they'll have some more information about what it is that we're actually fighting.",
+  "p": "Put some backbone into it, $n! People's lives are at stake here!",
+  "c": "Those soldiers you rescued had a good bit of information for us. These monsters call themselves 'vrykul.' The tribe that's taken up residence in Wyrmskull Village is led by a mystic named Yanis who himself is an underling of another vrykul known as Ingvar the Plunderer."
+ },
+ {
+  "id": 11256,
+  "t": "Skorn Must Fall!",
+  "o": "Chieftain Ashtotem has asked you to use the Winterhoof Emblem at Skorn, and then to speak with the Winterhoof Brave.",
+  "d": "$N, the vrykul fortress, Skorn, sits to the south. Its strange giants have recently awakened and have begun to spread, attacking us wherever they can.$B$BMy scouts inform me that they are poised to strike at us here, but I do not have the strength to repel such a force. Instead, we will prepare to leave north to less dangerous lands.$B$BI ask that you use your cunning to buy us time. I've sent a brave ahead with the details. Show this emblem at Skorn and he'll reveal himself and do all he can to aid you.",
+  "p": "",
+  "c": "It will be interesting to learn about your people, $c, while fighting alongside you.$b$bShall we proceed?"
+ },
+ {
+  "id": 11257,
+  "t": "Gruesome, But Necessary",
+  "o": "The Winterhoof Brave has asked you to use The Brave's Machete to dismember 20 Vrykul of the Winterskorn tribe at Skorn.",
+  "d": "Our elders say that these vrykul may be able to rise from the dead; not unlike the walking dead you call the Scourge, but a different kind of undeath.$B$BWe should not take any chances.$B$BHere, take my machete. As we move through this place, carve up the remains of the vrykul that we slay.$B$BI spent the morning sharpening it, so it should cleave even through their thick bones.",
+  "p": "These vrykul have strange customs, would you not agree, $n?",
+  "c": "Have you done that before? Your skill with my machete seemed practiced.$b$b<The brave looks at you warily.>$b$bI'll take it back from you now, $c."
+ },
+ {
+  "id": 11258,
+  "t": "Burn Skorn, Burn!",
+  "o": "The Winterhoof Brave suggests that you use the Brave's Torch to set fire to the Northeast and Northwest Longhouses and the Barracks at Skorn.",
+  "d": "Chieftain Ashtotem ordered me to destroy many buildings here.$B$BHowever, you are in charge, so it falls to your hands, $N.$B$BI suggest that we burn down the two longhouses and the barracks that are in the lower area of Skorn. All we have to do is get inside each and set them ablaze with this torch.",
+  "p": "I suggest that when we set the buildings ablaze, we not stay inside of them. The fire spirit will not spare us in its thirst to destroy.",
+  "c": "<The brave nods at you in clear approval of your handling of the torch>$b$bLet these vrykul feel the heat of the land. Let them know the fear they would instill in others!"
+ },
+ {
+  "id": 11259,
+  "t": "Towers of Certain Doom",
+  "o": "The Winterhoof Brave has informed you that using the Brave's Flare to target all four of the towers at Skorn for air strikes would be advisable.",
+  "d": "As we move through Skorn, we must destroy the towers.$B$BIf you have a look at them, you'll notice that their tops are lined with casters. Getting too close to them would mean certain doom.$B$BHowever, we can call in wind rider air strikes from Camp Winterhoof. To do so, we need to get close enough so that you can lob a smoke flare atop of them.$B$BJust don't get too close.",
+  "p": "Getting too close to those towers is certain death as long as those casters are up there.",
+  "c": "You have a strong arm, $N.$b$bIt looks as if those wind riders finally made themselves useful instead of just standing around and drinking all day."
+ },
+ {
+  "id": 11260,
+  "t": "Stop the Ascension!",
+  "o": "Present the Vrykul Scroll of Ascension near the Thane's Pyre to call him out and slay him. Afterward, due to the nature of the ritual, you're sure that Greatmother Ankha at Camp Winterhoof will be interested in seeing the scroll.",
+  "d": "This huge scroll is made from dragon skin. Unfurling its more-than-ten-foot length, you can see that the images painted upon its scaly surface depict a mysterious vrykul ritual.$B$BA vrykul thane, surrounded by angelic-looking beings, ascends into the heavens. A mysterious, darkened figure looms large in the picture's background.$B$BA tingling in your gut tells you that the thane of Skorn is about to do this. You must stop it! A large pyre sits at the top of Skorn in front of the thane's lodge.",
+  "p": "Yes? How may I help you, child?",
+  "c": "Yes, that is ominous-looking, and you obviously had the right of it.$b$bThank you for bringing this scroll to me. I will study its implications. If I were to hazard a guess, I would say that these vrykul have a way to transcend death; at least those that are worthy.$b$bBy defeating the Winterskorn thane, you proved him unworthy. Who knows what he would have become, and what terror he might have rained down upon us, had you not slain him?"
+ },
+ {
+  "id": 11261,
+  "t": "The Conqueror of Skorn!",
+  "o": "Return the Winterhoof Token to Chieftain Ashtotem at Camp Winterhoof.",
+  "d": "You have done everything that we were sent here to do, $c. I must admit that you fight well. Your people are not as strange as I first thought.$B$BChieftain Ashtotem is certain to want to hear of your success, but if you decide to stay out here for whatever reason, I will continue to fight at your side.",
+  "p": "What news do you bring of Skorn, $n?",
+  "c": "That is good news indeed! You have given us some breathing room to further our preparations for leaving.$b$bPlease, take one of these as a sign of our appreciation."
+ },
+ {
+  "id": 11262,
+  "t": "Ingvar Must Die!",
+  "o": "Dark Ranger Marrah has asked you to kill Ingvar the Plunderer in Utgarde Keep, then bring his head to High Executor Anselm at Vengeance Landing.",
+  "d": "Finally, someone's come. I've been here far too long and my wits are beginning to fail me. Of our entire recon party, only I remain.$b$bI shall give you my report and it will be up to you to act upon the information. Know this, $c; it did not come cheaply.$b$bThese vrykul are relentless fighters. Given their numbers and their savage tactics, our only hope is to bring down their leader and pray it brings chaos to their ranks.$b$bIngvar is his name. Bring his head to Anselm when your duty is done.",
+  "p": "Gird up, $r.$b$bThere's much work to be done. This is just the tip of the iceberg, so to speak.",
+  "c": "Excellent work, $N. With their leader removed, our efforts against these vrykul should be more successful.$b$bService such as this cannot go unrewarded!"
+ },
+ {
+  "id": 11263,
+  "t": "Dealing With Gjalerbron",
+  "o": "Chieftain Ashtotem has asked you to kill 15 Gjalerbron Warriors, 8 Gjalerbron Rune-casters, and 8 Gjalerbron Sleep-watchers. Afterward, return to him at Camp Winterhoof.",
+  "d": "My longrunners that have lived to return have informed me that the vrykul have awakened at their main fortress to the west.$B$BIt is a forbidden place known as Gjalerbron. The longrunners tell me that the vrykul are performing strange rituals.$B$BWe cannot allow this to continue.$B$BAre you willing to continue to assist us? Will you kill the vrykul at Gjalerbron before they finish whatever they are doing and attack us here?",
+  "p": "How is the fight at Gjalerbron coming?",
+  "c": "You have my thanks, $N. I know that you do not have any duty to me or my people.$b$bWhat you say about that place troubles me still, and I sense that our culling is not quite at an end."
+ },
+ {
+  "id": 11264,
+  "t": "Necro Overlord Mezhen",
+  "o": "Kill Necro Overlord Mezhen. Then, return to Chieftain Ashtotem at Camp Winterhoof.",
+  "d": "The dead ones are at Gjalerbron and they have necromancers with them?$B$BWe must eliminate the leader of these necrolords.$B$BDo whatever it takes, $N, but see to it that Necro Overlord Mezhen, and whatever he's attempting to accomplish, is neutralized.$B$BWe cannot afford to see the vrykul successful in whatever they are doing with these undead creatures!$B$BLook for Mezhen on the platform in the rear right section of Gjalerbron.",
+  "p": "",
+  "c": "<Chieftain Ashtotem breathes a sigh of relief.>$b$bThat should take some of the pressure off.$b$b$N, time and again you have proven your value to the taunka of Camp Winterhoof. Please, choose something from our bounty. I insist."
+ },
+ {
+  "id": 11265,
+  "t": "Of Keys and Cages",
+  "o": "Greatmother Ankha has asked you to collect enough Gjalerbron Cage Keys to free 10 Gjalerbron Prisoners. Return to her at Camp Winterhoof when you manage to do so.",
+  "d": "From the little we know, the vrykul are conducting unnatural rites in an 'awakening' ritual to the west in Gjalerbron.$B$BThey're using living sacrifices to fuel their rituals.$B$B$N, you must stop this. It matters not who or what is in those cages, they must be freed. I would guess that the vrykul hold the keys.$B$BThe last thing we need is more of those strange vrykul threatening us, or worse, them wakening something even more evil....",
+  "p": "With the prisoners at Gjalerbron freed, the vrykul will be unable to continue their rituals.",
+  "c": "A great stone is lifted from my shoulders to hear of your success. And I smile to know that some you freed were taunka.$b$bPlease, take this as a gift for what you have done. I shall see to the health of those you freed."
+ },
+ {
+  "id": 11266,
+  "t": "Gjalerbron Attack Plans",
+  "o": "Deliver the Gjalerbron Attack Plans to Celea Frozenmane at Camp Winterhoof.",
+  "d": "These plans detail an imminent attack upon Camp Winterhoof. It would appear that the frost wyrm, Glacion, who circles overhead, is to be used for the offensive.$B$BSurely Celea Frozenmane would be of some assistance in this matter. Deliver the plans to her at the camp to the east.",
+  "p": "What?! Plans for an attack upon our camp?$b$bFROM A GREAT WYRM IN THE SKY?!!!",
+  "c": "$N, we cannot let this come to pass!"
+ },
+ {
+  "id": 11267,
+  "t": "The Frost Wyrm and its Master",
+  "o": "Slay Wyrmcaller Vile and use the Wyrmcaller's Horn to call down and slay Glacion. Then, return with the horn to Celea Frozenmane at Camp Winterhoof.",
+  "d": "Your instincts were right to bring this to me, but my wind riders cannot fight a dragon. You must take help back west with you to Gjalerbron and slay the frost wyrm and its master, Wyrmcaller Vile!$B$BEven now it may be on its way!$B$BIf I'm reading these plans correctly, blowing the wyrmcaller's horn on his platform, outside in the rear left area of Gjalerbron, will  call Glacion back. When the creature lands, destroy it!$B$BAnd $N, bring me the horn. We wouldn't want it falling back into the wrong hands!",
+  "p": "Is the attack averted? Is the great death wyrm and its master destroyed?$b$bDid you retrieve the horn?",
+  "c": "This horn is as cold as the land... perhaps even colder!$b$bYou have saved Camp Winterhoof from certain doom, not that we'll be staying here much longer. What a curious $gman:woman; you are, $N. Perhaps you $r-types from over the ocean are not so bad after all.$b$bThis calls for a reward. Which do you prefer?"
+ },
+ {
+  "id": 11268,
+  "t": "The Walking Dead",
+  "o": "Slay 10 Deathless Watchers, 4 Fearsome Horrors, and 2 Putrid Wights. Afterward, inform Greatmother Ankha at Camp Winterhoof of your success.",
+  "d": "Your assistance to us has been tremendous, $N, but there is something that is troubling me: these so-called Scourge.$B$BThe spirits of the land and air, the waters and the fire below the world, would not abide their presence, but seem to do nothing about them. We will see to it that they are dealt with!$B$BPerhaps it is asking too much, but I would have you return west to Gjalerbron and destroy the unnatural Scourge in that vile lair. Be sure to check in the Waking Halls below Gjalerbron as well!",
+  "p": "Have you destroyed the walking dead at Gjalerbron?",
+  "c": "<The greatmother nods her approval of your actions.>$b$bThank you, $N, you have done what is right and you have bought us a little more time to finish our preparations for leaving. We will soon make the journey north.$b$bI am too old; when we go, I will not be able to carry everything with me. Would you like to take one of these?"
+ },
+ {
+  "id": 11269,
+  "t": "Down to the Wire",
+  "o": "Gil Grisert wants you to bring him 10 clumps of Spotted Hippogryph Down.",
+  "d": "The vanguard of the Alliance force will be arriving within days. The soldiers will be expecting their winter gear to be prepared, but I've still got more cloaks to make.$B$BI've been using spotted hippogryph down for the cloaks' linings, but my stock won't last!$B$BYou've got to help me, $N. Captain Adams will have my hide if those cloaks aren't ready in time! Bring me all the down you can find out there. It's dropped to the ground by molting hippogryphs flying over the wilderness around the fort.",
+  "p": "Have you brought any of that down? I could really use it...",
+  "c": "Thank goodness! This should be enough to finish the order in time. Of course, I won't sleep until the troops arrive, but that's far better than risking Captain Adams' wrath.$B$BI've heard the stories they tell about him!"
+ },
+ {
+  "id": 11270,
+  "t": "War is Hell",
+  "o": "High Executor Anselm at Vengeance Landing wants you to take the Burning Torch and use it to burn 10 of the corpses littered to the west of town.",
+  "d": "We're slowly finishing off the remnants of Stormwind's North Fleet stationed on this coast.  The bodies to the west are a testament to how brutal this confrontation has been.$B$BThis does not happen to bother my refined aesthetics, but it does present a danger to our lives.$B$BIn the lands of the Lich King, the dead are a weapon that can rise against us at any point in time.  Take this torch - you're going to make sure that doesn't happen.",
+  "p": "I don't care how many giants, dragons or kobolds you've killed before. Get this job done and come back when you're finished.",
+  "c": "I'm glad you've proven you can follow orders. If I had a copper piece for every arrogant fool in shiny armor to come here and think they're above the chain of command... well, I'd have a few gold.$b$bNow that you've demonstrated a measure of discipline, I have other tasks more suitable for someone of your caliber."
+ },
+ {
+  "id": 11271,
+  "t": "Hasty Preparations",
+  "o": "Ahota Whitefrost at Camp Winterhoof wants you to bring him 10 clumps of Spotted Hippogryph Down.",
+  "d": "The down of the spotted hippogryph is prized by my people and used for everything from fletching to ceremonial clothing. We're making preparations to leave the post, so this is the last chance I'll get to gather it this season.$B$BWith your help, I'll have enough to make sure everyone has the equipment they need for the long trek into the hills. Conditions worsen very quickly up there and a storm can blow in without warning.$B$BThe down can be found all over the ground in the area surrounding the post.",
+  "p": "Have you gathered any of the down?",
+  "c": "With your contribution, we'll be well prepared for the journey. I haven't much to offer you for your help, but I will give you a choice of some of my spare combat gear."
+ },
+ {
+  "id": 11272,
+  "t": "A Score to Settle",
+  "o": "High Executor Anselm wants you to to go into Utgarde and slay Prince Keleseth.",
+  "d": "This elf prince thinks he can come to my town, insult my queen, kill my men and get away with it?  He thinks we're going to stand by while the hordes of Utgarde build up to launch an attack?$B$BNot in a million years.$B$BYou're going to walk right into Utgarde and kill him in front of any of these vrykul gorillas that might be watching.  I want Arthas to know that we've arrived and we're playing for keeps.",
+  "p": "It is good to see you again, $n. Unless you haven't killed that aberration of an elf yet, in which case I'd get going if I were you.",
+  "c": "Revenge feels good. To think that this is but a taste of what's to come.$b$bArthas will get what he deserves soon enough. Then and only then will I die a happy man."
+ },
+ {
+  "id": 11273,
+  "t": "The Human League",
+  "o": "Search Wyrmskull Village for Pulroy.",
+  "d": "We were on the brink of an archaeological breakthrough when those monsters attacked! Sadly, I was the only one to make it back to Valgarde. Now I don't know if my crew is dead or alive, but the artifacts we uncovered on that dig must be found!$B$BIf you're heading into Wyrmskull Village, will you keep an eye out for my team? If there's any hope of recovering that information, we must pursue it!$B$BSearch for Pulroy first. He was the last one I saw before I made my escape.",
+  "p": "",
+  "c": "You've found Pulroy. A bit too late it seems.$B$BWhile looking over the corpse you see a journal clenched tightly in Pulroy's death grip. Upon examining the journal you read what appears to be the scribbling of a dying dwarf."
+ },
+ {
+  "id": 11274,
+  "t": "Zedd's Probably Dead",
+  "o": "Search Wyrmskull Village for Zedd.",
+  "d": "To whomever finds this journal:$B$BThese bloodthirsty monsters have taken up residence in the ruins of Wyrmskull. What they want or why they're here is a mystery. In any case, the artifacts are not safe with those beast-men around.$B$BZedd and I made a new discovery while hiding out: a cipher to decode the tablets! Unfortunately Zedd and I were separated late last night. He had the cipher. Tablets were with Glorenfeld and Daegarn. Location unknown...$B$BFind Zedd.$B$B-Pulroy",
+  "p": "",
+  "c": "You've found Zedd. You're no doctor but the prognosis for Zedd is most assuredly negative.$B$BIt looks as if they were preparing to feed him to the worgs. Gruesome..."
+ },
+ {
+  "id": 11275,
+  "t": "Making the Horn",
+  "o": "Nokoma Snowseer at Camp Winterhoof wants you to bring her 6 Undamaged Ram Horns.",
+  "d": "My people have been hunting the giant yeti of these hills for generations and I will be participating for the first time this year. It will probably be the last before we leave the post forever.$B$BTo prepare for the hunt, I must fashion a loud horn from the horns of the dire rams that roam the snowy areas near our camp. The elders tell me the sound mimics the mating call of the female yeti, but I have my doubts.$B$BBring me the best dire ram horns you can find, $N, and I'll select one from among them.",
+  "p": "Have you brought any suitable horns?",
+  "c": "These are all fine horns, $N. Let me examine them and select the one I will use in the hunt.$b$bI'll give the rest to the craftsmen for use in their carvings."
+ },
+ {
+  "id": 11276,
+  "t": "And Then There Were Two...",
+  "o": "Search the Utgarde Catacombs for Glorenfeld.",
+  "d": "There's no sign of the cipher on Zedd. After carefully searching the area you discover some writing in the dirt:$B$B\"Glor and Dae inside catacombs. Have cipher and tablets.\"$B$BPerhaps you should head into the catacombs located just north of here and search for Glorenfeld and Daegarn. The bridge crossing the worg pit will lead you right to the tunnel leading down into the catacombs.",
+  "p": "",
+  "c": "About bloody time! Pulroy and Zedd are dead.$B$BAnd Daegarn...$B$B<Glorenfeld shakes his head.>$B$BTaken by the Dragonflayer chieftain into the depths of these catacombs. I overheard that oversized mongrel mention something 'bout a sacrifice to the \"Dread King.\"$B$BThe cipher is hidden away in Daegarn's grimy beard.$B$BWhat? Dwarves hide things in their beards all the time!"
+ },
+ {
+  "id": 11277,
+  "t": "The Depths of Depravity",
+  "o": "Glorenfeld at the Utgarde Catacombs wants you to collect 10 Wyrmskull Tablets.",
+  "d": "They're keepin' Daegarn locked up in a cage at the large fightin' ring nearby. From what I've gathered, the Dragonflayers bring out their prisoners to battle against their most powerful gladiators. They dump the losers in the basement where Scourge necromancers turn 'em into ghoulies! It's horrifying!$B$BBut first things first! The tablets are strewn about all across this dungeon. Let's get those recovered before you go off tryin' to be a hero.",
+  "p": "Check every nook and cranny!",
+  "c": "You've done well, mate. Now that we've secured the tablets we can try and save Daegarn's life and recover the cipher that will help us decode the meaning behind these ancient relics!$B$BI'll hold on to these tablets, you rescue Daegarn.\n\n"
+ },
+ {
+  "id": 11278,
+  "t": "Return to Valgarde",
+  "o": "Take Glorenfeld's Package to Beltrand McSorf at Valgarde Port.",
+  "d": "'Tis a shame we lost two of our best dwarves while uncovering these relics. They sacrificed their lives to keep this information safe.$B$B<Glorenfeld wraps the cipher and tablets in a tattered cloth.>$B$BTake these back to Valgarde. McSorf will know what to do with the find.$B$BAs for me? I'll be alright on my own. I've gotten this far in one piece!",
+  "p": "You're back!",
+  "c": "Sorting these tablets out is going to take some time. All I can gather from a precursory study is that whatever used to be here was an ancestor of the humans. Those vrykul things probably killed 'em all off. Anyhow, we'll know more once I get these relics set up."
+ },
+ {
+  "id": 11279,
+  "t": "Green Eggs and Whelps",
+  "o": "Plaguebringer Tillinghast has asked you to collect 10 Plagued Proto-Whelp Specimens and deliver them to him at New Agamand.",
+  "d": "This new plague that we're working on is wonderful and I think we should expand its testing.$B$BHow about testing it on proto-whelps?!$B$BJust think of the possibilities. The ability to infect not only humanoids, but extend our reach to any creature!$B$BHere, I've hoarded an extra plague canister for the right time and place, and you look like the right person.$B$BSpray the eggs at Ember Clutch to the northwest, then get specimens from the plagued proto-whelps that hatch.",
+  "p": "Without those samples, how am I to tell if this latest strain of the plague can be expanded for use on all sorts of creatures?",
+  "c": "What?! No, this can't be right.$b$bCURSES!$b$bThis batch of the plague doesn't seem to have had any real effect on the proto-whelps at all other than to make them glow green!$b$bMy dream of using the plague upon anything we come into contact with seems to have gone up in smoke!"
+ },
+ {
+  "id": 11280,
+  "t": "Draconis Gastritis",
+  "o": "Plaguebringer Tillinghast at New Agamand wants you to use Tillinghast's Plagued Meat to attract down a Proto-Drake and observe its reaction to eating the stuff.",
+  "d": "Wait, that gives me an idea! What if it didn't kill the whelps because it was sprayed on the outside of their eggs?$B$B$N, we have to get the plague inside of them!$B$BI know! I've got some plagued meat here. Take it to the Ember Clutch and get them to eat it!$B$BBut no, we're thinking too small. Let's get one of the proto-drakes flying overhead to come down and eat it.$B$BYes!$B$BStay close to the meat and observe what happens. Yes, it might attack you, but such is the price of progress.",
+  "p": "Well, out with it! Did our little experiment work?$B$BDid the proto-drake like its snack? Did it dissolve from the inside?",
+  "c": "NOOOOOOOOOOOOOOOO!!!$b$b<The plaguebringer begins to cry.>$b$bAll of my hopes... all of my dreams, ruined!$b$bLeave me, $N. Leave me to my despair. I'm nothing.$b$bHere, you might as well take all of my worldly possessions. When the rest of the apothecaries hear of my failure, I'll be done for and won't need them anyway."
+ },
+ {
+  "id": 11281,
+  "t": "Mimicking Nature's Call",
+  "o": "Test the Carved Horn and then return to Nokoma Snowseer at Camp Winterhoof with the results.",
+  "d": "The horn has been roughed out, but before I make the traditional carvings, I want to be certain that it will work. Ahota tells me that he tests his horns at the foot of the frozen waterfall to the northeast of the post. Ahota tells me that our hunters have used the acoustics of frozen water in this way for generations. I can't wait to learn more!$B$BWill you help me test out the horn? If I've done everything right, you may even attract a yeti, so be prepared! Bring the horn back once you've tested it. ",
+  "p": "Did you get a chance to test that horn?",
+  "c": "<Nokoma listens to your report from the test.>$b$bI'm relieved that the horn worked so well... maybe too well if what you're saying was true. You're sure the beast spoke? I don't know if I can go on with the hunt if that's true. I'll have to speak with Chief Ashtotem about it.$b$bThis horn may end up being merely decorative, but that won't diminish its worth. Thank you for all your help, $N."
+ },
+ {
+  "id": 11282,
+  "t": "A Lesson in Fear",
+  "o": "Gorth wants you to kill Ulf the Bloodletter, Oric the Baleful and Gunnar Thorvardsson and drive the Forsaken Banner through their corpses.  Slay Vrykul across the Forsaken blockade until they appear.",
+  "d": "When you've been in lots of fight like Gorth, you learn that to beat enemy good you have to make them really scared to die!$B$BBut these vrykuls not afraid.  You kill one and another comes... screaming louder and with a bigger weapon than the one before.$B$BOnly thing that makes vrykuls afraid is when we kill the biggest and baddest vrykul of all.$B$BGo fight the Winterskorn across the blockade until hero vrykuls show up!  Then you kill them dead and put queen's flag on corpses.  They must learn to fear!",
+  "p": "You kill them vrykuls? They sure is tough!",
+  "c": "You do some good killings over there. I see vrykul men fall and get stabbed with Sylvanas flag. Our side doing good!"
+ },
+ {
+  "id": 11283,
+  "t": "Baleheim Bodycount",
+  "o": "Sergeant Gorth wants you to kill 16 Winterskorn Vrykul inside Baleheim.",
+  "d": "Them vrykuls just keeps coming and coming out from town west of here.  No end in sight!$B$BGorth has an idea.  You go INSIDE town and kill them Winterskorn there.  THEN they stop coming here!",
+  "p": "You done with the killings yet? Winterskorn town right across from here!",
+  "c": "You must have lots of practice with doing killings. You almost as good as Gorth!"
+ },
+ {
+  "id": 11284,
+  "t": "The Yeti Next Door",
+  "o": "Foreman Colbey at Fort Wildervar wants you to defeat Shatterhorn.",
+  "d": "Maybe if the sentries won't help me, you will? I'm the foreman of the mine just across the bridge. My men are mining ore for the weapons our expeditionary force will need to carve a path into the Grizzly Hills.$B$BA giant yeti has invaded the mine, blocking the tunnel we need to expand! We've tried yelling at him and smoking him out, but nothing's worked.$B$BMaybe you could rouse it from its sleep with a meal of meat from the frosthorn rams in the snowy areas around town? Please? We're desperate!",
+  "p": "",
+  "c": "You've done it? By the Light, you're a walking miracle! I was beginning to think I'd personally have to explain to Captain Adams why his men's weapons weren't ready in time!"
+ },
+ {
+  "id": 11285,
+  "t": "Baleheim Must Burn!",
+  "o": "Sergeant Gorth wants you to go to Baleheim and use Gorth's Torch to burn 1 Winterskorn Dwelling, 1 Winterskorn Watchtower, 1 Winterskorn Bridge and 1 Winterskorn Barracks.",
+  "d": "Killing the Winterskorns maybe not enough.  Maybe we burn their houses too!  Uh... and their bridges.  We should burn whole town to be safe!$B$BYou take this torch.  Go to Baleheim, to the west, and burn EVERYTHING!  That teach them good.",
+  "p": "You done burning everything? Make sure you not leave something not burned.",
+  "c": "I guess you burned everything. I see couple of spots not burning... but is close enough for Gorth."
+ },
+ {
+  "id": 11286,
+  "t": "The Artifacts of Steel Gate",
+  "o": "Sage Mistwalker has asked you to collect 10 Steel Gate Artifacts. When you have all of them, return to him at Steel Gate.",
+  "d": "I came out here for a different reason; an old friend of mine has been calling to me in my dreams. But now that I see these small things with their machines making a big hole in the ground, it makes my blood boil.$B$BFrom what I can see, these dwarves, as they are known, are digging up artifacts; artifacts that could be important to our past.$B$BI want you to go down there and get these things for me. Don't let any of those dwarves stand in your way.",
+  "p": "How many artifacts have you managed to gather from this Steel Gate?",
+  "c": "<The sage grunts his approval at your actions on his behalf.>$b$bPerhaps I will be able to find the time soon to study these artifacts and come to an understanding of their significance.$b$bBut now there are more pressing matters to attend to."
+ },
+ {
+  "id": 11287,
+  "t": "Find Sage Mistwalker",
+  "o": "Greatmother Ankha has asked you to check on the condition of Sage Mistwalker. She believes him to be at or near Steel Gate.",
+  "d": "$C, I grow worried that my son, Sage Mistwalker, has been gone for such a long time. The land is cruel and deadly.$B$BHe spoke of a recurring vision that he had of a wolf, and went west with a small group of longrunners to seek its source. I believe the name of the place he mentioned was Steel Gate.$B$BWill you find him? I want to make sure that no ill has befallen him.",
+  "p": "",
+  "c": "My mother should not concern herself with my safety. But, I thank you for coming, stranger.$b$bSince you are here, perhaps you will help me with a few things?"
+ },
+ {
+  "id": 11288,
+  "t": "The Shining Light",
+  "o": "Ares the Oathbound in the Utgarde Catacombs wants you to recover the Sacred Artifact.$B$BThis is a timed quest.",
+  "d": "<Ares gasps for air as he tries to speak.>$B$BI am an envoy of the Argent Crusade, charged with a sacred duty.$B$BOur forces were decimated in the Plaguelands. By the light of dawn, the artifact was cleansed and made pure once more. So many perished in the wake of its redemption.$B$BThere is still a chance... still time.$B$BThe artifact was hurled into the den of the fallen, far below us. Guarded by the unmerciful dead.$B$B<Ares' body glows with blinding light.>$B$BLight. Will. Protect. You.$B",
+  "p": "<Ares is unconscious.>",
+  "c": "You feel compelled to place the sacred blade next to the body of Ares.$B$BUpon doing this you are once again blinded by light."
+ },
+ {
+  "id": 11289,
+  "t": "Guided by Honor",
+  "o": "Return the Sacred Artifact to Lord Irulon Trueblade at Valgarde.",
+  "d": "<Ares smiles.>$B$BGlory to the Light. You have done it!$B$B<Ares coughs.>$B$BTake the artifact and return it to Valgarde. Lord Irulon Trueblade awaits its return.$B$BFight with honor, friend. Always. Honor.$B$B<Ares dies.>",
+  "p": "By the Light!",
+  "c": "Many men and women died to recover this blade. Alas, I fear valiant Ares will not be the last.$B$BBut you do the Light's work, hero. This sacred blade will be wielded by Lord Tirion Fordring himself. Even now the Argent Crusade works toward Icecrown. Lord Fordring has vowed that he will tear down the walls of the cursed place himself! And with the blade, he just might stand a chance against the Lich King.$B$BLord Fordring remains our greatest hope."
+ },
+ {
+  "id": 11290,
+  "t": "Dragonflayer Battle Plans",
+  "o": "Vice Admiral Keller at Valgarde Port in the Howling Fjord has asked that you bring him the Dragonflayer Battle Plans.$B",
+  "d": "While we were able to gather very little information as to the whereabouts of Ingvar, we do know that Yanis resides in a cave next to the worg pit inside Wyrmskull Village.$B$BIntelligence gathered from the rescued soldiers indicates that Yanis guards Dragonflayer battle plans.$B$BI need you to go back to Wyrmskull and recover those plans. Kill any vrykul that get in your way - including Yanis!",
+  "p": "Have you recovered the Dragonflayer battle plans?",
+  "c": "<Vice Admiral Keller glances over the plans.>$B$BOutstanding! By the looks of things, there are many more vrykul villages in the fjord. A different tribe of vrykul is preparing an assault on Westguard Keep. Hell, for all I know it may already be too late. We haven't heard from Westguard in days. Either way, we must alert Westguard!"
+ },
+ {
+  "id": 11291,
+  "t": "To Westguard Keep!",
+  "o": "Take the Dragonflayer Battle Plans to Captain Adams at Westguard Keep in the Howling Fjord.$B",
+  "d": "<Vice Admiral Keller rolls up the battle plans.>$B$BWe've got all the information we need to keep Valgarde protected. You must take these battle plans to Westguard Keep, located on the western fjord cliff wall. Speak with the flight master assistant, Emilune Winterwind. She will put you on the back of a gryphon headed towards Westguard.$B$BOnce there, find Captain Adams. He's the one in charge. Adams will know what to do with these plans.",
+  "p": "Valgarde has not fallen? That's a surprise.$B$BMust be due to your help. It sure wasn't because of Keller.",
+  "c": "<Captain Adams takes the plans from you.>$B$BI'm glad you decided to come over. My advisors and I will need some time to study these plans. In the meantime, we can use all the help we can get!"
+ },
+ {
+  "id": 11292,
+  "t": "Preying Upon the Weak",
+  "o": "Trapper Jethan at Fort Wildervar wants you to bring him 8 pieces of Trapped Prey.",
+  "d": "Glad to meet you. I've come here from the Grizzly Hills to do business with your cohorts. My people maintain a large outpost there, and you'd do well to visit it when you head north.$B$BI've set up traps in the woodlands and snowy areas around here. With the meat and the furs from the creatures they capture, I'll have plenty to barter with the townspeople.$B$BI can offer you a share of my profits if you're willing to help gather prey from the traps. Beware though, you won't be the only predator out there.",
+  "p": "I hope you haven't returned empty-handed. I thought we had a deal.",
+  "c": "<Trapper Jethan inspects the creatures you've brought him.>$B$BNicely done. Some of these will fetch a better price than others, but I should have plenty to trade with the locals."
+ },
+ {
+  "id": 11293,
+  "t": "Bark for the Barleybrews!",
+  "o": "Spread the word about Brewfest at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.",
+  "d": "We need to get the word out about the Barleybrews at Brewfest.  You need to shout at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.  I'll make things easy though, I'll lend you some racing ram reins and a racing ram for 4 minutes.  Use the reins to let him go, but try not to tire him out.",
+  "p": "Have you finished spreading the word about Brewfest? But more importantly, did you let people know about the Barleybrews?",
+  "c": "Well done! That kinda shouting is sure to bring business our way.$B$BAnd we promised you a reward, here it is. The Barleybrew's keep their word.$B$BOh, and come back any other day if you want to help spread the good name of Barleybrew."
+ },
+ {
+  "id": 11294,
+  "t": "Bark for the Thunderbrews!",
+  "o": "Spread the word about Brewfest at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.",
+  "d": "It's time to let people know that the Thunderbrew have heard their cries for good brew.  You need to shout at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.$b$bWe'll make it easy though.  We'll lend you a ram AND some reins for 4 minutes.$b$bBe careful with going too fast though since you won't find any apple crates in Ironforge...  We can't take the chance of helping out the Barleybrew messengers.",
+  "p": "Did you let everyone know that the Thunderbrews are here at Brewfest?",
+  "c": "Good job! That'll show those arrogant Barleybrews.$B$BWell we promised you a reward and here it is. We Thunderbrew reward you with prizes, the Barleybrew reward you with foul odors and false promises.$B$BYou chose wisely.$B$BIf you want to keep making the right choice, stop by another day and help us spread the word."
+ },
+ {
+  "id": 11295,
+  "t": "The Offensive Begins",
+  "o": "Speak to Sergeant Gorth at the blockade near the elevator west of Vengeance Landing in Howling Fjord.",
+  "d": "No one seems to know very much about the vrykul.  Our records show no signs of activity in their lands for centuries.  Yet here they are, just as we move against Arthas.$B$BThe map you retrieved makes it clear that we'll have to defeat them if our forces are to get any further into Northrend.$B$BOne of my best sergeants, an abomination known as Gorth, oversees the blockade beyond the lift.  Assist him in launching a pre-emptive strike on Baleheim.  If a vrykul attack occurs, it will be launched from there.",
+  "p": "",
+  "c": "You come to help? Good... good...$b$bGorth was getting tired of killing vrykuls all day. Help is welcome!"
+ },
+ {
+  "id": 11296,
+  "t": "Rivenwood Captives",
+  "o": "Longrunner Skycloud has asked you to free his 7 Winterhoof Longrunners. Once you have managed to do so, return to him at Steel Gate.",
+  "d": "Something, most likely the walking dead known as the Scourge, has agitated the creatures hereabouts.$B$BWhile escorting the sage here, we lost most of our hunting force to the riven widows -- huge and deadly spiders, which inhabit the Rivenwood to the north.$B$BI must stay here to protect the small force we have left, but you... you could see if my longrunners are still alive, trapped within the riven widow's cocoons.$B$BWould you do this, stranger?",
+  "p": "I hold out hope that my hunting force is still alive.$B$BThe sting of the widows is slow to be fatal. They like to keep their victims alive long enough that their babies will be able to gorge themselves when they hatch.",
+  "c": "That was a very brave act, $c. I did not know that your people were capable of such selflessness.$b$bNext time I will heed the warnings of my elders and steer clear of the Rivenwood. I advise you to do the same."
+ },
+ {
+  "id": 11297,
+  "t": "Keeping Watch on the Interlopers",
+  "o": "Speak to Apothecary Malthus at the Apothecary Camp.",
+  "d": "Even the earth cannot hold back the tide of death washing over it. Corpses walk the land, spreading their putrefaction with alarming speed.$B$BA small expedition has made its way up the western cliffs and rests near Whisper Gulch. Take a look for yourself, $N. See if you can learn their purpose and dissuade them from bringing their poisons into our lands. Travel southwest from the post, toward the cliffs overlooking the western beach. Their camp will be west of the excavation at Steel Gate.",
+  "p": "",
+  "c": "Ah, yes, the reclusive bison-men of the north. I've seen them skulking about, believing themselves unseen. I suppose they fancy this land theirs? Well, that's but one of many things that will change shortly.$b$bI wasn't expecting any company, but while you're here on that fool's errand, you might as well make yourself useful."
+ },
+ {
+  "id": 11298,
+  "t": "What's in That Brew?",
+  "o": "Apothecary Malthus at the Apothecary Camp wants you to bring him 5 Dwarven Kegs.",
+  "d": "To the southeast is an area called Whisper Gulch. It's overrun with members of the Explorers' League who've gone mad! They attacked our caravan as it passed through the area, and they've harried our foraging parties as well.$B$BI must know what's causing this madness! I suspect that whatever they're drinking from the kegs scattered around the gulch contributes to their insanity. I want you to steal the kegs from those dwarves while they're busy mining away.",
+  "p": "Did you get those kegs or not?",
+  "c": "<The apothecary pours out a tankard of the beverage for himself.>$b$bWell, here I go!"
+ },
+ {
+  "id": 11299,
+  "t": "The Ring of Judgement",
+  "o": "Find Daegarn in the Ring of Judgement located inside the Utgarde Catacombs.",
+  "d": "You might have already seen the room where Daegarn is being held while you were gatherin' the tablets. It's through this corridor and then down a set of steps. Daegarn will be in the room at the bottom of the steps - locked up tight!$B$BGet down there and find him. At the very least you might be able to get the cipher from him.",
+  "p": "",
+  "c": "Yep. You found me. Woopedy-do!$b$bAnd no, I don't have the cipher. My beard was the first thing those beasts checked! Oluf's the one that's got it now. He's the chieftain of the gladiators."
+ },
+ {
+  "id": 11300,
+  "t": "Stunning Defeat at the Ring",
+  "o": "Defeat the gladiators at the Ring of Judgement and face Oluf the Violent. Defeat Oluf and recover the Ancient Cipher.$B$BReturn the Ancient Cipher to Glorenfeld at the entrance to the Utgarde Catacombs.",
+  "d": "Oluf will come out if you defeat the other gladiators. That's 'bout the only way we're getting' that cipher back. Put on your whompin' boots and get busy in the Ring of Judgement. If you do manage to get the cipher back, return it to Glorenfeld o'er near the entrance to these catacombs.$B$BMe? Don't worry about me! We're on the brink of discovering the missing link to human-kind!",
+  "p": "Daegarn? The cipher?",
+  "c": "Fascinating tale! Something is actually judgin' these things? To what end?! For what purpose?$b$bWell, never mind that nonsense. Someone else can figure out that stuff. We got the cipher and the tablets back - and only two fatalities in the whole ordeal."
+ },
+ {
+  "id": 11301,
+  "t": "Brains! Brains! Brains!",
+  "o": "Apothecary Grick at the Apothecary Camp wants you to bring him 12 Deranged Explorer Brains.",
+  "d": "Has Malthus drawn you in with his blather about beer kegs and crazy dwarves?$B$BI'm not questioning that the dwarves are crazy, but I don't think stealing their beer is going to do any good.$B$BWhat we need is brains. Lots of brains. We'll get down to the bottom of this mystery in no time, and perhaps even find a new component for the plague.$B$BTake this saw, go southeast into the Whisper Gulch, and kill yourself some dwarves. Use the saw to help you harvest the brains and bring them back here.",
+  "p": "Did you get those brains? If not, I want my saw back. You'd better not walk off with that saw.",
+  "c": "These brains are beautiful! Gorgeous, even! They're exactly what I need.$b$bThank you for your help, $N. Now I'll show Malthus the truth his beer goggles couldn't reveal."
+ },
+ {
+  "id": 11302,
+  "t": "The Enigmatic Frost Nymphs",
+  "o": "Speak with Lurielle at the Frozen Glade.",
+  "d": "When we first scouted locations for the fort, we encountered hostile creatures at two of the glades here in the north. When we passed the snow-covered one directly south of the town, the dryads there watched us with interest, but did not attack.$B$BWe were tired and worn down by the weather. They could've easily killed several of our men, but they didn't.$B$BPerhaps, in reaching out to them, we might discover unexpected allies. Are you willing to travel to the Frozen Glade and make contact with them?",
+  "p": "",
+  "c": "<Lurielle listens as you introduce yourself.>$B$BIt is good to finally meet you, $N. We have long hoped that you and the other newcomers might send representatives. We don't often venture beyond the borders of our glades, especially amid the changes the land is going through."
+ },
+ {
+  "id": 11303,
+  "t": "The Ambush",
+  "o": "Speak to Lydell at Lydell's Ambush.",
+  "d": "The vrykuls in Baleheim is completely defeated, no doubt about it.  But still their leader stays in town and won't give up.$B$BGorth sends Lydell and his assassins to make good ambush to the northwest.  You talk to Lydell and figure out how to get Vrykul chieftain to come out.  Then you kill him.  You kill him real good.",
+  "p": "",
+  "c": "We all showed up to the party, but the guest of honor stayed at home."
+ },
+ {
+  "id": 11304,
+  "t": "New Agamand",
+  "o": "Bring Lysander's Strain to Chief Plaguebringer Harris in New Agamand in western Howling Fjord.",
+  "d": "I'm afraid our equipment isn't exactly the best here at Vengeance Landing.  After all it's a military controlled outpost.$B$BI will need you to take a sample of this strain to Chief Plaguebringer Harris in New Agamand, follow the road beyond Baleheim south and then west.  They have better equipment there - he will know what to do.$B$BYou must hurry, $N.  Our enemies are stronger and more numerous than us.  We need to develop a viable weapon against them!",
+  "p": "Yes, $n?",
+  "c": "This strain is far from worthless, my friend! Those fools at Vengeance Landing have had all the answers right under their own noses!"
+ },
+ {
+  "id": 11305,
+  "t": "A Tailor-Made Formula",
+  "o": "Obtain the Dragonflayer Patriarch's Blood from Thorvald at Thorvald's Camp and bring it to Chief Plaguebringer Harris in New Agamand.",
+  "d": "We've been spraying down the vrykul village of Halgrind for weeks now and the vrykul just won't drop dead.$B$BLet's face it, $N, by now our Plague has been exposed to humans, dwarves, dogs, livestock... you name it.  As our strains adapt to their hosts, more impurities get thrown in the mix.  What we need is a strain made custom for the vrykul's biology.$B$BHalgrind's chieftain fled the town after we took it over; you'll find him west of here.  As a patriarch of the Dragonflayer clan, his blood is ideal.",
+  "p": "Have you obtained the sample I require, $n?",
+  "c": "This will do. It's time for some real apothecary work now, $N!"
+ },
+ {
+  "id": 11306,
+  "t": "Apply Heat and Stir",
+  "o": "Fill the Empty Apothecary's Flask at the Cauldron of Vrykul Blood, then mix the Flask of Vrykul Blood with Harris's Plague Samples nearby until you've obtained a Balanced Concoction.$B$BReturn to Chief Plaguebringer Harris when you've completed this task.",
+  "d": "You've done well so far, $N.  I'd like to teach you some of my more advanced techniques, so that you gain a better understanding of the plague.$B$BTake this empty flask and fill it with blood from the cauldron to my left.  Mix it with the plague samples to my right until you obtain a well balanced mix.",
+  "p": "How is your experiment going, $n? Let me know if you have any questions behind the science involved!",
+  "c": "Excellent! You are an apt pupil, $N.$b$bNow comes the fun part. Deployment!"
+ },
+ {
+  "id": 11307,
+  "t": "Field Test",
+  "o": "Venture into Halgrind and use the Plague Spray on 10 Plagued Dragonflayer Vrykul.  Return to Chief Plaguebringer Harris to report the results.",
+  "d": "Now that we have a strain of the plague that has adapted to vrykul carriers, we really ought to test it on our specimens in Halgrind.  If all goes according to plan, they will disintegrate immediately as the plague devours their innards!$B$BYou will find Halgrind north of here.  Our plaguebringers are deploying the previous strain there - shouldn't be hard to spot.",
+  "p": "",
+  "c": "The plague didn't disintegrate our subjects? Are you certain, $N??!$b$bThere must be an external factor we're not accounting for... perhaps the low temperatures of this climate? Perhaps... a mutation in the strain!"
+ },
+ {
+  "id": 11308,
+  "t": "Time for Cleanup",
+  "o": "Speak to \"Hacksaw\" Jenny in New Agamand.",
+  "d": "Being the practical man that I am, I'm going to declare our research here a success.  After all, what army can't be stopped by turning its rank and file against each other?$B$BI will send word of our achievements to Vengeance Landing soon enough.  But first I need you to take care of cleaning up our experimentation site.$B$BSee \"Hacksaw\" Jenny about making you a custom abomination.  One packing some explosive power if you catch my drift.",
+  "p": "",
+  "c": "What do you want? Can't you see I'm in the middle of something?"
+ },
+ {
+  "id": 11309,
+  "t": "Parts for the Job",
+  "o": "\"Hacksaw\" Jenny in New Agamand wants you to obtain 6 Shoveltusk Ligaments and 1 Fresh Pound of Flesh.",
+  "d": "So Harris wants a demolition job, eh?  Yeah, I can help out.$B$BYou're gonna have to get me some parts, though.  I can't afford to use up my choice components on something that's gonna get blown up.$B$BFirst of all, I'm going to need shoveltusk ligaments... way better than the human kind.$B$BI will also need a pound of flesh.  A fellow known as Anton sells cheap meat.  He travels up and down the road to the west.",
+  "p": "You get my components yet?",
+  "c": "Excellent! Yes, yes, these will do just fine!"
+ },
+ {
+  "id": 11310,
+  "t": "Warning: Some Assembly Required",
+  "o": "Use the Abomination Assembly Kit in Halgrind and round up plagued Vrykul with your Mindless Abomination.  Slay at least 20 and return to \"Hacksaw\" Jenny in New Agamand when you're done.",
+  "d": "Well, here you are!  Our friend's going to be somewhat... unstable.  So I suggest not putting him together until reaching Halgrind.$B$BOnce you're there, use the abomination to round up as many vrykul as you can before self-destructing.$B$BCome back with whatever's left once you're done.  I can always use more body parts!",
+  "p": "Are you done with the cleanup in Halgrind?",
+  "c": "Great job, $N. Say, you wouldn't be looking for something more... permanent, would ya? I could sure use some help around these parts!"
+ },
+ {
+  "id": 11311,
+  "t": "Suppressing the Elements",
+  "o": "Wind Tamer Kagan at Camp Winterhoof wants you to kill 8 mountain elementals. You may kill either Howling Cyclones or Iceshard Elementals.",
+  "d": "If you are to survive here, as we have, you must learn to face the environment's challenges head on. The elements will claim your life if you're not vigilant, as the proliferation of elementals in these northern hills shows.$B$BWe must cull the elementals one last time before we can leave this place. Are you willing to aid us while we continue to make preparations?$B$BYou must kill any iceshard elementals or howling cyclones you encounter in the snowy hills surrounding the outpost.",
+  "p": "Have you culled the elementals?",
+  "c": "The influence of the elemental spirits has receded, but it will return. We've bought ourselves the time we need to complete our tasks here and take our leave."
+ },
+ {
+  "id": 11312,
+  "t": "The Frozen Glade",
+  "o": "Speak with Lurielle at the Frozen Glade.",
+  "d": "For generations, my people have told tales of frost nymphs cavorting in glades hidden away in the wilderness. I used to search for them as a child, against the advice of my parents, until I nearly froze to death.$B$BThese days, it isn't necessary to comb the forests for them. They've decided to reveal themselves for reasons I can only guess, but I don't think the change can be ignored. Venture southeast to the Frozen Glade and seek out the nymphs, but beware; you will pass the Twisted Glade on your way.",
+  "p": "",
+  "c": "<Lurielle listens as you introduce yourself.>$b$bIt is good to meet you, $c. My sisters have often watched the taunka search the forests for us, but we are forbidden by our queen from interacting with outsiders. You only see us now because the land has become unsettled and many of my sisters are in danger."
+ },
+ {
+  "id": 11313,
+  "t": "Spirits of the Ice",
+  "o": "Lurielle at the Frozen Glade wants you to bring her 15 Icy Cores.",
+  "d": "The ice elementals surrounding our glade were once our companions, but a volatile and destructive force has swept through the land, turning them against us!$B$BThis is but one of the horrors my sisters and I have endured. We have revealed ourselves to you in the hope that you will help us stave off the decay that has crept into our glades and poisoned our sisters!$B$BWe've been gathering the cores of the ice elementals and keeping them safe so that one day, we might be able to restore them. Will you help?",
+  "p": "Have you recovered any of the cores?",
+  "c": "<Lurielle accepts the cores from you quietly.>$B$BThank you, $N.$B$B<Lurielle glances at the icy cores sadly.>$B$BI promise, my friends, I will do all I can to restore you."
+ },
+ {
+  "id": 11314,
+  "t": "The Fallen Sisters",
+  "o": "Lurielle at the Frozen Glade wants you to use her pendant on 7 Chill Nymphs.",
+  "d": "To the southwest was a glade that used to look much like this one. Mysterious forces and alien magics are reshaping the land. The glade has thawed, the sisters living there driven mad by the sudden change.$B$BWe thought to reach out to them, but they attacked us. I fear many may be beyond saving, but I cannot give up hope.$B$BTake my pendant, travel southwest to the Vibrant Glade, and use it to try to free my sisters.",
+  "p": "Were you able to heal any of my sisters using the pendant?",
+  "c": "So there is hope for my sisters?$B$B<Lurielle looks away from you, then down at the ground.>$B$BI feel guilty for not thinking of the pendant sooner. We might have saved even more of the sisters."
+ },
+ {
+  "id": 11315,
+  "t": "Wild Vines",
+  "o": "Lurielle at the Frozen Glade wants you to kill 8 Scarlet Ivy.",
+  "d": "The sisters who lived in the Vibrant Glade, to the southwest, used to tend to gorgeous beds of scarlet ivy, but the same force that has driven them mad has transformed their beloved ivy.$B$BThe vines now grasp at the feet of the unwary, or lash at any who approach the glade. Before we can reclaim the glade, the vines must be tamed and uprooted.$B$BClear as much of the ivy as you are able. It has already begun to grow out of control.",
+  "p": "Have you returned from the Vibrant Glade?",
+  "c": "Thank you for your help, $N. The Vibrant Glade was once a beautiful place, and when we return to it, we shall make it so again."
+ },
+ {
+  "id": 11316,
+  "t": "Spawn of the Twisted Glade",
+  "o": "Lurielle at the Frozen Glade wants you to kill 10 Thornvine Creepers.",
+  "d": "The glade to the west has been transformed into a hideous place called the Twisted Glade. Horrible beasts dwell among the trees, stones, and pool of the glade.$B$BI cannot guess where the creatures came from or what horrible forces animate them, but they must be dealt with!$B$BI fear that if they are allowed to dominate the glade, they will poison it beyond redemption. Clear the glade of these creatures who murdered our sisters.",
+  "p": "Have you seen the horrors of the Twisted Glade for yourself?",
+  "c": "You have done well, $N. If we'd had allies like you when the land first began to change, perhaps we might have been able to preserve some of what we've lost."
+ },
+ {
+  "id": 11317,
+  "t": "The Cleansing",
+  "o": "Sage Mistwalker at Steel Gate has advised you to cleanse yourself of Your Inner Turmoil through meditation at the Frostblade Shrine.",
+  "d": "We braved the Rivenwood because of my troubled dreams concerning my worg life-friend, Ulfang. He has called out for help, and you must go to him.$B$BBut, you do not have the means to speak with him, or walk amongst the other worgs. I know a way.$B$BFirst, you must cleanse your inner turmoil.$B$BThere is a shrine that sits at the top of Frostblade Peak, northeast of Camp Winterhoof. A single path leads up to it from the western base of the mountain.$B$BMeditate there and then return to me.",
+  "p": "Did you find inner peace at the shrine? Is your turmoil gone?",
+  "c": "Already I can sense the change within you.$b$bAre you ready for what comes next?"
+ },
+ {
+  "id": 11318,
+  "t": "Now This is Ram Racing... Almost.",
+  "o": "You have 4 minutes to ride the ram and maintain 3 different levels of speed for 8 seconds.",
+  "d": "So you want to check out the racing rams?  Well I hope you're ready for speed.  BUT before I let you loose in the world, you'll need to show me that you can handle these fine creatures.$b$bSo here's the deal:  I'll lend you some racing reins and the use of a ram. You need to prove to me that you can handle using these rams.$b$bKeep the ram at a trot, canter and gallop for 8 seconds each.  If you need instructions how to handle the ram, talk to my apprentice, Pol Amberstill.",
+  "p": "Were you able to handle the speed?",
+  "c": "Nice work there! It takes time to get the hang of controlling your ram. But once you do, you'll wish every ram was a racing ram.$b$bWhat's that? \"Where's my reward?\" Ha Ha Ha... you got to ride the fastest ram around! You want more? Well how about this...$b$bYou've been rewarded with the chance to help other people around Brewfest. There's plenty of work, and rewards, for an eager, young, ram racer."
+ },
+ {
+  "id": 11319,
+  "t": "Seeds of the Blacksouled Keepers",
+  "o": "Lurielle at the Frozen Glade wants you to freeze 8 Spores.",
+  "d": "The glade to the northwest, now the Twisted Glade, used to be home to a number of keepers of the glade. Together with the sisters, they saw to the glade's upkeep.$B$BWhen the glade changed, the sisters died, but somehow the keepers managed to survive. Now, they seed the land with poisonous spores that wither healthy greenery.$B$BI'll give you one of the cores from the ice elementals. Once you've destroyed a spore, use the ice crystal to freeze it and keep it from regenerating.",
+  "p": "The Twisted Glade is a terrible place. I never imagined our homes could become something so loathesome.",
+  "c": "The ice core worked well for you? I'll have to remember that. I'm certain the keepers will not stop just because we've destroyed their work once."
+ },
+ {
+  "id": 11320,
+  "t": "[NYI] Now this is Ram Racing... Almost.",
+  "o": "Log Descritpion ",
+  "d": "Quest Description",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11321,
+  "t": "Did Someone Say \"Souvenir?\"",
+  "o": "Redeem the Brewfest Stein Voucher with Belbi Quikswitch in the Brewfest camp.",
+  "d": "Brewfest isn't just about racing rams, it's also about drinking!  When you have a moment, take this voucher to Belbi Quikswitch.  She's near the back of the Brewfest camp.  If you can't see her, don't worry, she'll be sure to see you.$b$bIn any case, take this voucher to her to get your free Brewfest stein.  She'll also be more than happy to handle any and all other Brewfest transactions.",
+  "p": "What's happening hot stuff? Got something for me?",
+  "c": "Aww, it's just a stein voucher... Maybe you're just playing hard to get. So here's this years stein for you.$B$BBut I suspect I'll be seeing a lot more of you. After all, if you want any Brewfest tickets redeemed, I'm your girl...$B$Bor maybe I'm his girl...$B$Booohhh.... or his..."
+ },
+ {
+  "id": 11322,
+  "t": "The Cleansing",
+  "o": "Watcher Moonleaf at Steel Gate has advised you to cleanse yourself of Your Inner Turmoil through meditation at the Frostblade Shrine.",
+  "d": "Of late I've had nightmares concerning a worg named Ulfang. He has called out for help, and you must go to him.$B$BHowever, you do not have the means to speak with him, or walk amongst the other worgs. I know a way.$B$BBut first, you must cleanse your inner turmoil through meditation.$B$BThere is a shrine that sits at the top of Frostblade Peak, far to the northeast. A single path leads up to it from the western base of the mountain.$B$BMeditate there to cleanse yourself and then return to me.",
+  "p": "Did you find inner peace at the shrine? Is your turmoil gone?",
+  "c": "Already I can sense the change within you.$B$BAre you ready for what comes next?"
+ },
+ {
+  "id": 11323,
+  "t": "In Worg's Clothing",
+  "o": "Sage Mistwalker has asked you to seek out and help Ulfang in the Rivenwood.$B$BIf you somehow lose the Worg Disguise, return to Sage Mistwalker for a replacement.",
+  "d": "From my dreams, I know that Ulfang is in a cave on the snowy northwestern edge of the Rivenwood.$B$BHe is in great danger.$B$BI have devised a magical disguise that will make you appear as a worg while you are within the Rivenwood. The disguise is weak, relying upon the strange magics of that haunted wood. While it will only convince the worgs, it will allow you to get close to Ulfang.$B$BPlease, $c, find and help him.",
+  "p": "",
+  "c": "You look and smell different... you are not one of my pack. Tell me your story; I have nothing but time while I am trapped in here."
+ },
+ {
+  "id": 11324,
+  "t": "Alpha Worg",
+  "o": "Ulfang has asked you to slay Garwal. Then, return the Worg Disguise to Sage Mistwalker at Steel Gate.",
+  "d": "When you've eaten Talonshrike's eyes, you should be able see Garwal and rip out his throat!$B$B$R-thing, seek out and slay Garwal in the western Rivenwood. After you have killed him, go and tell Mistwalker that I am once more the alpha worg!",
+  "p": "$n, you have returned. What news of Ulfang?",
+  "c": "Garwal was not a worg at all! I know of these creatures... they are called worgen.$b$bBut, Ulfang indicated that it came south from the Grizzly Hills? Odd. There aren't any worgen there.$b$bI thank you for helping to restore Ulfang to his proper place amongst his pack. Now we both will be able to sleep peacefully.$b$bPlease, you must accept this as a sign of gratitude."
+ },
+ {
+  "id": 11325,
+  "t": "In Worg's Clothing",
+  "o": "Watcher Moonleaf has asked you to seek out and help Ulfang in the Rivenwood.$B$BIf you somehow lose the Worg Disguise, return to Watcher Moonleaf for a replacement.",
+  "d": "From my dreams, I know that Ulfang is in a cave on the snowy northwestern edge of the Rivenwood.$B$BHe is in great danger!$B$BI have devised a magical disguise that will make you appear as a worg while you are within the Rivenwood. The disguise is weak, relying upon the strange magics of that haunted wood. While it will only convince the worgs, it will allow you to get close to Ulfang.$B$BPlease, $c, find and help him.",
+  "p": "",
+  "c": "You look and smell different... you are not one of my pack. Tell me your story; I have nothing but time while I am trapped in here."
+ },
+ {
+  "id": 11326,
+  "t": "Alpha Worg",
+  "o": "Ulfang has asked you to slay Garwal. Then, return the Worg Disguise to Watcher Moonleaf at Steel Gate.",
+  "d": "When you've eaten Talonshrike's eyes, you should be able see Garwal and rip out his throat!$B$B$R-thing, seek out and slay Garwal in the western Rivenwood. After you have killed him, go and tell Moonleaf that I am once more the alpha worg!",
+  "p": "$N, you have returned. What news of Ulfang?",
+  "c": "Garwal was not a worg at all! The thing you describe him turning into sounds a lot like a worgen!$B$BBut, Ulfang said that it came south from the Grizzly Hills? Odd. There aren't any worgen there.$B$BI thank you for helping to restore Ulfang to his proper place amongst his pack. Now we both will be able to sleep peacefully.$B$BPlease, you must accept this as a sign of gratitude."
+ },
+ {
+  "id": 11327,
+  "t": "Mission: Package Retrieval",
+  "o": "Scout Knowles has asked you to retrieve the Apothecary's Package from inside Halgrind. Once you have it, return to the scout at the Ember Spear Tower.",
+  "d": "Well darn, we need some of that plague-stuff.$B$BI know!$B$BWhile you were destroying the vats, I happened to spy one of the apothecaries from New Agamand being pulled into Halgrind by the vrykul down in there. Poor fella'.$B$B$N, I'd bet anything that apothecary has the goods on him. Think you could go into Halgrind and retrieve his package?",
+  "p": "That place looks like a nightmare. Vrykul or not, no one deserves to be the victim of the Royal Apothecary Society.$B$BGlad I'm standing safely over here. You find that package yet?",
+  "c": "Holy... what the hell?! Look at this stuff!$B$BWe need to get this back to the keep a.s.a.p.!"
+ },
+ {
+  "id": 11328,
+  "t": "Mission: Forsaken Intel",
+  "o": "Scout Knowles has asked you to deliver the Apothecary's Package to Peppy Wrongnozzle at Westguard Keep.",
+  "d": "Right, so I think you should get this stuff over to Peppy Wrongnozzle back at the keep. She's something of an amateur alchemist, but she's the only one we've got.$B$BOne thing about Peppy; she does love her drink. So, you'll likely find her at the tavern 'soaking up the atmosphere'.$B$BI'm sure she'll know what to do.",
+  "p": "Yeah, whadya want ...hic?",
+  "c": "Oh... hey, that'sh different!$B$BOkay, let me shee that shtuff. I jusht love tinkering with alchemy!$B$BInteresting, interesting... here, I think I know jusht what to do. A little mixing of that with the jusht the right amount of thish.$B$BYou know, I think a little dash of this rotgut will help, too ...hic!"
+ },
+ {
+  "id": 11329,
+  "t": "I'll Try Anything!",
+  "o": "Christopher Sloan at Fort Wildervar wants you to bring him 5 Northern Barbfish.",
+  "d": "I never want to see another barrel of salted fish as long as I live! Filling barrels day in and day out, and there are still more to be filled!$B$BI wish I hadn't used up all that bait I bought from Nat Pagle. Worked like magic, it did. Now I'm lucky if I can catch a fish an hour!$B$BI hear the northern barbfish make pretty good bait, but who's crazy enough to dive into a freezing cold lake and hack up the water plants in search of them? Not me... but maybe, just maybe, I can persuade you to...",
+  "p": "You look like you're still in one piece. Get any of that bait?",
+  "c": "Well, these certainly are ugly enough, but I suppose I don't care if it actually works. I'll be relieved once the expedition has passed through and I can go back to simply fishing for my dinner."
+ },
+ {
+  "id": 11330,
+  "t": "Absholutely... Thish Will Work!",
+  "o": "Peppy Wrongnozzle at Westguard Keep has suggested that you take her Peppy's Special Mix and administer it to the Dragonflayer Vrykul Prisoner to witness its results.",
+  "d": "Voila, inshtant plague vacshine!$B$BBut I sure as heck am not going to try thish on myself. And I know you don't want to be my tesht shubject!$B$BOh, I've got... I've got an idea!$B$BWe've got a vrykul prishoner being held down in the cells under the keep. Why don't you take thish mix I whipped up down there, and get that giant to drink it ...hic?!",
+  "p": "",
+  "c": "Huh? Well that sucks! Darn, I made thingsh worsh. In fact, I think I perfected their plague for them ...hic!$B$B<Peppy grimaces and takes a huge gulp of whatever noxious brew she's been drinking.>$B$BWell, I wash hoping that it wouldn't come down to thish, but it looks like there'sh no alternative ...hic."
+ },
+ {
+  "id": 11331,
+  "t": "You Tell Him ...Hic!",
+  "o": "Peppy Wrongnozzle has suckered you into giving the bad news about the Forsaken plague to Captain Adams. Visit him at Westguard Keep.",
+  "d": "Here'sh the deal. I'm not going to the captain with thish news. I'm an amateur alchemist, thish ishn't my job, and I'm on break!$B$BBeshides, he'sh a big grumpkin... and you know him better than I do!$B$BSho, jusht go up into the keep and tell him. I'm sure he'll be reashonable about the whole thing ...hic.$B$B<Peppy turns back to her drinking.>",
+  "p": "",
+  "c": "Yes, $N, what is it now?$B$BWHAT?!! A Forsaken super plague that melts you in no time?$B$BYou oozed my vrykul prisoner?$B$B<The captain looks almost sad and spits in disgust.>$B$BAlright, I know what we need to do. Or rather, what YOU need to do!"
+ },
+ {
+  "id": 11332,
+  "t": "Mission: Plague This!",
+  "o": "Captain Adams has ordered you to get 5 bomb hits on the Plague Tanks at New Agamand. Do not return to him at Westguard Keep until you have accomplished that.",
+  "d": "The Royal Apothecary Society thinks they're going to perfect a new plague to melt us down where we stand?!$B$BNot on my watch!$B$BGet out to the courtyard and speak with Greer Orehammer. He's got a gryphon and some bombs ready for you. I want you to bomb the plague tanks at New Agamand to smithereens!",
+  "p": "Those plague tanks destroyed, yet? That new plague looms over our heads like certain death, $c!",
+  "c": "Nicely done, $N, nicely done!$B$B<The captain seems beside himself with glee.>$B$BThat'll show those good-for-nothing Forsaken to think about messing with us!$B$BI'd say you've earned yourself something from the treasury!"
+ },
+ {
+  "id": 11333,
+  "t": "Into the World of Spirits",
+  "o": "Thoralius the Wise at Valgarde wants you to find his Reagent Pouch.",
+  "d": "While the Explorers' League may discern bits and pieces of the past through their archaeological findings and the Vice Admiral might extract some knowledge of the present through brute force, the truth lies with the spirits.$B$BWith the proper reagents I am able to see into the spirit world. It is there that the past, present and future of Northrend resides.$B$BIf you wish to learn more, I will require my reagent pouch. It was lost in a ship that is now at the bottom of Daggercap Bay, just east of here.",
+  "p": "Have you found my reagent pouch?",
+  "c": "A bit worse for the wear but still functional.$B$B<Thoralius reaches into the pouch and removes some odd looking roots.>$B$BNow to place them in the fire and inhale!$B$B<Thoralius throws the roots into the smoldering incense burner.>$B$B<Thoralius inhales deeply. His body begins to quiver.>$B$BWha... What... It cannot be... I cannot..."
+ },
+ {
+  "id": 11334,
+  "t": "He Shoots,He Scores!",
+  "o": "[PH] Rinling wants you to shoot a marked target and then return the Target Rifle to him.",
+  "d": "[PH] Shoot a marked target.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11335,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle of Arathi Basin that demands immediate reinforcements.$B$BReturn to me with news of victory, $N.  We cannot allow the Horde scum to secure the resources that are rightfully ours!",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "Excellent news, $c!  If our tactical deployments continue to be this successful, the Horde will be in full retreat before long."
+ },
+ {
+  "id": 11336,
+  "t": "Call to Arms: Alterac Valley",
+  "o": "Win an Alterac Valley battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The reality of fighting on multiple fronts, $g lad : lass;, is that we cannot spread our forces too thin or we risk losing it all!$B$BCritical troop deployments are necessary on a day by day basis.  Today it is the battle for Alterac Valley that's in most need of brave combatants.$B$BGo now, $N, and aid the Stormpike Expedition.  We cannot allow the Frostwolf Clan to get away with the violence they've inflicted on our brethren!",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "Just what I wanted to hear!  A victory in Alterac Valley - even a temporary one - is crucial to our overall strategy against the Horde."
+ },
+ {
+  "id": 11337,
+  "t": "Call to Arms: Eye of the Storm",
+  "o": "Win an Eye of the Storm battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The fight against the Horde knows no boundaries, $N.  Even in Outland, territorial disputes and old hatreds are enough to tip the scales in favor of war.$B$BGo into the Eye of the Storm and make sure the Alliance prevails in Outland just like it has in Azeroth.",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "We've come one step closer to achieving total victory over the Horde. We cannot allow the enemy to obtain a foothold in this world or any other."
+ },
+ {
+  "id": 11338,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to an Alliance Brigadier General at any Alliance capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.$B$BTheir need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
+  "p": "Tell me, $n. What news do you bring from the front?",
+  "c": "Excellent work, $N. The integrity of our borders must be preserved at all costs!"
+ },
+ {
+  "id": 11339,
+  "t": "Call to Arms: Arathi Basin",
+  "o": "Win an Arathi Basin battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "Arathi Basin is on the verge of being lost to Alliance forces.  We must send reinforcements at this very moment or all our efforts will have been in vain.$B$BDo not delay, $c, go to Arathi Basin and crush the enemy.  Victory to the Horde!",
+  "p": "You're back already.  Do you bring news of victory?",
+  "c": "You've brought great honor to the Horde, $N. Your victory today will ensure a thousand victories tomorrow!"
+ },
+ {
+  "id": 11340,
+  "t": "Call to Arms: Alterac Valley",
+  "o": "Win an Alterac Valley battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.",
+  "d": "We've recently come extremely close to driving the Stormpike invaders from Alterac Valley.  As a result we're redirecting all our reinforcements to aid the Frostwolf Clan.$B$BA decisive victory there would free up the resources we need to crush the Alliance scum on all the other battlefronts.$B$BGo, $N.  Earn great honor by heeding the call of the brave Frostwolf warriors.",
+  "p": "You're back!  Do you bring news of victory?",
+  "c": "There is no greater honor than driving invaders from Horde territories. We salute your great courage in aiding our forces today!"
+ },
+ {
+  "id": 11341,
+  "t": "Call to Arms: Eye of the Storm",
+  "o": "Win an Eye of the Storm battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran,  or Shattrath.",
+  "d": "We will fight and crush the enemy wherever we find them.  Azeroth, Outland, the place makes no difference.$B$BWe cannot allow the Alliance to establish superiority in the Eye of the Storm.  Take the battle to them today... tomorrow it might be too late!",
+  "p": "You're back already. Do you bring news of victory?",
+  "c": "You bring honor to us all, $N. We must show the enemy that we will fight them wherever we find them."
+ },
+ {
+  "id": 11342,
+  "t": "Call to Arms: Warsong Gulch",
+  "o": "Win a Warsong Gulch battleground match and return to a Horde Warbringer at any Horde capital city, Wintergrasp, Dalaran, or Shattrath.$B",
+  "d": "The Alliance is an insidious enemy, $N.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.$B$BToday we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
+  "p": "You're back already. Do you bring news of victory?",
+  "c": "The Horde is in your debt, $N. You've made your people proud with your courage in defending our lands."
+ },
+ {
+  "id": 11343,
+  "t": "The Echo of Ymiron",
+  "o": "Thoralius the Wise wants you to search Wyrmskull Village while you are in the spirit world and find information about the Secrets of Wyrmskull.",
+  "d": "The spirit world has fallen under the sway of the Lich King. Fearsome creatures made of pure nightmare now stand watch over the realm of the elements. I sense that these val'kyr are guarding a terrible secret.$B$BI am too old and weak to survive another journey. You must go in my place, $N.$B$BTake this incense burner to Wyrmskull Village and use it to enter the spirit world. Find the large dwelling in the northeast! Avoid the val'kyr at all costs lest they make you a permanent fixture in their world.",
+  "p": "What have you discovered?",
+  "c": "I do not understand. The creatures that you saw looked like the vrykul that are attacking Valgarde?"
+ },
+ {
+  "id": 11344,
+  "t": "Anguish of Nifflevar",
+  "o": "Thoralius the Wise wants you to search Nifflevar while you are in the spirit world and find information about the Secrets of Nifflevar.",
+  "d": "All that we know of the vrykul indicates that they only recently appeared in Northrend. Why, then, are we seeing vrykul in visions that date back 15,000 years? Surely if the vrykul had previously existed in Northrend we would have known.$B$BYou must press on to Nifflevar. To get there you must go northeast, through Wyrmskull Village, and take the path leading up through the dam. Nifflevar is on the bluffs of the fjord.$B$BUse the incense burner once you arrive at Nifflevar and search the area for clues.",
+  "p": "What have you discovered?",
+  "c": "Human children born of vrykul? And Ymiron ordered the deaths of all human born offspring?$B$B<Thoralius goes silent for a moment.>$B$BAs much as I wish to deny what is so plainly presented to me, I cannot. There is no extinct \"missing link\" to humans as the Explorers' League proposed. The vrykul are the missing link. They are the progenitors of humanity."
+ },
+ {
+  "id": 11345,
+  "t": "Prizes for Pellets",
+  "o": "[PH] Rinling wants you to shoot a marked target and then return the Target Rifle to him.",
+  "d": "[PH] Shoot a marked target.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 11346,
+  "t": "The Book of Runes",
+  "o": "Prospector Belvar at Fort Wildervar wants you to bring him The Book of Runes.",
+  "d": "The vast rocky area to the southeast, Giants' Run, has been overrun by Iron Dwarves. Scouts have reported seeing the dwarves coaxing stone giants from the ground, then carving runes on them.$B$BI can't fathom their motives, but I suspect they're somehow trying to turn the giants into weapons. The iron rune stonecallers and binders carry large tomes with them, which must contain the runes they're carving on the giants.$B$BCapture the pieces of this book, assemble them, and bring it back to me, $N.",
+  "p": "Have you recovered the book?",
+  "c": "<Prospector Belvar browses the book of runes.>$B$BHmm... there's so much here. I'm going to need some time to study it, and if we hope to understand these runes, we'll need to try to make our own."
+ },
+ {
+  "id": 11347,
+  "t": "<NYI> Clear Some Room",
+  "o": "Deliver the package to Kharanos at least once.  Deliver multiple packages for a greater reward.",
+  "d": "We've got tons of packages to deliver to the inn at Kharanos.  It needs to get there fast,so I'll let you use my racing ram.  I'd be grateful if you delivered just 1 package.  But I'm giving you 5 minutes,so deliver as many as you can,and I'll reward you accordingly.",
+  "p": "",
+  "c": ""
+ }
+]

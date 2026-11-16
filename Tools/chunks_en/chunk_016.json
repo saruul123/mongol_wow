@@ -1,0 +1,962 @@
+[
+ {
+  "id": 3513,
+  "t": "The Runed Scroll",
+  "o": "Take the Runed Scroll to the northern guard tower in the Barrens.",
+  "d": "The official-looking scroll is wrapped tightly with a silvery ribbon. You're sure someone would be interested in seeing this, but who?$B$BThere is an outpost close to the Ashenvale border to the north, and if the information on this scroll involves the night elves, this would be the place to take it.",
+  "p": "Whaddya got?",
+  "c": "Well now... Where did you find this?"
+ },
+ {
+  "id": 3514,
+  "t": "Horde Presence",
+  "o": "Kill the leader of the Talon Den, Rynthariel the Keymaster.",
+  "d": "This scroll is from that scheming dryad Rynthariel, Keymaster of the Talon Den on Stonetalon Peak.$B$BShe'll not be making any more contact with the messenger you looted this from, heh, but we must stand our ground here. The Horde will not tolerate her outrunners here.$B$B$N, travel to the Talon Den. Kill Rynthariel, and then put up a symbol for all to see. Take this Horde flag, $N. Put it up in the Talon Den so that they will not be so rash as to send another messenger through our territory again.",
+  "p": "We cannot allow the Alliance on our land, $N. Make this known.",
+  "c": "You're a tough one! Ridding the Den of Rynthariel is a major step, $N. They will be slow to regroup, and so we can count on less Alliance runners in the Barrens. They will think again before sending another this way.$B$BThank you."
+ },
+ {
+  "id": 3517,
+  "t": "Stealing Knowledge",
+  "o": "Find the Tablet of Beth'Amara, the Tablet of Jin'yael, the Tablet of Markri, and the Tablet of Sael'hai before returning to Jediga in Azshara.",
+  "d": "I admit, $N, I've made the most of my situation in Azshara. Belgrom's punishment has had its share of benefits.$B$BBefore I left, I did some research and you would be surprised how many valuable items are lying around.$B$BI'll tell you more about my deals, and even give you a cut of the profits, if you help me gather some of them.$B$BThere are tablets throughout the Ruins of Eldarath to the east that I need. All four are named after Highborne wizards. Get them for me and we'll talk some more.",
+  "p": "The tablets I'm having you gather should bring in a pretty copper or two to the right parties. I'll tell you who we need to deliver them to after you've found them. But I'm no fool... you'll get your share after I have proof that they've been delivered.$b$bSo get to it--we don't have all day. I might have to find someone else to help me.",
+  "c": "Perfect, $N, and in good condition also. These should get us a good price from all the parties concerned.$b$bLet's not dawdle around here any longer than we have to. We have some money to make."
+ },
+ {
+  "id": 3518,
+  "t": "Delivery to Magatha",
+  "o": "Bring the Tablet of Beth'Amara to Magatha in Thunder Bluff.",
+  "d": "The first tablet goes to a tauren female... one called Magatha. She is among the elders in Thunder Bluff, and is one of the proponents of the alliance between the tauren and the Forsaken. She, more than anyone among the elders, feels the tauren and their ways can help the Forsaken find a path back to being human.$B$BBring her the Tablet of Beth'Amara. The tablet may be the link she needs in finding a way to help the Forsaken... or so she claims.",
+  "p": "Yes, $N. What can I do for you? I have many matters I must attend to, so please, be quick.",
+  "c": "Ah, at long last, the Tablet of Beth'Amara. I was wondering if my partnership with Jediga had failed or if the poor orc had found her death in Azshara. I am glad she was successful.$b$bBeth'Amara was one of the Highborne's most influential alchemists. The wizard alone was said to have mastered transmuting metals among other things."
+ },
+ {
+  "id": 3519,
+  "t": "A Friend in Need",
+  "o": "Speak to Dirania Silvershine in Shadowglen.",
+  "d": "Ughhh... I was bitten very badly by a spider named Githyiss the Vile while exploring the spider cave very close to here. I am sure I have been seriously poisoned; you must help me.$B$BPlease tell Dirania Silvershine. She will be able to help me.$B$BHurry... I'm so dizzy...",
+  "p": "",
+  "c": "Oh dear; I was wondering why I hadn't seen Iverron yet today. And I've always warned him about those spiders..."
+ },
+ {
+  "id": 3521,
+  "t": "Iverron's Antidote",
+  "o": "Collect 7 Hyacinth Mushrooms, 4 Moonpetal Lilies, and 1 Webwood Ichor for Dirania Silveshine in Shadowglen.",
+  "d": "We may be able to help Iverron, as I know of an antidote that should help with the poison. It requires some ingredients, though, before I can make it.$B$BI'll need Hyacinth mushrooms. You can find these growing under trees, or you may collect them from the grell south of here; they seem to have taken a liking to them. I'll also need Moonpetal lilies, which only grow around watery pools.$B$BThe last ingredient may prove the most difficult. From the very spiders that poisoned Iverron, collect Webwood ichor.",
+  "p": "Please, collect the ingredients, $N. Iverron needs our help.",
+  "c": "Thank Elune that you have gathered these ingredients so quickly!$b$bIn just a moment, I will have the antidote prepared."
+ },
+ {
+  "id": 3522,
+  "t": "Iverron's Antidote",
+  "o": "Bring Iverron's Antidote to Iverron before the time limit is up. Iverron can be found by the cave to the north.",
+  "d": "The antidote is ready, $N. Please see that Iverron drinks it.$B$BThere is something that you should know -- the antidote -- it will only remain viable for 5 minutes. You must get it to him in time.$B$BSpeed be with you, $N.",
+  "p": "Oh... $N, I'm so glad you have returned.",
+  "c": "What is this, $N?$b$bOh, I knew Dirania would be able to help me!$b$b<Iverron drinks the antidote>$b$bI'm always getting into trouble and Dirania, well, she always manages to help me out of it.$b$bI am feeling much better, but I think I will sit here for a while longer, until I feel completely better. Well, that, and I was hoping you'd clear a path for me through those vicious Webwood spiders..."
+ },
+ {
+  "id": 3524,
+  "t": "Washed Ashore",
+  "o": "Recover Sea Creature Bones from the beached sea creature just south of Auberdine, and then return with it to Gwennyth Bly'Leggonde in Auberdine.",
+  "d": "Majestic sea creatures are known to launch themselves at the Darkshore coastline, beached there until they die. Lately, these beasts have been washing ashore in ever-increasing numbers.  I've been sent here by the Temple of the Moon to investigate, but the presence of murlocs along the water has made my research difficult.$B$BThere is a giant creature washed ashore just south of Auberdine that is ringed by the foul Greymist murlocs.  Could you go there and retrieve bones from the creature for our study?",
+  "p": "It is only recently that these creatures started landing on the coast of Darkshore in such alarming numbers. I can't help but think that this is an ill omen of some sort. Recovering a sample of that creature's bones to the south would help us in Darnassus assess this situation!",
+  "c": "I hope the murloc did not give you much trouble in collecting this for us! I will be sure to get this on the next hippogryph to Darnassus. The Temple of the Moon has given me some funds to hand out for assistance; please have some with our thanks.$B$BYour success here emboldens me to offer you a chance to aid the Temple of the Moon further, if you are interested..."
+ },
+ {
+  "id": 3526,
+  "t": "Goblin Engineering",
+  "o": "If you wish to learn more about Goblin Engineering, take the Manual of Engineering Disciplines to Nixx Sprocketspring in Gadgetzan.",
+  "d": "Expert engineering yields two distinct disciplines: gnome and goblin.  Clearly, goblin engineering is the choice of all brilliant engineers.  Learn to master the world through the judicious use of high explosives and fantastic gear!$B$B$N, read this manual.  If you want to learn about goblin engineering, then take it to Nixx Sprocketspring in Gadgetzan.   Remember - membership is permanent and prevents joining the other discipline, so make sure this is what you want before finishing his task.",
+  "p": "I can smell fresh recruits much like I can an excellent blasting powder - from a mile away. Have you come seeking to learn about the mastery of the explosion?",
+  "c": "Well $N, you were wise to seek my tutelage! Any schlep can become an expert at the basics of engineering - the gnomes and their irradiated home of Gnomeregan are proof of that. It takes a strong mind and a steady hand (emphasis on STEADY) though to master the discipline of Goblin Engineering.$B$BKeep your ears perked $N, and you might learn something."
+ },
+ {
+  "id": 3527,
+  "t": "The Prophecy of Mosh'aru",
+  "o": "Bring the First and Second Mosh'aru Tablets to Yeh'kinya in Tanaris.",
+  "d": "The ancient prophecy of Mosh'aru speaks of a way to contain the god Hakkar's essence.  It was written on two tablets and taken to the troll city of Zul'Farrak, west of Gadgetzan.$B$BBring me the Mosh'aru tablets!$B$BThe first tablet is held by the long-dead troll Theka the Martyr.  It is said his persecutors were cursed into scarabs and now scuttle about his shrine.$B$BThe second tablet is held by the hydromancer Velratha, near the sacred pool of Gahz'rilla.$B$BWhen you have the tablets, bring them to me.",
+  "p": "Do you have the tablets of the Prophecy of Mosh'aru, $N?$b$bWhen I gain the tablets, I will study them, and learn how to contain the essence of Hakkar!",
+  "c": "Ah, this is good. I can fuse these ancient tablets together, and then study their hidden secrets.$b$bMy debt to you grows, $N. And it will grow further still."
+ },
+ {
+  "id": 3528,
+  "t": "The God Hakkar",
+  "o": "Bring the Filled Egg of Hakkar to Yeh'kinya in Tanaris.",
+  "d": "Now it is time to capture the essence of the avatar of Hakkar.$B$BTake the Egg of Hakkar to the Sanctum of the Fallen God in the Sunken Temple in Azeroth.  Invoke the egg's power to stir the dead god.$B$BHe will send his minions against you.  Defeat his bloodrinkers and take their Hakkari blood, then use the blood to dowse the eternal flames that hold Hakkar's spirit.  When all the flames go out, the avatar of Hakkar will enter our world.$B$BDefeat him, and place his essence within the egg of Hakkar.",
+  "p": "Have you defeated the avatar of Hakkar, $N? Has his essence yet empowered the egg I gave you?",
+  "c": "The essence of Hakkar has been collected! Even now the Egg stirs with life! Could the myths of Hakkar be true?$b$bThat must not be true, for it is then I fear what Hakkar may do if birthed again. I will keep this egg safe and be sure it does not fall into evil hands.$b$bYour labors with me are finished, $N. You have touched a legend, and your actions may one day change the face of our world."
+ },
+ {
+  "id": 3541,
+  "t": "Delivery to Jes'rimon",
+  "o": "Bring the Tablet of Jin'yael to Jes'rimon in Orgrimmar.",
+  "d": "I have a fence in Orgrimmar. He resides in The Drag. He's difficult to nail down if you don't know where to look, but if you go looking in one of the highest buildings there you should have no problem finding him.$B$BDo me a favor though, don't go shouting to all of Kalimdor that he's there and what his business is--it'd be bad for both of us.$B$BHe'll give us more than a fair price for the Tablet of Jin'yael. I'm not sure why, but you should have seen how excited he was to hear about its whereabouts.",
+  "p": "Yes, what you be needin', mon? I got many tings to be takin' care of today, and you not be on me agenda as one of them. Pester me, and I make sure that changes.",
+  "c": "Ahhh, Jediga be sendin' her package all the way from Azshara. Good. I be waitin' on this.$B$BJediga, now that be a fine woman... deadly too. What could be better?$B$BLook at this... the tablet be in perfect condition. You make a good messenger, $N."
+ },
+ {
+  "id": 3542,
+  "t": "Delivery to Andron Gant",
+  "o": "Bring the Tablet of Markri to Andron Gant in Undercity.",
+  "d": "Andron Gant is my next contact. He usually holds himself up in the Undercity... right near the Apothecarium.$B$BHe was a little more loose-lipped when it came to speaking about what he wanted the Tablet for. Apparently some of the mages of Undercity are looking to study some of the arcane spells the highborne used. They think this tablet will help them. Markri was adept at summoning creatures; especially elementals.$B$BTake the Tablet of Markri and return to me for your part of the reward.",
+  "p": "Well... ... isn't this a surprise? An adventurererere... !$b$bWhat c'n I do for you... ?",
+  "c": "Here, take some coin... get yerself... <hic>... some new armor or something....$b$bThis'll bring a shiny gold or two to the right... <hic> people."
+ },
+ {
+  "id": 3561,
+  "t": "Delivery to Archmage Xylem",
+  "o": "Bring the Tablet of Sael'hai to Archmage Xylem in Azshara.",
+  "d": "This final tablet goes to someone very dangerous, $N. Heed me when I tell you that I trust this person far less than anyone else I've asked you to meet with.$B$BArchmage Xylem has a tower up in the hills overlooking Azshara. He's human, but he acts like no human I've met... or killed. He exudes power, and I dare not ask him what he plans on doing with the tablet.$B$BHe came to me, but told me that his bodyguard Sanath would help me get to the tower when I was ready to meet him. Look north for Sanath.",
+  "p": "What can help you with, $N?",
+  "c": "Ah, the Tablet of Sael'hai... how long I've longed to study it.$b$bThank you, $N. You may tell Jediga that she has done well. This will definitely be worth the payment she asked for."
+ },
+ {
+  "id": 3562,
+  "t": "Magatha's Payment to Jediga",
+  "o": "Deliver Magatha's Note to Jediga in Azshara.",
+  "d": "Take this note to Jediga. Tell her the payment will be here for her when she returns. And tell her I am pleased with her work.$B$BGo swiftly, $N. Tell your master I will be awaiting her here.",
+  "p": "Well, what did Magatha say? The old crone... I bet she was less than polite.",
+  "c": "Ah, good. She was much more reasonable than I expected... at least towards you. I half expected her to have you punished for my insolence in sending someone in my place. She must really want that tablet. Interesting.$b$bSomething to ponder another time."
+ },
+ {
+  "id": 3563,
+  "t": "Jes'rimon's Payment to Jediga",
+  "o": "Deliver Jes'rimon's Note to Jediga in Azshara.",
+  "d": "Take this letter to Jediga. Let her know that our deal has been beneficial and I be pleased with her work.$B$BYou tell her she come back to Orgrimmar fast and Jes'rimon make sure he take good care of her.$B$BTell her that, and maybe in the future I have need of your services again, $N.",
+  "p": "Have you spoken to Jes'rimon yet?$B$BHe's a boar among trolls, but his information is usually accurate and his jobs well paying.$B$BIf you can stand his attitude then you stand to make some good coin from his business endeavors.",
+  "c": "I can see he was more than pleased by the looks of his note.... a little too pleased.$B$BPerhaps some day I'll take time to make sure he knows how much I appreciate his advances also. Well, at least there's one reason to look forward to spending more time in Azshara.$B$BHere's your share of our payment."
+ },
+ {
+  "id": 3564,
+  "t": "Andron's Payment to Jediga",
+  "o": "Deliver Andron's Note to Jediga in Azshara.",
+  "d": "Here... take... <hic> this to Jediga. Good luck to ya!",
+  "p": "Have you met with Andron yet? He rarely leaves Undercity, so I don't think it'd be too hard to find him.",
+  "c": "Perfect... wait a minute.$b$bHaha! What'd you tell him when you delivered the tablet, $N? He overpaid us way too much! Not that I'm complaining. Did you tell him the deal changed? Or was he drunk again?$b$bDoesn't matter... here, take an extra share also."
+ },
+ {
+  "id": 3565,
+  "t": "Xylem's Payment to Jediga",
+  "o": "Deliver Xylem's Note to Jediga in Azshara.",
+  "d": "What is it? Oh yes, your payment. Of course.$B$BTake this and be off with you. I'm sure Jediga is awaiting oh so patiently for your return.",
+  "p": "Well, what did Xylem have to say? He didn't do anything to you, did he? Cast a spell on you? Con you into doing work for him?",
+  "c": "No problems? None at all? Well, that's something to be said... I expected him to show some sort of reluctance or to at least betray our deal. Hmm, maybe he can be trusted after all.$b$bWell, no need to dwell on it that much. Here's your share. Thank you for your help."
+ },
+ {
+  "id": 3566,
+  "t": "Rise, Obsidion!",
+  "o": "Slay Lathoric the Black and Obsidion, and return to Thorius in Ironforge with the Head of Lathoric the Black and the Heart of Obsidion. ",
+  "d": "It... It... It was all a trap.$B$BForgive... me.$B$BKill the traitor... Kill him for us... for Thorius.",
+  "p": "I don't believe you! Show me proof!",
+  "c": "<Thorius' face turns white.>$B$BThis... this cannot be. My own brother? He set this all up?$B$B<Thorius' face contorts in anger.>$B$BHe betrayed me, he betrayed Ironforge! It seems as if the influence of the Old Gods is still strong in these lands. I fear that if my brother - a once noble and honorable man - was so easily turned to the will of Ragnaros, no one is safe."
+ },
+ {
+  "id": 3567,
+  "t": "To the Top",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Would you like to see the view atop one of the twin colossals? I can send you there, $R.$B$BDo consider how you will get down, though. This is a one way trip only."
+ },
+ {
+  "id": 3568,
+  "t": "Seeping Corruption",
+  "o": "Fill all 4 Empty Vials at the tide pools along the coast of the Ruins of Eldarath in Azshara before returning to Chemist Cuely.",
+  "d": "See that tauren behind me--the one who looks like she's going to be ill at any moment? She was in Azshara recently. She claims she was wounded by some naga while making her way through the Ruins of Eldarath.$B$BAfter fighting off a few of them, she took a break on the beach and drank from one of the tide pools. Now she's feeling nauseous... among other things.$B$BI'd like to find out what she drank. Take this box, in it are some empty vials I labeled. Fill each at different pools and come back.",
+  "p": "You know where this is leading, don't you, $N? There's no way she can survive... look at her. The best thing for her now is to aid us in finding a cure for the plague. This water she drank might have a clue that helps us figure out how. She's going to die anyway--she might as well die doing something noble for our people before she does. Don't you agree?",
+  "c": "Wonderful. You're back before she died. Good, good.$B$BLet's get started on this then, shall we?$B$BI've been studying her symptoms for some time now, and it's quite ugly. I'm surprised she's still standing. She's vomited three or four times all over the place... quite a pleasant odor.$B$BGive me just a moment to put something together to test on our... friend."
+ },
+ {
+  "id": 3569,
+  "t": "Seeping Corruption",
+  "o": "Give Cuely's Elixir to Thersa Windsong in Undercity.",
+  "d": "Give this to Thersa. Perhaps it will cure her... perhaps not. We really won't know until after she drinks it.",
+  "p": "I've come to Undercity because I heard their alchemists have been studying long and hard on how to find a cure for their own illness. It was suggested that perhaps they could help me too.$B$BAlthough this place makes me feel far from welcome, I had no choice--the sickness that found me is tearing me up inside and I needed their help immediately.",
+  "c": "Chemist Cuely has been very accommodating... disturbingly so. But if he says this will help me, then I have no other choice. I don't have time to find any other solution. I've already spoken to priests and shamans, none of which could help me.$B$BLet us hope that the Earthmother watches over my spirit."
+ },
+ {
+  "id": 3570,
+  "t": "Seeping Corruption",
+  "o": "",
+  "d": "",
+  "p": "You know where this is leading, don't you, $N? There's no way she can survive... look at her. The best thing for her now is to aid us in finding a cure for the plague. This water she drank might have a clue that helps us figure out how. She's going to die anyway--she might as well die doing something noble for our people before she does. Don't you agree?",
+  "c": "I never dreamed the elixir would take hold that quickly. Thank you, $N. I will get to work on the rest of these samples right away. I'm sure they'll be usable by the Lady Sylvanas and the Forsaken soon enough."
+ },
+ {
+  "id": 3581,
+  "t": "<UNUSED>",
+  "o": "Speak to Saern Priderunner again to learn the Plainsrunning skill.",
+  "d": "Imagine yourself racing across the plains,through forests and over mountains,the wind in your face... Traveling over unseen territory; the wonder of the road ahead,your destiny resting just over the horizon.$B$BAlways remember that on hoof,many things are achievable; as a Tauren,you will be granted the swiftness of Plainsrunning. There is no limit to the distances you might go.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3601,
+  "t": "Kim'jael Indeed!",
+  "o": "Search the Thalassian Base Camp for Kim'jael's Compass, Scope, Stuffed Chicken and Wizzlegoober, then return them to him in Azshara.",
+  "d": "Kim'jael indeed!! Do you know what Kim'jael means to the Blood elves, $N? Little rat... or something like that. The big bullies!$B$BThey hired me to help them scout the area looking for some sort of lost treasures. Of course I jumped aboard the moment they said \"treasure\" and the amount they were willing to pay, but of course, they turned on me and tried to kill me... ME!$B$BGoes to show you, you can't trust a Blood elf.$B$BThe problem is, they still have my equipment and I can't get it back. Help me out?",
+  "p": "Those stinkin' Blood elves. I tell ya, if I was as strong as you are, I'd go down there and teach them a thing or two myself! But I'll have to settle with payin' you to take care of 'em for me.",
+  "c": "Haha! You got them good, didn't you?!$b$bThis is great! That'll teach those Blood elves to betray their partners... especially someone as loyal as a goblin merchant! Bah, Blood elves...!$b$bWell, the least I can do for you is pay you for your time... just like I said I would.$b$bHere you go... those should be useful."
+ },
+ {
+  "id": 3602,
+  "t": "Azsharite",
+  "o": "Recover twenty Crystallized Azsharite from southern Azshara. You may use the Felhound to assist you in 'sniffing' out the location of cleverly hidden deposits.$B$BReturn to Loramus when the task is complete.$B",
+  "d": "The ancient cliff giants of the southern region of Azshara consume the rock and buildings of the land for sustenance. The excrement from their consumption is a highly malleable and extremely strong crystal known as Azsharite.$B$BThe formations litter the southern arc, but few are ever recovered due to the extremely violent nature of the giants.$B$BYou are to venture south and recover enough of the Azsharite for the creation of the weapon's body. My felhounds will aid in the recovery of the crystal.",
+  "p": "Evil does not sleep, fool. You will have time for rest when you are finally dead. Now, bring me those crystals.",
+  "c": "Your tasks in Azshara are complete, mortal. I must now forge the necessary components for the next step in your adventure."
+ },
+ {
+  "id": 3621,
+  "t": "The Formation of Felbane",
+  "o": "Take the Shipment to Galvan the Ancient in Stranglethorn Vale.",
+  "d": "The weapons are ready to be forged. You must take the tempered azsharite to one with the ability to harness fel energy.$B$BIn Stranglethorn Vale such a blacksmith exists. Galvan the Ancient, leader of the Mithril Order, will craft the weapons to your specifications. You will find his encampment between Zul'Gurub and the Mosh'Ogg ogre mound.$B$BMay your determination and faith carry you through this ordeal. Should you fail, know that your God smiles down upon you, mortal.",
+  "p": "Loramus, eh? It has been many years since I have heard that name.",
+  "c": "My goodness, I can only imagine what you went through to get these materials. Few venture into Azshara and return alive, let alone those that face demi-gods and giants!$b$b"
+ },
+ {
+  "id": 3625,
+  "t": "Enchanted Azsharite Fel Weaponry",
+  "o": "Wait for Galvan to finish forging the weaponry.",
+  "d": "$N, the creation of each weapon will take some time.$B$BAdditionally, you may only use the power of the Felcurse once per three minutes. Its weakening properties against Razelikh the Defiler and his minions may be variable in duration. This is why you must release the Felcurse only when the moment is right!$B$BNow give me a moment to craft your weapon, $N.$B",
+  "p": "To interrupt the forging process could result in an imperfect weapon. Be patient, $n.",
+  "c": "<Galvan wipes the sweat from his brow.>$b$bA finer demon slayer has never existed, $N."
+ },
+ {
+  "id": 3626,
+  "t": "Return to the Blasted Lands",
+  "o": "Return to the Fallen Hero of the Horde at Splinterspear Junction in Swamp of Sorrows.",
+  "d": "The hour of redemption is near, $N. You must return to the Blasted Lands with your new-found weaponry and speak with the Fallen Hero of the Horde to receive your final objective.$B",
+  "p": "",
+  "c": "You look battle hardened, $N. Are you prepared to face Razelikh and his minions?"
+ },
+ {
+  "id": 3627,
+  "t": "Uniting the Shattered Amulet",
+  "o": "Slay Grol the Destroyer, Lady Sevine, and Archmage Allistarj. From their corpses take the Amulet of Grol, the Amulet of Sevine, and the Amulet of Allistarj.$B$BRemember to USE your Enchanted Azsharite Fel Weaponry to weaken the triad. They cannot be killed otherwise - but use them wisely...$B",
+  "d": "To reach the Defiler, you must first destroy the triad of power and recover the amulet pieces. When you recover all three pieces, return to me and I shall give you further instruction.$B$BGo $N! To the Blasted Lands! Sevine, Allistarj, and Grol must fall!$B",
+  "p": "The three shall form the one, the one shall light the way.",
+  "c": "The amulet of Razelikh the Defiler is once again complete but he senses the disruption in his chain of command. He knows you come for him..."
+ },
+ {
+  "id": 3628,
+  "t": "You Are Rakh'likh, Demon",
+  "o": "Destroy Razelikh the Defiler and return the Severed Horn of the Defiler to the Fallen Hero of the Horde. You will also need to return the Ward of the Defiler so that the Fallen Hero can destroy it, preventing it from ever falling into the wrong hands.$B",
+  "d": "Razelikh's lair is atop the highest mountain in the Blasted Lands. The only way to the lair is through the use of the teleport runes near the mountain. As long as you hold the amulet, you can freely transport up to the lair. Once you reach the lair, you must conjure the beast. The amulet is your key, $N. Use it on the Altar of the Defiler.$B$BShould you defeat the Defiler, bring back his horn. It will become a symbol of hope for all that view it - proof that heroes do exist in this war torn world.$B",
+  "p": "There is nothing left to fear.",
+  "c": "Today is a day that will be remembered for all eternity. The demonic overlord of the Blasted Lands has finally fallen!"
+ },
+ {
+  "id": 3629,
+  "t": "Goblin Engineering",
+  "o": "If you wish to learn more about Goblin Engineering, take the Manual of Engineering Disciplines to Nixx Sprocketspring in Gadgetzan.",
+  "d": "Expert engineering yields two distinct disciplines: gnome and goblin.  I only bother to mention goblin engineering because I'm a fair trainer.  They like to make things that blow up, and they rarely care what is in the way - even themselves.$B$B$N, read this manual.  If you want to learn how to blow yourself up, then take it to Nixx Sprocketspring in Gadgetzan.   Remember - membership is permanent and prevents joining the other discipline, so make sure this is what you want before finishing his task.",
+  "p": "I can smell fresh recruits much like I can an excellent blasting powder - from a mile away. Have you come seeking to learn about the mastery of the explosion?",
+  "c": "Well $N, you were wise to seek my tutelage! Any schlep can become an expert at the basics of engineering - the gnomes and their irradiated home of Gnomeregan are proof of that. It takes a strong mind and a steady hand (emphasis on STEADY) though to master the discipline of Goblin Engineering.$B$BKeep your ears perked $N, and you might learn something."
+ },
+ {
+  "id": 3630,
+  "t": "Gnome Engineering",
+  "o": "If you wish to learn more about Gnome Engineering, take the Manual of Engineering Disciplines to Tinkmaster Overspark in Ironforge.",
+  "d": "Engineering at the expert level breaks into two disciplines: gnome and goblin.  Gnome engineering represents by far the superior of the two!  It's about the construction of wonderful gadgets and devices that make life better!$B$B$N, read this manual.  If you want to learn more on gnome engineering, then take that manual to Tinkmaster Overspark in Ironforge.   Remember - membership is permanent and prevents joining the other discipline, so make sure you are sure before finishing his task!",
+  "p": "Yes, yes, what needs of yours might I address today? Clearly, I have the time to do such since all I do is stand here while our beloved city lies in a cloud of irradiated death.",
+  "c": "Ah, a young engineer interested in pursuing the one, true discipline of engineering! Well forgive my melodrama, friend. While our situation remains dire, it still is always a good day to see another engineer respond to the clarion call of true engineering!"
+ },
+ {
+  "id": 3631,
+  "t": "Summon Felsteed",
+  "o": "Speak to Strahad Farsan in the Barrens.",
+  "d": "Hmph. I say you're not prepared, but that is not my decision. Strahad feels otherwise, and it is his decision to make... this time.$B$BHe wishes to speak to you, and quickly. You'll find him still above Ratchet in the Barrens, at his little tower there with his acolytes.$B$BDo not dawdle long.",
+  "p": "",
+  "c": "Good luck, $N. I look forward to seeing you in the future."
+ },
+ {
+  "id": 3632,
+  "t": "Gnome Engineering",
+  "o": "If you wish to learn more about Gnome Engineering, take the Manual of Engineering Disciplines to Tinkmaster Overspark in Ironforge.",
+  "d": "Engineering at the expert level breaks into two disciplines: gnome and goblin.  Gnome engineering represents by far the superior of the two!  It's about the construction of wonderful gadgets and devices that make life better!$B$B$N, read this manual.  If you want to learn more on gnome engineering, then take that manual to Tinkmaster Overspark here in Ironforge.   Remember - membership is permanent and prevents joining the other discipline, so make sure you are sure before finishing his task!",
+  "p": "Yes, yes, what needs of yours might I address today? Clearly, I have the time to do such since all I do is stand here while our beloved city lies in a cloud of irradiated death.",
+  "c": "Ah, a young engineer interested in pursuing the one, true discipline of engineering! Well forgive my melodrama, friend. While our situation remains dire, it still is always a good day to see another engineer respond to the clarion call of true engineering!"
+ },
+ {
+  "id": 3633,
+  "t": "Goblin Engineering",
+  "o": "If you wish to learn more about Goblin Engineering, take the Manual of Engineering Disciplines to Nixx Sprocketspring in Gadgetzan in Tanaris.",
+  "d": "Expert engineering yields two distinct disciplines: gnome and goblin.  Clearly, goblin engineering is the choice of all brilliant engineers.  Learn to master the world through the judicious use of high explosives and fantastic gear!$B$B$N, read this manual.  If you want to learn about goblin engineering, then take it to Nixx Sprocketspring in Gadgetzan.   Remember - membership is permanent and prevents joining the other discipline, so make sure this is what you want before finishing his task.",
+  "p": "I can smell fresh recruits much like I can an excellent blasting powder - from a mile away. Have you come seeking to learn about the mastery of the explosion?",
+  "c": "Well $N, you were wise to seek my tutelage! Any schlep can become an expert at the basics of engineering - the gnomes and their irradiated home of Gnomeregan are proof of that. It takes a strong mind and a steady hand (emphasis on STEADY) though to master the discipline of Goblin Engineering.$B$BKeep your ears perked $N, and you might learn something."
+ },
+ {
+  "id": 3634,
+  "t": "Gnome Engineering",
+  "o": "If you wish to learn more about Gnome Engineering, take the Manual of Engineering Disciplines to Tinkmaster Overspark in Ironforge.",
+  "d": "Engineering at the expert level breaks into two disciplines: gnome and goblin.  While I think it is a waste, you should be aware of gnome specialization.  They make items and gadgets that claim to change the world, but rarely often work.$B$B$N, read this manual.  If you wish to learn how to make metal paper weights, then take that manual to Tinkmaster Overspark in Ironforge.   Remember - membership is permanent and prevents joining the other discipline, so make sure you are sure before finishing his task!",
+  "p": "Yes, yes, what needs of yours might I address today? Clearly, I have the time to do such since all I do is stand here while our beloved city lies in a cloud of irradiated death.",
+  "c": "Ah, a young engineer interested in pursuing the one, true discipline of engineering! Well forgive my melodrama, friend. While our situation remains dire, it still is always a good day to see another engineer respond to the clarion call of true engineering!"
+ },
+ {
+  "id": 3635,
+  "t": "Gnome Engineering",
+  "o": "If you wish to learn more about Gnome Engineering, take the Manual of Engineering Disciplines to Oglethorpe Obnoticus in Booty Bay.",
+  "d": "Engineering at the expert level breaks into two disciplines: gnome and goblin.  While I think it is a waste, you should be aware of gnome specialization.  They make items and gadgets that claim to change the world, but rarely work.$B$B$N, read this manual.  If you wish to learn how to make metal paper weights, then take the manual to Oglethorpe Obnoticus in Booty Bay.   Remember - membership is permanent and prevents joining the other discipline, so make sure you are sure before finishing his task.",
+  "p": "Hello there! If you've come about a homing robot that may have smashed through a wall of your domicile, then I will refer you to my barrister in advance. Otherwise, what can I do for you today?",
+  "c": "You've come to learn about gnome engineering, eh? Well, you've come to the right gnome. While the ruling faction of Gnomeregan may use politics to ostracize those they view as an intellectual threat, they know that knowledge is something they cannot control.$B$BThey and I both know that when I left Gnomeregan, they lost one of their greatest gnome engineers alive today. If you're a capable student, I'll teach you what I know."
+ },
+ {
+  "id": 3636,
+  "t": "Bring the Light",
+  "o": "Archbishop Bendictus wants you to slay Amnennar the Coldbringer in Razorfen Downs.",
+  "d": "The Scourge is a persistent threat to the Alliance, a fact I am sure you know quite well. Recently, we have come across some very peculiar findings, $N.$B$BIn the Barrens lies a horrid tangle of briars called Razorfen Downs. While once it was the home of simple quilboar, now it has become apparent that a pact was made with the Scourge, creating creatures far worse... They are now ruled by the lich, Amnennar the Coldbringer.$B$BAlign yourself with the Light, $N; put an end to this evil union.",
+  "p": "Amnennar must be eradicated. Go, swiftly.",
+  "c": "Thank you , $N. The Scourge will now think twice before attempting to bolster its ranks again.$B$BMay you be blessed by the Light."
+ },
+ {
+  "id": 3637,
+  "t": "Gnome Engineering",
+  "o": "If you wish to learn more about Gnome Engineering, take the Manual of Engineering Disciplines to Oglethorpe Obnoticus in Booty Bay.",
+  "d": "Engineering at the expert level breaks into two disciplines: gnome and goblin.  While I think it is a waste, you should be aware of gnome specialization.  They make items and gadgets that claim to change the world, but rarely work.$B$B$N, read this manual.  If you wish to learn how to make metal paper weights, then take the manual to Oglethorpe Obnoticus in Booty Bay.   Remember - membership is permanent and prevents joining the other discipline, so make sure you are sure before finishing his task.",
+  "p": "Hello there! If you've come about a homing robot that may have smashed through a wall of your domicile, then I will refer you to my barrister in advance. Otherwise, what can I do for you today?",
+  "c": "You've come to learn about gnome engineering, eh? Well, you've come to the right gnome. While the ruling faction of Gnomeregan may use politics to ostracize those they view as an intellectual threat, they know that knowledge is something they cannot control.$B$BThey and I both know that when I left Gnomeregan, they lost one of their greatest gnome engineers alive today. If you're a capable student, I'll teach you what I know."
+ },
+ {
+  "id": 3638,
+  "t": "The Pledge of Secrecy",
+  "o": "If you agree to become a Goblin Engineer, then right-click on the Pledge of Secrecy and speak once more with Nixx Sprocketspring in Gadgetzan.",
+  "d": "Goblin engineering is about practical uses for high profit and higher explosive power!  Our schemata allow us to make powerful bombs and mighty weaponry; the manual you read covered this.$B$BThe manual also covered our ages old oath of secrecy on our schemata.  Once you become a goblin engineer, that's that.  There is no access to gnome engineering at all.$B$BIf you still want to become a goblin engineer, sign this document pledging life-long secrecy and speak with me again.  Think about it carefully, $N.",
+  "p": "If you've signed the document and are ready to hand it to me, then that is that. You've been told that this is a one way trip. If you're ready, then hop on board!",
+  "c": "Welcome aboard, Goblin Engineer $N! You soon will have access to the most powerful engineering schemata anywhere on Azeroth.$b$bNow that you have committed yourself to the pursuit of this knowledge, it is time to examine your goblin-oriented engineering work. From there, we'll help you build a plan to maximize your goblin engineering talents!"
+ },
+ {
+  "id": 3639,
+  "t": "Show Your Work",
+  "o": "Bring 20 Big Iron Bombs, 20 Solid Dynamite, and 5 Explosive Sheep to Nixx Sprocketspring in Gadgetzan.",
+  "d": "The gleam in your eye tells me everything; you want to blow things up.  You have budding talent, $N, but I'd like to get some samples of your work so I might examine it for ways to emphasize goblin-oriented techniques.  I'll need the following: twenty big iron bombs, twenty sticks of solid dynamite, and five explosive sheep - and keep the safeties armed!$b$bSubmit these items to me and you'll be an official goblin engineer!",
+  "p": "Once I receive your crafted engineering items for my review, I will hand you a genuine Goblin Engineer Membership Card! So long as the card is valid, you will have unlimited access to any goblin engineer trainer anywhere in the world.",
+  "c": "Here is your first Goblin Engineer Membership Card!$b$bThis card has its dues paid for in advance for fourteen days; all cards expire after two weeks of activity. When it does, pay your next set of dues to any goblin engineer trainer in order to get another card; without the card, your membership will temporarily lapse and you cannot access new schemata.$b$bThis never affects what you already know; once a goblin engineer, always a goblin engineer."
+ },
+ {
+  "id": 3640,
+  "t": "The Pledge of Secrecy",
+  "o": "If you agree to become a Gnome Engineer, then right-click on the Pledge of Secrecy and speak once more with Tinkmaster Overspark in Ironforge.",
+  "d": "Gnome engineering is about engineering theory shaped to serve our needs!  Our schemata allow us to make devices that control the world around us; the manual you read covered this.$B$BThe manual also covered our ages old oath of secrecy on our schemata.  Once you become a gnome engineer, that's that.  There is no access to goblin engineering at all.$B$BIf you still want to become a gnome engineer, sign this document pledging life-long secrecy and speak with me again.  Think about it carefully, $N.",
+  "p": "If you've signed the document and are ready to hand it to me, then that is that.$B$BThe secrets I will share with you are of such a magnitude that the signing of the Pledge of Secrecy is absolutely critical. I signed one, as did my brother and sister gnome engineers. You will be joining quite the auspicious fold, Engineer $N!",
+  "c": "Welcome aboard, $N! You soon will have access to the most advanced engineering schemata anywhere on Azeroth.$B$BNow that you have committed yourself to the pursuit of this knowledge, it is time to examine your gnome-oriented engineering work. From there, we'll help you build a plan to maximize your gnome engineering talents!"
+ },
+ {
+  "id": 3641,
+  "t": "Show Your Work",
+  "o": "Bring 6 Mithril Tubes, an Accurate Scope, and 2 Advanced Target Dummies to Tinkmaster Overspark in Ironforge.",
+  "d": "If you're ready to make some truly fantastic devices, then you've come to the right place.  And I can see you're a skilled engineer, but I want some samples of your work.  What I hope to do though is to analyze your craftmanship for ways to emphasize gnome-oriented techniques in your future efforts.  I need the following samples: six mithril tubes, an accurate scope, and two advanced target dummies.$B$BSubmit these items to me and you'll be an official gnomish engineer with access to all the schematics!",
+  "p": "Once I receive your crafted engineering items for my review, I will hand you a genuine Gnome Engineer Membership Card! So long as the card is valid, you will have unlimited access to any gnome engineer trainer anywhere in the world.",
+  "c": "Here is your first Gnome Engineer Membership Card!$B$BThis card has its dues paid for in advance for fourteen days; all cards expire after two weeks of activity. When it does, pay your next set of dues to any gnome engineer trainer in order to get another card; without the card, your membership will temporarily lapse and you cannot access new schemata.$B$BThis never affects what you already know; once a gnome engineer, always a gnome engineer."
+ },
+ {
+  "id": 3642,
+  "t": "The Pledge of Secrecy",
+  "o": "If you agree to become a Gnome Engineer, then right-click on the Pledge of Secrecy and speak once more with Oglethrope Obnoticus in Booty bay.",
+  "d": "Gnome engineering is about engineering theory shaped to serve our needs!  Our schemata allow us to make devices that control the world around us; the manual you read covered this.$B$BThe manual also covered our ages old oath of secrecy on our schemata.  Once you become a gnome engineer, that's that.  There is no access to goblin engineering at all.$B$BIf you still want to become a gnome engineer, sign this document pledging life-long secrecy and speak with me again.  Think about it carefully, $N.",
+  "p": "If you've signed the document and are ready to hand it to me, then that is that.$B$BWhile I may vehemently disagree with Gnomeregan - especially that fool Tinkmaster Overspark - politically, the Pledge of Secrecy transcends everything else! You must agree to commit a single path and stay true to that path throughout your life.",
+  "c": "Welcome aboard, $N! You soon will have access to the most advanced engineering schemata anywhere on Azeroth.$B$BNow that you have committed yourself to the pursuit of this knowledge, it is time to examine your gnome-oriented engineering work. From there, we'll help you build a plan to maximize your gnome engineering talents!"
+ },
+ {
+  "id": 3643,
+  "t": "Show Your Work",
+  "o": "Bring 6 Mithril Tubes, an Accurate Scope, and a 2 Advanced Target Dummies to Oglethorpe Obnoticus in Booty Bay.",
+  "d": "If you're ready to make some truly fantastic devices, then you've come to the right place.  And I can see you're a skilled engineer, but I want some samples of your work.  What I hope to do though is to analyze your craftmanship for ways to emphasize gnome-oriented techniques in your future efforts.  I need the following samples: six mithril tubes, an accurate scope, and two advanced target dummies.$B$BSubmit these items to me and you'll be an official gnomish engineer with access to all the schematics!",
+  "p": "Once I receive your crafted engineering items for my review, I will hand you a genuine Gnome Engineer Membership Card! So long as the card is valid, you will have unlimited access to any gnome engineer trainer anywhere in the world.",
+  "c": "Here is your first Gnome Engineer Membership Card!$B$BThis card has its dues paid for in advance for fourteen days; all cards expire after two weeks of activity. When it does, pay your next set of dues to any gnome engineer trainer in order to get another card; without the card, your membership will temporarily lapse and you cannot access new schemata.$B$BThis never affects what you already know; once a gnome engineer, always a gnome engineer."
+ },
+ {
+  "id": 3644,
+  "t": "Membership Card Renewal",
+  "o": "",
+  "d": "",
+  "p": "In order to renew your membership card, you will need to pay the renewal fee of two gold pieces.",
+  "c": "Since you're a practitioner of Goblin engineering and are in good standing, I am able to renew a lapsed membership card for the fee of two gold pieces. Once this fee is paid, you will be reissued a new membership card. This will allow access to Goblin engineering schemata from appropriate trainers.$B$BThis card will last for two weeks of activity, at the end of which your membership fees will become due again! If you want to access schemata, you'll need to bring your dues out of arrears."
+ },
+ {
+  "id": 3645,
+  "t": "Membership Card Renewal",
+  "o": "",
+  "d": "",
+  "p": "In order to renew your membership card, you will need to pay the renewal fee of two gold pieces.",
+  "c": "Since you're a practitioner of Gnomish engineering and are in good standing, I am able to renew a lapsed membership card for the fee of two gold pieces. Once this fee is paid, you will be reissued a new membership card. This will allow access to Gnomish engineering schemata from appropriate trainers.$B$BThis card will last for two weeks of activity, at the end of which your membership fees will become due again! If you want to access schemata, you'll need to bring your dues out of arrears."
+ },
+ {
+  "id": 3646,
+  "t": "Membership Card Renewal",
+  "o": "",
+  "d": "$B",
+  "p": "In order to renew your membership card, you will need to pay the renewal fee of two gold pieces.",
+  "c": "Since you're a practitioner of Goblin engineering and are in good standing, I am able to renew a lapsed membership card for the fee of two gold pieces. Once this fee is paid, you will be reissued a new membership card. This will allow access to Goblin engineering schemata from appropriate trainers.$B$BThis card will last for two weeks of activity, at the end of which your membership fees will become due again! If you want to access schemata, you'll need to bring your dues out of arrears."
+ },
+ {
+  "id": 3647,
+  "t": "Membership Card Renewal",
+  "o": "",
+  "d": "",
+  "p": "In order to renew your membership card, you will need to pay the renewal fee of two gold pieces.",
+  "c": "Since you're a practitioner of Gnomish engineering and are in good standing, I am able to renew a lapsed membership card for the fee of two gold pieces. Once this fee is paid, you will be reissued a new membership card. This will allow access to Gnomish engineering schemata from appropriate trainers.$B$BThis card will last for two weeks of activity, at the end of which your membership fees will become due again! If you want to access schemata, you'll need to bring your dues out of arrears."
+ },
+ {
+  "id": 3661,
+  "t": "Favored of Elune?",
+  "o": "Collect 15 Wildkin Feathers from the Hinterlands for Erelas Ambersky in Rut'theran Village.",
+  "d": "Wildkin are quite unpredictable creatures, $N. Capable of incredible gentleness, these creatures will show extreme ferocity if something they deem important is threatened.$B$BThese beasts are rumored to have been created by Elune, and I am interested in finding if this is really the truth.$B$BRecently, I heard about a population of wildkin living in the Hinterlands -- Vicious, Primitive, and Savage Owlbeasts. They can be found amongst the wildlife there. Will you gather some wildkin feathers for me?",
+  "p": "Try to avoid them if you can, $N. The Wildkin may misread your interest as an intent to do them harm...",
+  "c": "Thank you for bringing these to me, $N.$B$BWhat did you learn of the Wildkin?$B$BPerhaps these feathers will tell us more. Ferocious monsters, or simply misguided pets? One day I'd like to know the truth...$B$BI am going to continue my research -- please come back and talk to me again after some time has passed."
+ },
+ {
+  "id": 3681,
+  "t": "Tome of Divinity",
+  "o": "Speak with Duthorian Rall in Stormwind.",
+  "d": "Sorry to interrupt your travels, $r, but I thought you should know that word was sent from Stormwind recently asking that paladins report there for training.$B$BIf I didn't know any better, I'd say your close to reaching a special time and it's time you started studying the Tomes.$B$BLook for Duthorian Rall in Stormwind. He usually trains paladins in the Cathedral of Light.",
+  "p": "",
+  "c": "Welcome to the Cathedral of Light, $c."
+ },
+ {
+  "id": 3701,
+  "t": "The Smoldering Ruins of Thaurissan",
+  "o": "Venture to the Ruins of Thaurissan in the Burning Steppes and recover information from the Thaurissan Relics. Return to Royal Historian Archesonus when you have recovered the information.",
+  "d": "Venture to the smoldering ruins of Thaurissan in the Burning Steppes and gather as much information as possible.$B$BIt is said that mysterious relics litter the ruins. Perhaps you should start your search there, $N. Beware the Thaurissan guardians: Assassins that guard the ruins, keeping whatever secrets may still be buried there protected.",
+  "p": "Do you bring new information?",
+  "c": "Oh my! This information explains quite a lot about Thaurissan.$B$BThere is much more to learn!"
+ },
+ {
+  "id": 3702,
+  "t": "The Smoldering Ruins of Thaurissan",
+  "o": "Listen to Royal Historian Archesonus recant the history of Thaurissan.",
+  "d": "Would you like to hear a brief history of the Dark Iron dwarves?",
+  "p": "Allow me to finish telling you the story of Thaurissan.",
+  "c": "Shall we proceed?"
+ },
+ {
+  "id": 3721,
+  "t": "An OOX of Your Own",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You've recovered three of my OOX homing robots!  You've gone above and beyond what you needed to, so I will give you something special for all your help.  It is a miniature version of the very same robot that you have come to know and love, the OOX!$B$BI normally wouldn't let anyone have such a potentially lethal device, but you've been a real help.  Besides - the combat mechanisms and the homing logic on this one have been disabled.$B$BOther than that, it's an OOX by golly!"
+ },
+ {
+  "id": 3741,
+  "t": "Hilary's Necklace",
+  "o": "Find Hilary's Necklace, and return it to Hilary in Lakeshire.",
+  "d": "My friend Hilary lost her necklace, and we can't find it.  We've been fishing all day right here, and we looked around here already.  The only thing I can think of is that it fell into the lake.  Our parents don't want us to swim in the lake... my mom says there's some mean things underwater, but you look like you aren't scared of mean things.$B$BCould you find it for her, please?",
+  "p": "Hi. I miss my necklace. My daddy got it for me. Daddy says that there are monsters in the lake. Did you beat up any monsters?",
+  "c": "Thank you for finding my necklace mister $c... you are very kind! My kitty thanks you too - isn't that right Effsee?"
+ },
+ {
+  "id": 3761,
+  "t": "Un'Goro Soil",
+  "o": "Bring 20 Un'Goro Soil samples to Ghede on the Elder Rise of Thunder Bluff.",
+  "d": "The soil of Un'Goro Crater is reportedly enriched with potent magical qualities.  The Cenarion Circle wants to study this soil in large quantities; go into the wilds of Un'Goro and acquire enough of it for our continued research.$B$BThe rich soil will stick out in piles from time to time, and some of the beasts might have usable samples on their being.  Take them all outside to Ghede; just look for the piles of dirt and the tauren barking orders.  He means well, just don't get him riled up though!",
+  "p": "At ease, Private. If you're here to unload soil from Un'Goro - outstanding then! Otherwise, disappear.",
+  "c": "Oh that's right Private $N, don't make any effort to help me unload this soil up on to the piles! If the Great Spirits had wanted it done they would have miracled it up there, now wouldn't they?!$B$BArch Druid Runetotem wants to speak with you again, but for his next task you find that a journeyman's understanding of Herbalism would be helpful. If you don't know it though, he'll still find a use for you."
+ },
+ {
+  "id": 3762,
+  "t": "Assisting Arch Druid Runetotem",
+  "o": "Speak with Arch Druid Hamuul Runetotem in Thunder Bluff.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Thunder Bluff is most interested in seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Hamuul Runetotem is spearheading this research.$B$BPlease - if you are interested, speak with him directly on the Elder Rise within Thunder Bluff proper.",
+  "p": "",
+  "c": "Greetings, $c; I am glad you are interested in assisting our research. There is much to do, and I would be doing you a disservice if I informed you that the work this entails is not dangerous. Hopefully this will not scare you off... but from the looks of you, I take it that danger is something that you have dealt with before."
+ },
+ {
+  "id": 3763,
+  "t": "Assisting Arch Druid Staghelm",
+  "o": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.$B$BPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "p": "",
+  "c": "Well now, $c... since you were informed that I was leading this research myself, you obviously came as quickly as you could.$B$BNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself."
+ },
+ {
+  "id": 3764,
+  "t": "Un'Goro Soil",
+  "o": "Bring 20 Un'Goro Soil samples to Jenal at the Cenarion Enclave in Darnassus.",
+  "d": "The soil of Un'Goro Crater is reportedly enriched with potent magical qualities.  I want to know facts from falsehoods; go into the wilds of Un'Goro and acquire enough quality samples of soil for our continued study.$B$BYou may think that collection tasks are beneath you; that sort of attitude does not endear yourself to me or the Cenarion Circle.  Bring the samples to Jenal, who is no doubt wasting time outside behind this tree; just look for the piles of dirt.  He will handle the logistics - not I.",
+  "p": "Ah yes, the dirt. The Arch Druid wants twenty loads per adventurer, and twenty loads he shall get. Let those who conspire against us fall to the wayside!",
+  "c": "Unload your precious cargo here, noble $c. It must have been quite the burden... not unlike the burden I carry being a visionary. Here is an honorarium for your work, as dictated by the Arch Druid himself.$B$BArch Druid Staghelm wants to speak with you again $N, but for his next task you will be aided if you have a journeyman's understanding of Herbalism. If you don't know it though, you will still be able to aid the Circle!"
+ },
+ {
+  "id": 3765,
+  "t": "The Corruption Abroad",
+  "o": "Travel to Gershala Nightwhisper in Auberdine.",
+  "d": "Stormwind -- such a bustling hub of activity.$b$bI have traveled from afar to seek help. Often it is heard that brave adventurers roam these city streets.$b$bMy brother, Gershala, requires assistance in Darkshore. He resides in the seaside town of Auberdine.$b$bThe journey is a long and epic one. It is for this reason that I ask the help of a seasoned $c such as yourself.",
+  "p": "",
+  "c": "Ah, so my brother, Argos, sent you? I realize you must be weary from your travels. But we have much to talk about."
+ },
+ {
+  "id": 3781,
+  "t": "Morrowgrain Research",
+  "o": "Take the Arch Druid's Seed Voucher to Mathrengyl Bearwalker in the Cenarion Enclave of Darnassus.",
+  "d": "With what we call an Evergreen Pouch, we have cultivated Tharlendris seeds in the soil from Un'Goro Crater.  These seeds blossom into an array of random, potent herbs.  One result is morrowgrain, a mysterious herb we know little about; I intend to unravel this mystery.$B$BTake this to Mathrengyl downstairs, and he will give you some seeds so you can get started.  If you run out, you will need to purchase more from him.",
+  "p": "Peace and serenity be yours, friend. You are here on business from the Arch Druid himself, yes?",
+  "c": "Yes, this voucher is good for twenty packets of seeds. If you run out, we have more that can be provided. Unfortunately though, Tharlendris seeds are quite costly to produce in significant numbers. This is why the Cenarion Circle asks that those who are assisting us help out by offsetting some of the cost.$B$BThose who return with morrowgrain find that the reward the Arch Druid offers far makes up for the cost."
+ },
+ {
+  "id": 3782,
+  "t": "Morrowgrain Research",
+  "o": "Take the Seed Voucher to Bashana Runetotem in Thunder Bluff.",
+  "d": "With what we call an Evergreen Pouch, we have cultivated Tharlendris seeds in the soil from Un'Goro Crater.  These seeds have blossomed into an array of random, potent herbs.  One result is morrowgrain, a mysterious herb we know little about; I very much hope to unravel this mystery for the Circle.$B$BTake this voucher over to my daughter Bashana, and she will give you some seeds so you may assist us.  If you run out, you will need to purchase more from her.",
+  "p": "Peace and serenity be yours, friend. You are here on business from the Arch Druid himself, yes?",
+  "c": "Yes, this voucher is good for twenty packets of seeds. If you run out, we have more that can be provided. Unfortunately though, Tharlendris seeds are quite costly to produce in significant numbers. This is why the Cenarion Circle asks that those who are assisting us help out by offsetting some of the cost.$B$BThose who return with morrowgrain find that the reward the Arch Druid offers far makes up for the cost."
+ },
+ {
+  "id": 3783,
+  "t": "Are We There, Yeti?",
+  "o": "Collect 10 Thick Yeti Furs for Umi Rumplesnicker in Everlook.",
+  "d": "My friends are always coming up with great ideas. I've never felt like I could match them... until today! I just drew up the plans for something great! If you promise not to tell, I'll let you in on the secret... $B$BI'm going to make a mechanical yeti! Not only are my friends sure to be freaked out when they see it, but when they get over that, I know they'll be impressed!$B$BI need thick yeti fur from the ice thistle yeti to start with. Will you help? You'll find them to the southeast.",
+  "p": "I've got lots to get started on here. Please get me those furs as soon as you can!",
+  "c": "These furs are perfect, $N. We're off to a great start here!"
+ },
+ {
+  "id": 3784,
+  "t": "Assisting Arch Druid Runetotem",
+  "o": "Speak with Arch Druid Hamuul Runetotem in Thunder Bluff.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Thunder Bluff is most interested in seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Hamuul Runetotem is spearheading this research.$B$BPlease - if you are interested, speak with him directly on the Elder Rise within Thunder Bluff proper.",
+  "p": "",
+  "c": "Greetings, $c; I am glad you are interested in assisting our research. There is much to do, and I would be doing you a disservice if I informed you that the work this entails is not dangerous. Hopefully this will not scare you off... but from the looks of you, I take it that danger is something that you have dealt with before."
+ },
+ {
+  "id": 3785,
+  "t": "Morrowgrain Research",
+  "o": "Use an Evergreen Pouch with a Packet of Tharlendis Seeds and two Un'Goro Soil samples to try and cultivate samples of Morrowgrain.$B$BBring 10 Morrowgrain to Mathrengyl Bearwalker in Darnassus.",
+  "d": "Here's your Evergreen Pouch that you'll need to use the Tharlendis seeds with.  You also need to have Un'Goro soil samples on hand to use as fertilizer for the seeds.  Just use the pouch when you have everything; the pouch will take care of the rest.$B$BWhen you have enough morrowgrain, bring them here to me in the enclave.  Please don't bother the Arch Druid; he's a very busy man, and he doesn't need to be disturbed every time someone returns with another batch of morrowgrain!",
+  "p": "Yes $N, have you grown some morrowgrain for the Arch Druid's important research? The mysterious properties of Un'Goro Crater become clearer with each passing day, thanks to the help you are giving us.",
+  "c": "Well done $N, I will be sure to give these to the Arch Druid himself when he has need of them. Meanwhile, please accept this as a token of the Cenarion Circle's appreciation.$b$bOur need for morrowgrain, for now, is constant; if you wish to continue aiding us, then please return when you have cultivated more of it."
+ },
+ {
+  "id": 3786,
+  "t": "Morrowgrain Research",
+  "o": "Use an Evergreen Pouch with a Packet of Tharlendis Seeds and two Un'Goro Soil samples to try and cultivate samples of Morrowgrain.$B$BBring 10 Morrowgrain to Bashana Runetotem in Thunder Bluff.",
+  "d": "Here's your Evergreen Pouch that you'll need to use the Tharlendis seeds with.  You also need to have Un'Goro soil samples on hand to use as fertilizer for the seeds.  Just use the pouch when you have everything; the pouch will take care of the rest.$B$BWhen you have enough morrowgrain, bring them to me here on Elder Rise.  Please don't bother the Arch Druid; he'll be very busy with the research, as well as the multitude of concerns he has!",
+  "p": "Yes $N, have you grown some morrowgrain for the Arch Druid's important research?  The mysterious properties of Un'Goro Crater become clearer with each passing day, thanks to the help you are giving us.",
+  "c": "Well done $N, I will be sure to give these to the Arch Druid himself when he has need of them. Meanwhile, please accept this as a token of the Cenarion Circle's appreciation.$B$BOur need for morrowgrain, for now, is constant; if you wish to continue aiding us, then please return when you have cultivated more of it."
+ },
+ {
+  "id": 3787,
+  "t": "Jonespyre's Request",
+  "o": "Speak with Quintis Jonespyre in Feathermoon Stronghold.",
+  "d": "Excuse me, friend...$B$BA colleague of mine would like to speak with you about the research you are doing in conjunction with the Cenarion Circle.  He is a druid by the name of Quintis Jonespyre, and he resides in Feathermoon Stronghold, Feralas.  He would like to confer with you about morrowgrain... and he very much would like for you to keep our discussion from the ears of the Arch Druid.$B$BIf you're interested, speak with him; no doubt, all will be revealed once you do.",
+  "p": "",
+  "c": "I thank you for coming, weary traveler!  Allow me to introduce myself - I am Quintis Jonespyre, druid and humble servant of Malfurion and the Cenarion Circle.  My colleagues (General Shandris Feathermoon and the Protectorate - mayhap you've heard of us) and I wanted to talk with you about the work you are doing for Fandral Staghelm in Darnassus.$B$BBefore we get much further, I'd like to ask that our discussion stay between just us.  If you have no problem with this, then we may proceed."
+ },
+ {
+  "id": 3788,
+  "t": "Jonespyre's Request",
+  "o": "Speak with Quintis Jonespyre in Feathermoon Stronghold.",
+  "d": "Excuse me, friend...$B$BA colleague of mine would like to speak with you about the research you are doing in conjunction with the Cenarion Circle.  He is a druid by the name of Quintis Jonespyre, and he resides here in Feathermoon Stronghold.  He would like to confer with you about morrowgrain... and he very much would like for you to keep our discussion from the ears of the Arch Druid.$B$BIf you're interested, speak with him; no doubt, all will be revealed once you do.",
+  "p": "",
+  "c": "I thank you for coming, weary traveler!  Allow me to introduce myself - I am Quintis Jonespyre, druid and humble servant of Malfurion and the Cenarion Circle.  My colleagues (General Shandris Feathermoon and the Protectorate - mayhap you've heard of us) and I wanted to talk with you about the work you are doing for Fandral Staghelm in Darnassus.$B$BBefore we get much further, I'd like to ask that our discussion stay between just us.  If you have no problem with this, then we may proceed."
+ },
+ {
+  "id": 3789,
+  "t": "Assisting Arch Druid Staghelm",
+  "o": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.$B$BPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "p": "",
+  "c": "Well now, $c... since you were informed that I was leading this research myself, you obviously came as quickly as you could.$B$BNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself."
+ },
+ {
+  "id": 3790,
+  "t": "Assisting Arch Druid Staghelm",
+  "o": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+  "d": "Excuse me $c, but I'd like just a moment of your time if possible.$B$BThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project.  While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.$B$BPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "p": "",
+  "c": "Well now, $c... since you were informed that I was leading this research myself, you obviously came as quickly as you could.$B$BNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself."
+ },
+ {
+  "id": 3791,
+  "t": "The Mystery of Morrowgrain",
+  "o": "Bring 10 Morrowgrain to Quintis Jonespyre in Feathermoon Stronghold.",
+  "d": "Let me to be frank with you, $N.  I'm interested - nay, concerned with why the Arch Druid in Darnassus is using the name of the Cenarion Circle as well as the Circle's resources to procure vast amounts of morrowgrain.  I'm a researcher - curses are my specialty.  I've heard that morrowgrain, under the right conditions, exude qualities like other herbs used in primitive curses.$B$BI want to know more, and I ask for your help.  Bring me ten morrowgrain, and I will be sure to take care of you.",
+  "p": "I'm looking for ten morrowgrain - that should be enough to at least get my research started.  I'll no doubt burn through a lot of those going down wrong paths, but such is the nature of research.",
+  "c": "Gah, these morrowgrain make me feel... weird.  What in the name of Elune is Staghelm up to with these things?$B$BAnyway, thank you again for your help.  Here's a little something... you know, for the effort.  My research on morrowgrain is going to take a while, and I no doubt am going to need more.  While I'm at it, I suppose I could take the time to see if morrowgrain have some pertinent alchemical uses.  Still, I feel uncomfortable even being around them."
+ },
+ {
+  "id": 3792,
+  "t": "Morrowgrain to Feathermoon Stronghold",
+  "o": "",
+  "d": "",
+  "p": "Hello again, $N. My research is progressing fairly well, but if you have five more Morrowgrain I'd be happy to take them off your hands. Well... happy is a figurative term in this case; the more I am around them, the more uncomfortable I feel. Still, my research demands I buckle down and get through this.",
+  "c": "Thanks $N; I'll just store these out of the way for the time being.  While I don't command the resources that Staghelm does, I am able to give you a little something for your trouble.  Anyway, who knows what will happen if Staghelm keeps getting Morrowgrain after Morrowgrain.  There's something fishy going on, mark my words.$B$BRemember that I'm always looking for more Morrowgrain.  I'll take them in quantities of five at a time."
+ },
+ {
+  "id": 3801,
+  "t": "Dark Iron Legacy",
+  "o": "Speak with Franclorn Forgewright at Forgewright's Tomb in Blackrock Mountain if you are interested in obtaining a key to the city major.",
+  "d": "Greetings, $N. I am Franclorn Forgewright. Yes, the Franclorn Forgewright responsible for the stonewrought method of architecture. You have undoubtedly passed through or stood upon one of my creations in your adventures across our war torn world.$B$BYou are probably wondering why I am here and what it is that I want from you - both valid questions.$B$BI need your assistance, of course. In exchange for your assistance, I shall grant you the key to the depths of my accursed city.",
+  "p": "",
+  "c": "Whether it is greed which brought you here or an act of selfless devotion, what you are about to undertake is for the good of us all. "
+ },
+ {
+  "id": 3802,
+  "t": "Dark Iron Legacy",
+  "o": "Slay Fineous Darkvire and recover the great hammer, Ironfel. Take Ironfel to the Shrine of Thaurissan and place it on the statue of Franclorn Forgewright.$B",
+  "d": "You will find Fineous Darkvire beyond the Ring of Law, in the Hall of Crafting. Kill the miserable cur and recover Ironfel.$B$BTake Ironfel to the Shrine of Thaurissan and place the hammer in its rightful place: In the hands of the statue erected in my honor.$B$BWhen this is done, the compartment in which I stored the master key will open. More importantly, Ironfel will remain forever in my grasp. Should they make an attempt to remove the hammer; both the statue and hammer will shatter, lost forever.",
+  "p": "The statue looms ominously above you.",
+  "c": "The hammer slides firmly into place, within the grasp of the massive Dark Iron monument. A tiny compartment opens at the base of the statue. Inside you find..."
+ },
+ {
+  "id": 3803,
+  "t": "Morrowgrain to Darnassus",
+  "o": "",
+  "d": "",
+  "p": "The Arch Druid is always looking for additional morrowgrain for the Cenarion Circle's continued research. We take them in increments of ten, and award you with a cache of goods you should find useful. When you have ten, let me know and I will reward you accordingly.",
+  "c": "Excellent - this morrowgrain will no doubt please the Arch Druid.  I must admit though... just being near them makes me feel a little uncomfortable.  I can only imagine how difficult it is for the Arch Druid to tolerate them in such large numbers!$B$BThis is for you, $N.  The Cenarion Circle thanks you for your continued support."
+ },
+ {
+  "id": 3804,
+  "t": "Morrowgrain to Thunder Bluff",
+  "o": "",
+  "d": "",
+  "p": "The Arch Druid is always looking for more morrowgrain for the Cenarion Circle's research project on Un'Goro Crater. We take them in increments of ten, and award you with a cache of goods you should find useful. When you have ten, let me know and I will award you accordingly.",
+  "c": "Excellent - this morrowgrain will no doubt help when the time comes.  We know that the night elves are conducting similar research into these herbs, though it isn't clear to what end they will use them for if they discover anything.  The Arch Druid thinks that the need for morrowgrain will remain until we've figured out the mysteries behind this herb.$B$BThis is for you, $N.  The Cenarion Circle thanks you for your continued support."
+ },
+ {
+  "id": 3821,
+  "t": "Dreadmaul Rock",
+  "o": "Venture forth to the Burning Steppes and find out what became of Sha'ni Proudtusk.",
+  "d": "Sha'ni was sent to investigate reports of strange ritualistic activity coming from the Firegut ogres of the Burning Steppes over three weeks ago.$B$BGoretooth tells me that he hasn't heard from anyone in that platoon and that it's best that I move on and focus on the task at hand. Can you believe it? That's my wife!$B$BI can't leave my post, $N, but I must know what became of Sha'ni. Travel to the Burning Steppes and search for her.",
+  "p": "",
+  "c": "My poor Thal'trak.$B$BWe were planning on moving in with my mother and father in the Hinterlands after our tours were over. Now those plans are ruined!"
+ },
+ {
+  "id": 3822,
+  "t": "Krom'Grul",
+  "o": "Recover Sha'ni's Nose-Ring from Krom'Grul and return it to Thal'trak in Kargath. Search the various caves and mines in Dreadmaul Rock.$B",
+  "d": "My whole platoon was captured, $N. All were slain - except me.$B$BTheir leader, Krom'Grul, wanted to save me for some sort of ritual.$B$BI was chained to this altar and brutalized by the beast. My physical being ceased functioning after an hour of this torture. The beast then ripped my wedding nose-ring off of my face and stuck it on his finger. I had never seen such savagery!$B$BFind Krom'Grul and kill him! Take my ring back to Thal'trak.$B$BAnd $N, tell him that we will meet again... in another life. ",
+  "p": "Did you find Sha'ni? Is she ok?",
+  "c": "<Thal'trak collapses.>$B$BWe were going to move to the Hinterlands. Did she tell you? This was going to be her last mission.$B$B<Thal'trak sobs.>$B$BI don't want it, $N. Keep it, throw it away, I don't care! The ring means nothing to me now. Not without her..."
+ },
+ {
+  "id": 3823,
+  "t": "Extinguish the Firegut",
+  "o": "Slay 15 Firegut Ogre-Mages, 7 Firegut Ogres, and 7 Firegut Ogre Brutes.",
+  "d": "We must strike at our enemies before they strike at us!$B$BI'll make this brief, soldier.$B$BThe Firegut ogres of the Burning Steppes are allies of the Blackrock orcs. They work closely with those vile orcs, keeping the mineral rich Dreadmaul Rock guarded and the supply lines open at all times.$B$BLeave your mark, $N. Cripple their forces and return to me when the job is done.$B$B<Oralius grabs at the air and makes a choking motion.>$B$BI WILL KILL YOU, WINKY!",
+  "p": "There is not nearly enough blood on your uniform, soldier!",
+  "c": "Outstanding, soldier! The orcs and ogres will be reeling from this blow for minutes, maybe even hours!"
+ },
+ {
+  "id": 3824,
+  "t": "Gor'tesh the Brute Lord",
+  "o": "Collect Gor'tesh's Lopped Off Head.$B",
+  "d": "They're reeling I tell you! Our next strike must be decisive.$B$BThe brute lord, Gor'tesh, must be slain. More importantly, his head must be returned to me so that I may prepare the third phase of our attack on the Firegut ogres.$B$BBe warned, soldier, Gor'tesh rules not from Dreadmaul Rock but from a Blackrock orc structure to the west of Dreadmaul Rock.$B$BYour orders, then, are simple. Find Gor'tesh and chop off his fat head. Return to me when the job is done.$B$BSHUT UP, WINKY!",
+  "p": "Oh glorious day! Have you returned with the head?",
+  "c": "Just look at it, soldier. Disgusting! When the remaining Firegut ogres see this fat mug stuck on a pike sitting at the top of their mountain, mass hysteria will ensue!$B$B<Oralius cackles wildly.>"
+ },
+ {
+  "id": 3825,
+  "t": "Ogre Head On A Stick = Party",
+  "o": "Take Gor'tesh's Lopped Off Head and place it at the top of Dreadmaul Rock. Look for a soft dirt mound to plant the pike.",
+  "d": "Just one last thing you must do, soldier.$B$BI've taken the liberty of putting Gor'tesh's head on a pike. Now all you have to do is take this head to the top of Dreadmaul Rock and stick it into the ground. Once you do that, watch as those cowardly ogres run for their lives! After you've had your fun, come back to me and I'll reward you for all of your hard work.$B$B<Oralius seems to be losing touch with reality.>",
+  "p": "So? Did you paint any pictures of the event?",
+  "c": "Outstanding work, soldier! Simply amazing! Oh I'll get the medal of bravery for this, er, I mean you'll be rewarded handsomely for this!"
+ },
+ {
+  "id": 3841,
+  "t": "An Orphan Looking For a Home",
+  "o": "Speak to Quentin in Thousand Needles.",
+  "d": "Oh, hello, $N. I'm so glad to see you again. How was your trip to Darnassus?$B$BWell, you'll be happy to know that we've made quite a bit of progress while you've been gone. We even saved a nest full of eggs. Unfortunately, the mother died before we got to her.$B$BSay, would you want one for a pet? They look to hatch soon, so they'll need a good $Gfather:mother;. What do you say?$B$BIf you're really interested, take one of the eggs to Quentin at the race tracks in Shimmering Flats. He'll tell you more.",
+  "p": "Why hello, $C.$B$BDon't let my location fool you, I'm really not here for the races... as entertaining as they may be.$B$BI'm actually here in Thousand Needles investigating all I can to find out how salvageable the land is. It has become my crusade of sorts to revitalize and replenish the area with new, fertile soil. Perhaps I'll find there's a water source nearby.$B$BTell me you haven't noticed how odd the transition between Feralas and Thousand Needles is. Strange magic was afoot when that happened.",
+  "c": "Ah, a sprite darter egg, and one near maturation, if I'm not mistaken. Remarkable you've found one, let alone in this good a condition. They're rarely seen in Feralas these days. I understand there were various poachers in the area trying to capture and kill them for many reasons. Too bad really... such beautiful creatures when they reach adulthood.$B$BHow did you come across such a find?"
+ },
+ {
+  "id": 3842,
+  "t": "A Short Incubation",
+  "o": "Bring 2 Elixir of Fortitudes to Quentin in Thousand Needles.",
+  "d": "The Moonweavers, huh? Most intriguing. I wish the sprite darters could truly appreciate what it means to have those two look after them. They are both quite capable.$B$BSo, they gave you the egg as a gift. Well, then you should be responsible for it for as long as you desire. It appears it's almost ready to hatch, but we should ensure it's healthy and no damage has been done to it.$B$BI only need two elixirs of fortitude for a small spell to protect the egg. I have the rest of the components here with me.",
+  "p": "The longer I stay here, the more tempted I am to partake in these races, $N. Truly boggling...$B$BHave you found the elixirs yet? Once I can tell if the egg is going to be healthy or not, I'll return it to you to hold onto until it's prepared to hatch.$B$BLet me know.",
+  "c": "Wonderful. These will do nicely. Give me a moment to mix together my components and we shall see how well this egg is going to do."
+ },
+ {
+  "id": 3843,
+  "t": "The Newest Member of the Family",
+  "o": "Take your Fragile Sprite Darter Egg to the Hinterlands and speak to Agnar Beastamer, but hurry, you only have 1 hour to find him before the hatchling within the egg dies.",
+  "d": "A magnificent specimen, $N. If this creature survives gestation, then it'll be a healthy pet indeed!$B$BThere is one last thing I would suggest doing if you plan on following through with this--head to Aerie Peak in the Hinterlands. Speak to a dwarf there named Agnar Beastamer, he's a master animal handler and should be able to guide you in the final steps of incubation.$B$BBut hurry, $N, this egg is fragile and will not last long without proper care.",
+  "p": "Greetin's, $N. How can I be of service to ya?",
+  "c": "Well, well, well... I haven't seen one of these in a dragon's age. Faerie dragon, if I'm not mistaken... looks to be of the sprite darter variety. Excellent, excellent indeed.$B$BWell, if this little fella's gonna hatch and live to be strong and healthy, then we should get some food for it. Good ya got it to me in time."
+ },
+ {
+  "id": 3844,
+  "t": "It's a Secret to Everybody",
+  "o": "Look around in the pond for a clue about who this wrecked raft may belong to.",
+  "d": "A destroyed raft rests along the shoreline. Considering this is only a small pond, it is not clear as to how it ended up here, although looking at the trees tells you that the water level may not be constant.$B$BPerhaps a little exploration in the area might uncover more clues...",
+  "p": "",
+  "c": "A water-logged pack rests at the bottom of the pond."
+ },
+ {
+  "id": 3845,
+  "t": "It's a Secret to Everybody",
+  "o": "Examine the items inside the pack and bring them to their owner.",
+  "d": " Grabbing onto it, you pull the pack back to the shore. Perhaps if you examine the items inside the pack, you might find out more about who it belongs to.$B$BThere are a few stray travelers at Marshal's Refuge. Perhaps you might find out more there.",
+  "p": "Hi there. I've seen you before... Haven't I?",
+  "c": "Oh... Yes, these things do look familiar... well, kind of..."
+ },
+ {
+  "id": 3861,
+  "t": "CLUCK!",
+  "o": "Find some Special Chicken Feed and return to your befriended chicken. When you find it, /cheer at it before trying to give it the Special Chicken Feed.",
+  "d": "\"Cluck... cluck... cluck... BACAW!$B$BCluck... cluck... cluck.\"$B$BThe chicken looks up at you and then starts to scratch its claws into the ground. You think it is spelling out a word, but you are not sure what it is. Could it be... S-A-L-D-E-A-N? Before you can ask, the chicken turns away and goes about its business.",
+  "p": "The chicken stares at you with dark, cold eyes. It waits for you hungrily.$B$B\"BACAAAW!$B$BCluck...cluck...cluck.\"",
+  "c": "\"BACAW!!!\"$B$BThe chicken starts to gobble up the feed you put down.$B$BAfter a moment, the chicken looks around, startled. It uncomfortably shuffles back and forth. Is this chicken pregnant? You think you better check underneath it."
+ },
+ {
+  "id": 3882,
+  "t": "Roll the Bones",
+  "o": "Bring 8 Dinosaur Bones to Spark Nilminer in Un'Goro Crater.",
+  "d": "You'd think that being chief digger for Marshal Expeditions means I like digging.  There might be worse things to do in this world... but none really leap to mind.$B$BWe were supposed to be digging in Terror Run - FANTASTIC name by the way - for dead stegodons and diemetradons.  Well, there are plenty of live ones there too!  Wil and Hol are still all about studying this death trap, so we need those dinosaur bones.  Between you and me though, bringing some from live ones will work out just as well.",
+  "p": "Think whatever you want of me, but they're not going to care if the bones they get to research are from ones from ancient stegodons and diemetradons or the ones that almost devoured us wholesale when we were trying to set up our camps.  I'll just be happy if we get out of here alive...",
+  "c": "Excellent, these should do the trick.  And now, if you'll permit me...$B$BTHANKS FOR DIGGING ALL OF THESE BONES OUT OF THE GROUND FOR US AND NOT HURTING THE NATIVE BEASTS IN ANY WAY.$B$BWhether you really did or didn't, I don't want to know.  Let's keep it that way, shall we?  Here - maybe this will keep your lips shut on the whole thing.  Anything to get out of here alive, I say!"
+ },
+ {
+  "id": 3884,
+  "t": "Williden's Journal",
+  "o": "Return the journal to Williden Marshal somewhere in Un'Goro Crater.",
+  "d": "You have uncovered a mangled journal.  Parts of it remain legible, with a Williden Marshal claiming ownership over the contents therein.  If the journal is accurate, then Williden may be found somewhere in the northern part of the Crater; according to the journal, he and his companions sought higher ground from the savage beasts of the Crater once their base camps were overrun.",
+  "p": "Hello there!  I and my companions are happy to see some living beings here other than overgrown savage beasts!  What brings you into the Un'Goro Crater?",
+  "c": "Well look at this - my journal!  I thought it was lost, much like almost everything else we brought into Un'Goro.  I thank you kindly for returning this to me!"
+ },
+ {
+  "id": 3885,
+  "t": "<NYI> <TXT> The Gadgetzan Run",
+  "o": "Escort Petra and Dadanga!",
+  "d": "Escort Me and Dadanga!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3901,
+  "t": "Rattling the Rattlecages",
+  "o": "Kill 8 Rattlecage Skeletons, and then return to Shadow Priest Sarvis in Deathknell when you are done.",
+  "d": "You've shown your potential to the Forsaken under normal circumstances $N - now let's see you under pressure.$B$BThe Rattlecage skeletons, more mindless minions of the Lich King, are a tougher foe than the zombies you have faced thus far.  Again, thin their numbers and prove yourself to the Forsaken.  Do not tarry - when you are done, speak to me again.",
+  "p": "Those who dally in this task might as well end up wandering about aimlessly like our fallen brothers and sisters in the village. Let's hope you will fare better than them, yes? $b$b",
+  "c": "I am finished with you, $N - you have shown yourself to be worthy of the freedom that you have been given. Many will stand against you for what you have become, but know that no matter what they may try to do against us, we are free and will not be shackled again.$b$bTake these and be on your way. You have much to accomplish, $c."
+ },
+ {
+  "id": 3902,
+  "t": "Scavenging Deathknell",
+  "o": "Search Deathknell and the vicinity for 6 pieces of Scavenged Goods, and return them to Deathguard Saltain.",
+  "d": "You there!  If you're looking for something to make yourself useful, then listen up!$B$BWe need fresh out-of-the-ground recruits to head into Deathknell and search for any sort of useful equipment.  Most likely, they'll be in stacks of boxes.  We expect more recruits to be rising soon, and unless we want them to stumble about naked we had better get to scavenging!$B$BWell get to work, you miserable bag of bones!  I'm not going to reward those without some hustle.",
+  "p": "Have you managed to scavenge up some useful items for us? There is no shame in reusing that which has been tossed aside. No one is going to give us any handouts - we Forsaken will fend for ourselves!",
+  "c": "Great work $N, I knew you weren't useless. Here - have one of the better items I've found out of the lots that have been collected so far."
+ },
+ {
+  "id": 3903,
+  "t": "Milly Osworth",
+  "o": "Speak with Milly Osworth.",
+  "d": "You've shown yourself a dependable $c, $N.  Dependable, and not afraid to get your hands dirty, eh?$B$BI have a friend, Milly Osworth, who's in some trouble.  She's over with her wagon on the other side of the abbey, near the stable.  I'm sure she could use a pair of hands like yours.",
+  "p": "",
+  "c": "Oh, Deputy Willem told you to speak with me? He's a brave man and always willing to help, but his duties keep him stuck at Northshire Abbey and I'm afraid the problem I have today is beyond him.$b$bPerhaps you can help me?"
+ },
+ {
+  "id": 3904,
+  "t": "Milly's Harvest",
+  "o": "Bring 8 crates of Milly's Harvest to Milly Osworth at Northshire Abbey.",
+  "d": "A gang of brigands, the Defias, moved into the Northshire Vineyards while I was harvesting!  I reported it to the Northshire guards and they assured me they'd take care of things, but... I'm afraid for my crop of grapes!  If the Defias don't steal them then I fear our guards will trample them when they chase away the thugs.$B$BPlease, you must help me!  I gathered most of my grapes into buckets, but I left them in the vineyards to the southeast.$B$BBring me those buckets!  Save my harvest!",
+  "p": "Do you have my harvest, $N?",
+  "c": "Oh thank you, $N! You saved my harvest! And I hope you showed a few of those Defias that they can't cause trouble around here.$b$bWe might be short on guards these days, but we're lucky to have heroes like you to protect us!"
+ },
+ {
+  "id": 3905,
+  "t": "Grape Manifest",
+  "o": "Bring the Grape Manifest to Brother Neals in Northshire Abbey.",
+  "d": "Now that my crop is saved, take this Grape Manifest to Brother Neals.  He manages the store of food and drink in Northshire, and I'm sure he'll be delighted to hear that he has fresh grapes.$B$BYou'll find Brother Neals in the abbey, in the bell tower... where he likes to taste his wine.",
+  "p": "You look to be in fine spirits! Come! Have a seat, and have a drink!",
+  "c": "Let's see here...$b$bOh my! Milly's grapes have been saved! When she told me that brigands overran her vineyards I nearly despaired, but my faith in the Light did not waver!$b$bAnd through your bravery, we now have grapes for more wine! May the Light bless you, $N, and keep you safe!"
+ },
+ {
+  "id": 3906,
+  "t": "Disharmony of Flame",
+  "o": "Travel to the quarry in Blackrock Mountain and slay Overmaster Pyron. Return to Thunderheart when you have completed this assignment.$B",
+  "d": "The elders have felt a disturbance amongst the elements. The Dark Iron dwarves have summoned a foul spirit into our world that threatens to plague our lands with an eternal draught. This disharmony of flame must be investigated.$B$BTravel to Blackrock Mountain, through the Chasm of Flame, into the quarry. It is there that you shall find this lord of fire: Overmaster Pyron.$B$BEnd the disruption and return to me.",
+  "p": "The elements are still in disarray, $N.",
+  "c": "This cannot be... it must not be. The destruction of Pyron has merely lifted a veil. Within the depths of Blackrock is a much more insidious source of corruption."
+ },
+ {
+  "id": 3907,
+  "t": "Disharmony of Fire",
+  "o": "Enter Blackrock Depths and track down Lord Incendius. Slay him and return any source of information you may find to Thunderheart.$B",
+  "d": "I can taste the foulness in the air that surrounds you, $N. There is another, hidden in the depths of Blackrock, who does control this foulness.$B$BThe wind and earth cry his name: Lord Incendius... but someone... something... commands this being. He is merely an emissary.$B$BFind him and discover where his master hides. Return to me when you have collected this information.$B",
+  "p": "The flames will soon overtake these lands. Make haste, $N!",
+  "c": "<Thunderheart clutches the Tablet of Kurniya.>$b$bRagnaros... here...$b$bThe elders were right to fear the corruption emanating from Blackrock Mountain. A general of the Old Gods! IN OUR WORLD! We must reassess our position here in Kargath. We must decide on whether we stay and fight or run for fear of a new sundering.$b$bBe weary of any further exploration in Blackrock Mountain, $N. A far greater evil than anything that exists in this world resides in those fiery depths."
+ },
+ {
+  "id": 3908,
+  "t": "It's a Secret to Everybody",
+  "o": "Take Linken's Sword to Donova Snowden in Winterspring.",
+  "d": "You see, I have no idea how I ended up here. No one really knows -- it's a secret to everybody! I just can't seem to remember anything...$B$BThese items you brought to me, though... I am remembering something.$B$BMy sword. I am supposed to strengthen it somehow, but I'm really not sure why. Sorry I can't tell you more, but I just don't remember!$B$BAnyhoo, I do know where you can take it -- Donova Snowden in Winterspring. You'll find her by the hot springs. She can temper the sword by the pools there.",
+  "p": "My, my... So Linken did finally get around to sending me his sword.",
+  "c": "Well, of course I can temper this sword. While I'm working, you can explain what took Linken so long to get this to me. He's not usually one to forget things..."
+ },
+ {
+  "id": 3909,
+  "t": "The Videre Elixir",
+  "o": "Seek out Gregan Brewspewer in northern Feralas. From him, learn how you may acquire the Videre Elixir, then return to Donova Snowden in Winterspring.",
+  "d": "Now, what's this? Linken... FORGOT?$B$BOh, I see... Lost his memory...$B$BWell, here is his sword. It's not complete, though. I know of the one that can finish it, but... speaking with him may prove difficult.$B$BListen, I know of someone that will be able to help you. It's too much to explain right now, but you must somehow acquire a Videre Elixir. The only one I know that can help you with that is Gregan Brewspewer. He's hard to track down, but last I knew he was camping in the wilds of Feralas.",
+  "p": "Back already?",
+  "c": "I'll need one vial to make sure that this is truly the elixir... Yes... This is the stuff. "
+ },
+ {
+  "id": 3910,
+  "t": "<NYI> <TXT> The Un'Goro Run",
+  "o": "Escort Petra and Dadanga back to Un'Goro.",
+  "d": "Welcome to Gadgetzan!  Take us home...",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3911,
+  "t": "The Last Element",
+  "o": "Travel to Blackrock Depths and recover 10 Essence of the Elements. Your first inclination is to search the golems and golem makers. You remember Vivian Lagrave also muttering something about elementals.$B",
+  "d": "There is work to be had for those venturing into the depths, $N.$B$BThe Dark Irons have mastered creation of extremely powerful golems.$B$BInitial reports from our spies indicate that the dwarves use a unique power source to give their creations incomparable killing power.$B$BJust imagine what we could do with our abominations if we could get our hands on this essence of the elements! Turn that city upside down if you must, but do not return until you have found the essence! Payment will be worth the risk.",
+  "p": "Show them to me!",
+  "c": "Wonderful! I will have these sent by courier to the Undercity at once!$B$BAs for you - here is payment, as promised. Keep the change, you filthy beast!"
+ },
+ {
+  "id": 3912,
+  "t": "Meet at the Grave",
+  "o": "Go to the graveyard outside Gadgetzan, and use the Videre Elixir. Follow the rest of Donova's instructions to find Gaeriyan.",
+  "d": "This elixir will allow you to speak with one that you would not normally even see...$B$BTake the Videre elixir, along with Linken's sword, to the graveyard just outside Gadgetzan in Tanaris. Once there, drink the potion. You may be quite surprised at the results, but do not be alarmed.$B$BIn your \"other\" form, head due north until you reach the mountains. You'll find the one you need to speak with in one of the rocky crevices. His name is Gaeriyan.$B$BRemember, he will only speak to you in that form...",
+  "p": "",
+  "c": "It has been long since any have come to talk with me..."
+ },
+ {
+  "id": 3913,
+  "t": "A Grave Situation",
+  "o": "Resurrect, then look for the gravestone that Gaeriyan told you to find.",
+  "d": "If you return to the graveyard, $N, you will find a gravestone there... Not just any gravestone; this one will stand out from the others. Secrets lie within it.$B$BPush on the stone, and you will learn of these secrets...",
+  "p": "This must be the gravestone that Gaeriyan mentioned...",
+  "c": "You push on the stone firmly, and it slides away, revealing a small depression underneath it.$B$BPlacing Linken's Sword into the depression, you realize that it fits perfectly..."
+ },
+ {
+  "id": 3914,
+  "t": "Linken's Sword",
+  "o": "Deliver Linken's Superior Sword to Linken in Un'Goro Crater.",
+  "d": "After a strong flash of light, you are able to pick up the sword again. It has been transformed!",
+  "p": "Oh! I remember you! You are... No, don't tell me!",
+  "c": "My sword... It's finished!$b$bNow, if only I could remember why I needed this...$b$bHere, let me at least pay you for your work."
+ },
+ {
+  "id": 3922,
+  "t": "Nugget Slugs",
+  "o": "Bring 15 Nugget Slugs to Wenikee Boltbucket in the Barrens.",
+  "d": "I want to fix this samophlange, but to do that I'm going to need some supplies.  I ran out of seventeen-point-five gauge nugget slugs and I'm going to need a bunch of those for the work ahead.$B$BThe closest place to get them is the Sludge Fen to the east.  The Venture Company usually keeps them in their tool buckets.  Go to the Sludge Fen and look in the tool buckets you find there, then return to me when you've gathered enough nugget slugs.",
+  "p": "Do you have the nugget slugs, $N? I've been eyeing this Samophlange and I can't wait to tinker with it.",
+  "c": "Great, you got them! Now I can get to work..."
+ },
+ {
+  "id": 3923,
+  "t": "Rilli Greasygob",
+  "o": "Bring the Broken and Battered Samophlange to Rilli Greasygob in Orgrimmar.",
+  "d": "Well, that didn't work.  I put some extra gauges on the samophlange to measure its structural integrity, and they read the integrity at an all-time low.  I could add some more dials and maybe a lever or two to try and fix it, but... I think that might make things even worse.$B$BYou should take the samophlange to Rilli Greasygob.  He used to work for the Venture Company -- if anyone knows how to fix it, it's Rilli.$B$BYou can find him at Nogg's Machine Shop in Orgrimmar, in the Valley of Honor.",
+  "p": "Mind your head! I don't want it to get in the way of my work!",
+  "c": "What's this? Why, it's a samophlange! Where did you get this thing? Have you been poking around the Venture Company holdings in the Barrens?$B$BYou must be very brave, or very stupid."
+ },
+ {
+  "id": 3924,
+  "t": "Samophlange Manual",
+  "o": "Bring the Samophlange Manual to Rilli Greasygob in Orgrimmar.",
+  "d": "I think I can fix the samophlange, but I'm going to need the user's manual first.  When I was in the Venture Company I had a rival, Boss Copperplug, who hoarded the secrets of the samophlange, giving out small bits of knowledge on the device to those he trusted.  I wasn't one of the trusted few...$B$BBoss Copperplug used to stay at the Boulder Lode Mine in northeastern Barrens.  Get the manual from him, and if he's given pages from it to anyone, you'll have to collect them too.",
+  "p": "Do you have the manual?",
+  "c": "You got the manual! I can't wait to read it and find out how to fix the Samophlange! I spoke with Sputtervalve in Ratchet--he wanted to thank you for your help, and wanted to reward your efforts.$B$BI want to thank you too, and if I ever get this thing fixed I'll let you know..."
+ },
+ {
+  "id": 3941,
+  "t": "A Gnome's Assistance",
+  "o": "Find J.D. Collie in the cave at Marshal's Refuge.",
+  "d": "Thinking... Thinking... I know I came here for something important...$B$BI have an idea, $N. In the cave over there is a gnome named J.D. that was very kind to me when I first arrived here. Perhaps in my disoriented state, I might have mentioned something to her.$B$BWhy don't you go ask her if she knows anything? Oh, but be careful -- she's always messing with those crazy glowing crystals I've seen in the crater. I'm not quite sure what she's up to in there!",
+  "p": "",
+  "c": "Stay where you are for just a moment... I am testing out a new combination of crystals..."
+ },
+ {
+  "id": 3942,
+  "t": "Linken's Memory",
+  "o": "Find Eridan Bluewind in southern Felwood.",
+  "d": "Oh... Linken? Yeah, he's a funny one. When he first got here, he was mumbling about all kinds of strange things. Probably got bumped on the head pretty hard, I imagine.$B$BSomething he said kinda stuck with me though -- that he was making some sort of totem; said he had to talk to someone named Eridan Bluewind... in a place called Felwood, I think?$B$BI doubt he could tell you much now, though. If you want to know more, maybe you should look for Eridan yourself?",
+  "p": "",
+  "c": "Hello, $c. Is there something I can help you with?"
+ },
+ {
+  "id": 3961,
+  "t": "Linken's Adventure",
+  "o": "Take the Silver Totem of Aquementas to Linken in Marshal's Refuge.",
+  "d": "To think all this time that the reason Linken came here was to rid us of Blazerunner... He seems like such an ordinary guy, but I did notice that he's not at all interested in any of my experiments or gadgets like most gnomes would be. He must be a true warrior at heart.$B$BBring the totem to him. See if that helps him remember why he came here.",
+  "p": "Hi, again, $N!",
+  "c": "Did J.D. help you at all?"
+ },
+ {
+  "id": 3962,
+  "t": "It's Dangerous to Go Alone",
+  "o": "Travel to Fire Plume Ridge, south of Marshal's Refuge.$B$BFind Blazerunner and use the totem to remove his protective aura. Once he has been defeated, acquire the Golden Flame from the cave.",
+  "d": "$N, I finally remember now... I did come here to fight Blazerunner. I was on a journey, and this was to be the last step.$B$BBut I am no longer the hero... You are. All that you have done -- you must finish this now, not me.$B$BBlazerunner guards an artifact called the Golden Flame. It provides power more vast than anything else I have ever known, and it is dangerous in the hands of one with an evil heart.$B$BYou will want to bring others with you -- it's dangerous to go alone. Take this as my advice.",
+  "p": "Blazerunner is almost invincible behind the aura he has created by using the Golden Flame. Only you have the power to remove it with the Silver Totem of Aquementas.",
+  "c": "Thank you, $N.$B$BThe Golden Flame will now be returned back to my homeland, where it may be protected, never again to be used for evil.$B$BSince you did so much for me, I'd like you to have this. Without you, I'd still have no idea who I am!"
+ },
+ {
+  "id": 3981,
+  "t": "Commander Gor'shak",
+  "o": "Find Commander Gor'shak in Blackrock Depths.$B$BYou recall that the crudely drawn picture of the orc included bars drawn over the portrait. Perhaps you should search for a prison of some sort.",
+  "d": "Poor Gargal... didn't even see it coming. WHAM! The arrow landed dead center on the top of his head. He was no genius before but now...$B$B<Galamav grimaces.>$B$BWhen we dislodged the arrow, we noticed a rolled up note attached to the shaft. On the note was a crudely drawn picture of an orc behind bars with the signature of Commander Gor'shak attached.$B$BIf he's still alive in the Depths, you'll have to find him.$B$BA trap you say? Well no kidding, numb hooves! That's why you're going!$B",
+  "p": "",
+  "c": "We haven't got much time. Listen carefully, $R. What I have to tell you is classified and for your ears only."
+ },
+ {
+  "id": 3982,
+  "t": "What Is Going On?",
+  "o": "Defend Gor'shak.",
+  "d": "I was sent here under the auspices of Thrall. Do you actually think these buffoons could capture me? I allowed myself to be captured so that I could gather intelligence.$B$B<Gor'shak whispers.>$B$BThe Princess of Ironforge has been kidnapped by Emperor Thaurissan. Princess Bronzebeard is in this very city! I bet old Magni's heart almost stopped when he heard that news.$B$B<Gor'shak laughs.>$B$BShhh! Do you hear that? Guards coming! DEFEND YOURSELF!",
+  "p": "Defend yourself, fool!",
+  "c": "That was a close call. They have been alerted to your presence... more will surely come."
+ },
+ {
+  "id": 4001,
+  "t": "What Is Going On?",
+  "o": "Speak with Kharan Mighthammer and gather information about Princess Moira Bronzebeard's kidnapping. Take that information to Thrall in Orgrimmar.$B$BYou recall Gor'shak mentioning that Kharan is being held in a cell nearby.$B",
+  "d": "So far, my communication with the dwarf, Kharan, in the cell across the hall, has been limited. I have, however, managed to convince him that I, rather -we- mean him no harm.$B$BGo speak with him and gather as much information about the Princess and her captors as possible. Take that information back to the Warchief.$B$BThrall does not want the Princess harmed, but instead, has some grand plan laid out, which includes her being safely returned to Ironforge. Kharan already knows all of this... Go!$B",
+  "p": "What brings you to these hallowed grounds?",
+  "c": "This is a chance for the Horde to change the political climate of our war torn world forever. Listen carefully, $N.$B$BFailure of this mission is not an option."
+ },
+ {
+  "id": 4002,
+  "t": "The Eastern Kingdoms",
+  "o": "Speak with Thrall if you are prepared to take on the mission he has planned.",
+  "d": "You bring excellent information, $N.$B$BAs Warchief, it is my duty to do what is best for the Horde. To ensure that the generations that come after us are not forced into a hopeless existence.$B$BThe opportunity to shape our future alliances has fallen into our collective laps. A move to help the dwarves could greatly strengthen our relationships in the Eastern Kingdoms. This, then, is why you must not fail!$B$BAre you prepared?",
+  "p": "",
+  "c": "There is no going back beyond this point, $N."
+ },
+ {
+  "id": 4003,
+  "t": "The Royal Rescue",
+  "o": "Slay Emperor Dagran Thaurissan and free Princess Moira Bronzebeard from his evil spell. $B",
+  "d": "This strike against the Dark Iron dwarves, if successful, will send a shockwave throughout their entire kingdom.$B$BPrincess Bronzebeard is under the control of Emperor Thaurissan. To free her, you must kill the Emperor. Be warned, your task is doubly dangerous, as Bronzebeard will attack you without question while under the control of the Emperor.$B$BDO NOT HARM HER!",
+  "p": "<Princess Moira cowers in fear.>",
+  "c": "What have you done!"
+ },
+ {
+  "id": 4004,
+  "t": "The Princess Saved?",
+  "o": "Return to Thrall at Grommash Hold in Orgrimmar.$B",
+  "d": "You have slain my husband, $r! My child will be born into this world without a father.$B$B<Princess Moira points directly at you.>$B$BI assure you, this child will be the next ruler of the kingdom of Ironforge. You and your kind shall be hunted down until the end of days for this wrongful act.$B$B<You think that Princess Moira may be suffering from the residual effect of Thaurissan's spell.>$B$BLeave me be, $r. I am certain your warchief will be eager to hear the results of his meddling.$B",
+  "p": "",
+  "c": "<Thrall is taken aback by the information you have presented to him.>$B$BA new threat now looms on the horizon. As Magni's years dwindle down, the way shall be opened for this unborn Dark Iron to become ruler of Ironforge.$B$BYou have accomplished what I asked of you and for that, you shall be rewarded.$B$BNow leave me, $N! I must confer with Sylvanas and Cairne."
+ },
+ {
+  "id": 4005,
+  "t": "Aquementas",
+  "o": "Take the Book of Aquor, the Silvery Claws, and the Irontree Heart to Tanaris.$B$BUse the Book of Aquor to summon Aquementas.$B$BAfter you have the completed totem, take it to J.D. Collie in Marshal's Refuge.",
+  "d": "Take this bag of supplies with you to Tanaris. Travel to Lost Rigger Cove, and look for a circle of stones.$B$BThe eastmost peninsula is the secret...$B$BFrom this circle only, read from the book of Aquor; summon the only creature that can transform the items you collected into a totem to fight Blazerunner.$B$BAquementas will not be pleased to be awakened, but remember, you must remain in the circle for him to transform the items.",
+  "p": "So you're back, eh? Hmm... Let me take a look at that, $N.",
+  "c": "Blazerunner, you say...$b$bYes, I am aware that a strong elemental resides in the charred center of the crater. We all just keep our distance; none have been able to penetrate the powerful aura that surrounds him. Many have been pushed from the rocky paths onto the ground below when trying to face him."
+ },
+ {
+  "id": 4021,
+  "t": "Counterattack!",
+  "o": "Bring a Piece of Krom'zar's Banner to Regthar Deathgate, west of the Crossroads.",
+  "d": "The Horde commends your successes against the Kolkar, but the Kolkar themselves are maddened.  I have reports that a contingent of Kolkar has traveled to the Barrens from their home in Desolace, to seek vengeance.  My latest report was that, even now, they move against these bunkers, from the west!$B$BFace the Kolkar invaders, and end their threat in the Barrens.  Kill them until their leader, Warlord Krom'zar, appears.  Defeat him and bring me a piece of his banner as proof.$B$BWe're counting on you, $N.",
+  "p": "Do you have the banner?",
+  "c": "You have done it! You have defeated the Kolkar!$B$BI will be sure Thrall receives word of your actions here, $N.$B$BStand tall. You do yourself, and the Horde, proud."
+ }
+]

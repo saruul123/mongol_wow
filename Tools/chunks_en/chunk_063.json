@@ -1,0 +1,962 @@
+[
+ {
+  "id": 12699,
+  "t": "An Embarassing Incident",
+  "o": "Look for Vic's Keys inside the lake at River's Heart.",
+  "d": "There's one little problem we have to solve before we head out.  You see, I can't seem to find the keys to my flying machine.$B$BI've looked pretty much everywhere for them... maybe you can give me a hand.  Only place I haven't looked yet is inside the lake.$B$BI'll even give you my very own air tank.  It's almost empty, but it's got a couple of hits left.",
+  "p": "You find anything yet, $N?",
+  "c": "Excellent!  "
+ },
+ {
+  "id": 12700,
+  "t": "An Attack Of Opportunity",
+  "o": "Speak with Prince Valanar at Death's Breach.",
+  "d": "Only the Scarlet forces at New Avalon and Light's Point challenge us! The time to attack the Scarlet fleet at Light's Point has come.$B$BThe diversion at the mine has caused chaos amidst their ranks. They are frantically working to clear the area and return to their ships.$B$BThe time is ripe! Prince Valanar is seizing this opportunity to finish off the Scarlet fleet. Report to him at once!",
+  "p": "",
+  "c": "You have served us well, death knight. Few of your brethren have survived our initial attack upon the Scarlet interlopers. You remain as one of the strongest.$B$B<Prince Valanar nods.>$B$BEast of us, past the Havenshire Mine, is the coast - called Light's Point by the Scarlet Crusade. A thousand soldiers stand between us and their ships. Insurmountable? Hardly the point...\n"
+ },
+ {
+  "id": 12701,
+  "t": "Massacre At Light's Point",
+  "o": "Prince Valanar at Death's Breach has commanded you to slaughter 100 Scarlet Defenders.",
+  "d": "In their haste the Crusade will make one fatal error: forgetting to check the mine cars.$B$BYou are to return to Havenshire Mine, east of here, and locate the mine car that my minions have planted near the outhouse. Climb inside the mine car and a Scarlet miner will unwittingly see to it that you are placed safely behind enemy lines.$B$BOnce aboard one of their ships, use the cannons against them! SLAUGHTER THEM ALL!$B$BCall the Scourge gryphon from the cannon when you are ready to return.",
+  "p": "Death knights know no fear!",
+  "c": "The entire Scarlet fleet wiped out in a matter of minutes! I will receive a commendation from the Lich King for this! All that remains of the Scarlet Crusade now are the denizens of New Avalon.$B$BI'll set the fire starters and necromancers upon Havenshire immediately. You will carry my report to the Highlord!"
+ },
+ {
+  "id": 12702,
+  "t": "Chicken Party!",
+  "o": "Capture 12 Chicken Escapees for Elder Harkek at Frenzyheart Hill.",
+  "d": "I bet you not guess what happen again.$B$BNope, not Goregek or chickens.$B$BOkay, I lie. Goregek let chickens out again. Dumb Goregek and rumbly belly.$B$BLet me know if you need help from any of the hunters... they around here somewhere.",
+  "p": "Chickens not get far usually... if wasps not eat them, maybe we just let them stay on field next time.",
+  "c": "You good at this.$b$bMaybe someday we just dump Goregek in river so you not have to do this no more."
+ },
+ {
+  "id": 12703,
+  "t": "Kartak's Rampage",
+  "o": "Bring a pure sample of Oracle Blood to the Altar of Kartak to summon Kartak. With the aid of Kartak's shared powers, slaughter 50 of the nearby Sparktouched Gorlocs for Shaman Jakjek in Kartak's Hold.",
+  "d": "You the great Lich Hunter, eh? Good to have such strong Frenzyheart ally for battle. Maybe you strong enough to call Kartak even.$B$BBig battle at Kartak's Hold to southwest.  Go kill spark big-tongues until you get good bit of Oracle Blood. Bring blood to altar in Kartak's Hold to call Kartak for delicious feast of big-tongue.$B$BKartak take your body if you worthy... with Kartak's powers, you slaughter more big-tongues than even best dreams.$B$BGo kill lots, hunter!",
+  "p": "So many big-tongues to kill! So fun, eh?",
+  "c": "Ritual went so easy for you!$b$bYou come back later for more killing someday, okay?"
+ },
+ {
+  "id": 12704,
+  "t": "Appeasing the Great Rain Stone",
+  "o": "High-Oracle Soo-say in Rainspeaker Canopy wants you to take a companion to dig up and collect 6 Shiny Treasures.$B$BBe sure to speak to High-Oracle Soo-say in Rainspeaker Canopy about securing the aid of one of your previous companions.",
+  "d": "Since mosswalker been attacked I worried maybe we not good to Great Rain Stone... we maybe too greedy. We need more treasures to offer!$B$BYou good at finding shinies last time... maybe you go look more around village for shinies? You maybe need one of good Rainspeakers for help. Just tell us who.",
+  "p": "Never enough shinies... Great Rain Stone good to us, we need be good to Great Rain Stone.",
+  "c": "So many good shinies! You good at this.$b$bCome back for more again later, yes?"
+ },
+ {
+  "id": 12705,
+  "t": "Will of the Titans",
+  "o": "Obtain a Tainted Crystal from the wolvar near Sparktouched Haven and bring it to the Great Lightning Stone to call Soo-holu. With the aid of Soo-holu's shared powers, kill 50 of the nearby Frenzyheart wolvar, then return to Lightningcaller Soo-met near the Great Lightning Stone.",
+  "d": "Puppy-men been attacking Sparktouched... we need fight or they just attack other Oracles too.$B$BYou been good friend to us, so maybe we allow you special honor. Great Ones left protector long time ago for shrines... it here still, but it not know something wrong til shrines messed with.$B$BPuppy-men down there have bad crystals for making trouble... bring a bad crystal to Lightning Shrine so Soo-holu know to help.$B$BDon't be scared if Soo-holu take your body... he very powerful, so he keep you safe.",
+  "p": "Thank you for help dryskin. You very good to us.",
+  "c": "Soo-holu strong, huh? I very glad he accept you to share his body for fight.$b$bHe more trusting of people he met before, so maybe come back another time to help more, yes?"
+ },
+ {
+  "id": 12706,
+  "t": "Victory At Death's Breach!",
+  "o": "Deliver Prince Valanar's Report to Highlord Darion Mograine in Acherus: The Ebon Hold.",
+  "d": "<Prince Valanar hands you a sealed scroll.>$B$BThis is the full report of our victory at Death's Breach. You are to deliver this to Highlord Mograine - inside Acherus. I have made sure to include your heroics in the report. Mograine will undoubtedly reward you greatly for this victory, $N.$B$BGo now!",
+  "p": "I was certain you wouldn't make it back here in one piece, death knight. Perhaps there is more to you than I first surmised.",
+  "c": "<Highlord Mograine reads over the report.>$B$BThe ENTIRE Scarlet fleet?$B$B<Highlord Mograine nods.>$B$BSuch power, $N... I have not seen such a display of domination in years... Since my father wielded...$B$B<Highlord Mograine shakes his head.>$B$BIt's not important...$B$BYes, your commendation, lest I forget."
+ },
+ {
+  "id": 12707,
+  "t": "Wooly Justice",
+  "o": "Scalper Ahunae at Zim'Torga wants you to use the Medallion of Mam'toth to calm and ride an Enraged Mammoth. You are then to trample 12 Mam'toth Disciples to death.",
+  "d": "Ahunae hear about your trip to Mam'toth Crater, mon. The children of Mam'toth are enraged and cry out for justice!$B$BFollow the avenue northeast up the steps to the next tier of Zul'Drak. On your right you will find what's left of the Altar of Mam'toth.$B$BWhen you get there, flash this Medallion of Mam'toth in front of the eyes of one of the enraged mammoths. It'll calm down for a little while, letting you hop on its back.$B$BRide it around, trampling all of the Mam'toth disciples that you can find!",
+  "p": "What? You done already?$B$BDid you enact wooly justice upon those sorry ice trolls?",
+  "c": "Score one for the victims, mon!"
+ },
+ {
+  "id": 12708,
+  "t": "Enchanted Tiki Warriors",
+  "o": "Element-Tamer Dagoda at Zim'Torga has asked you to destroy 12 Enchanted Tiki Warriors.",
+  "d": "I know that you're headed up to the Zol'Maz Stronghold to the northeast, $c. While you're there, I need you to deal with the warlord's special guardians.$B$BThe enchanted tiki warriors, as they're called, represent a very real threat. If the Drakkari were to mass produce them, we'd quickly be overrun.$B$BLet's you and I demonstrate that they're not worth the effort to create, shall we?",
+  "p": "Surely you couldn't have dealt with all of the enchanted tiki warriors so quickly?",
+  "c": "That should make them think twice about making more of those things. I shudder to think what it would be like to have to fight an army of those things.$b$b<The element-tamer is thoughtful for a moment.>$b$bI guess it would be just like fighting the endless waves of the Scourge."
+ },
+ {
+  "id": 12709,
+  "t": "Hexed Caches",
+  "o": "Chronicler To'kini at Zim'Torga has asked you to acquire 12 Zol'Maz Stronghold Caches.",
+  "d": "Pardon me, $N. I'm given to understand that you might be heading northeast up to the Zol'Maz Stronghold. Such a trip presents a great opportunity for us to conclude our Drakkari goods gathering.$B$BAs I have come to know, the Drakkari warlord is extremely paranoid. He's had all of his caches at the stronghold hexed with dire magic. Rumor has it that his tiki warriors carry the cure, but who can say?$B$BIf you could find the time to acquire some of those goods, I would be most appreciative.",
+  "p": "Perhaps you carry the caches within your pack even as we speak?",
+  "c": "Just look at all of that!$b$bSee here, $N. This piece you recovered vividly illustrates that the Drakkari became aware of the weakening of the land that the Scourge caused by their presence.$b$bThe warlord felt compelled to take the opportunity this presented. He pushed the prophets to kill their gods in an effort to control the power and fight back against the Lich King's forces.$b$bEither way they were doomed. They inadvertently chose to be the instrument of their own destruction!"
+ },
+ {
+  "id": 12710,
+  "t": "Disclosure",
+  "o": "Drakuru in Voltarus wants you to take the teleporter to his upper chamber.",
+  "d": "Ya doin' well, $n.$b$bYou be provin' dat I got an eye for talent! Now ya see why da Lich King gave me his blessing....$b$bDa time has come for me to reveal my master plan to ya, mon.$b$bNow you be seein' how we gunna sweep through da swarms of Drakkari trolls to take our rightful place in da great palace of Gundrak.$b$bTake dis scepter, mon. It be a token of my trust in ya. With it, you be able ta access my upper chamber and witness for yourself our secret weapons.",
+  "p": "Have ya gone ta witness my creations, $N?",
+  "c": "So, there ya have it, mon.$b$bWe be makin' da ultimate scourge army ta serve da Lich King. He gunna be most pleased!$b$bYou keep da scepter, $N. You gunna be needin' it ta command my army in battle....$b$bSoon!"
+ },
+ {
+  "id": 12711,
+  "t": "Abandoned Mail",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Atop the mailbox are several illegible letters and scrolls. Useless...$B$BPerhaps you should check inside?"
+ },
+ {
+  "id": 12712,
+  "t": "The Key of Warlord Zol'Maz",
+  "o": "Har'koa at Zim'Torga has asked you to acquire the Key of Warlord Zol'Maz.",
+  "d": "$N, we need a key to unlock the chains of the rhino god, Akali. Even now he is being prepared for the slaughter.$B$BThe Drakkari warlord, Zol'Maz, carries the key. Hearing of your exploits, he has secluded himself and his family at their stronghold up the steps to the northeast.$B$BThe warlord is strong and you will need help. If you were to combine the tiki, sword and incantation of his family members, you would be able to summon such help as you challenge him before his home's gate.",
+  "p": "I cannot stress how important it is that you acquire the warlord's key no matter the cost.",
+  "c": "It might have been better if I hadn't asked you to bring it back here instead of heading directly to Gundrak.$b$bHowever, I think that it's best that you hear what else I have to say first."
+ },
+ {
+  "id": 12713,
+  "t": "Betrayal",
+  "o": "Stefan in Ebon Watch wants you to defeat Drakuru.$b$bIf you lose your Ensorcelled Choker, return to Stefan at Ebon Watch to get another.",
+  "d": "The time has come to end this charade, $n.$b$bAs valuable as your information has been, we must bring Drakuru down and bring his project to an end before his freaks are unleashed.$b$bWe've modified your scepter for the job. When the time is right, you will be able to use it on Drakuru's Blightbloods and turn them against him. It's your only hope of defeating him.$b$bFight well.",
+  "p": "Have you faced Drakuru in battle, $n?",
+  "c": "So, it is done.$b$bWe still have much to do, but our work here will be much more manageable thanks to your efforts.$b$bPlease accept this as a token of our gratitude."
+ },
+ {
+  "id": 12714,
+  "t": "The Will Of The Lich King",
+  "o": "Return to Death's Breach and report to Prince Valanar.",
+  "d": "It is the will of the Lich King that drives us onward, $N. None are more aware of this than death knights. Our very existence is intrinsically tied to his consciousness. Surely you have heard him speak to you - invading your thoughts...$B$BCan you hear him now? Perhaps it is too early for you.$B$B<Mograine closes his eyes and nods to an unseen host.>$B$BYes, my lord. It will be done.$B$B$N, you are to return to Death's Breach and report to Prince Valanar. The Lich King commands it!",
+  "p": "",
+  "c": "Havenshire is ours! A thousand corpses litter the ground, patiently awaiting rebirth. We strike now at our enemy with the awakened strength of the Scourge!$B$BThe ghouls have already begun their assault upon New Avalon. Our forces have moved in behind them and taken the Crypt of Remembrance."
+ },
+ {
+  "id": 12715,
+  "t": "The Crypt of Remembrance",
+  "o": "Report to Prince Keleseth at the Crypt of Remembrance.",
+  "d": "The attacks upon the gates of the last Scarlet bastion have begun. Our ghouls are wearing the Crusade's front lines down while we labor to fortify our new forward base, the Crypt of Remembrance.$B$BVenture south to the crypt, which borders New Avalon, and report to my dear brother, Prince Keleseth.$B$BHe will be expecting you.$B$BPrepare yourself, $N, for you are about to witness the next stage of Scourge warfare: DOMINATION!$B$BRide now, death knight!",
+  "p": "",
+  "c": "Hail, death knight. I am the blood lord, Keleseth, ruler of the southeastern reaches of Northrend. The Lich King has sought to utilize my talents in ending this mortal affront to the Scourge. As with all things the Lich King asks of me, I am happy to oblige. Of course, a sea of endless souls to sate my thirst certainly sweetened the deal, don't you think?\n"
+ },
+ {
+  "id": 12716,
+  "t": "The Plaguebringer's Request",
+  "o": "Noth the Plaguebringer has requested that you bring him 1 Empty Cauldron, 1 Iron Chain and 10 Crusader Skulls.",
+  "d": "Look at this pumpkin patch! Notice anything missing? Of course you don't, because you're a moron! Your brain was probably the first thing to die.$B$B<Noth sighs.>$B$BI have been commanded to put together a plague cauldron. You will help me.$B$BDirectly inside the gate of New Avalon is the inn. Enter the inn and steal an empty cauldron. Then go to the forge, also near the gate, and steal some iron chains. Bring those back to me along with 10 Crusader skulls. Do I need to tell you where to get those too?",
+  "p": "Have you gathered the materials I requested?",
+  "c": "Perfect! Now give me a moment to get things set up."
+ },
+ {
+  "id": 12717,
+  "t": "Noth's Special Brew",
+  "o": "Place the Pile of Crusader Skulls inside the Plague Cauldron.",
+  "d": "The cauldron is ready to begin spewing its foul corruption across the land!$B$BNow, death knight, a brief lesson in plague cauldrons. The gas that the cauldron emits is deadly to the living, but empowers Scourge. As with all Scourge creations, it feeds off of death and grows stronger the longer it feeds.$B$BTake these Crusader skulls and drop them in the cauldron. You will be quite happy with the results.",
+  "p": "The plague cauldron stands idle.",
+  "c": "The plague cauldron jumps to life when the skulls are placed inside.$B$BAfter a few seconds some vials of dark liquid float to the top."
+ },
+ {
+  "id": 12718,
+  "t": "More Skulls For Brew",
+  "o": "",
+  "d": "",
+  "p": "The plague cauldron bubbles and churns its toxic brew, spewing a thick gas all around.$B$BDo you have more Crusader skulls to place inside?",
+  "c": "The plague cauldron jumps to life when the skulls are placed inside.$B$BAfter a few seconds, the plague cauldron grants you the dark and frothy splendor of Noth's Special Brew."
+ },
+ {
+  "id": 12719,
+  "t": "Nowhere To Run And Nowhere To Hide",
+  "o": "Prince Keleseth at the Crypt of Remembrance has ordered you to kill Mayor Quimby and recover the New Avalon Registry. ",
+  "d": "Nothing less than total annihilation will suffice, $N. To that end, a few hundred mindless ghouls assaulting the front gate of New Avalon will not do. We must infiltrate the inner sanctum and dispose of their officials. They must be shown that no one can escape the Scourge's grasp!$B$BMake your way to the New Avalon Town Hall, southwest of here, and assassinate the mayor. Search the building for the New Avalon registry and bring it to me.",
+  "p": "There is nowhere to run!",
+  "c": "The registry will tell us many things about the Scarlet insects.$B$B<Keleseth flips through the pages of the registry.>$B$BDeath rates, births, but most importantly, movement.$B$BLook here, $N, they have already sent three vessels abroad. Let me see here... Where are they headed?$B$B<Keleseth mutters something about latitude and longitude under his breath as he calculates the route.>$B$BWHAT? This is impossible. They sail to Northrend!$B$BBeside the coordinates are the words: \"Crimson Dawn.\""
+ },
+ {
+  "id": 12720,
+  "t": "How To Win Friends And Influence Enemies",
+  "o": "Prince Keleseth at the Crypt of Remembrance has ordered you to discover the truth about the \"Crimson Dawn.\"$B$BRemove Keleseth's Persuaders from the Ornately Jeweled Box and use them to \"persuade\" the Scarlet Crusade into talking.",
+  "d": "In my travels across this world I have made several interesting discoveries. For instance, did you know that with the proper amount of encouragement one can extract all the truths that a man dares hide? As luck would have it, I happen to have some encouragement on hand.$B$B<Keleseth pulls something out of an ornately jeweled box.>$B$BThese are my \"persuaders.\" Equip them and take to the field, death knight. Apply the pointy ends to the soldiers of New Avalon. Discover the truth about this \"Crimson Dawn.\"",
+  "p": "Use the persuaders on Scarlet Crusaders. One of them will eventually... crack.",
+  "c": "An awakening? What nonsense do you speak, $g boy:girl;! What kind of fool would deliver their people into the very heart of the frozen wastes? Perhaps, though, this courier holds the answer."
+ },
+ {
+  "id": 12721,
+  "t": "Rampage",
+  "o": "Har'koa at Zim'Torga has asked you to free Akali and then to inform Witch Doctor Khufu at Zim'Torga.",
+  "d": "$N, there is no time left. You must take the key and use it to unlock Akali.$B$BHe is being held in the courtyard in front of Gundrak, the capital of Zul'Drak. Akali's chains are secured by four anchor points. You must unlock each of them to set the rhino god free.$B$BGundrak is teeming with ice trolls. However, I believe that if you're careful, you should be able to slip in without too much danger.$B$BOnce you're done, please inform the witch doctor.",
+  "p": "What happened?",
+  "c": "No!$b$bAnother god destroyed, its power stolen. And now the prophet of Akali has threatened us directly.$b$bWhen he comes, he will come for Har'koa. We cannot allow him to take her power too.$b$bWe must consult the gods once more, $N. They will tell us what must be done."
+ },
+ {
+  "id": 12722,
+  "t": "Lambs To The Slaughter",
+  "o": "Baron Rivendare at the Crypt of Remembrance has commanded you to slay 10 Scarlet Crusade Soldiers and 15 Citizens of New Avalon.",
+  "d": "Most humans would have fled the moment a Scourge necropolis took up residence in their air space. Not the Scarlet Crusade!$B$BI must confess - I rather enjoy our exchanges with the Crusade. Through the years, Scourge battles against them have resulted in several of the most tragic events in human history. Yet here we stand - AGAIN - locked in battle!$B$BWe shan't deny them the pleasures of eternal servitude to the Lich King! Enter New Avalon and fulfill their death wish. Leave no survivors.",
+  "p": "Like lambs to the slaughter...",
+  "c": "You are quite effective with that blade, $N. Perhaps, Lich King permitting, you would be interested in becoming one of my minions? Stratholme is looking for a new mayor."
+ },
+ {
+  "id": 12723,
+  "t": "Behind Scarlet Lines",
+  "o": "Report to Orbaz Bloodbane at the Scarlet Tavern in New Avalon.",
+  "d": "I have sent Orbaz, Thassarian and Koltira behind enemy lines to search for the courier. They have set up a base of operations at the Scarlet Tavern, located at the southern end of New Avalon. The tavern is tucked away behind the two orchards, adjacent to the Chapel of the Crimson Flame. You are to make your way to the tavern and report to Orbaz Bloodbane. He will update you on their situation.$B",
+  "p": "",
+  "c": "Looks like we'll let anyone into the dark order these days. When I was given the gift, things were different. Much different!$B$BAs to this courier..."
+ },
+ {
+  "id": 12724,
+  "t": "The Path Of The Righteous Crusader",
+  "o": "Orbaz Bloodbane at the Scarlet Tavern in New Avalon has ordered you to steal the New Avalon Patrol Schedule from the Scarlet Hold.",
+  "d": "We haven't got a damned clue about when or where this courier is supposed to show up. None of these humans had an answer either.$B$B<Orbaz points to the Scarlet corpses strewn across the floor.>$B$BI did manage to beat something useful out of the last one. Inside Scarlet Hold they keep a schedule of all patrol routes. I want you to break into the hold and steal the schedule.$B$BThe hold is the largest building in New Avalon - northeast of here. ",
+  "p": "Tear the hold apart! The schedule is there!",
+  "c": "<Orbaz flips through the schedule.>$B$BThese worthless cretins have been busy! Northern patrol routes, southern patrol routes, western patrol routes, eastern patrol routes, but nothing about their couriers' routes. Wait a minute. What's this? It looks like a western patrol route, coming out of Western Plaguelands? This patrol will path through here today! I'm going to need time to plan."
+ },
+ {
+  "id": 12725,
+  "t": "Brothers In Death",
+  "o": "Search for Koltira Deathweaver in the Scarlet Hold.",
+  "d": "Breaking through the Scarlet lines was no easy task. We suffered many casualties during the assault and lost one of our best death knights, Koltira Deathweaver. I don't know whether he's dead or alive, but I'll be damned if we don't search for him.$B$BI last saw him being bound in irons and dragged away to the Scarlet Hold, northeast of here. Tear that keep asunder, death knight. Find Koltira!",
+  "p": "",
+  "c": "You were foolish in coming after me. I failed. I should have been left for dead - now two of us might be killed.$B$B<Koltira shakes his head.>$B$BWe are death knights of the Scourge. This flies in the face of the dark brotherhood's covenants.$B$BThassarian, you blasted fool!"
+ },
+ {
+  "id": 12726,
+  "t": "Song of Wind and Water",
+  "o": "Soo-nee wants you to use the Tempest Drums at the Stormwright's Shelf and help Haiphoon devour 3 Storm Revenants and 3 Aqueous Spirits.",
+  "d": "Listen to storm, yes?  The Stormwright's Shelf echoes with ancient song.... the Song of Wind and Water.$B$BThe great tempest devours the sons of typhoons and storms.  Take this drum and play his song... play Haiphoon's song.$B$BHelp him feed on wind and water so tempest can continue. ",
+  "p": "",
+  "c": "I thank you, $N. The great tempest will look upon us favorably thanks to you."
+ },
+ {
+  "id": 12727,
+  "t": "Bloody Breakout",
+  "o": "Slay High Inquisitor Valroth and take Valroth's Head to Thassarian at the Scarlet Tavern in New Avalon.",
+  "d": "The alarms have been sounded. The High Inquisitor and his acolytes will be here soon. I'm too badly injured to be of much use, but I'll do what little I can to help.$B$BSlay the High Inquisitor and his cronies. Tear off his head and return with it to Thassarian. Vengeance will soothe his savage soul.$B$BOne more thing, $N. If you do manage to survive and make it back to Thassarian, tell him that they're executing prisoners at the chapel. Perhaps he'll send you there to play the hero once more.",
+  "p": "What of Koltira?",
+  "c": "I'll feed this monster's head to the ghouls!$B$B<Thassarian tosses the head into the back room.>$B$BDid Koltira make it out?$B$B<Thassarian pauses.>$B$BI'm certain he did. Those walls can't hold him.$B$BTime for some payback."
+ },
+ {
+  "id": 12728,
+  "t": "Monitoring the Rift: Winterfin Cavern",
+  "o": "Librarian Garren at Amber Ledge wants you to use the Arcanometer at Winterfin Caverns.",
+  "d": "I need to compile my notes and prepare a presentation for my colleagues in Dalaran.$b$bWhile I do, I must ask that you visit the Winterfin Cavern to the north. You must use the Arcanometer while standing in the mouth of the cavern.$b$bReturn to me at once when you have the data. My documentation will be incomplete without it.",
+  "p": "Have you collected the data from Winterfin Caverns yet, $N?",
+  "c": "Excellent, this completes my report.$b$bI'll be sure to mention your kindness to the council, $N."
+ },
+ {
+  "id": 12729,
+  "t": "The Gods Have Spoken",
+  "o": "Deliver the Unblemished Heart of the Guardian and the Gusty Essence of the Warden to Har'koa at Zim'Torga.",
+  "d": "The gods have spoken and we must heed their wisdom.$B$BGather friends to your side, $N. Take them north to Zim'Rhuk to destroy guardians there until they yield the unblemished heart. Take them east to the Altar of Quetz'lun and disrupt the altar wardens until you recover their gusty essence.$B$BDeliver both to Har'koa and she will combine them into that which will compel late Akali's prophet to appear.",
+  "p": "Do you have that which is required, $N?",
+  "c": "Your bravery seems boundless, $N.$B$BPlease hand me the heart and the essence, and I will fashion them into that which will compel the prophet to appear before you."
+ },
+ {
+  "id": 12730,
+  "t": "Convocation at Zol'Heb",
+  "o": "Har'koa at Zim'Torga has asked you to slay the Prophet of Akali.",
+  "d": "You and your friends must take this instrument of convocation - of summoning - to Zol'Heb just south of Gundrak.$B$BTherein you will find a circle of power. Use the convocation to force the prophet of Akali to appear.$B$BMy heart goes out to you, $N. We have been through much together, and you have done all that you can to not only save my life, but those of the other gods the Drakkari have destroyed.$B$BBut I fear this time we may not see each other again until the afterlife.",
+  "p": "I can only offer you the warmth of my words and the encouragement that comes with them.$B$BTake what time you need to steel and prepare yourself, but I implore you not to take too long or the prophet will surely descend upon us.",
+  "c": "You did it! $N, you are the champion of Zul'Drak!$B$BWe will never be able to repay the debt that we owe to you, but the Zandalari have given into my trust a number of objects they believe you might have an interest in.$B$BPlease, I want you to have a token of our appreciation, but hurry. I sense another issue of urgency!"
+ },
+ {
+  "id": 12732,
+  "t": "The Heartblood's Strength",
+  "o": "Bring a vial of Suntouched Heartblood to Rejek at Frenzyheart Hill.",
+  "d": "One day, Rejek will be mighty warrior. Blood and skyfire will make Rejek strong. You see soon.$B$BRejek give you vial, you take to very top of Suntouched Pillar, far to west. Put waters there in vial.$B$BThen go to north edge of basin, to ledge north of Bonefields. You find and kill goretalon matriarch. Take heartblood.$B$BYou combine heartblood and water, bring to Rejek. Rejek drink, make strong.",
+  "p": "You bring Rejek gift?",
+  "c": "Rejek thanks you. Rejek drink, grow strong, always remember mighty $N's gift."
+ },
+ {
+  "id": 12733,
+  "t": "Death's Challenge",
+  "o": "Olrun the Battlecaller has ordered you to win 5 duels against other death knights.$B$BYou may choose to battle death knight initiates or players.",
+  "d": "Born of the Lich King's victory over Illidan Stormrage in the heart of the frozen wastes, Death's Challenge is a rite of passage that all death knights must undergo.$B$BSeek out other death knights of Acherus and challenge them to a duel. They must accept and fight until a victor emerges!$B$BGo now, $N! Victory for the Scourge! Glory to the Lich King!$B",
+  "p": "Have you completed Death's Challenge?",
+  "c": "To the victor goes the glory, death knight! Well done! The Lich King looks favorably upon you on this day.\n"
+ },
+ {
+  "id": 12734,
+  "t": "Rejek: First Blood",
+  "o": "Blood Rejek's Blade on the corpses of a Sapphire Hive Wasp, a Hardknuckle Charger, and 3 members of the Mistwhisper Tribe. You may blood the sword on either Mistwhisper Oracles or Mistwhisper Warriors. Return to Rejek at Frenzyheart Hill when your task is complete.",
+  "d": "Rejek just became youngest warrior in all of Frenzyheart tribe. Father gave Rejek a mighty sword to defeat Frenzyheart enemies, but old tradition say sword need to be blooded first. Older warrior usually do that. You do this honor for Rejek?$B$BTake blade, put in corpses of all Frenzyheart foes: wasps and hardknuckles to southwest, and the big-tongues. Maybe blood blade on Mistwhispers, far to northwest near Bittertide Lake.",
+  "p": "You blood Rejek's blade?",
+  "c": "Rejek sees the stains of the blood of his enemies on the blade. Now Rejek has a mighty weapon for the mighty warrior he will be!"
+ },
+ {
+  "id": 12735,
+  "t": "A Cleansing Song",
+  "o": "Soo-nee, at the Rainspeaker Canopy, wants you to play the Cleansing Chime at Bittertide Lake, Wintergrasp River and River's Heart and slay the evil spirits that plague the waters there.",
+  "d": "Earth in Sholazar is pure.  The pillars have protected the land for centuries.$B$BWater, not as pure, it comes from outside Sholazar.... from oceans, from lakes, from rivers.  Water sometimes bring bad spirits - need to be cleansed.$B$BYou take this chime and play at Bittertide Lake, Wintergrasp River and River's Heart.  It make bad spirit angry... and then you must kill it.",
+  "p": "You play cleansing song yet, $N?",
+  "c": "Waters... cleansed. Yes. All is well.$b$bYou understand our way, $N."
+ },
+ {
+  "id": 12736,
+  "t": "Song of Reflection",
+  "o": "Soo-nee at Rainspeaker Canopy wants you to use the Didgeridoo of Contemplation at the top of the Glimmering Pillar, the Suntouched Pillar, the Mosslight Pillar and the Skyreach Pillar.",
+  "d": "Of course you not as smart as gorloc!  You just simple $r.$B$BYou not without hope, though!  You show you can learn.  Maybe crystals make you smart like crystals make us smart!$B$BI teach you to play song to clear your mind.  You play song by crystals then crystals make your mind better... not as good as gorloc's but better than you have now.  Lifeblood Pillar is broken, but other pillars still good!",
+  "p": "You feel smart yet, $r?",
+  "c": "You see? I can tell you smarter already. And if not smarter... then... happier!"
+ },
+ {
+  "id": 12737,
+  "t": "Song of Fecundity",
+  "o": "Soo-nee at Rainspeaker Canopy wants you to go to the Stormwright's Shelf, northwest of the Maker's Perch, and play the Horn of Fecundity near 8 piles Soaked Fertile Dirt.",
+  "d": "The storm is a destructive force.  Storm burns trees.  Storm floods houses.$B$BBut storm can also be life force if you know right song.  In Stormwright Shelf, above Maker's Perch, you can find small dirt mounds.  They very fertile -- they carry inside a strong seed.  All they wait for is the right song.$B$BYou take this horn and play song for them.",
+  "p": "",
+  "c": "You learn fast, $N. You learn that song well. Maybe next time I teach you different song."
+ },
+ {
+  "id": 12738,
+  "t": "A Cry For Vengeance!",
+  "o": "Report to Knight Commander Plaguefist at the Chapel of the Crimson Flame.",
+  "d": "The cry for vengeance must be heard, $N. Commander Plaguefist and a company of death knights are on their way to raze the Chapel of the Crimson Flame. If there are any death knights imprisoned at the chapel, Plaguefist will get them out.$B$BYou can still catch up to them if you hurry. The chapel is due west of here. ",
+  "p": "",
+  "c": "They're only flesh and bone - no match for the Scourge.$B$BWe didn't find any of our brothers, but we did stumble upon something special."
+ },
+ {
+  "id": 12739,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Malar Bravehorn, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty tauren in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12740,
+  "t": "Parachutes for the Argent Crusade",
+  "o": "Commander Falstaav at The Argent Stand has asked you to equip 10 Argent Crusaders or Argent Shieldmen out in the courtyard with parachutes.",
+  "d": "Those sky terrors are destroying my men and women! Dying from falling is a horrible way to go.$B$B$C, you have to get these parachutes out to them! At least then they'll have a fighting chance to survive.",
+  "p": "If you're back here talking to me why do I still see my people falling to their deaths?",
+  "c": "You're a good $g man : woman;, $N. We're fortunate that you happened to stop by.$B$BStick around a while. I'm sure that we have much that a capable $c such as yourself can do."
+ },
+ {
+  "id": 12741,
+  "t": "Strength of the Tempest",
+  "o": "Gather 3 Essences of the Monsoon and 3 Essences of the Storm and take them to the Shrine of the Tempest. Return to Rejek at Frenzyheart Hill with the True Power of the Tempest.",
+  "d": "Silly big-tongues think singing to the clouds give them power. Rejek show big-tongues how to get power by taking it!$B$BFar to northwest, there is large, flat area the big-tongues call 'Stormwright's Shelf.' Rejek is sure you can only get there by flying like bird.$B$BOn this shelf, Rejek has heard of mighty forces of wind and water. Kill them for their badness, then take it to the big-tongue 'Shrine of the Tempest' at shelf's western side. Rejek will await your return with ultimate power.",
+  "p": "You bring Rejek true power of elements?",
+  "c": "Now Rejek show cowardly big-tongues how to really use elements!"
+ },
+ {
+  "id": 12742,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Ellen Stanbridge, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty human in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12743,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Yazmina Oakenthorn, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty night elf in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12744,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Donovan Pulfrost, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty dwarf in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12745,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Goby Blastenheimer, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty gnome in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12746,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Valok the Righteous, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty draenei in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12747,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Lady Eonys, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty blood elf in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12748,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Kug Ironjaw, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty orc in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12749,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Iggy Darktusk, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty troll in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12750,
+  "t": "A Special Surprise",
+  "o": "Knight Commander Plaguefist at the Chapel of the Crimson Flame has ordered you to execute Antoine Brack, an Argent Dawn prisoner inside the nearby prison house.",
+  "d": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, $N. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.$B$BI was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty Forsaken in there that I think you'll take great pleasure in executing.",
+  "p": "How does it feel?",
+  "c": "Felt good, didn't it? You're not one of them anymore, $N. You're Scourge. You're one of us. Forever... "
+ },
+ {
+  "id": 12751,
+  "t": "A Sort Of Homecoming",
+  "o": "Return to Thassarian at the Scarlet Tavern in New Avalon with news of your victory.",
+  "d": "Return to Thassarian at the Scarlet Tavern and let him know that Koltira's cry for vengeance has been answered. The Chapel of the Crimson Flame will be a pile of ashes in a matter of hours.$B$BYou're one cold-blooded monster, $N. I salute you, $g brother:sister;.",
+  "p": "",
+  "c": "Another Scourge victory! These Scarlet dogs have nowhere left to run and hide. It's only a matter of time now..."
+ },
+ {
+  "id": 12752,
+  "t": "Desperate Research",
+  "o": "Speak with Grand Apothecary Putress in the new apothecary camp at the Terrace of Light in Shattrath.",
+  "d": "$n, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.$B$BTo aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.$B$BBe swift, $n.  Each moment passed is another innocent life lost.",
+  "p": "",
+  "c": "Greetings, $gbrother:sister;. You may have come on behalf of the Argent Dawn, but that is not why you are here -- you are here to help your people earn the respect we so justly deserve. As any forsaken will agree, the end justifies the means, and our research into the zombie plague's cure is that proverb in practice..."
+ },
+ {
+  "id": 12753,
+  "t": "A Desperate Alliance",
+  "o": "Speak with Bishop Lazaril in the new Alliance camp at the Terrace of Light in Shattrath.",
+  "d": "Good $n, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.$B$BIn Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.$B$BLight speed, $n.",
+  "p": "",
+  "c": "$gBrother:Sister; $r, I am proud to stand with you during our days of need. Bless you, and may the alliance between $r and human last a thousand years."
+ },
+ {
+  "id": 12754,
+  "t": "Ambush At The Overlook",
+  "o": "Orbaz Bloodbane at the Scarlet Tavern in New Avalon has ordered you to kill the Scarlet Courier and retrieve the Scarlet Courier's Belongings and the Scarlet Courier's Message.",
+  "d": "While you were out burning churches and murdering vermin, I've been busy formulating a plan.$B$BThe Scarlet courier is scheduled to pass by the Scarlet Overlook within the hour. The roads by the overlook are wide open and swarming with Crusaders. Use this makeshift cover to hide at the overlook and wait for the Scarlet Courier to pass. When he's close enough, strike with all your fury! Cut him down and take his belongings - including his clothes!$B$BThe overlook is 200 paces east of here.",
+  "p": "You're going to miss the courier and then I'm going to be forced to kill you. By forced I mean I will take great pleasure in ending your life.$B$BHURRY UP!",
+  "c": "<Orbaz reads the message.>$B$BThe armies of Hearthglen and Tirisfal will be marching into a massacre.$B$B<Orbaz smiles.>$B$BNow for the second part of the plan. You're going to deliver this message right into the hands of High General Abbendis. That's what the clothes are for..."
+ },
+ {
+  "id": 12755,
+  "t": "A Meeting With Fate",
+  "o": "Orbaz Bloodbane has commanded you to deliver the Scarlet Courier's Message to High General Abbendis at King's Harbor.",
+  "d": "This message must reach Abbendis. We do not want to draw their suspicion. They must continue under the assumption that everything is going as they planned.$B$BYou will don the Scarlet courier's clothes and with the help of some dark magic, take on the form of the courier.$B$BAbbendis is at King's Harbor, southeast of the Scarlet Overlook. Drop off the message and get as much information out of her as you can. She will tell us what we need to know about the \"Crimson Dawn.\"",
+  "p": "Where have you been? You are two hours late. We were about to send a courier out to the High Commander.",
+  "c": "<High General Abbendis reads the message.>$B$BDamn it! The armies of Hearthglen and Tirisfal must not reach New Avalon! The Scourge will slaughter them all."
+ },
+ {
+  "id": 12756,
+  "t": "The Scarlet Onslaught Emerges",
+  "o": "Deliver The Path of Redemption to Orbaz Bloodbane at the Scarlet Tavern in New Avalon.",
+  "d": "Listen well, courier. The Scarlet lands are lost. New Avalon and Havenshire are overrun by Scourge. The specter of death looms overhead and threatens to overtake us at any moment.$B$BReturn to Galvar with this message:$B$B\"Turn your armies around and prepare your ships for travel to the frozen wastes. When next we meet it will be in Northrend.\"$B$BGive this to Galvar.$B$B<Abbendis hands you a journal.>$B$BIt will explain everything.$B$BThe Scarlet Crusade is no more. Long live the Scarlet Onslaught!",
+  "p": "<Orbaz laughs.>$B$BWhat is this? Some child's coloring book?",
+  "c": "<Orbaz flips through the journal.>$B$BWhat rubbish! This is the \"Crimson Dawn?\"$B$BThey sail to their deaths! Let us turn our focus to the encroaching armies."
+ },
+ {
+  "id": 12757,
+  "t": "Scarlet Armies Approach...",
+  "o": "Deliver The Path of Redemption to Highlord Darion Mograine at Acherus: The Ebon Hold. ",
+  "d": "We must prepare for the encroaching armies, $N. You will take what you have discovered to Highlord Mograine at once! I will open a portal directly to Acherus. Step inside and it will transport you.$B$BGive Highlord Mograine Abbendis' journal as well. Perhaps he'll find it useful.$B",
+  "p": "You did what?",
+  "c": "You have become an instrument of doom, death knight! We will ravage these approaching armies and raise the dead as our own!"
+ },
+ {
+  "id": 12758,
+  "t": "A Hero's Headgear",
+  "o": "Get Venture Co. Explosives from any of the Venture Company units at Swindlegrin's Dig and use them to obtain a Stormwatcher's Head. Bring the Stomwatcher's Head to Rejek at Frenzyheart Hill.",
+  "d": "Rejek hears tales of giant metal men on faraway Stormwright's Shelf. Far to northwest, outside basin's lip, you will find it.$B$BImagine Rejek using heads of giant metal men as helmet. Make Rejek unstoppable! Make Rejek mighty!$B$BYou get for Rejek, but metal head might not come off metal body easy. Maybe steal bombs from little green men and their friends at Swindlegrin's Dig near Suntouched Pillar? Use bombs to get head off metal body, then bring to Rejek.",
+  "p": "You bring Rejek's new helmet?",
+  "c": "Rejek sees you were successful! Now Rejek try on new war helmet."
+ },
+ {
+  "id": 12759,
+  "t": "Tools of War",
+  "o": "Retrieve some of Zepik's traps from his stash in Kartak's Hold.  Using the traps, slaughter 50 of the nearby Sparktouched Gorlocs, and then return to Shaman Jakjek in Kartak's Hold.",
+  "d": "Zepik tell me that you maybe the best gorloc hunter he met... other than Zepik. Still big battle to southwest - you go help.$B$BZepik keeps some of biggest, baddest traps in his stash at Kartak's Hold... told Vekgar to use them for battle, so you use them too. Go pick out any traps you want and kill lots of big-tongues.$B$BLots and lots!",
+  "p": "Kind of messy! But still so fun.",
+  "c": "You almost as good with those traps as Zepik!"
+ },
+ {
+  "id": 12760,
+  "t": "Secret Strength of the Frenzyheart",
+  "o": "Using the secret Frenzyheart drink, slaughter 30 of the Sparktouched Gorlocs around Kartak's Hold.",
+  "d": "Battle still going at Kartak hold... I think it time for you to learn big secret of Frenzyheart.$B$BWe have berries we keep from other lands we came from... they not so special on their own, but mix them with drunk drinks and they make Frenzyheart super strong. You a Frenzyheart now... it time you get to be strong too.$B$BI give some drink, then you be super strong and you go smash all the spark big-tongues.",
+  "p": "Vekgar teach you super secret, eh? Only strongest Frenzyheart get to know secret.",
+  "c": "You a fierce fighter... come back for more battle soon. Never enough good battle!"
+ },
+ {
+  "id": 12761,
+  "t": "Mastery of the Crystals",
+  "o": "Retrieve the crystal defenses at Sparktouched Haven and use them to kill 50 of the nearby Frenzyheart wolvar. When these tasks are complete, return to Lightningcaller Soo-met in Sparktouched Haven.",
+  "d": "Sparktouched are still being attacked by puppy-men... we think they maybe not stop if we not make them stop. We have secret weapon though... we sent it out to Soo-met so he can use to protect all Oracles.$B$BSecret weapon is from Great Ones themselves... extra shiny crystals found inside sacred Great One temples. Be very careful... no break them.$B$BCrystals are in chest near shrine at Sparktouched Haven, in far southwest. You go use crystals to help Soo-met beat the puppy-men.",
+  "p": "Very powerful. Puppy-men not know about power of Great Ones. Dumb puppy-men.",
+  "c": "Thank you, dryskin.$b$bI hold onto these crystals here to keep us safe. Maybe you come back soon and help us more."
+ },
+ {
+  "id": 12762,
+  "t": "Power of the Great Ones",
+  "o": "Charge the Dormant Polished Crystal at the exposed Lifeblood Pillar. Travel to Sparktouched Haven and use the power the crystal bestows to slaughter 30 of the nearby Frenzyheart wolvar, and then speak to Lightningcaller Soo-met in Sparktouched Haven.",
+  "d": "We need to do something to stop puppy-men attacking Sparktouched Haven. Jaloot brought me very special crystal that he found in River's Heart... we seen only one like it before.$B$BThe crystal not have power now, but the opened up lifeblood pillar should have energy to recharge it if you just bring it close. Once the crystal is charged, go to Sparktouched Haven in far southwest and let the crystal's energy make you big and strong.$B$BThen it time to kick some puppy-men butt.",
+  "p": "Good to have you here to help us. Long fight.",
+  "c": "So much energy in you... you full of the power of the Great Ones!$b$b I not lie, I little bit jealous."
+ },
+ {
+  "id": 12763,
+  "t": "Shifting Priorities",
+  "o": "Scout Vor'takh wants you to travel to Zul'Drak and report to Sergeant Riannah at Light's Breach.$b$bMakki Wintergale in Camp Onequah will provide you transportation.",
+  "d": "As pressing as our needs are here, there's news from the lands to the north that cannot be ignored.$b$bI've just received a message from the Argent Crusade. It seems that scourge forces are gathering there and are threatening to overrun Zul'drak.$b$bNeedless to say, $n, if that were to happen our struggle here would be meaningless. You must go there and aid the Crusaders in beating back the Lich King's armies.$b$bSpeak to Makki when you are ready to travel.",
+  "p": "",
+  "c": "The Light shall prevail!"
+ },
+ {
+  "id": 12766,
+  "t": "Speak with your Ambassador",
+  "o": "Speak with Lauriel Trueblade at Wyrmrest Temple.",
+  "d": "<The dragon in elf form takes your letter of introduction, perusing it for a moment and then stashing it away within his sleeve.>$B$BEverything seems to be in order. However, if you don't mind, I would ask that you speak with your ambassador here at the temple.$B$BShe has something of great import for you that needs taking care of before we send you up to the queen.$B$B<He pats at the letter under his sleeve.>$B$BI'll keep this safe for you until your return.",
+  "p": "",
+  "c": "You must be $N. I was told you'd be coming.$B$BI have something that I think you're uniquely qualified to take care of and by doing it, you'll be ingratiating yourself with the dragons here."
+ },
+ {
+  "id": 12767,
+  "t": "Speak with your Ambassador",
+  "o": "Speak with Golluck Rockfist at Wyrmrest Temple.",
+  "d": "<The dragon in elf form takes your letter of introduction, perusing it for a moment and then stashing it away within his sleeve.>$B$BEverything seems to be in order. However, if you don't mind, I would ask that you speak with your ambassador here at the temple.$B$BHe has something of great import for you that needs taking care of before we send you up to the queen.$B$B<He pats at the letter under his sleeve.>$B$BI'll keep this safe for you until your return.",
+  "p": "",
+  "c": "You must be $N. I was told you'd be coming.$b$b$b$bI have something that I want you to take care of. If you do, you'll prove yourself to the dragons here."
+ },
+ {
+  "id": 12768,
+  "t": "The Steward of Wyrmrest Temple",
+  "o": "Speak with Tariolstrasz at Wyrmrest Temple.",
+  "d": "You've proved that you're to be trusted and more.$B$BYou should return to Wyrmrest Temple and speak with the steward, Tariolstrasz, once more, $N.",
+  "p": "",
+  "c": "Back so soon, $N?$B$BCeristrasz sent word ahead of you. Thank you for what you did at the Ruby Dragonshrine."
+ },
+ {
+  "id": 12769,
+  "t": "The Steward of Wyrmrest Temple",
+  "o": "Speak with Tariolstrasz at Wyrmrest Temple.",
+  "d": "You've proved that you're to be trusted and more.$B$BYou should return to Wyrmrest Temple and speak with the steward, Tariolstrasz, once more, $N.",
+  "p": "",
+  "c": "Back so soon, $N?$b$bVargastrasz sent word ahead of you. Thank you for what you did at the Ruby Dragonshrine."
+ },
+ {
+  "id": 12770,
+  "t": "Reallocating Resources",
+  "o": "Gryan Stoutmantle wants you to report to Sergeant Riannah at Light's Breach in Zul'Drak.$b$bYou may speak to Samuel Clearbook for transportation to Light's Breach.",
+  "d": "Listen up, $c!$b$bYour days here are numbered. As much as we need capable $cs in our ranks, there's trouble up north that makes our problems look like a mid-summer Stormwind parade.$b$bTurns out the Scourge are concentrating their efforts - making a big push to take over Zul'Drak. If that happens, we may as well pack it in.$b$bYou're free to finish any business here, but then it's off to Light's Breach with you. Speak to Samuel if you need transportation.$b$bDismissed.",
+  "p": "",
+  "c": "The Light shall prevail!"
+ },
+ {
+  "id": 12771,
+  "t": "Ironforge",
+  "o": "Bishop Lazaril wants you to bring the Light-infused Artifact to King Magni Bronzebeard in Ironforge.",
+  "d": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.$B$BTake this, $n.  Guard it close, and secure its passage to Ironforge.  Magni Bronzebeard is eager to take the fight to Northrend, and this will bring him closer to his goal.",
+  "p": "Hello, $n. A stouter $r I never did see! The trials of Outland have made you tough, brother. You do your race proud!",
+  "c": "By my beard! This holds a power to rival a fleet of our flying machines! I'll give it to my war priests and we'll devise a plan to send those vile necropolises scurrying back to Northrend... and we'll be right behind them!$b$bOh, Muradin my brother, you must live! By the honor of the Bronzebeards, I will find you!"
+ },
+ {
+  "id": 12772,
+  "t": "A Desperate Alliance",
+  "o": "Speak with Bishop Lazaril in the new Alliance camp at the Terrace of Light in Shattrath.",
+  "d": "Good $n, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.$B$BIn Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.$B$BLight speed, $n.",
+  "p": "",
+  "c": "$N, honorable $r, welcome. May the Light shine upon you, and may your ancient wisdom ward our land in its time of need."
+ },
+ {
+  "id": 12773,
+  "t": "Darnassus",
+  "o": "Bishop Lazaril wants you to bring the Light-infused Artifact to Tyrande Whisperwind in Darnassus.",
+  "d": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.$B$BTake this, $n.  Guard it close, and secure its passage to Darnassus.  Deliver it to Tyrande Whisperwind -- her priests will find it a vital source of power in their fight against the unholy forces from the North.",
+  "p": "$n, my son. Once again we are pulled into a conflict that may sunder all we know. It is good to have a $c of your talents lend his strength to this world tree's defense.",
+  "c": "What is this? What a boon! They have captured such Light into this artifact, it shines nigh bright as the moon! Our priests will channel this power against our foes, and the Lich King's invasion will surely fail. Thank you, $N. Our world tree will be safe.$b$bWhat's more, we have sensed that perhaps another world tree grows far to the north, nestled hidden near the Lich King's own domain. Perhaps someday... we will shepherd both trees and herald a new era of peace."
+ },
+ {
+  "id": 12774,
+  "t": "Stormwind",
+  "o": "Bishop Lazaril wants you to bring the Light-infused Artifact to King Varian Wrynn in Stormwind.",
+  "d": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.$B$BTake this, $n.  Guard it close, and secure its passage to Stormwind.  The King of Stormwind has recently returned; I'm sure he will welcome this tool.",
+  "p": "$n, it's good to see you. Your strength and skills are a boon during this time of tribulations.",
+  "c": "So, the holy folk in Shattrath created what they promised! In hindsight, diverting so many priests and paladins there, instead of sending them against the Scourge, was the right move. With this holy weapon, we can beat back that damned Lich King and his minions!$b$bI commend you, Lord $N."
+ },
+ {
+  "id": 12775,
+  "t": "A Desperate Alliance",
+  "o": "Speak with Bishop Lazaril in the new Alliance camp at the Terrace of Light in Shattrath.",
+  "d": "Good $n, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.$B$BIn Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.$B$BLight speed, $n.",
+  "p": "",
+  "c": "$gBrother:Sister;, we are called again to fight against the Scourge. It is good you are here; with your strength, and the power of the Light, we may yet prevail."
+ },
+ {
+  "id": 12776,
+  "t": "The Exodar",
+  "o": "Bishop Lazaril wants you to deliver the Light-infused Artifact to Velen in the Exodar.",
+  "d": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.$B$BTake this, $n.  Guard it close, and secure its passage to the Exodar.  Deliver it to Prophet Velen in the Vault of Lights so that he may use its powers against the unholy forces from the North.",
+  "p": "My son, the lands of the humans and orcs have treated you well. Such strength now swells within you...",
+  "c": "Ah, I can see the power of the Naaru shine through this thing, as if Light itself is housed here. Such good can be done with this implement; the necropolises sent from the frozen wastes of the north will surely fail."
+ },
+ {
+  "id": 12777,
+  "t": "A Desperate Alliance",
+  "o": "Speak with Bishop Lazaril in the new Alliance camp at the Terrace of Light in Shattrath.",
+  "d": "Good $n, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.$B$BIn Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.$B$BLight speed, $n.",
+  "p": "",
+  "c": "My heart swells with Light to see you, a noble $r, come to our aid. Bless you, good $c!"
+ },
+ {
+  "id": 12778,
+  "t": "The Scarlet Apocalypse",
+  "o": "Seek out the Lich King at Death's Breach.",
+  "d": "The trap has been sprung, death knight. The armies of Hearthglen and Tirisfal have arrived, just in time to see their enclave in flames! If they turn back now, they fight us with their backs turned.$B$B<Mograine shakes his head.>$B$BNo, they have only one option, which has only one outcome: APOCALYPSE!$B$BAs we speak, they prepare to make one final stand.$B$BThe Lich King awaits your return, champion. He stands watch below us, at Death's Breach.",
+  "p": "",
+  "c": "You have served me well, $N. The mark of the Scourge has been burned into these Scarlet lands. You have reaped death and destruction for as far as the eye can see and delivered to me the last of the Scarlet armies.$B$B<The Lich King points to the ruins of Havenshire and the burning city of New Avalon.>$B$BIt is now time to finish what you started."
+ },
+ {
+  "id": 12779,
+  "t": "An End To All Things...",
+  "o": "The Lich King has commanded you to eradicate the Scarlet Crusade.$B$BUse the Horn of the Frostbrood to call forth a Frostbrood Vanquisher and with it slay 150 Scarlet Soldiers and destroy 10 Scarlet Ballistas. Avoid incoming projectiles by moving out of their line of fire!",
+  "d": "You have slaughtered legions beyond number and still your dark heart craves more. Your hunger knows no end, $N.$B$B<The Lich King pauses.>$B$BThere must come an end to all things, death knight. The Scarlet armies make their final stand against us. For them, there is no escape... no choice. And for this reason they will fight with a ferocity that you have yet to witness.$B$BUse this horn to call forth one of my wyrms. Climb upon its back and command it into battle. With it you will end the Scarlet Crusade.",
+  "p": "Kill them all...",
+  "c": "Kneel, champion. I place this helm upon your head to complete your terrifying visage. Any that dare look upon your dark countenance will know that death comes. Let none stand so boldly against your king so as to face your merciless wrath, $N.$B$BThere remains only one final task...$B$B<The Lich King looks west.>$B$BLight's Hope Chapel."
+ },
+ {
+  "id": 12780,
+  "t": "DEPRICATED>>Enemy of Our Enemy",
+  "o": "Sergeant Riannah in Light's Breach wants you to speak with Stefan in Ebon Watch and offer your assistance.",
+  "d": "As much as we find working with death knights distasteful, we cannot afford to be picky about our allies here.$b$bWe're pinched between the Scourge and the savage Drakkari, who want nothing more than to destroy us so that they can get at one another.$b$bTravel west to Ebon Watch. Speak with Stefan and see if you can be of service to him.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 12781,
+  "t": "Welcome!",
+  "o": "Bring the Ebon Hold Gift Voucher to Siouxsie the Banshee in Ebon Hold.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Siouxsie the Banshee in Ebon Hold.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!$B",
+  "p": "I see you have a special voucher. Give it to me and I will offer you something in exchange.",
+  "c": "We welcome you to the world of Azeroth, and offer you one of these unique gifts."
+ },
+ {
+  "id": 12782,
+  "t": "Desperate Research",
+  "o": "Speak with Grand Apothecary Putress in the new apothecary camp at the Terrace of Light in Shattrath.",
+  "d": "$n, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.$B$BTo aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.$B$BBe swift, $n.  Each moment passed is another innocent life lost.",
+  "p": "",
+  "c": "What a fine specimen you are. We have many experiments to perform and our stable of volunteers is nearly bankrupt. So, elf, as your race's self-proclaimed name implies... Do you have blood to spare? Fresh blood is welcome blood indeed..."
+ },
+ {
+  "id": 12783,
+  "t": "Desperate Research",
+  "o": "Speak with Grand Apothecary Putress in the new apothecary camp at the Terrace of Light in Shattrath.",
+  "d": "$n, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.$B$BTo aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.$B$BBe swift, $n.  Each moment passed is another innocent life lost.",
+  "p": "",
+  "c": "What a fine, robust specimen you are. We have many experiments to perform and our stable of volunteers is nearly bankrupt. Fresh blood is welcome blood indeed, and the rage in your blood could fuel hours of research."
+ },
+ {
+  "id": 12784,
+  "t": "Desperate Research",
+  "o": "Speak with Grand Apothecary Putress in the new apothecary camp at the Terrace of Light in Shattrath.",
+  "d": "$n, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.$B$BTo aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.$B$BBe swift, $n.  Each moment passed is another innocent life lost.",
+  "p": "",
+  "c": "What a fine, robust specimen you are. We have many experiments to perform and our stable of volunteers is nearly bankrupt. Fresh blood is welcome blood indeed, and I'm sure someone of your stature has blood to spare..."
+ },
+ {
+  "id": 12785,
+  "t": "Orgrimmar",
+  "o": "Grand Apothecary Putress wants you to give the Dual-plagued Brain to Apothecary Karlov in Orgrimmar.",
+  "d": "We have a breakthrough!  Our zombie specimens have given us new insight into the nature of the Scourge's plague.  They have born rotten, delicious fruit...$B$BTake this box to Orgrimmar.  Inside is a head that is infected with the zombie plague, and something else we have devised -- an anti-plague.  The two plagues battle within the zombie brain, and that brain is the key to a cure, I am certain of it.$B$BBring the box to my assistant, Apothecary Karlov.  He attends Warchief Thrall in Orgrimmar.",
+  "p": "Welcome to Orgrimmar, $n. Grand Apothecary Putress sent word ahead of you... do you have the infected brain?",
+  "c": "Ah, very good. The diseases this rotted head carries are deadly, but we must not shy from danger or from what we find distasteful. Some day, $N, you will learn that damnation is the path to salvation..."
+ },
+ {
+  "id": 12786,
+  "t": "Thunder Bluff",
+  "o": "Grand Apothecary Putress wants you to give the Dual-plagued Brain to Apothecary Chaney in Thunder Bluff.",
+  "d": "We have a breakthrough!  Our zombie specimens have given new insight into the nature of the Scourge's plague.  They have born rotten, delicious fruit...$B$BTake this box to Thunder Bluff.  Inside is a head that is infected with the zombie plague, and something else we have devised -- an anti-plague.  The two plagues battle within the zombie brain, and that brain is the key to a cure, I am certain of it.$B$BBring the box to my assistant, Apothecary Chaney.  He attends Magatha Grimtotem in Thunder Bluff.",
+  "p": "Welcome to Thunder Bluff, $n. Grand Apothecary Putress sent word ahead of you... do you have the infected brain?",
+  "c": "Ah, very good. The diseases this rotted head carries are deadly, but we must not shy from danger or from what we find distasteful. Some day, $N, you will learn that damnation is the path to salvation..."
+ },
+ {
+  "id": 12787,
+  "t": "The Undercity",
+  "o": "Grand Apothecary Putress wants you to give the Dual-plagued Brain to Master Apothecary Faranell in the Undercity.",
+  "d": "The zombie plague was a blessing in disguise.  In our search for a cure, we have learned so much of the Scourge and their contagion.  Our research has given us weapons against them.  Weapons, and tools...$B$BTake this -- it is a zombie's head and has been partially cured of its plague by injecting it with a compound derived from our recent discoveries.  Deliver the head to Master Apothecary Faranell; I have a list of experiments I would like him to perform on it.",
+  "p": "Salutations, $n. You come from Shattrath? You have instructions from Grand Apothecary Putress?",
+  "c": "Ah, what a fine specimen you are. The disease, -- diseases -- dancing through your brain must offer you visions so sublime. We will spend long nights in conversation, you and I, and I will pick from you your thoughts as I slowly extract the meat from your skull.$b$bDo not fear, little one. The knowledge gained from your sacrifice will be awesome. You are a gift to the forsaken; you will herald a new age of respect for us among the peoples of this world. Your place in our history is assured..."
+ },
+ {
+  "id": 12788,
+  "t": "Silvermoon",
+  "o": "Grand Apothecary Putress wants you to give the Dual-plagued Brain to Apothecary Tepesh in Silvermoon City.",
+  "d": "We have a breakthrough!  Our zombie specimens have given new insight into the nature of the Scourge's plague.  They have born rotten, delicious fruit...$B$BTake this box to Silvermoon City.  Inside is a head that is infected with the zombie plague, and something else... an anti-plague.  The two plagues battle within the zombie brain, and that brain is the key to a cure, I am certain of it.$B$BBring the box to my assistant, Apothecary Tepesh.  She attends Lor'themar Theron in Silvermoon City.",
+  "p": "Welcome to Silvermoon, $n. Grand Apothecary Putress sent word ahead of you... do you have the infected brain?",
+  "c": "Ah, very good. The diseases this rotted head carries are deadly, but we must not shy from danger or from what we find distasteful. Some day, $N, you will learn that damnation is the path to salvation..."
+ },
+ {
+  "id": 12789,
+  "t": "Into the Breach!",
+  "o": "Crusader Valus at Light's Trust wants you to report to Sergeant Riannah at Light's Breach in Zul'Drak.",
+  "d": "Ready yourself, $c. I'm dispatching you to Light's Breach, northeast of here.$b$bI've received word that the Scourge are making a push to take over Zul'Drak.$b$b<Valus stares you dead in the eyes.>$b$bThis will not come to pass.$b$bSee to it that you assist in the destruction of the Scourge there. The light demands it.$b$bDismissed.",
+  "p": "",
+  "c": "Excellent. Valus must have received my report.$b$bLet's get to work, $r."
+ },
+ {
+  "id": 12790,
+  "t": "Learning to Leave and Return: the Magical Way",
+  "o": "Archmage Celindra at The Violet Gate in Dalaran wants you to use the Teleport to Violet Stand Crystal and the Teleport to Dalaran Crystal.",
+  "d": "Just in case you don't already know, you can use the crystal on the platform behind me to teleport to the Violet Stand in Crystalsong Forest beneath Dalaran.$B$BCorrespondingly, you can use the crystal at the stand below to return to the chamber above me.$B$BI would like for you to do this now.",
+  "p": "I sense that you haven't yet tested out both of the teleport crystals.$B$BThat's alright, take your time.",
+  "c": "Excellent, $c. Now you know the way to get down to Crystalsong Forest and also how to return."
+ },
+ {
+  "id": 12791,
+  "t": "The Magical Kingdom of Dalaran",
+  "o": "Deliver the Kirin Tor Signet to Archmage Celindra at The Violet Gate in Dalaran.",
+  "d": "Hello, $N. You may or may not be aware that we Kirin Tor moved our city here to Northrend.$B$BNo longer does Dalaran sit under its protective dome on the shores of Lordamere Lake. Now the city magically floats above the Crystalsong Forest.$B$BWe believe you to be ready for your journey to the city. Speak with me again and I will cast a spell of teleportation to transport you there.$B$BWhen you arrive, seek out Archmage Celindra and give her my signet as proof that we spoke.",
+  "p": "Greetings, $c.",
+  "c": "Welcome to Dalaran.$b$bI'll see to it that the ring is returned."
+ },
+ {
+  "id": 12792,
+  "t": "First Things First",
+  "o": "Commander Kunz at Argent Stand wants you to report to Sergeant Riannah at Light's Breach.",
+  "d": "Listen up, $r!$b$bThis entire region is full of crises. Everywhere you look you'll find those who could use your assistance.$b$b<Kunz looks you squarely in the eye.>$b$bNo one needs your help right now more than Riannah. The scourge have forced their way between us, leaving her and those she commands isolated.$b$bLight's Breach, where her forces are holding out, lies just southwest of here.",
+  "p": "",
+  "c": "My report must have made it through to Kunz.$b$bIt is good to know that he is well."
+ },
+ {
+  "id": 12793,
+  "t": "Smoke on the Horizon",
+  "o": "Khufu in Zim'Torga wants you to travel to Light's Breach and report to Sergeant Riannah there.$b$bMaaka will provide you with transportation there.",
+  "d": "You hear that, $r?$b$bThe clamor of battle far to the west reaches us here, even over the din of our own struggle.$b$bThe Scourge are threatening to break through the lines of those calling themselves the Argent Crusade. Preventing this is as urgent as anything in the region.$b$bTravel to Light's Breach and join in their struggle. Speak to Maaka and he will provide you safe passage.",
+  "p": "",
+  "c": "The Light shall prevail!"
+ },
+ {
+  "id": 12794,
+  "t": "The Magical Kingdom of Dalaran",
+  "o": "Deliver the Kirin Tor Signet to Archmage Celindra at the Violet Gate in Dalaran.",
+  "d": "Hello, $N. You may or may not be aware that we Kirin Tor moved our city here to Northrend.$B$BNo longer does Dalaran sit under its protective dome on the shores of Lordamere Lake. Now the city magically floats above the Crystalsong Forest.$B$BWe believe you to be ready for your journey to the city. Speak with me again and I will cast a spell of teleportation to transport you there.$B$BWhen you arrive, seek out Archmage Celindra and give her my signet as proof that we spoke.",
+  "p": "Greetings, $c.",
+  "c": "Welcome to Dalaran.$b$bI'll see to it that the ring is returned."
+ },
+ {
+  "id": 12795,
+  "t": "Taking a Stand",
+  "o": "Bloodrose Datura at Ebon Watch wants you to speak with Commander Falstaav at The Argent Stand.",
+  "d": "A few moments ago I spotted a signal flare over the treeline to the east.$b$bThat can only mean that things are not going smoothly for the Crusaders at Argent Stand.$b$bI cannot leave our post here, $r, but you can. When time permits, make your way up to Commander Falstaav and see if there's anything you can do to lighten their burden.",
+  "p": "",
+  "c": "As it happens there is something you can do to be of assistance, $c."
+ },
+ {
+  "id": 12796,
+  "t": "The Magical Kingdom of Dalaran",
+  "o": "Deliver the Kirin Tor Signet to Archmage Celindra at The Violet Gate in Dalaran.",
+  "d": "Hello, $N. You may or may not be aware that we Kirin Tor moved our city here to Northrend.$B$BNo longer does Dalaran sit under its protective dome on the shores of Lordamere Lake. Now the city magically floats above the Crystalsong Forest.$B$BWe believe you to be ready for your journey to the city. Speak with me again and I will cast a spell of teleportation to transport you there.$B$BWhen you arrive, seek out Archmage Celindra and give her my signet as proof that we spoke.",
+  "p": "Greetings, $c.",
+  "c": "Welcome to Dalaran.$b$bI'll see to it that the ring is returned."
+ },
+ {
+  "id": 12797,
+  "t": "Back Through the Waygate",
+  "o": "Bring the Omega Rune to the Avatar of Freya at the Rainspeaker Rapids in Sholazar Basin.",
+  "d": "You speak the truth, $r.  I can sense the very essence of Sholazar Basin begin to fray by the blight of undeath even as we speak.$B$BI've bound my being into the rune, $r.  Deliver it to she who sent you here -- for only her power can grant me passage to her lands.",
+  "p": "You've returned, $n.",
+  "c": "You've done well.$b$bWoe unto our enemies. Woe unto those who serve the Lich King and threaten the titans' creations -- for the Etymidian is here."
+ },
+ {
+  "id": 12798,
+  "t": "Swords Deck",
+  "o": "Use the Swords Deck to summon a Darkmoon Fortune Teller and give the deck to them.",
+  "d": "Now that you have gathered all of the Swords cards together into a deck, another card appears on top.  It depicts a fortune teller that seems to stare at you no matter how you hold the card.$b$bYou feel the card could be used to communicate with someone.",
+  "p": "I see that you have managed to complete a deck of Swords. Excellent.",
+  "c": "Your inscription ability has grown, scribe. The tarot cards are of great interest to the Darkmoon Faire, so do not hesitate to call upon us if you manage to create more. We are not without our own skilled tradesmen, so please allow us to offer something in trade for the cards."
+ },
+ {
+  "id": 12799,
+  "t": "Siphoning the Spirits",
+  "o": "Captain Arnath at Heb'Valok wants you to collect 5 Ancient Ectoplasms from the Lost Drakkari Spirits at the Pools of Zha'Jin.",
+  "d": "You should be happy he's coming, they said. You'll enjoy his company, they said....$b$bWell it's not as if I had a choice in the matter. Finklestein is the Crusade's best alchemist. I suppose I should be honored that he's chosen my post to set up shop. But ever since he's arrived, I've been relegated to collecting various alchemical ingredients.$b$bSay, $r, how about you give me a hand? Just south of here are some pools that are haunted by spirits of ancient trolls. Collect their ectoplasm for me.",
+  "p": "Good day, $r.$b$bHave you collected the ectoplasm Finklestein asked for?",
+  "c": "Thank you, $c.$b$bThis should save my men some precious time."
+ },
+ {
+  "id": 12800,
+  "t": "The Lich King's Command",
+  "o": "Report to Scourge Commander Thalanor at Browman Mill.",
+  "d": "The Scarlet Enclave is no more. What remains of the Crusade will be dealt with in Northrend.$B$BWe now turn all of our efforts to Light's Hope Chapel. No longer will this affront to your master be allowed to exist!$B$BI have issued my final command. Scourge Commander Thalanor awaits your arrival at the edge of Browman Mill. Go northwest, through the cave, into the Noxious Glade and take the path leading out of the glade to the mill.$B$BDo not fail me, $N.",
+  "p": "",
+  "c": "The Highlord and the other death knights are preparing to strike! We will squeeze the last remnants of life out of this place."
+ },
+ {
+  "id": 12801,
+  "t": "The Light of Dawn",
+  "o": "Defeat the forces of the Argent Dawn and uncover the Light of Dawn.$B$BReport to Highlord Darion Mograine should you survive.",
+  "d": "The Argent Dawn stands defiantly against us at Light's Hope Chapel. They dare oppose the Scourge and for that reason alone they must be destroyed!$B$BThe mighty armies of the Lich King stand at the ready as the final battle for the Plaguelands approaches. Today we ascend into the immortal realm of Scourge heroes!$B$BWhen you are ready for battle, report to Highlord Darion Mograine. It is the highlord who will issue the final march orders and command our armies at Light's Hope Chapel.",
+  "p": "<Highlord Mograine nods.>",
+  "c": "There will be no atonement for us, $N. We are forever damned to walk the earth as monsters. While the Lich King may have loosed his grip upon us, the specters of our past will forever haunt our memories.$B$BWe must make amends in the only way we know how: Death...$B$BI ask you now to join me in Acherus as a Knight of the Ebon Blade. Together we will destroy the Lich King and end the Scourge."
+ },
+ {
+  "id": 12802,
+  "t": "My Heart is in Your Hands",
+  "o": "Drakuru wants you to bring the Heart of the Ancients to him at Drak'atal Passage.$b$bYou will need to collect 5 Desperate Mojo to use the elixir there.",
+  "d": "<Drakuru's voice fills your mind.>$b$bHey, mon! Dis eye of da prophets be great! I been usin' it to watch ya and I see ya got da heart now! Not bad....$b$bNow ya just gotta bring it to my brazier at Drak'atal Passage, a short walk east of ya.$b$bYa must drink my elixir at da pedestal to summon me there. This time, ya need ta mix in some desperate mojo from the defenders there for it ta be workin'.",
+  "p": "",
+  "c": "Impressive, mon! Fate be kind in bringin' us together.$b$bSoon I be avengin' me bruddas by cleansin' Drak'Tharon, and you be awarded Drak'Tharon's greatest treasure."
+ },
+ {
+  "id": 12803,
+  "t": "Force of Nature",
+  "o": "Travel to the Blight Line, between Rainspeaker Rapids and the Lost Lands in Sholazar Basin and seek the Avatar of Freya.",
+  "d": "I'm not sure about what I saw while flying to the northeast, but to me it looked like a gigantic woman kicking some Scourge butt.$B$BI'd heard the professor talk about a certain \"lifewarden\"  appointed by the titans to look over Sholazar.  I might not be a titan historian, but it sounds like she fits the bill.$B$BI also know that if the Scourge cross the border between the Lost Lands and the rest of Sholazar, our expedition's as good as dead.  What do you say you go look for her and lend a hand?",
+  "p": "",
+  "c": "You are not of this land. But you also are not with the Scourge.$b$bWhat should I make of you?"
+ },
+ {
+  "id": 12804,
+  "t": "A Steak Fit for a Hunter",
+  "o": "Bring 5 Longneck Grazer Steaks to Korg the Cleaver at the Nesingwary Base Camp.",
+  "d": "Sometimes, there's nothing worse than a camp full of hunters. They're all so busy taking down prey animals that the only meat I get is tough and stringy. That's hardly the kind of thing you want to come home to after a long day on the hunt.$B$BLucky for us, though, there is a source of tender, succulent meat nearby. To the south of the river and the camp live longneck grazers. They're a perfect source of meat for our hungry hunters. Bring me back the best cuts of meat and we'll properly toast our comrades.",
+  "p": "Did you get those steaks?",
+  "c": "Now that's a meal! If anything good came of the shipwreck, it's got to be that we've been spared eating nothing but salt beef for the next month! Thank you again, $N."
+ },
+ {
+  "id": 12805,
+  "t": "Salvaging Life's Strength",
+  "o": "The Avatar of Freya wants you to go to the Sundered Shard to the southeast and use the Lifeforce Gem on 8 destroyed Lifeblood Elementals.",
+  "d": "The Lifeblood Pillar was toppled over with great force, sending the very earth into an upheaval.$B$BThe elementals that wander the sundered shard carry with them the very life essence that gave the pillar its strength.  I cannot allow this energy to be wasted, for only four pillars remain.$B$BHead to the sundered shard, to the southeast, and seek the lifeblood elementals.$B$BUse this gem on their remains to recover their rampant energy.  We'll need the energy to heal the land when all this is over.",
+  "p": "Have you recovered the elementals' energy, $N?",
+  "c": "I thank you, $N. It is a shame that the pillar has fallen, but we must salvage what we can."
+ },
+ {
+  "id": 12806,
+  "t": "To the Rise with all Due Haste!",
+  "o": "Report to Lord-Commander Arete at Death's Rise in Icecrown.",
+  "d": "Some would say that our most critical mission lies not with the Lich King, but with the utter destruction of the Scarlet Onslaught. I would say that is foolish, but who am I to judge?$B$BDeath's Rise is far to the southwest, overlooking the sea along the cliff wall. There you will find Lord-Commander Arete personally overseeing the Onslaught's destruction himself.$B$B<The baron clears his throat.>$B$BDo see to it that you report to him with all due haste. He asked for you personally.",
+  "p": "",
+  "c": "It's about damned time! No doubt that Baron Sliver took his sweet time in sending you to me.$B$BI should have that empty space above his shoulders removed!"
+ },
+ {
+  "id": 12807,
+  "t": "The Story Thus Far...",
+  "o": "Listen to Lord-Commander Arete's tale at Death's Rise.",
+  "d": "We have much to do, but first I believe a short refresher is in order.$B$BWe death knights have a colorful past with our Scarlet friends who idiotically rest comfortably in the harbor below us to the northwest.$B$BWhen you are ready for an earful, speak with me again and I shall provide enlightenment.",
+  "p": "",
+  "c": "In their folly, the Argent Crusade has chosen to turn a blind eye upon the presence of the Scarlet Onslaught. We will not.$B$BWe do not care if they might assist in the battle against the Lich King. We do not believe them worthy of existence. We will be their end, once and for all!"
+ },
+ {
+  "id": 12808,
+  "t": "A Desperate Alliance",
+  "o": "Speak with Bishop Lazaril in the new Alliance camp at the Terrace of Light in Shattrath.",
+  "d": "Good $n, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.$B$BIn Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.$B$BLight speed, $n.",
+  "p": "",
+  "c": "$gBrother:Sister; $r, I am proud to stand with you during our days of need. Bless you, and may the clever eyes of your race help find a path to our salvation.."
+ },
+ {
+  "id": 12809,
+  "t": "Ironforge",
+  "o": "Bishop Lazaril wants you to bring the Light-infused Artifact to High Tinker Mekkatorque in Ironforge.",
+  "d": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.$B$BTake this, $n.  Guard it close, and secure its passage to Ironforge.  High Tinker Mekkatorque in Tinkertown will be eager to make use of the artifact's power.",
+  "p": "Hello, $n! Look at you! I see you have grown precisely one-point-seven-three microspans since last I saw you. The airs of Outland have had an effect on you, I am certain of it.",
+  "c": "Inconceivably immaculate! This device stores Light energy at levels beyond those of any source yet known! Oh, the possible applications shiver my whiskers and curl my toes. Ho ho! The anti-nocturnal photo-dispersement geno-actuator I could build with this would turn dusk into dawn! The Scourge won't know what hit them. We'll destroy them all in one pull of a lever!"
+ },
+ {
+  "id": 12810,
+  "t": "Blood in the Water",
+  "o": "Lord-Commander Arete at Death's Rise wants you to fill the Gore Bladder with the blood of 10 Ravenous Jaws.",
+  "d": "The forces at Onslaught Harbor are heavily reinforced by gryphon riders. You need a mount that will enable you to put them down. But first, we need the components for the ritual that is going to make it all happen.$B$BA great deal of blood is necessary for the ritual to be undertaken.$B$B<The lord-commander points down and to the northwest.>$B$BThere is a readily available supply down there in the harbor... sharks. Do not return to me until you've filled this bladder with their blood.",
+  "p": "It's not glamorous work, but it is necessary.$B$BNow why is it that we are talking again before you are done, $c?",
+  "c": "Well done. Take a moment to let the saltwater dry from your skin before we continue."
+ },
+ {
+  "id": 12811,
+  "t": "Desperate Research",
+  "o": "Speak with Grand Apothecary Putress in the new apothecary camp at the Terrace of Light in Shattrath.",
+  "d": "$n, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.$B$BTo aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.$B$BBe swift, $n.  Each moment passed is another innocent life lost.",
+  "p": "",
+  "c": "What a fine, robust specimen you are. We have many experiments to perform and our stable of volunteers is nearly bankrupt. Fresh blood is welcome blood indeed, and your primal blood could fuel hours of research."
+ },
+ {
+  "id": 12812,
+  "t": "Orgrimmar",
+  "o": "Grand Apothecary Putress wants you to give the Dual-plagued Brain to Apothecary Karlov in Orgrimmar.",
+  "d": "We have a breakthrough!  Our zombie specimens have given new insight into the nature of the Scourge's plague.  They have born rotten, delicious fruit...$B$BTake this box to Orgrimmar.  Inside is a head that is infected with the zombie plague, and something else we have devised -- an anti-plague.  The two plagues battle within the zombie brain, and that brain is the key to a cure, I am certain of it.$B$BBring the box to my assistant, Apothecary Karlov.  He attends Thrall in Orgrimmar.",
+  "p": "Salutations, $n. You come from Shattrath? You have instructions from Grand Apothecary Putress?",
+  "c": "Ah, very good. The diseases this rotted head carries are deadly, but we must not shy from danger or from what we find distasteful. Some day, $N, you will learn that damnation is the path to salvation..."
+ },
+ {
+  "id": 12813,
+  "t": "From Their Corpses, Rise!",
+  "o": "Setaal Darkmender at Death's Rise has given you the Darkmender's Tincture. Apply it to the corpses of 10 of any of the Scarlet Onslaught units found at Onslaught Harbor.",
+  "d": "How kind... how generous our lord-commander is. Where he is flowers and sunshine, I am filled only with hatred.$B$BIt is not enough to end their miserable lives... I want them humiliated... debased!$B$BWhat could be more unspeakable than to be turned into that which you hate? To dedicate your existence to eradicating a thing, and then in the end to become it?$B$BHow sad.$B$BTake this tincture northwest to Onslaught Harbor. Apply it to their still corpses and watch what happens, but avoid the cathedral.",
+  "p": "Surely you're not done so soon?",
+  "c": "<The draenei death knight fixes you with a cold stare, her eyes dead as the grave. A sly grin creeps across her features.>$b$bI'll have more of the tincture prepared tomorrow. Until then, be well."
+ },
+ {
+  "id": 12814,
+  "t": "You'll Need a Gryphon",
+  "o": "Deliver an Onslaught Gryphon to Uzo Deathcaller at Death's Rise.",
+  "d": "What could be more fitting than to take one of their own gryphons to use against them? Go to Onslaught Harbor and take the reins to one of their gryphons from the dead clutches of its rider.$B$BReturn with the gryphon, delivering it to Uzo Deathcaller. He will see to its proper transformation and provide you with further instructions.",
+  "p": "What took so long? Are their gryphons slow? We'll have to do something about that.",
+  "c": "Oh yeah this is gonna be good!$b$bStand back... I'm gonna call down the wrath of the blood ritual!"
+ },
+ {
+  "id": 12815,
+  "t": "No Fly Zone",
+  "o": "Uzo Deathcaller at Death's Rise wants you to kill 10 Onslaught Gryphon Riders.",
+  "d": "Now that you got your bone gryphon, I wantcha to take it back down there everyday and make a no fly zone over Onslaught Harbor.$B$BI gotta admit, mon, I don't really care if you use the bone gryphon to kill them gryphon riders or not. But I'm guessin' that if you do, you'll find it much easier to get to 'em.$B$BBesides, it's got lots of neat tricks you can use.",
+  "p": "What you back so soon for? I know I can still see those Onslaught boys still flyin' around down there!",
+  "c": "That's the spirit! And you know, I need this done everyday that we're here.$b$bI hope you'll come back again tomorrow. Your bone gryphon will be waitin'."
+ },
+ {
+  "id": 12816,
+  "t": "Investigate the Scourge of Silvermoon",
+  "o": "Collect three Dim Necrotic Stones from the Scourge outside Silvermoon and investigate the glowing runic circles near their encampment.",
+  "d": "The Lich King has sent his undead upon our very doorstep; we cannot remain idle! Surely you will step up to defend Silvermoon from these accursed invaders? $b $bThere are strange runic circles outside, glowing with the same energy that surrounds the undead and the Necropolis above. They have significance, I'm certain, and I want you to find out what. Thin the numbers of those aberrations while you're at it; bring me proof of their death along with your results, and I will reward you.  Go!",
+  "p": "Have you investigated the invasion yet? There's no time for dawdling!",
+  "c": "Hmm. From what you've told me, the voices within the circles... they must be used for communication of some kind. I shudder to think what unnatural minds are contacted through such magic. Regardless, you seem to have emerged whole and sane. The Argent Dawn appreciates your service."
+ },
+ {
+  "id": 12817,
+  "t": "Investigate the Scourge of Exodar",
+  "o": "Collect three Dim Necrotic Stones from the Scourge outside the Exodar and investigate the glowing runic circles near their encampment.  Then return to Lieutenant Kregor.",
+  "d": "The Lich King has sent his undead upon our very doorstep; we cannot remain idle! Surely you will step up to defend the Exodar from these accursed invaders? $b $bThere are strange runic circles outside, glowing with the same energy that surrounds the undead and the Necropolis above. They have significance, I'm certain, and I want you to find out what. Thin the numbers of those aberrations while you're at it; bring me proof of their death along with your results, and I will reward you.  Go!",
+  "p": "Have you investigated the invasion yet? There's no time for dawdling!",
+  "c": "Hmm. From what you've told me, the voices within the circles... they must be used for communication of some kind. I shudder to think what unnatural minds are contacted through such magic. Regardless, you seem to have emerged whole and sane. The Argent Dawn appreciates your service."
+ },
+ {
+  "id": 12818,
+  "t": "Clean Up",
+  "o": "Jeer Sparksocket at K3 would like 10 pieces of Charred Wreckage.",
+  "d": "To the point... Ricket's asked me to put together some stronger land mines, but I'm running low on parts.$B$BJust west of town, you'll find the remains of our last rocket sled... Ricket got a little excited when she was fueling it, but I probably should have thought to not put the nozzle right over the exhaust. Live and learn, eh?$B$BThere should be a good stock of spare parts scattered around the destroyed sled... why don't you go ahead and chase off those scavengers and nab me some of that wreckage?",
+  "p": "We have to have something we can use to insulate our engines against this cold... think, Jeer, think!$B$BOh hey! Did you get some of that wreckage for me?",
+  "c": "These will do nicely, thanks!$B$BDid you happen to see Dim out there? I sent him out a long while back and he never came back. I hope he's alright.$B$BSpeaking of which... I wonder where Janks is..."
+ },
+ {
+  "id": 12819,
+  "t": "Just Around the Corner",
+  "o": "Jeer Sparksocket at K3 would like Sparksocket's Tools retrieved from his minefield.",
+  "d": "Blast it! Where are my tools? I had them here just a moment ago.$B$BOh! I probably forgot them when I was setting up that minefield in the west. That's mildly inconvenient. I'd be quite appreciative if you could go get them for me. You'll need to watch your step though... you should be able to use the same path that I did to get out.$B$BOh, and don't try to fly in... I had the presence of mind to set up turrets to shoot down anything that might fly, and they aren't very discerning in who they target.",
+  "p": "If Janks were here, I could have just sent him on this errand. Oh... on second thought... I'm not sure I told him where the safe path is anyway.$B$BGood thing I have you resourceful adventure types around, eh?",
+  "c": "Ha ha! These are them! Thank you kindly. I hope you didn't have too much trouble traversing the field."
+ },
+ {
+  "id": 12820,
+  "t": "A Delicate Touch",
+  "o": "Ricket at K3 wants you to use Improved Land Mines at Garm's Bane to fend off 12 attackers from Garm. Both Garm Invaders and Snowblind Followers will count towards this goal.",
+  "d": "I've been waiting an eternity for these mines! Well, a few days at least. What took him so long?$B$BHere's the low down, compadre... there's this nasty bunch of magnataur--you know, big, hairy, and extremely ugly--and they seem pretty keen on taking K3 for themselves.$B$BNot going to happen.$B$BWe've got some defenses set up in their path, northeast of here. Sadly, our laser turrets have pretty limited power supplies... that's where these mines come in! Get over there and blow them up good!",
+  "p": "You got some of their gross little snobold buddies too I hope?",
+  "c": "So... here I sat, basking in the awesomeness that is me, and in the distance, I hear a pop! Then another! Then a dozen more! And a smile crept onto my face at the thought of all those magnataur and snobolds eagerly rushing to their own deaths.$B$BWas it glorious?"
+ },
+ {
+  "id": 12821,
+  "t": "Opening the Backdoor",
+  "o": "Ricket at K3 would like you to locate the Transporter Power Cell and use it to activate the Transportation Pad at Garm's Rise.",
+  "d": "The sapper squad is ready. That means it's fun time, my dear!$B$BThere's only one thing holding us up from our full-scale assault on Garm! I sent a runner to set a teleporter up behind Garm--successfully I might add--and he returned to get the power cell it needs to function. It isn't working yet... which means the power cell didn't get there.$B$BI need you to look just on the other side of Garm's Bane for the power cell. When you find it, bring it farther east to Garm's Rise and activate the teleporter.",
+  "p": "Even magnataur should know not to mess with goblins.",
+  "c": "Excellent!$B$B<A fierce grin creeps onto Ricket's face.>$B$BLet the destruction begin!"
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 7495,
+  "t": "Victory for the Alliance",
+  "o": "Take the Head of Onyxia to King Varian Wrynn in Stormwind.",
+  "d": "You have accomplished the impossible. The brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to the King Varian Wrynn.",
+  "p": "By Uther's beard!",
+  "c": "For so many years I was held under her captivating gaze. Finally, to see justice meted and the honor of Stormwind restored! Today, we celebrate this glorious victory!"
+ },
+ {
+  "id": 7496,
+  "t": "Celebrating Good Times",
+  "o": "Seek out Major Mattingly in the Valley of Heroes.",
+  "d": "Seek out Major Mattingly in the Valley of Heroes, $N. He will be expecting you...",
+  "p": "",
+  "c": "Few are graced with such ceremony, $N. Please, choose your reward so that we may begin the celebration."
+ },
+ {
+  "id": 7497,
+  "t": "The Journey Has Just Begun",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "A dragon slayer and a seasoned leatherworker? You do not cease to astonish, hero. I am humbled.$B$BPlease accept what I am about to teach you. This knowledge will prove to be invaluable if you are to destroy what remains of the Black Dragonflight.$B$BCreate the cloak from the scales of the brood mother. It will protect you and your allies against the incendiary breath of the Lord of Blackrock... Nefarian."
+ },
+ {
+  "id": 7498,
+  "t": "Garona: A Study on Stealth and Treachery",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7499,
+  "t": "Codex of Defense",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7500,
+  "t": "The Arcanist's Cookbook",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7501,
+  "t": "The Light and How To Swing It",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7502,
+  "t": "Harnessing Shadows",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7503,
+  "t": "The Greatest Race of Hunters",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7504,
+  "t": "Holy Bologna: What the Light Won't Tell You",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7505,
+  "t": "Frost Shock and You",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7506,
+  "t": "The Emerald Dream...",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Excellent work, $R. Should you find any more tomes, do not hesitate to return them to us.$B$BAs time passes, we tend to change around and even add new rewards for the return of missing tomes."
+ },
+ {
+  "id": 7507,
+  "t": "Foror's Compendium",
+  "o": "Return Foror's Compendium of Dragon Slaying to the Athenaeum.",
+  "d": "You have uncovered something of great importance. This book is unlike any that you have seen.$B$BIt would appear as if someone or something has managed to shatter the seal of Athenaeum. The text within is garbled and barely legible.",
+  "p": "Ah, one of our greatest compilations. This one has been missing for ages.",
+  "c": "You could have gotten quite a lot of gold for this book on the black market, $N. Especially since the protective seal has been broken, leaving the secrets of dragon slaying viewable to any with the requisite intellect to consume the knowledge held within the sacred pages.$B$BPerhaps a grand reward is in order... Well, a reward that will require enormous effort to obtain.$B$B<Lydros grins.>"
+ },
+ {
+  "id": 7508,
+  "t": "The Forging of Quel'Serrar",
+  "o": "Give the Dull and Flat Elven Blade to Lorekeeper Lydros.",
+  "d": "If you wish to take on this task, present Lydros with the dull blade.",
+  "p": "Excellent, let us begin...",
+  "c": "If you manage to enter the lair of the dragon, heat the blade under her fiery breath, and ultimately temper it in her blood, I shall bind the blade for your use."
+ },
+ {
+  "id": 7509,
+  "t": "The Forging of Quel'Serrar",
+  "o": "You must get Onyxia to breathe fire on the Unfired Ancient Blade. Once this is done, pick up the now Heated Ancient Blade. Be warned, a Heated Ancient Blade will not remain heated forever - time is of the essence.$B$BThe last step before returning to me is to slay the beast and drive the Heated Ancient Blade into her corpse.$B$BDo this and Quel'Serrar will be yours.",
+  "d": "Take the unfired ancient blade to the lair of Onyxia and engage her in battle.$B$BSome trickery must be utilized for the heating of the blade. While in combat, she will surely try to incinerate you with her fiery breath. You must plant the unfired ancient blade nearby and hope that the fiery breath heats the blade. If you live beyond this, pick up the now heated ancient blade and finish off the dragon.$B$BPlunge the heated ancient blade into her smoldering corpse to fashion the treated ancient blade.",
+  "p": "Perhaps one day, another will wield the prismatic blade.",
+  "c": "<Lydros murmurs something unintelligible.>$B$BAs promised, $c, the blade of Quel'Serrar."
+ },
+ {
+  "id": 7521,
+  "t": "Thunderaan the Windseeker",
+  "o": "To free Thunderaan the Windseeker from his prison, you must present the right and left halves of the Bindings of the Wind Seeker, 10 bars of Elementium, and the Essence of the Firelord to Highlord Demitrian. ",
+  "d": "I have told you all that I know, $N. It is you who must find elementium. It is you who must destroy the Firelord's corporeal form.$B$BDo this and gain the blessing of Thunderaan.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7522,
+  "t": "Examine the Vessel",
+  "o": "Examine the Vessel of Rebirth and return it to Highlord Demitrian.",
+  "d": "Examine the vessel of his rebirth, mortal. It is from this that the Windseeker shall be reborn!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7541,
+  "t": "Service to the Horde",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It will take time for our scholars to study the pendant you brought us.  But for your service to the Horde I would like to offer you a small token.$B$BThank you, $N.  Your acts bring honor to you, and to us."
+ },
+ {
+  "id": 7561,
+  "t": "Rise,Thunderfury!",
+  "o": "Present the Dormant Wind Kissed Blade to Highlord Demitrian.",
+  "d": "You have defeated the Wind Seeker. Take the dormant blade and force the lying wretch,Demitrian,to use the materials you provided for his betrayal to wake Thunderfury.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7562,
+  "t": "Mor'zul Bloodbringer",
+  "o": "Speak with Mor'zul Bloodbringer at the Altar of Storms in the Burning Steppes.",
+  "d": "$N, your delvings into the dark arts are deep.  Your mastery over otherworldly denizens has grown so strong... perhaps you are ready to bind to you one of the infamous dreadsteeds.$B$BThe ritual to summon the beast from its home requires great power and resources, but if you desire to dominate that epic mount, then speak with Mor'zul Bloodbringer.  He is camped near the Altar of Storms in the Burning Steppes.$B$BGo, $N.  This quest will be perilous, but a Warlock of your stature does not shy from danger!",
+  "p": "",
+  "c": "Greetings, $N, and welcome.  Are you here to study near the Altar of Storms as I am, perhaps to harness its energy for some hidden purpose...$B$BOr... are you here to speak with me?  Yes, I believe you are.$B$BYou want to master a dreadsteed?  Such is no easy task.  It will cost you no small amounts of blood, sweat... and of course gold.  But a dreadsteed of Xoroth is a prize well worth winning so if interested, listen on..."
+ },
+ {
+  "id": 7563,
+  "t": "Rage of Blood",
+  "o": "Bring 30 bottles of Raging Beast's Blood to Mor'zul Bloodbringer in the Burning Steppes.",
+  "d": "The dreadsteeds dwell on another world, on the fiery Plains of Xoroth, and to bind one of those famed beasts you must invoke powerful glyphs.  I can scribe the glyphs on a parchment for you, but first I will need a special ink.$B$BIn distant Winterspring there dwells a race of owl beasts.  Once pure creatures, they were turned mad by the demonic emanations of the Darkwhisper Gorge and now roam the snows in a frenzy.$B$BTheir blood is what I need to ink your parchment.  Bring it to me.",
+  "p": "Have you seen the raging owl beasts, $N? The magic of those creatures is strong, and it concentrates in the blood that flows through their torturted forms.",
+  "c": "Ah, very good. I will have this blood distilled into an ink and use it for the parchment I promised you. And perhaps I will save just a little for myself, as I hear its taste is quite euphoric..."
+ },
+ {
+  "id": 7564,
+  "t": "Wildeyes",
+  "o": "Bring the Case of Blood to Gorzeeki Wildeyes at the Altar of Storms in the Burning Steppes.",
+  "d": "My servant, Gorzeeki, is an alchemist of some skill.  He can prepare the ink I will need for your parchment.  I gathered together the blood you acquired; take it to Gorzeeki so that he can begin his work.",
+  "p": "You have something for me?  It's not a big, juicy spider, is it?  Or maybe a roach?  I hope it's still alive... I so love chewing on them when they're still alive...",
+  "c": "Oh, it's blood. It must be from master Mor'zul then. He is so enamored with the stuff, and loves to see it spilled. I, however, prefer it coursing through the veins of a small rodent. It stays warm that way... until you want it.$B$BThis is powerful blood. Mor'zul must be making another parchment to summon a dreadsteed! How exciting!$B$BIf that's true, and you're going to perform the ritual, then... you're going to need a lot more than blood, my friend."
+ },
+ {
+  "id": 7581,
+  "t": "The Prison's Bindings",
+  "o": "Travel to Dire Maul in Feralas and recover 15 Satyr Blood from the Wildspawn Satyr that inhabit the Warpwood Quarter. Return to Daio in the Tainted Scar when this is done.$B",
+  "d": "You must retrieve bindings for the prison of the Doomguard from lesser demons.$B$BThe blood of the Wildspawn satyr that occupy Dire Maul should do nicely. The coagulated blood will bond the Hederine shards and power the crystal prison.",
+  "p": "Only the blood of Wildspawn satyr will suffice.",
+  "c": "Ah, a most excellent recovery. The blood will suppress the Doomguard's magical defenses."
+ },
+ {
+  "id": 7582,
+  "t": "The Prison's Casing",
+  "o": "Travel to Darkwhisper Gorge in Winterspring and recover 5 Tears of the Hederine from the Hederine demons that occupy the gorge. Return to Daio in the Tainted Scar when you have completed this task.",
+  "d": "The Hederine demons that occupy the foothills of Mount Hyjal secrete powerful fel poisons, which if left to mature, harden into a dense anti-magic crystal. These crystals have come to be known as Tears of the Hederine.$B$BNot even the immense power of a Doomguard could break the walls of a prison constructed from this material.$B$BTravel to Darkwhisper Gorge in Winterspring and recover the Tears.",
+  "p": "The Hederine will not give up their precious gems without a fight, $N.",
+  "c": "I merely need to combine the blood of the Wildspawn with these crystals and the prison shall be ready for use."
+ },
+ {
+  "id": 7583,
+  "t": "Suppression",
+  "o": "Venture forth into the Tainted Scar and locate a Doomguard Commander.$B$BUse the Glowing Crystal Prison on the Doomguard Commander. Be prepared for a ferocious onslaught of attacks, as the demon attempts to escape capture.$B$BShould you succeed, return the Imprisoned Doomguard to Daio in the Tainted Scar.",
+  "d": "The prison is ready. Now for the most difficult portion of this task.$B$BYou must find and capture a Doomguard Commander within the Tainted Scar using this crystal prison.$B$BBe warned! A Doomguard is a cunning and lethal adversary and will seek to destroy you as you begin the ritual of imprisonment. It will flail wildly in its attempts to escape imprisonment.$B$BIt will focus on nothing but you, $N. Because of this, I must recommend that you take companions capable of keeping you alive!",
+  "p": "Hrm? Well?",
+  "c": "You have done as I have asked. You are ready to be given the knowledge to conjure and control the beast."
+ },
+ {
+  "id": 7601,
+  "t": "What Niby Commands",
+  "o": "Speak with Impsy in Felwood.",
+  "d": "If I am to teach you the secrets of summoning an infernal servant, you must destroy Kroshius and bring me the infernal core from his burning remains. This, however, is not as easy as it sounds. Kroshius has all but burned out completely. You must reignite his corpse and raise him from the rubble. To do this, however, you must gather some components from other demonic entities.$B$BMy imp, Impsy, shall set you on your way.",
+  "p": "",
+  "c": "Oh boy, here we go again."
+ },
+ {
+  "id": 7602,
+  "t": "Flawless Fel Essence",
+  "o": "Impsy in Felwood has asked that you bring him three Flawless Fel Essences originating from three distinct locations.$B$BThe Legashi Satyrs of Azshara hold the Flawless Fel Essence of their region. The Jaedenar Legionnaires of Jaedenar hold the Flawless Fel Essence of their region. The Felguard Sentries of the Blasted Lands hold the Flawless Fel Essence of their region.$B$BRecover the Flawless Fel Essences and return  to Impsy in Felwood.",
+  "d": "If you're going to reanimate Kroshius, you're going to need Fel fire. I can make Fel fire but it's going to require some components.$B$BYou need to bring me flawless Fel essences from three distinct regions of the world.$B$BThe Legashi Satyrs of Azshara will have the first essence type; the Jaedenar legionnaires of Jaedenar the second type and the felguard sentries of the Blasted Lands the third.$B$BBring me back one of each essence type and I will create the Fel fire, allowing you to reanimate Kroshius.",
+  "p": "Don't tell anyone this but Niby is daft.",
+  "c": "Give me a minute and I'll combine the essences into Fel fire."
+ },
+ {
+  "id": 7603,
+  "t": "Kroshius' Infernal Core",
+  "o": "Search Shatter Scar Vale in Felwood for the remains of Kroshius. When you locate the remains, use the Fel Fire near them and await Kroshius' return. When the infernal has awoken, slay him and take from his corpse Kroshius' Infernal Core.$B$BReturn Kroshius' Infernal Core to Niby the Almighty in Felwood.",
+  "d": "Kroshius lays in a heap to the northeast, in the Shatter Scar Vale. Take this Fel fire and use it on his remains. The fire should reanimate the fallen infernal.$B$BAt this point, I fully expect him to kill you and your minion.$B$BIf by some miracle you happen to kill Kroshius, take his infernal core and return it to Niby.",
+  "p": "Did you get lost?",
+  "c": "A deal is a deal! Quickly, take this and write this down. I don't have time! My greatest conjuration is upon us!"
+ },
+ {
+  "id": 7604,
+  "t": "A Binding Contract",
+  "o": "Turn the Thorium Brotherhood Contract in to Lokhtos Darkbargainer if you would like to receive the plans for Sulfuron.",
+  "d": "The undersigned hereby declares that the Sulfuron ingot they are delivering to the Thorium Brotherhood (TB Ltd.) is genuine and not a facsimile thereof. The undersigned also acknowledges that any harm that should come to $g him:her; as a result of attempting to build, forge, find, create, sell, or eat Sulfuras, is not the responsibility or fault of TB Ltd.$B$BBy signing this contract, you are agreeing to all terms listed herein.$B$B_________________$B$BSignature",
+  "p": "Do we have a deal?",
+  "c": "It has been a pleasure doing business with you, $N!$B$BOn behalf of TB Ltd., I wish you luck in your search for Sulfuras!"
+ },
+ {
+  "id": 7621,
+  "t": "A Warning",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "$c, you are about to undergo a rigorous series of events which shall test all of your abilities.$B$BI suggest that you listen to the story that I have to tell.$B$BBe warned, you must complete this task alone. It is recommended that your allies remain at a distance. Interference by outside agents will result in a most severe punishment.$B$BDestiny has led you and you alone here. Battle with honor. Harness the Light."
+ },
+ {
+  "id": 7622,
+  "t": "The Balance of Light and Shadow",
+  "o": "Save 50 Peasants before 15 are slain. Speak with Eris Havenfire should you accomplish this task.$B$BYou may view the Death Post to view how many Peasants have been slain.",
+  "d": "You must do what I could not: Save the peasants that were cut down while fleeing from Stratholme.$B$BThey will walk towards the light, you must ensure their survival. Should too many fall, our cursed existence shall continue - you will have failed.$B$BEvery ability, prayer, and spell that you have learned will be tested. May the Light protect you, $N.",
+  "p": "",
+  "c": "Your tenacity and courage are astounding, $G priest:priestess;. You have earned the right to hold the Splinter of Nordrassil. Only one task remains: The Eye of Shadow must be recovered. Scour the world."
+ },
+ {
+  "id": 7623,
+  "t": "Lord Banehollow",
+  "o": "Purchase Shadowy Potions from Gorzeeki Wildeyes at the Altar of Storms in the Burning Steppes.$B$BUse the potions to travel through Jaedenar in Felwood, and speak with Lord Banehollow inside the Shadow Hold.",
+  "d": "Mor'zul says that you want to open a portal to Xoroth.  To do that, you'll need Xorothian stardust.  That's not easy to find on Azeroth!$B$BThere is one being who might have some: Lord Banehollow in Jaedenar, the seat of the Shadow Council!  Speak with him and he might part with the stardust.$B$BBut if you're going to Jaedenar, then you'll need to cloak yourself in the Shadow Council's own flavor of evil.  That will require some of my shadowy potions, and that will cost you...",
+  "p": "",
+  "c": "My patience spans the millenia, $c.  But do not think that allows you more than an instant of my time..."
+ },
+ {
+  "id": 7624,
+  "t": "Ulathek the Traitor",
+  "o": "Confront Ulathek, then bring The Traitor's Heart to Lord Banehollow in Jaedenar.",
+  "d": "You wish to enter my good graces?  Then kill for me.$B$BMy servant, Ulathek, is pathetic how he grovels before me, all the while plotting with Lord Hel'nurath on Xoroth.  Hel'nurath plans to usurp my power here, and Ulathek is his spy...$B$BProve that you serve me and not my rivals.  Confront Ulathek in his quarters, in the Shadow Hold to the west.  Tell him that I know his secret and watch as fear grips him.  Then, bring me the traitor's heart!",
+  "p": "I can already taste the heart of Ulathek on my lips. So sweet is the flesh of a traitor...",
+  "c": "Ah, how splendid! After rotting a week, this heart will prove a succulent treat! Perhaps I will send for Ulathek's head and place it before me as I eat...$B$BYou have done me a service, $c, and so my patience for you has grown. Marginally."
+ },
+ {
+  "id": 7625,
+  "t": "Xorothian Stardust",
+  "o": "Purchase Xorothian Stardust from Ur'dan inside the Shadow Hold at Jaedenar in Felwood.  Bring it to Gorzeeki Wildeyes in the Burning Steppes.",
+  "d": "So you come to me seeking Xorothian stardust?  You wish to open a portal to Xoroth, the domain of Hel'nurath my rival?  Perhaps you plan to steal from him one of his precious dreadsteeds?$B$BVery well.  My servant Ur'dan has a supply of Xorothian stardust.  You may obtain it from him... if you can pay the price.",
+  "p": "Have you been to Jaedenar, $N? Did you get the stardust from Lord Banehollow?",
+  "c": "There it is! I can hardly believe you got it! You must have struck a big deal with that Dreadlord or else paid a large sum, or both!$B$BMor'zul will have his ink very soon and then he can finally make the glyph parchment, so you can open a portal to Xoroth and pull through it one of the famed dreadsteeds!"
+ },
+ {
+  "id": 7626,
+  "t": "Bell of Dethmoora",
+  "o": "Bring 2 Elixirs of Shadow Power to Gorzeeki Wildeyes in the Burning Steppes.",
+  "d": "A Bell of Dethmoora, named after the late warlock Dethmoora Darkeyes, is one of the three tools needed to create a Circle of Greater Summoning.  When properly atuned with the Wheel and the Candle, these items conduct vast stores of arcane power.$B$BMy servant Gorzeeki can construct such a bell, but to do so he will need a large supply of elixirs of shadow power.  Procure the elixirs from an alchemist and bring them to Gorzeeki.",
+  "p": "You have those elixirs, $N? Mor'zul told me you need a Bell of Dethmoora, and making one of those takes a lot of shadow power!",
+  "c": "Very good! I hope these elixirs weren't too hard to get. Sometimes alchemists can be so miserly with their creations...$B$BI'll make the bell and keep it until you're ready for your ritual."
+ },
+ {
+  "id": 7627,
+  "t": "Wheel of the Black March",
+  "o": "Bring 6 Large Brilliant Shards and 25 Dark Iron Ore to Gorzeeki in the Burning Steppes.",
+  "d": "A Wheel of the Black March contains and directs the violent energies required for the Circle of Greater Summoning.  For Gozeeki to construct a wheel, he will need both large brilliant shards from an enchanter, and dark iron ore from a master miner.$B$BAcquire these and bring them to my servant.",
+  "p": "The Wheel of the Black March isn't easy to make, and takes a lot of materials. Have you gathered them yet?",
+  "c": "There they are! I hear that dark iron ore is only found in the depths of Blackrock, and I'm sure these shards weren't easy to find either. I am often awed at the dedication you warlocks have. If you instead bent all that energy into the art of bug catching, oh... such a feast you would enjoy!$B$BSorry, a small digression. I'll create the wheel and keep it for you until you're ready for your ritual."
+ },
+ {
+  "id": 7628,
+  "t": "Doomsday Candle",
+  "o": "Bring 3 Black Dragonscales to Gorzeeki Wildeyes in the Burning Steppes.",
+  "d": "A Doomsday Candle stores fire and directs it at those who would disrupt your ritual.  When creating your Circle of Greater Summoning, if your candle is lit then any wayward demons will be burned by its flames!$B$BContaining that fire is not easy, and requires the essence within the scales of a black dragon.  Acquire those scales from a skinner and bring them to Gorzeeki Wildeyes.",
+  "p": "Did you bring the dragonscales, $N? I don't want to start on the candle until I have them... or I might blow up the whole camp!",
+  "c": "Ah, very good. I'll need these to contain the fires of the candle. Now that I have the scales, I'll make the candle and hold onto it until you're ready to begin your ritual for the Circle of Greater Summoning."
+ },
+ {
+  "id": 7629,
+  "t": "Imp Delivery",
+  "o": "Bring the Imp in a Jar to the alchemy lab in the Scholomance.  After the parchment is created, return the jar to Gorzeeki Wildeyes.",
+  "d": "There is one more process required for Mor'zul's parchment; I need paper infused with Xorothian stardust.  And... I'm afraid I can't do that here.  I don't have the equipment!$B$BThere is an alchemy lab, however, with everything needed.  It's in the Scholomance, on the isle of Caer Darrow in the Plaguelands.$B$BI can't make the trip, but here - take this jar.  There's an imp inside who is quite clever.  Let him out at the alchemy lab and he'll infuse the parchment.",
+  "p": "Have you been to the Scholomance, $N? Has the imp yet infused the parchment with the stardust?",
+  "c": "Ah, good. J'eevee created the parchment. How was the Scholomance? Charming, don't you think? And the bugs there... I hear they're delicious!$B$BWell done, $N, and thank you for returning my jar. I've had it for a long time... and it's not for sale!"
+ },
+ {
+  "id": 7630,
+  "t": "Arcanite",
+  "o": "Bring 1 Arcanite Bar to Gorzeeki in the Burning Steppes.",
+  "d": "Now that the Bell, Wheel and Candle are made, I should make a black lodestone.  During your ritual, you'll need that lodestone to maintain the other ritual objects if they should fail.$B$BTo make the lodestone, I require arcanite.  Do you have any?  If not, then... you'll have to get the arcanite from an alchemist.$B$BReturn to me when you have the arcanite, and then I'll make the black lodestone.",
+  "p": "Do you have the arcanite, $N? Once I have it I can make you the black lodestone.",
+  "c": "You got it! Nicely done! Now I can create the lodestone. When you're finally ready for your ritual to create the Circle of Greater Summoning, you'll want a lodestone to make sure the ritual doesn't fizzle out!"
+ },
+ {
+  "id": 7631,
+  "t": "Dreadsteed of Xoroth",
+  "o": "Read Mor'zul's Instructions.  Summon a Xorothian Dreadsteed, defeat it, then bind its spirit to you.",
+  "d": "All the preparations are made.  Now, you must perform the ritual to create a Circle of Greater Summoning, then use the parchment infused with Xorothian stardust... to open a portal to Xoroth.$B$BI have written the instructions for the ritual onto a scroll.  Study it closely, for you must perform each step exactly if you wish to succeed.$B$BFortune to you, $N.  And may the souls of your enemies swiftly find their way into your shard pouch.",
+  "p": "",
+  "c": "The Xorothian Dreadsteed's spirit is beaten.  Although rage pulses through its ghostly flanks, you know that the beast's soul is yours...$B$BIt whispers dark magic into your mind and instills within you the knowledge to summon a dreadsteed."
+ },
+ {
+  "id": 7632,
+  "t": "The Ancient Leaf",
+  "o": "Find the owner of the Ancient Petrified Leaf. Good luck, $N; It's a big world.",
+  "d": "The epidermis of the leaf glows a bright green. The surface is extremely rugose, exposing several veins and wrinkles.$B$BIf you had to take a guess, you would say this leaf came from something ancient and powerful.$B$BMaybe you should find the original owner of this leaf?",
+  "p": "<Vartrus groans.>",
+  "c": "Of course I recognize my own leaves. Look at that! It's in perfect condition.$B$BHow good of you to return it, $c.$B$BPerhaps you could be of service to us and we to you."
+ },
+ {
+  "id": 7633,
+  "t": "An Introduction",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Your diligence and integrity has been noted, $c.$B$BWe are Ancients: Protectors of this once great forest. Our physical forms were destroyed 10,000 years ago when Archimonde and the Burning Legion marched upon Hyjal. Our spirits, however, remain intact.$B$BThere are tasks that we can offer. Tasks that if completed will open up the secrets of the Ancients to you.$B$BKnow this, should you complete these tasks, merely return to this rock and we shall answer the calling."
+ },
+ {
+  "id": 7634,
+  "t": "Ancient Sinew Wrapped Lamina",
+  "o": "Hastat the Ancient has asked that you bring him a Mature Blue Dragon Sinew. Should you find this sinew, return it to Hastat in Felwood.",
+  "d": "Greetings, $c. I am Hastat, Ancient of Lore. I hold knowledge lost eons ago.$B$BWith the proper binding, one of my leaves can serve as a quiver the likes of which has not been seen in 10,000 years. A quiver that when accompanied by a bow of Ancients, could grant untold powers.$B$BReturn here with sinew from an adult blue dragon and this quiver shall be yours.",
+  "p": "Welcome back, young $C.",
+  "c": "May my leaves provide your arrows protection from harm. May your arrows strike true. May the enemies of our world be smitten."
+ },
+ {
+  "id": 7635,
+  "t": "A Proper String",
+  "o": "Stoma the Ancient has asked that you bring him a Mature Black Dragon Sinew. Should you find this sinew, return it to Stoma in Felwood.",
+  "d": "Vartrus may offer you the stave to create a bow of Ancients but only I can enchant the string required to complete the bow.$B$BIt is a simple task, puny one. Slay a mature black dragon and remove the sinew from its bones. Return that sinew to me and I shall enchant the material into an almost indestructible bow string.",
+  "p": "I am certain that you will have little difficulty in finding and slaying a black dragon, $N. Do not waste my time with idle chatter.",
+  "c": "A most foul dragon this one was. The sinew reeks of evil.$B$BGive me a moment to cleanse the filth from this flesh and apply the proper enchantments."
+ },
+ {
+  "id": 7636,
+  "t": "Stave of the Ancients",
+  "o": "You must find and destroy these four demonic corrupters:$B$BSimone the Seductress.$B$BKlinfran the Crazed.$B$BSolenor the Slayer.$B$BArtorius the Doombringer.$B$BDestroy these creatures and return to Vartrus the Ancient in Felwood with their heads.$B$BRefer to the Petrified Bark in your inventory for clues as to their whereabouts.$B$BYou MUST complete this task by yourself.",
+  "d": "Agents of the Burning Legion are still active in our world, $c. These agents corrupt all that they touch. Nature wilts and weeps in their presence.$B$BYou must track down these demonic corrupters and destroy them, $N. Be warned, you must engage them by yourself or they will flee. As long as you are alone, they will try and destroy you. You must strike at them, turning their arrogance into misery.$B$BI grant you a piece of my bark, the inscriptions shall lead you to your targets. Retrieve their heads.",
+  "p": "Do not be fooled by their disguises!",
+  "c": "You have served us well, $N! Take this stave and combine it with the bow string that Stoma is able to create. Together, they form a most formidable weapon."
+ },
+ {
+  "id": 7637,
+  "t": "Emphasis on Sacrifice",
+  "o": "Travel to Ironforge and get High Priest Rohan's Exorcism Censer.  You will need to make a donation of 150 gold in order to secure it.",
+  "d": "In order to prepare yourself for this task, you must first show due sacrifice and judgment... with an emphasis on sacrifice.$B$BYou must acquire High Priest Rohan's exorcism censer for your task.  Even though its use will be for good and just reasons, due compensation must be given for it.$B$BProceed to Ironforge and speak with the High Priest.  By bringing ample coin with you to help offset the loss of his censer, it will show your due sacrifice.$B$BGo now $N, time is of the essence.",
+  "p": "Greetings, noble $C! I have prepared my trusted censer with the freshest of incense and blessed it thrice for your use. Your donation will help us in Ironforge not only create a new censer, but also to bolster sagging reserves of food for our needy.",
+  "c": "Blessings onto you, friend $c! Your donation goes far beyond what was needed. Your sacrifice will not only help us recover what we have lost, but also help us to help those most in need here in Ironforge.$B$BNow, let me make sure I've suitably prepared this censer for your future needs..."
+ },
+ {
+  "id": 7638,
+  "t": "Lord Grayson Shadowbreaker",
+  "o": "Speak with Lord Grayson Shadowbreaker in Stormwind's Cathedral District.",
+  "d": "The time has come, $N, for you to learn about what it will take for you to acquire something you have no doubt waited on for some time... your charger.$B$BSpeak with Lord Grayson Shadowbreaker here in Stormwind's Cathedral District.  It is he who will guide you not only though the legerdemain of a Paladin's most trusted mount, but the tasks before you to acquire one of your own.$B$BI wish you the best in this trial.  For the Light, noble $G brother : sister;!",
+  "p": "",
+  "c": "I am glad to see you $N. I know that you have awaited word as to how to acquire your charger, and now that time has come.$B$BYou will be surely tested in many different ways, but most importantly in your willingness to rise above numerous obstacles thrust before you. These are not done as a learning exercise - your stature is beyond simple educational tests. You must save your future companion from the clutches of the evil you have spent your life fighting.$B$BTake heed, your time has come!"
+ },
+ {
+  "id": 7639,
+  "t": "To Show Due Judgment",
+  "o": "Return the Exorcism Censer to Lord Grayson Shadowbreaker in the Cathedral District of Stormwind.",
+  "d": "With my blessings, take the censer.  I myself have used it in several exorcisms, and it should serve you well for the arduous tasks that lie ahead.$B$BReturn now to Lord Grayson Shadowbreaker in Stormwind, $N.  Your quest continues with him.",
+  "p": "Welcome back, $N. Have you acquired the exorcism censer?",
+  "c": "Yes, this will do. You will be called upon more than once during this process to make acts of sacrifice; I am glad to see that you are willing to do just that. Sacrifice is a key component in what it takes to uphold the duties of being a Paladin... but I don't have to lecture you on that.$B$BNow $N, you will need to show due judgment in your actions. To that end, this censer will act as your vessel to dispense such judgment on tortured spirits of lands lost to us."
+ },
+ {
+  "id": 7640,
+  "t": "Exorcising Terrordale",
+  "o": "Use the Exorcism Censer to drive out the spirits that torment Terrordale.  When you have slain 25 Terrordale Spirits, return to Lord Grayson Shadowbreaker in the Cathedral District of Stormwind.",
+  "d": "I have added a pinch of dirt from the tainted ground of Terrordale in the Eastern Plaguelands to the censer.  You will now use this censer to find areas there that show signs of spiritual turmoil and disturbance.  Look for green auras that permeate the ground as the physical world buckles under the torment of the spirit realm and use the censer to drive out the evil spirits.$B$BWhen you have passed sufficient judgment on the spirits there, you will be ready to proceed.",
+  "p": "It is good to see you again $N. Is your work done in Terrordale?",
+  "c": "Well done, $N. To render the judgment of the Light on those that dwell in darkness is a task we must approach with vim and zeal; you have done just that with your sacrifice in Ironforge and your judgments of the spirits in Terrordale.$B$BYour next steps will call on both sacrifice and judgment again as you now strive to reclaim the spirit of a fallen charger who now serves a Death Knight known as Darkreaver."
+ },
+ {
+  "id": 7641,
+  "t": "The Work of Grimand Elmore",
+  "o": "Speak with Grimand Elmore in Stormwind's Dwarven District.",
+  "d": "A paladin's charger is nothing more than a pack animal without proper barding for it.  The barding used by your charger not only needs to be of the finest materials possible, but because of the circumstances involved it must also be sufficiently attuned to the spirit realm.$B$BFirst things first, $N - let's get your barding made.  In Stormwind's Dwarven District is one of the finest craftsmen living today, Grimand Elmore.  His work will not be cheap, but his quality is what we seek.  Speak with him.",
+  "p": "",
+  "c": "Hello there - Lord Shadowbreaker sent me word ahead of time that you'd be coming around this way to see me. I'm willing to make the barding you need, but it won't be either cheap or easy; let's get that out in the open first and foremost.$B$BI will say this much, and Grayson will back me up when I make this claim... you'll not find better barding made anywhere in all of Azeroth than right here."
+ },
+ {
+  "id": 7642,
+  "t": "Collection of Goods",
+  "o": "Bring 40 Runecloth, 6 Arcanite Bars, 10 Arthas' Tears, 5 Stratholme Holy Water vials, and 150 gold to Grimand Elmore in the Dwarven District of Stormwind.",
+  "d": "You'll need four things for the barding - runecloth for the lining, arcanite bars for the plating, Arthas' Tears for the spiritual attunement, and Stratholme holy water for the spiritual imbuement.  Actually, you need five things... gold for my fee.  That fee includes all labor as well as a handcrafted saddle and stirrups.$B$BOnce you've got all that, I'll be able to finish your barding.  Until then, there are some things I can get started on for you while you assemble your collection of goods.",
+  "p": "Ah, $C. I won't be able to finish your barding without the things I mentioned. Have you gotten everything together?",
+  "c": "This... well, this is exactly what I needed.  You're quite the resourceful $c, aren't you?$B$BAll right then, let's get this barding finished up for you!"
+ },
+ {
+  "id": 7643,
+  "t": "Ancient Equine Spirit",
+  "o": "Acquire special horse feed used for feeding a spirit horse.  Merideth Carlson in Southshore apparently is the source for such food.$B$BTravel to the Dire Maul dungeon in Feralas and slay Tendris Warpwood.  Doing so will free the Ancient Equine Spirit.  Feed it the special horse feed, thereby soothing the spirit.  Finally, give it the Arcanite Barding so it may bless it.",
+  "d": "Your barding needs a special form of blessing, one from an appropriate spirit.  In Dire Maul is such a spirit, the Ancient Equine Spirit.  It is currently held by a corrupt treant, Tendris Warpwood.  Pass judgment upon this foul beast, $N.$B$BKnow this - freedom alone is not enough.  You must soothe the spirit before receiving its blessing.  For that, special horse feed is needed.  Travel to Southshore first and speak with Merideth Carlson on this... and prepare for more sacrifice.",
+  "p": "The Ancient Equine Spirit looks at you expectantly, as though it wants something from you.",
+  "c": "The Ancient Equine Spirit accepts the offering of the Manna-Enriched Horse Feed, nuzzling the container as it helps itself to the special oats and grains. After it has eaten a little, it looks at the barding you possess and positions itself as though it wants you to place it upon its back..."
+ },
+ {
+  "id": 7644,
+  "t": "Blessed Arcanite Barding",
+  "o": "Return with the Blessed Arcanite Barding to Lord Grayson Shadowbreaker in the Cathedral District of Stormwind.",
+  "d": "As the barding rests on the back of the Ancient Equine Spirit, it glows ever so slightly.  The air is thick with power for a brief moment, and then the barding disappears from the back of the horse and is now secure in your backpack.$B$BIt would seem that the barding has been blessed.  As per Lord Shadowbreaker's instructions, you should now return with it to him in Stormwind.",
+  "p": "$N, you're back! Were you able to successfully deal with Merideth Carlson and Tendris Warpwood?  Honestly, I'm not sure which one is a greater threat at times...",
+  "c": "You've come far, my friend. Your barding is now suitably prepared for the last task at hand.$B$BYou will be using this barding to harness your charger once the task of redemption is complete. Before that, however, you will have a monumental struggle to overcome. Your time draws near - huzzah!$B$BThere is one last item that needs to be made before we begin this, $N. Hopefully your resourcefulness has not departed you since you had your barding made..."
+ },
+ {
+  "id": 7645,
+  "t": "Manna-Enriched Horse Feed",
+  "o": "Retrieve 20 Enriched Manna Biscuits - the key ingredient in making Manna-Enriched Horse Feed - for Merideth Carlson at Southshore in the Hillsbrad Foothills.  The Argent Dawn is known as the sole purveyor of the biscuits.$B$BYou also need to give her 50 gold to soothe her ruffled sensibilities.",
+  "d": "The Silver Hand thought me MAD when I told them that I could make a special horse feed that could nourish spiritual horses.  EVERYONE thought I was mad!  Well, now it's payback time!$B$BI'll make what you need, PALADIN... so-called CHAMPION... but it will cost you.  I need special biscuits - Enriched Manna Biscuits sold only by the Argent Dawn - for this blend.  I also demand, yes DEMAND gold as compensation for the misery I have endured!$B$BShow me the sacrifice you tout so much, PALADIN.",
+  "p": "Yes, I've proved you wrong now, haven't I? I've proved them all wrong! I WAS RIGHT ALL ALONG!!!",
+  "c": "YES, NOW WHO - wait - you're giving me the gold too? You weren't the one who called me mad (actually they called me a fruitcake nut-job)... still, you're willing to show sacrifice even for wrongs you've not committed?$B$BI... I misjudged you, $N.  Should you need more horse feed, come see me. I will give it to you free of charge. Thank you... noble $c.$B$BI am going to keep the money though - I'm not that much of a nut-job as to give up a fortune."
+ },
+ {
+  "id": 7646,
+  "t": "The Divination Scryer",
+  "o": "Bring an Azerothian Diamond and a Pristine Black Diamond to Lord Grayson Shadowbreaker in the Cathedral District of Stormwind.",
+  "d": "We now must assemble a Divination Scryer - this will begin the trial that will allow you to redeem the fallen charger.  Your scryer, actually, is almost done.  The exorcism censer used in Terrordale is the catalyst for it, and I will fashion a suitable housing for the device.$B$BThe last components needed, though, are two diamonds.  They must be as juxtaposed in brilliance as they are in purpose - an Azerothian and a Pristine Black.  These two will be the beacon by which the scryer will pierce the shadows!",
+  "p": "You have come so very far, $N. Your final act of worldly-item sacrifice will be the genesis for one of your greatest accomplishments. I can feel it in the very fiber of my being!",
+  "c": "These are fine specimens, $N - the final pieces are now in place. At long last, your time has come!$B$BIn the depths of the Great Ossuary of Scholomance are the skeletal remains of many beings. Amongst them is a once-noble charger. The hollowed soul of this charger now serves as the steed for Death Knight Darkreaver. It is he whom you will face, and it is this steed that you will pass judgment upon. Only you, $N, can redeem its soul and save it from the torment of its servitude."
+ },
+ {
+  "id": 7647,
+  "t": "Judgment and Redemption",
+  "o": "Use the Divination Scryer in the heart of the Great Ossuary's basement in the Scholomance.  Doing so will bring forth the spirits you must judge.  Defeating these spirits will summon forth Death Knight Darkreaver.  Defeat him and reclaim the lost soul of the fallen charger.$B$BGive the Charger's Redeemed Soul and the Blessed Enchanted Barding to Darkreaver's Fallen Charger.",
+  "d": "Take this satchel - in it are the items you will need for your task.$B$BUse the divination scryer in the heart of the Great Ossuary's basement to bring forth accursed spirits that must be judged.  Use your judgments wisely during this trial - they will prove more potent than you realize.  After the spirits, the death knight will appear; defeat him and reclaim the lost soul of the charger.  Only then $N, will you be able to redeem it and place your barding upon your new steed!$B$BGood luck!",
+  "p": "The spirit of the fallen charger looks upon you with a mournful gaze. Sad, almost hollow eyes look at you as though all hope was lost to it.",
+  "c": "A glimmer of life - long vacant from the poor beast - shines in its eyes as you hand its judged soul back to it. You feel a holy rush of power surge around you as you place the barding on its back, having judged the charger redeemed. The charger nuzzles your hand as the burdens of the past are lifted from the beast. You now feel as though you could call upon this beast to serve as your steed, should the need arise.$B$BYou have claimed your epic charger, $c! Congratulations!"
+ },
+ {
+  "id": 7648,
+  "t": "Grimand's Finest Work",
+  "o": "Take the Arcanite Barding to Lord Grayson Shadowbreaker in Stormwind's Cathedral District for his inspection.",
+  "d": "<Grimand wipes sweat from his brow, beaming with a sense of pride.>$B$BThere you are, my friend.  This is some of my finest work - as good as the barding I personally made for Lord Shadowbreaker when he went for his own charger.  I thank you for your trust in me to provide for you the best.$B$BNo doubt Grayson will want to see the work for himself as well.  Take your barding to him, and give him my thanks for his honorable business.",
+  "p": "You're progressing along nicely, $N. Once you have made your barding, you'll be well on your way to the next task.",
+  "c": "This is most impressive work. It seems that as Grimand gets older, his craftsmanship continues to improve. That's quite the feat when his work was already some of the finest you'd find anywhere when he made my barding back in the day.$B$BWhile this barding would be a fine addition to any normal steed, we are not dealing with such a mundane beast. You'll need this barding blessed by an appropriate source for it to be worthy of resting on a $c's charger. I'll hold onto it for you until then."
+ },
+ {
+  "id": 7649,
+  "t": "Enchanted Thorium Platemail: Volume I",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Well done, my $gboy:girl;.$B$B<Lorekeeper Lydros tears out a page from the book.>$B$BI am sure you can make use of this recipe."
+ },
+ {
+  "id": 7650,
+  "t": "Enchanted Thorium Platemail: Volume II",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Well done, my $gboy:girl;.$B$B<Lorekeeper Lydros tears out a page from the book.>$B$BI am sure you can make use of this recipe."
+ },
+ {
+  "id": 7651,
+  "t": "Enchanted Thorium Platemail: Volume III",
+  "o": "Return the book to its rightful owners.",
+  "d": "The tome carries the mark of the Athenaeum.",
+  "p": "You have recovered a tome!",
+  "c": "Well done, my $gboy:girl;.$B$B<Lorekeeper Lydros tears out a page from the book.>$B$BI am sure you can make use of this recipe."
+ },
+ {
+  "id": 7652,
+  "t": "A Blue Light Bargain",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Aright, $gmister:lady;, I got a hot deal for ya.$B$BI'm lookin' to offload some of these here Imperial plate armor recipes and need someone willing to take on the burden. All I want in exchange is some thorium bars. Sound good?"
+ },
+ {
+  "id": 7653,
+  "t": "Imperial Plate Belt",
+  "o": "",
+  "d": "",
+  "p": "For the belt plans, I'll be needin' 10 thorium bars.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7654,
+  "t": "Imperial Plate Boots",
+  "o": "",
+  "d": "",
+  "p": "For the boot plans, I'll be needin' 20 thorium bars. Yep, 20. Are you gonna cry? Would you like a hanky?$B$B<Derotain laughs.>",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7655,
+  "t": "Imperial Plate Bracer",
+  "o": "",
+  "d": "",
+  "p": "For the bracer plans, I'll be needin' 10 thorium bars.$B$BAre you alright, sonny? Yer getting' all red.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7656,
+  "t": "Imperial Plate Chest",
+  "o": "",
+  "d": "",
+  "p": "For the chest piece plans, I'll be needin' 30 thorium bars.$B$BOh boy, there you go again. Are you gonna be runnin' to yer blue Gods, askin' why they have forsaken you?!? Toughen up, Nancy! Nobody ever said life's fair.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7657,
+  "t": "Imperial Plate Helm",
+  "o": "",
+  "d": "",
+  "p": "Just hand over 25 thorium bars and the helm plans are yers.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7658,
+  "t": "Imperial Plate Leggings",
+  "o": "",
+  "d": "",
+  "p": "Just hand over 30 thorium bars and the leg plans are yers.$B$BI know, I'm driving you into bankruptcy! I've heard it all before so you can save your sob story, weakling.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7659,
+  "t": "Imperial Plate Shoulders",
+  "o": "",
+  "d": "",
+  "p": "For the shoulder plans, I'll be needin' 10 thorium bars.",
+  "c": "A pleasure doin' business with ya.$B$BAnd $N, wipe that look of disgust off yer face."
+ },
+ {
+  "id": 7660,
+  "t": "Wolf Swapping - Arctic Wolf",
+  "o": "",
+  "d": "",
+  "p": "If you bring me your old fast wolf, I will trade it in for one from the new pack.   The new wolf will be just as fast as your old one, but have a different look to it.   You can look at the swift wolves we already have around the yard here to see what it will look like.",
+  "c": ""
+ },
+ {
+  "id": 7661,
+  "t": "Wolf Swapping - Red Wolf",
+  "o": "",
+  "d": "",
+  "p": "If you bring me your old fast wolf, I will trade it in for one from the new pack.   The new wolf will be just as fast as your old one, but have a different look to it.   You can look at the swift wolves we already have around the yard here to see what it will look like.",
+  "c": ""
+ },
+ {
+  "id": 7662,
+  "t": "New Kodo - Teal",
+  "o": "",
+  "d": "",
+  "p": "If you bring me your aging kodo, I will trade it in for one from the new herd.   The new kodo will be just as fast as your old one, but have a different look to it.   You can look at the great kodos we already have around the yard here to see what you will have to choose from.",
+  "c": ""
+ },
+ {
+  "id": 7663,
+  "t": "New Kodo - Green",
+  "o": "",
+  "d": "",
+  "p": "If you bring me your aging kodo, I will trade it in for one from the new herd.   The new kodo will be just as fast as your old one, but have a different look to it.   You can look at the great kodos we already have around the yard here to see what you will have to choose from.",
+  "c": ""
+ },
+ {
+  "id": 7664,
+  "t": "Ivory Raptor Replacement",
+  "o": "",
+  "d": "",
+  "p": "You bring me your old raptor, I give you new one with freshly sharpened claws!  The new raptor will be just as fast as your old one, but with a new look to him.   You can look at the swift raptors here to see what you will have to choose from.",
+  "c": ""
+ },
+ {
+  "id": 7665,
+  "t": "Red Raptor Replacement",
+  "o": "",
+  "d": "",
+  "p": "You bring me your old raptor, I give you new one with freshly sharpened claws!  The new raptor will be just as fast as your old one, but with a new look to him.   You can look at the swift raptors here to see what you will have to choose from.",
+  "c": ""
+ },
+ {
+  "id": 7666,
+  "t": "Again Into the Great Ossuary",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Are you headed back into the Scholomance, $N? You've already paid such a great price for the use of the Divination Scryer - perhaps you'd like to take another one with you. With it, you'd be able to face the perils of the Great Ossuary once more.$b$bBy all means, have it. You've certainly earned it."
+ },
+ {
+  "id": 7667,
+  "t": "Material Assistance",
+  "o": "If you are interested in helping Sagorne Crestrider in Orgrimmar's Valley of Wisdom, bring him an Azerothian Diamond and a Pristine Black Diamond.",
+  "d": "$N, there is a pressing matter I hope you can help with... both materially and spiritually.  Allow me to explain.$B$BWithin the depths of the Scholomance in Lordaeron is a chamber called the Great Ossuary.  I need to complete a device that would pierce the shadows of this horrid room.  To finish what I have started, I need two diamonds: an Azerothian and a Pristine Black.  These are not trivial items, I know - I just don't have the resources myself.$B$BCould you provide me with one of each?",
+  "p": "I feel awkward asking for material assistance, but my divination scryer - the device I hope to finish - requires one of each. If you cannot help me, I'd certainly understand.",
+  "c": "Your generosity is unrivaled, $N. I thank you for your kindness.$B$BI will be able to finish my divination scryer now, and I should be able to fashion more without further need of diamonds... perhaps you would be interested in helping me in its use? It is for a most important task, I assure you... one that left unchecked could spell unmitigated disaster for the spirit realm!"
+ },
+ {
+  "id": 7668,
+  "t": "The Darkreaver Menace",
+  "o": "Use the Divination Scryer in the heart of the Great Ossuary's basement in the Scholomance.  Doing so will bring forth spirits you must fight.  Defeating these spirits will summon forth Death Knight Darkreaver; defeat him.$B$BBring Darkreaver's Head to Sagorne Creststrider in the Valley of Wisdom, Orgrimmar.",
+  "d": "Death Knight Darkreaver lords over the Great Ossuary in the Scholomance.  He threatens to twist the spirit realm to do his own bidding, and he must be stopped!  This is where the scryer you helped make comes into play.$B$BUse the divination scryer in the heart of the Great Ossuary's basement to call forth Darkreaver's spirit minions.  Defeat the spirits and the death knight himself will appear.  $N, bring me his head!  Only his demise will reverse the damage dome to the spirit realm!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7670,
+  "t": "Lord Grayson Shadowbreaker",
+  "o": "Speak with Lord Grayson Shadowbreaker in Stormwind's Cathedral District.",
+  "d": "The time has come, $N, for you to learn about what it will take for you to acquire something you have no doubt waited on for some time... your charger.$B$BSpeak with Lord Grayson Shadowbreaker in Stormwind's Cathedral District.  It is he who will guide you not only though the legerdemain of a Paladin's most trusted mount, but the tasks before you to acquire one of your own.$B$BI wish you the best in this trial.  For the Light, noble $G brother : sister;!",
+  "p": "",
+  "c": "I am glad to see you $N.  I know that you have awaited word as to how to acquire your charger, and now that time has come.$B$BYou will be surely tested in many different ways, but most importantly in your willingness to rise above numerous obstacles thrust before you.  These are not done as a learning exercise - your stature is beyond simple educational tests.  You must save your future companion from the clutches of the evil you have spent your life fighting.$B$BTake heed, your time has come!"
+ },
+ {
+  "id": 7681,
+  "t": "Hunter test quest",
+  "o": "Feed your pet, then talk to your questgiver.",
+  "d": "Cast feed pet on your pet.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7682,
+  "t": "Hunter test quest2",
+  "o": "Feed your pet, then talk to your questgiver.",
+  "d": "Cast feed pet on your pet.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7701,
+  "t": "WANTED: Overseer Maltorius",
+  "o": "Deep within the Slag Pit of the Cauldron, in the Searing Gorge, you will find the traitorous Dark Iron dwarf named Overseer Maltorius.$B$BSlay Overseer Maltorius and take his head. Return the head to Lookout Captain Lolo Longstriker in the Searing Gorge for your reward.",
+  "d": "By order o' 'is eminence, Overseer Oilfist, the rogue Thorium Brotherhood agent an' newly hired commander o' the Dark Iron Slag Pit crew o' the Cauldron, Overseer Maltorius, is to be killed an' 'is head brung back as proof o' the deed.$B$BSee Lookout Captan Lolo Longstriker fer the reward on this bounty.",
+  "p": "Can't ya shee I'm bushy? What *hic* ish it ya be wantin? *hic*",
+  "c": "I never thunk I'd be lookin' at thish ugly mug again!$B$BHe acshually looksh better without the resht o' him attached.$B$BHere's yer reward *hic*, $r."
+ },
+ {
+  "id": 7702,
+  "t": "Kill 'Em With Sleep Deprivation",
+  "o": "Deep within the Slag Pit of the Cauldron, you will find the sleeping quarters of the Dark Iron dwarves.$B$BTravel to the sleeping quarters and steal 20 Dark Iron Pillows. Return to Evonice Sootsmoker in the Searing Gorge when you have accomplished this task.",
+  "d": "If we want to put a dent in the productivity of the Dark Iron forces working out of the Slag Pit, we have to hit them where it's going to hurt the most.$B$BIt's a little known fact but dwarves, particularly of the Dark Iron variety, need rest! Lots of rest!$B$BNow I ask you; How can they sleep without pillows? Exactly, $N, they can't. This is why you must weasel your way into the Slag Pit and steal their pillows.",
+  "p": "Don't let the crazy goggles fool you, $N. I'm the smart one here.",
+  "c": "Wonderful! Those sleepy Dark Irons will head back to their homes in the Depths to get some rest, greatly slowing down the productivity of the Slag Pit."
+ },
+ {
+  "id": 7703,
+  "t": "Unfinished Gordok Business",
+  "o": "Find the Gauntlet of Gordok Might and return it to Captain Kromcrush in Dire Maul.$B$BAccording to Kromcrush, the \"old timey story\" says that Tortheldrin - a \"creepy\" elf who called himself a prince - stole it from one of the Gordok kings.",
+  "d": "Now you da king, so maybe you get prized Gordok artifact back from creepy elf who calls himself Prince!  Da king before you failed, just like all da other kings since Tortheldrin - da creepy elf - stole it from old timey Gordok king!$B$BArtifact is called da Gauntlet of Gordok Might.  Old timey stories say only da one true king da Gordok can get it back.  Old timey story also say creepy elf is still around here - you find it and it will become mighty gauntlet you wear forever!  Yar, I show you!",
+  "p": "Hah, you no find it, do you boss? Maybe old timey story a bad story... hard to believe that creepy elf can steal from Gordok king!",
+  "c": "Wow... you ARE da true $gking:queen;! I never think I see this gauntlet in my life! It look like it got no mojo left anymore... maybe that creepy elf try and ruin gauntlet. Well, I say HAR HAR to him!$b$bLook - this mark on da gauntlet an old old OLD timey magic mark, older than da Gordok they say. Well, as Captain of da Gordok, we all learn one thing over and over - how to make mark come to life and give power back to gauntlet!$b$bI do it for you, $gking:queen;! Here, take da gauntlet and rule FOREVER!"
+ },
+ {
+  "id": 7704,
+  "t": "Look at the Size of It!",
+  "o": "Take Chambermaid Pillaclencher's Pillow to Evonice Sootsmoker in the Searing Gorge.",
+  "d": "Well, well, well... Isn't this a surprise. The Chambermaid had a gigantic ornate pillow and now it's yours. Evonice Sootsmoker will definitely want to get her grubby little hands all over this item. Take it to her and see if she'll offer you any goodies for your trouble.",
+  "p": "That is one huge pillow! Where'd you get it from?",
+  "c": "This is better than even I could have thought possible! The Chambermaid's magical pillow is mine! You better believe you're going to get a nice reward for this accomplishment, $N!"
+ },
+ {
+  "id": 7721,
+  "t": "Fuel for the Zapping",
+  "o": "Collect 10 Water Elemental Cores from the Sea Elementals and Sea Sprays along the Forgotten Coast of Feralas, and bring them back to Zorbin Fandazzle who is near the dock there.",
+  "d": "If I bet against my own better judgment and stay to run an engineering shop along the Forgotten Coast, I will need to deal with these pesky elementals.  Curse the powers of elementalism unchecked, I say!$B$BFortunately for me, and now for you my hopeful agent provocateur, the elementals represent an ideal source of raw power for my Ultra-Shrinker refinement - give them the what-for I say!  When doing this though, be sure to save me the water elemental cores!",
+  "p": "While I could bore you with the technical details of the utility behind elemental cores, I will instead tempt you to completion of this important task by offering valuable coin and prizes for doing so.  Yon verily, are you finished?",
+  "c": "Scrumdillyriffic!  These cores will keep me working for some time.  Add to that the benefit of there now being fewer elementals along the coast, and I might no longer cry myself to sleep at the prospect of having set up shop in perhaps the worst place imaginable!$B$BThank you, $N, for your efforts on my behalf.  While it certainly straps me financially to do this, allow me to show you some gratitude you may understand and appreciate... loot!"
+ },
+ {
+  "id": 7722,
+  "t": "What the Flux?",
+  "o": "Somewhere in the Slag Pit of the Cauldron you will find the Secret Plans: Fiery Flux that Overseer Maltorius stole. Find those plans and return them to Master Smith Burninate in the Searing Gorge.$B",
+  "d": "When that traitor, Maltorius, left our clan, he left with something more valuable than a pristine arcane crystal: Our recipe for fiery flux! I'd bet anything that the recipe was part of the deal in his new promotion amongst the Dark Irons.$B$BI want you to get our secret plans back, $N. I'm sure they're somewhere near Maltorius, deep inside the Slag Pit.",
+  "p": "Did you find the plans?",
+  "c": "I hope you kicked his teeth in too, $N. Ragnaros knows, he deserved it.$B$BNow we can get down to business."
+ },
+ {
+  "id": 7723,
+  "t": "Curse These Fat Fingers",
+  "o": "Hansel Heavyhands wants you to kill 20 Heavy War Golems.$B$BThe Heavy War Golems wander the areas surrounding the Cauldron in the Searing Gorge. When you've killed enough, return to Hansel in Searing Gorge.",
+  "d": "Unfortunately, I can't dish out the beats like I used to, due to this here fat finger problem. Ye see, the climate out here combined with the lack o' air pressure makes me fingers expand. They're like gigantic Thelsamar Blood Sausages, they are...$B$BYe're gonna have to carry out me orders of business and what have ye.$B$BFirst on me agenda: Poundin' the livin' daylights out o' the heavy war golems o' the Gorge. Get crackin'.",
+  "p": "Did ye pound 'em?",
+  "c": "Ye're a good $g lad:lass;, ye are. I got ye a lil' present fer yer troubles."
+ },
+ {
+  "id": 7724,
+  "t": "Fiery Menace!",
+  "o": "Hansel Heavyhands wants you to kill 20 Greater Lava Spiders in the Searing Gorge. You can find Greater Lava Spiders in the plateaus and lava pools of the Searing Gorge.$B$BReturn to Hansel Heavyhands in the Searing Gorge when you have killed enough Greater Lava Spiders.",
+  "d": "Wouldn't ye know it, every time ol' Hansel wants to take a moment to relax and reflect upon his life, the powers that be give him another job.$B$BMe gots to think, come on! Ye know what I be saying? Come. On.$B$BSo, these here greater lava spiders are causin' a ruckus o' some sort. Oilfist says they shoot fire out their... erm, yea well, anyway, such things upset the children.$B$BI guess we gots to kill 'em. Rather, ye gots to kill 'em.",
+  "p": "Was he right? Does it come out their rumps?",
+  "c": "<Hansel sneezes.>$B$BI think I'm gettin' a cold. Damn this frigid climate!"
+ },
+ {
+  "id": 7725,
+  "t": "Again With the Zapped Giants",
+  "o": "Use Zorbin's Ultra-Shrinker to zap any kind of giant found in Feralas into a more manageable form.  Bring 10 Miniaturization Residues found on the zapped versions of these giants to Zorbin Fandazzle at the docks of the Forgotten Coast, Feralas.",
+  "d": "I know you've gathered residue for me already... but should you find yourself for want of an encore performance to a fun-time activity, I can always use more residue.$B$BWhile I can't offer nearly as much in the way of compensation again, I'll be more than happy to spread the good word of your service to all my goblin friends with ears.$B$BBelieve me $g sir : madam; when I say that these goblins have quite large ears.",
+  "p": "Ah, the fruits of research and utilization in the form of sweet, sweet residue.  Well, that is to say, I don't taste it or anything when I study it.$B$BMuch.",
+  "c": "Inconceivably fantastical, $N!  You've come through for me again, and for that I thank you.$B$BThank you!$B$BWhile you may find this coin to be a little less than you're accustomed to, rest assured your great deeds on the field of goblindom are echoing through the halls of power in the Steamwheedle Cartel.  Should you need something else to do, then by all means talk to me!"
+ },
+ {
+  "id": 7726,
+  "t": "Refuel for the Zapping",
+  "o": "Collect 6 Water Elemental Cores from the Sea Elementals and Sea Sprays along the Forgotten Coast of Feralas, and bring them back to Zorbin Fandazzle who is near the dock there.",
+  "d": "More work, you say?  Did my heroic mission of collecting bits of goo found inside elemental beings not slake your thirst for adventure?  Perhaps more of the same will vainly try to fill the bottomless well of questing you possess...$B$BOK, melodrama aside, I do need more water elemental cores.  I'm trying desperately to set up shop here, so the rewards won't be as great... but I promise you I'll tell everyone in earshot how you've helped me.  Trust me on this - I know people in the Cartel!",
+  "p": "Have you managed to find the elemental cores I need?",
+  "c": "Top notch, $N, top notch!  While the coin I give you might not be the most you'll ever receive for such work, rest assured my comrades in the Steamwheedle Cartel will hear about your efforts!$B$BIf you are looking for anything else to do, then let me know.  I can always use more elemental cores and such."
+ },
+ {
+  "id": 7727,
+  "t": "Incendosaurs? Whateverosaur is More Like It",
+  "o": "Hansel Heavyhands wants you to kill 20 Incendosaurs.$B$BYou will find Incendosaurs occupying the lava pools inside the Slag Pit. The Slag Pit can be found in the Cauldron of the Searing Gorge.$B$BReturn to Hansel Heavyhands in the Searing Gorge when you have killed enough Incendosaurs.",
+  "d": "Bunions, $g lad:lass;. Me bunions got bunions. How am I supposed to do any sort of killin' with me feet in such disarray? That's why ye're gonna help.$B$BScrange and Burninate tasked me to kill these things so they can send some expeditionary teams down into the Slag Pit lava pools to do some explorin'. Supposedly some incendosaurs or some such nonsense down there causin' all kinds o' problems. Now move along an' don't come back 'til the incendosaur population be extinct.",
+  "p": "<Hansel is busily rubbing his bunions.>$B$BDon't just stand there, grab some oil and a luffa and get to scrubbin' these bunions.$B$BYe don't have a luffa? Well then! Perhaps it's time I sent you out to find a luffa?$B$BHey, where are ye goin'?",
+  "c": "Oh me achin' feets.$B$BI figured since ye didn't have a luffa..."
+ },
+ {
+  "id": 7728,
+  "t": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+  "o": "Find and return the Smithing Tuyere and Lookout's Spyglass to Taskmaster Scrange in the Searing Gorge.$B$BThe only information you have about these items is the following: They were definitely stolen by Dark Iron dwarves. The Smithing Tuyere is a blacksmithing tool used by blacksmiths and the Lookout's Spyglass is an invaluable monitoring tool to lookouts. ",
+  "d": "The following items have been stolen:$B$B*One Dark Iron Tuyere.$B$B*One Lookout's Spyglass.$B$BA reward is being offered to individuals who find and return these pilfered items.$B$BThe Thorium Brotherhood is certain that these items were stolen by unscrupulous and jealous Dark Iron dwarves that inhabit the Searing Gorge.$B$BThe spyglass in question was an excellent tool for the lookouts and the tuyere was an irreplaceable smithing tool.$B$BShould you find the missing items, return them to Scrange.",
+  "p": "If you're here for the reward, you're gonna have to give me the stolen goods.",
+  "c": "Fantastic work! Now for your reward."
+ },
+ {
+  "id": 7729,
+  "t": "JOB OPPORTUNITY: Culling the Competition",
+  "o": "Slay 15 Dark Iron Taskmasters and 15 Dark Iron Slavers. Return to Taskmaster Scrange in the Searing Gorge once you have accomplished this task.",
+  "d": "Taskmaster Scrange is looking for a few good men and women to help 'cull the competition' in the Searing Gorge.$B$BIf you are interested in this position, venture out into the Searing Gorge and slaughter every Dark Iron Taskmaster and Dark Iron Slaver that you see.$B$BReturn to Taskmaster Scrange when your clothes are bloody enough.$B$BYou'll know when they're bloody enough so don't ask.",
+  "p": "We're gonna need to weigh you with and without clothes to be sure.",
+  "c": "15.9 pounds! That may be a new record for blood and gut weight on apparel! Congratulations, $c!"
+ },
+ {
+  "id": 7730,
+  "t": "Zukk'ash Infestation",
+  "o": "Bring 20 Zukk'ash Carapaces to Hadoken Swiftstrider at Camp Mojache, Feralas.",
+  "d": "From what scouting we have managed to muster, we believe that the foe south of the gnolls is an insect-like race.  Frankly, it is irrelevant whether or not if they're sentient.  If they are driving the gnolls to frenzy against us, then they are as big of a threat - if not more - than the gnolls.$B$BDrive deep into where these Zukk'ash insects dwell; it is known as the Writhing Deep.  Thin their numbers and report back to me what you find, bringing back their carapaces as evidence of your handiwork.",
+  "p": "How goes the hunt, $N?  Are you here to report your success?",
+  "c": "Well done, $c.  Though the extensiveness of the Zukk'ash presence will not be thwarted with anything less than a full-scale invasion, you have bought us some time so we can devise a proper strategy.$B$BI will be sure to have these carapaces analyzed; we'll need to learn everything about them before we deal with what has unfortunately turned into a much larger issue than we had anticipated."
+ },
+ {
+  "id": 7731,
+  "t": "Stinglasher",
+  "o": "Defeat Stinglasher in the Writhing Deep, bringing its glands back to Hadoken Swiftstrider at Camp Mojache, Feralas.",
+  "d": "In surveying the Writhing Deep, one of our scouts reported seeing a giant insect - much larger than the other insects spotted - wandering about the twisted terrain.  Not only is it larger, it also seems to secrete some sort of aura that the other insects don't.  We've given it a name - Stinglasher.$B$BThe innards of this beast would be invaluable to study as we figure out the best way to deal with this new threat.  Cut out its secretion glands and bring it back to me immediately!",
+  "p": "Have you managed to bring down Stinglasher yet?",
+  "c": "Impressive, $c... most impressive!  If Stinglasher is indeed one of their strongest creatures, the study of the beast will prove to be quite valuable in time.  It's now my charge to make sure we defend ourselves long enough to take advantage of it.$B$BPlease accept this coin bounty as a token of the entire camp's thanks, $N.  Well done."
+ },
+ {
+  "id": 7732,
+  "t": "Zukk'ash Report",
+  "o": "Deliver the Camp Mojache Zukk'ash Report to Zilzibin Drumlore.  He resides in the Drag of Orgrimmar.",
+  "d": "You've done doubly well in addressing the threat that the Zukk'ash insects pose to Camp Mojache.  The threat these things pose is far from over, and I'd like to ask you for one last task on behalf of the Horde.$B$BThis is a document that details all the information we have learned about these Zukk'ash insects.  I want you to deliver it to Zilzibin Drumlore in the Drag of Orgrimmar.  He's an expert on alien creatures like these; I hope he can do something with the lore we've obtained.",
+  "p": "Greetings friend... you look as though you are on urgent business.  Is there something I can help you with?",
+  "c": "Ah, I've been expecting this.  These creatures you faced... they are an ancient threat that the Horde continues to choose to ignore.  Hadoken was wise to bring this - and you - to me.$B$BThe Zukk'ash are nothing more than creatures called the silithid.  Some would think that they are a mindless nuisance, but let me assure you - they are a far, far worse threat than anything the Alliance could muster.$B$BIf you're willing and strong enough, I could use your aid in bringing this threat to light."
+ },
+ {
+  "id": 7733,
+  "t": "Improved Quality",
+  "o": "Bring 10 Rage Scar Yeti Hides to Pratt McGrubben at Feathermoon Stronghold, Feralas.",
+  "d": "I have a lead on an even BETTER source of hides, if that's even possible to believe!  In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis.  They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!$B$BI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",
+  "p": "If these Rage Scar yeti hides are anything like the quality displayed by their Feral Scar counterparts, they could very well be as resilient as thorium!$B$BImagine that!",
+  "c": "Excellent, excellent!  These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.$B$BThanks again for your help $N.  Here - please take one of my latest creations."
+ },
+ {
+  "id": 7734,
+  "t": "Improved Quality",
+  "o": "Bring 10 Rage Scar Yeti Hides to Jangdor Swiftstrider at Camp Mojache, Feralas.",
+  "d": "I have a lead on an even BETTER source of hides, if that's even possible to believe!  In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis.  They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!$B$BI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",
+  "p": "If these Rage Scar yeti hides are anything like the quality displayed by their Feral Scar counterparts, they could very well be as resilient as thorium!$B$BImagine that!",
+  "c": "Excellent, excellent!  These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.$B$BThanks again for your aid, $N.  Here - please take one of my latest creations."
+ },
+ {
+  "id": 7735,
+  "t": "Pristine Yeti Hide",
+  "o": "Bring the Pristine Yeti Hide to Pratt McGrubben at the Feathermoon Stronghold, Feralas.",
+  "d": "You have found a pristine yeti hide that is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.$B$BConsidering that Pratt McGrubben at the Feathermoon Stronghold is in the market for yeti hides, this particular one may be of considerable interest to him.",
+  "p": "What's this, $N - you've got something special for me?",
+  "c": "Incredible!  You may have found the granddaddy of all yeti hides with this!$B$BYou better believe I'll pay you for it.  I normally don't pay that much for a single hide, but I'm pretty sure I can make something special from it.  Thanks for thinking of me on this, $N!"
+ },
+ {
+  "id": 7736,
+  "t": "Restoring Fiery Flux Supplies via Kingsblood",
+  "o": "",
+  "d": "",
+  "p": "Let's not waste more of my precious time with jibber jabber, $r. It's time to focus on replenishing our dwindling fiery flux supply.$B$BWhat I'm gonna need from you is the following:$B$B*Incendosaur scales.$B$B*Kingsblood.$B$B*Coal.$B$BI'll take all that you can offer!$B$BAnd you'll do it fast if you wanna get in good with the Brotherhood.",
+  "c": "There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop."
+ },
+ {
+  "id": 7737,
+  "t": "Gaining Even More Acceptance",
+  "o": "",
+  "d": "",
+  "p": "You've worked your way up through the Brotherhood's corporate hierarchy, $r. We have begun to look favorably upon you. Quite an accomplishment!$B$BIf you're interested in more work and earning more respect amongst us, listen up.$B$BWe can refine the fiery flux by adding a simple Dark Iron residue to the mix. The Dark Iron residue can be found in Blackrock Depths.$B$BBring me all the Dark Iron residue you find!",
+  "c": "Keep the residue pouring in!"
+ },
+ {
+  "id": 7738,
+  "t": "Perfect Yeti Hide",
+  "o": "Bring the Perfect Yeti Hide to Jangdor Swiftstrider at Camp Mojache, Feralas.",
+  "d": "You have found what may very well be a perfect yeti hide.  You easily note that it is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.$B$BConsidering that Jangdor Swiftstrider at Camp Mojache is in the market for yeti hides, this particular one may be of considerable interest to him.",
+  "p": "What's this, $N - you've got something special for me?",
+  "c": "This is an incredible find! I believe this is the finest yeti hide specimen I have ever seen!$B$BIndeed, this is certainly worthy of an appropriate bounty. I normally don't pay that much for a single hide, but I'm confident I can make something special from it. Thanks for thinking of me on this, $N!"
+ },
+ {
+  "id": 7761,
+  "t": "Blackhand's Command",
+  "o": "That is one stupid orc. It would appear as if you need to find this brand and gain the Mark of Drakkisath in order to access the Orb of Command.$B$BThe letter indicates that General Drakkisath guards the brand. Perhaps you should investigate.",
+  "d": "Imbecile,$B$BI hold very little faith in your ability to prevent outsiders from accessing the master's lair. In the very likely event of your death, this orb has its own failsafe built in to prevent outsiders from teleporting directly into Blackwing.$B$BOnly those with the Mark of Drakkisath branded upon their hand may make use of this orb. Thankfully, Drakkisath is not nearly as incompetent as you, Quartermaster. He guards the brand himself!$B$B-Warchief Rend Blackhand$B$BP.S. Destroy this letter, idiot.",
+  "p": "",
+  "c": "You don't even flinch as the smoldering brand is pressed into your flesh. You are so tough!$B$BYou now hold the Mark of Drakkisath. Have fun storming the castle."
+ },
+ {
+  "id": 7781,
+  "t": "The Lord of Blackrock",
+  "o": "Return the Head of Nefarian to King Varian Wrynn in Stormwind.",
+  "d": "The old feeling returns. The welcome pangs of victory reverberate throughout your being. Before you lies the monolithic, battle scarred head of Nefarian. Return it to King Varian Wrynn, champion.",
+  "p": "Inconceivable!",
+  "c": "You need not be told the meaning of what you have done, $N. This day will be recorded in the annals of history. A victory the likes of which has not been known to the Alliance for years - if ever!"
+ },
+ {
+  "id": 7782,
+  "t": "The Lord of Blackrock",
+  "o": "Venture to the Valley of Heroes in Stormwind City and speak with Field Marshal Afrasiabi.",
+  "d": "Go to the Valley of Heroes and speak with Field Marshal Afrasiabi.",
+  "p": "",
+  "c": "<Field Marshal Afrasiabi bows.>$B$BChoose your reward, let the celebration begin!"
+ },
+ {
+  "id": 7783,
+  "t": "The Lord of Blackrock",
+  "o": "Return the Head of Nefarian to Thrall in Orgrimmar.",
+  "d": "The old feeling returns. The welcome pangs of victory reverberate throughout your being. Before you lies the monolithic, battle scarred head of Nefarian. Return it to your Warchief, champion.",
+  "p": "I wish that I could have been there to see the look on the face of the beast as you struck the killing blow, $N.",
+  "c": "You have honored the Horde once more, $N. The son of Deathwing lays dead. Surely, the evil one stirs."
+ },
+ {
+  "id": 7784,
+  "t": "The Lord of Blackrock",
+  "o": "Speak with Overlord Runthak in Orgrimmar. He stands waiting for you in the Valley of Strength.",
+  "d": "Seek out Overlord Runthak in the Valley of Strength.",
+  "p": "",
+  "c": "Choose your reward so that I may mount the head of the beast for all to see."
+ },
+ {
+  "id": 7785,
+  "t": "Examine the Vessel",
+  "o": "Examine the Vessel of Rebirth and return it to Highlord Demitrian.",
+  "d": "Examine the vessel of his rebirth, mortal. It is from this that the Windseeker shall be reborn!",
+  "p": "Will you release him from his eternal prison?",
+  "c": "May you be protected in your crusade. May the Master bless your efforts."
+ },
+ {
+  "id": 7786,
+  "t": "Thunderaan the Windseeker",
+  "o": "To free Thunderaan the Windseeker from his prison, you must present the right and left halves of the Bindings of the Windseeker, 10 bars of Elementium, and the Essence of the Firelord to Highlord Demitrian in Silithus.",
+  "d": "I have told you all that I know, $N. It is you who must find elementium. It is you who must destroy the Firelord's corporeal form.$B$BDo this and gain the blessing of Thunderaan.",
+  "p": "Bring the world to its knees if you must!",
+  "c": "Even in dreams I did not dare foresee this day.$B$BBehold, mortal.$B$BBEHOLD HE WHO IS OLDER THAN EXISTENCE!$B$BBEHOLD HE WHO HAS FACED TITAN AND GOD ALIKE!$B$BRISE MY MASTER! BREAK FROM YOUR BONDS!"
+ },
+ {
+  "id": 7787,
+  "t": "Rise, Thunderfury!",
+  "o": "Present the Dormant Wind Kissed Blade to Highlord Demitrian.",
+  "d": "You have defeated the Wind Seeker. Take the dormant blade and force the lying wretch, Demitrian, to use the materials you provided for his betrayal to wake Thunderfury.",
+  "p": "<Demitrian cowers in your presence.>",
+  "c": "Please do not harm me! Take it! Take the blade! Leave Demitrian to reshape his pathetic life!"
+ },
+ {
+  "id": 7788,
+  "t": "Vanquish the Invaders!",
+  "o": "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+  "d": "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7789,
+  "t": "Quell the Silverwing Usurpers",
+  "o": "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",
+  "d": "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+  "p": "The blood of our enemies is a mark of honor. Do you have such a mark?",
+  "c": "<Captain Shatterskull roars in triumph.>$B$BHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, $R... "
+ },
+ {
+  "id": 7790,
+  "t": "REUSE",
+  "o": "",
+  "d": "Defeat the Warsong Mill,then return to me.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 7791,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7792,
+  "t": "A Donation of Wool",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of wool cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7793,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "A benevolent gift such as silk, might I add, would certainly increase your local standing in the community! If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7794,
+  "t": "A Donation of Mageweave",
+  "o": "",
+  "d": "",
+  "p": "If you have the sixty pieces of mageweave cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ },
+ {
+  "id": 7795,
+  "t": "A Donation of Runecloth",
+  "o": "",
+  "d": "",
+  "p": "$n, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, one form of cloth remains critically low - runecloth. We are in absolutely dire need of it, and we hope that you will be able to help us as you have in the past!$b$bIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "c": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.$b$bWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!"
+ },
+ {
+  "id": 7796,
+  "t": "Additional Runecloth",
+  "o": "",
+  "d": "",
+  "p": "Whenever you are ready to hand in the stack of runecloth, I'll accept it.",
+  "c": "$N - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!"
+ },
+ {
+  "id": 7798,
+  "t": "A Donation of Silk",
+  "o": "",
+  "d": "",
+  "p": "A benevolent gift such as silk, might I add, would certainly increase your local standing in the community! If you have the sixty pieces of silk cloth on you and are ready to donate them, I'm able to take them from you now.",
+  "c": "Wonderful! We thank you for your generous donation, $N!"
+ }
+]

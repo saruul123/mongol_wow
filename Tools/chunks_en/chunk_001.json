@@ -1,0 +1,962 @@
+[
+ {
+  "id": 1,
+  "t": "Kanrethad's Quest",
+  "o": "Speak to Kanrethad to restore your talents, weapon and mount.",
+  "d": "Welcome back from the world of death. $B$BIn an age long past you stood proud, a hero among your brethren. Now you stand fallen and broken - a relic of the past. Stand before me, as I awaken the legend that you once were. $B$B I shall restore the weapons and powers you have lost, making you whole once again. ",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 2,
+  "t": "Sharptalon's Claw",
+  "o": "Bring Sharptalon's Claw to Senani Thunderheart at Splintertree Post, Ashenvale.",
+  "d": "The mighty hippogryph Sharptalon has been slain, with the claw of the felled beast serving as a testament to your victory.  Senani Thunderheart at the Splintertree Post will no doubt be interested in seeing this trophy as proof of your deeds.",
+  "p": "Yes, mighty $C, I sensed your arrival. I trust you have more news to report to me about your hunt?",
+  "c": "Most impressive, $N... the claw of Sharptalon could not have been easy to get! The Ashenvale Hunt goes well for you!$B$BSharptalon had long terrorized the peons from the lumber camps near its path as they tried to travel here to Splintertree Post. No doubt once the word gets out that it was you who put down the beast, many rousing songs of your bravery will be heard at campfires and lumber mills across Ashenvale!"
+ },
+ {
+  "id": 5,
+  "t": "Jitters' Growling Gut",
+  "o": "Speak with Chef Grual.",
+  "d": "I've been stuck hiding in this ghost town for weeks, and I haven't eaten anything but grubs and weeds!  I need some decent food, and I'm willing to trade well for it.$B$BBring me a feast and I'll pay you handsomely.$B$BI heard Chef Grual at the Scarlet Raven Tavern in Darkshire makes very good Dusky Crab Cakes...",
+  "p": "Oh, a shipment from my brother? Splendid! Fortune truly shines on me today!",
+  "c": "You need some Crab Cakes, do you? Well I might be able to cook some up for you..."
+ },
+ {
+  "id": 6,
+  "t": "Bounty on Garrick Padfoot",
+  "o": "Kill Garrick Padfoot and bring his head to Deputy Willem at Northshire Abbey.",
+  "d": "Garrick Padfoot - a cutthroat who's plagued our farmers and merchants for weeks - was seen at a shack near the vineyards, which lies east of the Abbey and across the bridge.  Bring me the villain's head, and earn his bounty!$B$BBut be wary, $N.  Garrick has gathered a gang of thugs around him.  He will not be an easy man to reach.",
+  "p": "Did you find Garrick's shack? Are we finally free of that villain?",
+  "c": "Hah - you caught him! You've done Elwynn a great service, and earned a nice bounty!"
+ },
+ {
+  "id": 7,
+  "t": "Kobold Camp Cleanup",
+  "o": "Kill 8 Kobold Vermin, then return to Marshal McBride.",
+  "d": "Your first task is one of cleansing, $N.  A clan of kobolds have infested the woods to the north.  Go there and fight the kobold vermin you find.  Reduce their numbers so that we may one day drive them from Northshire.",
+  "p": "How goes the hunting, $N? Have you found and defeated those vermin?",
+  "c": "Well done, citizen. Those kobolds are thieves and cowards, but in large numbers they pose a threat to us. And the humans of Stormwind do not need another threat.$B$BFor defeating them, you have my gratitude."
+ },
+ {
+  "id": 8,
+  "t": "A Rogue's Deal",
+  "o": "Deliver the Nondescript Letter to Innkeeper Renee in Tirisfal Glades.",
+  "d": "Hey, mate! Do a favor for a young man who's been fighting more than his fair share of mindless zombies and spiders?$B$BI got this here letter that needs to go to Brill... to an innkeeper named Renee something-or-other. Don't really matter none what her last name is.$B$BAnyway, it's a nice cozy little place full of victims of the plague trying to make their way in the world. And it be a great spot for you to rest too if the need arises. You should check it out... you do and I'll pay you well.",
+  "p": "Yes? Yes? What is it?$B$BThe forsaken; they certainly do have huge appetites. Make yourself at home... yes, rest those weary bones. My name's Renee if you need anything at all.",
+  "c": "Oh? A letter? Wonderful news! I've been waiting on word from my dear old mother in Deathknell. Such a saint, she is. I wonder how she's holding up.$B$BWhat? Too cheery? Not buying it, are you?$B$BWell, get lost then... it's really no business who the letter's from anyway. Go on! Get lost!$B$BCome back when you've got some coin to spend... loafer.$B$BNext thing you know, you'll be coming back to rest after a long days adventure or some stupid thing like that."
+ },
+ {
+  "id": 9,
+  "t": "The Killing Fields",
+  "o": "Farmer Saldean wants you to kill 20 Harvest Watchers.",
+  "d": "Look at what has happened to this place!  These lands were once occupied by good farm folk.  But the damned thieves have driven them all off.  Not me, though!  But it seems some Harvest Watchers have taken over the fields.$b$bIf you're up for the work, I'd like you to go out and kill twenty of them.  Come back when you're done for your pay.  If you finish up with the ones in my field, clear them from the neighboring fields as well.",
+  "p": "Ah, I see you're back! I hope you've been hard at work clearing those fields of those Harvest Watchers. Have you killed twenty yet?",
+  "c": "Good work, friend. You have earned your pay well. Who knows, perhaps Westfall will prosper once again."
+ },
+ {
+  "id": 11,
+  "t": "Riverpaw Gnoll Bounty",
+  "o": "Bring 8 Painted Gnoll Armbands to Deputy Rainer at the Barracks.",
+  "d": "Gnolls, brutish creatures with no decent business in these lands, have been seen along the borders of Elwynn Forest.  A large pack of them, many more than we can handle alone, have infested the woods south of the guard tower yonder.  Another group has infested the areas near Stone Cairn Lake to the east.$B$BThe Stormwind Army will commend whomever helps kill them.  Bring me their painted gnoll armbands as proof of your deed.",
+  "p": "Hail, $N. Have you been killing Gnolls...?",
+  "c": "I see you've been busy! You have our thanks, $N."
+ },
+ {
+  "id": 12,
+  "t": "The People's Militia",
+  "o": "Gryan Stoutmantle wants you to kill 15 Defias Trappers and 15 Defias Smugglers then return to him on Sentinel Hill.",
+  "d": "The People's Militia has but one goal:  To defend the lands of Westfall and return peace to our surroundings.  Unfortunately, the price of peace is often blood. $b$bOne of my scouts has brought word of a band of Defias Trappers wreaking havoc nearby.  I have reports of Defias Trapper sightings near the Jangolode Mine to the Northwest as well as at the Molsen Farm and Furlbrow's Pumpkin Farm. If you seek to join our ranks, slay 15 Defias Trappers and 15 Defias Smugglers then return to me.",
+  "p": "Perhaps I did not make myself clear, pledge. In order to prove your worth as a servant to The People's Militia and to the Light you need to slay 15 Defias Trappers and 15 Defias Smugglers then return to me when the deed is done.",
+  "c": "Well done, $N. My scout witnessed your valiant acts. You are proving yourself quite well so far."
+ },
+ {
+  "id": 13,
+  "t": "The People's Militia",
+  "o": "Gryan Stoutmantle wants you to kill 15 Defias Pillagers and 15 Defias Looters and return to him on Sentinel Hill.",
+  "d": "A band of vicious Defias Pillagers has been seen plundering the Gold Coast Quarry, Moonbrook and the Alexston Farmstead.  The People's Militia will not stand for such behavior.  Dispatch immediately, $n, and make the Light's presence known in Westfall.$b$bThe Gold Coast Quarry is near the shore, to the West of the tower.  As the next step of your training, I want you to kill 15 of those foul Defias Pillagers and 15 Defias Looters.",
+  "p": "We have not time to talk, $N. The Defias Pillagers are denying the people of Westfall the peace and prosperity they deserve. Make sure at least 15 Defias Pillagers and 15 Defias Looters have been killed. That will send a clear message that corruption is not welcome here.",
+  "c": "Your worth to The People's Militia has been validated by your brave acts thus far."
+ },
+ {
+  "id": 14,
+  "t": "The People's Militia",
+  "o": "Gryan Stoutmantle wants you to kill 15 Defias Highwaymen, 5 Defias Pathstalkers and 5 Defias Knuckledusters then return to him on Sentinel Hill.",
+  "d": "Some Defias have eluded us.  My most trusted scout reports that these Defias have been looting and pillaging the countryside, all the way into Southern Westfall.  We believe they are hiding out in the Dagger Hills, plotting their next move.   Slay the wretches in the name of The People's Militia.",
+  "p": "$N, now is no time for idle chatter. If you still wish to prove yourself to The People's Militia you need to slay the Defias I notified you about earlier. Return to me when you have completed your duty.",
+  "c": "When I left the tainted lands of Lordaeron I returned to a grim state of affairs here in my homeland. But there is hope for Westfall yet. As proven by your valor in battle, it is obvious to me that you serve our cause with honor. It is with great pride that I induct thee into The People's Militia. May the Light shine upon you."
+ },
+ {
+  "id": 15,
+  "t": "Investigate Echo Ridge",
+  "o": "Kill 8 Kobold Workers, then report back to Marshal McBride.",
+  "d": "$N, my scouts tell me that the kobold infestation is larger than we had thought.  A group of kobold workers has camped near the Echo Ridge Mine to the north.$B$BGo to the mine and remove them.  We know there are at least 8.  Kill them, see if there are more, then report back to me.",
+  "p": "Have you been to the mines? Are you ready to report?",
+  "c": "I don't like hearing of all these kobolds in our mine. No good can come of this. Here, take this as payment, and when you're ready, speak to me again. I would like you to go back to the mines one more time..."
+ },
+ {
+  "id": 16,
+  "t": "Give Gerard a Drink",
+  "o": "",
+  "d": "",
+  "p": "Farming is thirsty work, and I'm always looking for refreshing spring water.$B$BIf you have any, then I'm willing to make a trade.",
+  "c": "Thanks, $N! And come back if you want to trade again."
+ },
+ {
+  "id": 17,
+  "t": "Uldaman Reagent Run",
+  "o": "Bring 12 Magenta Fungus Caps to Ghak Healtouch in Thelsamar.",
+  "d": "I've heard about a newly discovered plant called the magenta fungus caps.  They grow in clusters at the Uldaman dig site and can be found in the early tunnels and deep within the less-explored areas.  I want to study their potential use in alchemy, and that's where you come in.$B$BFind the magenta cap clusters and bring me a dozen caps.  Be warned, the clusters may spew out poison spores if jostled.$B$BDo this for me, and I'll whip up a batch of one of my famous restorative elixirs for you!",
+  "p": "Have you obtained the magenta fungus caps I need for my alchemical work? No caps - no reward!",
+  "c": "Well done $N, you've proven your worth once again! The caps will be an interesting study, yon verily!$B$BAnd now, as promised, enjoy a taste of one of my more potent restorative brews from my personal stock...$B$BIf you are a skilled alchemist, then perhaps we might have some additional business to conduct. Regardless, I thank you for your assistance!"
+ },
+ {
+  "id": 18,
+  "t": "Brotherhood of Thieves",
+  "o": "Bring 8 Red Burlap Bandanas to Deputy Willem outside the Northshire Abbey.",
+  "d": "Recently, a new group of thieves has been hanging around Northshire.  They call themselves the Defias Brotherhood, and have been seen across the river to the east.$B$BI don't know what they're up to, but I'm sure it's not good!  Bring me the bandanas they wear, and I'll reward you with a weapon.",
+  "p": "Have you gathered those bandanas for me yet?",
+  "c": "Back with some bandanas, I see. The Stormwind Army appreciates your help."
+ },
+ {
+  "id": 19,
+  "t": "Tharil'zun",
+  "o": "Bring Tharil'zun's Head to Marshal Marris in Redridge.",
+  "d": "Blackrock Outrunners and Renegades are running ambushes between here and Stonewatch Keep.  The leader of the Outrunners is an orc named Tharil'zun--we want this orc.  Bring me the head of Tharil'zun!",
+  "p": "Orc pressure from Blackrock is still tense. But have you at least rid us of Tharil'zun?",
+  "c": "Tharil'zun was a vicious, crafty orc. Well done - I'm sure he didn't go down easy. Here is your reward, $N."
+ },
+ {
+  "id": 20,
+  "t": "Blackrock Menace",
+  "o": "Bring 10 Battleworn Axes to Marshal Marris in Lakeshire.",
+  "d": "The Blackrock orcs have travelled from the Burning Steppes and claimed Stonewatch Keep to the north.  From there they maraud the areas north of Lakeshire and keep its citizens in town, penned like cattle.$B$BHelp rid Lakeshire of this menace.  Kill these Blackrock orcs and bring me ten of their Battleworn Axes as proof.$B$BAnd although Blackrocks threaten us from the north, we've received reports of more in the southeastern pocket of Redridge.  If you find any there, then they too should be hunted.",
+  "p": "Have you been slaying orcs, $N? If so, then show me...",
+  "c": "That makes for a lot fewer orcs to worry about, thanks."
+ },
+ {
+  "id": 21,
+  "t": "Skirmish at Echo Ridge",
+  "o": "Kill 8 Kobold Laborers, then return to Marshal McBride at Northshire Abbey.",
+  "d": "Your previous investigations are proof that the Echo Ridge Mine needs purging.  Return to the mine and help clear it of kobolds.$B$BWaste no time, $N.  The longer the kobolds are left unmolested in the mine, the deeper a foothold they gain in Northshire.",
+  "p": "I know it's bloody work, $N, but it's vital to the safety of Northshire. Are you ready to report?",
+  "c": "Once again, you have earned my respect, and the gratitude of the Stormwind Army. There may yet be kobolds in the mine, but I will marshal others against them. We have further tasks for you."
+ },
+ {
+  "id": 22,
+  "t": "Goretusk Liver Pie",
+  "o": "Salma Saldean needs 8 Goretusk livers to make a Goretusk Liver Pie.",
+  "d": "The onions are peeled.  The garlic is minced.  The rosemary is crushed.  The crust has been baked.  The dill weed is chopped.  The gravy is simmering.  Now all I need for my famous meat pie are 8 Goretusk Livers!",
+  "p": "All I need for my famous meat pie are 8 Goretusk Livers!",
+  "c": "These are just perfect, $N! Thank you so much. Farmer Saldean and I are going to feast tonight. And here is a little something for you, for the hard work. You didn't think I was going to let a $c like you go hungry, did you?"
+ },
+ {
+  "id": 23,
+  "t": "Ursangous's Paw",
+  "o": "Bring Ursangous's Paw to Senani Thunderheart at Splintertree Post, Ashenvale.",
+  "d": "The paw of the mighty bear Ursangous is your trophy for this part of the Ashenvale Hunt.  On the paw is a small quarter-crescent emblem; the significance of the emblem remains a mystery.$B$BThe paw should be brought to Senani Thunderheart in Splintertree Post to prove that you have bested the mighty creature and completed this portion of the hunt.",
+  "p": "Ah - $N - I was just thinking about you! How goes your hunting?",
+  "c": "Ah, the paw of Ursangous! Your skill is impressive, $c; he is credited with numerous kills. The crescent on his paw is no doubt a sign that he was trained by the night elves that skulk about Ashenvale. Ursangous is... was one of the mightiest bears you'd find in these parts. To have bested such a creature is a testament to your will and resolve.$b$bYour ancestors would be proud!"
+ },
+ {
+  "id": 24,
+  "t": "Shadumbra's Head",
+  "o": "Bring Shadumbra's Head to Senani Thunderheart at Splintertree Post, Ashenvale.",
+  "d": "The once swift Shadumbra now lies still as you claim victory over it.  The head of the slain nightsaber is a fitting trophy for this fight of the Ashenvale Hunt.  Senani Thunderheart at Splintertree Post will want to see such a trophy to award you credit for this part of the Ashenvale Hunt.",
+  "p": "Greetings once again, $N! Have you come to show me proof of your hunt?",
+  "c": "A victory for $N in the Ashenvale Hunt! Well done - the head of Shadumbra is a fitting trophy to claim for such an impressive fight, no doubt.$b$bShadumbra's savagery was well known throughout the post here. Any trip to the west, especially on foot trying to get out to the Zoram Strand, was wrought with danger because of this tiger. Thanks to you, this danger has abated."
+ },
+ {
+  "id": 25,
+  "t": "Stonetalon Standstill",
+  "o": "Dispatch 12 Befouled Water Elementals at Mystral Lake, due east of the Talondeep Path and southwest of Splintertree Post.$B$BScout the gazebo on Mystral Lake that overlooks the nearby Alliance outpost.$B$BReturn to Mastok Wrilehiss at Splintertree Post, Ashenvale.",
+  "d": "If you want to be useful, then why don't you do something about the situation near Talondeep Path?$B$BThe transports between Ashenvale and Stonetalon are at a standstill because of the lake coming alive and attacking anything that gets close... which means anyone on the path.  What'd be even more useful than just putting the hammer down on the water elementals there is someone scouting the gazebo on Mystral Lake - the one that has a solid view of the Alliance outpost there.$B$BYou up for being useful?",
+  "p": "You back already? What's the situation out there - all cleared up now, thanks to you?",
+  "c": "Yeah, I heard that someone tore up the lake out there like a dust devil through the Barrens. From the sound of it too, we might be able to set up a possible observation area out there to keep an eye on our Alliance friends. Well, that is if we can keep it on the down low...$B$BLooks like you ended up being quite useful after all; the transports between here and Stonetalon should have an easier time of it. Take this - you've earned it."
+ },
+ {
+  "id": 26,
+  "t": "A Lesson to Learn",
+  "o": "Speak with Dendrite Starblaze in the village of Nighthaven, Moonglade.",
+  "d": "$N, I have been following your progress with much delight.  You are most assuredly developing yourself into a valued protector of nature.$B$BThe time has come for you to learn more about one of the various animal aspects that Cenarius has blessed us with the ability to change into - one that affords you command and mastery of the water.  For this, you must travel to the village of Nighthaven in Moonglade and speak with Dendrite Starblaze of the Cenarion Circle there.  He will guide you further.",
+  "p": "",
+  "c": "Salutations, young $c; the time has come for you to know our aquatic form. It is one that lets you move freely and indefinitely through water. You will find this aspect a useful tool and a blessing... but it is one that must be earned before it is mastered.$B$BYou will face two trials to overcome. The first will test your ability to work in water under pressure. The second will test your resolve to understand the aspects of the form itself.$B$BStand ready, as the time of testing is now upon us."
+ },
+ {
+  "id": 27,
+  "t": "A Lesson to Learn",
+  "o": "Speak with Dendrite Starblaze in the village of Nighthaven, Moonglade.",
+  "d": "$N, I have been following your progress with much delight.  You are most assuredly developing yourself into a valued protector of nature.$B$BThe time has come for you to learn more about one of the various animal aspects that Cenarius has blessed us with the ability to change into - one that affords you command and mastery of the water.  For this, you must travel to the village of Nighthaven in Moonglade and speak with Dendrite Starblaze of the Cenarion Circle there.  He will guide you further.",
+  "p": "",
+  "c": "Salutations, young $c; the time has come for you to know our aquatic form. It is one that lets you move freely and indefinitely through water. You will find this aspect a useful tool and a blessing... but it is one that must be earned before it is mastered.$B$BYou will face two trials to overcome. The first will test your ability to work in water under pressure. The second will test your resolve to understand the aspects of the form itself.$B$BStand ready, as the time of testing is now upon us."
+ },
+ {
+  "id": 28,
+  "t": "Trial of the Lake",
+  "o": "Find a Shrine Bauble in Lake Elune'ara, and take it to the Shrine of Remulos in northwestern Moonglade.  Once there, use the Shrine Bauble.$B$BYou must speak with Tajarri at the shrine afterwards in order to complete the trial.",
+  "d": "For your first trial, search the depths of Lake Elune'ara to locate a Shrine Bauble.  It decays rapidly, so proceed with it to the Shrine of Remulos post haste.  Use the bauble at the shrine, and then speak with Tajarri there; she is one of Moonglade's most trusted wardens.$B$BYou only have a set amount of time to complete the task, and you may be competing against other druids searching for baubles themselves.  Mental and physical dexterity will be critical to your success.$B$BGood luck, $N.",
+  "p": "",
+  "c": "Well now. it looks like yet another druid has successfully completed the Trial of the Lake! Well done. my young friend - well done.$B$BAs I've said. my name is Tajarri. It is my duty and my privilege to serve as a warden for Moonglade. and specifically this shrine. Keeper Remulos guides the Cenarion Circle in preservation of nature and balance. and his shrine serves as a lasting tribute to such. By using the bauble here. it serves as a nod to the importance of this place within the Circle."
+ },
+ {
+  "id": 29,
+  "t": "Trial of the Lake",
+  "o": "Find a Shrine Bauble in Lake Elune'ara, and take it to the Shrine of Remulos in northwestern Moonglade.  Once there, use the Shrine Bauble.$B$BYou must speak with Tajarri at the shrine afterwards in order to complete the trial.",
+  "d": "For your first trial, search the depths of Lake Elune'ara to locate a Shrine Bauble.  It decays rapidly, so proceed with it to the Shrine of Remulos post haste.  Use the bauble at the shrine, and then speak with Tajarri there; she is one of Moonglade's most trusted wardens.$B$BYou only have a set amount of time to complete the task, and you may be competing against other druids searching for baubles themselves.  Mental and physical dexterity will be critical to your success.$B$BGood luck, $N.",
+  "p": "",
+  "c": "Well now. it looks like yet another druid has successfully completed the Trial of the Lake! Well done. my young friend - well done.$B$BAs I've said, my name is Tajarri. It is my duty and my privilege to serve as a warden for Moonglade, and specifically this shrine. Keeper Remulos guides the Cenarion Circle in preservation of nature and balance, and his shrine serves as a lasting tribute to such. By using the bauble here, it serves as a nod to the importance of this place within the Circle."
+ },
+ {
+  "id": 30,
+  "t": "Trial of the Sea Lion",
+  "o": "Find the Half Pendant of Aquatic Agility and the Half Pendant of Aquatic Endurance.  Speak with the residents of Moonglade to learn clues as to where these items may be located.$B$BForm the Pendant of the Sea Lion from the two pendant halves.  You need to be in proximity of the Shrine of Remulos to do this.$B$BBring the joined pendant to Dendrite Starblaze in the village of Nighthaven, Moonglade.",
+  "d": "For the second trial, you'll need the two halves that make the Pendant of the Sea Lion.  One half draws power from the agility of the sea lion aspect, gliding through water; the other draws power from the incredible endurance of the sea lion aspect.  Druids draw on both these traits equally to embody the aspect of their aquatic form.$B$BSpeak with the locals of Moonglade to learn where the parts may lie, and bring both here to join them together.  Once formed, take the pendant to Dendrite Starblaze.",
+  "p": "Have you formed your pendant for me to inspect, $N? If you need help in locating the parts, try asking the local populace for information. Not only will you find what you seek, but it will give you a reason to explore this wondrous and sacred glade.",
+  "c": "You've completed the Trial of the Sea Lion, $N - congratulations.$B$BEach task in acquiring the pendant shows that both agility and endurance are necessary to act in harmony with what you desire to do underwater. Neither can exist without the other, and both cannot be done without you willingness to embrace the aspect of the sea lion.$B$BRemember these lessons well, and count on them once you have gained your aquatic form."
+ },
+ {
+  "id": 31,
+  "t": "Aquatic Form",
+  "o": "Return to Thunder Bluff and show Turak Runetotem the Pendant of the Sea Lion.",
+  "d": "You have completed the necessary lessons all young druids are taught before they can adopt an aquatic aspect.  Go now back to your trainer, Turak Runetotem, in Thunder Bluff.  Show him your pendant and prove to him you are ready to learn what he has to teach you.  He will complete your training, allowing you to become one with the water.$B$BGoodbye, young druid.  We shall speak again.",
+  "p": "Your return to Thunder Bluff is not without heralding, though I will need proof of your lessons learned in Moonglade before I will teach you your aquatic form.$B$BDo you have the Pendant of the Sea Lion?",
+  "c": "Very impressive, $N. Your ancestors would be pleased with your progress! You're ready to learn your aquatic form, and it is my pleasure to teach it to you.$B$BAlso, in recognition of your achievement during the two trials, I give you this item. I hope you'll find it to be a welcome addition to your gear as a protector of nature and a keeper of the balance."
+ },
+ {
+  "id": 32,
+  "t": "Rise of the Silithid",
+  "o": "Take the report to Zilzibin Drumlore in Orgrimmar.",
+  "d": "Here's your report.  I urge you to take it to someone who might have working knowledge in this kind of thing.$B$BI know this troll scholar named Zilzibin Drumlore.  He's spent a lot of time studying life forms that are unique to the ecology of Azeroth; he's a historian to boot!  If you want someone to help figure out what exactly this threat is and how to stop it, give this report to him.  We're going to need all the help we can get.$B$BZil lives in a house on the second tier of the Drag in Orgrimmar.",
+  "p": "I'm sorry. I don't know you... but from the look of things you have at least heard something of me. Now, what can I help you with? Do you have something for me?",
+  "c": "This report... I've dealt with these beasts before. Fizzledowser was wise to send this. and you, to me.$b$bThese creatures will consume the Tanaris desert rapidly; they are nothing short of one of the greatest menaces we all will ever face. Familiarize yourself with this name, $N: silithid. The insects mentioned here are the silithid, and they are the tools of one of the greatest threats that both the Horde and Alliance face.$b$bIf only we were smart enough to see that before."
+ },
+ {
+  "id": 33,
+  "t": "Wolves Across the Border",
+  "o": "Bring 8 Diseased Wolf Pelts to Eagan Peltskinner outside Northshire Abbey.",
+  "d": "Whatever is affecting these wolves isn't going away. Each day that passes brings forth more sick wolves. It pains me to ask anyone to kill nature's beasts, but we must destroy the diseased young wolves before this little outbreak turns into an epidemic.$B$BKill diseased young wolves in the valley and bring me their diseased wolf pelts as proof of your deed.$B",
+  "p": "Hey $N. How goes the hunt for diseased young wolves?",
+  "c": "'Twas a grim task, friend, but you held up your part of the bargain.\r\n\r\nI have some things here you might want - take your pick!"
+ },
+ {
+  "id": 34,
+  "t": "An Unwelcome Guest",
+  "o": "Martie Jainrose of Lakeshire wants you to kill Bellygrub.  Bring her his tusk as proof.",
+  "d": "Once again my garden was trampled and pillaged.  And I know the brute who is doing it.  It's that forsaken boar, the one Marshal Marris has taken to calling Bellygrub.$b$bI won't be able to re-plant the daffodils until next season now.  Ruined!  All ruined by that one menacing boar.  Put an end to that pest!  Show me his tusk and I'd be happy to reward you.  He seems to spend his time foraging in the field southwest of Lakeshire but occasionally he roams over here and into my garden.",
+  "p": "Is Bellygrub still at it or were you able to rid Lakeshire of the pest once and for all?",
+  "c": "Finally the menace is laid to rest! Thank you, $N, you have done me a great service. The garden shall be in full bloom this season!"
+ },
+ {
+  "id": 35,
+  "t": "Further Concerns",
+  "o": "Marshal Dughan wants you to speak with Guard Thomas.",
+  "d": "If you are concerned that the rumors of murlocs are true, then do this -- travel to the eastern Elwynn bridge and speak with Guard Thomas.  He has been stationed at the bridge for the past week and will know the state of the area.$B$BBring me his report.",
+  "p": "",
+  "c": "Yes, murlocs have settled in and around the streams of eastern Elwynn. We don't know why they are here, but they are aggressive and at least semi-intelligent."
+ },
+ {
+  "id": 36,
+  "t": "Westfall Stew",
+  "o": "Verna Furlbrow wants you to deliver her recipe for Westfall Stew to Salma Saldean.",
+  "d": "I never thought the day would come when I'd leave the farm.  But the fields are overrun with thieves and it's far too dangerous for us here now.  As soon as Farmer Furlbrow gets the wagon fixed, we'll be on our way.  $b $bMaybe you could do me a favor?  Let me scribble down my recipe for Westfall stew.  Please take it to Salma Saldean over on the farm yonder.  The Saldean's farm is just beyond the fork in the road.",
+  "p": "I'm going to miss that Verna Furlbrow so much. I don't suppose you happened to see her on your way here?",
+  "c": "That Verna was always such a sweet lass. We'll miss her here in Westfall but between you and me, she's a city girl at heart and Stormwind will suit her just fine. But enough gossip! Now we can make Westfall Stew!"
+ },
+ {
+  "id": 37,
+  "t": "Find the Lost Guards",
+  "o": "Guard Thomas wants you to travel north up the river and search for the two lost guards, Rolf and Malakai.",
+  "d": "A few days ago we sent two Guards, Rolf and Malakai, to investigate along the river, and they have not yet returned.  To complete my report, I must know what happened to those men.$B$BTravel north along the river and find the guards... or their remains.",
+  "p": "",
+  "c": "Although much has been stripped from the corpse, strewn nearby is a medallion with the words: \"Footman Malakai Stone\" etched upon it."
+ },
+ {
+  "id": 38,
+  "t": "Westfall Stew",
+  "o": "Salma Saldean wants 3 Stringy Vulture Meat, 3 Goretusk Snouts, 3 Murloc Eyes, 3 Okra.",
+  "d": "Help me make some Westfall Stew!  Come back with the following ingredients: $b $b 3 Stringy Vulture Meat $b 3 Goretusk Snouts $b 3 Murloc Eyes $b 3 Okra",
+  "p": "Come back with the following ingredients: $b $b 3 Stringy Vulture Meat $b 3 Goretusk Snouts $b 3 Murloc Eyes $b 3 Okra",
+  "c": "That Okra will thicken up this broth nicely! Now we just add the Stringy Vulture Meat, a few Murloc Eyes and those delicious Goretusk Snouts. And we're done! For all your help, $N, I want you to take today's first batch of Westfall Stew!"
+ },
+ {
+  "id": 39,
+  "t": "Deliver Thomas' Report",
+  "o": "Report to Marshal Dughan in Goldshire.",
+  "d": "Tell Marshal Dughan of Malakai and Rolf's deaths, and report to him that the Murlocs in eastern Elwynn cannot be contained by our current troop presence.$B$BI know we don't have many troops to spare, but hopefully Dughan can find someone.",
+  "p": "",
+  "c": "Hmm, this news is troubling. Already our defenses are stretched thin, and losing Rolf and Malakai to those murlocs put us in an even worse position.$B$BIf things don't improve, there will be fighting in Goldshire by the week's end!"
+ },
+ {
+  "id": 40,
+  "t": "A Fishy Peril",
+  "o": "Remy \"Two Times\" wants you to speak with Marshal Dughan in Goldshire.",
+  "d": "$N, there's a new threat in Elwynn Forest!  Murlocs are swimming up the streams of eastern Elwynn, scaring away fish and attacking gentle folk!$B$BI warned Marshal Dughan, but he's more worried about the gnolls and the bandits.  He's not convinced that the murlocs are a danger.$B$BPlease, $N, speak to Dughan and persuade him to send more troops to the east!",
+  "p": "",
+  "c": "Yes, I spoke with Remy. I respect him as a merchant, though all reports of Murlocs to the east have been sketchy at best.$B$BYour concerns are noted, but unless I receive a military report of a murloc threat, we can't afford to send more troops east."
+ },
+ {
+  "id": 45,
+  "t": "Discover Rolf's Fate",
+  "o": "Search the murloc village for Rolf, or signs of his death.",
+  "d": "Upon further searching the area, you find webbed footprints leading east along the shore of Stone Cairn Lake.  In the distance to the east, you can just barely see a Murloc village.$B$BPerhaps Rolf's fate ended there...",
+  "p": "",
+  "c": "You find around the neck of the corpse a metal medallion inscribed with the words \"Footman Rolf Hartford.\""
+ },
+ {
+  "id": 46,
+  "t": "Bounty on Murlocs",
+  "o": "Bring 8 Torn Murloc Fins to Guard Thomas at the east Elwynn bridge.",
+  "d": "The Stormwind Army has placed a bounty on murloc lurkers and foragers in Elwynn.  Slaughter them and bring me their torn murloc fins, and the Stormwind Army will reward you well.$B$BThe murlocs have built a village at Stone Cairn Lake north of here, and another to the south where the stream forks.",
+  "p": "How goes the hunting, $N?",
+  "c": "You have the fins? Great! Marshal Dughan is anxious about the Murloc situation in eastern Elwynn, and I'd like to tell him that it's becoming under control.$b$bYour actions have helped realize that."
+ },
+ {
+  "id": 47,
+  "t": "Gold Dust Exchange",
+  "o": "Bring 10 Gold Dust to Remy \"Two Times\" in Goldshire.  Gold Dust is gathered from Kobolds in Elwynn Forest.",
+  "d": "The Kobolds in these parts sometimes carry Gold Dust on them.  I could really use the stuff - bring me a load of it and I'll give you the best price in town...best price in town!$B$BYou can find kobolds in the Fargodeep Mine to the south, and around the Jasperlode Mine to the northeast.",
+  "p": "Psst! You have that Gold Dust for me...for me?",
+  "c": "Thanks for the dust, $N. Here's your cash, and...here is a token from associates of mine. You might find it useful...useful."
+ },
+ {
+  "id": 48,
+  "t": "Sweet Amber",
+  "o": "Bring Holy Spring Water to Grimbooze Thunderbrew.",
+  "d": "In the land to the south where vines twist and creep$bLies a hidden well where the water runs deep$bPure as the Light's sacred Daughter$bBring to me now some Holy Spring Water.",
+  "p": "Hiccup! Ho ho! You want an encore?$B$BIn the land to the south where vines twist and creep$BLies a hidden well where the water runs deep$BPure as the Light's sacred Daughter$BBring to me now some Holy Spring Water.",
+  "c": "Hiccup! Ho Ho!"
+ },
+ {
+  "id": 49,
+  "t": "Sweet Amber",
+  "o": "Grimbooze Thunderbrew wants a Sack of Barley, a Sack of Rye and a Sack of Corn.",
+  "d": "Amber is the hue of my life's longest love$bLike the last embers of dusk in the sky above$bRetrieve for me so that my love shall be born$bOne sack of each: barley, rye and corn.",
+  "p": "Encore? Well, sure!$B$BAmber is the hue of my life's longest love$BLike the last embers of dusk in the sky above$BRetrieve for me so that my love shall be born$BOne sack of each: barley, rye and corn.",
+  "c": "Hiccup! Ho ho!"
+ },
+ {
+  "id": 50,
+  "t": "Sweet Amber",
+  "o": "Grimbooze Thunderbrew wants Truesilver.",
+  "d": "I'll mix and mix till we have a mash$bFor this will be our own private stash$bA still must be fashioned of metal strong$bBring me some Truesilver so I can finish this song.",
+  "p": "An encore for you? Well sure friend!$B$BI'll mix and mix till we have a mash$BFor this will be our own private stash$BA still must be fashioned of metal strong$BBring me some Truesilver so I can finish this song.",
+  "c": "Hiccup! Ho ho!"
+ },
+ {
+  "id": 51,
+  "t": "Sweet Amber",
+  "o": "Bring a Sycamore Branch to Grimbooze Thunderbrew.",
+  "d": "Not yet filtered but freshly distilled$bLike unseeded land waiting there tilled.$bNext I will fashion our pile of charcoal$bDeliver a sycamore branch, that is your next goal.",
+  "p": "An encore? Why for you, anything!$B$BNot yet filtered but freshly distilled$BLike unseeded land waiting there tilled.$BNext I will fashion our pile of charcoal$BDeliver a sycamore branch, that is your next goal.",
+  "c": "Hiccup! Ho ho!"
+ },
+ {
+  "id": 52,
+  "t": "Protect the Frontier",
+  "o": "Kill 8 Prowlers and 5 Young Forest Bears, and then return to Guard Thomas at the east Elwynn bridge.",
+  "d": "Hail, $N.  Wild animals are growing more and more aggressive the farther we get from Goldshire, and the Eastvale Logging Camp suffers nearly constant attacks from wolves and bears!$B$BWe could use your help out here.",
+  "p": "Have you killed those wolves and bears?",
+  "c": "Thanks a lot for the help, $N. Something in the forest must be making these animals so bold.$B$BWhatever it is, I hope it stays there."
+ },
+ {
+  "id": 53,
+  "t": "Sweet Amber",
+  "o": "Bring Grimbooze Thunderbrew a bundle of Charred Oak.",
+  "d": "Mellifluous liquid clear as a baby's tears$bTurns a lovely deep amber over the years$bBut before we proceed to get lit to the hilt$bA barrel of charred oak must be built.",
+  "p": "Sure, I'll sing it again for you, friend!$B$BMellifluous liquid clear as a baby's tears$BTurns a lovely deep amber over the years$BBut before we proceed to get lit to the hilt$BA barrel of charred oak must be built.",
+  "c": "Aged in the barrel, filtered through coal$BIt passes your lips and right through your soul.$BSo lets us drink now, a toast to you$BAnd me while we're at it, Grimbooze Thunderbrew!"
+ },
+ {
+  "id": 54,
+  "t": "Report to Goldshire",
+  "o": "Take Marshal McBride's Documents to Marshal Dughan in Goldshire.",
+  "d": "$N, you are a $c with proven interest in the security of Northshire.  You are now tasked with the protection of the surrounding Elwynn Forest.$B$BIf you accept this duty, then I have prepared papers that must be delivered to Marshal Dughan in Goldshire.  Goldshire lies along the southern road, past the border gates.",
+  "p": "You have word from McBride? Northshire is a garden compared to Elwynn Forest, but I wonder what Marshal McBride has to report.$b$bHere, let me have his papers...",
+  "c": "Well, it says here that you've been awarded Acting Deputy Status with the Stormwind Marshals. Congratulations.$b$bAnd good luck - keeping Elwynn safe is no picnic... what with most the army busy doing who knows what for who knows which noble!$b$bIt's hard to keep track of politics in these dark days..."
+ },
+ {
+  "id": 55,
+  "t": "Morbent Fel",
+  "o": "Use Morbent's Bane on Morbent Fel, kill Morbent Fel, then return Morbent's Bane to Sven at his camp.",
+  "d": "Morbent Fel hides in his lair, the house perched atop the hill to the east overlooking the Raven Hill cemetery.  His time in this land is drawing to an end...$B$BUse Morbent's Bane against him.  It will render his protective magics powerless.$B$BSlay him.  Slay him, and save us from his wickedness.  Be the instrument of my revenge, and a hero of Duskwood!",
+  "p": "Is Morbent Fel defeated?!",
+  "c": "Morbent Fel has been defeated. The dark riders are still at large, but a small piece of that which I had hoped beyond hope has come to pass.$b$bYou have done the impossible, and your deeds will forever live in the legends of Duskwood.$b$bGo, $N. And perhaps, one day, fate may bring you back to me..."
+ },
+ {
+  "id": 56,
+  "t": "The Night Watch",
+  "o": "Commander Althea Ebonlocke of Darkshire wants you to kill 8 Skeletal Warriors and 6 Skeletal Mages.",
+  "d": "As Commander of The Night Watch it is my sworn duty to protect the citizens of Darkshire.  Stormwind has retracted their commissioned guards from their posts here, leaving us to our own devices.$b$bIf you feel worthy of the task, we need your help! Assist The Night Watch by venturing forth into Tranquil Gardens, just south of Darkshire, and slaying 8 Skeletal Warriors and 6 Skeletal Mages.  The undead threat must be thwarted!",
+  "p": "Have you killed those warriors and mages?",
+  "c": "Splendid, $N. For your service to the people of Darkshire you shall be rewarded."
+ },
+ {
+  "id": 57,
+  "t": "The Night Watch",
+  "o": "Commander Althea Ebonlocke of Darkshire wants you to kill 15 Skeletal Fiends and 15 Skeletal Horrors.",
+  "d": "$N, I'm getting reports of an undead infestation in the forest!  If you're up to the job, journey to the Raven Hill graveyard and slay 15 of those vile Skeletal Fiends and 15 Skeletal Horrors.  There are also reports of skeletons just south of Darkshire, in and around Tranquil Gardens Cemetery.  The undead must be driven from Duskwood!",
+  "p": "Return to me once you have killed 15 Skeletal Fiends and 15 Skeletal Horrors, $N.",
+  "c": "The people of Darkshire thank you, $N. You have proven yourself to be a great ally of The Night Watch."
+ },
+ {
+  "id": 58,
+  "t": "The Night Watch",
+  "o": "Commander Althea Ebonlocke of Darkshire wants you to kill 20 Plague Spreaders in the eastern Raven Hill mausoleum.",
+  "d": "The situation in Raven Hill is still grim.  The safety of Darkshire is in your hands, $N.  I don't have enough Watchers to keep the town safe.  We need you to dispatch for Raven Hill yet again and rid the eastern mausoleum of 20 Plague Spreaders!",
+  "p": "I need your assistance, $N. Travel to the cemetery to the northwest and rid the eastern mausoleum of 20 Plague Spreaders.$B$BReturn to me when your task is complete.",
+  "c": "On behalf of the people of Darkshire and as the Leader of the Night Watch, I thank you, $N, for your bravery and dedication. May the Light shine upon your ways."
+ },
+ {
+  "id": 59,
+  "t": "Cloth and Leather Armor",
+  "o": "Give Sara Timberlain the Stormwind Armor Marker.",
+  "d": "For your shrewdness and valor, I have a marker here that is good for one piece of armor.  I want you to take it to Sara Timberlain at the Eastvale Logging Camp.  Give her the marker, and she will fashion the armor for you.  And after you receive it, $N, use it in the defense of Elwynn.$B$BThe Eastvale Logging Camp is beyond Guard Thomas' post to the east.",
+  "p": "I have been commissioned by the Stormwind Army to supply their people with cloth and leather armor.$b$bIf you have a marker for me, then I'd be happy to make you something.",
+  "c": "Ah, thank you for the marker. Please feel free to pick your choice of armor.$b$bLuck to you, brave $c. And may this armor serve you well."
+ },
+ {
+  "id": 60,
+  "t": "Kobold Candles",
+  "o": "Bring 8 Large Candles to William Pestle in Goldshire.",
+  "d": "Hello, $ggood sir:my lady;!  Do you have a moment?$B$BMy brother and I run an apothecary in Stormwind, and I'm here to gather large candles for their wax.  Can you help me?$B$BYou can get large candles from kobolds, and I hear rumors that kobolds are infesting the Elwynn mines ... the Fargodeep mine to the south and Jasperlode Mine to the east.  I suggest looking for candles in one of those places.",
+  "p": "Did you gather those candles yet?",
+  "c": "You were busy hunting kobolds, were you? Thanks for the candles, $N, and here's your reward..."
+ },
+ {
+  "id": 61,
+  "t": "Shipment to Stormwind",
+  "o": "Bring William's Shipment to Morgan Pestle in the Stormwind Trade District.",
+  "d": "My brother Morgan is waiting in Stormwind for my shipment of candles.  I don't have enough time to make the trip myself, but if you'd like to take him the shipment, he'll pay you well.$B$BI've packed up the candles, and you can find Morgan in our shop, Pestle's Apothecary, in the Stormwind Trade District.",
+  "p": "Oh, a shipment from my brother? Splendid! Fortune truly shines on me today!",
+  "c": "Here is your payment ... and while you're here, take a look around! I'm sure we have a potion or other trinket you'd find useful."
+ },
+ {
+  "id": 62,
+  "t": "The Fargodeep Mine",
+  "o": "Explore the Fargodeep Mine, then return to Marshal Dughan in Goldshire.",
+  "d": "The mine in Northshire isn't the only one with problems!  I have reports that the Fargodeep Mine in Elwynn has also become a haven for Kobolds.$B$BExplore the mine and confirm these reports, then return to me.  The mine is almost due south of Goldshire, between the Stonefield and Maclure homesteads.",
+  "p": "What do you have to report, $N? Have you been to the Fargodeep Mine?",
+  "c": "This is bad news. What's next, dragons?!? We'll have to increase our patrols near that mine. Thanks for your efforts, $N. And hold a moment... I might have another task for you."
+ },
+ {
+  "id": 63,
+  "t": "Call of Water",
+  "o": "Defeat the Corrupt Manifestation of Water and place the Corrupted Manifestation's Bracers along with the Remaining Drops of Purest Water on the Brazier of Everfount in Silverpine Forest.",
+  "d": "Along the coast of Silverpine, west of the Sepulcher, you will find a shrine that has become tainted by the plague. The spirits there no longer speak to our people and it will be up to you to defeat the manifestation and cleanse the pool.$B$BTake the elemental's bracers, along with the remaining drops of Brine's potion, and place them on the brazier. The ritual should be enough to summon a pure spirit for you to communicate with.$B$BBring me proof the task is done, and I will reward you with your totem.",
+  "p": "The brazier still reflects the ambient light from the are, and the flame shifts slightly as you move closer.$B$BThe corruption along the hills seems to have kept its distance, and besides the missing components, the brazier looks prepared for the ritual to summon a cleansed manifestation of water.",
+  "c": "You place the bracers atop the brazier and then pour the remaining drops of Brine's potion into the flame. The drops crackle as they hit the flame and you begin to incant the simple words Islen taught you...."
+ },
+ {
+  "id": 64,
+  "t": "The Forgotten Heirloom",
+  "o": "Farmer Furlbrow wants you to retrieve his pocket watch from the wardrobe in his farmhouse at the pumpkin farm to the West.",
+  "d": "It was horrible!  Verna woke me when she heard a ruckus in the fields.  The fields were full of hooligans.  We left in a rush and I forgot to pack my pocket watch.  Verna's pa gave me that watch on our wedding day and I feel just sick knowing those thieves have it.  I left the pocket watch in the wardrobe at the farmhouse.  Look for the field of pumpkins to the West -- you can't miss it.  If you bring it back to me, I'd sure be grateful!",
+  "p": "Don't suppose you were able to get my watch?",
+  "c": "My watch! Thank you so much, kind sir! $b$bWe are but poor farmers and we have lost our land but please accept this reward as a token of our appreciation."
+ },
+ {
+  "id": 65,
+  "t": "The Defias Brotherhood",
+  "o": "Gryan Stoutmantle wants you to talk to Wiley in Lakeshire.",
+  "d": "The band of wretches responsible for driving the good people of Westfall from the land call themselves The Defias Brotherhood.  I need you to infiltrate this clan of thugs.  We need to know who heads up the cartel and where they are hiding out.  In Lakeshire, in the inn, there is a rogue by the name of Wiley who owes me a favor.$b$bTravel to Lakeshire in the Redridge Mountains, east of Elwynn, and find out what you can.",
+  "p": "",
+  "c": "So, Stoutmantle sent you? Well, I owe him."
+ },
+ {
+  "id": 66,
+  "t": "The Legend of Stalvan",
+  "o": "Seek out the Clerk Daltry in the Darkshire Town Hall.",
+  "d": "Last night a horrible disturbance rippled through my veins.  I sensed that my granddaughter, Alyssa, was in great danger.  I consulted the cards and Death stared up at me from the table.$b$bAfter taking a long journey through a dark trance I was able to uncover a clue to this terrifying mystery.  A name came to me, the name of Stalvan.$b$bSeek out the Clerk in the Town Hall and see if you can find out more about this character.  I fear for us all.",
+  "p": "",
+  "c": "Ah so Madame Eva sent you...."
+ },
+ {
+  "id": 67,
+  "t": "The Legend of Stalvan",
+  "o": "Travel to the Moonbrook Schoolhouse and bring back any updated information about Stalvan to Clerk Daltry.",
+  "d": "Stalvan, eh?  Let me check the town registry.$b$bStalvan. . .Stalvan. . .let's see.  Ah, here we go!  I have a record of a Mr. Stalvan Mistmantle.  The last recorded address is the Moonbrook Schoolhouse.  My, talk about outdated!$b$bDo me a favor will you, friend?  If you happen to go out to Moonbrook, let me know if you get any update on this fellow.  I like to keep the records clean.",
+  "p": "",
+  "c": "The old footlocker creaks open. . . ."
+ },
+ {
+  "id": 68,
+  "t": "The Legend of Stalvan",
+  "o": "Take the Dusty Unsent Letter to Clerk Daltry.",
+  "d": "You find a Dusty Unsent Letter in the old footlocker.",
+  "p": "Ah, I remember you. You're the one who was asking about that Stalvan fellow. Did you ever find what you were looking for?",
+  "c": "Interesting. So the chap did spend some time in Moonbrook after all. It is rather odd the letter never got delivered. Nonetheless, I shall update the registry."
+ },
+ {
+  "id": 69,
+  "t": "The Legend of Stalvan",
+  "o": "Go to The Lion's Pride Inn to see if anyone there has heard of the name Stalvan.",
+  "d": "Oh my!  Must have missed this the first time.  In the registry, right beneath the first address for Stalvan there's another one listed, only partially scratched out.  Looks like he was headed to The Lion's Pride Inn over in Goldshire.  Might want to check there, $N.",
+  "p": "",
+  "c": "Stalvan? Sure sounds familiar."
+ },
+ {
+  "id": 70,
+  "t": "The Legend of Stalvan",
+  "o": "Retrieve Stalvan's Undelivered Letter from the chest and deliver it to the Canal District in Stormwind.",
+  "d": "The name Stalvan rings a bell.  I remember now.$b$bMany years back, on a stormy night, a messenger came in, seeking refuge for the night.  Near the stroke of midnight, the man ran down the stairs screaming, his face pale with fear.  Still wearing his bedclothes, he disappeared into the downpour.$b$bIn his haste he forgot his letters in the chest upstairs.  He never returned for them. One remains from that Stalvan fellow, intended for the Canal District in Stormwind.  Help yourself to it.",
+  "p": "What have ya got there? Let me take a look at that. . .",
+  "c": "You've got some nerve bringing this here."
+ },
+ {
+  "id": 71,
+  "t": "Report to Thomas",
+  "o": "Deliver Rolf and Malakai's Medallions to Guard Thomas at the eastern Elwynn bridge.",
+  "d": "Now that you have both medallions, deliver them to Guard Thomas at the bridge so that he might know the fate of his murdered guards.",
+  "p": "Hello, $N. Have you discovered the fates of Rolf and Malakai?",
+  "c": "You have confirmed my fears, $N. The murlocs are a threat we cannot ignore."
+ },
+ {
+  "id": 72,
+  "t": "The Legend of Stalvan",
+  "o": "Search through the packed up possessions for a clue.",
+  "d": "My father was the caretaker of the estate long before I was.  He had to mop the blood up after the massacre.  But that's neither here nor there.$b$bThe last funds of the Flintridge trust have dried up.  Now the last of the family possessions are headed for auction.  Blame the tax vultures.  I guess if you're really itching to learn more you're free to look through this junk.  Who knows what you might find.",
+  "p": "",
+  "c": "You slowly slide the lid of the crate off. . . ."
+ },
+ {
+  "id": 74,
+  "t": "The Legend of Stalvan",
+  "o": "The Torn Journal page you discovered provides your next clue.",
+  "d": "Inside the crate you find various objects: musty heirlooms, a family portrait, a few hunting trophies and some old books.  Near the bottom, underneath a ceramic vase, you uncover A Torn Journal Page.",
+  "p": "What have you got there? I cannot see. My eyesight is very bad. Put it in my hands.",
+  "c": "I can barely make out those letters. But that writing style reminds me of something I once saw before my vision became so poor."
+ },
+ {
+  "id": 75,
+  "t": "The Legend of Stalvan",
+  "o": "Marshal Haggard wants you to check the chest upstairs for the Faded Journal Page.",
+  "d": "There was a bundle of parchments in the chest upstairs when I moved into this place.  I looked at them once when I first arrived but I gave up once the fog hazed over my peepers. $b$bDo an old, nearly-blind man a favor and check the chest upstairs for anything that might help you in your quest to discover more about this Stalvan character.  I'm pretty sure there's a faded journal page that might be of interest to you.  Bring it to me and I'll help in anyway I can.",
+  "p": "Did you find that page I mentioned, $N?",
+  "c": "You found it!"
+ },
+ {
+  "id": 76,
+  "t": "The Jasperlode Mine",
+  "o": "Explore the Jasperlode Mine, then report back to Marshal Dughan in Goldshire.",
+  "d": "Thanks to you we know the Fargodeep Mine is infested with kobolds.  Now we need a scout to investigate the more distant Jasperlode Mine.$B$BExplore Jasperlode and confirm any kobold presence.  To reach the mine, travel east along the road until you reach the Tower of Azora.  From the tower, head north and you'll find the mine in the foothills.",
+  "p": "Hail, $N. What do you have to report? Have you scouted the Jasperlode Mine?",
+  "c": "Kobolds at the Jasperlode Mine, you say? Curses! The situation is worsening by the minute!$B$BThank you for the report, $N. But I wish that the news you brought was good news."
+ },
+ {
+  "id": 77,
+  "t": "A Sticky Situation",
+  "o": "Recover 10 bottles of Hinterlands Honey Ripple from the crates located around the abandoned Horde base in Skulk Rock.",
+  "d": "I possess original packaging materials for the ripple Dran Droffers seeks.  I will assist you in packaging the ripple for Malton's abrasive father... for a fee of two additional bottles of said ripple.  They are located in crates found in the abandoned Horde base near Skulk Rock.$B$BIt will be an arduous task, to wit; foul slimes and oozes will be found sticking to the ruins; rumor has it they are led by some sort of master ooze.  Regardless, procure the ripple and return to me here for packaging.",
+  "p": "I trust that your arrival here at our camp is to deliver the bottles of ripple that are integral to the task at hand, yes?",
+  "c": "Finely executed, $N. I am glad you had enough foresight not to bruise the delicacy of the ripple. There is nothing worse than the bouquet of ripple that has been jostled about needlessly.$b$bIt will take a moment for the magic to be wrought over this precious cargo. Actually, no magic is involved; I merely have some empty packaging for Hinterlands Honey Ripple. Our chicanery shall turn these bottles into an alcoholic treasure of the ages.$b$bOnward - for great booze!"
+ },
+ {
+  "id": 78,
+  "t": "The Legend of Stalvan",
+  "o": "Take the Faded Journal Page to Tavernkeep Smitts at Darkshire in Duskwood.",
+  "d": "I know of someone who might be able to assist you.  Back when I was leading the Stormwind Guard, we used to get drinks at the Scarlet Raven Tavern in Darkshire.  The Innkeeper there, Smitts, was quite an expert on the local lore.  Show him this page and see what he has to say about it.",
+  "p": "Marshal Haggard sent you? Why didn't you say so?$B$BAh, good ol' Haggard. Poor chap is going to be completely blind before long. Anyway, let me see what you've got there.",
+  "c": "By the Light! You bet I recognize that handwriting."
+ },
+ {
+  "id": 79,
+  "t": "The Legend of Stalvan",
+  "o": "Take the muddy page to Commander Ebonlocke.",
+  "d": "I followed the legend of that Stalvan character for years.  When those visiting nobles were slaughtered a few years back I went with Haggard to investigate.  I found these muddy pages but we were never able to link the handwriting to that crazy man in the woods.  Your trail of evidence proves his guilt.  Take this to Commander Ebonlocke immediately and fill her in on what you've discovered!",
+  "p": "This better be good, $C. Let me see what you have and tell me your tale. But by the Light, be quick about it. Darkshire's defense is my number one priority. I have not the time to squander on dead-end leads.",
+  "c": "My, you have proved yourself to be quite a detective, $c."
+ },
+ {
+  "id": 80,
+  "t": "The Legend of Stalvan",
+  "o": "Show Clerk Daltry the Bloodstained Journal Page.",
+  "d": "I have had my eye on that creep, Stalvan, for quite sometime.  But if this page was written by the same hand it proves his guilt beyond a shadow of a doubt.$b$bIn all his days keeping the Town Registry, Clerk Daltry has become an expert at identifying handwriting.  Show him this page and see if the writing matches that of the registry signature.",
+  "p": "Back again, $N? What do you have this time?",
+  "c": "Why yes! The writing on this page does in fact match that of the registry signatures."
+ },
+ {
+  "id": 81,
+  "t": "Ripple Delivery",
+  "o": "Deliver the barrel to Dran Droffers in Orgrimmar.",
+  "d": "I have taken the extra step of securing not only Dran's packaged ripple in the barrel, but also the extra bottles of ripple he is purloining.  While I may not hold Dran very highly, there is nothing worse than jostled ripple.  You're welcome.$B$BNow, deliver yon barrel to Dran Droffers in his salvage emporium in Orgrimmar.  Pray tell, please extend my warmest greetings to Malton; let him know that should he ever thirst for fine drink and finer drinking companions, we would be honored with his visit.",
+  "p": "If you're not here to buy anything, and you're not here to deliver anything, then you're wasting my time! You better have that ripple!",
+  "c": "Well, let's see what's in this barrel!$b$bYes, yes, it looks as though it is all here. Here's your fee for the package, good job on that. I stand to make five times that fee when I sell it to the tavern! Har har!$b$bThese extra bottles of Hinterlands Honey Ripple are going to be set for a special occasion. I think I'll drink some with champagne. I'll call it... champipple."
+ },
+ {
+  "id": 83,
+  "t": "Red Linen Goods",
+  "o": "Bring 6 Red Linen Bandanas to Sara Timberlain at the Eastvale Logging Camp.",
+  "d": "The Defias gang in Northshire wears burlap masks, but the Defias in Elwynn wear linen which I can use to make fine linen goods.$B$BBring me red linen bandanas and I'll use them to fashion something for you.$B$BDefias gang members have camps pocketed throughout Elwynn.",
+  "p": "I'm running low on linen, $N. Do you have any for me?",
+  "c": "Ah, these are nice bandanas, if a little rough...$b$bHere you are!"
+ },
+ {
+  "id": 84,
+  "t": "Back to Billy",
+  "o": "Bring the Pork Belly Pie to Billy Maclure at the Maclure Vineyards.",
+  "d": "Here you go.  And when you give this pie to that Billy, you tell him I hope he chokes on it!",
+  "p": "Ugh... I'm starving! Do you have that pie for me, $N?",
+  "c": "Mm, yum! This pie is the best!$b$bI think my memory is coming back to me..."
+ },
+ {
+  "id": 85,
+  "t": "Lost Necklace",
+  "o": "Speak with Billy Maclure.",
+  "d": "I lost my necklace, and think that guttersnipe Billy Maclure took it!  He's usually scuttling like a rat around the Maclure vineyards east of here. $B$BGet my necklace back for me, and you'll warm an old widow's heart.",
+  "p": "",
+  "c": "You lost a what? Well I didn't take no necklace, because I ain't no thief!$b$bI might know who did but...<grin>...I'm too hungry to remember."
+ },
+ {
+  "id": 86,
+  "t": "Pie for Billy",
+  "o": "Bring 4 Chunks of Boar Meat to Auntie Bernice Stonefield at the Stonefield's Farm.",
+  "d": "Maybe if I got a pie, I could tell you who has that necklace.  And you know, I think that old Bernice lady at that other farm makes great Pork Belly Pies... $B$BMaybe if you gave her some chunks of boar meat from the boars that hang around our farms, and told her what it was for, she'd bake up a pie for you.",
+  "p": "I don't think it's right feeding the boy who stole my necklace in the first place, but if that's what it takes to get back what's mine, then so be it!$b$bDo you have that boar meat?",
+  "c": "Though this wild boar meat is tough, simmer it enough and it sure does make for some tasty pie!"
+ },
+ {
+  "id": 87,
+  "t": "Goldtooth",
+  "o": "Bring Bernice's Necklace to \"Auntie\" Bernice Stonefield at the Stonefield Farm.",
+  "d": "I was playing near the Fargodeep Mine, and I think I dropped, er...I mean I saw, the old lady's necklace.  Don't ask me how it got there...it wasn't me!$B$BWell anyway, I saw this big, gold-toothed kobold pick up the necklace and run into the mine.  Go find that kobold and you'll find the necklace, I swear!",
+  "p": "Hello, $N. Have you found my necklace?",
+  "c": "Oh, you found it! Thank you, thank you dear!$B$BHere, take this. It was my husband's and he always said it was lucky. If only he didn't forget it on his last campaign! *sniff*"
+ },
+ {
+  "id": 88,
+  "t": "Princess Must Die!",
+  "o": "Kill Princess, grab her collar, then bring it back to Ma Stonefield at the Stonefield Farm.",
+  "d": "The Brackwells have a prize-winning pig, Princess.  The sow is HUGE, and she got that way from sneaking over here and eating my veggies!$B$BSo before she comes to our fields...Princess must die!  Bring me her collar as proof of the deed and I'll give you something for your time!$B$BPrincess is usually over at the Brackwell Pumpkin Patch, to the east and beyond the Maclure farm.  Get her before she gets hungry and comes back here!",
+  "p": "Did you see her yet? Did you get her?",
+  "c": "Thank goodness! That pig was getting so big she'd have eaten our whole crop! Thank you, $N.$b$bNow, do either of these suit you?"
+ },
+ {
+  "id": 89,
+  "t": "The Everstill Bridge",
+  "o": "Bring 5 Iron Pikes and 5 Iron Rivets to Foreman Oslow in Lakeshire.",
+  "d": "During the last orc invasion we were forced to smelt our iron down to make bullets, swords and armor.  We sent word to Stormwind for a new shipment of materials but a band of Redridge gnolls hijacked the caravan and ran off into the hills behind Lakeshire.$b$bNow we're coming up short on supplies to get this bridge rebuilt.  If you can bring me 5 iron pikes and 5 iron rivets, $N, I'll make sure you're rewarded. $b$bNow let's get to work!",
+  "p": "This bridge isn't going to build itself! Now where are those iron pikes and iron rivets?",
+  "c": "Great work, $N. These supplies will help the bridge effort immensely. We'll get this beauty shored up in no time."
+ },
+ {
+  "id": 90,
+  "t": "Seasoned Wolf Kabobs",
+  "o": "Gather 10 Lean Wolf Flanks and Stormwind Seasoning Herbs and return to Chef Grual in Darkshire.",
+  "d": "Seasoned Wolf Kabobs are a house favorite!  Sure, I can make you some.  But first I'll need the supplies.  Bring me 10 Lean Wolf Flanks as well as some Stormwind Seasoning Herbs.  There are so many wolves here in the forest, I am sure finding the Flanks will be no problem.  For the herbs, seek out Felicia Gump in her canal district flower shop in Stormwind.",
+  "p": "Were you able to find 10 Lean Wolf Flanks yet? How about the herbs from Felicia in Stormwind?",
+  "c": "Very nice work, $N! Enjoy the delicacy known as Seasoned Wolf Kabob!"
+ },
+ {
+  "id": 91,
+  "t": "Solomon's Law",
+  "o": "Bring 10 Shadowhide Pendants to Bailiff Conacher in the Lakeshire Town Hall.",
+  "d": "An enemy of Stormwind has taken up residence in the eastern foothills of Redridge. This wicked villain uses the Arcane to spread terror and misery upon our town and our people. Under the name, Morganth, he conducts his evil business.$b$bMorganth now controls the Shadowhide Gnoll Clan to perform his biddings. As stated by the Law of Lakeshire, aiding a criminal of the Kingdom is punishable by death.$b$bThese vile gnolls must be killed!$b$bTurn in 10 Shadowhide Pendants to me, and you shall be rewarded.",
+  "p": "Turn in 10 Shadowhide Pendants to me, and you shall be rewarded.",
+  "c": "The Court of Lakeshire recognizes your commitment to justice, $N. By enforcing the laws of the Kingdom you have helped uphold the justice of the land."
+ },
+ {
+  "id": 92,
+  "t": "Redridge Goulash",
+  "o": "Chef Breanna of Lakeshire wants five pieces of Tough Condor Meat, five Great Goretusk Snouts and five helpings of Crisp Spider Meat.",
+  "d": "Nothing would please me more than to make you some Redridge Goulash. But there's a slight problem. During the recent orc uprising I fed the entire brigade of Stormwind troops. My cupboard is now bare. But if you can provide me with the ingredients, I'd be happy to oblige.$b$bJust bring me five pieces of Tough Condor Meat, five Great Goretusk Snouts and five helpings of Crisp Spider Meat.",
+  "p": "I still need five pieces of Tough Condor Meat, five Great Goretusk Snouts and five helpings of Crisp Spider Meat.",
+  "c": "Well done, $N. Such fine specimens too! And here is your delicious delicacy known as Redridge Goulash!"
+ },
+ {
+  "id": 93,
+  "t": "Dusky Crab Cakes",
+  "o": "Gather 6 Gooey Spider Legs and bring them to Chef Grual in Darkshire.",
+  "d": "I'll let you in on a little secret - Dusky \"Crab\" Cakes are really made from spider legs!  I know it's a bit disgusting, but the cakes have a nice, tangy flavor and make great snacks!  Bring me Gooey Spider Legs and I'll whip you up a few of them.$B$BI hear Venom Web Spiders are a good source - they nest to the north, between the foothills and the river. ",
+  "p": "Hail, $N. Did you get those Gooey Spider Legs yet?",
+  "c": "Ah yes, a nice clutch of legs you have there! Let me just get these seasoned with my secret spices (no looking!) and get them to skittering on a skillet for a while...$B$BAnd, although Dusky Crab Cakes are my specialty and I won't give out the recipe, here's the recipe for a dish that's almost as good."
+ },
+ {
+  "id": 94,
+  "t": "A Watchful Eye",
+  "o": "Take the Glyph of Azora to the Lion Statue near the Tower of Ilgalar in Redridge.",
+  "d": "My rival, Morganth, is a vicious mage of great power who lives in the Tower of Ilgalar in Redridge.  I have developed a means of spying on him, the Eye of Azora, and can now view him from afar.$B$BBut to study his thoughts ... I require further aid.$B$BIf you are willing, then take my Glyph of Azora to the Tower of Ilgalar.  Place it upon the Lion Statue near the Tower.$B$BWhen this is done, the power of Azora will grant visions of Morganth's future plans.",
+  "p": "This Lion Statue has sat here for decades, and keeps a lonely watch over the infamous Tower of Ilgalar.$B$BThere is a depression at the base of the statue, where a gem or glyph might be set...",
+  "c": "You place the Glyph of Azora on the stone. It adheres itself... and you hear from it Theocritus' disembodied voice:$B$BYou have my gratitude, young $N. You may now speak with me through this Glyph, and I might have future tasks for you... after I have probed the thoughts of my rival."
+ },
+ {
+  "id": 95,
+  "t": "Sven's Revenge",
+  "o": "Go to Sven's Farm and find what was buried behind the old stump.",
+  "d": "I used to work one of the farms to the southeast...until Dark Riders from Deadwind Pass descended upon my farm and slaughtered my family when I was away!$B$BWhen I returned I saw a shadowy figure skulking near my barn, burying something.  He fled before I could catch him, and I couldn't linger for I was hot on the heels of the Dark Riders.  So I never discovered what was hidden.$B$BIf you can find what that shadowy figure buried, I would be grateful.  The hiding spot is behind the old stump near my barn.",
+  "p": "",
+  "c": "A mound of dirt is here, hastily piled up as if someone had need of hiding something...without much time to do it."
+ },
+ {
+  "id": 96,
+  "t": "Call of Water",
+  "o": "Bring the Shard of Water to Islen Waterseer at the Tidus Stair in the Barrens.",
+  "d": "Take shard. Take shard and give life.$B$BGive life and understand. Understand water is life... corruption stops life.$B$BYou protect and give life with water's power.",
+  "p": "You've returned. Splendid!$B$BHow went your journey to Silverpine? Did it take you long?$B$BIt is hard for me to tell if you were successful there because so much of the land has become corrupt. Its stench overwhelms any good that you might have done. But small successes are sometimes as important as large ones. Purifying the water there was instrumental for you, and for all shamans.",
+  "c": "This is the proof I asked for. You've done well, $N.$B$BI am pleased to be the first to congratulate you and give you this... your water totem.$B$BUse it well, and good luck.$B$BYour next test will not be for some time, so learn your lessons well. Pure water will not only give life back to those who are injured, but can have many other effects. I suggest you seek out a shaman trainer when you have the time. They might have other spells for you to learn."
+ },
+ {
+  "id": 97,
+  "t": "The Legend of Stalvan",
+  "o": "Report the news to Commander Ebonlocke.",
+  "d": "Let Commander Ebonlocke know immediately that the handwriting matched, $N!  Her suspicions were correct!",
+  "p": "Yes, $N?",
+  "c": "I knew it! Fine work, $N."
+ },
+ {
+  "id": 98,
+  "t": "The Legend of Stalvan",
+  "o": "Kill Stalvan Mistmantle and show Madame Eva his family ring.",
+  "d": "Stalvan Mistmantle led a life of depravity.  Innocent victims died by his hand.  Undoubtedly he is guilty of countless crimes.  Now the lunatic threatens Darkshire.  The Light only knows what sordid acts he is plotting.  Travel to his cottage just north of town, $C, and execute Stalvan, once and for all.$b$bWhen the deed is done, travel to Madame Eva's and show her his family ring.  After all, it was her premonition that led to this gruesome discovery.  But Darkshire is safer because of her.",
+  "p": "Yes, $N?",
+  "c": "I know, $N: Stalvan is dead. I sensed a wave of hope ripple through the tainted forest. Once and for all, Duskwood is free from his blood thirst. My joy is hampered by thoughts of those who fell prey to the horrible beast. Nonetheless, you are a brave and cunning $c."
+ },
+ {
+  "id": 99,
+  "t": "Arugal's Folly",
+  "o": "Bring 6 Pyrewood Shackles to Dalar Dawnweaver at the Sepulcher.",
+  "d": "As my understanding of Arugal's magic grows so does my disdain for the hapless fool.  I am close to completing my research on his so called remedy.$b$bMy knowledge will be complete when I learn what enchantment is causing the strange behavior going on in Pyrewood Village.  By day, the peasants appear to be Human.  But when the sun goes down the townsfolk turn into Moonrage Worgen.$b$bI need to draw energy from the enchanted shackles Arugal cast on them.  Bring to me six enchanted Pyrewood Shackles, $N.",
+  "p": "Have you secured the Pyrewood Shackles yet, $N?",
+  "c": "Your persistence is commendable. With the knowledge you helped me gather, Arugal will fall and his reckless magic shall be undone. Cheers to you, $N."
+ },
+ {
+  "id": 100,
+  "t": "Call of Water",
+  "o": "Speak to the Minor Manifestation of Water at North Tide's Run in Silverpine Forest.",
+  "d": "Light explodes as you finish the incantation. The sounds of the water drops hitting the flame have died down and your senses are overcome as the corrupt spirits around you are destroyed.",
+  "p": "",
+  "c": "Thanks to you. Thanks to the shamans.$B$BCorruption ebbs but life continues to wane. Up to shamans to protect life."
+ },
+ {
+  "id": 101,
+  "t": "The Totem of Infliction",
+  "o": "Bring 10 Ghoul Fangs, 10 Skeleton Fingers and 5 Vials of Spider Venom to Madame Eva in Darkshire.",
+  "d": "As the mystical taint creeps through the forest, the need for self-protection is undeniable, $N.  The winds whisper to me and they speak of a great danger which waits patiently for you in the near future.$b$bIf you wish to protect yourself, noble $c, bring to me 10 ghoul fangs, 10 skeleton fingers and 5 vials of spider venom.  For you I shall enchant a Totem of Infliction which will harm those who attempt violent acts against you.",
+  "p": "Bring to me 10 ghoul fangs, 10 skeleton fingers and 5 vials of spider venom. For you I shall enchant a Totem of Infliction which will harm those who attempt violent acts against you.",
+  "c": "Very wise of you, $N. This Totem of Infliction will help to protect you against the evil which lurks throughout Azeroth and beyond. When you feel threatened, hold this totem and take comfort in its magical aura. Be brave, fair $c. You will need all the courage you can muster for I see much bloodshed in your future."
+ },
+ {
+  "id": 102,
+  "t": "Patrolling Westfall",
+  "o": "Bring 8 Gnoll Paws to Captain Danuvin on Sentinel Hill.",
+  "d": "Stormwind has abandoned us.  A foul wind of depravity rustles through the plains of Westfall.  This was my homeland and I will not turn my back on the citizens who choose to remain here.  We, the former farmers, shall make our stand.$b$bYour task, should you choose to accept, is to patrol the grasslands of Westfall.  Track down and slay the vile Gnolls that seem to be working in conjunction with the Deadmines thieves. Bring me eight Gnoll Paws and I will reward your bravery.",
+  "p": "Have you collected 8 paws from those treacherous Gnolls yet?",
+  "c": "Well done, $N. With valiant adventurers such as yourself fighting alongside The People's Militia, Westfall just might return to the prosperous breadbasket it once was. Please accept this in recognition of your tireless efforts."
+ },
+ {
+  "id": 103,
+  "t": "Keeper of the Flame",
+  "o": "Bring 5 Flasks of Oil to Captain Grayson at the Westfall Lighthouse.",
+  "d": "The night the Lighthouse Keeper's family died was horrible.  I watched, helpless, as Old Murk-Eye led the attack.  But what's done is done and now my concern is for the lives of the sailors on The Great Sea whose ships come close to the perilous rocks of the coastline.  With no one to keep watch on the flame the responsibility has fallen upon me.$b$bHelp me keep the torch lit by bringing me 5 flasks of oil from the Harvest Monsters.",
+  "p": "The flame will not burn for long without oil, $N.",
+  "c": "Praise you, brave $c. The rocks of the Westfall Coast shall be lit thanks to your hard work. Many lives will be spared so long as the torch is kept lit.$B$BI died needlessly on this very shore. My afterlife plight is to see that no others follow my destiny."
+ },
+ {
+  "id": 104,
+  "t": "The Coastal Menace",
+  "o": "Bring a scale of Old Murk-Eye to Captain Grayson at the Westfall Lighthouse.",
+  "d": "When my life was ended upon the rocks, I had no clue what the afterlife held for me.  The Lighthouse was black that night because Old Murk-Eye had scared the keeper's family off.  They returned and re-lit the flame but Old Murk-Eye coerced the weaker minded murlocs to raid the Lighthouse with him once again.  The second time the family was not so lucky and before my eyes they perished helplessly.$b$bSlay Old Murk-Eye if you see him along the shore and bring me one of his scales and I shall reward you.",
+  "p": "Have you laid waste to the menace known as Old Murk-Eye yet? He has been spotted roaming the coastline of Westfall.$B$BReturn to me when the foul beast is dead.",
+  "c": "So the foul heathen, Murk-Eye is dead. Well done, $N. By your hands one life was laid to rest but perhaps many more were saved. The Great Sea, wrought with danger as it is, shall be a wee bit safer this night thanks to your heroics."
+ },
+ {
+  "id": 105,
+  "t": "Alas, Andorhal",
+  "o": "Bring Araj's Phylactery Shard to High Executor Derrington at the Bulwark, Western Plaguelands.",
+  "d": "Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!$B$BInside the ruins of the city is where the lich - Araj the Summoner - holds dominion.  He is guarded by numerous Scourge surrounding the remains of city's center, and his personal retinue of guardians attached to him directly is formidable.  You will need numerous allies to even stand a chance of facing him successfully.$B$BDestroy Araj, $N, and bring me a shard from his phylactery as proof!",
+  "p": "Your task has been given to you, $N. Do you have a shard from the lich's phylactery as proof of the task being accomplished?",
+  "c": "You've done it! Araj... the lich is finally defeated!$B$BYou've done a tremendous service to the Horde on this day, $N. Your bravery and perseverance are a testament to what it means to be a true hero. Please - accept this as a token for all to see and know that you have delivered the Horde a victory for the ages!"
+ },
+ {
+  "id": 106,
+  "t": "Young Lovers",
+  "o": "Give Maybell's Love Letter to Tommy Joe Stonefield.",
+  "d": "Oh, I'm cursed!  My heart belongs to Tommy Joe Stonefield, but our families are bitter enemies.  So I can't see him, even though my eyes ache to gaze upon that handsome face!$B$BPlease, take this letter and give it to Tommy Joe.  He's usually at the river to the west of the Stonefield Farm, which is due west of here.",
+  "p": "You have what?? Maybell is the light of my dull life. Hurry, let me see her letter!",
+  "c": "Ah! I can't stand us being apart. I have to see her!!"
+ },
+ {
+  "id": 107,
+  "t": "Note to William",
+  "o": "Take Gramma Stonefield's Note to William Pestle.",
+  "d": "I bet William Pestle has a potion to unite our two young lovers!$B$BHere, take this note to William.  He's staying at the Lion's Pride Inn in Goldshire.",
+  "p": "You have a note from \"Gramma\" Stonefield, eh? I haven't seen Mildred in years! I wonder what she has to say...",
+  "c": "My heart goes out to those two poor souls, Maybell and Tommy Joe. I remember being young and in love, once.$b$bThere must be something I can do to help them! Let me think..."
+ },
+ {
+  "id": 109,
+  "t": "Report to Gryan Stoutmantle",
+  "o": "Talk to Gryan Stoutmantle.  He usually can be found in the stone tower on Sentinel Hill, just off the road, in the middle of Westfall.",
+  "d": "Looks to me you've seen quite a bit of combat in your time, $c.  If you haven't already, you should report to Gryan Stoutmantle.  He heads up the People's Militia, aimed at protecting the farmlands of Westfall.  I bet he could use your help.  You can usually find him in the stone tower on Sentinel Hill, just off the road in the middle of Westfall.",
+  "p": "An... Any luck??",
+  "c": "Ah, so my friend sent you here? How kind. $B$BWell the Stormwind Monarchy has abandoned our cause. Now it is up to the People's Militia to keep the land free from corruption. If our cause interests you, I can put your combat skills to use in the name of freedom."
+ },
+ {
+  "id": 110,
+  "t": "Insect Part Analysis",
+  "o": "Check in Gadgetzan for Alchemist Pestlezugg and his analysis of the insect parts.",
+  "d": "I'm going to spend some time taking a look at Scrimshank's surveying gear... as well as putting his personal effects in order.  I get the sneaking feeling behind my ears that this isn't the last loss we'll be facing against these bugs.$B$BI'd like for you to check in with Alchemist Pestlezugg to see if he has had a chance to process the insect parts we sent him.  If they're ready, bring them to me.",
+  "p": "",
+  "c": "Yes, I have the results right here.  They are... unsettling, to say the least$B$BOur initial suspicion that the bugs are being controlled by an outside force, we believe, is correct.  If this is the case, then we are dealing with not only a very powerful unknown force, but also a malignant one.  These bugs have been changed to be pure ravagers.  I've never seen anything quite like it."
+ },
+ {
+  "id": 111,
+  "t": "Speak with Gramma",
+  "o": "Speak with Gramma Stonefield.",
+  "d": "Please, $N, talk with my Gramma.  If anyone can find a way to bring me together with Maybell, she can.$B$BShe's inside our house east of here.",
+  "p": "I can't wait to hear how my friends react!$B$BThey'll never expect it",
+  "c": "While our families are feuding, Tommy Joe and Maybell don't have much of a future, but... maybe we can get them together for just a little while.$B$BHm, what can we do..."
+ },
+ {
+  "id": 112,
+  "t": "Collecting Kelp",
+  "o": "Bring 4 Crystal Kelp Fronds to William Pestle in Goldshire.",
+  "d": "I can make an invisibility liquor for Maybell, so she can slip away from the Maclure Vineyards and go to Tommy Joe.  But to make the Liquor, I need some crystal kelp.$B$BAlthough the kelp usually grows in the ocean... sometimes murlocs collect it.  See if the murlocs near Crystal Lake have any.  Crystal Lake is just east of Goldshire.",
+  "p": "Do you have that crystal kelp? I'm sure Maybell is anxious to see her beau...",
+  "c": "You got them. Good show! Now, just one moment while I concoct the potion..."
+ },
+ {
+  "id": 113,
+  "t": "Insect Part Analysis",
+  "o": "Deliver the report to Senior Surveyor Fizzledowser in Gadgetzan.  Be sure he gives you a copy of the report, as Alchemist Pestlezugg has requested.",
+  "d": "Senior Surveyor Fizzledowser needs to see this report immediately.  Actually... everyone who can read needs to see this report.  We are facing a grave and serious threat to not only Tanaris and Gadgetzan, but if left unchecked, the entirety of southern Kalimdor.  Heck, even quite possible the whole of Azeroth; this thing has given no indication it will subside.$B$BHave Fizzledowser make a duplicate of the report for you to distribute freely to your allegiance. Everyone must know about this threat!",
+  "p": "Well Junior Surveyor $n, has ol' Pestlezugg got that report ready yet?",
+  "c": "Thank you for delivering the report, Junior Surveyor $N; here is your pay for your diligent service to the Gadgetzan Water Company.$B$BWhile I am usually not thrilled about handing out our valuable information carte blanche to those who would otherwise pay good coin for it, I've known Pestlezugg for a number of years now.  If he recommends letting everyone know about it, then so be it.  Give me a moment and I'll make you a copy."
+ },
+ {
+  "id": 114,
+  "t": "The Escape",
+  "o": "Take the Invisibility Liquor to Maybell Maclure.",
+  "d": "Take this invisibility liquor to young Maybell.  It should last long enough for her to visit Tommy Joe.",
+  "p": "Did you deliver my letter to Tommy Joe? What did he say??",
+  "c": "Oh...my! I feel guilty deceiving my family, but my feelings for Tommy Joe are too strong to ignore.$b$bThank you, $N. I'll drink this liquor as soon as I have the chance and sneak away to my love.$b$bAnd for you... please take this."
+ },
+ {
+  "id": 115,
+  "t": "Shadow Magic",
+  "o": "Bring 3 Midnight Orbs to Marshal Marris in Lakeshire.",
+  "d": "The Blackrock orcs enlisted shadowcasters to aid their attacks in Redridge, and they have brought with them devices of dark power--midnight orbs.  These orbs have struck telling blows against Redridge's defenders, and it's imperative we remove the demon-tainted items from the conflict.$B$BFind and deliver to me midnight orbs from slain Blackrock shadowcasters.  I will then have them disposed of, for this world would be a better place without them!",
+  "p": "How goes your conflict with the shadowcasters? Did you find the midnight orbs?",
+  "c": "Thank you, $N. I'll send these to be destroyed immediately."
+ },
+ {
+  "id": 116,
+  "t": "Dry Times",
+  "o": "Barkeep Daniels of Lakeshire needs a keg of Thunderbrew Lager, a cask of Merlot, a bottle of Moonshine and a skin of Sweet Rum.",
+  "d": "I find myself in quite a pinch here, $N.  The bottles are close to running dry.  The latest booze shipment is long overdue.  The orc invasion has been hell.$b$bPerhaps you can go to work for me?$b$bI need you to pick up a keg of Thunderbrew Lager from Grimbooze Thunderbrew in the Westfall hills, a cask of Merlot from Stormwind, a bottle of Moonshine from Darkshire and a skin of Sweet Rum from Goldshire.  Bring those back to me and I will see to it you are rewarded.",
+  "p": "I need you to pick up a keg of Thunderbrew Lager from Grimbooze Thunderbrew in the Westfall hills, a cask of Merlot from Stormwind, a bottle of Moonshine from Darkshire and a skin of Sweet Rum from Goldshire. Bring those back to me and I will see to it you are rewarded.",
+  "c": "A job well done, $N! I know well the roads you had to journey to procure this fine array of liquor. But my patrons will be happy once again! $b$bMy wife is quite a seamstress. Please accept this cloak she made in return for your services."
+ },
+ {
+  "id": 117,
+  "t": "Thunderbrew Lager",
+  "o": "Bring Grimbooze Thunderbrew 5 hops to complete his special brew.",
+  "d": "Hurry, my friend, move with haste $bIn order for our rich lager to taste $bMore like beer and less like stew, $bHops are needed to make the brew.",
+  "p": "Hurry, my friend, move with haste $bIn order for our rich lager to taste $bMore like beer and less like stew, $bHops are needed to make the brew.",
+  "c": "Hops and Barley, yeast and malt $bThe taste-buds feel a virtual assault, $bNo need to plead, no need to beg $bFor Thunderbrew Lager comes in a keg!"
+ },
+ {
+  "id": 118,
+  "t": "The Price of Shoes",
+  "o": "Take Verner's Note to Smith Argus at Goldshire in Elwynn Forest.",
+  "d": "I've been using so much iron keeping the Stormwind Guards outfitted, I don't have enough to supply the stable's horses with shoes!$B$BTake this note to Blacksmith Argus in Goldshire.  It explains to him my problem and requests a shipment of horseshoes.",
+  "p": "What's that? Verner sent you, you say? Well give me his note. And SPEAK UP!",
+  "c": "Heh, so old Verner needs some shoes, does he!?!"
+ },
+ {
+  "id": 119,
+  "t": "Return to Verner",
+  "o": "Return to Verner Osgood at Lakeshire in Redridge.  Give him the Crate of Horseshoes.",
+  "d": "Ok, I'll give him his 50 horseshoes...$B$BHere they are, all boxed up and ready to go!  Tell Verner it was a pleasure doing business, and be sure he reads the note attached to this crate!",
+  "p": "Great, you're back! Did you get the shoes?",
+  "c": "Thank you, this really helps me out.$b$bBut what's this? Argus sent a note with the crate...What?? Argus wants me to PAY him? Bah!$b$bWell, $N, thank you for your help."
+ },
+ {
+  "id": 120,
+  "t": "Messenger to Stormwind",
+  "o": "Magistrate Solomon has given you a report which must be delivered to General Marcus Jonathan in Stormwind.  The judge wants you to return to him as soon as the delivery has been made.",
+  "d": "These are trying times, $c.  The township is under constant siege.  Without reinforcements, we will certainly face defeat.  The message I now entrust to you is of utmost importance.  Get this report to General Marcus Jonathan of Stormwind immediately.  Once your delivery is made, return to me at once with any news, be it good or bad. $b$bNow make haste!",
+  "p": "What have you there?",
+  "c": "At ease, $c.$b$bMagistrate Solomon is a noble leader. His words carry great weight with me. I shall seek the counsel of the King and make the situation clear to him. Assure the good judge that he has the Stormwind Army's support. Reinforcements will be sent as soon as word is given from His Majesty."
+ },
+ {
+  "id": 121,
+  "t": "Messenger to Stormwind",
+  "o": "Take General Marcus Jonathan's letter of response to Magistrate Solomon in Lakeshire.",
+  "d": "While I wait for a response from the King I want you to carry this letter to Magistrate Solomon. $b$bDismissed, $c!",
+  "p": "Did the General send news? Are reinforcements on the way?",
+  "c": "Thank you for your time, $c. For your service to Lakeshire and Stormwind I reward you with these coins.$b$bNow if you'll excuse me, I find this correspondence somewhat of a mystery. Something is amiss in our Kingdom. I fear this is the beginning of conflict, not the end."
+ },
+ {
+  "id": 122,
+  "t": "Underbelly Scales",
+  "o": "Gather 6 Underbelly Whelp Scales from Black Dragon Whelps, and bring them to Verner Osgood in Redridge.",
+  "d": "I need some underbelly scales from black dragon whelps to pay for the shoes Argus sent me from Goldshire.  If you can get 6 of them for me, then I can pay Argus with some... and have enough left to fashion something for you.$B$BBlack dragon whelps are often flying around south of Lakeshire, but they like to wander.  You might have to just keep an eye out and hunt them when you see them.",
+  "p": "I know that greedy Argus will send someone to collect his scales if I don't give them to him soon. Have you found those scales yet?",
+  "c": "Thanks! These will get me out of debt to Argus..."
+ },
+ {
+  "id": 123,
+  "t": "The Collector",
+  "o": "Go to Marshal Dughan in Goldshire and give him The Collector's Schedule.",
+  "d": "This note is a schedule with a list of days and times when a person -- described only as \"The Collector\" -- will receive a shipment of gold from the mines in Elwynn Forest.$B$BFrom the schedule, it looks as if the Collector resides near the Brackwell Pumpkin Patch in eastern Elwynn.$B$BThis sounds important.  You should report it to Marshal Dughan in Goldshire.",
+  "p": "What?!? We haven't had our people working the Elwynn mines for months!$B$BLet me see that note you have...",
+  "c": "Hm... I have heard of this \"Collector\" but I don't know whom he's working for. Thank you for the schedule. It will help us solve this mystery."
+ },
+ {
+  "id": 124,
+  "t": "A Baying of Gnolls",
+  "o": "Kill 10 Redridge Brutes and 8 Redridge Mystics, then return to Verner Osgood.",
+  "d": "As if the attacking orcs weren't enough!  Now I have gnoll brutes and mystics prowling along the ridge north of my stable, taking my horses when they stray...$B$BIf you can get rid of those gnolls, my horses and I would be very grateful.",
+  "p": "My horses still seem skittish, and I still hear that cursed wolf cry at night. Please, $N, do something about those Gnolls!",
+  "c": "Thank you for all your help, $N."
+ },
+ {
+  "id": 125,
+  "t": "The Lost Tools",
+  "o": "Foreman Oslow of Lakeshire wants you to retrieve his toolbox from the bottom of Lake Everstill.",
+  "d": "I could really use a hand here, $N.  With the town under siege, it's been hard to get supplies.  My tools were being delivered from Goldshire by wagon but the bridge was blown out.  We put the tools in a boat but the orcs hit it with a catapult.  Just my luck, my toolbox sank right to the bottom of the lake.$b$bRetrieve my toolbox, $N, and I'll make it worth your while.",
+  "p": "Were you able to find my tools?",
+  "c": "Excellent recovery, $N! I never thought I'd see these tools again."
+ },
+ {
+  "id": 126,
+  "t": "Howling in the Hills",
+  "o": "Bring Yowler's Paw to Verner Osgood in Lakeshire.",
+  "d": "$N, the gnolls are still out there.  I can hear their baying as they hunt in the hills above Lakeshire.  And one cry is louder than the rest - Yowler,  their leader.$B$BKill Yowler and send his pack scattering!  Bring me his paw as proof.$B$BAnd be careful, this gnoll is their leader for a reason.  He is no Mongrel...",
+  "p": "Yowler is a dangerous creature, $N. If you're not ready for him, I understand.",
+  "c": "Again, thank you for your help. The Stormwind army is so busy dealing with the orcs, they don't have the troops to protect Redridge from local threats like the gnolls."
+ },
+ {
+  "id": 127,
+  "t": "Selling Fish",
+  "o": "Bring 10 Spotted Sunfish to Dockmaster Baren in Lakeshire.",
+  "d": "Lake Everstill is famous for its spotted sunfish.  There's always demand for them...and I'm running low!$B$BBring me a batch of 10 and I'll barter well for them.  If you can't fish yourself, then...maybe you can get them off the murlocs!",
+  "p": "You have some sunfish for me, eh?",
+  "c": "Pleasure doin' business with you, matey!"
+ },
+ {
+  "id": 128,
+  "t": "Blackrock Bounty",
+  "o": "Kill 15 Blackrock Champions and Guard Howe in Lakeshire will reward you.",
+  "d": "The Blackrock Clan must be destroyed. The Enemy has invaded our lands. These mountains fall under the sovereign right of the King of Stormwind. Our sources tell us that the leaders of each unit within the Clan are known as Champions. You'll find them in their encampment to the north, just west of the road to the Burning Steppes.$b$bMagistrate Solomon wants these foul brutes dead. Slay 15 Blackrock Champions and return to me.",
+  "p": "Return once you have slain 15 Blackrock Champions.",
+  "c": "I see you have fought valiantly against the Blackrock Clan, $c. Your service to our township is great indeed."
+ },
+ {
+  "id": 129,
+  "t": "A Free Lunch",
+  "o": "Bring Parker's lunch to Guard Parker.  He patrols the road leading to Darkshire.",
+  "d": "Can you do me a favor?  I've prepared a lunch for Guard Parker, but he's out on patrol...he's a big, strong Stormwind guard who can defend himself, but it's much too dangerous out there for a townsperson like me.$B$BSo if you deliver his lunch for me, then come back here and I'll give you a free lunch!  Parker patrols the stretch of road leading to Duskwood.",
+  "p": "Darcy sent me a lunch, did she? Such a kind heart she has. Well...let's have it!",
+  "c": "Thanks, I could really use the meal. Guarding Lakeshire from the orcs and gnolls is tough work!"
+ },
+ {
+  "id": 130,
+  "t": "Visit the Herbalist",
+  "o": "Speak with the Redridge Herbalist, Martie Jainrose.",
+  "d": "Before you go back to Darcy, can you bring her some flowers for me?  You can get them at the herbalist shop back in Lakeshire, at the west end of town.$B$BBut when you get the flowers...don't tell the herbalist, Martie, whom they're from, or whom they're for...",
+  "p": "",
+  "c": "You need a bouquet of flowers? You haven't been in town very long...have you already found for yourself a sweetheart here?$B$BI know I shouldn't pry, but it's nice to see that love is in the air... especially in dangerous times like these."
+ }
+]

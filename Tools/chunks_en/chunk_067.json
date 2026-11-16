@@ -1,0 +1,962 @@
+[
+ {
+  "id": 13207,
+  "t": "Halls of Stone",
+  "o": "Brann Bronzebeard wants you to accompany him as he uncovers the secrets that lie in the Halls of Stone.",
+  "d": "Well now, I'm surprised to see other adventurers in a place such as this! It so happens that I could use a bit o' company for what lies ahead.$b$bIf my research on these halls is accurate, there be monumental discoveries to be made here!$b$bAssumin' I can count on ya to watch my back, you're welcome to tag along. So, what'dya say, $c? Care ta join me?",
+  "p": "Well, now, it turned out ta be a good thing we ran into each other after all.",
+  "c": "Always more questions than answers, eh, $g lad:lass;?\n"
+ },
+ {
+  "id": 13211,
+  "t": "By Fire Be Purged",
+  "o": "Crusader Olakin Sainrith at Blackwatch wants you to burn 7 Festering Corpses using Olakin's Torch.",
+  "d": "The Scourge uses our own fallen against us, by raising them as ghouls or skeletons, or by dismembering their corpses and using the parts to make abominations. This must stop!$B$BThe dead are heroes who fell in defense of all the living, and they cannot be confined to so grisly a fate. Moreover, we cannot afford to face them again on the field, used as weapons against us. Take this torch with you to the Fleshwerks, and burn any of the corpses you find in the Sanctum of Reanimation or the abomination lab.",
+  "p": "Have you disposed of the corpses of the Scourge's victims?",
+  "c": "<Crusader Olakin Sainrith listens solemnly to your report.>$B$BIt is not the burial they deserved, but it is better than nothing, and better for those who yet live. Thank you, $N."
+ },
+ {
+  "id": 13212,
+  "t": "He's Gone to Pieces",
+  "o": "Recover Olakin's Torso, Olakin's Legs, Olakin's Left Arm, and Olakin's Right Arm and bring them to Darkrider Arly at Blackwatch.",
+  "d": "With the abduction of Crusader Olakin, the Argent Crusade's forces will have no commander in the final assault on the Fleshwerks. While one crusader is the same as any other to me, the argents won't see it that way.$B$BI hate to see us waste time chasing after this, but I have no choice. Our gallant crusader has likely been dismembered by now, and his remains used to construct abominations. Go down into the Fleshwerks, kill the corpulent horrors fighting our forces, and recover Olakin's body parts.",
+  "p": "Have you recovered the, uh, remains of Crusader Olakin?",
+  "c": "Well, I suppose it's good that we've \"recovered\" the crusader, though I doubt his comrades had this in mind. Let's see what we can do to get him back on his feet so we can get this charade over with and complete our mission here."
+ },
+ {
+  "id": 13213,
+  "t": "Battle at Valhalas",
+  "o": "Speak with Geirrvif in Valhalas.",
+  "d": "I see and hear many things, $N, and something very important has happened since your defeat of Overthane Balargarde: you are wanted for battle in Valhalas!$B$BYou will find the battle pit to the north. Go now with your friends and speak with Geirrvif the val'kyr. The challengers that she will offer you within Valhalas are sure to require their help.$B$BGood luck.",
+  "p": "",
+  "c": "You have bested our finest warriors. Your name is renowned, $N.$B$BPerhaps you think that this concerns me: it does not. If they can fall to you then they are not worthy and should be nothing but lowly vargul!$B$BBut perhaps I can give you and your friends different sport. Valhalas is also a place for combat of all types with many different kinds of foes.$B$BSpeak to me again when you and your friends are ready to proceed. We shall see if you are truly worthy."
+ },
+ {
+  "id": 13214,
+  "t": "Battle at Valhalas: Fallen Heroes",
+  "o": "Geirrvif at Valhalas has challenged you to, in a single combat, defeat all six of the fallen heroes: Eldreth, Geness Half-Soul, Jhadras, Masud, Rith, and Talla.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "If you believe yourself ready to begin then I have just the match for you to cut your teeth on.$B$BAnother group of outsiders thought themselves prepared for the rigors of Valhalas. They had much hubris, but in the end they fell like all of the others.$B$BIf you think yourselves so different -- if you think that you have the skill and experience to fight here amongst such storied warriors -- then please accept the challenge.",
+  "p": "",
+  "c": "New blood.$B$B<The vrykul death knight spits on the ground at your feet.>$B$BYou all think that you have what it takes to fight here.$B$BYou are nothing before the might of the vrykul and the Scourge!$B$BStill, you did manage to defeat six incompetent corpses, so you must have some skill in you. Not likely enough for the next challenge though."
+ },
+ {
+  "id": 13215,
+  "t": "Battle at Valhalas: Khit'rix the Dark Master",
+  "o": "Geirrvif at Valhalas has challenged you to defeat Khit'rix the Dark Master.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "A variety of beings travel the world to prove themselves within Valhalas. Some even come from under the world.$B$BKhit'rix the Dark Master is one such.$B$BHailing from deep within the ground where insanity reigns, Khit'rix has asked for someone exotic to face in the ring. You will do.$B$BDare you face this Nerubian nightmare, $r?",
+  "p": "",
+  "c": "You want me to be impressed by the fact that you and your friends were able to bring down a lone Nerubian priest?$B$BGet out of my sight before I summon my ghouls upon you!"
+ },
+ {
+  "id": 13216,
+  "t": "Battle at Valhalas: The Return of Sigrid Iceborn",
+  "o": "Geirrvif at Valhalas has challenged you to defeat Sigrid Iceborn.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "An old foe of yours has returned: Sigrid Iceborn. Perhaps you remember besting her in a duel upon the Savage Ledge?$B$BNo matter, she certainly remembers you. She's insisting upon a chance to prove herself once more.$B$BPersonally, I think it's more a chance for revenge, but that too can be useful in this place.$B$BI leave it up to you, $N. Will you face Sigrid Iceborn once more?",
+  "p": "",
+  "c": "The defeat of one of the hyldnir is mildly impressive, $r, but you did have the help of your friends.$B$BYou're lucky that her drake didn't get involved."
+ },
+ {
+  "id": 13217,
+  "t": "Battle at Valhalas: Carnage!",
+  "o": "Geirrvif at Valhalas has challenged you to defeat Carnage.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "You've been successful up to this point, $N, but what you must face to continue to battle within Valhalas is a gigantic horror beyond imagining.$B$BI must warn you to turn away now. Carnage is a mountain of flesh constructed by the Lich King's most fiendish minds.$B$BI do not see how you and your friends will defeat it. However, the choice is yours.",
+  "p": "",
+  "c": "I'm starting to respect your prowess in the ring, $N. Now I really don't like you.$B$BI would much rather have preferred to see you and your friends stuck to the bottom of that flesh giant's foot!"
+ },
+ {
+  "id": 13218,
+  "t": "Battle at Valhalas: Thane Deathblow",
+  "o": "Geirrvif at Valhalas has challenged you to defeat Thane Banahogg, the Deathblow.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "Your skills have not gone unnoticed by the vrykul of Jotunheim, $N. Thane Banahogg has taken a personal interest in you and has insisted that he be your next match.$B$BIf you thought Carnage was bad, then you might want to go home now. Thane Banahogg's nickname is The Deathblow. I think you can guess how he earned it.$B$BDo you accept the thane's challenge?",
+  "p": "",
+  "c": "I don't know what trickery it was that you used to bring down the thane -- I couldn't see it from this angle -- but I can assure you that you will not survive your next match.$B$BYes, I know who it is. Run, little $r. Flee to the far corners of the world.$B$BOr stay and die. It matters little to me."
+ },
+ {
+  "id": 13219,
+  "t": "Battle at Valhalas: Final Challenge",
+  "o": "Geirrvif at Valhalas has challenged you to defeat Prince Sandoval.$B$BShould you succeed, speak with Gjonner the Merciless overlooking the southern lip of Valhalas.",
+  "d": "I'm afraid that your success is going to be your undoing, $N.$B$B<If the val'kyr could turn more white, she would.>$B$BWord of your success in Valhalas has reached deep into Icecrown Citadel, stirring one whom you have no desire to meet.$B$BPrince Sandoval himself is on his way at this very moment. Gjonner warned you that you should run and I cannot disagree.$B$BWhat will you do? He's on his way. Will you face the blood prince in final battle?",
+  "p": "",
+  "c": "Your defeat of Prince Sandoval sickens me. An unwashed peasant such as yourself should have willingly given over $g his : her; life simply for the chance to meet him and kneel at his feet.$B$BYou've earned your damned reward. Be quick about your choosing."
+ },
+ {
+  "id": 13220,
+  "t": "Putting Olakin Back Together Again",
+  "o": "Obtain a Spool of Thread and the Doctor's Cleaver, then take them to the Sanctum of Reanimation Slab and use Olakin's remains to attempt to reanimate the crusader. Return to Darkrider Arly at Blackwatch when this task is complete.",
+  "d": "We can't afford to waste any time putting Olakin back together. Fortunately, the Scourge has provided a perfect place for you to stitch him back together.$B$BNear the Fleshwerks' flesh giant lab is the Sanctum of Reanimation. Search the area for a spool of thread and the doctor's cleaver. Then, take Olakin's remains to the large slab in the middle of the sanctum and get to work.",
+  "p": "Have you put our brave crusader back together?",
+  "c": "Olakin should consider himself fortunate. No one is rescued from the Scourge, no one. No amount of thread and heroism will save him a second time. I'll make certain he remembers it."
+ },
+ {
+  "id": 13221,
+  "t": "I'm Not Dead Yet!",
+  "o": "Escort Father Kamaros to safety and then report to Absalan the Pious aboard the Skybreaker.",
+  "d": "The Light smiles upon me. I have not yet died in this living nightmare, but the Scourge will kill me and tear my body apart for use in their 'work' here if I cannot escape.$B$BI cannot make it on my own, my child, but with your help, I may yet live to fight the Scourge again.$B$BWill you help me make my escape before the Scourge's butchers come to finish me off?",
+  "p": "",
+  "c": "Thank the Light. I'd thought Father Kamaros dead, or worse. Through your bravery and compassion, you have restored a great ally to the Argent Crusade. You have my thanks and those of the crusade."
+ },
+ {
+  "id": 13222,
+  "t": "Defend the Siege",
+  "o": "Senior Demolitionist Legoso in Wintergrasp wants you to pilot or protect a siege device as it destroys three structures.$B$BPlayers of private rank or higher can build siege devices at Goblin Workshops.",
+  "d": "Front and center, $n! We're beginning our assault on Wintergrasp Fortress. Those Horde animals think they can hide cowardly behind their walls? Well, I think not! We'll show them the power of Gnomish technology and smash their walls to bits!$B$BHowever, even the most powerful siege device is helpless without a crew. Pilot or protect one of our siege vehicles as it destroys three of the Horde structures.",
+  "p": "There is no time to waste, have you destroyed the Fortress?",
+  "c": "That should show them the power of Gnomish invention!"
+ },
+ {
+  "id": 13223,
+  "t": "Defend the Siege",
+  "o": "Lieutenant Murp in Wintergrasp wants you to defend or pilot a siege vehicle while they destroy three Alliance structures.$B$BSiege devices can be built by ranked Horde players at the Goblin Workshops.",
+  "d": "Dem Alliance won't be long to hold that keep. Murp would smash walls, but Murp has to stay in camp. Murp wish he could smash Alliance who want to hurt Horde demolishers.$B$BYou, $n! You go in Murp's place. Protect 3 siege vehicles while they smash Alliance buildings. Alliance not expect you to defend demolisher. Show Alliance how smart Murp is! ",
+  "p": "You protect da siege machines?",
+  "c": "Good job. Murp wish he was there to help."
+ },
+ {
+  "id": 13224,
+  "t": "Orgrim's Hammer",
+  "o": "Seek out Sky-Reaver Korm Blackscar aboard Orgrim's Hammer flying above Icecrown.",
+  "d": "The Argent Crusade pulled my ravaged body from the Broken Front. What a glorious battle, $r. My axe sang as it cut down Alliance filth and Scourge alike.$B$BMy time is over. It will be a good death. Carry a message for me, soldier.$B$BOur base flies out of reach of Scourge - overhead between Mord'rethar and Aldur'thar. It is called \"Orgrim's Hammer.\"$B$B<Hork futilely attempts to salute.>$B$BFly high and avoid the Alliance juggernaut, Skybreaker. Tell Korm... tell him I died... fighting... For the Horde.",
+  "p": "",
+  "c": "<Korm salutes.>$b$bDamn the Scourge and damn the Alliance! Hork was one of our best. We will have our revenge. For Hellscream and for the Horde!"
+ },
+ {
+  "id": 13225,
+  "t": "The Skybreaker",
+  "o": "Seek out High Captain Justin Bartlett aboard the Skybreaker flying above Icecrown.",
+  "d": "We were neck deep in Scourge and Horde. The screams of the dying covered that field. It was torturous... unrelenting!$B$BAt some point my body gave out. I fell, only to be awoken by the Argent Crusade. They pulled me out of the Broken Front and brought me here. I'm not going to make it. Grant a dying soldier one last wish, $r? Our base, the Skybreaker, flies high above Icecrown. It is there that you'll find my commanding officer, High Captain Bartlett. Tell him that I died a soldier of the Alliance.",
+  "p": "",
+  "c": "<Captain Bartlett salutes.>$B$BHe was a damn fine soldier. Damn the Horde and damn the Scourge!"
+ },
+ {
+  "id": 13226,
+  "t": "Judgment Day Comes!",
+  "o": "Report to Highlord Tirion Fordring at the Argent Vanguard in Icecrown.",
+  "d": "We cannot defeat the Lich King on our own. Divided we shall all fall!$B$BI implore you to answer the call, $g brother:sister;. The Argent Crusade accepts all who would volunteer to aid in the war effort. Highlord Tirion Fordring himself awaits you at the Argent Vanguard! Get upon your mount and fly to the southeastern reaches of Icecrown. It is there that you will find Lord Fordring and the soldiers of the Argent Crusade.$B$BGo now, $c, for judgment day comes!",
+  "p": "",
+  "c": "My faithful knights have served me well. It seems that their recruitment efforts have yielded a hero!"
+ },
+ {
+  "id": 13227,
+  "t": "Judgment Day Comes!",
+  "o": "Report to Highlord Tirion Fordring at the Argent Vanguard in Icecrown.",
+  "d": "We cannot defeat the Lich King on our own. Divided we shall all fall!$B$BI implore you answer the call, $g brother:sister;. The Argent Crusade accepts all that would volunteer to aid in the war effort. Highlord Tirion Fordring himself awaits you at the Argent Vanguard! Get upon your mount and fly to the southeastern reaches of Icecrown. It is there that you will find Lord Fordring and the soldiers of the Argent Crusade.$B$BGo now, $c, for judgment day comes!",
+  "p": "",
+  "c": "My faithful knights have served me well. It seems that their recruitment efforts have yielded a hero!"
+ },
+ {
+  "id": 13228,
+  "t": "The Broken Front",
+  "o": "Korm Blackscar on Orgrim's Hammer wants you to go to The Broken Front and question a Dying Berserker to discover what happened there.",
+  "d": "What battle?! Those troops were on a recon mission!$b$bAnd what's this talk of Alliance - you're sure he said Alliance?$b$bListen to me, $n! I need to know what's going on and I need to know NOW!$b$bGet yourself down there and get me some answers! Scour the battlefield and look for survivors - clues - anything!",
+  "p": "Well, $N?$B$BHave you got new information for me?",
+  "c": "They saw the Alliance assaulting the gate and they attacked them from behind...$b$b<After a brief pause, Korm bursts into laughter.>$b$bTHAT is what it means to be HORDE!$b$bWere it not for them, the Alliance maggots would likely be holding that gate!$b$bTheir boldness has bought us precious time."
+ },
+ {
+  "id": 13229,
+  "t": "I'm Not Dead Yet!",
+  "o": "Escort Father Kamaros to safety and then report to Brother Keltan aboard Orgrim's Hammer.",
+  "d": "The Light smiles upon me. I have not yet died in this living nightmare, but the Scourge will kill me and tear my body apart for use in their 'work' here if I cannot escape.$B$BI cannot make it on my own, $c, but with your help, I may yet live to fight the Scourge again.$B$BWill you help me make my escape before the Scourge's butchers come to finish me off?",
+  "p": "",
+  "c": "You have done well. We thought Father Kamaros lost, for certain. Your bravery will serve as an example to all those who oppose the Scourge."
+ },
+ {
+  "id": 13230,
+  "t": "Avenge Me!",
+  "o": "A Dying Berserker has asked that you slay 5 Dying Soldiers at the Broken Front. Report to Sky-Reaver Korm Blackscar on Orgrim's Hammer when it is done.",
+  "d": "I hear them, $g brother:sister;....$b$bThe moans of the wounded Alliance... they taunt me...$b$bFinish what we have begun here, $c. Show no mercy... let none of them survive.$b$bFor... the Horde...",
+  "p": "What is it, $c?",
+  "c": "The time of tolerance for the Alliance has passed, $N.$b$bThey have earned our hatred! They shall live in fear of the Horde until they no longer pollute our world!"
+ },
+ {
+  "id": 13231,
+  "t": "The Broken Front",
+  "o": "High Captain Justin Bartlett aboard the Skybreaker wants you to go to the Broken Front and question a Dying Soldier, then report back to him.",
+  "d": "What?! Noooo!$b$bWe went to such great pains to keep this attack secret. How could the Horde have known? The resources... the men... all lost? Inconceivable!$b$bOur plans here in Icecrown hinged upon our taking that gate before the Horde could. We must recover quickly and prepare to mount another offensive.$b$bVisit the battlefield and search for any survivors. See if there's anything to be learned from this tragedy.$b$bAnd prepare yourself, $n, for a war - on two fronts...",
+  "p": "Well, $N?$B$BWhat have you learned?",
+  "c": "So... It was a rout - a total loss. This shall not be forgotten.$b$bMark my words, $c. The Horde shall pay for this... there will be no mercy!"
+ },
+ {
+  "id": 13232,
+  "t": "Finish Me!",
+  "o": "A Dying Soldier in the Broken Front wants you to kill 5 Dying Soldiers and report to High Captain Justin Bartlett on the Skybreaker.",
+  "d": "They taunt us - even as they lie dying here...$b$bPlease, $g brother:miss;... Don't allow their mocking to be the last sounds I hear...$b$bFinish me... deliver me from this torment... into... the Light.$b$bSeek out  my companions... offer them the same mercy.$b$bLeave nothing for the Scourge to raise!$b$bI beg you...",
+  "p": "What is it, $c?",
+  "c": "That was a difficult thing you did, $c. But it was the right thing.$b$bDon't allow the memory of your actions to haunt you. Harness that sorrow and pain you feel! Direct it at those who caused it.$b$bThe Horde must pay!"
+ },
+ {
+  "id": 13233,
+  "t": "No Mercy!",
+  "o": "High Captain Justin Bartlett aboard the Skybreaker wants you to kill 15 Horde Players in Icecrown.",
+  "d": "It is as I told you. They were not merely idle words spoken in a fit of anger.$b$bTime and again, the Horde have demonstrated their disdain for everything we hold dear and holy. They must pay with their lives for their transgressions against the light.$b$bAll of them.$b$bJust imagine a world free of their stain, $n. Envision the joy our children will know. Think of the reverence your descendants will have for your memory, knowing they owe their happiness to you.$b$bNow go, and make that vision a reality!",
+  "p": "I trust that you have stained the snow with the blood of our enemies, $N.",
+  "c": "Well done, $N!$b$bHunt them down and make them pay!"
+ },
+ {
+  "id": 13234,
+  "t": "Make Them Pay!",
+  "o": "Sky-Reaver Korm Blackscar wants you to kill 15 Alliance Players in Icecrown.",
+  "d": "The time has come!$b$bToo long have we suffered the company of the self-righteous Alliance! Too long have we stayed our hand from cleansing our world of the weak and the desperate.$b$bNow, we bring an end to our humiliation! Now, we show them the true meaning of fear! Now, we bring honor to the Horde!$b$bHere, at Icecrown, we break the Alliance!$b$bGo, $c. Hunt them down. Break them. Take their will to live!",
+  "p": "Have you brought suffering to the Alliance, $c?",
+  "c": "You have done well, $c.$b$bSoon, the Alliance shall run from you in fear and the Horde shall honor your name!"
+ },
+ {
+  "id": 13235,
+  "t": "The Flesh Giant Champion",
+  "o": "Speak with Margrave Dhakar at the western end of the Fleshworks to engage Morbidus. After you have defeated Morbidus, report to Darkrider Arly at Blackwatch.",
+  "d": "You've done well in destroying the Fleshwerks and slaughtering the Lich King's servants. Now, all that remains is to defeat the Fleshwerks' greatest accomplishment -- the flesh giant known as Morbidus.$B$BIt will not be an easy fight, but the Shadow Vault has dispatched Margrave Dhakar with some reinforcements. Meet up with him at the highest point at the western end of the Fleshwerks. Tell him when you're ready to begin the attack and he'll order his forces into battle.",
+  "p": "Have you finished off the Lich King's prized flesh giant?",
+  "c": "With the Lich King's flesh giant champion defeated, he must know that the rest of his forces are vulnerable as well. With you by our side, we will teach the Lich King the meaning of fear once more."
+ },
+ {
+  "id": 13236,
+  "t": "Army of the Damned",
+  "o": "Matthias Lehner at the First Legion Forward Camp wants you to raise an army of 100 Ghoulish Minions.",
+  "d": "You probably think you're quite strong -- fighting these undead and crushing their bones beneath your war machines.$B$BThat is nothing compared to the strength it took to create them.$B$BI saw the prince do it himself.  I can show you how it happened... if you'd like.",
+  "p": "Did you see, $N?",
+  "c": "The prince's true power wasn't his ability to make armies out of corpses... that was easy$b$bBut killing his own men, with whom he'd shared many battles... the prince's true power was his ability to do what had to be done."
+ },
+ {
+  "id": 13237,
+  "t": "Poke and Prod",
+  "o": "Koltira Deathweaver aboard Orgrim's Hammer wants you to go the Broken Front and defeat 5 Hulking Abominations, 5 Malefic Necromancers, and 5 Shadow Adepts.",
+  "d": "While your commander has his focus diluted by his loathing of your Alliance rivals, you can depend on me to direct my attention squarely on the real enemy here - the Lich King and his minions.$b$bIn order to hold any hope of conquering him at the citadel, your people must take and hold each gate.$b$bFor now, let us focus on the first. Return to the front and prod their defenses. Look for any sign of weakness that we might exploit.$b$bI'll await your report, $c.",
+  "p": "Well, $r?$B$BWhat have you learned?",
+  "c": "Really, $c?$b$bNothing notable to report?$b$b$b$bI beg to differ..."
+ },
+ {
+  "id": 13238,
+  "t": "Good For Something?",
+  "o": "Sky-Reaver Korm Blackscar wants you to speak with Chief Engineer Copperclaw aboard Orgrim's Hammer.",
+  "d": "Goblins! Hyper little busy-bodies...$b$bListen, $n. Copperclaw, our resident engineer, is insisting that he's got something useful to show me.$b$bI'm in no mood to endure his squeaky nagging. The last time I acknowledged him, he chirped on for an hour straight. It was all I could do to keep from drop-kicking him into Sindragosa's Fall!$b$bYou go in my place and humor him. Let me know if indeed he's on to anything.",
+  "p": "",
+  "c": "Too busy? Phooey! This baby flies herself!$b$bNevermind that. You'll do..."
+ },
+ {
+  "id": 13239,
+  "t": "Volatility",
+  "o": "Chief Engineer Copperclaw wants you to use Copperclaw's Volatile Oil at the Broken Front to attract 3 Frostbrood Skytalons.$b$bTo use the oil, you must collect a Pile of Bones, an Abandoned Helm, and Abandoned Armor from the battlefield there.",
+  "d": "Where to begin... well, you must know that as chief engineer of this vessel I have access to all of the intelligence reports - yes, yes, it's true, and I've recently taken a particular interest in the frostwyrms you reported seeing to the south, and I do believe I've developed a plan that just might work against them... now it'll take a little legwork on your part, but essentially, you build a dummy out of armor and coat it with a splash of this solution, then run for cover!$b$b...You still here, $r?",
+  "p": "You toast them wyrms, $c?",
+  "c": "Wahooo! I saw them light up all the way from here! I'll just chalk that up as another success and begin bottling this stuff up for the invasion - of course it might need a little more testing as we go if you're at all interested...."
+ },
+ {
+  "id": 13240,
+  "t": "Timear Foresees Centrifuge Constructs in your Future!",
+  "o": "Archmage Timear in Dalaran has foreseen that you must destroy 10 Centrifuge Constructs.",
+  "d": "It is into the Oculus floating above Coldarra that you must travel, $N.$B$BI have foreseen a situation in which you must destroy the centrifuge constructs therein. I can assure you that if you do not first eliminate these magical creations, you and your friends will fail.$B$BThus I have seen, thus you must do.",
+  "p": "I sense that you have yet to destroy all of the constructs.",
+  "c": "<The archmage nods even before you say a word.>$b$bI know. You destroyed the constructs as I foresaw and were then able to go on to fight Varos Cloudstrider.$b$bExcellently done, $N!"
+ },
+ {
+  "id": 13241,
+  "t": "Timear Foresees Ymirjar Berserkers in your Future!",
+  "o": "Archmage Timear in Dalaran wants you to slay 7 Ymirjar Berserkers.",
+  "d": "King Ymiron's champions stand between you and victory in the not-too-distant future.$B$BYou will travel to the fortress known as Utgarde Pinnacle nestled deep within the woods of the Howling Fjord. I cannot stress how important it is that you and your traveling companions deal with the Ymirjar berserkers therein.$B$BFailure to do so may very well doom you, $N!",
+  "p": "<The archmage presses his fingers to his temples and concentrates.>$B$BThe berserkers have not yet been slain. Heed my warning, $N. You must do this thing!",
+  "c": "Outstanding work, $N.$b$bWithout having done so, the surviving berserkers would surely have swarmed you during your fight with the king."
+ },
+ {
+  "id": 13242,
+  "t": "Darkness Stirs",
+  "o": "Gather Saurfang's Battle Armor from the field of battle and return it to High Overlord Saurfang at Warsong Hold in Borean Tundra.",
+  "d": "Darkness stirs, $N. A tragic event has transpired that none but the Timeless One could have foreseen. Soon your people will be gripped by anger and hatred. War is on the horizon.$B$BThe red dragonflight has done all that it can. What happens next is in the hands of the mortal races of Azeroth.$B$BRegrettably, your journey begins with anguish. A father has lost a child today. You must bear the grim news. Gather the armaments of Saurfang and return them to the elder Saurfang. $B",
+  "p": "<Saurfang's face contorts.>$b$bMy heart... my strength...",
+  "c": "<Saurfang looks to the heavens.>$b$bLike Brox, my son died a hero. Do not mourn him, $N. For an orc, there could be no better end! No greater honor! At this moment, my heart swells with pride.$b$bI thank you for returning our battle armor. It will be placed upon his pyre at the Ancestral Grounds of Nagrand.$b$bWe must turn our full attention to more pressing matters."
+ },
+ {
+  "id": 13243,
+  "t": "Timear Foresees Infinite Agents in your Future!",
+  "o": "Archmage Timear in Dalaran has foreseen that you must slay 4 Infinite Agents.",
+  "d": "The timeline is in danger from the Infinite dragonflight. Without your intervention, all of time will unravel!$B$BYou must travel to a point in time known as the Culling of Stratholme within the Caverns of Time.$B$BIt gives me a migraine just to attempt to see into all of the possible pasts, but I do know that it is crucial for you to kill the Infinite agents.$B$BOnly by slaying them will the true past be preserved and the present and future kept from being undone forever!",
+  "p": "Time is always a precious resource, but even more so in this case, $N. Please deal with the Infinite agents before it is too late!",
+  "c": "We are saved for now. Thank you.$b$bUnfortunately due to the nature of their interference, the Infinite's will have almost unlimited opportunity to do so again.$b$bWhat I can discern is that in the future, you are at the heart of the struggle to stop them, $N!"
+ },
+ {
+  "id": 13244,
+  "t": "Timear Foresees Titanium Vanguards in your Future!",
+  "o": "Archmage Timear in Dalaran has foreseen that you must slay 7 Titanium Vanguards.",
+  "d": "The entirety of Azeroth is in peril. The mad god Loken has it within his power to put an end to everything!$B$BWithin the Terrestrial Watchtower at the Halls of Lightning, the titanium vanguards stand poised to execute Loken's dread will upon countless unknowing victims.$B$BI have looked into the future, $N. You are the one to see that this does not come to pass!",
+  "p": "Even I cannot discern why it is that we are standing here speaking when you have yet to eliminate the threat of the titanium vanguards.",
+  "c": "We are all in your debt, $N.$b$bIf I am certain of anything, it is that you have not failed us, nor will you in the future!"
+ },
+ {
+  "id": 13245,
+  "t": "Proof of Demise: Ingvar the Plunderer",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Axe of the Plunderer.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "I need you to assemble a group and lead them into Utgarde Keep. Therein, you are to find and slay Ingvar the Plunderer before he can lead his vrykul forces to sack the nearby Alliance and Horde towns.$B$BI require his axe as proof that he has been dealt with. It's not that I don't trust you. It's simply prudent to be certain that the deed has been done.",
+  "p": "You have the axe? Ingvar is dead?",
+  "c": "Very well. Just put the axe down over by the wall.$b$bI'm sure that Valgarde and Vengeance Landing will rest easier tonight knowing that you have dealt with that savage."
+ },
+ {
+  "id": 13246,
+  "t": "Proof of Demise: Keristrasza",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with Keristrasza's Broken Heart.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Are you familiar with the story of Keristrasza?$B$BHow she was instrumental in the slaying of Saragosa, the mate of Malygos? How, in turn, he took Keristrasza as his consort, freezing her within a block of ice?$B$BWe have become aware that Malygos has been using his magic to break her will. This has driven her insane.$B$B$N, you must go into the Nexus in Coldarra and put an end to her before she can be fully turned.$B$BThough it saddens me, I must insist that you bring me her heart as proof.",
+  "p": "If we thought there was a way to redeem her, we wouldn't be asking you to put an end to her life.$b$bHowever, we know how powerful Malygos's command over magic has become. With his manipulations of Azeroth's ley-lines, he is without peer where matters arcane are concerned.",
+  "c": "Regrettable, but extremely necessary.$b$bThe Kirin Tor could ill afford a prominent red dragon falling into the hands of our greatest enemy. Malygos's use of her against us in the Nexus War would have been devastating.$b$bI simply regret that we couldn't have saved her instead."
+ },
+ {
+  "id": 13247,
+  "t": "Proof of Demise: Ley-Guardian Eregos",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with a Ley Line Tuner.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The Nexus War rages on and we must do something to turn the tide! Are you willing to fly into the heart of the battle, $N?$B$BLey-Guardian Eregos is the protector of the conduit through which Malygos is funneling the magical power of Azeroth's ley lines. If he can be slain it will be a great blow to the enemy.$B$BPlease bring me one of his ley line tuners so that we might study it.",
+  "p": "Has the ley-guardian been dealt with, $c?$b$bI needn't remind you that Malygos is attempting to stop the use of all magic in the world, and that the blue dragonflight is slaying anyone that knows how to wield it who won't turn to their side?",
+  "c": "Thank you, $N. The examination of that tuner should provide us with further insights into how Malygos is manipulating the ley lines.$b$bIf we can find a weakness in his approach, we might be able to exploit it and turn the tide."
+ },
+ {
+  "id": 13248,
+  "t": "Proof of Demise: King Ymiron",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Locket of the Deceased Queen.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "King Ymiron of Utgarde Pinnacle is the favored vrykul of the Lich King. That alone is reason enough to put an end to him.$B$BBut should he blow the horns and call for all of the leaders of the ymirjar and mjordin alike, the vrykul will become a force more powerful than any other within the Scourge!$B$BIt is up to you, $N, to see to it that this does not come to pass. Bring me the locket from around his neck so that I will know that Ymiron no longer poses a threat.",
+  "p": "Ymiron must not be allowed to organize the vrykul nation. Should he return triumphantly to Icecrown, it is very likely that all will be lost.",
+  "c": "<The archmage somberly nods as you hand him the rather large piece of jewelry.>$b$bWhat's done is done. Such a noble race these vrykul. It is unfortunate that the Lich King has sunk his deathly hooks into them."
+ },
+ {
+  "id": 13249,
+  "t": "Proof of Demise: The Prophet Tharon'ja",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Prophet's Enchanted Tiki.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Drak'Tharon Keep once stood as a proud bastion of the Drakkari nation. Now it is nothing more than a stepping stone for the Lich King in his fight to put an end to Zul'Drak and steal the powers of the troll gods.$B$BBut if we were to eliminate their leader, the Prophet Tharon'ja, perhaps we could stop the flow of Scourge troll reinforcements. At the very least this would give the Argent Crusade in Zul'Drak one less thing to worry about.$B$BReturn to me with his tiki so I will know the prophet is slain.",
+  "p": "Have you faced the prophet? Do you have the tiki?",
+  "c": "With any luck, now that it's leaderless, Drak'Tharon Keep will now prove less of a thorn in the side of those fighting against the Scourge in the region.$b$b<The archmage looks down at the tiki in your hand.>$b$bIt's just as well that the tiki has lost its mojo. I wouldn't have the first idea about how to use it, or even if it would be proper to do such a thing."
+ },
+ {
+  "id": 13250,
+  "t": "Proof of Demise: Gal'darah",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Mojo Remnant of Akali.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The Drakkari prophets of Zul'Drak have done the unthinkable: they've slain most of their gods to absorb their powers! The most dangerous of all is the High Prophet of Akali, Gal'darah.$B$BSequestered within the bowels of Gundrak, Gal'darah has absorbed almost all of the mojo from slain Akali and now stands poised to erupt with his followers from the city. If we do not kill him now, we will be awash in a sea of madness and unthinkable power!$B$BHurry, $N, bring me what's left of Akali's mojo.",
+  "p": "Do you have the mojo?$b$bIt is sickening to witness the demise of yet another great troll nation.$b$bI can only think that if it weren't for the interference of the Lich King, the trolls wouldn't have felt pressured to turn on their own gods and steal their power as a defense against the Scourge.",
+  "c": "Thank you, $N. I will see to it that the very essence of the god is kept safe until it can be handed over to the Zandalar tribe.$b$bPerhaps they'll be able to find a way to reincorporate Akali from it?"
+ },
+ {
+  "id": 13251,
+  "t": "Proof of Demise: Mal'Ganis",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Artifact from the Nathrezim Homeworld.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "$N, a friend within the bronze dragonflight has given me information that we must exploit.$B$BThe mysterious beings of the Burning Legion called the dreadlords are also known racially as the Nathrezim. Little is known of their homeworld and even that is rumor.$B$BHowever, it is known that Mal'Ganis of the past has made a critical error: he left behind an artifact from his homeworld!$B$BThrough the Caverns of Time, you must travel back to the time known as the Culling of Stratholme. Recover the artifact.",
+  "p": "We must capitalize on Mal'Ganis's mistake. It's not everyday that we get a chance like this.$b$bIf we can study that artifact, we may be able to gain a better understanding of the Nathrezim!",
+  "c": "Amazing! I've never quite seen anything like it. I will see to it that it gets into the proper hands within the Violet Citadel.$b$bIf only you'd been allowed to change the course of history. Perhaps if Arthas had been kept from... no, down that path leads madness.$b$bSurely the Keepers of Time know best in these matters."
+ },
+ {
+  "id": 13252,
+  "t": "Proof of Demise: Sjonnir The Ironshaper",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Curse of Flesh Disc.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Little is understood about the condition known as the Curse of Flesh. However, there is information to be had within the Halls of Stone.$B$BSjonnir The Ironshaper seems to know a great deal with regard to the curse. We have it on good authority that he is carrying a Titan disc of information upon him that could answer all of our questions.$B$BRetrieve this disc for me, $N, so that we may learn.",
+  "p": "Do you have the disc?",
+  "c": "Is not Titan technology amazing? The information is contained within the disc itself!$b$bI only hope that we can figure out a way to get it out of the disc."
+ },
+ {
+  "id": 13253,
+  "t": "Proof of Demise: Loken",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Celestial Ruby Ring.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "Within the Halls of Lightning, Loken is poised to put an end to our world. Need I say more, $N?$B$BHe sits there listening to the mad whisperings of the Old God trapped beneath Northrend. You and your friends must travel to the Storm Peaks immediately!$B$BConfront Loken within the Terrestrial Watchtower and stop him before it is too late! Bring me his ruby ring so that I will know we are safe once more.",
+  "p": "We speak again, $n. Does this mean that we are safe from Loken's madness, or are we doomed?",
+  "c": "<Archmage Lan'dalock breathes a sigh of relief.>$b$bTo be honest, I feared the worst had befallen you. It's difficult to stand idly by while others, such as yourself, deal with the matters of life and death which confront our world seemingly on a daily basis.$b$bNow what are we going to do with that gigantic ring?"
+ },
+ {
+  "id": 13254,
+  "t": "Proof of Demise: Anub'arak",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Idle Crown of Anub'arak.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The Scourged nerubians are a plague upon our forces.$B$BWhile we are safe from them here, floating above the world, when we set foot upon the land below, it is always with the thought that the undead nerubians could burrow up from the depths of Azjol-Nerub and attack.$B$BIt's in the best interests of everyone if they are thrown into a state of disarray. Kill their former king, and major-domo to the Lich King, the crypt lord, Anub'arak.$B$BPlease bring me his crown... not that he wears it any longer.",
+  "p": "I'm glad that it's you going down into Azjol-Nerub and not myself.$b$bI do not like being under the world.",
+  "c": "What horrors you must have faced while traversing the Upper City.$b$b<Lan'dalock glances down at the tarnished crown clutched in your fist.>$b$bPerhaps we should put that aside for their new king whenever the nerubians decide to coronate one?"
+ },
+ {
+  "id": 13255,
+  "t": "Proof of Demise: Herald Volazj",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Faceless One's Withered Brain.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "The nerubians of Ahn'kahet dug too deep during their attempt to escape the invasion of the Scourge. They got too close to the Old God under Northrend.$B$BRousing its awareness, the Old God sent its insane creatures against them, and the nerubians were caught between the proverbial rock and a hard place.$B$BThe leader of the Old Gods' forces, Herald Volazj is one of the nightmarish beings known as The Faceless. Put an end to him and bring me his withered brain.$B$BJust please, try to keep your sanity.",
+  "p": "$n? Are you still sane?",
+  "c": "<The archmage eyes the brain warily.>$b$bNow that I think of it, I'm not quite sure that it's safe to be so near to that thing. You say that it's still alive?$b$b<He shakes his head.>$b$bWe have a place for such things in the citadel. I'll see to it that one of my apprentices takes it there straight away."
+ },
+ {
+  "id": 13256,
+  "t": "Proof of Demise: Cyanigosa",
+  "o": "Archmage Lan'dalock in Dalaran wants you to return with the Head of Cyanigosa.$B$BThis quest may only be completed on Heroic difficulty.",
+  "d": "We're being invaded! The blue dragonflight has teleported into the Violet Hold and they're planning on breaking out from there into the rest of Dalaran!$B$BThere have already been reports of prisoners inadvertently being freed by their actions. It wouldn't surprise me if they're purposefully letting some of them free.$B$B$N, can you assemble your team quickly and get in there? Cyanigosa is the leader of their invasion force. Bring me her head!",
+  "p": "Come to think of it, why would you ever teleport into a prison to break out of it? It's only the most secure place in the city.$b$bI think the blues must have truly gone insane!",
+  "c": "The danger is over and the rest of the prisoners that had broken free are being imprisoned once more.$b$bDalaran owes you a debt of gratitude, $N!$b$bNow I need to go speak with someone about why it was so easy to bypass the city's anti-teleportation protections within the prison?!"
+ },
+ {
+  "id": 13257,
+  "t": "Herald of War",
+  "o": "Report to Thrall at Grommash Hold in Orgrimmar.",
+  "d": "The Warchief needs you, champion. Orgrimmar is in a state of martial law. All merchants and services have been shut down as the Warchief prepares for an unavoidable conflict.$B$BI cannot tell you much more - not now. Not in this place.$B$BThe Warchief commands that our strongest champions report to his throne room. Go now, $N! Take the portal back to Orgrimmar and seek out Thrall.",
+  "p": "",
+  "c": "The demon lord, Varimathras, and the Forsaken's chief apothecary, Putress, are responsible for this betrayal.$b$b<Thrall nods.>$b$bYes, the same Putress responsible for discovering the cure for the recent Scourge plague outbreak.$b$bThose that would not side with their regime have been executed or banished. Sylvanas was nearly killed in the coup.$b$bThe Horde has lost the Undercity. Orgrimmar will take on the Forsaken refugees until there is a resolution to this crisis. For now we are under martial law."
+ },
+ {
+  "id": 13258,
+  "t": "Opportunity",
+  "o": "Speak to Sergeant Kregga below Icecrown Citadel.",
+  "d": "We recently came upon schematics that indicate a weakness in Icecrown Citadel.  An opening in its defenses, both figuratively and literally.$B$BThe captured diagrams show an orifice leading several hundred feet into the ground.  We're unsure of its purpose, but our scouting has revealed it to be of high importance to the Scourge.$B$BSpeak to Sergeant Kregga below Icecrown Citadel, she's leading the attack on the site.",
+  "p": "",
+  "c": "Just in time, $N. Koltira spoke highly of you. Perhaps you'll be able to push the scales in our favor."
+ },
+ {
+  "id": 13259,
+  "t": "Establishing Superiority",
+  "o": "Sergeant Kregga at Icecrown Citadel wants you to slay 10 Hulking Horrors.",
+  "d": "We've one shot at dealing some damage to this place -- let's make sure we get it right.$B$BWe've acquired potent, Scourge-made, saronite bombs.  But we must secure this area before we can set them off.$B$BWe're going to need to get the Scourge defenses under control quickly, before reinforcements arrive.$B$BHelp my men out and come back when you're ready for some fireworks.",
+  "p": "",
+  "c": "You made quick work of the Scourge, $N. Let's finish what we came to do here."
+ },
+ {
+  "id": 13260,
+  "t": "Takes One to Know One",
+  "o": "Sky-Reaver Korm wants you to speak to Koltira Deathweaver on Orgrim's Hammer.",
+  "d": "While we should never miss an opportunity to strike out against the Alliance, we mustn't forget about the Scourge.$b$bWe won't have the numbers here to make a proper assault in the glacier for weeks, but that won't keep us from learning all we can know about their defenses.$b$bI have asked our resident death knight to advise you in this effort. After all, who better knows this enemy than they?$b$bAllow me to introduce Koltira Deathweaver.$B",
+  "p": "",
+  "c": "<Koltira looks you up and down.>$b$bI hope for your sake that you're up to this, $c. "
+ },
+ {
+  "id": 13261,
+  "t": "Volatility",
+  "o": "Chief Engineer Copperclaw wants you to use Copperclaw's Volatile Oil at the Broken Front to attract 3 Frostbrood Skytalons.$b$bTo use the oil, you must collect a Pile of Bones, an Abandoned Helm, and Abandoned Armor from the battlefield there.",
+  "d": "Wahooo! It works! Not that I had any doubts in my supernatural ingenuity, only that I wasn't quite sure what kind of explosion to expect - let's just say I'm glad to see that you didn't get your eyebrows singed off. So now I just need to show ol' Korm how ya thaw out one 'a them wyrms. He'll hafta promote me to... to... to whatever comes after Chief Engineer! Here, you take another batch of the stuff and head back out to the front and I'll go get Korm...$b$bWell? Move out!",
+  "p": "You toast them wyrms, $r?",
+  "c": "No good!$b$bKorm kept telling me he was too busy and when I finally got him to come topside and have a look, you had already used the last of the oil. Now he's ticked at me and won't even allow me in his presence again until tomorrow...$b$bCome back then and we'll try again!"
+ },
+ {
+  "id": 13262,
+  "t": "Blow it Up!",
+  "o": "Go to the nearby Saronite Bomb Stack to light the fuse.",
+  "d": "This is probably as under-control as this situation is going to get.  Let's do this, $N.$B$BI need someone to light the fuse on those bombs and it looks like you're the one to do it.",
+  "p": "",
+  "c": "These bombs look pretty potent. They should at least put a dent in the surrounding structure."
+ },
+ {
+  "id": 13263,
+  "t": "A Short Fuse",
+  "o": "Look for clues wherever the fall takes you.",
+  "d": "As you light the fuse, you notice that it is consumed by fire far quicker than you would expect.$B$BThe bombs are about to go off and your best chance at surviving is to lean towards the pit and hope the fall doesn't kill you.",
+  "p": "",
+  "c": "This pulsing object is covered in a thick layer of ice. It shimmers strangely beneath the water."
+ },
+ {
+  "id": 13264,
+  "t": "That's Abominable!",
+  "o": "Koltira Deathweaver on Orgrim's Hammer wants you to use the Abomination Reanimation Kit to create a Reanimated Abomination, which you are to use to kill 15 Icy Ghouls, 15 Vicious Geists, and 15 Risen Alliance Soldiers.",
+  "d": "Abominations...$b$bThey can be a very capable enemy. I've seen them turn the tide of battle more than once. What few realize, is that they can also be very capable friends.$b$bThey are not deep thinkers. If you know the secrets of their creation, you can issue them basic orders that they will not question.$b$bFortunately for you, I know these secrets.$b$bThis kit will reanimate the remains of the abominations you defeat. Take it, and learn to use them against the Scourge on the death gate.",
+  "p": "Yes, $c?",
+  "c": "You see, $c?$b$bIngenuity can sometimes even the odds against a seemingly overwhelming enemy."
+ },
+ {
+  "id": 13265,
+  "t": "Cloth Scavenging",
+  "o": "",
+  "d": "",
+  "p": "The humanoids of the northern lands wear garments that can be converted into cloth if you know how.$b$bFor a few gold I am willing to teach you the art of Cloth Scavenging that will give you additional frostweave cloth from the humanoids of Northrend that you slay.",
+  "c": "May you slay many humanoids and take their cloth."
+ },
+ {
+  "id": 13266,
+  "t": "A Life Without Regret",
+  "o": "Take the portal to Undercity located in Grommash Hold and report to Vol'jin.",
+  "d": "On the day of my death I wish to be able to say that I lived a life without regret. Those who mourn my passing will know that I was a Warchief who made decisions that best served his people.$B$BBut this betrayal by Varimathras and Putress... All that we have worked for is for nothing.$B$B<Thrall's chest heaves with a heavy sigh.>$B$BJustice must be served.$B$BPortals to Undercity will be active momentarily. Vol'jin will be waiting for you. I will meet you there soon. Together we will make it right, $N.",
+  "p": "",
+  "c": "Let me get you up to speed, $N.$b$bUndercity is a war-zone. Putress' apothecaries and Varimathras' demons have seized control. They've taken a defensive position inside and are using that damned blight against our troops."
+ },
+ {
+  "id": 13267,
+  "t": "The Battle For The Undercity",
+  "o": "Assist Thrall and Sylvanas in retaking the Undercity for the Horde.$B$BReport to Thrall should you succeed.",
+  "d": "The entirety of the Undercity is controlled by Varimathras. Our soldiers stand ready, waiting for the Warchief to give the attack orders.$B$BHelp the Horde take back the Undercity and earn your place among our greatest champions! Should you survive the assault, report to Thrall.$B$BCheck in with the Warchief when you are ready to begin.",
+  "p": "",
+  "c": "Tomorrow brings with it uncertainty. Gone are the days of Alliance and Horde battling alongside each other in pursuit of a common enemy. A new battle dawns, $N - a battle in which there can be no victor.$b$bBut we must continue our march towards Icecrown. We have no choice in that matter. Our salvation lies with heroes like you, $N. The future of the Horde - of the world - depends on you.$b$bLet us return to Orgrimmar. You must return to Northrend at once."
+ },
+ {
+  "id": 13268,
+  "t": "Cloth Scavenging",
+  "o": "",
+  "d": "",
+  "p": "You look like someone who knows their way around a needle and thread so maybe I can help you.$B$BThe northern humanoids wear clothes that can quickly be converted into cloth if you know how.$B$BFor a few gold I am willing to teach you the art of Cloth Scavenging that will give you additional cloth from the humanoids of Northrend.",
+  "c": "Come back when you have the skill and I can provide all of your tailoring training."
+ },
+ {
+  "id": 13269,
+  "t": "Cloth Scavenging",
+  "o": "",
+  "d": "",
+  "p": "The humanoids of the northern lands wear garments that can be converted into cloth if you know how.$b$bFor a few gold I am willing to teach you the art of Cloth Scavenging that will give you additional frostweave cloth from the humanoids of Northrend that you slay.",
+  "c": "May you slay many humanoids and take their cloth."
+ },
+ {
+  "id": 13270,
+  "t": "Cloth Scavenging",
+  "o": "",
+  "d": "",
+  "p": "The humanoids of the northern lands wear garments that can be converted into cloth if you know how.$b$bFor a few gold I am willing to teach you the art of Cloth Scavenging that will give you additional frostweave cloth from the humanoids of Northrend that you slay.",
+  "c": "May you slay many humanoids and take their cloth."
+ },
+ {
+  "id": 13271,
+  "t": "A Voice in the Dark",
+  "o": "Investigate the nearby voice in Naz'anak, the Forgotten Depths.",
+  "d": "The object is not a crystal at all, but some form of organ, encased in ice.$B$BAs you touch it, your hand reels in horrible pain.  You feel as if your hand has been cut, yet there is no visible wound.$B$BAs you collect your thoughts, you hear a young boy's voice nearby.$B$B\"You really shouldn't have done that.\"",
+  "p": "",
+  "c": "I saw him get rid of it, you know? He threw it all the way down here.$b$bSaid he wouldn't need it anymore. Said it made him weak."
+ },
+ {
+  "id": 13272,
+  "t": "Cloth Scavenging",
+  "o": "",
+  "d": "",
+  "p": "The humanoids of the northern lands wear garments that can be converted into cloth if you know how.$b$bFor a few gold I am willing to teach you the art of Cloth Scavenging that will give you additional frostweave cloth from the humanoids of Northrend that you slay.",
+  "c": "May you slay many humanoids and take their cloth."
+ },
+ {
+  "id": 13273,
+  "t": "Going After the Core",
+  "o": "Find Prospector Khrona's Notes and Prospector Soren's Maps at Brann's Base-Camp.",
+  "d": "With Norgannon's Shell in hand, only half of the archive key remains to be found. Luckily, I've had the Explorers' League hard at work chasing down leads about the whereabouts of Norgannon's Core.$B$BFar to the southeast of the Inventor's Library, on the slopes to the north of Dun Niffelem, is a camp bearing my name. The Explorers' League representatives seeking the second half of the key are based there. Bring me the maps and the notes they've made and we should be able to track down the other key half.",
+  "p": "Have you recovered those notes?",
+  "c": "Ruined? What d'you mean, the camp's been ruined?$B$B<Brann clenches his fists in anger.>$B$BThose iron dwarves will pay for this! There's little we can do now, and we have to focus on finishing the key. But once I get into the halls of Ulduar, the irons and their masters will answer for what they've done!"
+ },
+ {
+  "id": 13274,
+  "t": "The Core's Keeper",
+  "o": "Obtain Norgannon's Core.",
+  "d": "Prospector Soren's notes say that Norgannon's Core is in the keeping of a sentinel named Athan, one of Mimir's creations.$B$BSoren says the vault where Athan resides is called \"Loken's Bargain\" these days.$B$BLoken, eh? The earthen have mentioned him.$B$BThe vault is said to be southwest of the ruined Explorers' League camp, with a round entrance on a mountainside overlooking the Valley of Ancient Winters.$B$BFind this Athan and get the core from him, but I wouldn't be surprised if you were in for a fight.",
+  "p": "Was Prospector Soren right? Did you finally find Norgannon's Core?",
+  "c": "This is really it! The key is almost within our grasp. All we need now is a way to combine the shell and the core into a single key. Let's see what Prospector Soren had to say about this..."
+ },
+ {
+  "id": 13275,
+  "t": "Time to Hide",
+  "o": "Matthias Lehner wants you to obtain 3 Faceless One's Blood.",
+  "d": "You shouldn't have touched it.  But now that you did, he's going to come looking for you.$B$BAnd he'll find you.  Unless you hide yourself from him.$B$BBring me blood from the faceless ones if you want to live!",
+  "p": "Did you get the blood?",
+  "c": "What are you waiting for? You have to rub it on you!$b$bQuick! Or he'll see you!"
+ },
+ {
+  "id": 13276,
+  "t": "That's Abominable!",
+  "o": "Koltira Deathweaver on Orgrim's Hammer wants you to use the Abomination Reanimation Kit to create a Reanimated Abomination, which you are to use to kill 15 Icy Ghouls, 15 Vicious Geists, and 15 Risen Alliance Soldiers.",
+  "d": "You know what to do, $c.$b$bTake this kit and use the guts from their abominations to create one of your own, then command it to attack the enemy forces at the gate.$b$bYou would do well to refine this tactic for when we make our assault on the gate.",
+  "p": "Yes, $c?",
+  "c": "I see your skills with the abominations are developing nicely.$b$bBe diligent, friend, and soon the gate will belong to the Horde."
+ },
+ {
+  "id": 13277,
+  "t": "Against the Giants",
+  "o": "Koltira Deathweaver on Orgrim's Hammer wants you to bring him 5 Pustulant Spines from the Pustulant Horrors on Mord'rethar.",
+  "d": "While it's going to be crucial to defeat the Scourge on the ground, we mustn't neglect the gate itself.$b$bThe flesh giants on the ramparts are capable of hurling massive boulders and chunks of ice, inflicting devastating damage to enemy infantry below.$b$bMuster a force and defeat these giants. We need to know just what we're up against in terms of their strength.$b$bOh... and bring me their spines. If memory serves, there's a little trick I can share with you.",
+  "p": "Any success against the giants, $r?",
+  "c": "Excellent. These look to be usable samples.$b$bTime again to use the enemy's strength against them...."
+ },
+ {
+  "id": 13278,
+  "t": "Coprous the Defiled",
+  "o": "Koltira Deathweaver aboard Orgrim's Hammer wants you to kill Coprous the Defiled at Mord'rethar.",
+  "d": "Reports of a powerful zombie at the death gate have reached my ears, $c.$b$bWe cannot allow a potential threat such as this to go unchallenged. Any information you are able to glean from engaging it will be better than what we know now.$b$bGo to the western chamber of the gate and find this creature. Fight him, and find a weakness we might exploit.",
+  "p": "Were you able to find the zombie, $c?",
+  "c": "Well done, $c.$b$bPerhaps with some investigation, we can discover how they are bringing such a creature into existence."
+ },
+ {
+  "id": 13279,
+  "t": "Basic Chemistry",
+  "o": "Koltira Deathweaver aboard Orgrim's Hammer wants you to use Pustulant Spinal Fluid on a plague cauldron at Mord'rethar.",
+  "d": "<Koltira takes the pustulant spines and drains their fluid into a flask.>$b$bA little-known quality of the flesh giants...$b$bTheir spinal fluid interacts with the plague in a very interesting way, turning it into a corrosive acid.$b$bPoured from the towering ramparts, acid may not be a welcome sight to the troops below, but at least the victims won't rise up and add to the enemy's numbers.$b$bPour the contents of this flask into one of the plague cauldrons in the western chamber of the death gate.",
+  "p": "Were you able to neutralize a batch of plague, $c?",
+  "c": "You have done well, $c.$b$bWhen our armies arrive to march on the Citadel, we will have a solid plan in place for taking the death gate."
+ },
+ {
+  "id": 13280,
+  "t": "King of the Mountain",
+  "o": "Frazzle Geargrinder in Ymirheim wants you to use her Geargrinder's Jumpbot to plant the Alliance Battle Standard in the skulls at the top of the mountain.",
+  "d": "You've just got to get my jumpbot to the tippy top of the mountain to the northwest here at Ymirheim pronto, $N!$B$BThat dastardly, no-good Blast Thunderbomb is working on his own bot, and I'm afraid he almost has it completed. We're in a race to see who's gonna be king of the mountain!$B$BOnce you jump up there, plant our battle standard in the pile of bones and show everyone that the Alliance, and my engineering skills, are the best!",
+  "p": "Hold on a second... you haven't planted our battle standard yet!$B$BWhat's the hold up?",
+  "c": "YOU DID IT! YOU DID IT!$b$b<Frazzle jumps and gives you a big hug.>$b$bOh, you're just my favorite hero ever!$b$bYou think you could come back again tomorrow?"
+ },
+ {
+  "id": 13281,
+  "t": "Neutralizing the Plague",
+  "o": "Koltira Deathweaver aboard Orgrim's Hammer wants you use Pustulant Spinal Fluid on a blight cauldron at Mord'rethar.$b$bYou can create Pustulant Spinal Fluid by using a Giant Spine collected from a Pustulant Horror.",
+  "d": "You no longer need my assistance in neutralizing the enemy's plague cauldrons, $r.$b$bHunt down the flesh giants at the death gate and use the fluid from their spines to render batches of the plague ineffective.$b$bYou are striking at the heart of the enemy's strategy. This is an important mission - vital to our cause, and should be carried out whenever time permits.$b$bRemember, the giants and the plague cauldrons can be found on Mord'rethar.",
+  "p": "Greetings, $c.$B$BCan I report that we've rendered another plague cauldron useless?",
+  "c": "One less plague cauldron to account for when the battle commences.$b$bYour commander will be pleased."
+ },
+ {
+  "id": 13282,
+  "t": "Return to the Surface",
+  "o": "Return to Koltira Deathweaver aboard Orgrim's Hammer.",
+  "d": "You should leave now.  You'll find a portal behind me.  It'll take you to the surface.$B$BWe'll meet again.  He'll be looking for you.$B$BIt's only a matter of time until he finds you.",
+  "p": "",
+  "c": "$N! We thought you were dead!$b$bWe lost a few men in that explosion... but we sure put a hurt on the Scourge. They're scrambling their forces back to the citadel and leaving big gaps in their defenses. It's time to push forward."
+ },
+ {
+  "id": 13283,
+  "t": "King of the Mountain",
+  "o": "Blast Thunderbomb in Ymirheim wants you to use his Thunderbomb's Jumpbot to plant the Horde Battle Standard in the skulls at the top of the mountain.",
+  "d": "Yo, $N, I need you to get my jumpbot to the top of this mountain to the southeast, like yesterday!$B$BThat girly, self-righteous Frazzle Geargrinder thinks that her jumpbot's better than mine. Hah! We're in a race to see who's gonna be king of the mountain!$B$BOnce you jump up there, plant our battle standard in the pile of bones and show everyone that the Horde, and my mad engineering skills, are the best!",
+  "p": "",
+  "c": "I knew you were the right $r for the job!$b$b$b$bI gotta admit that right now you're my favorite $c of all time!$b$bWhat do you say to a repeat performance again tomorrow? I can make it worth your while!"
+ },
+ {
+  "id": 13284,
+  "t": "Assault by Ground",
+  "o": "Escort the Skybreaker troops to the gates of Ymirheim. Return to Ground Commander Koup at the edge of the glacier east of Ymirheim for compensation after the task is complete.",
+  "d": "Greetings $c.$B$BOur troops have been attempting to storm Ymirheim for some time, but these vrykul are far more vicious than any we've faced before. They've been ambushing us repeatedly as we try to make it up the pass, and we've lost a lot of men.$B$BIf you want to lend yourself to the battle and help get my squad to the gates of Ymirheim safely, we will gladly reward you for your efforts. Once at the gates, we'll dig in and wait for reinforcements to catch up to us.",
+  "p": "Did you get some of my men up safely?",
+  "c": "You have my thanks.$B$BThis has been a brutal operation, but we haven't had any great options otherwise - they're being equally as unforgiving to our aerial assault. We need to rout these vrykul if we're going to stand any chance of pressing on in Icecrown.$B$BWe're likely to need more help later. Please lend yourself to the battle again should the chance present itself."
+ },
+ {
+  "id": 13285,
+  "t": "Forging the Keystone",
+  "o": "Brann Bronzebeard wants you to meet him at the Temple of Invention and help him combine Norgannon's Shell and Norgannon's Core. Once you have helped Brann, report back to Boktar Bloodfury at the Grom'arsh Crash-Site.",
+  "d": "Aha! Here it is: the Temple of Invention, the seat of Keeper Mimir himself! Of course, that's where one would go to join the two parts of the key.$B$BAccording to the prospector's notes, the Temple of Invention is one of the highest points on the western side of the Terrace of the Makers. That means it should be roughly east of your Grom'arsh Crash Site.$B$BI'll meet you at the temple and we'll combine the parts together.",
+  "p": "",
+  "c": "<Boktar nods in approval as you tell him how you helped Brann recover the pieces of the keystone and combine them.>$B$BBrann may prove to be just the ally we need to discover what is truly happening in Ulduar. You've done well in aiding him. We need all the help we can get against this Loken and his iron dwarf minions."
+ },
+ {
+  "id": 13286,
+  "t": "...All the Help We Can Get.",
+  "o": "High Captain Justin Bartlett aboard the Skybreaker wants you to speak to Thassarian.",
+  "d": "Desperate times, $c...$b$bAs uncomfortable as it makes me, I'm prepared to accept assistance from anyone - including our resident death knight.$b$bGo to Thassarian and see if he can help us develop tactics against the Scourge that will ensure victory once we are able to mount another offensive.$b$bWe have come so far... we must not fail here!",
+  "p": "",
+  "c": "It was wise of Captain Bartlett to send you.$b$bWhile he frets over your conflict with the Horde, someone must remain exclusively focused on the real mission here - the march on Icecrown Citadel.$b$bWho better to direct your efforts than a former servant of the Lich King?"
+ },
+ {
+  "id": 13287,
+  "t": "Poke and Prod",
+  "o": "Thassarian on the Alliance gunship, Skybreaker, wants you to kill 5 Hulking Abominations, 5 Malefic Necromancers, and 5 Shadow Adepts at the Broken Front.",
+  "d": "As someone of your experience must surely know, there's no better way to familiarize one's self with their enemy than by confronting them in combat.$b$bWhile you no doubt lust for the glory of taking Icecrown Citadel, that cannot happen without taking each of the Lich King's gates first. For now, you must focus your efforts on the first of these...$b$bReturn to the Broken Front. Engage the enemy in battle. Search for a weakness we might exploit and return to me with a detailed report.",
+  "p": "You've returned, $c...$B$BAnything to report?",
+  "c": "Really, $c?$b$bNothing notable to report?$b$b<Thassarian notices the abomination remains splattered across your clothes and smiles.>$b$bI beg to differ..."
+ },
+ {
+  "id": 13288,
+  "t": "That's Abominable!",
+  "o": "Thassarian on the Skybreaker wants you to use the Abomination Reanimation Kit to create a Reanimated Abomination, which you are to use to kill 15 Icy Ghouls, 15 Vicious Geists, and 15 Risen Alliance Soldiers.",
+  "d": "Abominations...$b$bThey can be a very capable enemy. I've seen them turn the tide of battle more than once. What few realize, is that they can also be very capable friends.$b$bThey are not deep thinkers. If you know the secrets of their creation, you can issue them basic orders that they will not question.$b$bFortunately for you, I know these secrets.$b$bThis kit will reanimate the remains of the abominations you defeat. Take it, and learn to use them against the Scourge on the death gate.",
+  "p": "Well, $r?$B$BDid your abomination friends prove effective?",
+  "c": "You see, $c?$b$bIngenuity can sometimes even the odds against a seemingly overwhelming enemy."
+ },
+ {
+  "id": 13289,
+  "t": "That's Abominable!",
+  "o": "Thassarian on the Skybreaker wants you to use the Abomination Reanimation Kit to create a Reanimated Abomination, which you are to use to kill 15 Icy Ghouls, 15 Vicious Geists, and 15 Risen Alliance Soldiers.",
+  "d": "You know what to do, $c.$b$bTake this kit and use the guts from their abominations to create one of your own, then command it to attack the enemy forces at the gate.$b$bYou would do well to refine this tactic for when we make another assault on the gate.",
+  "p": "Yes, $c?",
+  "c": "I see your skills with the abominations are developing nicely.$b$bBe diligent, friend, and soon the death gate will belong to the Alliance."
+ },
+ {
+  "id": 13290,
+  "t": "Your Attention, Please",
+  "o": "High Captain Bartlett wants you to speak with Chief Engineer Boltwrench in the Skybreaker.",
+  "d": "Chief Engineer Boltwrench has proven invaluable in his service aboard the Stormbreaker. Were it not for his ingenuity, we'd be sprinkled across half of the glacier several times over by now.$b$bThe thing is, he feels he must share his every miniscule invention or discovery - most of which I don't even understand.$b$bMy focus must be squarely on our enemies right now. I cannot afford any distractions.$b$bPlease visit him in my stead, $n. And if you can, assist him. You'll find him belowdecks.",
+  "p": "",
+  "c": "Cappy sent you in his place, did he?$b$bVery well, $c. Roll up those sleeves... time to get to work!"
+ },
+ {
+  "id": 13291,
+  "t": "Borrowed Technology",
+  "o": "Chief Engineer Boltwrench aboard the Skybreaker wants you to use the Smuggled Solution at the Broken Front.$b$bUsing the solution will require an Abandoned Helm, Abandoned Armor, and Pile of Bones, all found at the Broken Front.",
+  "d": "I get it, I get it. Cappy's too busy to see this for himself. His loss!$b$bSee, I've managed to 'acquire' a certain shipment of solution from the enemy. And as much as I hate tinkerin' with inferior goblin technology, I'm inclined to make an exception here.$b$bTake this sample. I'll need you to run a few field tests, just to prove its usefulness, while I try to do a little reverse engineering to duplicate the creation process.$b$bGo to the front and gather the materials to make a decoy, then use the oil.",
+  "p": "Well, how'd it go, $r?",
+  "c": "Good news!$b$bI've managed to reproduce the solution - hardly an accomplishment, of course.$b$bDoubt I'll live to see the day those neanderthal goblins cook up somethin' a gnome can't recreate in his sleep!"
+ },
+ {
+  "id": 13292,
+  "t": "The Solution Solution",
+  "o": "Chief Engineer Boltwrench aboard the Skybreaker wants you to use the Smuggled Solution at the Broken Front.$b$bUsing the solution will require an Abandoned Helm, Abandoned Armor, and Pile of Bones, all found at the Broken Front.",
+  "d": "Oh, yes, yes. Back again, are we? Never enough practice, I suppose.$b$bHere we are, the solution to that pesky frostwyrm problem.$b$bMake them scarce, $r. The more you take out now, the less we face when we are again ready to attempt our march on the citadel.$b$bBest of luck, now. And do bring back whatever you don't use.",
+  "p": "Yes, friend?",
+  "c": "Good show! Good show indeed. You're turning into a regular wyrmslayer!$b$bCome back when you're ready to thin their numbers even further."
+ },
+ {
+  "id": 13293,
+  "t": "Get to Ymirheim!",
+  "o": "Speak with Blast Thunderbomb in Ymirheim.",
+  "d": "You need to get down to Ymirheim, that big frost vrykul town in the middle of Icecrown.$B$BOur boy, Blast Thunderbomb, is down there on the west side of town representing the Warsong Offensive in a competition against the Alliance. It's his jumpbot versus theirs in a king of the mountain contest!$B$BDon't let us down, $N. Goblin engineering pride is on the line! Besides, all the boys here in the hold are counting on you.$B$BThat and we've got money riding on it that you can kick those cowards in the pants!",
+  "p": "",
+  "c": "Oh man, am I glad to see you! Did the chief send you down from the Hammer?"
+ },
+ {
+  "id": 13294,
+  "t": "Against the Giants",
+  "o": "Thassarian on the Skybreaker wants you to bring him 5 Pustulant Spines from the Pustulant Horrors on Mord'rethar.$B",
+  "d": "While it's going to be crucial to defeat the Scourge on the ground, we mustn't neglect the gate itself.$b$bThe flesh giants on the ramparts are capable of hurling massive boulders and chunks of ice, inflicting devastating damage to enemy infantry below.$b$bMuster a force and defeat these giants. We need to know just what we're up against in terms of their strength.$b$bOh... and bring me their spines. If memory serves, there's a little trick I can share with you.",
+  "p": "Any success against the giants, $r?",
+  "c": "Excellent. These look to be usable samples.$b$bTime again to use the enemy's strength against them...."
+ },
+ {
+  "id": 13295,
+  "t": "Basic Chemistry",
+  "o": "Thassarian aboard the Skybreaker wants you to use Pustulant Spinal Fluid on a plague cauldron at Mord'rethar.",
+  "d": "<Thassarian takes the pustulant spines and drains their fluid into a flask.>$b$bA little-known quality of the flesh giants...$b$bTheir spinal fluid interacts with the plague in a very interesting way, turning it into a corrosive acid.$b$bPoured from the towering ramparts, acid may not be a welcome sight to the troops below, but at least the victims won't rise up and add to the enemy's numbers.$b$bPour the contents of this flask into one of the plague cauldrons in the western chamber of the death gate.",
+  "p": "Were you able to neutralize a batch of plague, $c?",
+  "c": "You have done well, $c.$b$bWhen our armies arrive to march on the Citadel, we will have a solid plan in place for taking the death gate."
+ },
+ {
+  "id": 13296,
+  "t": "Get to Ymirheim!",
+  "o": "Speak with Frazzle Geargrinder in Ymriheim.",
+  "d": "I need you down in Ymirheim, that big frost vrykul town in the middle of Icecrown.$B$BFrazzle Geargrinder is down there on the south side of town representing the Valiance Expedition in a competition against the Horde scum. It's her jumpbot versus theirs in a king of the mountain contest!$B$BDon't let us down, $N. Gnomish engineering pride is on the line! Besides, all the boys here in the hold are counting on you.$B$BThat and we've got money riding on it that you can kick those idiots in the pants!",
+  "p": "",
+  "c": "Did the chief send you down from the Skybreaker? Isn't that thing sweet?!"
+ },
+ {
+  "id": 13297,
+  "t": "Neutralizing the Plague",
+  "o": "Thassarian aboard the Skybreaker wants you use Pustulant Spinal Fluid on a plague cauldron at Mord'rethar.$b$bYou can create Pustulant Spinal Fluid by using a Giant Spine collected from a Pustulant Horror.",
+  "d": "You no longer need my assistance in neutralizing the enemy's plague cauldrons, $r.$b$bHunt down the flesh giants at the death gate and use the fluid from their spines to render batches of the plague ineffective.$b$bYou are striking at the heart of the enemy's strategy. This is an important mission - vital to our cause, and should be carried out whenever time permits.$b$bRemember, the giants and the plague cauldrons can be found on Mord'rethar.",
+  "p": "Greetings, $c.$B$BCan I report that we've rendered another plague cauldron useless?",
+  "c": "One less plague cauldron to account for when the battle commences.$b$bYour captain will be highly pleased."
+ },
+ {
+  "id": 13298,
+  "t": "Coprous the Defiled",
+  "o": "Thassarian aboard the Skybreaker wants you to kill Coprous the Defiled at Mord'rethar.",
+  "d": "Reports of a powerful zombie at the death gate have reached my ears, $c.$b$bWe cannot allow a potential threat such as this to go unchallenged. Any information you are able to glean from engaging it will be better than what we know now.$b$bGo to the western chamber of the gate and find this creature. Fight him, and find a weakness we might exploit.",
+  "p": "Were you able to find the zombie, $c?",
+  "c": "Well done, $c.$b$bPerhaps with some investigation, we can discover how they are bringing such a creature into existence."
+ },
+ {
+  "id": 13300,
+  "t": "Slaves to Saronite",
+  "o": "Absalan the Pious aboard the Skybreaker wants you to rescue 10 Saronite Mine Slaves.",
+  "d": "Our people are being captured and put to work as slaves in the saronite mines of Ymirheim, the vrykul stronghold in the middle of Icecrown. The Lich King has them mining that unholy ore day and night.$B$BI made a promise to Highlord Fordring that we would get those wretches out of there alive, and that's exactly what we will do.$B$BUnfortunately, I've been ordered to stay on this gunship and serve as an ambassador to the Valiance Expedition. Will you please rescue them in my stead, $N?",
+  "p": "I haven't received many reports of our men returning to the Argent Vanguard.$B$BAre you sure you've been to Ymirheim to free them?",
+  "c": "They're being driven insane? Voices in their heads?$B$BVoices in your head?!$B$BI want you to clear your mind of the taint that has crept into that place, $g boy : girl;.$B$BWe'll try to get the remainder of them out of there again tomorrow when you've had a chance to rest."
+ },
+ {
+  "id": 13301,
+  "t": "Assault by Ground",
+  "o": "Escort the Kor'kron troops to the gates of Ymirheim. Return to Ground Commander Xutjja at the edge of the glacier north of Ymirheim for compensation after the task is complete.",
+  "d": "Greetings $c.$B$BOur troops have been attempting to storm Ymirheim for some time, but these vrykul are far more vicious than any we've faced before. They've been ambushing us repeatedly as we try to make it up the pass, and we've lost a lot of men.$B$BIf you want to lend yourself to the battle and help get my squad to the gates of Ymirheim safely, we will gladly reward you for your efforts. Once at the gates, we'll dig in and wait for reinforcements to catch up to us.",
+  "p": "Did you get some of my men up safely?",
+  "c": "You have my thanks.$b$bThis has been a brutal operation, but we haven't had any great options otherwise - they're being equally as unforgiving to our aerial assault. We need to route these vrykul if we're going to stand any chance of pressing on in Icecrown.$b$bWe're likely to need more help later. Please lend yourself to the battle again should the chance present itself."
+ },
+ {
+  "id": 13302,
+  "t": "Slaves to Saronite",
+  "o": "Brother Keltan aboard Orgrim's Hammer wants you to rescue 10 Saronite Mine Slaves.",
+  "d": "Our people are being captured and put to work as slaves in the saronite mines of Ymirheim, the vrykul stronghold in the middle of Icecrown. The Lich King has them mining that unholy ore day and night.$B$BI made a promise to Highlord Fordring that we would get those wretches out of there alive, and that's exactly what we will do.$B$BUnfortunately, I've been ordered to stay on this gunship and serve as an ambassador to the Warsong Offensive. Will you please rescue them in my stead, $N?",
+  "p": "I haven't received many reports of our men returning to the Argent Vanguard.$B$BAre you sure you've been to Ymirheim to free them?",
+  "c": "Their being driven insane? Voices in their heads?$b$bVoices in your head?!$b$bI want you to clear your mind of the taint that has crept into that place, boy.$b$bWe'll try to get the remainder of them out of there again tomorrow when you've had a chance to rest."
+ },
+ {
+  "id": 13304,
+  "t": "Field Repairs",
+  "o": "Koltira Deathweaver aboard Orgrim's Hammer wants you to collect 5 Demolisher Parts from the Scavenging Geists in the Valley of Lost Hope and take them to the Wrecked Demolisher.",
+  "d": "The Scourge is still reeling from our attack, $N.  Now is the time to capitalize on our momentum.$B$BThe strategically important valley below us is wide open.  We've located a disassembled demolisher vehicle in what we believe is working condition in the southeastern corner of the Valley of Lost Hope area.$B$BIf you can get the remaining parts from the Scourge scavengers, you should be able to get it running again.  A single working demolisher can wreak havoc on the enemy's ground units.",
+  "p": "The demolisher has suffered much damage.",
+  "c": "The Demolisher has seen better days, but the structure hasn't suffered any permanent damage. The parts you obtained should be enough to get it running again, at least temporarily."
+ },
+ {
+  "id": 13305,
+  "t": "Do Your Worst",
+  "o": "Use the Refurbished Demolisher to destroy 150 Decomposed Ghouls, 20 Frostskull Mages and 2 Bone Giants in the Valley of Lost Hope.  Speak to Matthias Lehner at the First Legion Forward Camp when you've completed this task.",
+  "d": "You're going to use this machine against the Scourge?  You're not going to win against them like that.$B$BYou can destroy hundreds... even thousands of them.  But you won't win.  Not out here.$B$BWhen you're done playing with your machine, meet me to the north.  There is an old army encampment.  What I will show you will teach you a little bit about who you're up against.",
+  "p": "Are you done playing with your war machines?",
+  "c": "You see? You killed your fair share, but for every one you destroyed, another rose from the dirt to take its place$b$bYou don't know what you're up against, $N. Let me show you."
+ },
+ {
+  "id": 13306,
+  "t": "Raise the Barricades",
+  "o": "Koltira Deathweaver, aboard Orgrim's Hammer, wants you to construct 8 Barricades using your Barricade Construction Kit.",
+  "d": "When our forces begin to move beyond Aldur'thar, they will be vulnerable to attack from the Ironwall Rampart and the broad glacier below.$B$BWe have neither the time nor the materials to build fortifications, but we can put up some barricades to shield our men from fire and break up Scourge charges.$B$BTake this barricade kit to the Valley of Fallen Heroes, on the west side of Aldur'thar. Locate the markers I've placed there and use this kit to construct your barricades there.",
+  "p": "Have you constructed those barricades?",
+  "c": "<Koltira nods curtly.>$b$bGood. It's not much protection, but it's better than nothing. That gate is still the perfect choke point if the Scourge commanders know what they're doing. We must gain control of as much of the surrounding area as possible."
+ },
+ {
+  "id": 13307,
+  "t": "Bloodspattered Banners",
+  "o": "Koltira Deathweaver, aboard Orgrim's Hammer, wants you to kill 5 Scourge Banner-Bearers, 5 Scourge Converters, and 20 Converted Heroes.",
+  "d": "In the Valley of Fallen Heroes and Icecrown Glacier, to the west of Aldur'thar, the Scourge seeks to use the fallen against us. Scourge lieutenants have woken the valley's dead and imbued them with fearsome strength and fervor. The banners carried by the Scourge leaders in the glacier area are the source of these powers. Kill the banner-bearers, and you will weaken the converted heroes they lead.$B$BIt falls to you to rid us of this obstacle, and thin the resistance before the main body can advance.",
+  "p": "Have you killed the banner-bearers and stopped their attempt to use the fallen against us?",
+  "c": "You have removed the Scourge banner-bearers and their minions? Good. Our preparations must continue."
+ },
+ {
+  "id": 13308,
+  "t": "Mind Tricks",
+  "o": "Darkspeaker R'khem in the Saronite Mines wants you to recover the Foreman's Key to his chains.",
+  "d": "<The creature speaks directly into your mind, its thoughts painful and strange.>$B$B$R-thing, I am in need of your assistance. Like your enslaved friends, I am a victim of the Lich King's ymirjar and their avarice. When I rose from below to investigate the noises coming from this cavern they captured and chained me.$B$BWill you please help me? The foreman of these mines holds the key to my chains. Kill him!$B$B<You can feel a pushing against your mind as if the creature is trying to coerce you.>",
+  "p": "You will be richly rewarded for your service to me.$B$B<The darkspeaker projects soothing feelings into your mind.>$B$BYou will not regret unfettering me.",
+  "c": "<Another wave of euphoria, mixed with some pain, crashes through your mind as you approach the creature.>$B$BGood... good! So that you know I am being fair, I will first give you your reward as promised.$B$BAnd then you will willingly hand me the key."
+ },
+ {
+  "id": 13309,
+  "t": "Assault by Air",
+  "o": "Ground Commander Koup at the edge of the glacier east of Ymirheim has ordered you to use the Skybreaker Suppression Turret to keep the Skybreaker Troop Transport alive long enough to make all of its drops.$B",
+  "d": "I've got some boys suited and ready for their drops inside of Ymirheim. I could use you to see them there safely.$B$BInside the walls, the vrykul have set up some kind of automated spear guns that have been tearing up our transports. We had our engineers install a Suppression Turret to shut down those spear guns - just fire a round near any gun and the smoke should block its sight and clog its gears.$B$BHop on the turret and see to it that all my boys make it to their drops in one piece.",
+  "p": "Did you get my boys inside?",
+  "c": "Excellent work, soldier. We could use more able bodies like you around here - stop by another day if the operation hasn't wrapped up."
+ },
+ {
+  "id": 13310,
+  "t": "Assault by Air",
+  "o": "Ground Commander Xutjja at the edge of the glacier north of Ymirheim has ordered you to use the Kor'kron Suppression Turret to keep the Kor'kron Troop Transport alive long enough to make all of its drops.",
+  "d": "Alright scrub, I've got something to keep you from being a complete waste.$B$BA unit of highly trained infiltrators is ready to be dropped inside of Ymirheim. The vrykul inside have automated spear guns that have been ripping our transports to shreds, so we had the engineers on Orgrim's Hammer whip us up a suppression turret.$B$BYou're the gunner. Launch rounds at their spear guns to obscure their vision and clog their gears. See to it that my men all make their drops and the transport stays in one piece.",
+  "p": "Get the job done?",
+  "c": "Only partly useless then. Good work."
+ },
+ {
+  "id": 13311,
+  "t": "Demons Deck",
+  "o": "Use the Demons Deck to summon a Darkmoon Fortune Teller and give the deck to them.",
+  "d": "Now that you have gathered all of the Demon cards together into a deck, another card appears on top.  It depicts a fortune teller that seems to stare at you no matter how you hold the card.$b$bYou feel the card could be used to communicate with someone or something.",
+  "p": "I see that you have managed to complete a deck of Demons!  Congratulations!",
+  "c": "You are quickly becoming a master of the quill. The tarot cards are of great interest to the Darkmoon Faire, so do not hesitate to call upon us if you manage to create more. We are not without our own skilled tradesmen, so please allow us to offer something in trade for the cards."
+ },
+ {
+  "id": 13312,
+  "t": "The Ironwall Rampart",
+  "o": "Defeat Grimkor the Wicked and return to Koltira Deathweaver aboard Orgrim's Hammer.",
+  "d": "The Ironwall Rampart overlooks the Valley of Fallen Heroes, west of Aldur'thar. The rampart dominates the fields below on all sides. We will not be able to advance if the rampart cannot be taken, but it is held by Grimkor the Wicked and his Cult of the Damned disciples.$B$BIf you can weaken Grimkor, our forces know what to expect as we advance. Take this rune of distortion. Unleashing its power near Grimkor's orb at the end of the rampart should be enough to get the necromancer's attention.",
+  "p": "Have you completed your mission?",
+  "c": "So Grimkor has fallen by your hand? Excellent work. With him out of the way, our chances of taking and holding the rampart during the assault are greatly improved."
+ },
+ {
+  "id": 13313,
+  "t": "Blinding the Eyes in the Sky",
+  "o": "Use the SGM-3 to destroy 6 Skybreaker Recon Fighters, then report back to Sky-Reaver Korm Blackscar aboard Orgrim's Hammer.",
+  "d": "The Alliance has somehow managed to field a squadron of recon vehicles over the Valley of Fallen Heroes and Icecrown Glacier, the broad areas west of Aldur'thar.$B$BThey cannot be permitted to take the lead in this fight. Chief Engineer Copperclaw has supplied me with the perfect weapon to deal with this threat -- he calls his new missile the SGM-3. I have his assurances that it will take out the Alliance flying machines in a single hit. Go and use this weapon to give us the upper hand.",
+  "p": "",
+  "c": "Good. Fewer Alliance pests to stand in our way. We'll show them what true warriors look like."
+ },
+ {
+  "id": 13314,
+  "t": "Get the Message",
+  "o": "Capture 6 Orgrim's Hammer Dispatches from Orgrim's Hammer Scouts and bring them to High Captain Justin Bartlett aboard the Skybreaker.",
+  "d": "The Horde is up to something and I don't like it. After the stunt they pulled on the Broken Front, they're capable of anything, and it's up to us to stop it.$B$BThere's been a flurry of activity in the skies over the Icecrown Glacier, to the west of Aldur'thar and the Ironwall Rampart. Horde scouts and messengers streak in and out on dragonhawks, carrying reports and orders. Take this dart gun and use it to kill the Orgrim's Hammer Scouts. It'll probably work best if you're flying, too.",
+  "p": "Have you intercepted those dispatches?",
+  "c": "It's good to have someone competent running missions, $N. If only we had an army of $cs like you, we could show the Horde what we're made of. These captured reports will help us to maintain the upper hand in this fight. We may be down, but we're far from out."
+ },
+ {
+  "id": 13315,
+  "t": "Sneak Preview",
+  "o": "Thassarian, aboard the Skybreaker, wants you to fly down to the gate of desolation, visiting the south, central, north, and northwest regions of the gate. ",
+  "d": "Progress is being made. We have a promising array of tactics that should gain us control of the death gate. There will doubtlessly be many casualties, but in the end,  we should be able to prevail - barring any interference from those Horde you insist on contending with...$b$bAt any rate, our next focus will be the gate of desolation. Fly down and become familiar with it and with the enemies posted there.$b$bWhen you return, I will have your missions prepared.",
+  "p": "Have you scouted the gate of desolation, $c?",
+  "c": "Well and good, $c.$b$bNow that you've seen firsthand what we're up against, it's time to get to work..."
+ },
+ {
+  "id": 13316,
+  "t": "The Guardians of Corp'rethar",
+  "o": "Koltira Deathweaver, aboard Orgrim's Hammer, wants you to kill 5 Harbingers of Horror and 5 Corp'rethar Guardians.",
+  "d": "Corp'rethar, called the Horror Gate. It is the last barrier between us and the Icecrown Citadel. It waits to the south of the Ironwall Rampart, beyond the glacier and the Conflagration. By the time our troops reach it, they will be exhausted and worse.$B$BWe must weaken its defenses, or our army's strength will break upon its walls.$B$BIts battlements are manned by some of the Lich King's fiercest and most zealous servants. Do all you can to destroy these guardians and hope it is enough.",
+  "p": "Have you crippled Corp'rethar's defenders?",
+  "c": "I hope your success at Corp'rethar will prove an omen of the battle ahead. The Lich King cannot sit idly by as we march to the very gates of his stronghold."
+ },
+ {
+  "id": 13318,
+  "t": "Drag and Drop",
+  "o": "Thassarian, aboard the Skybreaker, wants you to collect Orbs of Illusion from Bitter Initiates at Aldur'thar and use them on 3 Dark Subjugators there.",
+  "d": "The Cult of the Damned hold the gate of desolation, eh? No surprise there.$b$bTime to have a little fun. At the southern end of the gate, you mentioned there were new cultists being trained. They're almost certain to be holding a special item given to all initiates - an Orb of Illusion.$b$bThese artifacts are used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy.$b$bKill the fools until you find one, $c, then use it on a subjugator.",
+  "p": "Yes, $r?",
+  "c": "An effective tool, given the circumstances, wouldn't you say?$b$bThat one never gets old...."
+ },
+ {
+  "id": 13319,
+  "t": "Chain of Command",
+  "o": "Thassarian aboard the Skybreaker wants you to go to Aldur'thar and defeat Overseer Faedris, Overseer Savryn, Overseer Veraj, and Overseer Jhaeqon.",
+  "d": "Based on your report, and my knowledge of the Cult, they have an overseer managing the operation of each encampment on the gate.$b$bWhile taking their leaders down will only be a temporary setback, it will at least slow them down and keep them off-balance. And that, $r, is a worthy enough goal for now.$b$bSeek out these overseers and return to me when they have been dispatched.",
+  "p": "Yes, $c?",
+  "c": "Well done, $r. But don't break your arm patting yourself on the back. They'll have those overseers replaced in no time..."
+ },
+ {
+  "id": 13320,
+  "t": "Cannot Reproduce",
+  "o": "Thassarian aboard the Skybreaker wants you to use the Partitioned Flask at each of the 3 Cultists' Cauldrons at Aldur'thar, then bring it to Chief Engineer Boltwrench.",
+  "d": "I smell their cauldrons from here, but that's not plague they're cooking.$b$bPledges to the cult are forced to drink a concoction that steals their will and enslaves them forever to the Lich King.$b$bSome say the potion contains the twisted soul of a being who was tormented before being mercilessly slaughtered, but I've never been able to reproduce it...$b$bFill this flask with a sample from each of the three cauldrons in the northwest region of the gate and bring it to Chief Engineer Boltwrench.",
+  "p": "Whatdya got there, $r?",
+  "c": "<Boltwrench pours the contents of the flask into his tetrahydroparticle analyzer.>$b$bWhat we have here is a simple failure to conglomerate..."
+ },
+ {
+  "id": 13321,
+  "t": "Retest Now",
+  "o": "Chief Engineer Boltwrench aboard the Skybreaker wants you to throw a Writhing Mass into a cauldron at Aldur'thar.",
+  "d": "This should do the trick!$b$bThose twisted hooligans are looking for souls to put in their crazy-juice? Then I say we help 'em out a bit!$b$bTake a swig of this - don't worry, I've diluted it plenty... I'm almost positive that its only effect will be to detect any cultist's essence once you've defeated them.$b$bWhen you've collected a bunch of them, throw the writhing mass of twisted souls into any of their cauldrons.$b$bLet's see how they like a taste of their own medicine!",
+  "p": "Well, $c?$B$BWe have a few less cultists to worry about?",
+  "c": "Wahoo!$b$bThat'll teach 'em!"
+ },
+ {
+  "id": 13322,
+  "t": "Retest Now",
+  "o": "Chief Engineer Boltwrench aboard the Skybreaker wants you to drink the Diluted Cult Tonic, kill any Cultists at Aldur'thar and take their Tainted Essences. You are then to combine 10 of the essences into a Writhing Mass and throw it into any of their cauldrons.",
+  "d": "Those twisted cultists are looking for souls to put in their crazy-juice? Then let's help 'em out a bit!$b$bTake a swig of this - don't worry, I've diluted it plenty... I'm almost positive that its only effect will be to detect any cultist's essence.$b$bOnce you've collected a bunch of 'em, throw the writhing mass of twisted souls in one of their cauldrons.$b$bLet's see how they like a taste of their own medicine!",
+  "p": "Well, $c?$B$BWe have a few less cultists to worry about?",
+  "c": "Wahoo!$b$bThat'll teach 'em!"
+ },
+ {
+  "id": 13323,
+  "t": "Drag and Drop",
+  "o": "Thassarian, aboard the Skybreaker, wants you to collect Orbs of Illusion from Bitter Initiates at Aldur'thar and use them on 3 Dark Subjugators there.",
+  "d": "Looks like those initiates are increasing in number again. You know what to do...$b$bAt the southern portion of the gate, the new cultists are being trained. They're certain to be holding a special item given to all initiates - an Orb of Illusion.$b$bThese artifacts are used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy.$b$bSlay the fools until you find some, then use them on the subjugators there.",
+  "p": "Yes, $r?",
+  "c": "An effective tool, given the circumstances, wouldn't you say?$b$bThat one never gets old...."
+ },
+ {
+  "id": 13324,
+  "t": "Darkmoon Prisms Deck",
+  "o": "Return the Prisms Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Prism cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Prisms!  Congratulations!",
+  "c": "So you have put together a deck of Prisms.  Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.  Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 13325,
+  "t": "Darkmoon Chaos Deck",
+  "o": "Return the Chaos Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Chaos cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Chaos!  Congratulations!",
+  "c": "So you have put together a deck of Chaos.   Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.   Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 13326,
+  "t": "Darkmoon Nobles Deck",
+  "o": "Return the Nobles Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Nobles cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Nobles!  Congratulations!",
+  "c": "So you have put together a deck of Nobles.  Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.  Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 13327,
+  "t": "Darkmoon Undeath Deck",
+  "o": "Return the Undeath Deck to the Darkmoon Faire when it comes to town.",
+  "d": "Now that you have gathered all of the Undeath cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",
+  "p": "I see that you have managed to complete a deck of Undeath!  Congratulations!",
+  "c": "So you have put together a deck of Undeath.   Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.   Allow me to present you with one of the greater Darkmoon cards as a small token of our appreciation."
+ },
+ {
+  "id": 13328,
+  "t": "Shatter the Shards",
+  "o": "Bring the Broken Shard of Horror, the Broken Shard of Despair, and the Broken Shard of Suffering to Koltira Deathweaver aboard Orgrim's Hammer.",
+  "d": "Atop the battlements of Corp'rethar, the Lich King's minions have erected three crystals, the shards of horror, despair, and suffering. Should our men reach the walls of Corp'rethar, he will unleash these weapons on our army.$B$BIn full effect, the crystals will afflict the minds of our men with paralyzing pain and fear. Then, the Scourge will be able to slaughter them at will.$B$BFind these shards, destroy them, and bring me their broken remains. We cannot allow the Lich King to deploy these weapons!",
+  "p": "Have you shattered the Lich King's new weapons?",
+  "c": "<Koltira takes the crystal shards from you and speaks in a quiet voice.>$b$bI remember these...$b$bLesser men would easily crumble beneath their assault. You have done well in removing their threat."
+ },
+ {
+  "id": 13329,
+  "t": "Before the Gate of Horror",
+  "o": "Koltira Deathweaver, aboard Orgrim's Hammer, wants you to use the Volatile Acid to dissolve the remains of 6 Skeletal Reavers.",
+  "d": "The Conflagration, the ground before Corp'rethar, south of the Ironwall Rampart, is where the Lich King's elite soldiers have formed up to defend the citadel.$B$BLed by a contingent of death knights, a legion of skeletal reavers bars the way. I fear that even when these reavers fall, the Scourge will simply reconstitute them and send them back at us.$B$BI've come up with a plan to stop this, but I have no way of knowing if it will work. Take this solution and use it to dissolve the remains of the reavers.",
+  "p": "",
+  "c": "<Koltira listens to your report.>$b$bGood. I'll have the engineers mix up as much of that acid as they can before we prepare to assault Corp'rethar with the main force."
+ },
+ {
+  "id": 13330,
+  "t": "Blood of the Chosen",
+  "o": "Warbringer Davos Rioht on Orgrim's Hammer has sent you to kill 20 vrykul in Ymirheim.",
+  "d": "Those vrykul that have gained the favor of the Lich King call themselves the Ymirjar. They inhabit a city in the center of Icecrown. We have a lot of preparations to make before we assault Icecrown Citadel, and the one that stands before us now is routing these so-called \"Chosen\" of the Lich King.$B$BGo to their city, Ymirheim, and slaughter them in their home. Let there be no questions as to who the stronger combatants are here.",
+  "p": "Have you done what I've asked of you?",
+  "c": "Not so strong after all, it seems. The Lich King will get what's coming to him."
+ },
+ {
+  "id": 13331,
+  "t": "Keeping the Alliance Blind",
+  "o": "Use the SGM-3 to destroy 6 Skybreaker Recon Fighters, then report back to Sky-Reaver Korm Blackscar aboard Orgrim's Hammer.",
+  "d": "The Alliance is tenacious, I'll give them that, but it'll take more than that to stop us. Take this SGM-3 with you and shoot down the Skybreaker's recon fighters once again.$B$BI doubt the message will get through their thick skulls, but there are enough missiles to keep trying to get our point across. Go and find their fighters flying above the Valley of Fallen Heroes, west of Aldur'thar, and don't come back until you've made wreckage of them.",
+  "p": "",
+  "c": "Well done, once again. Horde superiority is assured, at least until those Alliance pukes decide to challenge us again."
+ },
+ {
+  "id": 13332,
+  "t": "Raise the Barricades",
+  "o": "Thassarian, aboard the Skybreaker, wants you to construct 8 Barricades using your Barricade Construction Kit.",
+  "d": "When our forces begin to move beyond Aldur'thar, they will be vulnerable to attack from the Ironwall Rampart and the broad glacier below.$B$BWe have neither the time nor the materials to build fortifications, but we can put up some barricades to shield our men from fire and break up Scourge charges.$B$BTake this barricade kit to the Valley of Fallen Heroes, on the west side of Aldur'thar. Locate the markers I've placed there and use this kit to construct your barricades there.",
+  "p": "Have you constructed those barricades?",
+  "c": "<Thassarian nods.>$B$BGood. It's not much protection, but it's better than nothing. That gate is still the perfect choke point if the Scourge commanders know what they're doing. We must gain control of as much of the surrounding area as possible."
+ }
+]

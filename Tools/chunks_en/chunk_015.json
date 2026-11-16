@@ -1,0 +1,962 @@
+[
+ {
+  "id": 3022,
+  "t": "Handle With Care",
+  "o": "Bring the Carefully-packed Crate to Erelas Ambersky in Rut'theran Village.",
+  "d": "$N, I can see you yearn to be dedicated to my worthwhile cause. Yes, of course, you can do something for me!$B$BTake this crate of eggs to Erelas Ambersky. He is a druid that cares for these eggs, helping them to hatch and then training the young hippogryphs. You will find him in Teldrassil, in a small village to the south called Rut'theran.",
+  "p": "Another shipment from Curgle, I assume?",
+  "c": "Thank you for your help, $N. The hippogryph population simply wouldn't flourish if it weren't for us. Ah, but I am sure you understand all too well, having traveled to Feralas yourself, and seen the devastation of the Gordunni there.$B$BWell, as you can see, I am hard at work here, so you'd best be on your way.$B$BThanks again, $N."
+ },
+ {
+  "id": 3062,
+  "t": "Dark Heart",
+  "o": "Talo Thornhoof in Camp Mojache wants Edana Hatetalon's Dark Heart.",
+  "d": "Edana Hatetalon is the queen of the Northspring harpies that reside in the ruins to the west. She is pure evil; I have heard that her heart is one of crystal. She is void of any emotion aside from the hate she feels towards all others. You must face Edana and bring me back her dark heart.$B$BI have heard of a horn that harpies carry -- blowing it by the Hatetalon stones, in the northern part of the ruins, will summon the queen.$B$BImagine her surprise when it is not her kin calling her, but her death.",
+  "p": "The hate that Edana spreads across the land must be stopped.",
+  "c": "Now I know that Edana is truly dead. This heart; I will keep it in memory of what did here for me, $N. Thank you."
+ },
+ {
+  "id": 3063,
+  "t": "Vengeance on the Northspring",
+  "o": "Talo Thornhoof wants you to kill 4 Northspring Harpies, 4 Northspring Roguefeathers, 4 Northspring Windcallers, and 4 Northspring Slayers.",
+  "d": "In my day, I was a seasoned hunter. There wasn't any creature around that I feared. Until...$B$BI was out in the forest, sharpening my blade after a tough battle, when I was ambushed. Harpies surrounded me, and I barely managed to drag myself to safety.$B$BEven now, I can still hear their cries echoing...$B$BI was never the same after that. But the hate boils inside of me -- I must get even, after all these years.$B$BThe Northspring harpies can be found to the west of here. $N, get my revenge. ",
+  "p": "The wings of the Northspring harpies are black as the night; do not take your eyes off of them, lest they disappear into darkness.",
+  "c": "Thank you, $N. You have put an old tauren's mind at peace."
+ },
+ {
+  "id": 3064,
+  "t": "<NYI> <TXT> Pirate Hats",
+  "o": "Bring 20 Untorn Pirate Hats to Yorba Screwspigot.",
+  "d": "I need pirate hats for my shop.  Get me lots!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3065,
+  "t": "Simple Tablet",
+  "o": "Read the Simple Tablet and speak to Frang in the Valley of Trials.",
+  "d": "Ah, while you were gone a parchment came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the warrior trainer Frang. He would have words with you when you're ready. You'll find him outside the Den, taking cover in the shade.",
+  "p": "Another $R to bolster the ranks. Good enough for me.$b$bYou'll probably have a hard time hefting a good weapon like an axe, but a spear's just as good as anything else.$b$bWelcome to the Valley of Trials.",
+  "c": "You'll find this place fitting as you continue to train in the $c ways. If you have any questions, feel free to ask anyone around, and when you feel you're ready, come back to me for training. I've mastered as much as any $c here in the Valley and can pass that knowledge on to you... for a price."
+ },
+ {
+  "id": 3082,
+  "t": "Etched Tablet",
+  "o": "Speak to Jen'shan in the Valley of Trials.",
+  "d": "Ah, while you were gone a tablet came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the hunter trainer Jen'shan. She would have words with you when you're ready.",
+  "p": "Jen'shan see a mighty $C before her and da spirits approve.$b$bDa path of da $C is one of our oldest walks of life. Da Horde turned to us when they be just strugglin' to survive on Azeroth, and they ask us to teach them, to show them the secrets of many tings. They were strong already: strong in shaman ways; strong in warrior ways. But the $C path not be their path... then.",
+  "c": "Now we teach them those things, and they teach us others. We become one race... almost. We be allies for long time now. So you remember to help them. And Jen'shan remember to help you.$b$bJen'shan teach you da ways of the $c--teach you good. You never forget, $c's be respected greatly by da tribe. You be havin' a large role to play in da future... you never forget that.$b$bWhen you feel da need, come to Jen'shan. She teach you as much as she can when she feel you ready."
+ },
+ {
+  "id": 3083,
+  "t": "Encrypted Tablet",
+  "o": "Read the Encrypted Tablet and speak to Rwag in the Valley of Trials.",
+  "d": "Ah, while you were gone a tablet came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the rogue trainer Rwag. He would have words with you when you're ready.",
+  "p": "Welcome to the Valley of Trials, $n. You wouldn't be here if you hadn't gotten my tablet, so I will get to the point.$B$BI am Rwag and I am responsible for training the rogues, thieves, and cutpurses here in the Valley. I'm the one the Hand will turn to if you're not ready for what's to come. But don't worry, the Hand won't be controlling everything you do, but it would be wise to work with them if they have need of your talents.",
+  "c": "Until such time comes, you'll be under my tutelage. I will show you the ropes as some folks say. Whenever you feel prepared, come to me and I will see about training you further. Until then, practice your skills and keep them honed to a razor's edge. You'll never know when you'll need even the most insignificant ability."
+ },
+ {
+  "id": 3085,
+  "t": "Hallowed Tablet",
+  "o": "Read the Hallowed Tablet and speak to Ken'jai outside the Den in the Valley of Trials.",
+  "d": "Ah, while you were gone a tablet came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the priest trainer Ken'jai. He would have words with you when you're ready.",
+  "p": "So ya made it... good good! Da spirits tol' me you be comin' to see Ken'jai soon enough. Let me be one o' da first to welcome ya to da Valley of Trials. Dis place not be your home fer long, but while it is, why dontcha make da best o' it.",
+  "c": "As ya test yeself, ya'll find ya have better an' better control o'er da spirits--ya'll be callin' on dem fer greata an' greata tings... dat's where ol' Ken'jai come in. You come talk to ole Ken'jai when ya feel yer ready. If da spirits agree, den we see 'bout teachin' ya more powerful abilities... but only if da spirits agree.$B$BGo now, talk to da rest of da Valley's people. Speak to me again later."
+ },
+ {
+  "id": 3086,
+  "t": "Glyphic Tablet",
+  "o": "Read the Glyphic Tablet and speak with Mai'ah near the entrance to the Den in the Valley of Trials.",
+  "d": "Ah, while you were gone a tablet came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the mage trainer Mai'ah. She would have words with you when you're ready.",
+  "p": "Ya look to please Mai'ah already, $N. Dat be good. You give Mai'ah respect, and Mai'ah maybe give you respect back. But enough o' dat, you be here to learn 'bout magic, not hear Mai'ah talk.$B$BThere be only one ting Mai'ah can no teach you 'bout magic, $N, and dat's how to stop da corruptin'.",
+  "c": "You be among da most powerful beings on da planet, $N... there no arguin' dat. And everyone know it... know it good, too!$B$BBut ya must be weary! 'cause it not orc, or elf, or dwarf dat you should be scared of... it be da tings you can'na see. Magic be powerful. Make you do tings you may not want to do. Make ya tink you more powerful then you really be. Be patient. Be smart.$B$BWhen ya tink you be ready for trainin', come back to Mai'ah. She teach you what you ready to learn, no problem."
+ },
+ {
+  "id": 3087,
+  "t": "Etched Parchment",
+  "o": "Read the Etched Parchment and speak to Jen'shan in the Valley of Trials.",
+  "d": "Ah, while you were gone a parchment came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the hunter trainer Jen'shan. She would have words with you when you're ready.",
+  "p": "Ah, so you come at last. Good. Jen'shan be waitin' for you.$B$BMany tink it be an easy path, but Jen'shan tell you dat not true. Mastering da beasts of Durotar and beyond take as much skill as masterin' the arcane arts or speakin' to our ancestors.$B$BFirin' a bow or rifle may not be as dangerous to you as castin' a spell, but it sure be as dangerous to your enemy.",
+  "c": "When we finish speakin', you should talk to da rest of da citizens in da Valley. They ask you to do tings for them... tings that will test your skill and teach you some of da dangers of this land.$B$BAs you grow in experience and wisdom, you be needin' Jen'shan to show you better techniques and skills. Come back to Jen'shan often. I will let you know what I can teach you."
+ },
+ {
+  "id": 3088,
+  "t": "Encrypted Parchment",
+  "o": "Read the Encrypted Parchment and speak to Rwag in the Valley of Trials.",
+  "d": "Ah, while you were gone a parchment came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the rogue trainer Rwag. He would have words with you when you're ready.",
+  "p": "Shhh, not so loud. I don't trust Nartok over there. Anyone that has to hide deeper in a cave than I do shouldn't be trifled with.$b$bI trust you had no problem finding your way around?",
+  "c": "Now that you know where I'm holding up, I should let you know: the Shattered Hand's asked me to look out for you. They want me to train you and keep you informed of anything they might need. Even if you're not interested in helping them yet--which you'd be a fool not to be--I'll do what I can to train you... for a small fee. Come back to me anytime you think you're ready, and we'll see what you're ready to learn."
+ },
+ {
+  "id": 3089,
+  "t": "Rune-Inscribed Parchment",
+  "o": "Read the Rune-Inscribed Parchment and speak to Shikrik in the Valley of Trials.",
+  "d": "Ah, while you were gone a parchment came for you, $N.$B$BRead it when you have time. If I'm not mistaken, it came from the shaman trainer Shikrik. She would have words with you when you're ready.",
+  "p": "So, you've arrived. I was beginning to wonder when you would show yourself. I sent the parchment some time ago--I wasn't sure if it had arrived.$B$BBut enough chatter... you're here because you have been chosen, chosen to lead the spiritual lives of our people.",
+  "c": "You will be the conduit in which our ancestors communicate. You will have the power of the elements at your beck and call. Sundering your enemies will be child's play; healing your allies as easy as breathing. Keep these things in mind as you face new challenges, and come back to me as often as you'd like. I will remain here to teach you new spells and set you on the correct path when you are ready."
+ },
+ {
+  "id": 3090,
+  "t": "Tainted Parchment",
+  "o": "Read the Tainted Parchment and speak to Nartok inside the Den in the Valley of Trials.",
+  "d": "Ah, while you were gone a parchment came for you, $N.$B$BI usually avoid dealing with warlocks if I can help it, but I think you should read it when you have time. If I'm not mistaken, it came from your newly-appointed trainer Nartok. He would have words with you when you're ready.",
+  "p": "Finally, you've arrived... and discretely also. Good.$b$bOur world is full of fools, Asatokta. Even the mighty Thrall has greater flaws than most can see. He turns his back on the power needed to make this land ours completely! We're not the same people who were manipulated and used by creatures from the Nether. We are our own people. We are proud... and we are strong.",
+  "c": "And now you've joined our ranks also. Don't misunderstand, $n. Just because you have access to power that many will be jealous of, it does not mean you will be accepted easily. Thrall allows our kind into Orgrimmar because we are still his fellow kin--he cannot turn his back on us, or we would become as pathetic as the humans who enslaved him. My point is: be careful. You can be powerful, but if you are foolish, then you are as good dead.$B$BIf you need training in spells then return to me."
+ },
+ {
+  "id": 3091,
+  "t": "Simple Note",
+  "o": "Read the Simple Note and speak to Harutt Thunderhorn in Camp Narache.",
+  "d": "Just a moment ago a messenger was looking for you, $N. I believe she was sent by the warrior trainer Harutt. If this note is from Harutt, I wouldn't take long in reading it's contents.$B",
+  "p": "Ah, at last, you've arrived, $C. I did not lie in my note, $N. We are a special breed also, not unlike the druids or shamans of our tribe. You are just as important. We are the ones called upon to defend our borders, to hunt the centaur, and to go to war.",
+  "c": "Each of us plays a role in our tribe. Each of us must also go through all the same rites. Do not ever let your pride tell you otherwise.$b$bI remain here to train new warriors that seek the glory of battle and who follow the ways of our oldest ancestors. When you feel ready, come back to me and I will do what I can to train you further. Go with the tribe's blessing, $N."
+ },
+ {
+  "id": 3092,
+  "t": "Etched Note",
+  "o": "Read the Etched Note and speak to Lanka Farshot in Red Cloud Mesa.",
+  "d": "Just a moment ago a messenger was looking for you, $N. I believe she was sent by the hunter trainer Lanka. If this note is from Lanka, I wouldn't take long in reading it's contents.$B",
+  "p": "Welcome to Camp Narache, $n. I hear good things about you. Your bloodline is strong, and many of the elders consider you skilled already. But that we will test.$b$bThe plains of Mulgore will be your home for sometime--you should do your best to learn it very well. One day you will travel to unfamilar lands to master greater skills. You must be ready.",
+  "c": "And it is my job to make sure you are prepared by teaching you the basics of our profession--how to tame your pet, how to fire your rifle, and many other skills that will become necessary.$b$bHunters are a strong part of our tradition and history, $N. You would do well to remember how important you are to the tribe. You will be respected and revered if you serve our people well."
+ },
+ {
+  "id": 3093,
+  "t": "Rune-Inscribed Note",
+  "o": "Read the Rune-Inscribed Note and speak to Meela Dawnstrider in Camp Narache.",
+  "d": "Just a moment ago a messenger was looking for you, $N. I believe she was sent by the shaman trainer Meela. If this note is from Meela, I wouldn't take long in reading it's contents.$B",
+  "p": "As quickly as water falls from the sky, here you are before me. I am pleased by your haste. It means you realize both the importance of our meeting and you being here. I am no leader, but I do understand the elements, and I can speak to the spirits of our people. I will teach you to do the same.",
+  "c": "We will meet many times in the days to come. Each time you will hopefully leave my company a little more powerful... a little more prepared. Like the Eternal Flame, your spirit will burn bright and hot.$b$bGo now, $N. Go and test yourself. I will be here for you when you need."
+ },
+ {
+  "id": 3094,
+  "t": "Verdant Note",
+  "o": "Read the Verdant Note and speak to Gart Mistrunner in Camp Narache.",
+  "d": "Just a moment ago a messenger was looking for you, $N. I believe she was sent by the druid trainer Gart. If this note is from Gart, I wouldn't take long in reading its contents.$B",
+  "p": "You have arrived. This is good. Our ancestors' spirits have become restless throughout Mulgore and beyond, but I cannot tell why. It will forever be your duty to learn to listen to nature's spirits, and act as their avatar. Be mindful of that.",
+  "c": "Though we share a common bond, do not expect much welcome from the night elves. Their pride still limits their sight, but that is none of our concern. The teachings of the Earthmother are all you must concern yourself with, and I will teach you what I know as you grow in wisdom.$b$bReturn to me often, $N. You will find that the Earthmother grants incredible abilities to those who are most dedicated."
+ },
+ {
+  "id": 3095,
+  "t": "Simple Scroll",
+  "o": "Read the Simple Scroll and speak to Dannal Stern in Deathknell.",
+  "d": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the warrior trainer Dannal. I would take some time to read it before heading out again.",
+  "p": "Ah, so you've arrived. Good. I overheard that a few others were able to escape \"death\" and were heading into town. Perhaps that resilence will pay off in the future also.$B$BYou may thank Sylvanas for your freedom... freedom of mind and body. Though you still remain tortured by the plague and its effects, you are now free to come and go as you see fit.",
+  "c": "I will be here to train you as you grow in experience... find me as often as you like. I charge a minimal fee, but you'll find everything I can teach you to be worthwhile.$B$BGo now and test your skill. Many more things will become known to you as you gain experience, some of which I am unable to discuss with you here. Just know that Sylvanas will need warriors with your type of strength in the future. You will be the backbone of our salvation. Do not forget it."
+ },
+ {
+  "id": 3096,
+  "t": "Encrypted Scroll",
+  "o": "Read the Encrypted Scroll and speak to David Trias in Deathknell.",
+  "d": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the rogue trainer David Trias. I would take some time to read it before heading out again.",
+  "p": "So you've made it? Good, we'll have need of more rogues as time goes on. The Shadowstalkers will probably wind up finding you when they think the time's right, so don't go and slip up or do anything you might regret. They need talented agents... not pickpockets and fools.",
+  "c": "I spend most of my time here in the inn keeping an eye out for new faces and just keeping tabs on up-and-coming prospects. Keep your nose clean and I'll do what I can to teach you a few things. Just come back to me whenever you want, and we'll see if you're ready for a new skill or two."
+ },
+ {
+  "id": 3097,
+  "t": "Hallowed Scroll",
+  "o": "Read the Hallowed Scroll and speak to Dark Cleric Duesten in the church in Deathknell.",
+  "d": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the priest trainer Duesten. I would take some time to read it before heading out again.",
+  "p": "Ah, so between fire, plague, rioting, and much worse, one more of the \"faithful\" comes to my door. Well, let me bid you welcome, $C. And allow me a moment to explain a thing or two before you decide it's time for you to seek whatever drives you forward: the Holy Light no longer concerns you, the spirits of your forefathers are fairy tales, and creatures from the Nether don't want you.$b$bDo you understand me so far?",
+  "c": "There is only one thing you must know: we have survived through will alone. It is faith in ourselves that separates us from others, and with our powers, we will cause great change in all of Azeroth. The weak will come to lean on you. The lepers will call you Lord. And the ignorant will look to you for guidance. It is my duty to make sure you have the necessary tools so when the time comes, you are prepared. As you grow in experience, seek me out. I will teach you greater powers if you are ready."
+ },
+ {
+  "id": 3098,
+  "t": "Glyphic Scroll",
+  "o": "Read the Glyphic Scroll and speak to Isabella in the church in Deathknell.",
+  "d": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the mage trainer Isabella. I would take some time to read it before heading out again.",
+  "p": "I knew you would come to me, $N. Not because you do not have the will to follow your own path, but because we are kindred spirits. We both have felt pain. We have both suffered. And now we want the power to take back what we know is ours: this land, our lives, our destinies. But there is much for you to learn still.",
+  "c": "You must return to me often if you are to become powerful enough to destroy those who would oppose us. The rules of magic still apply to you, $N. You will still find corruption follows you like hungry wolves in the night. You will find its caress is not unlike an addiction, an old lover still wanting to be by your side. But these things can be staved off. These things will only control you if you allow them to.$b$bGo now, return to me when you've grown more powerful."
+ },
+ {
+  "id": 3099,
+  "t": "Tainted Scroll",
+  "o": "Read the Tainted Scroll and speak to Maximillion in Deathknell.",
+  "d": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the warlock trainer Maximillion. I would take some time to read it before heading out again.",
+  "p": "I bid you welcome, $gbrother:sister;. I knew you would come. It was only a matter of time.$b$bWhat I said interested you, didn't it? I hit a chord... something inside you knew what I claimed was truth. Good.$b$bKnow this though: I am no traitor to Sylvanas. If anything, she would appreciate my claims considering it was her own beliefs that has put the Forsaken in the position it is now.",
+  "c": "I mentioned a slave still being a slave, no matter the master. Do you remember? We both know that it is that type of control--that type of power--that now drives us. We seek to have creatures serve us. We know we are more powerful and deserve more respect than others give us ... and so now we look to take it.$b$bI will be your ally in this struggle--the struggle for our own freedom. Freedom to seek our own allegiances. When you feel ready, return to me and I will teach you all I know."
+ },
+ {
+  "id": 3100,
+  "t": "Simple Letter",
+  "o": "Read the Simple Letter and speak to Llane Beshere in Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Llane, our local warrior trainer. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "Ah, you got my letter, $N... good.$B$BThere's been an influx of warriors in Elwynn recently - which is good for Stormwind, but bad for the kobolds and Defias in the area.",
+  "c": "Get yourself squared away, learn the layout of the land, and come back to me whenever you need training. I'll be here night or day.$B$BThe Knights of the Silver Hand have done well in making this place fairly safe, but as you meet the other citizens, I think you'll find they all have problems they could use some help with - help a $c can give them. Good luck."
+ },
+ {
+  "id": 3101,
+  "t": "Consecrated Letter",
+  "o": "Read the Consecrated Letter and speak to Brother Sammuel in Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Brother Sammuel, our local paladin trainer. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "Finally! We meet face to face, brother to brother. I welcome you to Northshire. This will be your home for a short time while you learn the ins and outs of how things are done, but know that Stormwind is not far off, and sooner or later, your path will take you there. But until then, be patient... Knight of the Silver Hand.",
+  "c": "In the meantime, you should know one or two other things. You are a symbol to many here in this land--act accordingly. The Holy Light shines within you, and it will be obvious to both your allies and your enemies.$B$BAlso, as you gain in wisdom and power, you will need to train to learn new abilities. That's where I come in. When you feel you've gained some experience here in Northshire, come back to me and I will teach you what I feel you are ready to learn. Good luck... $c!"
+ },
+ {
+  "id": 3102,
+  "t": "Encrypted Letter",
+  "o": "Read the Encrypted Letter and speak to Jorik Kerridan in the stable behind Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Jorik, one of our local trainers. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "You made it here in one piece, and it doesn't look like too many people saw you. Good enough for me. I don't like to have much attention drawn to me back here... nice and quiet. I'm sure you can understand.$b$bHave any trouble yet? I'm glad to hear not. That'll change soon enough.",
+  "c": "You're gonna find that there a number of outfits that'll covet our skills, Cailel. Adventurers, SI:7... heck, even the Defias Brotherhood wouldn't mind a spy or two inside Stormwind. But you remember this, you're your own man. Don't let nobody bully you into doing something you don't wanna do! Besides, we hold all the cards... at least, we do before the game's done. Know what I mean?$b$bAnyway, just wanted to introduce myself and let you know that I'm here if you need any training. Come by anytime."
+ },
+ {
+  "id": 3103,
+  "t": "Hallowed Letter",
+  "o": "Read the Hallowed Letter and speak to Priestess Anetta in Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Priestess Anetta, our local priest trainer. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "Ah, at last you've come. I knew you would find your way to me. The Holy Light shines upon you, and the path you've chosen. These times are harsh--the Burning Legion still has a presence upon Azeroth, the entirety of Kalimdor seeks new ways to defend itself from its own tribulations, and it is up to you to aid as many as you can.",
+  "c": "As you grow in experience, return to me and I will do what I can to impart my knowledge upon you. Until then, go with compassion in your heart, and let wisdom be your guide. Remember, the world only becomes a better place if you make it so."
+ },
+ {
+  "id": 3104,
+  "t": "Glyphic Letter",
+  "o": "Read the Glyphic Letter and speak to Khelden Bremen inside Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Khelden, our local mage trainer. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "Hello, $N. I am Khelden. Is there something I can do for you?",
+  "c": "Haha, I knew my note would not dissuade you from your path. So, you're prepared then, are you? Prepared to accept your fate? Prepared to challenge the gods and any other forces that stand before you in the pursuit of knowledge and power?$B$BI will not lie, $N, you will be feared as much as respected. But also know this, I will be here for you when you need training. Simply seek me out as you grow more powerful."
+ },
+ {
+  "id": 3105,
+  "t": "Tainted Letter",
+  "o": "Read the Tainted Letter and speak to Drusilla La Salle next to Northshire Abbey.",
+  "d": "I was asked to bring this to your attention as soon as you returned from the kobold camps, $N. It appears to be a letter sealed with the insignia of Drusilla, one of our local trainers. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "p": "Ah, so you've arrived, and not a moment too soon, $N. Some of the guards were over here a moment ago and were giving me curious looks... pathetic mundanes.",
+  "c": "As you grow in power, you will be tempted--you must always remember to control yourself. I will not lie--corruption can come to any practitioner of the arcane; especially one who deals with creatures from the Twisting Nether. Be patient, and be prudent... but do not let that repress your ambition.$B$BAs you grow more powerful, return to me and I will teach you more about our ways."
+ },
+ {
+  "id": 3106,
+  "t": "Simple Rune",
+  "o": "Read the Simple Rune and speak to Thran Khorman in Coldridge Valley.",
+  "d": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warrior trainer Thran. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Blast it's cold today, aint it? It's like the snow never goes away, $N.$b$bYou've probably noticed already, but there are gnomes now living in our city. That's because they went and got themselves blown out of their own home. Don't go spreadin' this 'round, but I can hardly blame them--I think I woulda resorted to explosives too if Ironforge were infested with Dark Irons or the like.",
+  "c": "Other things you'll probably see too, just so yer in the know: dwarves usin' magic in a fight 'stead of a rifle. Some of us takin' to worshippin' the Holy Light like some of the humans, and, last but not least, troggs. You'll learn more 'bout them later, but What you need to know now is that I'm here to help ya.$b$bI be here to teach ya how to be a real $c. Anytime ya think ya need more trainin', come back to me and I'll see what I can do."
+ },
+ {
+  "id": 3107,
+  "t": "Consecrated Rune",
+  "o": "Read the Consecrated Rune and speak to Bromos Grummner in Coldridge Valley.",
+  "d": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the paladin trainer Bromos. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "So, you've made it! And not a second too soon. There's much to be done in Coldridge Valley and beyond. I'm gonna need your help as much as you're gonna need mine!$B$BYou're a Knight of the Silver Hand now, be ready to play the part.",
+  "c": "The humans have taught us a great deal about the Holy Light and how important their order is to them... and to protecting all of Azeroth. We have a great respect for how stepped in tradition it is, and how just one figure, one sacrifice, can make the difference between pain and salvation.$B$BThe two of us are gonna be working together for a bit. Any time you think you're ready, come back to me and we'll see about getting you some training. Can't have you go out into the world unprepared, now, can we?"
+ },
+ {
+  "id": 3108,
+  "t": "Etched Rune",
+  "o": "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
+  "d": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer Thorgas. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Ya made it! Good to hear! Betcha didn't have to track me to find the place either. Haha!$B$BOur profession is pretty steeped in tradition, $N. Learning the ways of the land. Learning to track a bear through the mountains. Even just surviving on wits alone takes a great deal of courage and cunning. Think you're capable?",
+  "c": "One thing you should always remember is that you gotta respect the world you're livin' in. The beasts that choose to fight along side you; the shine of your weapon; the weight of your ammo; the bite of a bitter wind; all these things you need to know intimately.$B$BI'll do what I can to help you, but most of the work's up to you. Anytime you think you're ready, come back and talk to me. I'll train you when I can."
+ },
+ {
+  "id": 3109,
+  "t": "Encrypted Rune",
+  "o": "Read the Encrypted Rune and speak to Solm Hargrin in Coldridge Valley.",
+  "d": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the rogue trainer Solm. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "You made it! Great!$B$BWe've got an influx of activity lately, so I'm glad to count another of the Ironforge clan among our numbers. Too many of us are lookin' to the arcane, and divine for my own tastes. Nothin' against them and their beliefs, but there's nothing like a cold blade in your hand and a shadow to keep you from the light, know what I mean?",
+  "c": "Anyway, as you start peekin' around Coldridge you'll probably have need of training at some point. You just come back to me whenever you feel you need it and I'll teach you what I know--a trick here, a maneuver there. You know, the stuff that keeps you alive and makin' a little extra coin.$B$BKeep an eye out on our gnomish friends too... they kinda got the short end of the stick what with Gnomeregan being... destroyed. They'll need our help to feel welcome."
+ },
+ {
+  "id": 3110,
+  "t": "Hallowed Rune",
+  "o": "Read the Hallowed Rune and speak to Branstock Khalder in Anvilmar.",
+  "d": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the priest trainer Branstock. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Ach! Ya made it, $N! Wonderful!$B$BI was gonna say, I was about to lose faith that ye'd arrive at all... get it, lose faith? It's a joke, lass... aww, nevermind. Ya didn't come here for me bad jokes anyway.",
+  "c": "I'm the one who can train ya as you start to find your way around Coldridge Valley. When ya feel yer ready, come back to me and we'll see about maybe teaching you a new spell or two to fend off the valley from them blasted troggs.$B$BYa got the Light on yer side, along with all of Ironforge, $N... no pressure on ya to become somethin' special."
+ },
+ {
+  "id": 3111,
+  "t": "<UNUSED>",
+  "o": "Speak to Marrek Stromnur inside Anvilmar.",
+  "d": "Long ago high elves taught us the secrets of magic along with our human allies. They preached to us about rules and how magic can make ya go mad! But don't believe it. We're not like the elves; we don't have the same weaknesses. Just keep yourself on the right path and you'll find magic is as powerful a tool as it is a weapon.$B$BWhen you're ready,come find me inside Anvilmar. I'll be waiting for ya!$B$B- Marrek Stromnur,Mage Trainer",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3112,
+  "t": "Simple Memorandum",
+  "o": "Read the Simple Memorandum and speak to Thran Khorman in Coldridge Valley.",
+  "d": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warrior trainer Thran. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Ah, well, another memorandum from a $R on a mission... isn't this quaint.$B$BNo, no, I ain't teasin' ya, little one. Gotta respect your tenacity, that much is fer sure. I'd be just as peeved if Ironforge was taken by Dark Iron dwarves, so don't be thinkin' I don't feel for your plight...",
+  "c": "Well, seein' how this is your prime directive, or whatever yer callin' it these days, I gave my word I'd do whatever I can to make sure you and yours were ready to take back your home... and that's just what I'm gonna do.$B$BAny time you feel yer ready, come back to good ol' Thran and I'll be happy to share my knowledge wit ya. There's some cost to me trainin' ya, but it won't be too expensive. Good luck."
+ },
+ {
+  "id": 3113,
+  "t": "Encrypted Memorandum",
+  "o": "Read the Encrypted Memorandum and speak to Solm Hargrin in Coldridge Valley.",
+  "d": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the rogue trainer Solm. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Glad to see you got my note and came over. Sorry about pretendin' it was a memorandum from your higher-ups... no offense intended. I just knew the two of us, along with others of our kind, gotta stick together.$B$BNot many think it's the best thing in the world to have your kind and my kind holed up in the same city, but I think we can work things out just fine. What do you think?",
+  "c": "I pretty much keep to myself around here so we don't get a bad wrap for things gone missing, but if you need anything, some training or somethin', just come back anytime.$B$BYou and me got an understandin'. We know when it comes down to it you can only trust family... and that's just what we got going on here, isn't it? Regardless of Gnomeregan being... overrun, and whatever else is thrown our way, we got one another to back each other up. Right?"
+ },
+ {
+  "id": 3114,
+  "t": "Glyphic Memorandum",
+  "o": "Read the Glyphic Memorandum and speak to Marryk Nurribit inside Anvilmar above Coldridge Valley.",
+  "d": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the mage trainer Marryk. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "p": "Yeah, what's that, $R? Speak up, if you don't mind. I don't hear so good after a few ales.",
+  "c": "Oh, yeah! Arcane Arts... of course.$b$bHere's what you need to know, $N: Don't get into too much trouble. Save some coin to buy me an ale... or any spells ya might want. And stay the heck away from Gnomeregan. Other than that, have a good day! I'll be here if you need me or want to train... or whatever."
+ },
+ {
+  "id": 3115,
+  "t": "Tainted Memorandum",
+  "o": "Read the Tainted Memorandum and speak to Alamar Grimm inside Anvilmar above Coldridge Valley.",
+  "d": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warlock trainer Alamar. Take a gander at it and go find him inside Anvilmar when you've a chance.$B$BAnd watch yerself, $N, your kind ain't too trusted 'round these parts.",
+  "p": "Wonderful! You got my memorandum obviously.$b$bIgnore the fools around you, $N. The Holy Light?! The sword and shield?! These aren't paths for ones as open minded as us. Look at what \"normal\" magic did to our home. Coupled with those damned tinkerers, our race almost became extinct. And now we have to rely on the dwarves-- they'd rather spend time allying with humans than help us rebuild our own home. We're like second-class citizens. Have you seen the way they look at us?",
+  "c": "But none of that matters. What matters is that you've seen your own Holy Light! You know where power truly comes from. You realize that having our own allies is much more... prudent. Special allies. Allies that, no matter the task, will obey till their last breath.$b$bAnd that's where I come in, $N. I can train you in the beginnings of those special powers. Seek me out often and I will do what I can to teach you more spells."
+ },
+ {
+  "id": 3116,
+  "t": "Simple Sigil",
+  "o": "Read the Simple Sigil and speak to Alyissia in Shadowglen.",
+  "d": "This sigil was given to me by a messenger from our warrior trainer, Alyissia. It seems Alyissia would have words with you when you have a moment. Read it and bring it to her afterwards.",
+  "p": "You made it. I'm so glad.$b$bMuch has happened over the last few years, $N: the creation of Teldrassil, the corruption of many of the forest creatures here and abroad, discovery of lands we thought lost to us like Feralas... so much, in so little time. But those are just some of the reasons we are here, the most important being to protect our kind from further evil.",
+  "c": "Soon you will see others from different races in the boughs of our home--do not let it cause any prejudice within you. They are welcome. They will aid us when they can. Not all of them will be altruistic, but they should be granted some amount of trust.$b$bBut none of this matters now. Now we must focus on you, and how you can aid our people. I am here for that very purpose. I will train you in the ways of a $c as you become stronger. Return to me whenever you wish and I will do what I can to aid you."
+ },
+ {
+  "id": 3117,
+  "t": "Etched Sigil",
+  "o": "Read the Etched Sigil and speak to Ayanna Everstride at the top of Aldrassil in Shadowglen.",
+  "d": "This sigil was given to me by a messenger from our hunter trainer, Ayanna. It seems Ayanna would have words with you when you have a moment. Read it and bring it to her afterwards.",
+  "p": "You've arrived, and none too soon, $N. Welcome to Shadowglen.$B$BI trust my sigil found you in good spirits and health?$B$BAs I said previously, I am here to train you as a $C; to tame beasts to aid you in battle; to use a bow with unerring accuracy; to respect the lands which we call home and also the lands beyond.",
+  "c": "As you experience what Shadowglen has to teach you, come see me--I will be able to help you understand more about your role as a $c and what you are capable of.$B$BThese are dangerous times, $N, do not take for granted the skill of your pets--there are things in this world more dangerous than you can imagine. Go with Elune and return to me again."
+ },
+ {
+  "id": 3118,
+  "t": "Encrypted Sigil",
+  "o": "Read the Encrypted Sigil and speak to Frahun Shadewhisper in Shadowglen.",
+  "d": "This sigil was given to me by a messenger from our rogue trainer, Frahun. It seems Frahun would have words with you when you have a moment. Read it and bring it to him afterwards.",
+  "p": "Hello, $n. I'm glad you found me. I was thinking that perhaps you got lost on the way here.$B$BNothing really new has happened in Shadowglen since I sent you my sigil, but I'll leave all the information gathering to you. Speak to the rest of the people around Aldrassil if you'd like.",
+  "c": "Until then, know that our kind are needed more than ever in this tenuous time. Peace with the other races can fail at any moment, and there is much talk about members of the Horde looking to sow even greater seeds of distrust. Remember that.$b$bAs you gain in power and feel more prepared, come back to me here and I will see about getting you some training. It's important that you know how to handle your weapon of choice, among other things."
+ },
+ {
+  "id": 3119,
+  "t": "Hallowed Sigil",
+  "o": "Read the Hallowed Sigil and speak to Shanda in Aldrassil.",
+  "d": "This sigil was given to me by a messenger from our priest trainer, Shanda. It seems Shanda would have words with you when you have a moment. Read it and bring it to her afterwards.",
+  "p": "It pleases me to see you've arrived so quickly, $N. Welcome.$b$bAs you've probably heard, all of Teldrassil is stirring with the comings and goings of travelers. Even members of the Alliance have even been allowed access onto Teldrassil's boughs in order to meet with other Kaldorei who prepare for the adventures ahead.",
+  "c": "Do not concern yourself with the world below Teldrassil for now. There will be time for that later. Go now and speak to the others in Shadowglen--they can tell you more about what events have transpired. Help them in any way you can, and anytime you feel you need more training, come back to me and I will teach you what I can."
+ },
+ {
+  "id": 3120,
+  "t": "Verdant Sigil",
+  "o": "Read the Verdant Sigil and speak to Mardant Strongoak, in the tree Aldrassil in Shadowglen.",
+  "d": "This sigil was given to me by a messenger from our druid trainer, Mardant. It seems Mardant would have words with you when you have a moment. Read it and bring it to him afterwards.",
+  "p": "Ah, young $C. I see you're eager to continue your studies. Good.$b$bI wonder, have you spent much time in the Emerald Dream already? Perhaps you're not prepared for that yet... In time, I'm sure.$b$bBut until then, we should discuss other matters.",
+  "c": "I will be your mentor and guide for now. It is my duty to teach you how to interpret not only what the spirits communicate to us, but also the complexities and secrets of the Emerald Dream.$b$bAs you learn and grow in power, you will learn more of our sleeping trance. But until then, return to me as often as you like and I will teach you what I can in the ways of our kind."
+ },
+ {
+  "id": 3121,
+  "t": "A Strange Request",
+  "o": "Take the Shrunken Head to Xerash Fireblade at the Lariss Pavilion in Feralas.",
+  "d": "Xerash Fireblade, located at the Lariss Pavilion, north of Camp Mojache,  has what I need to get started here! He has mixed up a concoction that I need for my... well, you'll see.$B$BOff with you now -- to Xerash. Here, take this with you. It's a shrunken head that I promised Xerash in exchange for the herbs. It's the head of some poor dwarf I ventured across in the forest. I'm sure he will be pleased.",
+  "p": "Yes?",
+  "c": "I have been waiting for Uzer'i to deliver this...$b$bLet me give you the herb mixture I prepared for his... well, experiments..."
+ },
+ {
+  "id": 3122,
+  "t": "Return to Witch Doctor Uzer'i",
+  "o": "Deliver Xerash's Herb Pouch to Witch Doctor Uzer'i in Feralas.",
+  "d": "Here are the herbs, $N. Take them to Witch Doctor Uzer'i.$B$BPlease let him know that I am satisfied with the shrunken head.",
+  "p": "Have you spoken to Neeru?",
+  "c": "This is just what I need to prepare the muisek vessel, $N. Soon we will see if my latest incantations prove to be as powerful as I had hoped.$b$bPlease, a moment. I must perform the ritual and apply the herbs."
+ },
+ {
+  "id": 3123,
+  "t": "Testing the Vessel",
+  "o": "Kill 10 Ironfur Bears or Longtooth Runners, and use the Beast Muisek Vessel to shrink and capture the fallen beasts.$B$BBring 10 Beast Muiseks and the Beast Muisek Vessel to Witch Doctor Uzer'i in Feralas.",
+  "d": "This will be a test; both of the ritual I performed, and of your abilities. Take this vessel, $N. With it, you will have the power to shrink and capture a creature inside of it.$B$BTravel to the wilderness east of here and look for beasts. The vicious, ironfur bears and longtooth runners are your targets, $N. Kill them, and use the muisek vessel to shrink and capture them before their spirits can escape.",
+  "p": "Were you able to capture the wildkin?$b$bIf you succeed, we will be ready to shrink and capture the muisek of creatures of Feralas.",
+  "c": "Upon a violent death, the muisek of a creature may escape and seek revenge. Shrinking the creatures, as you did, $N, prevents the muisek from escaping. Now we may use it as we please!"
+ },
+ {
+  "id": 3124,
+  "t": "Hippogryph Muisek",
+  "o": "Kill 10 Frayfeather Hippogryphs of any type, then use the Muisek Vessel to shrink and capture them.",
+  "d": "Since you have proven that you are both trustworthy and gifted with the ability to use the muisek vessel, I now wish you to capture another creature.$B$BHippogryphs have been loyal companions to the night elves for many years; their spirits are loyal and steadfast.$B$BYour task is to kill 10 frayfeather hippogryphs, and quickly, shrink and capture them with the vessel, so that their muisek may be preserved. You will find the hippogryphs in the High Wilderness, to the south of here. ",
+  "p": "Were you able to capture the hippogryphs?",
+  "c": "After killing an animal, if we allowed the muisek to escape, it may take the form of an even greater creature. We would never be safe from its vengeance.$b$bThis is a dangerous job I have given you, $N. Again, you have completed it well."
+ },
+ {
+  "id": 3125,
+  "t": "Faerie Dragon Muisek",
+  "o": "Kill 8 Sprite Darters or Sprite Dragons. Use the Muisek Vessel to shrink and capture the fallen Faerie Dragons.",
+  "d": "$N, next I must have you capture a creature that in appearance, may look quite fragile, yet its powerful spirit is what we are truly after. The faerie dragons that I speak of have served the night elves as their allies. We must capture one so that the horde may benefit from this strength of spirit as well.$B$BHere is the muisek, $N. Kill 8 sprite darters or sprite dragons, and capture their muisek. They may be found to the west of here.",
+  "p": "Were you able to capture the muisek of the faerie dragons?",
+  "c": "Thank you, $N. Now the spiritual powers of the faerie dragon will be available to us.$b$bI hope you willing to perform another task for me."
+ },
+ {
+  "id": 3126,
+  "t": "Treant Muisek",
+  "o": "Kill 3 Wandering Forest Walkers. Use the Muisek Vessel to shrink and capture the fallen Treants.",
+  "d": "The wandering forest walkers that can be found meandering through the forest are our next target, $N. Night elves have enlisted treants as allies to fight against the horde. Their movement may be slow, but their role as protectors is undeniable.$B$BSoon we will be able to use this power for our own benefit.$B$BFind 3 wandering forest walkers; kill them, and use the muisek vessel to shrink and capture them.",
+  "p": "Were you able to capture the wandering forest walkers?",
+  "c": "Thank you, $N. Our muisek collection is almost complete."
+ },
+ {
+  "id": 3127,
+  "t": "Mountain Giant Muisek",
+  "o": "Kill 7 Land Walkers or Cliff Giants. Use the Muisek Vessel to shrink and capture the fallen Mountain Giants.",
+  "d": "The last task I will require of you is to travel to the northwest and find the final enemy.$B$BThe mountain giants left the mountains to aid the night elves when the burning legion appeared in the world. You will know them by their massive size and the way the ground begins to shake as you travel along their rocky terrain.$B$BI am eager to harness power of that size. Kill 7 mountain giants, then use the muisek vessel to capture their powerful muisek.",
+  "p": "Were you able to capture the mountain giants?",
+  "c": "Just imagine the possibilities of what we now possess, $N. Along with the materials that you have collected, I will be able to forever trap the muisek of these creatures into whatever I wish."
+ },
+ {
+  "id": 3128,
+  "t": "Natural Materials",
+  "o": "Bring 2 Splintered Logs, 6 Encrusted Minerals, 20 pieces of Resilient Sinew, and 40 Metallic Fragments to Witch Doctor Uzer'i in Camp Mojache.",
+  "d": "I will need certain materials to complete my endeavor... You may do this alongside the other tasks I will give you.$B$BI'll need a splintered log from a treant of Feralas. Encrusted minerals, these can be found on the mountain giants and faerie dragons to the west. Also, find me some resilient sinew from the owlbeasts of the Hinterlands or hippogryphs of Feralas. Finally, I'll need a large amount of metallic fragments from any of these creatures I mentioned.",
+  "p": "Were you able to collect the materials I need?",
+  "c": "Excellent! These materials, combined with the muisek, should yield just the results we've been wanting."
+ },
+ {
+  "id": 3129,
+  "t": "Weapons of Spirit",
+  "o": "Witch Doctor Uzer'i wants you to wait for a moment while he prepares the weapons.",
+  "d": "Imbuing the muisek into the weapons is a difficult process. Now that I have all of the required materials and the muisek of the creatures that you captured, I may begin. Please wait; I will return in a moment.",
+  "p": "",
+  "c": "As promised, you have your choice, $N. The muisek of the creatures has been forever sealed into the power of these weapons.$b$bYou may now wield their energy as your own. Use it well."
+ },
+ {
+  "id": 3130,
+  "t": "Against the Hatecrest",
+  "o": "Report to Latronicus Moonspear in Feathermoon Stronghold.",
+  "d": "At this point, I am going to direct you to my second, Latronicus.  He's been keeping a close eye on the naga forces to date.  I'll assess the general situation here in regards to the naga; as much as I want to commit a full force to move against them, leaving the stronghold open to direct attack from the Horde - or worse - seems less than optimal.$B$BAnyway, Latronicus awaits.  Good work thus far, $n.  Keep it up.$B$BYou're dismissed.",
+  "p": "",
+  "c": "Excellent, $N - I value a \"can do\" attitude in those who I work with.$B$BI've been tasked by General Feathermoon to address the naga in a direct manner.  My plans are two fold: one, we will weaken their forces both in number and in command, and two, we will uncover what they are up to in the ruins.  With your help, we'll counter the naga presence without sacrificing the general security of the stronghold."
+ },
+ {
+  "id": 3141,
+  "t": "Loramus",
+  "o": "Listen to Loramus Thalipedes tell his story.",
+  "d": "So you wish to battle demons? You would do well to listen to my tale. ",
+  "p": "Do not interrupt me, $r.",
+  "c": "So be it..."
+ },
+ {
+  "id": 3161,
+  "t": "Gahz'ridian",
+  "o": "Marvon Rivetseeker in Tanaris wants you to collect 30 Gahz'ridian Ornaments.",
+  "d": "$N, I'm a scientist, but also a treasure hunter at heart!$B$BLong ago, when trolls used to occupy this land, they created large amounts of ornaments modeled after Gahz'rilla, a hydra they worshipped as a deity. These ornaments are carved out of an element that I call \"Gahz'ridian,\" after the hydra god.$B$BI did find some myself, but I'd like to have some more to study -- maybe you can find some?$B$BI even invented a detector that makes finding the Gahz'ridian a snap! Just put it on, and the search begins! ",
+  "p": "Are you having any trouble?$B$BYou can find Gahz'ridian just about anywhere in Tanaris, $N, so keep looking!",
+  "c": "Perfect; these ornaments are perfect for my studies. Thanks so much for the help, $N.$B$BOh, can I get my helmet back?"
+ },
+ {
+  "id": 3181,
+  "t": "The Horn of the Beast",
+  "o": "Take Margol's Gigantic Horn to Mountaineer Pebblebitty.$B",
+  "d": "The gigantic horn has numerous scratches and cracks. An unusual metal object is lodged into the rough surface.$B$BUpon further examination, you notice that the metal is actually a broken axe head. On the metal, the following words are etched:$B$BProperty of Mountaineer Pebblebitty.$B$BWhen you try and dislodge the broken axe head, it shatters into a million pieces.$B$BWoops!",
+  "p": "No, I will not open the gate.",
+  "c": "What have you got there? A fake obviously!$B$BI've been face to face with Margol and I know for a fact that her horn is at least eight times larger than the one you've got in your hands, $N. You probably got that off of a stormsnout in the Barrens. No ma'am, you can't fool Pebblebitty!"
+ },
+ {
+  "id": 3182,
+  "t": "Proof of Deed",
+  "o": "Take Margol's Gigantic Horn to Curator Thorius in Ironforge.",
+  "d": "You expect me to believe a story like that? The real horn would have had my broken axe head still lodged into its surface.$B$BListen, take that obvious fake to Curator Thorius in Ironforge. If he can validate your claim, you will receive a proof of deed. Bring that proof back to me and I'll give you the key to the Searing Gorge.$B$BGet going! ",
+  "p": "Why hello there young lady. Would you like a tour of the museum?",
+  "c": "What's this?$B$BOh my, I don't believe it! Do you realize what you've got here, $R? This is the horn of Margol the Rager! Margol, the bane of every archaeologist that ever set foot in the Searing Gorge.$B$BMay I keep it?"
+ },
+ {
+  "id": 3201,
+  "t": "At Last!",
+  "o": "Take the Proof of Deed back to Mountaineer Pebblebitty.",
+  "d": "I can't believe Pebblebitty doubted the authenticity of the horn. Between you and me, I think she's just jealous. I know she really wanted to kill that beast herself, what with the 'incident' and all.$B$BSo you need a proof of deed? After the contribution you just made to the museum, it won't be a problem.$B$B<Curator Thorius begins to fill out a large document.>$B$BThere we go! You can take that back to Pebblebitty.",
+  "p": "I don't believe it.",
+  "c": "I don't know how someone as weak as you overcame Margol, but a deal is a deal. Here is the key.$B$BIf anything happens to you after this, it will be your own fault."
+ },
+ {
+  "id": 3221,
+  "t": "Speak with Renferrel",
+  "o": "Speak with Apothecary Renferrel at the Sepulcher.",
+  "d": "While you were out helping our deathstalkers, Apothecary Renferrel sent you a summons.  He did not give me details, but he wanted to speak with you about the wolf hearts you had given him.",
+  "p": "",
+  "c": "Ah, very good. There is a matter regarding the wolf hearts you brought to me earlier that demands our attention."
+ },
+ {
+  "id": 3241,
+  "t": "<NYI> <TXT><redux> Dreadmist Peak",
+  "o": "Bring them to Tonga Runetotem.",
+  "d": "Collect the totems from Dreadmist Peak,because it's icky there now and no place for shiny clean totems.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3261,
+  "t": "Jorn Skyseer",
+  "o": "Speak with Jorn Skyseer at Camp Taurajo.",
+  "d": "Your time with me is over, $N.  To learn more, you must go to Camp Taurajo to the south and speak with Jorn Skyseer.  He will continue your guidance.",
+  "p": "",
+  "c": "Greetings, young one.  You are here to walk the hunter's path?$B$BVery good.  Let us begin."
+ },
+ {
+  "id": 3301,
+  "t": "Mura Runetotem",
+  "o": "Speak with Mura Runetotem at the Sepulcher in Silverpine Forest.",
+  "d": "My clanmate, Mura Runetotem, traveled to Silverpine so that she might aid our undead allies.  Silverpine is an ailing forest, a dying forest, and it was Mura's hope to bring it new life.  Perhaps the strange life found here in the Barrens can help her work in Silverpine.$B$BTake a sample of the shells you gathered, and bring it to Mura in Silverpine.  She is staying at the Sepulcher.  With luck, studying the shell will give her the insight she needs to heal that dying place.",
+  "p": "I can smell the dust of the Barrens on you, $C. You have traveled far.",
+  "c": "Ah, what is this? This shell has an inner glow, as if it still pulses with life. Amazing! I must study it further.$B$BThank you, $N. With luck, this shell will hold a secret I can use to aid the poor land of Silverpine."
+ },
+ {
+  "id": 3321,
+  "t": "Did You Lose This?",
+  "o": "Wait for Trenton to finish his work.",
+  "d": "You have done much for the Order, $N. The sheer dedication it takes to get this far would have turned away any ordinary person. There is no doubt in my mind, or in the mind of Galvan, that you are one of us.$B$BWhich is why I think you deserve a little reward. It is nothing really, just a trinket. You may be familiar with its properties, as I do believe it is what brought you to us in the first place.",
+  "p": "Today we finalize our celebration of your commitment to the Order.",
+  "c": "Rise and be recognized, $N, blacksmith of the Mithril Order."
+ },
+ {
+  "id": 3341,
+  "t": "Bring the End",
+  "o": "Andrew Brownell wants you to kill Amnennar the Coldbringer and return his skull.",
+  "d": "In the Barrens lies a horrid mess of tangled vines called Razorfen Downs. While our first observations of this place revealed little threat, our recent findings are much more serious...$B$BThe quilboar of Razorfen Downs have aligned themselves with the Scourge. A Lich named Amnennar the Coldbringer rules them now, using the power of his massive consciousness to control their every move.$B$BAmnennar has a direct telepathic link to Ner'zhul; we must sever this bond, $N. An end must come to the Coldbringer.",
+  "p": "This matter is of utmost importance, $N. We must stop any attempt by the Scourge to bolster their ranks.",
+  "c": "The loyalty of a Lich is unswerving, $N. Let them know that such loyalty will only bring them destruction."
+ },
+ {
+  "id": 3361,
+  "t": "A Refugee's Quandary",
+  "o": "Bring Felix's Box, Felix's Chest and Felix's Bucket of Bolts to Felix Whindlebolt in Anvilmar.",
+  "d": "We drove the troggs out of Gnomeregan, but then it all went so horribly wrong!  Now our home is completely irradiated, and we gnomes have been scattered all over Dun Morogh.$B$BIn my haste to get away from the radiation, I lost all my personal belongings and tools.  It was the trolls that got them.  They stole my chest, my box, and my bucket of bolts!  They took them back to their camps southwest of Anvilmar.$B$BI'm no adventurer - could you find my things and bring them here to me, please?",
+  "p": "Oh goodness $N, this town is not well suited for the likes of me. There are as many nasty creatures here as there were in Gnomeregan before the accident!$b$bDo you have my belongings? If you don't, then who knows what the trolls have done with them now...",
+  "c": "Huzzah, you've found them! You're an absolute savior, my friend. Here, it's not much, but it's something for the trouble I've put you through! Thank you!"
+ },
+ {
+  "id": 3363,
+  "t": "Corrupted Songflower",
+  "o": "",
+  "d": "",
+  "p": "You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",
+  "c": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant."
+ },
+ {
+  "id": 3364,
+  "t": "Scalding Mornbrew Delivery",
+  "o": "Take a Scalding Mornbrew to Durnan Furcutter inside Anvilmar before it gets cold!",
+  "d": "Gah!  I was supposed to get this delicious scalding mornbrew to Durnan Furcutter inside Anvilmar a while ago now, but I had to deliver one to Grelin here first.  I'll never make it to Anvilmar before the brew runs cold!$B$BYou look fast.  Maybe you can make it.  This cup will only stay hot for a few more minutes, and Durnan didn't order \"chilly\" mornbrew, so get going.  Anvilmar is to the northeast, a settlement dug into the mountain.$B$BThanks, $N, and don't forget to bring me back my mug!",
+  "p": "Aye, I'm Durnan Furcutter. You have something for me?",
+  "c": "Ah good, now this will hit the spot. Allow me to take a small break while I enjoy this scalding mornbrew!"
+ },
+ {
+  "id": 3365,
+  "t": "Bring Back the Mug",
+  "o": "Return Nori's Mug to Nori Pridedrift in Coldridge Valley.",
+  "d": "Now that hit the spot!  Nothing like a piping hot - nay, SCALDING mornbrew on a cold winter's day to warm your cackles of yer soul.$B$BHere ya go $N - be a pal and take this empty mug back to Nori for me, would ya now.",
+  "p": "I trust the scalding mornbrew got to Durnan on time! Did you remember to bring me back my mug?",
+  "c": "Excellent, $N! You'd be surprised how many couriers I meet who forget to do something as simple as bring back the mug. Mugs don't grow on trees, or so they tell me!$b$bHere's a little something for the effort. Thanks again for your help."
+ },
+ {
+  "id": 3366,
+  "t": "The Glowing Shard",
+  "o": "Travel to Ratchet to find the meaning behind the Nightmare Shard.",
+  "d": "The shard is a brilliant green, and although solid, what looks like smoke swirls just below the surface. You can't help staring into the depths of the crystal; at the same time, you know there is something very disturbing about it.$B$BMaybe you should see if anyone in Ratchet can tell you more about this strange shard.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3367,
+  "t": "Suntara Stones",
+  "o": "Help Dorius get back to Ironforge.$B",
+  "d": "<Dorius groans.>$B$BI'm badly injured, $r. Feel... light headed... World spinning... Bleeding... internally.$B$BI must get back to Ironforge. Help me, $N.$B",
+  "p": "I'm not going to make it...",
+  "c": "This letter was dropped by Dorius when he was shot."
+ },
+ {
+  "id": 3368,
+  "t": "Suntara Stones",
+  "o": "Take the Singed Letter to Thorius in Ironforge. He is in the Hall of Explorers.",
+  "d": "Brother,$B$BIf you are reading this letter, I am no more. How it got to you, I do not know, but thank and reward the ones responsible.$B$BAbout the stones: They exist and the Dark Irons have them in their possession. Their leader, Lathoric the Black, is using the power of the stones to enslave my excavation team. They were taken to the cauldron. Their minds are twisted, working night and day to complete something called Obsidion.$B$BHelp them, brother. It is the final wish of a dead man.$B$B-Dorius$B",
+  "p": "<Thorius sobs.>",
+  "c": "<Thorius wipes his face dry.>$B$BIn the name of the Light, he will have his wish. This I vow."
+ },
+ {
+  "id": 3369,
+  "t": "In Nightmares",
+  "o": "Bring the Nightmare Shard to Hamuul Runetotem on Elder Rise.",
+  "d": "This shard holds great secrets; it is the pure essence of the Emerald Dream. However, what I see in this shard is not a dream; one would call this sort of a vision a nightmare.$B$BI do not wish to alarm you, $N, but I think it is best if you deliver this shard into the hands of a wise druid as soon as you can.$B$BHamuul Runetotem on Elder Rise is who you need to find. Head to Thunder Bluff. I cannot say more. ",
+  "p": "May I help you with something?",
+  "c": "Falla sent you to me? Well now, let's see that shard that you say she was so hesitant to talk about...$B$B<Hamuul peers into the shard>$B$BOh... I didn't... Well.$B$B$N, thank you for delivering this to me. It isn't wise to speak of things such as this, though, I advise you. These are matters that you should not concern yourself with.$B$BLet's just say that things in the Emerald Dream are not as we thought...$B$BPerhaps in the future, our paths may cross again.$B$B"
+ },
+ {
+  "id": 3370,
+  "t": "In Nightmares",
+  "o": "Bring the Nightmare Shard to Mathrengyl Bearwalker in Darnassus.",
+  "d": "This shard holds great secrets; it is the pure essence of the Emerald Dream. However, what I see in this shard is not a dream; one would call this sort of a vision a nightmare.$B$BI do not wish to alarm you, $N, but I think it is best if you deliver this shard into the hands of a wise druid as soon as you can... $B$BMathrengyl Bearwalker in the Cenarion Circle is who you need to find. Head to Darnassus. I cannot say more.",
+  "p": "May I help you with something?",
+  "c": "Falla sent you to me? Well now, let's see that shard that you say she was so hesitant to talk about...$B$B<Mathrengyl peers into the shard>$B$BOh... I didn't... Well.$B$B$N, thank you for delivering this to me. It isn't wise to speak of things such as this, though, I advise you. These are matters that the Cenarion druids alone must attend to.$B$BLet's just say that things in the Emerald Dream are not as we thought...$B$BPerhaps in the future, our paths may cross again."
+ },
+ {
+  "id": 3371,
+  "t": "Dwarven Justice",
+  "o": "Return to the Searing Gorge and find Dorius's archaeology unit. ",
+  "d": "There is an empty, vacuous hole, where my heart used to be, $N. The loss of Dorius is not one that I will soon recover from. I must see his final wish through - the perpetrators of this cold blooded murder must be brought to justice.$B$BReturn to the Searing Gorge and fulfill his last request: Free his men. The Dark Iron dwarves force their slaves to work in a sweltering mine called the Slag Pits. Search there for Dorius' men.",
+  "p": "",
+  "c": "Forget about me, help the others."
+ },
+ {
+  "id": 3372,
+  "t": "Release Them",
+  "o": "Find the Mysterious Artifact being guarded by the Twilight's Hammer Idolaters in the northwest quadrant of the Searing Gorge and bring it to the Altar of Suntara in the Slag Pit.$B",
+  "d": "Release them, $r. Even after their bodies give out, the power of the Suntara forces them to complete their tasks.$B$BThe altar of Suntara is the key. Go northwest; in the hills above the cave... Twilight's Hammer guard a relic. Retrieve it and place it on the altar of Suntara.$B$B<The dying archaeologist collapses.>",
+  "p": "The altar is empty.",
+  "c": "You place the mysterious artifact on the altar of Suntara."
+ },
+ {
+  "id": 3373,
+  "t": "The Essence of Eranikus",
+  "o": "Place the Essence of Eranikus in the Essence Font located in this lair in the Sunken Temple.",
+  "d": "As you touch the gem, a deep voice resonates in your mind.$B$B\"Mortal, heed this plea.  I am Eranikus of the Green Dragonflight, keeper of this accursed temple.  My charge to ensure that the trolls never again bring forth their abomination of a god has for now ended in failure.  As I imbue this gem with part of my essence, I sense my grip on the Dream twisting into chaos.  Please - place this gem into the essence font in my lair, and let our magic there purge the taint from my psyche so that I may rest.\"",
+  "p": "As you near the essence font that Eranikus told you of, his voice once again touches your mind.$B$B\"Yes mortal, this essence font will redeem what untainted element of my psyche remains imbued in this gem.  Place the gem inside the font, and let the magic of the Green Dragonflight cleanse the corruption and taint from my being.  Only then will I find true release, and only then will the Dragonflight be able to reassert their stewardship over the Atal'ai.\"",
+  "c": "You place the gem inside the essence font.$B$B\"Thank you mortal, you have - no... this, this cannot be! No!  The corruption of this accursed god even taints the sanctity of a Green Dragonflight essence font!  No please, I feel my essence ripping from me!  THE PAIN!  I feel the grip of an eternal nightmare taking hold on me...\"$B$B\"Mortal, I implore you!  Find one of the Green Dragonflight to stop this... help me... I am chained in darkness... forever in agony... please do not torture...\""
+ },
+ {
+  "id": 3374,
+  "t": "The Essence of Eranikus",
+  "o": "Bring the Oathstone of Ysera's Dragonflight and the Chained Essence of Eranikus to Itharius in the Swamp of Sorrows.  It is there that you will make your choice to aid Ysera's Dragonflight or not.",
+  "d": "You engage the Oathstone, and Itharius speaks directly to your mind through the stone.$B$B\"By accepting the charge placed in this Oathstone, you agree to aid my cause and the cause of Ysera's Dragonflight in redeeming the corrupted soul of Eranikus.  The first sacrifice, one of many you and I will no doubt make, will be to relinquish the gem to me that has chained what free-willed part of Eranikus' psyche remains.\"$B$B\"Do this $N, and we will work together to redeem a soul worthy of redemption.\"",
+  "p": "Here we are $N, at yet another crossroads. The time has come to make another choice. What choice do you make, mortal?",
+  "c": "You have made your choice, and so it begins. Your choices have been, to date, what I would consider to be the correct ones; your actions and deeds henceforth will determine whether this is to continue."
+ },
+ {
+  "id": 3375,
+  "t": "Replacement Phial",
+  "o": "Bring a Mana Potion, Coal, and Sweet Nectar to Talvash del Kissel in Ironforge to get a replacement for Talvash's Phial of Scrying.",
+  "d": "Um... you need another phial of scrying?  You're kidding, right?  What did you do with the first one?!  We have a lot of work ahead of us here, $r.  Those phials don't grow on trees!  Actually, I wish they did, because I'd go there and pick one off since I don't have another one!!$B$Bin order to make you one, I need the following: a mana potion, a piece of coal, and some sweet nectar.  Don't ask why, just bring me what I ask and I'll make you a new one.",
+  "p": "To make another phial I need a mana potion, a piece of coal, and some sweet nectar.$B$BThat, and a whole lotta patience apparently.",
+  "c": "The mighty adventurer delivers. Hooray for me. By the way, I lied - I had another phial. Ungh, take it.$B$BWell, what did you expect?! \"Oh, here, have another one! I'm just some goofball who has nothing better to do than hand out magical communication devices to adventurers!\" Rest assured though, what you have given to me will be enough make you another phial when you lose that too.$B$BPlease prove me wrong and don't lose the new one, okay?"
+ },
+ {
+  "id": 3376,
+  "t": "Break Sharptusk!",
+  "o": "Bring the head of Chief Sharptusk Thornmantle to Brave Windfeather in Red Cloud Mesa.",
+  "d": "$N - I have heard of you, newcomer.  Perhaps it is you that will help us, where others have failed.$B$BWe tauren have carved a home out of this land, but not without a cost.  The Bristleback quilboars of Brambleblade Ravine, led by Chief Sharptusk Thornmantle, have made our lives difficult with their continued war against us.  I charge you to bring me the chief's head!$B$BHe will be found in the ravine to the east in their makeshift village.",
+  "p": "Sharptusk will trouble us no more once you have brought me proof of his death.  It is his head that I seek, $N.$B$BWe tauren live for the hunt, and there is no greater hunt than against one that is cunning enough to perhaps hunt us back.  If you are successful in this task, young one, you will start to learn what I mean.",
+  "c": "Justice has been served on this day by your swift actions, $N. Let this deed serve as a warning to all who would threaten our home.$b$bYou have earned this reward to help you on your sojourn, young $c."
+ },
+ {
+  "id": 3377,
+  "t": "Prayer to Elune",
+  "o": "Hear Zamael tell his tale.",
+  "d": "Will you assist me, mortal? Hear my tale.",
+  "p": "Allow me to finish my story.",
+  "c": "I have accepted my fate here in this cage, but the prayer must be found."
+ },
+ {
+  "id": 3378,
+  "t": "Prayer to Elune",
+  "o": "Find the Prayer to Elune and take it to Astarii Starseeker in Darnassus.$B",
+  "d": "Will you assist me, mortal? Will you find the prayer to Elune?$B$BAs I stated, the prayer was etched onto a golden tablet. One of these idol worshipping scoundrels must have it on their person.$B$BIf you do recover my prayer, take it to Astarii Starseeker in Darnassus. It matters little that my faith has been rekindled after the countless malevolent actions that I have taken against this world and its inhabitants, but my prayer must be heard. Absolution is the last thing I expect.",
+  "p": "What brings you to the Temple of the Moon, $N?",
+  "c": "Elune smiles upon you this eve, $N. You have returned a lost soul to her. Please accept this as a token of our gratitude."
+ },
+ {
+  "id": 3379,
+  "t": "Shadoweaver",
+  "o": "Kill the group of Shadow Silk Poachers that wander the Searing Gorge. Nilith has reason to believe that there are five of them that need to be exterminated. Return to Nilith in the Searing Gorge when this task is complete.$B",
+  "d": "The spiders of the Searing Gorge are an invaluable source of shadow silk. As you know, shadow silk is highly sought after by the artisans of our trade.$B$BRecently, a group of poachers has encroached upon these lands, carelessly slaying spiders en masse without so much as a thought as to the long term effect of their actions. The first task I ask of you, then, is a simple one: Find them... and end them.$B$BBegin your search to the north.$B$BIf you require assistance, speak with Raze.",
+  "p": "What information do you have?",
+  "c": "Excellent work, $N.$B$BI am sure that this is a piece of shadoweave that you have not yet seen."
+ },
+ {
+  "id": 3380,
+  "t": "The Sunken Temple",
+  "o": "Find Marvon Rivetseeker in Tanaris.",
+  "d": "There are restless spirits in this world, $N. There are spirits that have been tainted by their isolation, bound to an ancient evil...$B$BI have heard of a place that lies deep below the surface of the earth -- banished there by powers greater than I have ever seen.$B$BIf you wish to learn more of this place; the Sunken Temple, seek out a goblin named Marvon Rivetseeker. He has studied many ancient areas of the world, and was last known to have left his home in Ratchet to study the troll ruins in Tanaris.",
+  "p": "",
+  "c": "Yes, the Sunken Temple, I can say that I have seen it with my own eyes. Perhaps you'd like to hear more about it?$b$bYou look like the adventurous type -- I know things that may intrigue you..."
+ },
+ {
+  "id": 3381,
+  "t": "A Meeting with the Master",
+  "o": "Bring 2 Undamaged Hippogryph Feathers to Sanath Lim-yo in Azshara if you wish to speak to his master.",
+  "d": "Ah, a young $r come to speak to Sanath. What a wonderful day! I am so honored to have you grace me with your presence. Thank you!$B$BPlease... do not be so arrogant to assume my sarcasm was a compliment. Let us get one thing straight: I don't like you. But this little conversation doesn't have anything to do with us--it has to do with my master.$B$BBring me a couple hippogryph feathers for my arrows and I'll give you leave to see him. He's asked that I send adventurers to him if they proved worthy enough.",
+  "p": "I remain here at my master's bidding. I've been given leave to ask any price I wish for transportation up to his tower. For now, I ask for only the two feathers from each traveler so I can continue to make my signature arrows.$b$bIf you're not careful, I'll up the price. How does half a dozen gold sound?$b$bYeah, I thought as much. Just mind yourself and I'll keep the price where it is.",
+  "c": "Two feathers, just as I asked. And not bad ones at all.$b$bReady then? Just say the word and you're on your way.$b$bOh, and once again, mind yourself... my master doesn't take kindly to imbeciles, but he is very generous to those that please him."
+ },
+ {
+  "id": 3382,
+  "t": "A Crew Under Fire",
+  "o": "Defend Captain Vanessa Beltis, her crew and the Horizon Scout's passengers against the naga attack. Captain Vanessa Beltis must survive.",
+  "d": "We were just off the coast looking for a safe haven to make anchor. The sun hadn't been down for more than an hour when they attacked... those damned naga!$B$BI'm not sure what they were looking for, but it's clear they didn't find it--they've already come back once. A couple of my scouts are on watch at the entrance of the valley to give us fair warning when the next attack comes.$B$BI'm sorry you've come along now, $N, but it's out of my hands.$B$BAre you ready for the fight of your life?",
+  "p": "This is going to be a tough battle...",
+  "c": "You've done it! Thank you! Surely this was one of the most brutal battles I've ever taken part in. I can't thank you enough.$B$BI only wish more of my crew could have lived through this trial.$B$BI would ask you to speak to any surviving passengers from the Horizon Scout. Some of them had business in the area, and may have a request or two of you if you're willing. Again, thank you for all your help."
+ },
+ {
+  "id": 3385,
+  "t": "The Undermarket",
+  "o": "Slay Trade Master Kovic and his minion Clunk. Retrieve the Trader's Satchel from his corpse and return it to Nilith.$B",
+  "d": "They call themselves the Undermarket: Cutthroat traders that will sell, move, trade and do just about anything for the right price.$B$BIt gets worse, $N. They have set up a base of operations here in the Searing Gorge. Trade Master Kovic is heading up the operation and has close ties with the Dark Iron dwarves of the region.$B$BWe must strike hard and send a message to their leadership. Slay Trade Master Kovic and his minion Clunk. Bring back his trader's satchel when the job is done.$B$BTo the Cauldron!",
+  "p": "The Trade Master still lives?",
+  "c": "You have struck a decisive blow against the Undermarket. Their leaders will think twice before sending more cronies into the gorge.$B$BOh, and I also found nothing of use in the trader's satchel. You may keep whatever you find inside."
+ },
+ {
+  "id": 3402,
+  "t": "The Undermarket",
+  "o": "Speak with Vizzklick in Gadgetzan.$B",
+  "d": "I want you to personally deliver the news of Kovic's defeat to Vizzklick in Gadgetzan. He will be so happy to hear that Kovic is dead that I'm certain he'll give you some grand reward.",
+  "p": "",
+  "c": "Kovic slain??! This is a glorious day, $N! For years that scoundrel has been running shady undermarket trades, undercutting honest, hard working traders all over the world.$b$bYou deserve a fine reward for this accomplishment! And a fine reward you shall have!"
+ },
+ {
+  "id": 3421,
+  "t": "Return Trip",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "I will return you to Sanath's camp now.$B$BDo not mind his bad manners--he is rude to everyone save for the master. Perhaps he shall learn his lesson one day."
+ },
+ {
+  "id": 3441,
+  "t": "Divine Retribution",
+  "o": "Listen as Kalaran Windblade tells his story.",
+  "d": "Hear my tale, adventurer.",
+  "p": "Allow me to finish mo... $r.",
+  "c": "Have you heard enough? Are you prepared to act?"
+ },
+ {
+  "id": 3442,
+  "t": "The Flawless Flame",
+  "o": "Collect 4 Hearts of Flame and 4 globes of Golem Oil and return the items to Kalaran Windblade.",
+  "d": "You have made the right decision, $N.$B$BWe must strike where we will do the most damage: the four sentry towers.$B$BWith the four towers in flames, we can initiate an offensive before they have time to react.$B$BYou will need the proper tool to set the towers ablaze. To make the tool requires some materials.$B$BBring me four hearts of flame and four golem oil and I shall craft the torch of flawless flame.$B$BThe golems and elementals in these lands should be your first target.",
+  "p": "Have you collected the materials?",
+  "c": "Well done, $N. We are almost ready."
+ },
+ {
+  "id": 3443,
+  "t": "Forging the Shaft",
+  "o": "Bring 8 Thorium Plated Daggers to Kalaran Windblade.",
+  "d": "To hold the flawless flame, we will need a shaft and a casing. You must first find a suitable shaft.$B$BThe Dark Iron taskmasters and slavers of the cauldron use weapons of enchanted thorium, an extremely sturdy alloy. If you bring me eight thorium plated daggers, I can break the alloy down and reforge a shaft.$B",
+  "p": "Eight, $N. I need eight!\t",
+  "c": "You're an exceptional laborer, $N. Have you ever considered a change of vocation? Perhaps a detective? Junk collector? Oh, I know, one of those silly gnomes that crawl across the beaches of Azeroth with their metal detecting contraptions, looking for lost treasure. Yes, that would be an ideal position for you."
+ },
+ {
+  "id": 3444,
+  "t": "The Stone Circle",
+  "o": "Retrieve the Stone Circle from Marvon Rivetseeker's workshop in Ratchet.",
+  "d": "I once entered the foreboding chambers of the Sunken Temple. The evil in that place penetrates all that enter; I barely managed to find my way out, wading through the ooze that now covers the floors. All I can remember is stumbling through a large circular room, filled with serpent statues...$B$BRecently, I discovered a round stone that appeared to have the same serpent symbol imprinted on it. I had it packed up and shipped to my workshop in Ratchet. Retrieve it, and I might be able to tell you more.",
+  "p": "Ratchet is not far from here, $N. The journey shouldn't take long.",
+  "c": "Yes... This is the stone.$b$bIt's all coming back to me now, $N..."
+ },
+ {
+  "id": 3445,
+  "t": "The Sunken Temple",
+  "o": "Find Marvon Rivetseeker in Tanaris.",
+  "d": "I have heard of a place that lies deep below the surface of the earth -- banished there by powers greater than I have ever seen.$B$BIf you wish to learn more of this place; the Sunken Temple, seek out a goblin named Marvon Rivetseeker. Much like Troyas and I, he has studied many ancient areas of the world. He was last known to have left his home in Ratchet to study the troll ruins in Tanaris.$B$BGood luck finding him; he hasn't been heard from in some time.",
+  "p": "",
+  "c": "Yes, the Sunken Temple, I can say that I have seen it with my own eyes. Perhaps you'd like to hear more about it?$b$bYou look like the adventurous type -- I know things that may intrigue you..."
+ },
+ {
+  "id": 3446,
+  "t": "Into the Depths",
+  "o": "Find the Altar of Hakkar in the Sunken Temple in Swamp of Sorrows.",
+  "d": "Inside the temple, I found a circular room with six balconies, each one with a serpent statue on the edge. Curious, I pushed one of them to see what would happen, and it was a trap! I nearly fell to my death from the explosion. Laying there on the ledge, I looked down and noticed that there was another statue at the base of the room; an altar of sorts... Hakkar, I think it was called.$B$BI think that this altar is the secret -- you must bring this token to the altar in the Sunken Temple.",
+  "p": "Upon examining the statue, you notice a depression in its side, just the size of the token that Marvon gave you...",
+  "c": "You push the stone circle into the opening, and you hear it lock into place.$b$bNow that the stone is in place, you may continue... but what should you do next?$b$bPerhaps you should examine this altar further...$b$b"
+ },
+ {
+  "id": 3447,
+  "t": "Secret of the Circle",
+  "o": "Travel into the Sunken Temple and discover the secret hidden in the circle of statues.",
+  "d": "My memories are cloudy, but I will tell you what I can. The circle of statues in the Sunken Temple, while dangerous, I believe that they hold the secret to unlock an even greater treasure.$B$BFrom the main altar, I was able to activate a series of lights. I think that if you can uncover what these lights mean, you might be able to unlock whatever secrets are hiding in this room.$B$BI warn you though, $N. Great evil lies in the temple. It's likely that anything valuable will be fervently guarded...",
+  "p": "",
+  "c": "The eye of the idol glitters brightly even in the half-darkness of the temple. Its transparency reveals something shiny behind it. Sliding it to the side, you reach in and grasp what lies inside the statue.$B$BThe Atal'ai treasure is now yours."
+ },
+ {
+  "id": 3448,
+  "t": "Passing the Burden",
+  "o": "Speak to Tymor in Ironforge.",
+  "d": "I've recently been handed the responsibility of investigating Azshara--a once beautiful area the elves called home. This would be back when they practiced magic. It's now a more dangerous place than it is beautiful, but that doesn't stop us from turning over every stone for answers to our past.$B$BA companion of mine named Tymor offered to help me investigate the area since he takes a particular interest in such things.$B$BHe owns a small place to the right of the Hall of Mysteries here in the city.",
+  "p": "",
+  "c": "Ah, Karnik sent you, did he? I expected to hear from him soon. I've discovered such wonderful things about Azshara.. I know night elves have incredible life spans, but everyone forgets some of the more... unfortunate events in their lives sometimes. That's not meant as a criticism, just an observation.$B$BLong ago, there were cities created by the elves filled with knowledge about magic and other lost arts. Being a student of such things, I started my investigation. What I found was quite thrilling."
+ },
+ {
+  "id": 3449,
+  "t": "Arcane Runes",
+  "o": "Using the Drawing Kit, make rubbings of the Rune of Beth'Amara, the Rune of Jin'yael, the Rune of Markri, and the Rune of Sael'hai before heading to the small island off of the southern peninsula of Azshara and signaling Pilot Xiggs Fuselighter to pick them up.",
+  "d": "Magic was once as revered as Elune herself to some elves. Some of their most powerful mages created runes and tablets citing rules of the arcane and insights into their findings. They would leave these for all to ponder in public places.$B$BI would very much like rubbings of these runes from the Ruins of Eldarath. I have a kit for you to make the rubbings with, but it will be up to you to find them. Be careful though, the Explorer's League isn't the only one interested in Eldarath.",
+  "p": "Well, well, well, glad to see you made it out here, $N. Did you get the rubbings for Tymor?$B$BAs dangerous as this place is, there hasn't been too much action along the coast. That might be on account of the naga swimming underwater, but that's not my problem... I patrol the skies.",
+  "c": "Good to see you safe and sound, $N. I hope things weren't too tough for you.$B$BI'll get these to Tymor right away. He'll be thrilled to take a look at these things.$B$BGo ahead and toss the flare gun... probably won't be any good to you anymore anyway, and I already got a new one."
+ },
+ {
+  "id": 3450,
+  "t": "An Easy Pickup",
+  "o": "Speak to Xiggs Fuselighter in Ironforge.",
+  "d": "I want the rubbings delivered to my tower, but there's no need to have you go all the way there. I'll just have them air-lifted out of Azshara.$B$BXiggs Fuselighter owes me a favor or two and will be in the area soon--he's signed on to patrol the coast. Speak to him before you leave. He can give you a flare gun to signal him with. When you have the rubbings, just head to wherever he tells you and then give them to him so he can get them to my tower safely. He should be in the hangar in the Military Ward.",
+  "p": "",
+  "c": "What can I do for you, $N? Kinda busy at the moment preparing my ship for a long trip. I just came over to see some of the tank pilots--I need some wendigo manes to line my cockpit and they usually have extra.$B$BI can give you a minute if you're brief... one of the boys just took off to Steelgrill's Depot to see if the pilots down there have extra manes for me."
+ },
+ {
+  "id": 3451,
+  "t": "Signal for Pickup",
+  "o": "Speak to Xiggs Fuselighter and get a Standard Issue Flare Gun from him in Ironforge.",
+  "d": "Ah, so Tymor sent you, huh? Yeah, I owe him a favor or two. What's that? Why, that little devil. Yeah, I can help him out with that. So you'll need a flare gun and a location... easy enough.$B$BThere's a small island off the southern peninsula of Azshara that we've made a landing pad on. You take this flare gun, and use it there. I'll see your signal and come by to pick up this... whatever it is he wants.",
+  "p": "",
+  "c": "Here's my standard issue flare gun, and be patient after you fire off the gun--there are only a couple charges in one of these, and it might take me a minute to get to you depending on how far out to sea I am. Just look out to sea after you fire off the flare."
+ },
+ {
+  "id": 3452,
+  "t": "The Flame's Casing",
+  "o": "Find and return a Symbol of Ragnaros to Kalaran Windblade.",
+  "d": "We need one final piece to form the torch.$B$BIn the mountains to the northwest you will find a large encampment of Twilight's Hammer. It is rumored that they carry symbols and idols that pay homage to their god. These symbols and idols could carry sufficient enchantment to form a magical casing. Bring me a single symbol of Ragnaros and I will try to extract the magic from the item to create the casing.",
+  "p": "Without a suitable source of arcane energy, the torch of retribution cannot be completed.",
+  "c": "The symbol radiates foul magic; perfectly suited for our task."
+ },
+ {
+  "id": 3453,
+  "t": "The Torch of Retribution",
+  "o": "Wait for Kalaran Windblade to complete the Torch of Retribution.$B",
+  "d": "Give me a moment to combine the pieces and apply the necessary enchantments.$B",
+  "p": "Do not interrupt the channeling process.",
+  "c": "There is one final task that you must complete.\n"
+ },
+ {
+  "id": 3454,
+  "t": "The Torch of Retribution",
+  "o": "Take the Torch of Retribution.",
+  "d": "The torch must now be bound to its owner. Pick up the torch, $N. ",
+  "p": "",
+  "c": "You grab the torch with both hands; waves of hatred and anger pulse through your being."
+ },
+ {
+  "id": 3461,
+  "t": "Return to Tymor",
+  "o": "Return Tymor's Drawing Kit to him in Ironforge.",
+  "d": "Tymor didn't give me anything to pay you with, so I suggest you take it up with him when you get back to Ironforge. I'm sure he'll still be in his place in the Mystic Ward. Just go knockin' and make sure he pays you good. This place ain't no picnic... that's for sure.$B$BThanks again for helping him out though, and good luck.$B$BOh, and I don't need the drawing kit. Why don't you just bring it back to Tymor when you go to see him?",
+  "p": "You're back! Excellent. Do you have my drawing kit also?",
+  "c": "Wonderful! I'm so glad to hear it.$B$BI'm really excited to get to my tower and go over those rubbings. I'm so envious of you... going to a place like Azshara. That's any student of the arcane's dream, I would guess.$B$BWell, we never spoke about any kind of reward since you were just working for the Explorer's League, but you deserve something."
+ },
+ {
+  "id": 3462,
+  "t": "Squire Maltrake",
+  "o": "Speak with Squire Maltrake.",
+  "d": "Speak with my envoy, Squire Maltrake. He will further instruct you as to the use of the Torch of Retribution.",
+  "p": "",
+  "c": "Are you prepared to make your strike?\n"
+ },
+ {
+  "id": 3463,
+  "t": "Set Them Ablaze!",
+  "o": "Set the North, South, East, and West Sentry Towers on fire by using the Torch of Retribution inside each of the buildings. $B",
+  "d": "Listen well, $N. While the four towers can never be destroyed, you can use the torch of retribution to set them ablaze for a very long period of time: A fire that no element or force can subdue.$B$BWhile they are ablaze, no guard or sentry unit can inhabit the watch posts and thus, their first line of defense is nullified.$B$BYou must enter each tower and use the Torch of Retribution within their fortifications. Beware the lookouts posted by the Dark Irons, $N.",
+  "p": "Are you lost, $N?",
+  "c": "It is glorious! Is it not glorious master? "
+ },
+ {
+  "id": 3481,
+  "t": "Trinkets...",
+  "o": "Open the chest.",
+  "d": "The chest appears locked.",
+  "p": "",
+  "c": "The chest opens at your touch. How much cheese could possibly be in here? There is only one way to find out."
+ },
+ {
+  "id": 3482,
+  "t": "<NYI> <TXT> The Pocked Black Box",
+  "o": "Take this box to Kravel.",
+  "d": "This is the horde version of the black box quest.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 3483,
+  "t": "Signal for Pickup",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Ah, another flare gun, huh? That I can do.$B$BAnd don't forget, southern tip of Azshara. It's a small little island that's been turned into a landing pad. You can't miss it if you're in the right spot."
+ },
+ {
+  "id": 3501,
+  "t": "Everything Counts In Large Amounts",
+  "o": "Bring Kum'isha Imperfect Draenethyst Fragments and be rewarded for each one you turn in.$B",
+  "d": "Although you may never find a flawless sphere of draenethyst, you will undoubtedly uncover various imperfect fragments of the draenethyst in your exploration of these lands.$B$BWhile it is doubtful that Kum'isha will be able to use the flawed fragments to return home, the pieces may serve other, useful purposes for the draenei.$B$BReturn any piece of flawed draenethyst fragments that you may find and I shall reward you.",
+  "p": "Have you had any luck in your exploration?",
+  "c": "You truly disgust me, $r. A grown $g man : woman; drooling over a pile of junk? Pitiful! Take your reward and get out of my sight."
+ },
+ {
+  "id": 3502,
+  "t": "One Draenei's Junk...",
+  "o": "Bring Kum'isha Imperfect Draenethyst Fragments. Any form of monster in the Blasted Lands could be carrying a fragment.$B",
+  "d": "Well, after that display of voracious greed, I feel nauseous.$B$BRegardless, I shall not dwell too long on your material addiction.$B$BFor each imperfect draenethyst fragment you turn in, I shall reward you with more junk. My junk heap gets smaller while your junk heap gets larger. On Draenor we call this a 'win-win' situation.$B",
+  "p": "Well? Draenethyst? Remember?$B$B<Kum'isha clenches his fist and knocks on your head.>$B$BIs anybody home?",
+  "c": "You truly disgust me, $r. A grown $g man : woman; drooling over a pile of junk? Pitiful! Take your reward and get out of my sight.$B$BSounds familiar? It should, because I say it a thousand times per day.$B$BOh how I loathe this world."
+ },
+ {
+  "id": 3503,
+  "t": "Meeting with the Master",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "There was a time when I could ask whatever I wished from those who sought out my master.  But now, you need only ask and I will send you to him.$b$bIt is upsetting to me, but I do not question his orders.  I can only take enjoyment in making fun of the ridiculous clothes you wear or the pathetic look on your face.  Even that bores me...$b$bEven this rambling bores me!  Do you wish to see my master or not?"
+ },
+ {
+  "id": 3504,
+  "t": "Betrayed",
+  "o": "Deliver the Sealed Letter to Ag'tor to Ag'tor Bloodfist in Azshara.",
+  "d": "Betraying, thieving woman! That's what I call her--that's all she'll ever be!$B$BI may have made a grave mistake, $N. I trusted a blood elf. What's worse, I trusted a woman!$B$BShe claimed Azshara would hold great riches... powerful items. I simply send some warriors with her to protect her and I would be rewarded. Well, look who's the fool--she's killed them all.$B$BI want vengeance, $N, but I can't afford to send anyone else. Find Ag'tor at Valormok, north of the Haldarr Encampment. He'll tell you more.",
+  "p": "Ah, Belgrom wizened up and finally sent someone not in his ranks to aid us, did he?$b$bThis camp used to be a dozen warriors strong, $N, but now they're all dead. That mage, Rimtori, has slain them all. She played Belgrom like a lute... seduced him even. It's none of my business, but between you and I, she is quite the temptress. That's probably why I'm still out here helping Belgrom--I probably would have done the same thing.",
+  "c": "We've sent everything we had at her and her workers, but they are strong in battle. None have bothered to return. I'm assuming some have died, but I'm sure others simply ran... cowards.$b$bBut now that reinforcements have arrived, perhaps there's still something we can do. Perhaps we can still punish her for lying and betraying Belgrom.$b$bWhat do you say, are you in?"
+ },
+ {
+  "id": 3505,
+  "t": "Betrayed",
+  "o": "Kill 10 Blood Elf Reclaimers, and 10 Blood Elf Surveyors before seeking out Magus Rimtori's camp. Once you've found it, look for something that might be important to her that can be used to draw her into a fight.",
+  "d": "I thought as much.$B$BWe start our crusade against her workers along the southern bluffs on the northern peninsula of Azshara. Kill them with bloody rage--let them know they've betrayed the wrong allies.$B$BDo not concern yourself with her yet--she spends most of her time with her bodyguards searching Azshara. It would be prudent after you've slain her workers to find her personal camp. Scouting out where we can attack her would be wise. Perhaps there is something there we can use to provoke her.",
+  "p": "The title of the book is emblazoned on the black leather cover in gold leaf--Kaldorei Tome of Summoning. As you open the pages you can see that the book is very old but in superb condition.$b$bYou assume the text is of some ancient language... perhaps Kaldorei?$b$bYour instincts tell you that you should return here once you've finished doling out retribution on the blood elves for their betrayal.",
+  "c": "You begin to skim some of the pages until you come to a page that's marked by a thin, black strip of silk cloth.$b$bAs you try to decipher the script, you see a diagram on the bottom of one of the pages. A quick look around at the scene before you and you realize that the crystals, the circle, and even some of the other components on the ground are set up in a similar pattern as the diagram."
+ },
+ {
+  "id": 3506,
+  "t": "Betrayed",
+  "o": "Destroy the arcane focusing crystal tied to Magus Rimtori and then slay her. Afterwards, take the Head of Magus Rimtori to Ag'tor Bloodfist in Azshara.",
+  "d": "A few more moments of thought brings a few ideas to mind, one of which brings a smile to your face: perhaps destroying the crystals would upset the blood elf responsible for the slaughter of so many orcs and the betrayal of Belgrom?$B$BYou continue to decipher more of the script and pictures and realize that one of the crystals is tied to the creator of the circle--the others are tied to something far more sinister.$B$BYou close the book and begin to decide which crystal to destroy. ",
+  "p": "How goes your slaughter of the blood elf traitors, $N? Have you made any progress?$b$bI hope you are the one strong enough to bring that dog to her knees! She deserves nothing but a painful death for all that she has done!",
+  "c": "RAR!! Incredible!$b$bYou've done it! Belgrom will be pleased! Finally the spirits of dozens of our warriors can be at peace. Thank you, $N."
+ },
+ {
+  "id": 3507,
+  "t": "Betrayed",
+  "o": "Speak to Belgrom Rockmaul in Orgrimmar.",
+  "d": "Return to Belgrom in Orgrimmar. He will want to see her head for himself! We'll return there shortly.$B$BAh, this is indeed a good day. Thank you for your help, $N.",
+  "p": "I remember you, $C. I asked you to go to Azshara to destroy that wench that betrayed me! That seems like many moons ago. Don't tell me that Ag'tor and the others are dead also!",
+  "c": "HAHA! Look at you now, pathetic woman! I spit on your remains!$b$bThank you, $N. Thank you from the bottom of my heart! This is indeed a great day!$b$bI would give you a kingdom if it were in my power! But perhaps you will settle for this.$b$b<Belgrom looks down at the head of the mage who had betrayed him.>$b$bHaha! Stupid blood elf, look at you now... in a burlap sack and missing your body! You should never have betrayed Belgrom!"
+ },
+ {
+  "id": 3508,
+  "t": "Breaking the Ward",
+  "o": "Wait for Loramus to complete the enlightenment spell.",
+  "d": "You are foolhardy, $N. It is an admirable quality of your kind - to blindly enter battle when you have little to no chance of success. I will assist you, if only to see just one of Razelikh's minions fall.$B$BTo break the ward placed over Razelikh's subordinates will take time and require the acquisition of rare artifacts.$B$BBe still, I must first perform the enlightenment ritual. The information I gather will assist me in forging weapons of great power.",
+  "p": "",
+  "c": "The name of the beast must be found."
+ },
+ {
+  "id": 3509,
+  "t": "The Name of the Beast",
+  "o": "Speak with Lord Arkkoroc in Azshara. Begin your search at the waters edge to find the Temple of Arkkoran.",
+  "d": "There is only one way to harm the demon lord and his minions. A weapon of power must be forged bearing his true name.$B$BWhen such a weapon is forged, the demon and all under his command are vulnerable.$B$BA lesser deity resides in Azshara: Lord Arkkoroc. You must seek him out but be warned, his minions will stop at nothing to destroy you if you are discovered.$B$BUndoubtedly, you will have to pay a price for such information. ",
+  "p": "",
+  "c": "A demon lord?$b$b<Lord Arkkoroc laughs.>$b$bPerhaps the one can assist you with this information; but first, you must assist the one.$b$b"
+ },
+ {
+  "id": 3510,
+  "t": "The Name of the Beast",
+  "o": "Slay Hetaera and bring back Hetaera's Bloodied Head, Hetaera's Beaten Head, and Hetaera's Bruised Head to Lord Arkkoroc.",
+  "d": "She kills my children, mortal. She that calls herself the ruler of these oceans. A false god, nothing more. Crush her and bring back all of her heads.$B$BFor that, you will be given the name that you seek and something else of equal importance.$B$BShe roams the clutch... Hetaera she is called.$B$B<Lord Arkkoroc points to the southwest.>$B$BGo!$B",
+  "p": "<Lord Arkkoroc bends down to inspect you.>$b$bWhere are they?",
+  "c": "Finally, one worthy of the wisdom of Arkkoroc!"
+ },
+ {
+  "id": 3511,
+  "t": "The Name of the Beast",
+  "o": "Take the temper back to Loramus Thalipedes.$B",
+  "d": "As promised, I will reveal the name of the demon lord, Razelikh the Defiler. First, however, I must prepare something of utmost importance for your journey.$B$BThe weapon you seek to create requires a temper. Give me a moment to drain the blood from these heads.$B$B<Lord Arkkoroc squeezes the heads in between his gigantic fists, draining them of their blood.>$B$BTake the temper back to Loramus along with the name of the beast: Rakh'likh.",
+  "p": "You return! Astounding, $R. Did you discover the true name?",
+  "c": "The temper will add the necessary vitriol we require for the forging of the weapons. There is but one more step in their creation."
+ },
+ {
+  "id": 3512,
+  "t": "In Eranikus' Own Words",
+  "o": "Travel to the eastern part of Winterspring and speak with Umbranse the Spiritspeaker.",
+  "d": "$N, our first step will be to devise a method to speak with Eranikus through the gem.  He lies in a precarious state between sleep and death now, twisted within a weave of nightmares.  Though the essence you have given me is badly tainted, there is a chance we can reach him.$B$BTravel far to the icy lands of eastern Winterspring and seek one of our mortal allies, Umbranse the Spiritspeaker.  He is a human medium who speaks for the dead.  Though Eranikus is not truly dead, he may be of aid to us still.",
+  "p": "",
+  "c": "Itharius was wise to send you to me. While he is not dead as you understand death, Eranikus will soon give us advice in his own words. For now though, I cannot directly help you... at least not yet.$b$bI will lend my skill at death-speaking to you, but first I need the help of one who - unlike me - is not limited by the frailties of old age. My most potent augury device has been taken from me against my will, and unless I have it back we will be at a loss to help Eranikus."
+ }
+]

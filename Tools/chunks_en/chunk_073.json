@@ -1,0 +1,962 @@
+[
+ {
+  "id": 24664,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Sprinklers and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Everlook in Winterspring, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it's in Winterspring, just east of Everlook. Oh, now this is personal. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24665,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Underlings and use Snagglebolt's Khorium Bomb to destroy one chemical wagon east of Shattrath City in Terokkar Forest, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it looks like it's just east of Shattrath, in Terokkar Forest. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24666,
+  "t": "Crushing the Crown",
+  "o": "Kill 5 Crown Sprayers and use Snagglebolt's Khorium Bomb to destroy one chemical wagon in the Forlorn Woods of Crystalsong Forest, then return to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.$b$bHere's an entry I want you to check out: it looks like it's in the Forlorn Woods of Crystalsong, northwest of the Mirror of Twilight. Get out there and rough 'em up.$b$bOh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+  "p": "Did you teach 'em a lesson?",
+  "c": "Good job, kid. You deserve a little somethin'. And hey, come back tomorrow if you get the time; I might have a job for ya."
+ },
+ {
+  "id": 24682,
+  "t": "The Pit of Saron",
+  "o": "Meet Lady Sylvanas Windrunner inside the entrace to the Pit of Saron.",
+  "d": "Quickly, through the portal! I'll find you on the other side.",
+  "p": "",
+  "c": "Incapable fools. I begin to wonder if any of these louts from the tournament will be of any use at all. Perhaps you'll prove me wrong."
+ },
+ {
+  "id": 24683,
+  "t": "The Pit of Saron",
+  "o": "Meet Lady Jaina Proudmoore just inside the Pit of Saron.",
+  "d": "Quickly, through the portal! I'll meet you on the other side.",
+  "p": "",
+  "c": "I underestimated this Scourgelord, and it's my men that paid for it. When I think that my guilt over Arthas' betrayal cannot go any deeper, he proves me wrong yet again.$B$BWe have to press on. We cannot let their sacrifice be meaningless."
+ },
+ {
+  "id": 24710,
+  "t": "Deliverance from the Pit",
+  "o": "Kill Scourgelord Tyrannus.",
+  "d": "We need to make our way up the main path and through the cave to Tyrannus' rise. There, he will be forced to confront us there lest we make our way into the citadel proper.$B$BGo now, $c. My men and I will be there to stand by you when the confrontation with Tyrannus comes.",
+  "p": "",
+  "c": "Such a senseless waste! Arthas goes too far! I can only hope what we find in the Halls of Reflection makes this somehow worth it.$B$BIf what that vile gnome said is to be trusted, Frostmourne should be there, and with it, answers to confronting Arthas."
+ },
+ {
+  "id": 24711,
+  "t": "Frostmourne",
+  "o": "Meet Lady Jaina Proudmoore at the entrance to the Halls of Reflection.",
+  "d": "We must press on, hero. We've come so far... we're so close to our goal. I must delay a moment to send Elandra back to the airship. I'm uncertain how we're going to escape with so many men lost and so few to keep our path in secure - we will need any help they can send.$B$BContinue on. I will meet you in the Halls of Reflection. ",
+  "p": "",
+  "c": "The Halls of Reflection. Finally.$B$BLet me know when you are ready. Arthas may not be here, but it would be naive to think that he would leave Frostmourne unguarded entirely."
+ },
+ {
+  "id": 24712,
+  "t": "Deliverance from the Pit",
+  "o": "Kill Scourgelord Tyrannus.",
+  "d": "We need to make our way up the main path and through the cave to Tyrannus' rise. There, he will be forced to confront us there lest we make our way into the citadel proper.$B$BGo now, $c. My men and I will be there to stand by you when the confrontation with Tyrannus comes.",
+  "p": "",
+  "c": "The Halls of Reflection lie ahead. If what that vile gnome said is to be trusted, Frostmourne should be there, and with it, answers to confronting Arthas."
+ },
+ {
+  "id": 24713,
+  "t": "Frostmourne",
+  "o": "Meet Lady Sylvanas Windrunner inside the entrance to the Halls of Reflection.",
+  "d": "Keep moving, the sword is close.$B$BI need a moment to send one of my Dark Rangers back to the airship. With all of our fodder gone, I will not be caught unprepared - we will need any help they can send.$B$BGo. I will meet you in the Halls of Reflection. ",
+  "p": "",
+  "c": "The Halls of Reflection. Finally.$B$BLet me know when you are ready, $c. I will not be so naive as to think that Arthas left his precious sword entirely unguarded."
+ },
+ {
+  "id": 24743,
+  "t": "Shadow's Edge",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Listen well, $c. In accepting this weapon your fate is sealed.$B$BOvercome or succumb.$B$BI have placed your feet upon this path. You are therefore my personal responsibility. Should you failter, I am duty-bound to deliver you from this life.$B$BRemember my words, $r, and do not fail."
+ },
+ {
+  "id": 24745,
+  "t": "Something is in the Air (and it Ain't Love)",
+  "o": "Bring the Faded Lovely Greeting Card to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "The inside of the card is scribbled with mad, detailed plans to infect most of Azeroth.  You should show this to one of Steamwheedle's investigators immediately!",
+  "p": "Did you take care of those no-good scheming villains?",
+  "c": "What've you got there?$B$BOh hey, this is big. Real big. Most of the crazy details in one little package. Thanks - you really helped us reel this all in. Good working with ya."
+ },
+ {
+  "id": 24748,
+  "t": "The Lich King's Last Stand",
+  "o": "Highlord Darion Mograine in Icecrown Citadel wants you to kill the Lich King.",
+  "d": "Shadowmourne; a newly forged weapon already steeped in this world's history, reborn into an unrivaled destiny.$b$bWith this weapon you bear a solemn responsibility, and the time to carry out that charge is at hand.$b$bTake this weapon of myth and legend and march on the enemy. Avenge the countless heroes lost in his merciless campaign. Bring rest to their tortured souls.$b$bSteel yourself, $c, and guide Shadowmourne to fulfill the purpose of its creation.",
+  "p": "",
+  "c": "So, at last it is done.$b$bMay the people of Azeroth remember our deeds here forevermore. May the sacrifices of so many burn in their hearts eternally. May they never fail to risk mortal peril in the face of great evil."
+ },
+ {
+  "id": 24749,
+  "t": "Unholy Infusion",
+  "o": "Highlord Darion Mograine wants you to infuse Shadow's Edge with Unholy power and slay Professor Putricide.$B$BThis quest may only be completed in 25 person difficulty of Icecrown Citadel.",
+  "d": "Before your weapon can reach its full potential it must be endowed with its signature powers. First among them is unholiness.$b$bYou must seek out and defeat the one called Professor Putricide, but his death is not your only goal. You must use his resources against him.$b$bFind a way to absorb his mutated slime. Use the foul substance to infuse your weapon with the power of the unholy. Only when this has been done shall I reveal your next task.",
+  "p": "",
+  "c": "Well done, $c.$b$bThe completion of our work draws near."
+ },
+ {
+  "id": 24756,
+  "t": "Blood Infusion",
+  "o": "Highlord Darion Mograine wants you to infuse Shadow's Edge with blood and defeat Queen Lana'thel.$B$BThis quest may only be completed in 25 person difficulty of Icecrown Citadel.",
+  "d": "Your weapon is ready to be endowed with the power of blood.$b$bYou must face Queen Lana'thel in battle and subject yourself to her Blood Mirror. This will cause Shadow's Edge to drink the blood of the nearest living being. That being would be you, $r.$b$bOnce the blade has been thus awakened, allow the Queen's Frenzied Bloodthirst to take hold of you, feed the blade thrice to sate it, and then give the queen an ignominious death.$b$bMay her screams pierce the ears of the Lich King as he awaits his fate.",
+  "p": "",
+  "c": "Well done, $c.$b$bShadowmourne is nearly within reach."
+ },
+ {
+  "id": 24757,
+  "t": "Frost Infusion",
+  "o": "Highlord Darion Mograine has instructed you to slay Sindragosa after subjecting yourself to 4 of her breath attacks while wielding Shadow's Edge.$B$BThis quest may only be completed in 25 person difficulty of Icecrown Citadel.",
+  "d": "Shadow's Edge is prepared to receive its final infusion of power.$b$bSindragosa, the enemy's own mount, must fall. But before she is brought down, you must sustain four of her frozen breath attacks without tasting death.$b$bWithout his dragon, nothing shall stand between you and the Lich King.",
+  "p": "",
+  "c": "The axe has drunk its fill, $r, and the forge is nearly ready for the creation of Shadowmourne..."
+ },
+ {
+  "id": 24792,
+  "t": "Man on the Inside",
+  "o": "Report to Investigator Fezzen Brasstacks in Shadowfang Keep.",
+  "d": "You look like you're fit enough to take on the mastermind behind this operation. The ledger says he's holed up in Shadowfang Keep, so that's where I'm sending you.$b$bWe have a man there already but he's not fit to take down an operation by himself. Head on in; the investigator will meet you there. And bring friends.",
+  "p": "",
+  "c": "Fantastic. Help is exactly what I need."
+ },
+ {
+  "id": 24793,
+  "t": "Man on the Inside",
+  "o": "Report to Investigator Fezzen Brasstacks in Shadowfang Keep.",
+  "d": "You look like you're fit enough to take on the mastermind behind this operation. The ledger says he's holed up in Shadowfang Keep, so that's where I'm sending you.$b$bWe have a man there already but he's not fit to take down an operation by himself. Head on in; the investigator will meet you there. And bring friends.",
+  "p": "",
+  "c": "Fantastic. Help is exactly what I need."
+ },
+ {
+  "id": 24795,
+  "t": "A Victory For The Silver Covenant",
+  "o": "Bring the Restored Quel'Delar to Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "In spite of Queen Lana'thel's boasting, you have restored Quel'Delar, $N. Long have we dreamt of reclaiming Quel'Delar.$B$BThe Silver Covenant, and indeed all quel'dorei owe you a debt of gratitude.$B$BAs a $c, the sword seems to know you lack the training to wield it and hasn't bonded to you. Where, then, will its next master come from? Perhaps the Argent Crusade can find one. Go north to the Argent Tournament Grounds and present the sword to Justicar Mariel Trueheart on behalf of the Silver Covenant.",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "That a weapon of such power has been redeemed from the clutches of evil is a great omen in these times, $N. With Quel'Delar and staunch Silver Covenant allies at our side, the Lich King will have good reason to fear.$B$BThe crusade maintains an arsenal of exceptional weapons for our strongest allies. Allow me to offer you your choice from among them in return for entrusting us with the care of Quel'Delar."
+ },
+ {
+  "id": 24796,
+  "t": "A Victory For The Silver Covenant",
+  "o": "Bring the Restored Quel'Delar to Vereesa Windrunner at the Violet Citadel in Dalaran.",
+  "d": "In spite of Queen Lana'thel's boasting, you have restored Quel'Delar, $N. Long have we dreamt of reclaiming Quel'Delar.$B$BThe Silver Covenant, and indeed all quel'dorei owe you a debt of gratitude.$B$BVereesa Windrunner, the leader of the Silver Covenant, asked to see you after you returned from the Sunwell. Take Quel'Delar with you and go to Dalaran's Violet Citadel where she waits, $N.",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "This is nothing short of an amazing accomplishment, $N. The day that Thalorien and Anasterian fell, the same day that Quel'Delar was lost, was one of the darkest of my life. To see Quel'Delar restored... it is beyond words.$B$BWithout a doubt, you are meant to be the true bearer of the blade. Quel'Delar's magic is already adapting the blade to your skills and your strengths."
+ },
+ {
+  "id": 24798,
+  "t": "A Victory For The Sunreavers",
+  "o": "Bring the Restored Quel'Delar to Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "At last, Quel'Delar is restored for the glory of the Sunreavers and the sin'dorei!$B$BAll of Silvermoon will celebrate you as a hero, $N.$B$BAs a $c, the sword seems to know you lack the training to wield it and hasn't bonded to you. Where, then, will its next master come from? No worthy sin'dorei has come forward. Let us seek the Argent Crusade's counsel. Go north to the Argent Tournament Grounds and present the sword to Justicar Mariel Trueheart on behalf of the Sunreavers.",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "That a weapon of such power has been redeemed from the clutches of evil is a great omen in these times, $N. With Quel'Delar and staunch Sunreaver allies at our side, the Lich King will have good reason to fear.$B$BThe crusade maintains an arsenal of exceptional weapons for our strongest allies. Allow me to offer you your choice from among them in return for entrusting us with the care of Quel'Delar."
+ },
+ {
+  "id": 24799,
+  "t": "A Victory For The Sunreavers",
+  "o": "Bring the Restored Quel'Delar to Justicar Mariel Trueheart at the Argent Tournament Grounds.",
+  "d": "At last, Quel'Delar is restored for the glory of the Sunreavers!$B$BAll the Horde will celebrate you as a hero, $N.$B$BAs a $c, the sword seems to know you lack the training to wield it and hasn't bonded to you. Where, then, will its next master come from? I will not conceal my disappointment; I had hoped it would be a worthy sin'dorei. Let us seek the Argent Crusade's counsel. Go north to the Argent Tournament Grounds and present the sword to Justicar Mariel Trueheart on behalf of the Sunreavers.",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "That a weapon of such power has been redeemed from the clutches of evil is a great omen in these times, $N. With Quel'Delar and staunch Sunreaver allies at our side, the Lich King will have good reason to fear.$B$BThe crusade maintains an arsenal of exceptional weapons for our strongest allies. Allow me to offer you your choice from among them in return for entrusting us with the care of Quel'Delar."
+ },
+ {
+  "id": 24800,
+  "t": "A Victory For The Sunreavers",
+  "o": "Bring the Restored Quel'Delar to Archmage Aethas Sunreaver at the Violet Citadel in Dalaran.",
+  "d": "At last, Quel'Delar is restored for the glory of the Sunreavers and the sin'dorei! All of Silvermoon will proclaim you a hero, as will all of the Horde.$B$BArchmage Aethas Sunreaver, the leader of the Sunreavers, asked to see you after you returned from the Sunwell. Travel to the Violet Citadel in Dalaran as soon as you can, $N and bring Quel'Delar with you. The archmage wishes to congratulate you personally!",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "Quel'Delar rises again, as we sin'dorei have risen from the ashes of defeat and betrayal. The heart and the weapon of Thalorien Dawnseeker are both with you, $N.$B$BI see the blade has already started adapting itself to your strengths, $N. Hold your head high and always keep Quel'Delar at your side."
+ },
+ {
+  "id": 24801,
+  "t": "A Victory For The Sunreavers",
+  "o": "Bring the Restored Quel'Delar to Archmage Aethas Sunreaver at the Violet Citadel in Dalaran.",
+  "d": "At last, Quel'Delar is restored for the glory of the Sunreavers and the Horde! This is a blessing for our efforts against the Lich King.$B$BArchmage Aethas Sunreaver, the leader of the Sunreavers, asked to see you after you returned from the Sunwell. Travel to the Violet Citadel in Dalaran as soon as you can, $N and bring Quel'Delar with you. The archmage wishes to congratulate you personally!",
+  "p": "Is it true that you have restored Quel'Delar?",
+  "c": "Quel'Delar rises again, as the sin'dorei have risen from the ashes of defeat and betrayal. Yet, somehow, the weapon of Thalorien Dawnseeker has chosen to serve an outsider.$B$BBe at ease, $N. I do not mean to diminish your accomplishment, for you have done what none of my brothers could, although I do not know why. You are clearly meant to be its bearer; the blade is already adapting itself to your abilities. Wield Quel'Delar proudly against our common foes."
+ },
+ {
+  "id": 24802,
+  "t": "Wrath of the Lich King",
+  "o": "Find Lady Sylvanas Windrunner and escape the Halls of Reflection",
+  "d": "Uther knew a great deal about how Arthas might be defeated. It's hard to believe that there is much hope of defeating Arthas upon the steps of his own throne. And who will take up the crown of Lich King if it comes to that?$B$BMany questions remain, but the answers that you've uncovered may be critical to ensuring Arthas' defeat. You need to find Sylvanas and escape the Lich King while there's still time.",
+  "p": "",
+  "c": "Yet again, vengeance slips through my grasp. It's hard to believe how much stronger he's gotten.$B$BIt was foolish of you to come for me, but it's good to know that there are still some champions of the Horde that aren't useless cowards. The information Uther gave us may well be key to finally killing Arthas, though it is becoming more and more clear that the Horde will not be able to accomplish this on their own.$B$BGo, $c. I expect your prowess may be needed again very soon."
+ },
+ {
+  "id": 24803,
+  "t": "Kalu'ak Fishing Derby",
+  "o": "",
+  "d": "",
+  "p": "The Kalu'ak have a long tradition of honing our fishing skills by putting them to the the test every week.$B$BThe first person to catch and bring a blacktip shark to me will be rewarded handsomely, and be known as the greatest fisherman of the north... for a couple days at least.$B$BThe blacktip shark's favorite food is the pygmy suckerfish. Try fishing for the blacktip wherever you would normally catch the suckerfish.",
+  "c": "Don't just stand there! Give me the shark and I'll declare you the winner!"
+ },
+ {
+  "id": 24804,
+  "t": "Uncommon Scents",
+  "o": "Report to Inspector Snip Snagglebolt in Stormwind.",
+  "d": "Something's not right about this Crown Chemical Company. Steamwheedle's got eyes on 'em, and we could use a few more.$b$bHead to Stormwind if you're interested in helping us out. Inspector Snip Snagglebolt is heading up the investigation there, and he can use all the help he can get.",
+  "p": "",
+  "c": "Hey. You got some time on your hands? I could use someone like you."
+ },
+ {
+  "id": 24805,
+  "t": "Uncommon Scents",
+  "o": "Report to Detective Snap Snagglebolt in Orgrimmar.",
+  "d": "Something's not right about this Crown Chemical Company. Steamwheedle's got eyes on 'em, and we could use a few more.$b$bHead to Orgrimmar if you're interested in helping us out. Detective Snap Snagglebolt is heading up the investigation there, and he can use all the help he can get.",
+  "p": "",
+  "c": "Hey. You got some time on your hands? I could use someone like you."
+ },
+ {
+  "id": 24806,
+  "t": "Better Luck Next Time",
+  "o": "",
+  "d": "",
+  "p": "I'm afraid we've already had a winner for today, young $N. However, if you bring a shark, I'll see that it's released back into the waters, and I might just have a little something for you...",
+  "c": "Well, it's nice that you tried $R. I don't want you to think your efforts were wasted, so I've got something for you."
+ },
+ {
+  "id": 24815,
+  "t": "Choose Your Path",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "To atone for the sins I committed as one of the Lich King's Death Knights, I've dedicated myself to creating rings of great power for our brothers and sisters to use in the struggle.$B$BYou've proven yourself as a valuable ally in the fight against the Scourge, $N.  As your dedication continues I can improve on the ring's original design.$B$BChoose your path carefully.  A change of heart will come at a price."
+ },
+ {
+  "id": 24819,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $N?",
+  "c": "May you find what you're looking for, $g brother:sister;."
+ },
+ {
+  "id": 24820,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "May you find what you're looking for, $g brother:sister;."
+ },
+ {
+  "id": 24821,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "May you find what you're looking for, $g brother:sister;."
+ },
+ {
+  "id": 24822,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "May you find what you're looking for, $g brother:sister;."
+ },
+ {
+  "id": 24823,
+  "t": "Path of Destruction",
+  "o": "",
+  "d": "",
+  "p": "You seek to continue down the path of destruction?",
+  "c": "You continue to prove yourself, $N.  Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24825,
+  "t": "Path of Wisdom",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24826,
+  "t": "Path of Vengeance",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24827,
+  "t": "Path of Courage",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24828,
+  "t": "Path of Destruction",
+  "o": "",
+  "d": "",
+  "p": "You seek to continue down the path of destruction?",
+  "c": "You continue to prove yourself, $N.  Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24829,
+  "t": "Path of Destruction",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are a true champion of our cause, $N. None can claim to be more dedicated to the struggle than you.$B$BThe enemy speaks of your name only in whispers, for they know you're a force to be reckoned with.$B$BAccept this humble gift as a reward for your many triumphs."
+ },
+ {
+  "id": 24830,
+  "t": "Path of Wisdom",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24831,
+  "t": "Path of Wisdom",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are a true champion of our cause, $N. None can claim to be more dedicated to the struggle than you.$B$BYou are a bastion of wisdom and our allies speak of you with the greatest reverence. Many of them owe you their own lives.$B$BAccept this humble gift as a reward for your many triumphs."
+ },
+ {
+  "id": 24832,
+  "t": "Path of Vengeance",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24833,
+  "t": "Path of Vengeance",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are a true champion of our cause, $N. None can claim to be more dedicated to the struggle than you.$B$BIt is rumored that the minions of the Scourge fear you more than they do the Lich King himself. You are vengeance incarnate.$B$BAccept this humble gift as a reward for your many triumphs."
+ },
+ {
+  "id": 24834,
+  "t": "Path of Courage",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 24835,
+  "t": "Path of Courage",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are a true champion of our cause, $N. None can claim to be more dedicated to the struggle than you.$B$BYou are a source of inspiration to our allies and your unshakeable valor gives pause to even the most seasoned of our enemy's generals.$B$BAccept this humble gift as a reward for your many triumphs."
+ },
+ {
+  "id": 24836,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $N?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24837,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24838,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24839,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24840,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $N?",
+  "c": "May you find what you're looking for, $g brother:sister;."
+ },
+ {
+  "id": 24841,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24842,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24843,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24844,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24845,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24846,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24847,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 24848,
+  "t": "Fireworks At The Gilded Rose",
+  "o": "Speak to Marion Sutton at the Gilded Rose in Stormwind's Trade District.",
+  "d": "Kid, this is about more than just perfume. There were some rockets in that crate, and they had some kind of chemical payload inside. I can't analyze it here, but I'll spare ya the trip to the lab.$B$BNah, you gotta find the guy who made these. I know the maker's mark. Snivel Rustrocket.$B$BI got a tip from a reliable source that Snivel's here in Stormwind, livin' it up at the Gilded Rose. What's more, he had some dame on his arm. Marion Sutton was the name. Go to the Gilded Rose and see what she knows.",
+  "p": "",
+  "c": "You... You're not Snivel. Did he send you? He's so late, I had started to give up hope...$B$B<Tears start welling up in the woman's eyes once she realizes that you aren't there to deliver a message from Snivel.>$B$BThat's not like my Snivel, but what choice is there?"
+ },
+ {
+  "id": 24849,
+  "t": "Hot On The Trail",
+  "o": "Look for Snivel Rustrocket in the Stormwind Counting House, the Auction House, and the Barbershop in Stormwind City.",
+  "d": "I'd better start from the beginning. It was love at first sight, $N. There was just something about that goblin from the moment I set eyes on him.$B$BAfter a wonderful week together, Snivel said he had come into a lot of money and that he was going to take me on a long vacation to the South Seas! Can you believe it?$B$BAnyway, he told me to pack while he ran some errands to the bank, the auction house, and the barber shop, but he never came back! I'm beginning to think he's nothing but a big liar!",
+  "p": "Who are you?",
+  "c": "All he talked about was leaving town with all his money? Then he really has abandoned me, hasn't he?$B$BOh, $N. I was such a fool to fall for him, but how could I help myself? He was so irresistible!"
+ },
+ {
+  "id": 24850,
+  "t": "Snivel's Sweetheart",
+  "o": "Speak to Roka at the Gotri's Travelling Goods in Orgrimmar's Drag district.",
+  "d": "Kid, this is about more than just perfume. There were some rockets in that crate, and they had some kind of chemical payload inside. I can't analyze it here, but I'll spare ya the trip to the lab.$B$BNah, you gotta find the guy who made these. I know the maker's mark. Snivel Rustrocket.$B$BI hear Snivel's livin' it up here in Orgrimmar. What's more, he's got himself a girlfriend -- some orc dame named Roka. She's supposed to meet him at Gotri's Travelling Goods in the Drag before they make their escape.",
+  "p": "",
+  "c": "You're not Snivel. He was supposed to be here an hour ago! What have you done with him?$B$B<Roka seems to calm down when you tell her that you're looking for Snivel, too. Then the tears start to well up in her eyes.>$B$BThis isn't like my Snivel. Do you think something's happened to him?"
+ },
+ {
+  "id": 24851,
+  "t": "Hot On The Trail",
+  "o": "Look for Snivel Rustrocket in the Orgrimmar Bank, the Auction House, and the Barbershop in Orgrimmar.",
+  "d": "I'd better start from the beginning. It was love at first sight, $N. There was just something about that goblin from the moment I set eyes on him.$B$BAfter a wonderful week together, Snivel said he had come into a lot of money and that he was going to take me on a long vacation to the South Seas! Can you believe it?$B$BAnyway, he told me to pack while he ran some errands to the bank, the auction house, and the barber shop, but he never came back! I'm beginning to think he's nothing but a big liar!",
+  "p": "Who are you?",
+  "c": "All he talked about was leaving town with all his money? Then he really has abandoned me, hasn't he?$B$BI can't believe I fell for such a horrible goblin! But he was so irresistible when we first met."
+ },
+ {
+  "id": 24857,
+  "t": "Attack on Camp Narache",
+  "o": "Bring the Bristleback Attack Plans to Chief Hawkwind in Camp Narache.",
+  "d": "After carefully evaluating the map, you realize that what you discovered are the plans made by the Bristleback warchief for an extended siege on Camp Narache.$b$bSurely Chief Hawkwind could use this information!",
+  "p": "You have a look of concern about you,$N. What news do you bring?",
+  "c": "This is quite alarming indeed! But with this information we can call on our brethren from Bloodhoof Village to help thwart the attack. You have saved the lives of many tauren, $N."
+ },
+ {
+  "id": 24869,
+  "t": "Deprogramming",
+  "o": "Defeat Lady Deathwhisper while ensuring that Darnavan survives.",
+  "d": "We had hoped to place a man on the inside of the Cult of the Damned, to give us an inside angle on the Lich King's machinations, but we... underestimated the persuasive powers of Arthas and his dark minister, Lady Deathwhisper.$B$BOur man, Darnavan, is one of them now.$B$BIf you plan on fighting your way through the Oratory ahead, please keep your eyes peeled for Darnavan. If you can bring him back to us alive, we can attempt to reverse the Cult's brainwashing.",
+  "p": "",
+  "c": "Thank you, $N!$B$BI owe you a debt of gratitude for rescuing a friend whom I had thought forever lost to the clutches of the Cult. And the Argent Crusade owes you a debt for the invaluable intelligence Darnavan brings with him from his time walking the halls of this Citadel as one of the Cult.$B$BPlease, take this as a token of this appreciation, and may the Light bolster you as you carve a path through this terrible place."
+ },
+ {
+  "id": 24870,
+  "t": "Securing the Ramparts",
+  "o": "Slay the Rotting Frost Giant.",
+  "d": "As if this place weren't enough of a madhouse to begin with, we're fighting a war on two fronts up here, with the Scourge on one side and those blasted Alliance dogs on our other flank!$B$BWe are here to clear a safe landing for our vessels, but a behemoth of a giant on the other side of the Ramparts is hurling debris at anything that comes close and keeping our smaller ships at bay.$B$BI'll be honest -- he's a bit much for us to handle, but you and your companions look up to the task.",
+  "p": "",
+  "c": "The giant is dead? For the Horde!$B$BThe way onward and upward is clear. Take some of these spoils of the battle as a token of our gratitude, and we will drink together in celebration once the Frozen Throne has been ground to dust!"
+ },
+ {
+  "id": 24871,
+  "t": "Securing the Ramparts",
+  "o": "Slay the Rotting Frost Giant.",
+  "d": "As if this place weren't enough of a madhouse to begin with, we're fighting a war on two fronts up here, with the Scourge on one side and those blasted Horde dogs on our other flank!$B$BWe are here to clear a safe landing for our vessels, but a behemoth of a giant on the other side of the Ramparts is hurling debris at anything that comes close and keeping our smaller ships at bay.$B$BI'll be honest -- he's a bit much for us to handle, but you and your companions look up to the task.",
+  "p": "",
+  "c": "The giant is dead? Praise the Light!$B$BThe way onward and upward is clear. Take some of these spoils of the battle as a token of our gratitude, and we will drink together in celebration once the Frozen Throne has been ground to dust!"
+ },
+ {
+  "id": 24872,
+  "t": "Respite for a Tormented Soul",
+  "o": "Use the Life Crystals to preserve Sindragosa's Essence.",
+  "d": "Take this Life Crystal, and have your companions take one as well. It contains potent energies from the verdant Dragonshrine in Dragonblight, and it was my own secret to resisting the dark magics of this place for so long.$B$BWhen you face Sindragosa, battle her until she is weakened, and then have your companions use these Crystals to coax out the essence that is dormant within her. If you then defeat her, you should be able to recover it and return it to Wyrmrest Temple in Dragonblight.",
+  "p": "What do you hold there in your hands, mortal?",
+  "c": "<Kalecgos sighs>$B$BSo much suffering, so much needless destruction. These have not been kind times for my brothers and sisters. But thanks to your efforts, brave adventurers, this darkened yet still noble soul may find peace at last.$B$BRest now, Sindragosa. You are home...."
+ },
+ {
+  "id": 24873,
+  "t": "Residue Rendezvous",
+  "o": "Return to Alchemist Adrianna while infected with Orange and Green Blight.",
+  "d": "Professor Putricide has been holed up in his foul laboratory, experimenting and refining increasingly lethal strains of blight to be used against us. If only we could obtain pure samples of the toxins, our researchers could concoct an antidote that would save countless lives.$B$BBut there's a catch -- a proper sample will need to mix two active strains within a living host. Should you have the... misfortune... of becoming such a host, please return here immediately so that we can harvest you for study.",
+  "p": "",
+  "c": "At last, we have live specimens to study! You have helped to save countless lives this day, $N.$B$BPlease, take this as a token of thanks for this great deed."
+ },
+ {
+  "id": 24874,
+  "t": "Blood Quickening",
+  "o": "Rescue Infiltrator Minchar before he is executed.",
+  "d": "These Scourge bloodsuckers -- San'layn they call themselves - give me the creeps. We've had one of our best men keeping an eye on them. But this morning he got sloppy and got himself taken prisoner. He's being interrogated by the Queen herself right now, and his cries echo through the Crimson Halls. Please, save him before it's too late!",
+  "p": "",
+  "c": "Whew, I thought I was a goner! I heard talk of a resurrection ritual going on in these Halls and went in for a closer look, but one of those blasted vampires sniffed me out. They strung me up here, draining my life energy and hoping I'd break and divulge our plans of attack. As if I even know what Tirion has planned!$b$bPlease, take these spoils of war as a small token of gratitude for saving my life."
+ },
+ {
+  "id": 24875,
+  "t": "Deprogramming",
+  "o": "Defeat Lady Deathwhisper while ensuring that Darnavan survives.",
+  "d": "We had hoped to place a man on the inside of the Cult of the Damned, to give us an inside angle on the Lich King's machinations, but we... underestimated the persuasive powers of Arthas and his dark minister, Lady Deathwhisper.$B$BOur man, Darnavan, is one of them now.$B$BIf you plan on fighting your way through the Oratory ahead, please keep your eyes peeled for Darnavan. If you can bring him back to us alive, we can attempt to reverse the Cult's brainwashing.",
+  "p": "",
+  "c": "Thank you, $N!$B$BI owe you a debt of gratitude for rescuing a friend whom I had thought forever lost to the clutches of the Cult. And the Argent Crusade owes you a debt for the invaluable intelligence Darnavan brings with him from his time walking the halls of this Citadel as one of the Cult.$B$BPlease, take this as a token of this appreciation, and may the Light bolster you as you carve a path through this terrible place."
+ },
+ {
+  "id": 24876,
+  "t": "Securing the Ramparts",
+  "o": "Slay the Rotting Frost Giant.",
+  "d": "As if this place weren't enough of a madhouse to begin with, we're fighting a war on two fronts up here, with the Scourge on one side and those blasted Horde dogs on our other flank!$B$BWe are here to clear a safe landing for our vessels, but a behemoth of a giant on the other side of the Ramparts is hurling debris at anything that comes close and keeping our smaller ships at bay.$B$BI'll be honest -- he's a bit much for us to handle, but you and your companions look up to the task.",
+  "p": "",
+  "c": "The giant is dead? Praise the Light!$B$BThe way onward and upward is clear. Take some of these spoils of the battle as a token of our gratitude, and we will drink together in celebration once the Frozen Throne has been ground to dust!"
+ },
+ {
+  "id": 24877,
+  "t": "Securing the Ramparts",
+  "o": "Slay the Rotting Frost Giant.",
+  "d": "As if this place weren't enough of a madhouse to begin with, we're fighting a war on two fronts up here, with the Scourge on one side and those blasted Alliance dogs on our other flank!$B$BWe are here to clear a safe landing for our vessels, but a behemoth of a giant on the other side of the Ramparts is hurling debris at anything that comes close and keeping our smaller ships at bay.$B$BI'll be honest -- he's a bit much for us to handle, but you and your companions look up to the task.",
+  "p": "",
+  "c": "The giant is dead? For the Horde!$B$BThe way onward and upward is clear. Take some of these spoils of the battle as a token of our gratitude, and we will drink together in celebration once the Frozen Throne has been ground to dust!"
+ },
+ {
+  "id": 24878,
+  "t": "Residue Rendezvous",
+  "o": "Return to Alchemist Adrianna while infected with Orange and Green Blight.",
+  "d": "Professor Putricide has been holed up in his foul laboratory, experimenting and refining increasingly lethal strains of blight to be used against us. If only we could obtain pure samples of the toxins, our researchers could concoct an antidote that would save countless lives.$B$BIf you happen to come across live specimens, please return here immediately so that we can harvest them for study.",
+  "p": "",
+  "c": "At last, we have live specimens to study! You have helped to save countless lives this day, $N.$B$BPlease, take this as a token of thanks for this great deed."
+ },
+ {
+  "id": 24879,
+  "t": "Blood Quickening",
+  "o": "Rescue Infiltrator Minchar before he is executed.",
+  "d": "These Scourge bloodsuckers -- San'layn they call themselves -- give me the creeps. We've had one of our best men keeping an eye on them. But this morning he got sloppy and got himself taken prisoner. He's being interrogated by the Queen herself right now, and his cries echo through the Crimson Halls. Please, save him before it's too late!",
+  "p": "",
+  "c": "Whew, I thought I was a goner! I heard talk of a resurrection ritual going on in these Halls and went in for a closer look, but one of those blasted vampires sniffed me out. They strung me up here, draining my life energy and hoping I'd break and divulge our plans of attack. As if I even know what Tirion has planned!$b$bPlease, take these spoils of war as a small token of gratitude for saving my life."
+ },
+ {
+  "id": 24880,
+  "t": "Respite for a Tormented Soul",
+  "o": "Use the Life Crystals to preserve Sindragosa's Essence.",
+  "d": "Take this Life Crystal, and have your companions take one as well. It contains potent energies from the verdant Dragonshrine in Dragonblight, and it was my own secret to resisting the dark magics of this place for so long.$B$BWhen you face Sindragosa, battle her until she is weakened, and then have your companions use these Crystals to coax out the essence that is dormant within her. If you then defeat her, you should be able to recover it and return it to Wyrmrest Temple in Dragonblight.",
+  "p": "What do you hold there in your hands, mortal?",
+  "c": "<Kalecgos sighs>$B$BSo much suffering, so much needless destruction. These have not been kind times for my brothers and sisters. But thanks to your efforts, brave adventurers, this darkened yet still noble soul may find peace at last.$B$BRest now, Sindragosa. You are home...."
+ },
+ {
+  "id": 24912,
+  "t": "Empowerment",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Stand Clear, $c, and steady yourself."
+ },
+ {
+  "id": 24914,
+  "t": "Personal Property",
+  "o": "Bring the Sealed Chest to Highlord Darion Mograine in Icecrown Citadel.",
+  "d": "You can detect no hinges or openings on this box. Were it not for the shifting of items inside,it could easily be mistaken for solid metal.$b$bIf anyone could know the method of its opening,it would be Highlord Mograine.",
+  "p": "",
+  "c": "<After tracing a complex pattern of runes on each of the box's surfaces, the outline of a lid appears and a click echoes through the chamber.>$B$BHere you are, $R."
+ },
+ {
+  "id": 24915,
+  "t": "Mograine's Reunion",
+  "o": "",
+  "d": "",
+  "p": "What is that you hold, $c?$B$BIt calls out to me, stirring feelings I thought to be long dead.",
+  "c": "Impossible...$B$BFather, is it you?!$B$BYou have done me a great service, hero. I offer you the reins of my faithful steed. Do with it as you please, but do not forget those that assisted you in this monumental feat."
+ },
+ {
+  "id": 24916,
+  "t": "Jaina's Locket",
+  "o": "",
+  "d": "",
+  "p": "Yes, $c? How can I assist you?",
+  "c": "What... how did you manage to come by this!?$B$BYou have done me a great service, hero. My heart could not bear to keep this locket, but I will place an enchantment upon it that you may find useful. Do with it as you please, but do not forget those that assisted you in this monumental feat."
+ },
+ {
+  "id": 24917,
+  "t": "Muradin's Lament",
+  "o": "",
+  "d": "",
+  "p": "Whatdya got there, $r?",
+  "c": "Aye. I know this blade... and I will treasure it always - a moment of time that will be lost forever.$B$BYou have done me a great service, hero. I offer you a gift from the Frostborn dwarves. Do with it as you please, but do not forget those that assisted you in this monumental feat."
+ },
+ {
+  "id": 24918,
+  "t": "Sylvanas' Vengeance",
+  "o": "",
+  "d": "",
+  "p": "What is it, $r?",
+  "c": "<Sylvanas silently reflects for a moment before returning her gaze to you.>$B$BYou have done me a great service, hero. I offer you the boon of the Banshee Queen. Do with it as you please, but do not forget those that assisted you in this monumental feat."
+ },
+ {
+  "id": 24919,
+  "t": "The Lightbringer's Redemption",
+  "o": "",
+  "d": "",
+  "p": "How may I be of service, $r?",
+  "c": "<Uther stares at the medal, speechless for a moment.>$B$BArthas' medal.$B$BI remember well the day I presented it to him...$B$BYou have done me a great service, hero. My soul may now rest in peace. I offer you a memory lost in time. Do with it as you please, but do not forget those that assisted you in this monumental feat."
+ },
+ {
+  "id": 25055,
+  "t": "Elemental Research",
+  "o": "[ph] log description",
+  "d": "[ph] I'll give you a sack of shaman stuff.  Use the elemental sapta to enter the spirit and use the totem on the Agitated Earth Elementals.",
+  "p": "Have you subdued the elements yet?",
+  "c": "Well done $N. But for every element that is subdued another one takes it's place. The solution we have here is merely a stopgap. Hopefully my brethren in the Earthen Ring are making more headway."
+ },
+ {
+  "id": 25092,
+  "t": "Elemental Research",
+  "o": "[ph] log description",
+  "d": "[ph] I'll give you a sack of shaman stuff.  Use the elemental sapta to enter the spirit and use the totem on the Agitated Fire Elementals.",
+  "p": "Have you subdued the elements yet?",
+  "c": "Well done $N. But for every element that is subdued another one takes it's place. The solution we have here is merely a stopgap. Hopefully my brethren in the Earthen Ring are making more headway."
+ },
+ {
+  "id": 25180,
+  "t": "Tablets of the Earth",
+  "o": "Bring the Tablets of Earth to King Magni Bronzebeard in Ironforge.",
+  "d": "Some time ago,my brother Brann sent an urgent message from Ulduar. He said he'd found an ancient titan cache with mysterious and important relics. King Wrynn dispatched one of his fastest ships to Northrend to transport the courier and the boat should've arrived by now.$B$BI'm worried,$N. I haven't heard anything about the courier's arrival. Would you be willing to travel to Stormwind Harbor and see if he's arrived?",
+  "p": "Did you meet up with the courier?",
+  "c": "Why would Twilight's Hammer take an interest in these tablets? Brann himself wrote that he hardly knows their significance, although he did mention something about becoming one with the earth. I will need to confer with my fellow Explorer's League scholars to decipher these as soon as possible.$B$BThank you, $N. Without your aid, these tablets would've fallen into enemy hands."
+ },
+ {
+  "id": 25181,
+  "t": "Tablets of Fire",
+  "o": "Bring the Tablets of Fire to Seer Bahura in Orgrimmar.",
+  "d": "I'm expecting the arrival of a courier traveling from Northrend. He's carrying a collection of ancient titan treasures,ones I'm hoping will shed light on my troubling visions. The shaman should've arrived on one of the recent zeppelin flights and I'm starting to get worried.$B$BHe was to meet me by the zeppelin tower southwest of Orgrimmar's gates,but I don't want to miss my audience with the warchief. Would you be willing to look for the courier and see what's delaying him?",
+  "p": "Did you meet up with the courier?",
+  "c": "Why would Twilight's Hammer take an interest in these tablets? Their contents are a mystery to our most learned scholars and deciphering them will take some time. If Twilight's Hammer knows about these relics and desires them, what more are they plotting?$B$BWe are most fortunate that you protected them from capture, $N."
+ },
+ {
+  "id": 25199,
+  "t": "Basic Orders",
+  "o": "Follow Drill Sergeant Steamcrank's cues and then report back to Captain Tread Sparknozzle.",
+  "d": "Hey! You look like you could give us a hand!$B$BIf you're willing to help our cause,we have to get you through training.  Gnome training is brutal and rigorous,so I hope you're ready.$B$BHead over to Drill Sergeant Steamcrank and he'll walk you through what you need to know.  Make sure you follow his orders when he gives them,or else you'll never make it$B$BI'm warning you though,it's tough over there.  Come back to see me,if you make it.",
+  "p": "",
+  "c": "You made it through in one piece? You have more gears then I thought, $N!"
+ },
+ {
+  "id": 25212,
+  "t": "Vent Horizon",
+  "o": "Use Pilot Muzzlesprock's flying machine to toss Radiageigatrons at the vents surrounding Gnomeregan.",
+  "d": "We thought that we could wait for the radiation to subside around Gnomeregan,but it doesn't appear to be getting better.$B$BIf we want to take back our city,we need to make sure it's safe for our troops to enter.$B$BTake these Radiageigatrons,hop in 'Thunderflash' here, and toss them at the ventilation shafts outside of Gnomeregan. They'll report the radiation levels directly to me.",
+  "p": "",
+  "c": "Fantastic work!$B$BThe data I received shows the radiation levels are fully within safety range of our suits. That is excellent news!"
+ },
+ {
+  "id": 25228,
+  "t": "Prophecies Of Doom",
+  "o": "Listen to a speech given by a Doomsayer in the Drag and obtain copies of the pamphlets \"Elemental Fire for the Soul\",\"What Does 'The End of All Things' Mean for Me?\",and \"Finding Security and Comfort in a Doomed World\".",
+  "d": "Harbingers of doom are nothing new on the streets of Orgrimmar,but I'm worried about this latest batch. These people are organized and they've attracted a lot of attention in the Drag,where they seem to congregate.$B$BI've thought about rounding them up or otherwise disrupting their activities,but that will just drive them underground. We need to find out more about them. Would you go to the Drag,listen to what these doomsayers are spreading,and gather any literature you can find about their ideas?",
+  "p": "Well, did you find out anything?",
+  "c": "<Torek reads over the scrolls you collected.>$B$BWhoever these people are, they really mean to gain a following. It looks like they're having quite a bit of success. They can't be allowed to incite the citizens of Ogrimmar to panic and hysteria. We must discourage interest in this group and learn as much about it as we can."
+ },
+ {
+  "id": 25229,
+  "t": "A Few Good Gnomes",
+  "o": "Recruit Gnome Citizens from Tinker Town using the Motivate-a-Tron and lead them to Captain Tread Sparknozzle at Steelgrill's Depot.",
+  "d": "Our engineers have been working on getting our battle machines ready for our assault on Gnomeregan,but we're out of pilots!$B$BWe've developed a device called the Motivate-a-Tron,which prevents distraction from other sources and gives the gnome the courage to enlist.$B$BAfter motivating a few Gnome Citizens,lead them out to Captain Tread Sparknozzle out at Steelgrill's Depot,just south of Ironforge.$B$BOh,and be careful. The device is still a little experimental.\r\n",
+  "p": "",
+  "c": "This is the best group of potential pilots you could find?$B$BOkay, well, I'll see what I can do. I've been known to turn even the biggest pile of gnarled gears into a smooth-runnin' fightin' machine and I expect no less with this lot.$B$BWell, I guess it's time to work!"
+ },
+ {
+  "id": 25239,
+  "t": "Path of Might",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 25240,
+  "t": "Path of Might",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You continue to prove yourself, $N. Accept this, not as a gift, but as a tool for the fight against the Scourge."
+ },
+ {
+  "id": 25242,
+  "t": "Path of Might",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "You are a true champion of our cause, $N. None can claim to be more dedicated to the struggle than you.$B$BIt is rumored that the minions of the Scourge fear you more than they do the Lich King himself. You are might incarnate.$B$BAccept this humble gift as a reward for your many triumphs."
+ },
+ {
+  "id": 25246,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 25247,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 25248,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 25249,
+  "t": "A Change of Heart",
+  "o": "",
+  "d": "",
+  "p": "You seek to change the path you walk, $n?",
+  "c": "May you find what you're looking for, $gbrother:sister;."
+ },
+ {
+  "id": 25253,
+  "t": "Prophecies Of Doom",
+  "o": "Listen to a speech given by a Doomsayer in Old Town and obtain copies of the pamphlets \"Elemental Fire for the Soul\",\"What Does 'The End of All Things' Mean for Me?\",and \"Finding Security and Comfort in a Doomed World\".",
+  "d": "Harbingers of doom are nothing new on the streets of Stormwind,but I'm worried about the most recent ones. They've set up shop all over Old Town and they seem well coordinated.$B$BI've thought about rounding them up or otherwise disrupting their activities,but that will just drive them underground. We need to find out as much as we can about them. Would you go to Old Town,hear what idea these doomsayers are spreading,and see if you can collect any of their leaflets?",
+  "p": "What did you encounter in Old Town?",
+  "c": "<Anton reads over the scrolls you collected.>$B$BWhoever put these leaflets together knows how to get attention and from the state of things in Old Town, there's no lack of interest. We must act before they can build a significant following in the city. I fear they'll use their influence to spread panic throughout the city, paralyzing us.$B$BWe've got to get inside the organization and learn as much as possible."
+ },
+ {
+  "id": 25254,
+  "t": "Signs Of The Times",
+  "o": "Setup 5 Warning Posters around the Valley of Strength,the Drag,or the Valley of Honor.",
+  "d": "We've got to do something to reduce interest in this doomsday cult,but I'm hesitant to take much action until we know more about who is behind this group.$B$BI've had my men place markers around heavily traveled areas in Orgrimmar. Take these posters and set them up where you see the markers. They won't discourage the most determined of seekers,but it's a first step in exposing this cult. The Horde has enough to deal with as it is,without people wilfully spreading lies too.",
+  "p": "",
+  "c": "Well done, $N. Now we must focus our efforts on discovering more about this cult and freeing the people they've conned into joining."
+ },
+ {
+  "id": 25282,
+  "t": "Signs Of The Times",
+  "o": "Setup 5 Warning Posters in the Trade District,Mage District,or Cathedral District of Stormwind.",
+  "d": "We've got to do something to reduce interest in this doomsday cult,but I'm hesitant to take much action until we know more about who is behind this group.$B$BI've had my men place markers around heavily traveled areas of the city. Take these posters and set them up where you see the markers. They won't discourage the most determined of seekers,but it's a first step in exposing this cult. The already king has enough enemies without his own people turning against him.",
+  "p": "",
+  "c": "Well done, $N. Now we must focus our efforts on discovering more about this cult and freeing the people they've conned into joining."
+ },
+ {
+  "id": 25283,
+  "t": "Prepping the Speech",
+  "o": "Use the Gnomish Playback Device in front of Ozzie Togglevolt north of Kharanos,Milli Featherwhistle at Steelgrill Depot and Tog Rustsprocket outside the Kharanos Inn.  Return to Toby Ziegear when all the speeches have been given.",
+  "d": "High Tinker Mekkatorque asked me to write a speech that he could give before the battle starts, but I just can't tell which draft is good and which ones just stink.$b$bCould you try some of them out on the local gnome residents? This device creates an image of Mekkatorque saying a few lines from each of my speech drafts.$b$bLet me know which one works, okay?",
+  "p": "Let me know which one works, okay?",
+  "c": "Oh my. Their reactions were that different?$b$bNot completely what I was expecting, but I think I have a speech that will do.$b$bJust let me find where I put it..."
+ },
+ {
+  "id": 25285,
+  "t": "In and Out",
+  "o": "Test out the ejection system in the Ejector Mechano-Tank.",
+  "d": "We've gotta get these new mechano-tanks ready for the assault.  You ready to help test these bad boys out?!  Of course you are!$b$bFirst,we need to make sure that once you're in,you can get out.  In battle,if you think your tank is going to explode,get out!  I've seen many a gnome stay in 'til the bitter end... the tank blows up,and them along with it.$B$BWell,I've upgraded this tank with an ejection seat.  Try it out for me,will ya?",
+  "p": "",
+  "c": "Hey, look at that! You weren't blown to bits!"
+ },
+ {
+  "id": 25286,
+  "t": "Words for Delivery",
+  "o": "Give the speech to Captain Tread Sparknozzle at Steelgrill Depot.",
+  "d": "Here we go. This is the speech, $N!$b$bIt has everything to be a great battle starter: It's inspirational, has eloquent language and speaks directly to gnomes. Never has a finer speech been written!$b$bTurn this in to Captain Tread Sparknozzle and get some transportation to High Tinker Mekkatorque!",
+  "p": "",
+  "c": "Toby is all done with the speech? Let me see...$b<Reads the speech> Pumping pistons! What a fantastic speech! I knew Toby was a good writer, but this is perhaps the best he's ever written.$bI think it's time to get you out to the battle."
+ },
+ {
+  "id": 25287,
+  "t": "Words for Delivery",
+  "o": "Ride 'Thunderflash' from Steelgrill Depot to High Tinker Mekkatorque and deliver Toby's speech.",
+  "d": "All right,soldier. Time to prove your worth!$B$BTake the speech and board the flying machine \"Thunderflash\".  It's the fastest ship to High Tinker Mekkatorque and this speech is the only thing he's waiting on before starting Operation: Gnomeregan.$B$BGo! Now!",
+  "p": "",
+  "c": "This is the final draft, then? Let me have a look..."
+ },
+ {
+  "id": 25288,
+  "t": "Infiltrating The Cult",
+  "o": "Speak to a Doomsayer Orgrimmar's Drag to join the cult,then put on your Recruit's Robe.",
+  "d": "The streets of Orgrimmar are wild with rumors about the cult's origins and practices. There's only one way to know the truth about this group,$N. You're going to join them.$B$BApproach one of the Doomsayers in the Drag and tell them you wish to join their group. With any luck,they will give you instructions to introduce yourself to one of the group's leaders and tell you where the group is hiding. Don any clothing given to you by the doomsayer; you'll need it to gain entry to the group's hideout.",
+  "p": "",
+  "c": "Welcome, friend. We are honored that you have decided to embrace the truth and join us. Come, there will be more time to talk later and you have much to learn."
+ },
+ {
+  "id": 25289,
+  "t": "One Step Forward...",
+  "o": "Test the the Scuttling Mechano-Tank's maneuverability.",
+  "d": "With the ejection system working,I think we're ready to test out movement.  This tank has an extra special feature: Automatic Evasive Maneuvers!$b$bI want you to check out the servos on the left leg,the right leg and the Automatic Evasive Maneuver system.$b$bThis is easy stuff,so it shouldn't take too long.",
+  "p": "",
+  "c": "Hmm... so the left leg servo was activating the right leg? But I saw the left leg moving...$B$BEh, details. I'll get to that later, but two out of three things worked: That isn't half bad!$B$BThanks for checking this out for me, $N."
+ },
+ {
+  "id": 25290,
+  "t": "Infiltrating the Cult",
+  "o": "Speak to Doomsayer Stormwind's Old Town to join the doomsday cult,then equip the Doomsday Recruit's Robe you receive.",
+  "d": "It's getting difficult to keep the cultists out of the public eye and rumors are spreading across the city. I want you to join the cult and learn as much as you can.$B$BApproach one of the doomsayers in Old Town and tell them you wish to join their group. The doomsayer will likely give you clothing and instructions to meet with other cultists in one of the group's hideouts. Follow those instructions,$N. It's the only way to gain their confidence.",
+  "p": "",
+  "c": "Welcome, friend. We are honored that you have decided to embrace the truth and join us. Come, there will be more time to talk later and you have much to learn."
+ },
+ {
+  "id": 25293,
+  "t": "The Missing",
+  "o": "While wearing your Cult Disguise,speak to Cultist Kagarn,Cultish Agtar,Cultist Tokka,and Cultist Rokaga at the Jaggedswine Farm in Durotar.",
+  "d": "Aside from the disturbances and the paranoia spread by the cult,we've been inundated with reports of missing people. Mothers,fathers,brothers,and sisters have seemingly disappeared,but I have a feeling that they can be found in one of the cult's compounds outside the city. If I give you the names of some of the missing people,would you try to locate them in the cultist camp at the Jaggedswine Farm south of Orgrimmar? To blend in,you'll need to get a robe from one of the doomsayers in the Drag.",
+  "p": "",
+  "c": "So you found them? Why did the missing men and women not return with you?$B$B<You tell the blood guard about the responses you received.>$B$BWe cannot compel them to change their minds and return to their families. I will let the families know that the relatives have been found and that they are safe. After this cult is broken up, they will likely return to their normal lives."
+ },
+ {
+  "id": 25295,
+  "t": "Press Fire",
+  "o": "Test out the Shooting Mechano-Tank weapon systems on the nearby targets.",
+  "d": "Safety systems,online!  Motor functions,functioning!  Now all we need is to make sure that the guns will fire.$b$bThis shouldn't be too hard,$n.  The mechano-tank on the hill behind us has been loaded with harmless pellets. Just fire off a couple rounds at the nearby targets and report back to me.",
+  "p": "",
+  "c": "Hmm... so the bullets had quite a bit of spread?$B$BTo some people that may be a problem... me, though, I see it as a blessing in disguise!$B$BOur enemies will be running all over the place, so with a bit of a spread, the tank drivers won't need to lead the target!"
+ },
+ {
+  "id": 25306,
+  "t": "You're In The Army Gnow!",
+  "o": "[ph] Log Description",
+  "d": "[ph] War!",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 25343,
+  "t": "The Master's Plan",
+  "o": "Learn more about the cult's plans at the altar in the eastern part of the Jaggedswine Farm.",
+  "d": "You're fitting in well here,$N,but there is more to us than daily chores and spreading the message. I'm sure you heard a little bit about it when you first joined.$B$BAs you know,this world is ending and the unprepared will die painful deaths.$B$BWe have been given a gift,an opportunity to become something greater and more powerful. Overseer Golbaz is will be preparing a ritual before the altar at the eastern end of the farm. Wait there for him,and learn more of your new brothers and sisters.",
+  "p": "",
+  "c": "Now that you understand the master's plan, you must prepare yourself to play your part."
+ },
+ {
+  "id": 25347,
+  "t": "The Doomsday Plan",
+  "o": "Take the Elemental Devices to Blood Guard Torek in Orgrimmar's Valley of Strength.",
+  "d": "The first batch of elemental devices are ready. Your task will be to conceal them inside the city of Orgrimmar. The devices will unleash their fire elementals at the proper time. Don't worry,$N,you'll be safely away before that happens.$B$BDo not do anything that would draw attention to yourself.$B$B<The overseer hands you a package containing several of the elemental devices. This is just the kind of proof that Blood Guard Torek was hoping you'd uncover. You should probably bring the devices to him.>",
+  "p": "You've returned at last. I was beginning to think that you'd taken up with the cultists for good.",
+  "c": "<You hand Blood Guard Torek the devices that the overseer gave you, explaining the cult's plans. Torek's eyes go wide.>$B$BCho'Gall is in charge of the cult? There can be no question then, this is the work of the Twilight's Hammer! You won't be the only one they've sent into the city to deploy these devices."
+ },
+ {
+  "id": 25348,
+  "t": "Thwarting Twilight's Hammer",
+  "o": "Break Elemental Devices to release their elementals. You must defeat 5 Raging Fire Elementals.",
+  "d": "You can't have been the only person sent into Orgrimmar to deploy those devices containing fire elementals. We have to find and disable the rest of the devices before set their captive elementals free and burn down the city.$B$BAre you familiar enough with the devices to destroy them? You need to break them open before the fire elementals inside have had time to reach full strength. They should be easy to defeat if you open the devices early. The cultists have probably put them all over the city.",
+  "p": "",
+  "c": "Excellent work, $N. Twilight's Hammer will think twice before trying to turn our own people against us again. I'm sure I'm not the only one troubled by just how many citizens were taken in by their message. Times aren't exactly easy, but if you have no honor or loyalty, you have nothing."
+ },
+ {
+  "id": 25351,
+  "t": "Alert The Warchief",
+  "o": "Speak with Thrall at Grommash Hold in Orgrimmar's Valley of Wisdom.",
+  "d": "You have successfully defended Orgrimmar from the threat posed by this Twilight's Hammer cult,$N,and without shedding the blood of our own people. Our enemy will not rest for long. I cannot imagine that Cho'Gall will accept defeat so easily.$B$BYou must take word to Thrall. Go to the Valley of Wisdom and speak to him in Grommash Hold. Tell the warchief that our enemies have shown themselves and we must be prepared for their return.",
+  "p": "",
+  "c": "<The warchief listens as you tell of your investigation into the Twilight's Hammer plot to destroy Orgrimmar.>$B$BYou are a dutiful member of the Horde, $N. You have done well in bringing this news to me. I will personally see to it that our enemies get what they deserve!"
+ },
+ {
+  "id": 25380,
+  "t": "Spreading The Word",
+  "o": "While wearing your Doomsday Message,visit the East Zeppelin Tower,the West Zeppelin Tower,and the town square of Razor Hill.",
+  "d": "Welcome to the farm,$N. Everyone here works to earn $g his:her; keep. For some,that means caring for the animals. Others are responsible for working on our construction projects. Still others work to spread our message among the people and I think that's a good place for you to start.$B$BTake this board. It bears a short message about our beliefs. While wearing the board,visit the eastern and western zeppelin towers outside Orgrimmar's gates,as well as the town square of Razor Hill,to the south.",
+  "p": "",
+  "c": "Well done, $N. It might be awkward at first, but you will get used to advocating our beliefs in public. It is one way of remembering our obligation to bring the truth to others. We must save as many as we can."
+ },
+ {
+  "id": 25393,
+  "t": "Operation: Gnomeregan",
+  "o": "Help King Mekkatorque with the assault on Gnomeregan.",
+  "d": "Momentarily,the multi-phased assault upon Gnomeregan will begin and Mekgineer Thermaplugg and his men will be brought to justice!  Too long has Thermaplugg festered in the depths of our home,defended by a corrupt and irradiated army.$B$BThe assault begins in but a moment! Be ready recruit,this fight will not be for the faint-hearted.",
+  "p": "",
+  "c": "Curses! We had to fall back. But Thermaplugg's lost, and he knows it... he's only bought himself time. We hold the surface, and when the radiation clears we'll assault and recapture Gnomeregan with a force twice this size."
+ },
+ {
+  "id": 25414,
+  "t": "The Missing",
+  "o": "While wearing your Doomdsay Recruit's Robe,speak to Cultist Lethelyn,Cultish Kaima,Cultist Wyman,and Cultist Orlunn at Mirror Lake Orchard in Elywnn Forest.",
+  "d": "The cult isn't just spreading fear and paranoia anymore. Now,I'm receiving reports of missing people. Mothers,fathers,brothers,and sisters have seemingly disappeared,but I have a feeling they can be found in one of the cult's camps outside the city. If I give you the names of some of the missing people,would you try to locate them in the cultist camp at Mirror Lake Orchard? It's southwest of the city gates. To blend in,you'll need join the cult and get a robe from one of the doomsayers in Old Town.",
+  "p": "",
+  "c": "So you found them? Why did the missing men and women not return with you?$B$B<You tell the captain that they seemed determined to stay for various reasons.>$B$BThen we cannot force them to come home. I can only hope that in time, the cultists will realize the harm their actions have caused and decide to return to their normal lives.$B$BThank you for your efforts, $N. I will tell the families what you found."
+ },
+ {
+  "id": 25415,
+  "t": "Spreading The Word",
+  "o": "While wearing your Doomsday Message,visit the Westbrook Garrison,the Valley of Heroes in Stormwind,and the town square of Goldshire.",
+  "d": "Welcome to our orchard,$N. Everyone here works to earn $g his:her; keep. For some,that means tending the fruit trees. Others are responsible for working on our construction projects. Still others work to spread our message among the people and I think that's a good place for you to start.$B$BTake this board. It bears a short message about our beliefs. While wearing it,visit the Westbrook Garrison,southwest of here,the town square of Goldshire just to the east,and the Valley of Heroes in Stormwind.",
+  "p": "",
+  "c": "Well done, $N. It might be awkward at first, but you will grow accustomed to advocating our beliefs in public. It is one way of remembering our obligation to bring the truth to others. We must offer hope to everyone, for we all face the end of this world together."
+ },
+ {
+  "id": 25416,
+  "t": "The Master's Plan",
+  "o": "Learn more about the cult's plans at the altar in the northern part of Mirror Lake Orchard.",
+  "d": "You're fitting in well here,$N,but there is more to us than daily chores and spreading the message. I'm sure you heard a little bit about it when you first joined.$B$BAs you know,this world is ending and the unprepared will die painful deaths.$B$BWe have been given a gift,an opportunity to become something greater and more powerful. Overseer Talathor is preparing for a ritual at the altar just north of the orchard. Wait there for him,and learn more of your new brothers and sisters.",
+  "p": "",
+  "c": "Now that you understand the master's plan, you must prepare to play your part in making it a reality."
+ },
+ {
+  "id": 25417,
+  "t": "The Doomsday Plan",
+  "o": "Take the Elemental Devices to Captain Anton in Stormwind's Trade District.",
+  "d": "The first batch of elemental devices are ready. Your task will be to conceal them inside populated areas of Stormwind. The devices will unleash their elementals at the proper time. Don't worry,$N,you'll be safely away before that happens.$B$BDo not do anything that would draw attention to yourself.$B$B<The overseer hands you a package containing several of the elemental devices. This is just the kind of proof that Captain Anton was hoping you'd uncover. You should probably bring the devices to him.>",
+  "p": "You've returned at last. I was beginning to think that you'd taken up with the cultists for good.",
+  "c": "<You hand Captain Anton the devices that the overseer gave you, explaining the cult's plans.>$B$BCho'Gall is in charge of the cult? Then, it has to be Twilight's Hammer! We suspected that they would try to strike again, but no one knew what form the attack would take.$B$BYou've done an excellent job uncovering this plot. Unfortunately, you won't be the only one they've sent into the city to deploy these devices."
+ },
+ {
+  "id": 25418,
+  "t": "Thwarting Twilight's Hammer",
+  "o": "Destroy Elemental Devices to release their captive elementals. Defeat 5 Raging Wind Elementals.",
+  "d": "You can't have been the only person sent into Stormwind to deploy those devices containing wind elementals. We have to find and disable the rest of the devices before set their captive elementals free to create storms in the city.$B$BAre you familiar enough with the devices to destroy them? Our best chance is to break the devices before the elementals inside can reach full strength. Look for the devices in the Trade District,Cathedral Square and the Mage District. Hurry!",
+  "p": "",
+  "c": "Excellent work, $N. Twilight's Hammer will think twice before trying to turn our own people against us again.$B$BWhat worries me is how many citizens joined their movement without thinking about the cult's empty promises. Are times so dire that people will abandon the Light for promises of power and immortality?"
+ }
+]

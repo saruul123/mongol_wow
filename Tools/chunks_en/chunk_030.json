@@ -1,0 +1,962 @@
+[
+ {
+  "id": 8529,
+  "t": "The Alliance Needs More Spotted Yellowtail!",
+  "o": "Bring 20 spotted yellowtail to Huntress Swiftriver at the airfield in Dun Morogh.",
+  "d": "If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, $N. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",
+  "p": "If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, $N. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",
+  "c": "You are a true member of the Alliance, $N. Your efforts shall not go unnoticed, or unappreciated. And thank you for cooking up the fish as well. I will see to it that they are stored away properly, and then I'll need to update my count. Every one brings us that much closer to catching our goal."
+ },
+ {
+  "id": 8530,
+  "t": "The Alliance Needs Singed Corestones!",
+  "o": "Bring 50 singed corestones to Commander Stronghammer at the airfield in Dun Morogh.",
+  "d": "$C, I need your help. In the Molten Core there are these stones, singed Corestones to be precise, that we need to harvest for the Ahn'Qiraj war effort. I'm told that our blacksmiths and engineers can put them to good use, so that's where you come in. I need you to go into the Molten Core and gather up as many of these corestones as you can. Of course, you'll want to talk thirty-nine of your closest friends along with you.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8531,
+  "t": "The Alliance Needs More Singed Corestones!",
+  "o": "Bring 50 singed corestones to Commander Stronghammer at the airfield in Dun Morogh.",
+  "d": "Thank you for returning $N. If you and your friends still have it in you, I need you to return to the Molten Core and continue your singed corestone collection efforts. What do you say?",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8532,
+  "t": "The Horde Needs Copper Bars!",
+  "o": "Bring 20 Copper Bars to Miner Cromwell at the Valley of Spirits in Orgrimmar.",
+  "d": "So glad that you've decided to help out here. Not everyone would, so I need to make sure you understand what it is that I need. Copper bars, not copper ore. We don't have the time or people to do all of the smelting ourselves, so if you would be so kind as to take care of that, your efforts will be duly noted. Is that something that you can handle, $c?",
+  "p": "I hope that's the twenty copper bars you have there with you, $C.",
+  "c": "These bars will do, and thanks for not shining them. No sense in making them pretty when they're going to be mangled for whatever materiel needs to be built for the war. I'll take care of putting them on the stacks, and I'll make sure that they are put to proper use. Speak to me again if you're interested in bringing in another twenty."
+ },
+ {
+  "id": 8533,
+  "t": "The Horde Needs More Copper Bars!",
+  "o": "Bring 20 copper bars to Miner Cromwell in Durotar.",
+  "d": "Back so soon? You'll be a real miner in no time $c. So, you already know the drill; I need you to go out, mine up a mess of copper ore, smelt it into bars and bring it back to me here. I know that's something you're capable of, the question is, are you willing?",
+  "p": "Back so soon? You'll be a real miner in no time, $C. So, you already know the drill; I need you to go out, mine up a mess of copper ore, smelt it into bars and bring it back to me here. I know that's something you're capable of, the question is, are you willing?",
+  "c": "You've proven yourself to me yet again, $c. I will see to it that this copper is used in due time. For now though, I need to get these copper bars onto the pallet and tallied. If you still feel inclined, I could probably use your help in gathering even more copper bars."
+ },
+ {
+  "id": 8534,
+  "t": "Hive'Zora Scout Report",
+  "o": "Contact Cenarion Scout Azenel inside Hive'Zora and return the Hive'Zora Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VI in order to complete this quest.",
+  "d": "We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Azenel has been watching the silithid movements at Hive'Zora for several days now.  Find her and obtain a written report.  We need to be able to act on that information as soon as possible, $N.",
+  "p": "You'll find Scout Azenel inside Hive'Zora. Hurry, $N! Time is of the essence.",
+  "c": "Your efforts are greatly appreciated, $N. I'll read these scouting reports right away, feel free to go over your next assignment."
+ },
+ {
+  "id": 8535,
+  "t": "Hoary Templar",
+  "o": "Summon and slay a Hoary Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing IV in order to complete this quest.",
+  "d": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.$B$BFind a way to summon and destroy a Hoary Templar and report to Bor Wildmane.$B",
+  "p": "Is your task done yet, $N?",
+  "c": "Good job, $N. Here's your next assignment."
+ },
+ {
+  "id": 8536,
+  "t": "Earthen Templar",
+  "o": "Summon and slay an Earthen Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing III in order to complete this quest.",
+  "d": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.$B$BFind a way to summon and destroy an Earthen Templar and report to Bor Wildmane.",
+  "p": "Is your task done yet, $N?",
+  "c": "Good job, $N.  Here's your next assignment."
+ },
+ {
+  "id": 8537,
+  "t": "Crimson Templar",
+  "o": "Summon and slay a Crimson Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing II in order to complete this quest.",
+  "d": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.$B$BFind a way to summon and destroy a Crimson Templar and report to Bor Wildmane.",
+  "p": "Is your task done yet, $N?",
+  "c": "Good job, $N. Here's your next assignment."
+ },
+ {
+  "id": 8538,
+  "t": "The Four Dukes",
+  "o": "Find a way to summon and slay the Duke of Cynders, the Duke of Fathoms, the Duke of Zephyrs and the Duke of Shards and report back to Commander Mar'alith in Cenarion Hold.  You must also bring Tactical Task Briefing V in order to complete this quest.",
+  "d": "The links between the Twilight's Hammer and the Abyssal Council are proving to be more important than we had expected.$B$BWe believe the elemental nobles known as the Abyssal Dukes are one of the primary force organizing the Twilight's Hammer cultists.  Find a way to lure the four Abyssal Dukes into our plane of existence and destroy them!$B$BYour dedication and prowess in past assignments have led us to choose you for this particular assignment.  We are certain you will succeed in this endeavor.",
+  "p": "Is your task done yet, $N?",
+  "c": "You have achieved a great accomplishment for our cause today, $N. You've vanquished some of our most powerful enemies. For that I greatly commend you."
+ },
+ {
+  "id": 8539,
+  "t": "Target: Hive'Zora Hive Sisters",
+  "o": "Slay 30 Hive'Zora Hive Sisters and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing V in order to complete this quest.",
+  "d": "Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora hive sisters.  Report back to Commander Mar'alith after completing your task.",
+  "p": "You have something to tell me, $C?",
+  "c": "Excellent work, $N. You're a worthy ally."
+ },
+ {
+  "id": 8540,
+  "t": "Boots for the Guard",
+  "o": "Bring 3 Ornate Mithril Boots to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing II in order to complete this quest.",
+  "d": "The mounted division of the Cenarion Hold guard is in short supply of ornate mithril boots.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": "Excellent. We were in need of these, $N. Good work."
+ },
+ {
+  "id": 8541,
+  "t": "Grinding Stones for the Guard",
+  "o": "Bring 10 Dense Grinding Stones, 10 Solid Grinding Stones and 10 Heavy Grinding Stones to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing III in order to complete this quest.",
+  "d": "The Cenarion Hold guard is in short supply of grinding stones.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "p": "You have something for me, $n?",
+  "c": "Excellent.  We were in need of these, $N.  Good work."
+ },
+ {
+  "id": 8542,
+  "t": "The Horde Needs Tin Bars!",
+  "o": "Bring 20 Tin Bars to Grunt Maug at the Valley of Spirits in Orgrimmar.",
+  "d": "Lok'tar, $r, I'm sure you already know that we're going to war at Ahn'Qiraj with the insects. But first the Warchief has decided that we're going to do something called 'prepare'. Though I'd rather be sharpening weapons and hammering armor into shape, I'm proud to have been chosen to be in charge of tin bar collection here. But I cannot do that without your help.$B$BSo I need you to go out and make tin bars and bring them back to me here. I think I'm going to need more than I can count.$B",
+  "p": "The dredge strikers are a serious threat and must be dealt with quickly!",
+  "c": "You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage."
+ },
+ {
+  "id": 8543,
+  "t": "The Horde Needs More Tin Bars!",
+  "o": "Bring 20 tin bars to Grunt Maug in Durotar.",
+  "d": "Very good, I see that you are serious about the war. I'm a little edgy waiting for it to start though, which means I'm going to get angry if you don't start bringing in the goods faster. Maybe I can just practice on you instead.$B$BHar! Maybe not, 'cuz then who would bring me back the tin bars?",
+  "p": "Very good, I see that you are serious about the war. I'm a little edgy waiting for it to start though, as I'm sure you are as well, $C. It will be glorious when it begins. The Horde running over the sands of the Silithus desert, weapons in hand, charging headlong into the insect masses. Great honor will be had that day by all!$B$BHar! But first we need more tin bars. Funny how such a small thing may make such a huge difference, don't you think?",
+  "c": "Throm'ka, $N. You honor me and the Horde with your tin bars. I will put them on the stack and then they will come and make things from them. And then when that is all done we will go to war and show the puny Alliance how to fight the bugs.$B$BNow bring me back more tin bars!"
+ },
+ {
+  "id": 8544,
+  "t": "Conqueror's Spaulders",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of Night, 5 Stone Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8545,
+  "t": "The Horde Needs Mithril Bars!",
+  "o": "Bring 20 Mithril Bars to Senior Sergeant T'kelah at the Valley of Spirits in Orgrimmar.",
+  "d": "$C, the war it is comin' and the only thing we can do is prepare for it. That be where you and I can help each other, mon. Ya see, they put me in charge of collectin' all the mithril bars we be needin' ta build for all the things we gonna need. An I still be needin' more!$B$BSo, I be hopin' that you can get out there an mine us up some mithril, then smelt it into bars. Sound like something you can do for us?",
+  "p": "It sure would be nice to be havin' all of the mithril bars that we be needin' for the Ahn'Qiraj war effort. Is that why you be back, mon? You got my bars?",
+  "c": "This be a good start for you an me, $c. That be another twenty mithril bars that I can be puttin' on the stacks an checkin' off of the list. It all gonna be put to good use makin' the war materiel.$B$BBe makin' sure that you check back in with me 'cuz you know it be lookin' like we gonna need even more of those mithril bars."
+ },
+ {
+  "id": 8546,
+  "t": "The Horde Needs More Mithril Bars!",
+  "o": "",
+  "d": "",
+  "p": "Yup, I be glad you're here, mon. You helped me before, and now I need your help again. We still lookin' ta bring in more mithril bars for the war effort; gonna build lots of armor and weapons and things to go squish them bugs at Ahn'Qiraj.$B$BSo if you be a true friend, you bring me back more stacks of mithril bars. I take all you got until we hit our quota. You have some for me now?",
+  "c": "That be good work $N! Another twenty bars get us that much closer to the goal, and get us more war materiel. I see to it they get put away. And if you get another stack of mithril bars mon, you make sure to be bringin' them here to me."
+ },
+ {
+  "id": 8547,
+  "t": "Welcome!",
+  "o": "Bring the Falconwing Square Gift Voucher to Marsilla Dawnstar in Falconwing Square.",
+  "d": "Welcome to the World of Warcraft!$B$BAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Marsilla Dawnstar in Falconwing Square.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.$B$BThanks again, and enjoy your stay in the World of Warcraft!",
+  "p": "Greetings!  It is a pleasure to meet you!$B$BI see you have a special voucher.  Give it to me and I will offer you something in exchange.",
+  "c": "You are indeed a special hero, $N. We welcome you to the world of Azeroth, and offer you one of these unique gifts!"
+ },
+ {
+  "id": 8548,
+  "t": "Volunteer's Battlegear",
+  "o": "Bring 5 Cenarion Combat Badges, 3 Cenarion Logistics Badges and 7 Cenarion Tactical Badges to Vargus at Cenarion Hold in Silithus.  You must also attain Friendly reputation with Cenarion Circle to be able to complete this quest.",
+  "d": "The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, $N.$B$BYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.  ",
+  "p": "It's in our best interest to keep our most loyal allies well geared, $N.",
+  "c": "Great work, $N. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!"
+ },
+ {
+  "id": 8549,
+  "t": "The Horde Needs Peacebloom!",
+  "o": "Bring 20 Peacebloom to Herbalist Proudfeather at the Valley of Spirits in Orgrimmar.",
+  "d": "It is said that every generation must face a defining trial. I fear the Ahn'Qiraj War will be the crucible in which our mettle is tested. So we prepare, and in so doing find what we are made of.$B$BI have volunteered to help the Horde by gathering as much peacebloom as possible, so that it can be made into potions for the war. I hope that you are here to lend me your aid. If so, then I need you to bring back to me a good quantity of the herb. Will you assist me, $c?",
+  "p": "Go now, $C. Seek out $N.",
+  "c": "This was no easy task, yet you have excelled. But do not be too quick to think you have impressed me, $N."
+ },
+ {
+  "id": 8550,
+  "t": "The Horde Needs More Peacebloom!",
+  "o": "",
+  "d": "",
+  "p": "Hello again, $N. I am glad that you wish to speak to me once more concerning our neverending need for peacebloom. The war effort continues, and with it our production of potions and elixirs to aid in the battles to come. Will you help us again, $C? I am in need of the same amount of peacebloom as before, so if you can gather it up and return it to me here I would be most grateful. Of course, if you already have it on your person, I will be more than happy to accept it from you now.",
+  "c": "Thank you for your continued efforts, $N. You bring great honor to yourself and your ancestors with your selfless giving, and it will be known to all! I will store these herbs away so that they stay fresh until they are needed. Once again you reveal the truest spirit of the Horde, the struggle to overcome and the promise that we can work together to do so."
+ },
+ {
+  "id": 8551,
+  "t": "The Captain's Chest",
+  "o": "Bring Smotts' Chest to Hecklebury Smotts in Booty Bay.",
+  "d": "I used to sail a ship from here all the way to Ratchet, in Kalimdor.  I was a successful captain with a sterling reputation.$B$BUntil...$B$BThose cursed sea giants ruined me!  They smashed my ship, killed my crew, and set me on a lifeboat to Booty Bay.  And one of the giants, Gorlash, stole my Captain's Chest.  He said he wanted it for a snuffbox.  The nerve!$B$BI hear Gorlash wanders the coast east of here.  Find him and get back my chest!  Do that, and you'll have earned a captain's gratitude.",
+  "p": "Ahoy, $N! Did you find Gorlash? That chest was my favorite, and it has a hidden compartment that held my greatest treasures!",
+  "c": "You found it! Oh happy day, this is! Thank you, $N. Getting back my chest cools some of the fire in me.$b$bBut my revenge isn't complete..."
+ },
+ {
+  "id": 8552,
+  "t": "The Monogrammed Sash",
+  "o": "Return the Monogrammed Sash to its owner.",
+  "d": "This fine sash has the letters \"HS\" embroidered along its hem.",
+  "p": "Hello. Do you have business with me? ",
+  "c": "You recovered my sash? Then... you must have killed Mok'rash the sea giant! Hooray!$B$BI'm glad the scurvy villain's dead - Mok'rash was one of three sea giants who smashed my ships and killed my crew.$B$BThree times.$B$BYou are a $c of worth, $N."
+ },
+ {
+  "id": 8553,
+  "t": "The Captain's Cutlass",
+  "o": "Speak with Sprogger.",
+  "d": "After I lost my first ship to those giants, I bought another.  Named Smotts' Revenge, I filled it with supplies and crew, and set out to find the villains.  I found them, but...they beat me.  They smashed Smotts' Revenge, killed my second crew and set me on another lifeboat.$B$BThis time another of the giants, Negolash, stole my cutlass.$B$BFace Negolash and bring me my cutlass!$B$BSpeak with Sprogger.  He was my cook on the Smotts' Revenge, and survived the last attack.  He can help you find the giant.",
+  "p": "",
+  "c": "Hello hello, $N. Captain told me you're going after Negolash, eh?"
+ },
+ {
+  "id": 8554,
+  "t": "Facing Negolash",
+  "o": "Bring 10 Barbecued Buzzard Wings and 5 bottles of Junglevine Wine to Captain Smotts' Lifeboat.$B$BKill Negolash, and bring Smotts' Cutlass to Captain Smotts in Stranglethorn.",
+  "d": "Negolash is a hungry giant.$B$BWhen the giants destroyed our ship, Negolash went straight for my kitchen.  He wasn't hungry for crew like the other giants.  Negolash wanted wine...and my Barbecued Buzzard Wings.  They're my specialty, and I had to go all the way to the Badlands for the recipe!$B$BIf you want to lure the giant, then get some wine and a heap of buzzard wings.  Put them in our old lifeboat, southeast of here along the coast.  When Negolash smells all that food, he'll come for sure!",
+  "p": "Did you get my cutlass, $N?",
+  "c": "You got my cutlass from Negolash! I can't believe my fortune, $N! Meeting you has turned my luck to the better, make no mistake there!$B$BThank you! And if I ever get a new ship and you're looking to sail the seas, you would be my honored guest."
+ },
+ {
+  "id": 8555,
+  "t": "The Charge of the Dragonflights",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "Eranikus, Vaelastrasz, and Azuregos... No doubt you know of these dragons, mortal. It is no coincidence, then, that they have played such influential roles as watchers of our world.$B$BUnfortunately (and my own naivety is partially to blame) whether by agents of the Old Gods or betrayal by those that would call them friend, each guardian has fallen to tragedy. The extent of which has fueled my own distrust towards your kind.$B$BSeek them out... And $R, prepare yourself for the worst."
+ },
+ {
+  "id": 8556,
+  "t": "Signet of Unyielding Strength",
+  "o": "Bring 1 Qiraji Magisterial Ring, 2 Lambent Idols, 5 Bronze Scarabs and 5 Ivory Scarabs to Windcaller Yessendra in Silithus.  You must also attain Honored reputation with Cenarion Circle to complete this quest.",
+  "d": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.$B$BThe gems that adorn Qiraji idols would work quite well, as their quality is superior.$B$BBring me the ring and idols and I'll create a powerful ring for you, $c.",
+  "p": "Did you bring me the ring and materials, $N?",
+  "c": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable."
+ },
+ {
+  "id": 8557,
+  "t": "Drape of Unyielding Strength",
+  "o": "Bring 1 Qiraji Martial Drape, 2 Onyx Idols, 5 Silver Scarabs and 5 Bone Scarabs to Keyl Swiftclaw in Silithus.  You must also obtain Revered reputation with Cenarion Circle to complete this quest.",
+  "d": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, $N.  I can make you a protective item that'll be of assistance in the fight against our enemy, $c.$B$BI shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.$B$BI promise you won't be disappointed.",
+  "p": "Did you bring the materials for the cloak, $N?",
+  "c": "Ah yes... this drape is immaculate.$B$BTake this cloak, $N. May it protect you from the foul magic of the Qiraji."
+ },
+ {
+  "id": 8558,
+  "t": "Sickle of Unyielding Strength",
+  "o": "Bring 1 Qiraji Spiked Hilt, 2  Alabaster Idols, 5 Crystal Scarabs and 5 Stone Scarabs to Warden Haro in Silithus.  You must also attain Exalted reputation with Cenarion Circle to complete this quest.",
+  "d": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.$B$BJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, $N, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "p": "Did you bring me the components I require, $N?",
+  "c": "You've done well, $c. This is a masterwork hilt... the balance is perfect.$B$BTake your weapon, $N. Wield it with great confidence and vanquish our enemies!"
+ },
+ {
+  "id": 8559,
+  "t": "Conqueror's Greaves",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of War, 5 Ivory Scarabs and 5 Gold Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8560,
+  "t": "Conqueror's Legguards",
+  "o": "Bring Ouro's Intact Hide, 2 Idols of Death, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "Did you bring the components I require, $N?",
+  "c": "Yes... the worm's hide will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8561,
+  "t": "Conqueror's Crown",
+  "o": "Bring Vek'nilash's Circlet, 2 Idols of the Sun, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8562,
+  "t": "Conqueror's Breastplate",
+  "o": "Bring the the Carapace of the Old God, 2 Idols of War, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8564,
+  "t": "Priest Training",
+  "o": "Speak with Matron Arena - the Priest class trainer - inside the Sunspire on Sunstrider Isle.",
+  "d": "As you advance within your class, you will want to take advantage of the training that your class trainer can provide you.  For young priests here on Sunstrider Isle, your trainer is Matron Arena.  Speak with the matron and see what training she has available for you.  The things she will teach do have a cost, so bring some coin with you.$B$BMatron Arena - as with all the trainers on Sunstrider Isle - is inside the Sunspire on the lower level.",
+  "p": "",
+  "c": "Welcome, $N - I am Matron Arena. I offer my services to those who seek to learn the ways of the $c. Such a path is often misconstrued as a path of pacifism; for we blood elves, this couldn't be further from the truth. While we do mend both bone and spirit, we also act as a fist of vengeance for those who would transgress against us.$B$BI will train you, but all I ask is that you cover any training costs that may come up, and that you learn with an open mind. If you agree to this, we may begin."
+ },
+ {
+  "id": 8572,
+  "t": "Veteran's Battlegear",
+  "o": "Bring 7 Cenarion Combat Badges, 4 Cenarion Logistics Badges and 4 Cenarion Tactical Badges to Vargus at Cenarion Hold in Silithus.  You must also attain Honored reputation with Cenarion Circle to be able to complete this quest.$B",
+  "d": "The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, $N.$B$BYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",
+  "p": "It's in our best interest to keep our most loyal allies well geared, $N.\n",
+  "c": "Great work, $N. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!"
+ },
+ {
+  "id": 8573,
+  "t": "Champion's Battlegear",
+  "o": "Bring 15 Cenarion Combat Badges, 20 Cenarion Logistics Badges, 20 Cenarion Tactical Badges and 1 Mark of Cenarius to Vargus at Cenarion Hold in Silithus.  You must also attain Exalted reputation with Cenarion Circle to be able to complete this quest.$B",
+  "d": "The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, $N.$B$BYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",
+  "p": "It's in our best interest to keep our most loyal allies well geared, $N.",
+  "c": "Great work, $N. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend! "
+ },
+ {
+  "id": 8574,
+  "t": "Stalwart's Battlegear",
+  "o": "Bring 15 Cenarion Combat Badges, 20 Cenarion Logistics Badges, 17 Cenarion Tactical Badges and 1 Mark of Remulos to Vargus at Cenarion Hold in Silithus.  You must also attain Revered reputation with Cenarion Circle to be able to complete this quest.",
+  "d": "The badges you collect from performing combat, logistics and tactical assignments for Windcaller Proudhorn are more than just for show, $N.$B$BYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",
+  "p": "It's in our best interest to keep our most loyal allies well geared, $N.",
+  "c": "Great work, $N. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!"
+ },
+ {
+  "id": 8575,
+  "t": "Azuregos's Magical Ledger",
+  "o": "Deliver Azuregos's Magical Ledger to Narain Soothfancy in Tanaris.",
+  "d": "You cannot understand a single word on this ledger. You don't even know what language it is written in!",
+  "p": "Ooooh! Magical pulsing thingy! For me?",
+  "c": "<Narain eagerly examines the letter.>$B$BOutstanding, $R! What is it? I can't read a lick of Draconic."
+ },
+ {
+  "id": 8576,
+  "t": "Translating the Ledger",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "First things first, $N! We need to figure out what Azuregos wrote in this ledger.$B$BYou say that he's told you to make an arcanite buoy and that this is the schematic? Strange that he would write this in Draconic. That old goat knows I can't read this nonsense.$B$BIf this is going to work, I'm going to need my scrying goggles, a five hundred pound chicken and volume II of \"Draconic for Dummies.\" Not necessarily in that order."
+ },
+ {
+  "id": 8577,
+  "t": "Stewvul, Ex-B.F.F.",
+  "o": "Narain Soothfancy wants you to find his ex-best friend forever (BFF),\n Stewvul, and take back the scrying goggles that Stewvul stole from him.",
+  "d": "If I am to translate anything, I will need my scrying goggles. Unfortunately, those were stolen quite some time ago by my ex-best friend forever, Stewvul. He broke my heart in five places and then left me here to rot.$B$BWith the help of my trusty crystal ball, I've isolated his whereabouts to either the Greymane Wall in Silverpine or what appears to be a portal world in the Outland that is currently being overrun by the Burning Legion. You're going to have to track him down and get my goggles back, $N!",
+  "p": "",
+  "c": "I can't believe he found me. I thought for sure that I'd lost him when I was in the Outland. I'm not going back there, $R! No way, no how! I'm through being his part time best friend forever and full time slave."
+ },
+ {
+  "id": 8578,
+  "t": "Scrying Goggles? No Problem!",
+  "o": "Find Narain's Scrying Goggles and return them to Narain Soothfancy in Tanaris.",
+  "d": "<You hear a sigh of relief escape the crate.>$B$BYou just want his scrying goggles? Great! That will be no problem... Just give me a minute to... Hey! Where the... Dagnabbit!$B$BWell, there's some bad news and some worse news. The bad news is that I lost the goggles. The worse news is that I lost them when I was nosing around in the Molten Core last month. Yep, the Molten Core... I guess that concludes our business! Bye!",
+  "p": "The Molten Core, eh? I hope my goggles are still in one piece!",
+  "c": "Outstanding! Now where did I put that 500 pound chicken and Volume II of \"Draconic For Dummies???\" Oh, and here's a little something for all your hard work!"
+ },
+ {
+  "id": 8579,
+  "t": "Mortal Champions",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "I see that you're no ordinary mortal, $N. Your chances against the Old God, however infinitely small, are greater than ours at this point. After all, while he expects dragons at his doorstep, he is not prepared for someone like you.$B$BJust as Anachronos and Staghelm defeated the Qiraji a thousand years ago through the alliance of mortal and dragon races, we too shall form a pact. Gain the trust of the Bronze Dragonflight and you'll gain our trust. Only then we shall make a true champion out of you."
+ },
+ {
+  "id": 8580,
+  "t": "The Horde Needs Firebloom!",
+  "o": "Bring 20 Firebloom to Batrider Pele'keiki at the Valley of Spirits in Orgrimmar.",
+  "d": "Hey, $c. Ya you, mon! There be a whole mess of firebloom the Horde thinkin' they need for this Ahn'Qiraj war effort. Maybe they put it in nice things that go boom? Maybe they give it to the Alliance as fuel for their steam tanks? Who knows? Not Pele'keiki!$B$BPele'keiki know this though... he know you gonna help him out and bring back lots of the firebloom, right, mon?",
+  "p": "Are you done collecting those samples? We could lose Noggle any minute now!",
+  "c": "Cross your fingers, friend! Here's to hoping we can save Noggle!"
+ },
+ {
+  "id": 8581,
+  "t": "The Horde Needs More Firebloom!",
+  "o": "",
+  "d": "",
+  "p": "Pele'keiki know you come to help. Bring many firebloom and make him very happy. Pele'keiki might make big bombs with firebloom. Drop them on insects from his bat over Ahn'Qiraj when war come. But Pele'keiki need more firebloom, $C!$B$BYou gonna bring Pele'keiki that firebloom, real quick now. Come back with at least as much as last time, and Pele'keiki be pleased.",
+  "c": "This no joke, $C? You bring Pele'keiki firebloom that fast? Pele'keiki count them up right now, mon! You makin' Pele'keiki so happy, he be tellin' everyone, $N best firebloom collector ever! Pele'keiki can't wait for war to start. Now we really light up the sky over Silithus, right, bruddah?!"
+ },
+ {
+  "id": 8582,
+  "t": "The Horde Needs Purple Lotus!",
+  "o": "Bring 20 Purple Lotus to Apothecary Jezel at the Valley of Spirits in Orgrimmar.",
+  "d": "The purple lotus, $c, is a reagent in a great many potions, elixirs and oils, some of which will be of use to us at Ahn'Qiraj. We're going to need to create an immense number of those potions for the war effort. And I'm going to experiment to find more uses for the lotus as well. But to do all of that I'm going to need a great quantity of the flower.$B$BThat's where you come in. Go out into the field and collect up as many purple lotuses as you can. Is this something that you are willing to do for us?",
+  "p": "Have you found the Ambassador, $N? Is he dead?$B$BWe cannot afford to allow the Scourge to take a foothold on Kalimdor. They are enough of a threat to our own borders to have to deal with them on two fronts.$B$BThe only optimistic sign from the events you've told me about is that the crone seemed uncorrupted. She must know deep in her spirit that the Scourge may bring great power, but that the Barrens would not truly be hers if she were to agree to their deal.",
+  "c": "Good. Well done, $c.$B$BNow that Malcin is dead, we can at least know that the Scourges advances will be halted. The Dark Lady thanks you for your efforts and wishes to reward you with a gift.$B$BAlthough we do not know the extent of the Scourges influence within the Downs, I am sure we will discover their plots soon enough."
+ },
+ {
+  "id": 8583,
+  "t": "The Horde Needs More Purple Lotus!",
+  "o": "",
+  "d": "",
+  "p": "In fact it does appear that we are in need of even more purple lotus, $c. While my own studies have yet to determine a new useful application for the herb, there are tried and true methodologies yet to be employed.$B$BI need you to once again go out into the field and collect at least twenty purple lotus samples. Return them to me here.",
+  "c": "Excellent and precise work, $N. Your diligence is to be commended, as is your celerity. I will personally see to it that none of these purple lotus go to waste.$B$BThank you again, and should you come by more purple lotus do not hesitate to bring them to me with utmost haste."
+ },
+ {
+  "id": 8584,
+  "t": "Never Ask Me About My Business",
+  "o": "Narain Soothfancy in Tanaris wants you to speak with Dirge Quikcleave in Gadgetzan.",
+  "d": "If there is one thing that you should know about me, it is this: NEVER ask me about my business! I work with things you simply cannot understand. Like for example: Do you know what a psychotronic muzzledorf is? Of course you don't! And that's why we leave the planning to me and the fetching to you.$B$BAs I said earlier, if this is going to work, we're going to need a 500 pound chicken.$B$BHead to Gadgetzan and speak with Dirge Quikcleave - he'll get you started on finding a suitable specimen.$B",
+  "p": "",
+  "c": "<Dirge scratches his head.>$B$BA 500 pound chicken? There's no such thing! Not anymore, at least. I knew of such a chicken... The Black Chicken of Death...$B$B<Dirge's voice trails off.>$B$BBut yes, nobody ever saw that chicken and lived to tell the tale. I've got an idea that could benefit the both of us, kid."
+ },
+ {
+  "id": 8585,
+  "t": "The Isle of Dread!",
+  "o": "Recover Lakmaeran's Carcass and 20 Chimaerok Tenderloins for Dirge Quikcleave in Tanaris.",
+  "d": "Legend has it that the chimaerok of the Isle of Dread in Feralas have the most succulent and tender vittles in existence! Now these chimaerok also have a daddy who, with proper preparation, may or may not look like a 500 pound chicken.$B$BHead to the Isle of Dread and kill Lord Lakmaeran and bring me his fresh carcass. That should satisfy the gnome. To satisfy me, you'll need to get your hands on some chimaerok tenderloin.$B$BDo this and you'll have your 500 pound chicken and a little something extra.$B",
+  "p": "Mmmmm... Chimaerok...",
+  "c": "Look at the marbleization on those tenderloins! Fantastic!$B$BNow about that chicken... Hrm, let me see. I'm going to need a few minutes to devise the recipe."
+ },
+ {
+  "id": 8586,
+  "t": "Dirge's Kickin' Chimaerok Chops",
+  "o": "Dirge Quikcleave in Gadgetzan wants you to bring him 20 Goblin Rocket Fuel and 20 Deeprock Salt.",
+  "d": "My recipe is complete! What I need from you now is some rocket fuel and deeprock salt. I'll handle the spices and the meat you brought me will cover the rest.$B$BAfter you bring me what I asked for, the chicken will be ready to take back to Narain.",
+  "p": "Hurry it up, kid. We don't want this meat to go bad. ",
+  "c": "It's ready! I present to you my greatest creation: Dirge's Kickin' Chimaerok Chops! "
+ },
+ {
+  "id": 8587,
+  "t": "Return to Narain",
+  "o": "Deliver the 500 Pound Chicken to Narain Soothfancy in Tanaris.",
+  "d": "I'm a goblin of my word, kid. Here's your 500 pound chicken.$B$BWhat a gnome wants with a 500 pound chicken, I'll never know...$B$B<Dirge grumbles something unintelligible.>$B$BProbably to sleep in it... Dirty gnomes...",
+  "p": "What is that scrumptious smell? ",
+  "c": "<Narain mashes two fists into the huge chicken, stuffing his face full of Dirge's delicious delicacy.>$B$BMMmmm... This is unbelievable! Best chicken I've ever had! "
+ },
+ {
+  "id": 8588,
+  "t": "The Horde Needs Heavy Leather!",
+  "o": "Bring 10 Heavy Leather to Skinner Jamani at the Valley of Spirits in Orgrimmar.",
+  "d": "Since we're preparing for war, it might be best if we get all of the goods we need first, don't you think, mon? One of the staples of the war materiel that we're producing is heavy leather. We'll use it for just about everything, from reinforcement to armor, and good old plain tarps too.$B$BBut first we need to get our hands on more of it. That's your job, $c. Sharpen your knife and bring me back a bundle. Then we'll talk further.",
+  "p": "I've got no time for games if you're just here to jibber-jabber, $C. There are too many stacks of heavy leather that need curing. Come back when you have at least ten for me.",
+  "c": "Simply amazing... look at the purity of these samples. Hmm, I wonder what it could mean. They seem to be elemental in nature, but... something more. They remind me of... of the Old Gods. We've found traces of them throughout Azeroth, and now I wonder if these creatures aren't related to them somehow.$B$BWe shall have to test further."
+ },
+ {
+  "id": 8589,
+  "t": "The Horde Needs More Heavy Leather!",
+  "o": "",
+  "d": "",
+  "p": "It's true, $c, I still need more heavy leather. The requests from the generals and their quartermasters seem endless. And that's nothing compared to what the zeppelin masters are asking for!$B$BI need to get my quota collected on the double. $n, bring me more stacks of heavy leather as soon as you can!",
+  "c": "You da mon, mon! Thank you so much for the heavy leather. Every little bit gets us that much closer. I'll just get these onto a pile so that the other leatherworkers can get to work on them.$B$BThanks again, $N, and if you come across more stacks of heavy leather, you know where you can find me."
+ },
+ {
+  "id": 8590,
+  "t": "The Horde Needs Thick Leather!",
+  "o": "Bring 10 Thick Leather to Sergeant Umala at the Valley of Spirits in Orgrimmar.",
+  "d": "I'm glad that you decided to speak to me about this, $c. It looks like the Horde's preparations for the upcoming Ahn'Qiraj War are in full swing. But you and I still need to do our part.$B$BI've been asked to collect a great number of thick leather skins for use in all manner of war materiel, and I need you to help me by going out there and gathering them up. There's honor and the gratitude of the Horde in it for you should you decide to help. Will you?",
+  "p": "$C, have you returned so soon with the ten thick leather that we discussed?",
+  "c": "Good work, $c. I'm sure that these thick leather skins will be put to use reinforcing zeppelins and making all manner of armor and weaponry. You have my thanks, and that of the Horde. Come back again if you come across more thick leather in your travels, and luck be with you."
+ },
+ {
+  "id": 8591,
+  "t": "The Horde Needs More Thick Leather!",
+  "o": "",
+  "d": "",
+  "p": "$c, as you can see I still need to gather up more thick leather. Once again I ask your help with this task, and promise that if you complete it, you will be recognized for your efforts.$B$BTime is of the essence! Return to me with the thick leather so that we can finish our preparations and go to war, hero!",
+  "c": "You did it, $N, I knew that you would! Once again, thank you on behalf of the entire Horde. Your efforts have been noted and are greatly appreciated. And if you find yourself with more thick leather that you'd like to donate, bring them to me here.$B$BLok'tar Ogar, $c!"
+ },
+ {
+  "id": 8592,
+  "t": "Tiara of the Oracle",
+  "o": "Bring Vek'nilash's Circlet, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8593,
+  "t": "Trousers of the Oracle",
+  "o": "Bring Ouro's Intact Hide, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "Did you bring the components I require, $N?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer.  Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor.  May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8594,
+  "t": "Mantle of the Oracle",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of Rebirth, 5 Silver Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8595,
+  "t": "Mortal Champions",
+  "o": "",
+  "d": "",
+  "p": "Killing one Qiraji lord is a notable accomplishment for a mortal, $n. They are however, numerous and powerful. Continue to defeat them to prove your worth as our champion.",
+  "c": "You continue to serve us well, $N. Our pact remains in place."
+ },
+ {
+  "id": 8596,
+  "t": "Footwraps of the Oracle",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of Death, 5 Bronze Scarabs and 5 Gold Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8597,
+  "t": "Draconic for Dummies",
+  "o": "Find Narain Soothfancy's book, buried on an island in the South Seas.",
+  "d": "I knew that book would come in handy some day! Thankfully, I had the wit and foresight to stow it somewhere safe.$B$BDon't worry, it's in a place that nobody could ever hope to find it! I needed a gyrocopter just to get there the first time. Unfortunately I crashed it on the beach on my way back. It was through that accident that I gained these super-gnomish psychic powers!$B$BLook for my crashed gyrocopter somewhere on Land's End Beach and swim south from there! You'll know the spot when you see it!",
+  "p": "",
+  "c": "The book is gone! On top of the dirt mound is a note."
+ },
+ {
+  "id": 8598,
+  "t": "rAnS0m",
+  "o": "Return the Ransom Letter to Narain Soothfancy in Tanaris.$B",
+  "d": "<The text on this note is made up of various typefaces glued onto the parchment's surface.>$B$BWe've got your precious book, gnome. If you ever want to see it again, you'll do exactly as we ask.$B$B<A detailed set of instructions is listed, spanning 3 pages.>$B$BBring the money and come alone!",
+  "p": "Say, what's the matter?",
+  "c": "<Narain's face glows a bright red.>$B$BBooknap my... book, will they!? I'll teach them what it means to mess with a psychic gnome!"
+ },
+ {
+  "id": 8599,
+  "t": "Love Song for Narain",
+  "o": "Take Meridith's Love Letter to Narain Soothfancy in Tanaris.",
+  "d": "It isn't often that I get visitors. As a matter of fact, the last time I had a visitor was when I rescued that dear, sweet gnome from the wreckage of the crashed flying machine.$B$B<Meridith gazes into nothingness, lost in a memory.>$B$BDo you know him? Narain? Narain Soothfancy? Oh it would mean so much to me if somebody would deliver a message to him for me. I must tell him how I feel! I know it's love! I just know it!$B$BCould you possibly deliver a message to Narain? I would be forever indebted to you!",
+  "p": "You smell like fish!",
+  "c": "What!?$B$B<Narain starts to fidget.>$B$BWell, um... What do you want me to do??? She's a fish! A FISH I tell you! And I'm a gnome. It could never work out."
+ },
+ {
+  "id": 8600,
+  "t": "The Horde Needs Rugged Leather!",
+  "o": "Bring 10 Rugged Leather to Doctor Serratus at the Valley of Spirits in Orgrimmar.",
+  "d": "I find that the fit of the knife in your palm is more important than the edge on it. Even the dullest blade can be made to cut if pressure is being properly applied through it, wouldn't you agree, $c? But you and I don't have such problems as we maintain the sharpest of edges, yes? $B$BWell, no matter, I have a task for you. In service to the Horde, and to do your part for the Ahn'Qiraj war effort, I want you to return to me with a number of rugged leather skins. This is something that you will do, no?",
+  "p": "It couldn't possibly be taking you this long to slice off ten rugged leather for me! Perhaps you should sharpen your skinning knife? Or, perhaps I am mistaken and you have them there in your pack?",
+  "c": "Very well, it appears you've done a fairly decent job of it, though some of those skins look a bit ragged about the edges. No matter, the task is completed, and you have earned your reward. Should you come across another stack of rugged leather, be sure to bring them to me posthaste."
+ },
+ {
+  "id": 8601,
+  "t": "The Horde Needs More Rugged Leather!",
+  "o": "",
+  "d": "",
+  "p": "Preparations for the impending war at Ahn'Qiraj are proceeding, $C. However, to ensure that we do not fall behind, or at least that I am not the one that causes us to fall behind, I want for you to bring back another stack of rugged leather. Your prompt attention to this matter will be greatly appreciated, $N.",
+  "c": "Practice, practice, practice. A well honed knife and the skill to use it will get you far in this world, $N. Looks like the edges on these skins are better than the last. Did you buy a new knife?$B$BIn any case, we thank you for your efforts. Your donation has been noted, and will be put to good use I can assure you. Should you find yourself in the possession of more rugged leather, be sure to come back and speak with me, as I will probably need it."
+ },
+ {
+  "id": 8602,
+  "t": "Stormcaller's Pauldrons",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Life, 5 Gold Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8603,
+  "t": "Vestments of the Oracle",
+  "o": "Bring the the Husk of the Old God, 2 Idols of Death, 5 Stone Scarabs and 5 Crystal Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept these vestments as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay their power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8604,
+  "t": "The Horde Needs Wool Bandages!",
+  "o": "Bring 20 Wool Bandages to Healer Longrunner at the Valley of Spirits in Orgrimmar.",
+  "d": "Greetings, $c. In preparation for the war at Ahn'Qiraj, I am here coordinating the Horde's efforts at gathering wool bandages. Unfortunately, out in the field, our soldiers cannot afford to rely upon the presence of a healer to keep them alive. Trust me, I know first hand. Thus, we're putting together all of these first aid kits for them.$B$BIf you have the time, I need many wool bandages. Return them to me here and I will see to it that you are properly rewarded.",
+  "p": "The dredge strikers are a serious threat and must be dealt with quickly!",
+  "c": "You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage."
+ },
+ {
+  "id": 8605,
+  "t": "The Horde Needs More Wool Bandages!",
+  "o": "",
+  "d": "",
+  "p": "Good to see you again, $C. We are still working on preparations here for the war effort, and I can still use all of the help that you can give in gathering up wool bandaging. Any assistance at all will be greatly appreciated. I only hope that our efforts will be good enough. I've lost too many noble souls on the battlefields of yesterday to not do everything in my power to see to it that doesn't happen again.",
+  "c": "You are an honorable $C, $N! I will see to it that these bandages get into the right hands. You have my thanks, and that of the Horde.$B$BGo in peace, and return to me again should you find yourself with excess wool bandaging. We can use all of the help that we can get here."
+ },
+ {
+  "id": 8606,
+  "t": "Decoy!",
+  "o": "Narain Soothfancy in Tanaris wants you to travel to Winterspring and place the Bag of Gold at the drop off point documented by the booknappers.",
+  "d": "I've got it! Here's what we're going to do. I'm going to fill a sack up with rocks and you're going to make the drop. I know it said that I should make the delivery and I'm going to - sort of.$B$B<Narain looks you up and down.>$B$BYes, you will do just fine. Take this turban, robe, and sack of rocks and head to the drop off point in Winterspring.$B$BI've included everything you need in this special kit. When they show up to pick up the goods, snuff them out! That will teach them to mess with Narain!$B",
+  "p": "",
+  "c": "I think we may have underestimated these booknappers."
+ },
+ {
+  "id": 8607,
+  "t": "The Horde Needs Mageweave Bandages!",
+  "o": "Bring 20 Mageweave Bandages to Lady Callow at the Valley of Spirits in Orgrimmar.",
+  "d": "I trust that you are speaking to me because you are going to help with the collection I have been entrusted to? Good! By whatever means, and I do mean whatever, I wish for you to gather up a good number of mageweave bandages. Fresh would be nice, but not absolutely necessary. Return them to me here, $c, and I will personally see to it that you are properly rewarded.",
+  "p": "Do not fail and make me look bad, $C! Return here as quickly as possible with the mageweave bandages we discussed.",
+  "c": "Surprising, yet acceptable. Perhaps I underestimated your 'abilities', $c. Perhaps. You completed a very simple task, and for doing so you are to be rewarded out of proportion. But don't let it go to your head. If you really want to prove yourself you should get out there and bring me another bundle of mageweave bandages."
+ },
+ {
+  "id": 8608,
+  "t": "The Horde Needs More Mageweave Bandages!",
+  "o": "",
+  "d": "",
+  "p": "You returned? Interesting. As you can see I am still collecting for the Ahn'Qiraj 'war effort'. Which means that I need you to once again go out and collect a stack of mageweave bandages for me. I look forward to your return, $C.",
+  "c": "Astounding, $C, you actually did it again! Well, they do say that I have good taste in those that I choose to place in my service. Very well, your contribution is noted and you will receive the social benefits that your efforts have afforded. I suggest though that you go back out and gather yet another bundle of mageweave bandages if you truly wish to prove your worth."
+ },
+ {
+  "id": 8609,
+  "t": "The Horde Needs Runecloth Bandages!",
+  "o": "Bring 20 Runecloth Bandages to Stoneguard Clayhoof at the Valley of Spirits in Orgrimmar.",
+  "d": "It appears inevitable that the Horde and Alliance are on a collision course for war at Ahn'Qiraj. Surprisingly, it is not a war with each other, but rather with the silithid, and whatever force controls them. Also surprisingly, both sides are doing their part to gather the resources necessary to wage a successful war.$B$BI am collecting runecloth bandages to distribute to the soldiers, but I won't be successful without assistance, hopefully yours. Is this something that you can aid me with, $c?$B",
+  "p": "Did you get the venom?",
+  "c": "Sweet, you got it!"
+ },
+ {
+  "id": 8610,
+  "t": "The Horde Needs More Runecloth Bandages!",
+  "o": "",
+  "d": "",
+  "p": "Ever does the time grow nearer when we shall launch ourselves headlong into the conflagration at Ahn'Qiraj, priest. But first we must gather our strength and prepare so that we can survive the onslaught of the insects and their masters.$B$BIf you are here again, then surely you wish to make another contribution of runecloth bandages to the war effort? Please do so as soon as you can and return to me once more.",
+  "c": "It is a very selfless act of giving that you perform, $N. One that is likely to save the lives of many combatants at Ahn'Qiraj. Thank you and know that you have the appreciation of the Horde for your donation. Should you create, or come across, more runecloth bandages, please consider bringing them to me here."
+ },
+ {
+  "id": 8611,
+  "t": "The Horde Needs Lean Wolf Steaks!",
+  "o": "Bring 20 Lean Wolf Steaks to Bloodguard Rawtar at the Valley of Spirits in Orgrimmar.",
+  "d": "I'm not standing here just to get a nice tan, $c. There are war preparations to be made. If we're going to crush those bugs at Ahn'Qiraj then we need to be ready, and that includes food too!$B$BThey have me gathering and salting lean wolf steaks here for the upcoming war. But since I need to stay here to take care of all of this, I need you to go out, kill some wolves and then cook up the meat into lean wolf steaks and bring them back to me here. You got all that?",
+  "p": "The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.$B$BWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",
+  "c": "Wonderful, $c! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.$B$BI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.$B$BThank you again, $c."
+ },
+ {
+  "id": 8612,
+  "t": "The Horde Needs More Lean Wolf Steaks!",
+  "o": "",
+  "d": "",
+  "p": "As you can see, $C, we still need to pack away more food for the soldiers. I don't know if you've ever been in a war before, but once you get past the initial shock of the battlefield, you can get pretty hungry. You did a good job last time, so I expect that you'll do as well, if not a little quicker, in getting me another stack of those lean wolf steaks.",
+  "c": "Smells like you, or someone you know, are quite the cook, $N. Those lean wolf steaks are making my mouth water; I suppose a few going missing won't be noticed. Anyway, good work. I'll make sure someone packs them away right so that they don't spoil too much. $B$BIf you come across more, you know where to find me."
+ },
+ {
+  "id": 8613,
+  "t": "The Horde Needs Spotted Yellowtail!",
+  "o": "Bring 20 Spotted Yellowtail to Fisherman Lin'do at the Valley of Spirits in Orgrimmar.",
+  "d": "It be a nice day for fishin', don't'cha think mon? Good thing, cuz I be needin' a lot of fish it lookin' like. The Horde, they askin' me to be in charge of collectin' a ton of the spotted yellowtail for them. They say they needin' it for the war they getting' ready for at Ahn'Qiraj. I say to them I do the best I can. So I be needin' to get some help. You gonna be helpin' me, $c?",
+  "p": "The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.$B$BWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",
+  "c": "Wonderful, $c! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.$B$BI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.$B$BThank you again, $c."
+ },
+ {
+  "id": 8614,
+  "t": "The Horde Needs More Spotted Yellowtail!",
+  "o": "",
+  "d": "",
+  "p": "So as you can see, we still be needin' a lot of the fishies. The combatants in the upcomin' Ahn'Qiraj War gonna be needin' a lot to eat, so I needin' to get all the spotted yellowtail that I can. You catch 'em, cook 'em, and bringin' 'em back to me here, and I be givin' you thanks, and the thanks of the Horde.",
+  "c": "That be the best catch yet, $N! Good, honest work right there. And no bones too! Thanks goin' out to you for this spotted yellowtail here mon. Come back soon if you cookin' up some more!"
+ },
+ {
+  "id": 8615,
+  "t": "The Horde Needs Baked Salmon!",
+  "o": "Bring 20 Baked Salmon to Chief Sharpclaw at the Valley of Spirits in Orgrimmar.",
+  "d": "The Ahn'Qiraj war effort is an immense undertaking, $c. All of the materials being gathered here, whether it is metal for weapons, or food to eat, are all as important as the other. For, if you haven't eaten in days you will not have the strength to lift your axe when it matters.$B$BThus, we gather what food we can. I am collecting baked salmon, a dish that was chosen both for its sustenance and its ability to keep well. Can you aid me with this task, $c?",
+  "p": "The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.$B$BWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",
+  "c": "Wonderful, $c! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.$B$BI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.$B$BThank you again, $c."
+ },
+ {
+  "id": 8616,
+  "t": "The Horde Needs More Baked Salmon!",
+  "o": "",
+  "d": "",
+  "p": "The last batch of baked salmon that you donated to the war effort looked very delicious, $C. I must admit that I was tempted to take a few for myself. As you can tell, we have not yet reached our quota here. I am hoping you have returned because you have another stack of baked salmon with you.",
+  "c": "Your donation of time and energy to the war effort goes above and beyond, $n. I assure you that your labors have not gone unnoticed. You have my thanks, and the gratitude of the Horde. Please return to me again should you bake up another batch."
+ },
+ {
+  "id": 8617,
+  "t": "The Horde Needs Singed Corestones!",
+  "o": "Bring 50 singed corestones to General Zog in Durotar.",
+  "d": "The time has come for you to contribute to the Ahn'Qiraj war effort, $c. Gone are the halcyon days of whiling away your time in leisure. Now it is time to serve me and the Horde, and I assure you that I am not as forgiving as the Warchief.$B$BYou will gather your forces, a guild if you have one, and invade the Molten Core. Inside you will find that the denizens of the place have singed corestones. Bring these back to me in large quantities.",
+  "p": "",
+  "c": ""
+ },
+ {
+  "id": 8619,
+  "t": "Morndeep the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8620,
+  "t": "The Only Prescription",
+  "o": "Recover the 8 lost chapters of Draconic for Dummies and combine them with the Magical Book Binding and return the completed book of Draconic for Dummies: Volume II to Narain Soothfancy in Tanaris.",
+  "d": "I should have known. My arch-enemy, Doctor Weavil, up to his old tricks! And now, thanks to your failure in Winterspring, Doctor Weavil has destroyed my book! How are you going to save the world now, hero?$B$BThe note I received stated that the only known copy of \"Draconic for Dummies: Volume II\" was ripped into 8 parts and scattered to the wind! If you somehow manage to find those missing chapters, use this magical binding to put them back together and return to me.",
+  "p": "I put my pants on just like you - one leg at a time. Except when my pants are on, I make arcanite buoys. Arcanite buoys, baby!",
+  "c": "Fantastic! I can't believe you went through the hassle! Are you some kind of machine? If it were me, I would have probably just let the world implode.$B$BI tip my turban to you, sir. And no good deed should go unrewarded."
+ },
+ {
+  "id": 8621,
+  "t": "Stormcaller's Footguards",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Clay Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8622,
+  "t": "Stormcaller's Hauberk",
+  "o": "Bring the Carapace of the Old God, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8623,
+  "t": "Stormcaller's Diadem",
+  "o": "Bring Vek'lor's Diadem, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8624,
+  "t": "Stormcaller's Leggings",
+  "o": "Bring the Skin of the Great Sandworm, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8625,
+  "t": "Enigma Shoulderpads",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Death, 5 Stone Scarabs and 5 Bronze Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal.  May they grant you the protection you need and may the sight of them strike fear into our enemies.  "
+ },
+ {
+  "id": 8626,
+  "t": "Striker's Footguards",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of Life, 5 Stone Scarabs and 5 Bone Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8627,
+  "t": "Avenger's Breastplate",
+  "o": "Bring the the Carapace of the Old God, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8628,
+  "t": "Avenger's Crown",
+  "o": "Bring Vek'lor's Diadem, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8629,
+  "t": "Avenger's Legguards",
+  "o": "Bring the Skin of the Great Sandworm, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "Did you bring the components I require, $N?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8630,
+  "t": "Avenger's Pauldrons",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of Life, 5 Crystal Scarabs and 5 Gold Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8631,
+  "t": "Enigma Leggings",
+  "o": "Bring Ouro's Intact Hide, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8632,
+  "t": "Enigma Circlet",
+  "o": "Bring Vek'nilash's Circlet, 2 Idols of Night, 5 Bronze Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8633,
+  "t": "Enigma Robes",
+  "o": "Bring the Husk of the Old God, 2 Idols of the Sun, 5 Gold Scarabs and 5 Clay Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay their power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8634,
+  "t": "Enigma Boots",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of the Sun, 5 Silver Scarabs and 5 Crystal Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8635,
+  "t": "Splitrock the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The battles of ages past are seeds from which legends grow. Yours is a time of heroes, young one. May your legend take root, thrive.$B$BI bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8636,
+  "t": "Rumblerock the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "The stuff of life is doomed to die and return to the earth, but the stuff of spirit lives eternal. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8637,
+  "t": "Deathdealer's Boots",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of Strife, 5 Crystal Scarabs and 5 Bone Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8638,
+  "t": "Deathdealer's Vest",
+  "o": "Bring the the Carapace of the Old God, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8639,
+  "t": "Deathdealer's Helm",
+  "o": "Bring Vek'lor's Diadem, 2 Idols of the War, 5 Gold Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will give you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ },
+ {
+  "id": 8640,
+  "t": "Deathdealer's Leggings",
+  "o": "Bring Ouro's Intact Hide, 2 Idols of Night, 5 Stone Scarabs and 5 Crystal Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.$B$BThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.$B$BHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.$B$BBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "p": "You've acquired the items I requested, $n?",
+  "c": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!"
+ },
+ {
+  "id": 8641,
+  "t": "Deathdealer's Spaulders",
+  "o": "Bring the Qiraji Bindings of Command, 2 Idols of the Sun, 5 Silver Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.$B$BBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "p": "Have you collected the components I require?",
+  "c": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies."
+ },
+ {
+  "id": 8642,
+  "t": "Silvervein the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8643,
+  "t": "Highpeak the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8644,
+  "t": "Stonefort the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8645,
+  "t": "Obsidian the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8646,
+  "t": "Hammershout the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8647,
+  "t": "Bellowrage the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8648,
+  "t": "Darkcore the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8649,
+  "t": "Stormbrow the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8650,
+  "t": "Snowcrown the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8651,
+  "t": "Ironband the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8652,
+  "t": "Graveborn the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8653,
+  "t": "Goldwell the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races. I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8654,
+  "t": "Primestone the Elder",
+  "o": "",
+  "d": "",
+  "p": "",
+  "c": "It is good to know the people of this land still pay homage to the olden races.  I bid you well, $N, and offer you this token..."
+ },
+ {
+  "id": 8655,
+  "t": "Avenger's Greaves",
+  "o": "Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Clay Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",
+  "d": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.$B$BBring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.$B$BYou will find them useful in the fight against the enemy.",
+  "p": "You've acquired the items I requested, $N?",
+  "c": "You've done well, $N. You've proven you're no ordinary mortal.$B$BI give you these with the confidence they'll aid you in crushing the vile qiraji."
+ },
+ {
+  "id": 8656,
+  "t": "Striker's Hauberk",
+  "o": "Bring the the Carapace of the Old God, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.$B$BWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.$B$BDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "p": "At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",
+  "c": "I did not expect you to return from your attempt, $N.$B$BYou've fulfilled a destiny greater than that of most immortal beings.$B$BBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.$B$BAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.$B$BMay its power aid you in the challenges that await you, god-slayer!"
+ },
+ {
+  "id": 8657,
+  "t": "Striker's Diadem",
+  "o": "Bring Vek'lor's Diadem, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",
+  "d": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.$B$BIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.$B$BBring me the components I require, $N.  I will make you a headpiece of unmatched power.",
+  "p": "Did you bring me the components I asked for, $N?",
+  "c": "You've succeeded! The whispers from the Twin Emperors have ceased.$B$BTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them."
+ }
+]

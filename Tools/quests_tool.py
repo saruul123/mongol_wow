@@ -4,6 +4,7 @@
   import  - questcache.wdb болон SavedVariables-ээс англи текст цуглуулж
             pending.json (орчуулах), хараахан орчуулагдаагүйг гаргана
   build   - quests_mn.json -> ../Data/Quests_mn.lua
+  merge_id <chunk.json> - ID-тай орчуулсан chunk-ийг нэгтгэнэ (давхардсан нэрийг v=[...]-ээр ялгана)
 
 quests_mn.json:  { "English title": {"t": "...", "d": "...", "o": "...", "p": "...", "c": "..."} }
 pending.json  :  { "English title": {"d": "...", "o": "..."} }  (orchuulgagui)
@@ -191,10 +192,19 @@ def cmd_build():
         "MongolWoW_Quests = MongolWoW_Quests or {}",
         "local Q = MongolWoW_Quests",
     ]
+    def fmt(rec, extra=()):
+        keys = tuple(extra) + ("t", "d", "o", "p", "c")
+        return ", ".join(f"{k}={lua_str(rec[k])}" for k in keys if rec.get(k))
+
     for title in sorted(translated):
         rec = translated[title]
-        fields = ", ".join(f"{k}={lua_str(rec[k])}" for k in ("t", "d", "o", "p", "c") if rec.get(k))
-        lines.append(f"Q[{lua_str(title)}] = {{ {fields} }}")
+        if rec.get("v"):  # давхардсан нэр: хувилбарууд (k = англи зорилгын түлхүүр)
+            parts = [f"{{ {fmt(v, ('k',))} }}" for v in rec["v"]]
+            head = fmt(rec)
+            head = head + ", " if head else ""
+            lines.append(f"Q[{lua_str(title)}] = {{ {head}v = {{ {', '.join(parts)} }} }}")
+        else:
+            lines.append(f"Q[{lua_str(title)}] = {{ {fmt(rec)} }}")
     with open(LUA_OUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print(f"{len(translated)} quest -> {os.path.normpath(LUA_OUT)}")
@@ -209,6 +219,51 @@ def cmd_merge(path):
     print(f"{len(batch)} quest нэмэгдэв, нийт {len(translated)}")
     cmd_build()
     cmd_import()
+
+
+KEYLEN = 40  # Quests.lua-н KEYLEN-тэй ижил байх ёстой
+
+
+def make_key(q):
+    """Англи зорилго (байхгүй бол тайлбар)-оос түлхүүр: '$' хүртэлх хэсэг, үсэг/тоо, жижиг, 40 тэмдэгт."""
+    text = q.get("obj") or q.get("desc") or ""
+    text = text.split("$")[0]
+    return re.sub(r"[^0-9a-z]", "", text.lower())[:KEYLEN]
+
+
+def cmd_merge_id(path):
+    """ID-тай орчуулсан chunk ([{id,t,o,d,p,c}]) -> quests_mn.json.
+    Нэр өвөрмөц бол энгийн бичлэг, давхардсан бол v=[{k,...}] хувилбар болгоно."""
+    src = load_json(os.path.join(HERE, "acore_quests_en.json"))
+    cnt = {}
+    for q in src.values():
+        cnt[q["title"]] = cnt.get(q["title"], 0) + 1
+    translated = load_json(TRANSLATED)
+    batch = load_json(path)
+    added = warn = 0
+    for item in batch:
+        en = src.get(str(item["id"]))
+        if not en:
+            print("ID олдсонгүй:", item["id"])
+            continue
+        title = en["title"]
+        rec = {k: item[k] for k in ("t", "d", "o", "p", "c") if item.get(k)}
+        if cnt[title] == 1:
+            translated[title] = rec
+        else:
+            cur = translated.get(title)
+            if not isinstance(cur, dict) or "v" not in cur:
+                cur = {"v": [], **({k: cur[k] for k in cur} if cur else {})}
+                cur["v"] = []
+            rec["k"] = make_key(en)
+            if not rec["k"]:
+                warn += 1
+            cur["v"] = [v for v in cur["v"] if v.get("k") != rec["k"]] + [rec]
+            translated[title] = cur
+        added += 1
+    save_json(TRANSLATED, translated)
+    print(f"{added} quest нэмэгдэв ({warn} хоосон түлхүүр), нийт {len(translated)} нэр")
+    cmd_build()
 
 
 def cmd_next(count):
@@ -231,6 +286,8 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd == "merge" and len(sys.argv) > 2:
         cmd_merge(sys.argv[2])
+    elif cmd == "merge_id" and len(sys.argv) > 2:
+        cmd_merge_id(sys.argv[2])
     elif cmd == "next":
         cmd_next(int(sys.argv[2]) if len(sys.argv) > 2 else 20)
     elif cmd == "import":
