@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: MongolWoW |cff00ccff(Монгол)|r
+## Notes: Монгол хэлний орчуулга - quest, tooltip, UI
+## Author: saruul
+## Version: 0.1.0
+## SavedVariables: MongolWoWDB
+
+Locale\mnMN.lua
+Locale\ui_mn.lua
+Locale\ui_mn2.lua
+Core.lua
+Fonts.lua
+UI.lua
+Data\Quests_mn.lua
+Quests.lua
+Options.lua
