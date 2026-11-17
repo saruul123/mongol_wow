@@ -62,87 +62,113 @@ local function Pick(title, key)
     return LAST[title] or (rec.t and rec) or rec.v[1]
 end
 
--- english-ийг DATA-аас хайж fs-д тавина; байхгүй бол capture хийнэ
--- key: хувилбар ялгах англи текст (зорилго эсвэл тайлбар)
-local function Do(title, field, fs, english, key)
-    if not title or title == "" or not fs then return end
-    local rec = Pick(title, key)
-    local tr = rec and rec[field]
-    if tr then
-        fs:SetText(Expand(tr))
-        local _, size, flags = fs:GetFont()
-        if size then fs:SetFont(FONT, size, flags) end
-    elseif field ~= "t" then
-        Capture(title, field, english)
-    end
-end
+local function On() return MongolWoW.IsActive("quests") end
 
 local function KeyOf(o, d)
     if o and o ~= "" then return o end
     return d
 end
 
-local function On() return MongolWoW.IsActive("quests") end
-
--- ---------- NPC quest цонхууд ----------
-local function Detail()
-    if not On() then return end
-    local title = GetTitleText()
-    local d, o = GetQuestText(), GetObjectiveText()
-    local key = KeyOf(o, d)
-    Do(title, "t", QuestTitleText, nil, key)
-    Do(title, "d", QuestDescription, d, key)
-    Do(title, "o", QuestObjectiveText, o, key)
+-- Орчуулгыг буцаана (Expand хийсэн); байхгүй бол nil + англи текстийг capture хийнэ
+local function Tr(title, field, english, key)
+    if not On() or not title or title == "" then return nil end
+    local rec = Pick(title, key)
+    local tr = rec and rec[field]
+    if tr and tr ~= "" then return Expand(tr) end
+    if field ~= "t" then Capture(title, field, english) end
+    return nil
 end
 
-local function Progress()
-    if not On() then return end
-    local title = GetTitleText()
-    Do(title, "t", QuestProgressTitleText)
-    Do(title, "p", QuestProgressText, GetProgressText())
+-- 3.3.5-ийн quest цонх (QuestInfo_*) текстээ эдгээр API-аас авдаг тул
+-- API-г wrap хийснээр NPC detail/progress/reward болон quest log бүгд орчуулагдана.
+local oGetTitleText = GetTitleText
+local oGetQuestText = GetQuestText
+local oGetObjectiveText = GetObjectiveText
+local oGetProgressText = GetProgressText
+local oGetRewardText = GetRewardText
+local oGetQuestLogQuestText = GetQuestLogQuestText
+local oGetQuestLogTitle = GetQuestLogTitle
+
+function GetTitleText()
+    local t = oGetTitleText()
+    local d, o = oGetQuestText(), oGetObjectiveText()
+    return Tr(t, "t", nil, KeyOf(o, d)) or t
 end
 
-local function Reward()
-    if not On() then return end
-    local title = GetTitleText()
-    Do(title, "t", QuestRewardTitleText)
-    Do(title, "c", QuestRewardText, GetRewardText())
+function GetQuestText()
+    local d = oGetQuestText()
+    local title = oGetTitleText()
+    return Tr(title, "d", d, KeyOf(oGetObjectiveText(), d)) or d
 end
 
-if QuestFrameDetailPanel_OnShow then hooksecurefunc("QuestFrameDetailPanel_OnShow", Detail) end
-if QuestFrameProgressPanel_OnShow then hooksecurefunc("QuestFrameProgressPanel_OnShow", Progress) end
-if QuestFrameRewardPanel_OnShow then hooksecurefunc("QuestFrameRewardPanel_OnShow", Reward) end
+function GetObjectiveText()
+    local o = oGetObjectiveText()
+    local title = oGetTitleText()
+    return Tr(title, "o", o, KeyOf(o, oGetQuestText())) or o
+end
 
--- ---------- Quest log ----------
-local function LogDetails()
-    if not On() then return end
+function GetProgressText()
+    local p = oGetProgressText()
+    return Tr(oGetTitleText(), "p", p) or p
+end
+
+function GetRewardText()
+    local c = oGetRewardText()
+    return Tr(oGetTitleText(), "c", c) or c
+end
+
+local function LogTitle()
     local sel = GetQuestLogSelection()
-    if not sel or sel == 0 then return end
-    local title, _, _, _, isHeader = GetQuestLogTitle(sel)
-    if not title or isHeader then return end
-    -- 3.3.5: GetQuestLogQuestText() нь (description, objectives) буцаадаг
-    local d, o = GetQuestLogQuestText()
-    local key = KeyOf(o, d)
-    Do(title, "t", QuestLogQuestTitle, nil, key)
-    Do(title, "d", QuestLogQuestDescription, d, key)
-    Do(title, "o", QuestLogObjectivesText, o, key)
-    if QuestLogDetailScrollFrame and QuestLogDetailScrollFrame.UpdateScrollChildRect then
-        QuestLogDetailScrollFrame:UpdateScrollChildRect()
-    end
+    if not sel or sel == 0 then return nil end
+    local title, _, _, _, isHeader = oGetQuestLogTitle(sel)
+    if not title or isHeader then return nil end
+    return title
 end
-if QuestLog_UpdateQuestDetails then hooksecurefunc("QuestLog_UpdateQuestDetails", LogDetails) end
 
--- Scroll хэмжээ: NPC цонхонд ч мөн шинэчилнэ
-local function Rescroll()
-    if QuestDetailScrollFrame and QuestDetailScrollFrame.UpdateScrollChildRect then
-        QuestDetailScrollFrame:UpdateScrollChildRect()
-    end
-    if QuestRewardScrollFrame and QuestRewardScrollFrame.UpdateScrollChildRect then
-        QuestRewardScrollFrame:UpdateScrollChildRect()
-    end
+function GetQuestLogQuestText()
+    local d, o = oGetQuestLogQuestText()
+    local title = LogTitle()
+    if not title then return d, o end
+    local key = KeyOf(o, d)
+    return Tr(title, "d", d, key) or d, Tr(title, "o", o, key) or o
 end
-if QuestFrameDetailPanel then QuestFrameDetailPanel:HookScript("OnShow", Rescroll) end
-if QuestFrameRewardPanel then QuestFrameRewardPanel:HookScript("OnShow", Rescroll) end
+
+-- Quest log-ийн гарчиг (QuestInfo-н гарчиг GetQuestLogTitle-аас авдаг)
+local function SetLogTitle()
+    if not On() then return end
+    local title = LogTitle()
+    if not title then return end
+    local d, o = oGetQuestLogQuestText()
+    local tr = Tr(title, "t", nil, KeyOf(o, d))
+    if not tr then return end
+    if QuestInfoTitleHeader then QuestInfoTitleHeader:SetText(tr) end
+    if QuestLogQuestTitle then QuestLogQuestTitle:SetText(tr) end
+end
+if QuestLog_UpdateQuestDetails then hooksecurefunc("QuestLog_UpdateQuestDetails", SetLogTitle) end
+
+-- Quest log жагсаалт + quest tracker (WatchFrame): quest-ийн нэрийг орчуулна.
+-- Өмнө нь oGetQuestLogTitle-ийг дотоод хайлтдаа ашигласан тул англи нэрээр хайна.
+local function WrapTitle(title, level, tag, group, isHeader, ...)
+    if title and not isHeader and On() then
+        local rec = Pick(title)
+        local tr = rec and rec.t
+        if tr and tr ~= "" then title = Expand(tr) end
+    end
+    return title, level, tag, group, isHeader, ...
+end
+function GetQuestLogTitle(i)
+    return WrapTitle(oGetQuestLogTitle(i))
+end
+
+-- Зорилгын мөр ("Kobold Vermin slain: 0/8"): нэр хэвээр, "slain"-ийг орчуулна
+local oGetQuestLogLeaderBoard = GetQuestLogLeaderBoard
+function GetQuestLogLeaderBoard(i, q)
+    local text, kind, done = oGetQuestLogLeaderBoard(i, q)
+    if text and On() then
+        text = text:gsub("^(.-) slain:", "%1 алагдсан:")
+    end
+    return text, kind, done
+end
 
 -- /mn quests: хэдэн quest цугларсан/орчуулагдсаныг харуулна
 function MongolWoW.QuestStats()
