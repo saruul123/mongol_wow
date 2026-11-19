@@ -10,6 +10,9 @@ by = {o["id"]: o for o in out}
 PH = re.compile(r"\$[A-Za-z]|\$[gG][^;]*;")
 LAT = re.compile(r"[A-Za-z]"); CYR = re.compile(r"[А-Яа-яӨөҮүЁё]")
 bad = 0
+import os
+GL = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "glossary.json"), encoding="utf-8"))["tr"]
+LEFT = [w for w in GL if " " not in w and w not in ("keep","hold","quest","kill","gold","silver","copper","mage")]
 def report(qid, msg):
     global bad; bad += 1; print("id %s: %s" % (qid, msg))
 for q in src:
@@ -31,5 +34,8 @@ for q in src:
         for w in re.findall(r"[A-Za-zА-Яа-яӨөҮүЁё]+", PH.sub(" ", mn)):
             if LAT.search(w) and CYR.search(w):
                 report(q["id"], "%s: латин/кирилл холилдсон үг '%s'" % (k, w))
+        for w in re.findall(r"[a-z]+", PH.sub(" ", mn)):
+            if w in LEFT and not re.search(r"[A-Z][a-z]*\W+" + w, mn, re.I):
+                report(q["id"], "%s: нийтлэг үг орчуулаагүй '%s' -> %s" % (k, w, GL[w]))
 print("ДУУСЛАА: %d quest, алдаа %d" % (len(src), bad))
 sys.exit(1 if bad else 0)

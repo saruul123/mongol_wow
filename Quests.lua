@@ -79,6 +79,16 @@ local function Tr(title, field, english, key)
     return nil
 end
 
+-- Бусад модуль (Gossip.lua)-д зориулсан экспорт
+MongolWoW.Expand = Expand
+function MongolWoW.QuestTitle(title)
+    if not On() or not title or title == "" then return nil end
+    local rec = Pick(title)
+    local tr = rec and rec.t
+    if tr and tr ~= "" then return Expand(tr) end
+    return nil
+end
+
 -- 3.3.5-ийн quest цонх (QuestInfo_*) текстээ эдгээр API-аас авдаг тул
 -- API-г wrap хийснээр NPC detail/progress/reward болон quest log бүгд орчуулагдана.
 local oGetTitleText = GetTitleText
